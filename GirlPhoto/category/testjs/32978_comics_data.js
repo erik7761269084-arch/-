@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32978,
+    "title": "Bambi 밤비, [SAINT Photolife] BAMBI Vol.02 &#8211; Set.01",
+    "sourceUrl": "https://telegra.ph/Bambi-밤비-SAINT-Photolife-BAMBI-Vol02-8211-Set01-01-19",
+    "images": [
+        "https://telegra.ph/file/3b5afe55f26886338a8a1.jpg",
+        "https://telegra.ph/file/93fe2a33b9d36593371f7.jpg",
+        "https://telegra.ph/file/7be2741a2f9999bfc2219.jpg",
+        "https://telegra.ph/file/c723713ebac72c042b870.jpg",
+        "https://telegra.ph/file/0f5792bd58a01a76e61d2.jpg",
+        "https://telegra.ph/file/8ac56f87838e0d8fac3f9.jpg",
+        "https://telegra.ph/file/d7031d4eae480489bfa7e.jpg",
+        "https://telegra.ph/file/1b6e32d9b6243a7b97216.jpg",
+        "https://telegra.ph/file/35595da5bdcd269118d08.jpg",
+        "https://telegra.ph/file/c971fd7392beff2a1992d.jpg",
+        "https://telegra.ph/file/a14d0bf4eca75ae1cf173.jpg",
+        "https://telegra.ph/file/b39fe165c8f1a1695d2e1.jpg",
+        "https://telegra.ph/file/13042a3e1ec26f447bee3.jpg",
+        "https://telegra.ph/file/f2a3addc729eaac8d49a7.jpg",
+        "https://telegra.ph/file/cba8fa9345d174a4257cc.jpg",
+        "https://telegra.ph/file/ba5e1baf95a9a85ac3d54.jpg",
+        "https://telegra.ph/file/679bb1521585ba028bb91.jpg",
+        "https://telegra.ph/file/70a6f5f7be6e6dba1fe25.jpg",
+        "https://telegra.ph/file/cdb214c0b432ac9951490.jpg",
+        "https://telegra.ph/file/54c11a668241374a9031d.jpg",
+        "https://telegra.ph/file/8e7d7c65a880934cabae0.jpg",
+        "https://telegra.ph/file/ee4a0fe03e1cb47ed5a27.jpg",
+        "https://telegra.ph/file/1b18cdce4de935ba77743.jpg",
+        "https://telegra.ph/file/0d466103039e928e2e901.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

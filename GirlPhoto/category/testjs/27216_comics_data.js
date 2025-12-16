@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27216,
+    "title": "一见倾心五周年4K壁纸 - 国风篇[320P]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%80%E8%A7%81%E5%80%BE%E5%BF%83%E4%BA%94%E5%91%A8%E5%B9%B44K%E5%A3%81%E7%BA%B8---%E5%9B%BD%E9%A3%8E%E7%AF%87320P-09-26",
+    "images": [
+        "https://telegra.ph/file/23c54ec1305953908751c.jpg",
+        "https://telegra.ph/file/69d4933b2ca5736e61ed8.jpg",
+        "https://telegra.ph/file/dc93ed9af096b176baa78.jpg",
+        "https://telegra.ph/file/07d13079dabd97dee5546.jpg",
+        "https://telegra.ph/file/87a7adcca8ac4b27fc32f.jpg",
+        "https://telegra.ph/file/abdc22f2f9523742c2367.jpg",
+        "https://telegra.ph/file/e8cbefdce108f5b5fcb4c.jpg",
+        "https://telegra.ph/file/ff0079b4cb2564569510c.jpg",
+        "https://telegra.ph/file/5bff07335093360c9509e.jpg",
+        "https://telegra.ph/file/89243933601500f52b8b5.jpg",
+        "https://telegra.ph/file/1dcee93659d2a7ffe348b.jpg",
+        "https://telegra.ph/file/48d8165a0e7f0e0e53410.jpg",
+        "https://telegra.ph/file/9882bbc672cc786a5c5c3.jpg",
+        "https://telegra.ph/file/69e08e3e0097240d63bee.jpg",
+        "https://telegra.ph/file/4fd70b0a8ad8ea5c5c1e8.jpg",
+        "https://telegra.ph/file/35d778d3dfe903749c258.jpg",
+        "https://telegra.ph/file/6d244cdaad6ee37036628.jpg",
+        "https://telegra.ph/file/3a198c6b9e8e56dc9d244.jpg",
+        "https://telegra.ph/file/1aa17624c29347f8d6e02.jpg",
+        "https://telegra.ph/file/307c454f0568335ddd0ac.jpg",
+        "https://telegra.ph/file/ddb75459f3a907e555ef6.jpg",
+        "https://telegra.ph/file/826fb770deda35a1bdc54.jpg",
+        "https://telegra.ph/file/2d9262b241c05277d2f48.jpg",
+        "https://telegra.ph/file/e9823a95ea76e31e4eee1.jpg",
+        "https://telegra.ph/file/7bcfabc0492a4692375e4.jpg",
+        "https://telegra.ph/file/756fdd0c5f8d1b431015a.jpg"
+    ]
+};

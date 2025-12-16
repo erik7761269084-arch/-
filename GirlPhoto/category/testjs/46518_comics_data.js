@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46518,
+    "title": "[HK&SYR] Today's Menu (Ganyu x Keqing) - Page 1",
+    "sourceUrl": "https://telegra.ph/HKSYR-Todays-Menu-Ganyu-x-Keqing---Page-1-01-09",
+    "images": [
+        "https://telegra.ph/file/4a8fbf75fe28752939e11.jpg",
+        "https://telegra.ph/file/558843c4095d5bc143c59.jpg",
+        "https://telegra.ph/file/8521169d8f8c624037724.jpg",
+        "https://telegra.ph/file/c61aefd74bd9c0715750f.jpg",
+        "https://telegra.ph/file/df5925f1b04539c95eff3.jpg",
+        "https://telegra.ph/file/7cd72a1b536aebb1e3a94.jpg",
+        "https://telegra.ph/file/cc02d317e05a086474b97.jpg",
+        "https://telegra.ph/file/67938f2e8409ed4f30d78.jpg",
+        "https://telegra.ph/file/678a3c3095a351fa03db4.jpg",
+        "https://telegra.ph/file/27e8511a3e36734d1916e.jpg",
+        "https://telegra.ph/file/bb0617dbd1c9a671d0ba9.jpg",
+        "https://telegra.ph/file/61b9c1c6626b803bba7c4.jpg",
+        "https://telegra.ph/file/c27f5a143d14811650789.jpg",
+        "https://telegra.ph/file/648095221d6ac2bc81822.jpg",
+        "https://telegra.ph/file/c11ecadff86b443dae012.jpg",
+        "https://telegra.ph/file/524d84df3bace3a38c81d.jpg",
+        "https://telegra.ph/file/cfe66801726a051d54fd4.jpg",
+        "https://telegra.ph/file/7872e24f7244d1c437e15.jpg",
+        "https://telegra.ph/file/95ce112a5c8b39624f34b.jpg",
+        "https://telegra.ph/file/bb35af114285202c0c484.jpg",
+        "https://telegra.ph/file/01e2cbd4b54f8ff7c354b.jpg",
+        "https://telegra.ph/file/06cb3882b233eb27100bd.jpg",
+        "https://telegra.ph/file/0fb419fa9d71963a5250f.jpg",
+        "https://telegra.ph/file/20a6d143d5dd70a2ead19.jpg"
+    ]
+};

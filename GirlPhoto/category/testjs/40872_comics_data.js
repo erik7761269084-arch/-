@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40872,
+    "title": "Mikomin - Maid",
+    "sourceUrl": "https://telegra.ph/Mikomin---Maid-11-01",
+    "images": [
+        "https://telegra.ph/file/ef70636ce36b1aba201a3.jpg",
+        "https://telegra.ph/file/3600eb2f5a839f726385b.jpg",
+        "https://telegra.ph/file/fca068bb2633409ca8e51.jpg",
+        "https://telegra.ph/file/642f1821c3fdf351ae8ec.jpg",
+        "https://telegra.ph/file/140cb50286c339e319a3e.jpg",
+        "https://telegra.ph/file/4d44540f4ff2af61f880a.jpg",
+        "https://telegra.ph/file/5f9bb198a94e54f668811.jpg",
+        "https://telegra.ph/file/2804108ff06725f874b20.jpg",
+        "https://telegra.ph/file/90ef9aeafd1bce94c5f86.jpg",
+        "https://telegra.ph/file/d84a0a05c1841a46fbb95.jpg",
+        "https://telegra.ph/file/d74e4e6ae60dd6aece1ca.jpg",
+        "https://telegra.ph/file/10a72d311a1d016039b8f.jpg",
+        "https://telegra.ph/file/27906c102173391447906.jpg",
+        "https://telegra.ph/file/5727aca8db744de936ddd.jpg",
+        "https://telegra.ph/file/d1a8a97bfb014317135f3.jpg",
+        "https://telegra.ph/file/0497d0c60c361d6bd897c.jpg",
+        "https://telegra.ph/file/b4f007468db9439f05a6e.jpg",
+        "https://telegra.ph/file/0d852f99abf763fea1eeb.jpg",
+        "https://telegra.ph/file/3a3ba2dcbbb95ca9654f7.jpg",
+        "https://telegra.ph/file/a53582b9ae5f5effb1e92.jpg",
+        "https://telegra.ph/file/255f9f4628a995383389c.jpg",
+        "https://telegra.ph/file/61f8aa27338ea026cbb3d.jpg",
+        "https://telegra.ph/file/3d7887296531c982de322.jpg",
+        "https://telegra.ph/file/fe72fb4b09e87fb878776.jpg",
+        "https://telegra.ph/file/0ddcaf4eb646b4bc2dfbc.jpg",
+        "https://telegra.ph/file/6fcc819ac974233716286.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43231,
+    "title": "KuukoW - Ring FIt",
+    "sourceUrl": "https://telegra.ph/KuukoW---Ring-FIt-09-12",
+    "images": [
+        "https://telegra.ph/file/375f0dd254626a5d56540.jpg",
+        "https://telegra.ph/file/46baa9bb041f3ae78427a.jpg",
+        "https://telegra.ph/file/cf1a4d0d8d278f5403d28.jpg",
+        "https://telegra.ph/file/54507f7894bbefd286c1d.jpg",
+        "https://telegra.ph/file/43e691bc09fac883f49a1.jpg",
+        "https://telegra.ph/file/8b1f62d932e8f822be4df.jpg",
+        "https://telegra.ph/file/6d29691433f30eaf44395.jpg",
+        "https://telegra.ph/file/9b78a27216bbef9733d7a.jpg",
+        "https://telegra.ph/file/07d107a0165da925265da.jpg",
+        "https://telegra.ph/file/c065d860dae9b5936a494.jpg",
+        "https://telegra.ph/file/f208b1ad513aa8fd34782.jpg",
+        "https://telegra.ph/file/b3e7faa417826ee373389.jpg",
+        "https://telegra.ph/file/1187fd0081d5d31670a61.jpg",
+        "https://telegra.ph/file/744790a4136a27b1e293e.jpg",
+        "https://telegra.ph/file/d08f49c85c0f76987ed3e.jpg",
+        "https://telegra.ph/file/d19b317bb47c042b55d2a.jpg",
+        "https://telegra.ph/file/6ecbbdbe21613c32935a1.jpg",
+        "https://telegra.ph/file/10fbd3804e31ef65b9e1c.jpg",
+        "https://telegra.ph/file/0e52df9d1fe5b24b9a4cd.jpg",
+        "https://telegra.ph/file/f2108239f5afa81e0a1b9.jpg",
+        "https://telegra.ph/file/7639382f25f50d3bff457.jpg",
+        "https://telegra.ph/file/10032032f25f1e2988fe0.jpg",
+        "https://telegra.ph/file/17b1f0abd260bb97a9c0b.jpg",
+        "https://telegra.ph/file/85fc34ce84f5265810377.jpg"
+    ]
+};

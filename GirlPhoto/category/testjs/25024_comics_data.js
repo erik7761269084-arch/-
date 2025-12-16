@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25024,
+    "title": "果咩酱w NO.006 春天[24P1V-163MB]",
+    "sourceUrl": "https://telegra.ph/%E6%9E%9C%E5%92%A9%E9%85%B1w-NO006-%E6%98%A5%E5%A4%A924P1V-163MB-01-05",
+    "images": [
+        "https://telegra.ph/file/11f222814ff80ac17d94a.jpg",
+        "https://telegra.ph/file/6ee3e08e3cc677920e5b3.jpg",
+        "https://telegra.ph/file/90f79e899579ca1927f69.jpg",
+        "https://telegra.ph/file/41e449657dfc452f09916.jpg",
+        "https://telegra.ph/file/f65837fa7150086409114.jpg",
+        "https://telegra.ph/file/a6ecb009b669319f60d78.jpg",
+        "https://telegra.ph/file/297c2e39174f890067a79.jpg",
+        "https://telegra.ph/file/293d8b705f740e68d952d.jpg",
+        "https://telegra.ph/file/ff7ef113bc6023031d344.jpg",
+        "https://telegra.ph/file/972ff365e725dc4a13bf7.jpg",
+        "https://telegra.ph/file/644d6b09baf26f4cc094c.jpg",
+        "https://telegra.ph/file/313b1f10fb7fdbca10f75.jpg",
+        "https://telegra.ph/file/1dedd143155c0e6849d8c.jpg",
+        "https://telegra.ph/file/463ff291628ef75de739f.jpg",
+        "https://telegra.ph/file/7f5a6ef594ac83fb06cf2.jpg",
+        "https://telegra.ph/file/25c9088e4615666f4b196.jpg",
+        "https://telegra.ph/file/75400ee9900e0ef5cb72d.jpg",
+        "https://telegra.ph/file/425d4dc1f5a929c09ca25.jpg",
+        "https://telegra.ph/file/f3f7ba4cb7af71ca02ee2.jpg",
+        "https://telegra.ph/file/61371b3a3eb7e6e7dd0d7.jpg",
+        "https://telegra.ph/file/a222487b8529680776751.jpg",
+        "https://telegra.ph/file/c26b5ff72312e69de8ee8.jpg",
+        "https://telegra.ph/file/e63e6541647268efb02c0.jpg",
+        "https://telegra.ph/file/c08594a0fd8698c79d57e.jpg"
+    ]
+};

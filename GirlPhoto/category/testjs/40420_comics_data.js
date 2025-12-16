@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40420,
+    "title": "Lady Oichi - Dehya Dancer (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Lady-Oichi---Dehya-Dancer-Genshin-Impact-06-16",
+    "images": [
+        "https://telegra.ph/file/2b1066bd53da91fbcb5df.jpg",
+        "https://telegra.ph/file/f14b23ab61657e2a9abd0.jpg",
+        "https://telegra.ph/file/4b0e4f479371240fd329f.jpg",
+        "https://telegra.ph/file/e38f2693a4e774bfd86d9.jpg",
+        "https://telegra.ph/file/54aef0709e0cb27154a78.jpg",
+        "https://telegra.ph/file/4e8d8b7d0bfc77e5a04ab.jpg",
+        "https://telegra.ph/file/859972aef6da408f53eab.jpg",
+        "https://telegra.ph/file/041e219f839379b5dacff.jpg",
+        "https://telegra.ph/file/c1ebd8f301e226b8088cf.jpg",
+        "https://telegra.ph/file/7124dad0d3e524df34cd5.jpg",
+        "https://telegra.ph/file/8b0024ea29334ca0b78d8.jpg",
+        "https://telegra.ph/file/3b44e5bfd7758384d2fa1.jpg",
+        "https://telegra.ph/file/d61bd976db7298b233420.jpg",
+        "https://telegra.ph/file/0235321c0191520f98c72.jpg",
+        "https://telegra.ph/file/8bc18b4bd6468369aff60.jpg",
+        "https://telegra.ph/file/e50aa5549c9c63c21b839.jpg",
+        "https://telegra.ph/file/74b05536de48912964094.jpg",
+        "https://telegra.ph/file/9a522b0108378ef34c967.jpg",
+        "https://telegra.ph/file/ac3347198f59abcad81ff.jpg",
+        "https://telegra.ph/file/f7c5080196e3e5ad58507.jpg",
+        "https://telegra.ph/file/2e05836ba077e84998fa2.jpg",
+        "https://telegra.ph/file/46e3bf266dcf8fcb805a0.jpg",
+        "https://telegra.ph/file/1309b1b9a1c58307c7ed0.jpg",
+        "https://telegra.ph/file/47efdd68f5d4582c746d6.jpg",
+        "https://telegra.ph/file/d4807499ed103efd48c1d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31501,
+    "title": "Cosplay 爆机少女喵小吉 瓶中精灵",
+    "sourceUrl": "https://telegra.ph/Cosplay-爆机少女喵小吉-瓶中精灵-08-16",
+    "images": [
+        "https://telegra.ph/file/c181aef8b71c5b185f743.jpg",
+        "https://telegra.ph/file/9d9957a8a3063b6bcce5a.jpg",
+        "https://telegra.ph/file/56002bccf866c4745ea97.jpg",
+        "https://telegra.ph/file/f425ac31fd3b840d8ea9c.jpg",
+        "https://telegra.ph/file/57a9dbc1a6e993d6921ff.jpg",
+        "https://telegra.ph/file/abd83457b3ce1cd4686b5.jpg",
+        "https://telegra.ph/file/af1f756d97e79061bbff7.jpg",
+        "https://telegra.ph/file/dea9323d72f11af2f5bd7.jpg",
+        "https://telegra.ph/file/b815f8bf7828e14710113.jpg",
+        "https://telegra.ph/file/d60eea0bd9046f18899ec.jpg",
+        "https://telegra.ph/file/b91674711f81fbb88cadf.jpg",
+        "https://telegra.ph/file/d818ed38ae9f6742bd08c.jpg",
+        "https://telegra.ph/file/fa61b50b6980bd60c369b.jpg",
+        "https://telegra.ph/file/b319c9caeae23994c8ce6.jpg",
+        "https://telegra.ph/file/acce2545677e3625a28a9.jpg",
+        "https://telegra.ph/file/771d51565fcfabfb74cac.jpg",
+        "https://telegra.ph/file/3d7c890dd7975c83a95e4.jpg",
+        "https://telegra.ph/file/0c9ce83c54962901a243e.jpg",
+        "https://telegra.ph/file/31e2ff28885038a86b99b.jpg",
+        "https://telegra.ph/file/57ebcb0ba3bfae5d6f177.jpg",
+        "https://telegra.ph/file/1292a1ebba1a6c34ca4c0.jpg",
+        "https://telegra.ph/file/de99b22fe0571afb5c61a.jpg",
+        "https://telegra.ph/file/5d7b64700973c1b33bd7b.jpg",
+        "https://telegra.ph/file/3da99cf3daad16f0b8081.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

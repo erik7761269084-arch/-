@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 26898,
+    "title": "[Cos]香草喵露露 - 潘金莲[23P]",
+    "sourceUrl": "https://telegra.ph/Cos%E9%A6%99%E8%8D%89%E5%96%B5%E9%9C%B2%E9%9C%B2---%E6%BD%98%E9%87%91%E8%8E%B223P-06-10",
+    "images": [
+        "https://telegra.ph/file/186631cb2ecaf1fdfdc8b.jpg",
+        "https://telegra.ph/file/d8b1e3c8f24a527b25a13.jpg",
+        "https://telegra.ph/file/8a75a6a63defb82f9fc8e.jpg",
+        "https://telegra.ph/file/1703059c8f7c701c7cf10.jpg",
+        "https://telegra.ph/file/a89dd8f22689ef5c3e303.jpg",
+        "https://telegra.ph/file/7f5257082104bd0c32ffa.jpg",
+        "https://telegra.ph/file/643ee708e5f502e3adccd.jpg",
+        "https://telegra.ph/file/36c069584147f103bed29.jpg",
+        "https://telegra.ph/file/149e32013d719dc2853e8.jpg",
+        "https://telegra.ph/file/f60a47ffb8fd814dd45c5.jpg",
+        "https://telegra.ph/file/5ab9d6dbdf6674944028d.jpg",
+        "https://telegra.ph/file/afbfa6f9ab48b40f55803.jpg",
+        "https://telegra.ph/file/be40ffe90db9df0e6db1e.jpg",
+        "https://telegra.ph/file/599c75153eb7d01d382e5.jpg",
+        "https://telegra.ph/file/8f1651c6c2fcfc4484ebb.jpg",
+        "https://telegra.ph/file/23d25429b5afc8c3066d2.jpg",
+        "https://telegra.ph/file/622ad8eb7b4ba93c9b43d.jpg",
+        "https://telegra.ph/file/99612259df30e046611b0.jpg",
+        "https://telegra.ph/file/8601126c4d5884c6c167b.jpg",
+        "https://telegra.ph/file/4c1b0de861d32e5ec7e07.jpg",
+        "https://telegra.ph/file/7f3e332c734cf87a4ab8f.jpg",
+        "https://telegra.ph/file/381b418fc122537e818b9.jpg",
+        "https://telegra.ph/file/2ff2914d3369cc8f33fd5.jpg"
+    ]
+};

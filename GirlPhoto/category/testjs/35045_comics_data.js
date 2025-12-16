@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35045,
+    "title": "[HaneAme 雨波] 2B Wedding Dress Version",
+    "sourceUrl": "https://telegra.ph/HaneAme-雨波-2B-Wedding-Dress-Version-08-15",
+    "images": [
+        "https://telegra.ph/file/1fd3f8fe8036a0703a6fc.jpg",
+        "https://telegra.ph/file/bc1e326fea919b3374872.jpg",
+        "https://telegra.ph/file/9f94d6b2ba9184ec71a4d.jpg",
+        "https://telegra.ph/file/1c7d766e1bb7fcf32aab1.jpg",
+        "https://telegra.ph/file/54384c6ad72777d9df901.jpg",
+        "https://telegra.ph/file/9e843c479e191e766668f.jpg",
+        "https://telegra.ph/file/3fd72e8264c917d037341.jpg",
+        "https://telegra.ph/file/bf2431808e9d1d4b1eea9.jpg",
+        "https://telegra.ph/file/3aff74de9982d704e777a.jpg",
+        "https://telegra.ph/file/e4424b7ad533d22d5db42.jpg",
+        "https://telegra.ph/file/bbeca746df2260bf79229.jpg",
+        "https://telegra.ph/file/9c4936ff0ffb8373dfa0a.jpg",
+        "https://telegra.ph/file/40fdd01e7ce4eb98274bb.jpg",
+        "https://telegra.ph/file/aca91b229cb303fbfc363.jpg",
+        "https://telegra.ph/file/a0275583fc90dee30dffd.jpg",
+        "https://telegra.ph/file/2b162e032c33d529dbc66.jpg",
+        "https://telegra.ph/file/fc3c8c576f7e65324c16d.jpg",
+        "https://telegra.ph/file/506732b24421f1c8e741f.jpg",
+        "https://telegra.ph/file/00757a532f54ac4887631.jpg",
+        "https://telegra.ph/file/7ffdd587f55de5daa320a.jpg",
+        "https://telegra.ph/file/515f73fd413fba3939021.jpg",
+        "https://telegra.ph/file/4a8124c4857fca57398a8.jpg",
+        "https://telegra.ph/file/2fab8e867d4f347d54e16.jpg",
+        "https://telegra.ph/file/570cfd410a11c53f01df6.jpg",
+        "https://telegra.ph/file/fa628b2dd5732b2400cc4.jpg"
+    ]
+};

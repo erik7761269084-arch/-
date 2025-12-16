@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25479,
+    "title": "麻酥酥呦-情趣黑丝[23P4V]",
+    "sourceUrl": "https://telegra.ph/%E9%BA%BB%E9%85%A5%E9%85%A5%E5%91%A6-%E6%83%85%E8%B6%A3%E9%BB%91%E4%B8%9D23P4V-02-03",
+    "images": [
+        "https://telegra.ph/file/ae5a9f0c192ef6a8ca0b5.jpg",
+        "https://telegra.ph/file/b89fc33a8ddc5c79a6fa7.jpg",
+        "https://telegra.ph/file/97392a6b8bc986c7896cd.jpg",
+        "https://telegra.ph/file/7cc1f6300e6e384dac2d6.jpg",
+        "https://telegra.ph/file/f5fc00f77888e0ee50849.jpg",
+        "https://telegra.ph/file/68e80f5d06c5cd63871db.jpg",
+        "https://telegra.ph/file/f8bfe262cf0453de490f2.jpg",
+        "https://telegra.ph/file/2bb0946dab23ddee6c32b.jpg",
+        "https://telegra.ph/file/b0d834c23d5a11cbfda8a.jpg",
+        "https://telegra.ph/file/ddfcfe9d3bf4183023bc8.jpg",
+        "https://telegra.ph/file/933a8b319842c5c2c9547.jpg",
+        "https://telegra.ph/file/f8682cc15191d7a853c02.jpg",
+        "https://telegra.ph/file/61f62586ae88d22ed79bf.jpg",
+        "https://telegra.ph/file/64460f3584bfdf7331600.jpg",
+        "https://telegra.ph/file/083523547b5c8aa3ed330.jpg",
+        "https://telegra.ph/file/accbc7d769fc86e712ad6.jpg",
+        "https://telegra.ph/file/ee15f02e3000e8b9ac8d2.jpg",
+        "https://telegra.ph/file/0da5e84974ea4bbccf5ed.jpg",
+        "https://telegra.ph/file/0c7d76fea3c8bd00fce61.jpg",
+        "https://telegra.ph/file/40a09594f015b8f9a7eda.jpg",
+        "https://telegra.ph/file/21ab2cfb91d45ddf684d8.jpg",
+        "https://telegra.ph/file/723a2d184b514d86d1e32.jpg",
+        "https://telegra.ph/file/fc54320c3e748ed9fca85.jpg"
+    ]
+};

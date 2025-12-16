@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43914,
+    "title": "Potato Godzilla - Nicole (Zenless Zone Zero)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Nicole-Zenless-Zone-Zero-06-02",
+    "images": [
+        "https://telegra.ph/file/12754179b2da22fed0647.jpg",
+        "https://telegra.ph/file/4e50f73523800d81f2dc1.jpg",
+        "https://telegra.ph/file/828b795ea4ea2b5540bc6.jpg",
+        "https://telegra.ph/file/d39d573faa7228098d82c.jpg",
+        "https://telegra.ph/file/9ef7c0f7321676b3986a4.jpg",
+        "https://telegra.ph/file/0b42c66fc35ebe452c071.jpg",
+        "https://telegra.ph/file/878c62974f9f71f1c16a6.jpg",
+        "https://telegra.ph/file/745a3407492baac5b12c1.jpg",
+        "https://telegra.ph/file/891340fdfb098112a246d.jpg",
+        "https://telegra.ph/file/f6c62921be46601cc727e.jpg",
+        "https://telegra.ph/file/d31ca476a0817a1089b38.jpg",
+        "https://telegra.ph/file/dc8d2b0b5f193a4145881.jpg",
+        "https://telegra.ph/file/d26bf7af584ebf0cc7764.jpg",
+        "https://telegra.ph/file/a7a5938f7dee29a5fb3be.jpg",
+        "https://telegra.ph/file/0b80107d3eadea4235a53.jpg",
+        "https://telegra.ph/file/b45f89a302f62def7a6e5.jpg",
+        "https://telegra.ph/file/5025e0ba9f9b08bc25e83.jpg",
+        "https://telegra.ph/file/4c436b8d092d4f9cc8f63.jpg",
+        "https://telegra.ph/file/608e1eaadd151477e5aef.jpg",
+        "https://telegra.ph/file/d68e73f9afa45735177f4.jpg",
+        "https://telegra.ph/file/08bbc8c7c4774fed96c9e.jpg",
+        "https://telegra.ph/file/225c41d8935c398232f1b.jpg",
+        "https://telegra.ph/file/bc15a5cfc68b1eca4e57d.jpg"
+    ]
+};

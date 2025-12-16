@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33454,
+    "title": "Cosplay 瓜希酱 碧蓝航线 奥古斯特女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-碧蓝航线-奥古斯特女仆-03-06",
+    "images": [
+        "https://telegra.ph/file/89af18afa90270862b7b9.jpg",
+        "https://telegra.ph/file/3eb0d830222d9fdc13128.jpg",
+        "https://telegra.ph/file/4be1b4db70add35a57e10.jpg",
+        "https://telegra.ph/file/1143f0def1d4bf0efbaff.jpg",
+        "https://telegra.ph/file/72eb46113e586eb8b72f9.jpg",
+        "https://telegra.ph/file/f2ea795252d44ef6c98ef.jpg",
+        "https://telegra.ph/file/e3cfe8624c9617a350199.jpg",
+        "https://telegra.ph/file/00907c76210f9c4ecbc24.jpg",
+        "https://telegra.ph/file/853262fa17ced7ccc55f9.jpg",
+        "https://telegra.ph/file/b0655b4dae45eae30ffb8.jpg",
+        "https://telegra.ph/file/66b7b6421a2caf7c4db18.jpg",
+        "https://telegra.ph/file/70dcca03571ddf6ca2824.jpg",
+        "https://telegra.ph/file/a39bfb5a234de73eec42d.jpg",
+        "https://telegra.ph/file/35e665d4a079958656a24.jpg",
+        "https://telegra.ph/file/6272626fbe520f2d86762.jpg",
+        "https://telegra.ph/file/a350f7d8025d136884fa3.jpg",
+        "https://telegra.ph/file/5a2b919a4a9c1f7614d18.jpg",
+        "https://telegra.ph/file/d245224a555e018780ae3.jpg",
+        "https://telegra.ph/file/9959082016c1bf8087864.jpg",
+        "https://telegra.ph/file/b218d040f18865dcf651c.jpg",
+        "https://telegra.ph/file/3d4d8f0cb74ca725a2832.jpg",
+        "https://telegra.ph/file/9485e9077fff952a5eb06.jpg",
+        "https://telegra.ph/file/981a5133446258e464e70.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41459,
+    "title": "Lada Lyumos - Mary Jane Venom (Spider-Man)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Mary-Jane-Venom-Spider-Man-05-07",
+    "images": [
+        "https://telegra.ph/file/98e16fded5f65d1fde1d1.jpg",
+        "https://telegra.ph/file/ad84300606915c86dba6b.jpg",
+        "https://telegra.ph/file/58cda11c78469eab98f5a.jpg",
+        "https://telegra.ph/file/9b5ee3e6a72eedbb335a4.jpg",
+        "https://telegra.ph/file/37c7c8b334a7fa309e2f2.jpg",
+        "https://telegra.ph/file/1d3d7ba821c25b68f5267.jpg",
+        "https://telegra.ph/file/147001e05e19bd782f926.jpg",
+        "https://telegra.ph/file/329566fc3fdc983ab3aca.jpg",
+        "https://telegra.ph/file/ecd48a33cb43e50e74509.jpg",
+        "https://telegra.ph/file/14c3079a3fc1f30fcab4d.jpg",
+        "https://telegra.ph/file/ef771805ddcb76a953774.jpg",
+        "https://telegra.ph/file/c8ae9734e9a8caa1e7b7b.jpg",
+        "https://telegra.ph/file/a942c7c9bfe5f1547286c.jpg",
+        "https://telegra.ph/file/5833fcbe3d0cba8bee21a.jpg",
+        "https://telegra.ph/file/2551cb74bf345074c08a6.jpg",
+        "https://telegra.ph/file/6ce51366543588746515e.jpg",
+        "https://telegra.ph/file/1587047115feb89243ebe.jpg",
+        "https://telegra.ph/file/f52a85e28970f3cab876e.jpg",
+        "https://telegra.ph/file/cf8e1a1a3eb191d84cbe2.jpg",
+        "https://telegra.ph/file/1aa2f00fe8b9306fec71f.jpg",
+        "https://telegra.ph/file/8e285e5a92e8b76318ad8.jpg",
+        "https://telegra.ph/file/e46fe68979853c51e59ce.jpg",
+        "https://telegra.ph/file/629b199625d1a8633ca14.jpg",
+        "https://telegra.ph/file/7bb15e35b979ccca316ca.jpg",
+        "https://telegra.ph/file/b5386c842df9504425e96.jpg"
+    ]
+};

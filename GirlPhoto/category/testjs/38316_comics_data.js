@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38316,
+    "title": "Kitkat - Honoka (Dead Or Alive)",
+    "sourceUrl": "https://telegra.ph/Kitkat---Honoka-Dead-Or-Alive-10-04",
+    "images": [
+        "https://telegra.ph/file/96fe4c70e78304d437967.jpg",
+        "https://telegra.ph/file/d639d9101b51cd9890754.jpg",
+        "https://telegra.ph/file/3ef854e088213df19c2c2.jpg",
+        "https://telegra.ph/file/5be72ce018e052d9efca0.jpg",
+        "https://telegra.ph/file/0a5e0cba80bb25572b289.jpg",
+        "https://telegra.ph/file/0866cec4a4de13f21bef2.jpg",
+        "https://telegra.ph/file/c7821b566ad1118f8792c.jpg",
+        "https://telegra.ph/file/afcded45e0306a6b5ae28.jpg",
+        "https://telegra.ph/file/a551ed04e5029949c7c57.jpg",
+        "https://telegra.ph/file/dcf8c3b2340706b17af21.jpg",
+        "https://telegra.ph/file/2a89107efd7a644a6b0fb.jpg",
+        "https://telegra.ph/file/4caa80461ce8ff1ceca12.jpg",
+        "https://telegra.ph/file/907d83251dc4be9183dc1.jpg",
+        "https://telegra.ph/file/0b80d021a4edf0360e8d4.jpg",
+        "https://telegra.ph/file/5501c79c701b907548618.jpg",
+        "https://telegra.ph/file/582bd4094a1249f483926.jpg",
+        "https://telegra.ph/file/60cdb7e683e1ea24cfd0d.jpg",
+        "https://telegra.ph/file/f30cd45ea192690a44c85.jpg",
+        "https://telegra.ph/file/27d00ce9593dfcd2ac717.jpg",
+        "https://telegra.ph/file/e831a2ea103cbba8f3e54.jpg",
+        "https://telegra.ph/file/baae1536697f3961ae967.jpg",
+        "https://telegra.ph/file/d76d0789d7230df954c9c.jpg",
+        "https://telegra.ph/file/b1eb7ce03cb28d7eb7692.jpg",
+        "https://telegra.ph/file/45890685f18664e29dc3e.jpg",
+        "https://telegra.ph/file/7c861fc293120927444f0.jpg"
+    ]
+};

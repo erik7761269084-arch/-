@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47054,
+    "title": "[星之迟迟]  黛朵 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-黛朵---Page-1-02-25",
+    "images": [
+        "https://telegra.ph/file/a9629d325ff70f015d410.jpg",
+        "https://telegra.ph/file/7ca0ec97322c865185a45.jpg",
+        "https://telegra.ph/file/0ec650f8ee0212a8c3045.jpg",
+        "https://telegra.ph/file/2390eae1b060564c5101d.jpg",
+        "https://telegra.ph/file/ecf9b4c786aeb189bcf92.jpg",
+        "https://telegra.ph/file/224a921171b5de0878f49.jpg",
+        "https://telegra.ph/file/492d9d5b44e3cbb85750f.jpg",
+        "https://telegra.ph/file/043dbc6a65cc3775c0f4f.jpg",
+        "https://telegra.ph/file/26e1fd9e8c0a2e30c0b62.jpg",
+        "https://telegra.ph/file/75765deba03121ab64f1a.jpg",
+        "https://telegra.ph/file/e5ed71a3d8b93b228900b.jpg",
+        "https://telegra.ph/file/838bb2f8b8d8ab81982a5.jpg",
+        "https://telegra.ph/file/aca590f943a294e123ffd.jpg",
+        "https://telegra.ph/file/375da772fd6c0db081490.jpg",
+        "https://telegra.ph/file/4dc593de732735e454181.jpg",
+        "https://telegra.ph/file/efad7f290815f2514c655.jpg",
+        "https://telegra.ph/file/eec26fa1f0add79fa6140.jpg",
+        "https://telegra.ph/file/8e243ae4ce136fc34541d.jpg",
+        "https://telegra.ph/file/77b59ef2c721a7fd4c4d0.jpg",
+        "https://telegra.ph/file/66fdc6dd1e9ba405ba882.jpg",
+        "https://telegra.ph/file/058b10152a6bf1835ed4f.jpg",
+        "https://telegra.ph/file/4dc7f63932171d4ddc7d9.jpg",
+        "https://telegra.ph/file/093340adc5ad531125448.jpg",
+        "https://telegra.ph/file/930fdd2a5e3b39a140aaa.jpg",
+        "https://telegra.ph/file/0f2e9aa6c699b907f839a.jpg"
+    ]
+};

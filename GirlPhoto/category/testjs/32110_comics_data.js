@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 32110,
+    "title": "Cosplay 面饼仙儿 花嫁蕾姆",
+    "sourceUrl": "https://telegra.ph/Cosplay-面饼仙儿-花嫁蕾姆-10-19",
+    "images": [
+        "https://telegra.ph/file/b70f0816990f948712181.jpg",
+        "https://telegra.ph/file/5062533158e93d73b52ed.jpg",
+        "https://telegra.ph/file/873c81ff15dd6022952de.jpg",
+        "https://telegra.ph/file/8cc9bb73d31607e657f6d.jpg",
+        "https://telegra.ph/file/8f66fe15b4b1308b18ada.jpg",
+        "https://telegra.ph/file/33bfd251c653369b755f3.jpg",
+        "https://telegra.ph/file/27c3bf50fff67c9e69213.jpg",
+        "https://telegra.ph/file/e4c952a1bedfbfb17559c.jpg",
+        "https://telegra.ph/file/21f562e463bda3b7e072b.jpg",
+        "https://telegra.ph/file/2d6cd4d152df8da5054a6.jpg",
+        "https://telegra.ph/file/e556320477ee0ebfa625a.jpg",
+        "https://telegra.ph/file/414d95236b16863afa7d6.jpg",
+        "https://telegra.ph/file/7955fb9e622b29d75bd0d.jpg",
+        "https://telegra.ph/file/280781ed6d0ed729f0a48.jpg",
+        "https://telegra.ph/file/b24c4dfd50c1cbc21442a.jpg",
+        "https://telegra.ph/file/3d5b2838b7dbc8492ad1c.jpg",
+        "https://telegra.ph/file/fa544abcec432c280445b.jpg",
+        "https://telegra.ph/file/bd3e89697bb0bc81bed5e.jpg",
+        "https://telegra.ph/file/a27dbf164bd5ead807a01.jpg",
+        "https://telegra.ph/file/383f825ea40a003bc005b.jpg",
+        "https://telegra.ph/file/217ec64229eb1d9097e38.jpg",
+        "https://telegra.ph/file/69bae8195bbab4e91c248.jpg",
+        "https://telegra.ph/file/7b893aaddf9d88ce6229f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48446,
+    "title": "Hane Ame - Takamiya Mio - Page 1",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Takamiya-Mio---Page-1-07-27",
+    "images": [
+        "https://telegra.ph/file/4962585e65418616a8bd1.jpg",
+        "https://telegra.ph/file/2a7033b861e505aff8624.jpg",
+        "https://telegra.ph/file/bc1ed6416617e9496605d.jpg",
+        "https://telegra.ph/file/22f182c3e1f747a7b91ed.jpg",
+        "https://telegra.ph/file/9ecc910901999783fcc59.jpg",
+        "https://telegra.ph/file/579140d7475e2e871ce58.jpg",
+        "https://telegra.ph/file/57848ec57abb35e905a51.jpg",
+        "https://telegra.ph/file/e02beff13aa6cbd8354d9.jpg",
+        "https://telegra.ph/file/20c01656d358870bbd0ae.jpg",
+        "https://telegra.ph/file/61202c54d447ee7804371.jpg",
+        "https://telegra.ph/file/cfa160bbbd51f8cdd5b03.jpg",
+        "https://telegra.ph/file/58130635f3082e02cf8f3.jpg",
+        "https://telegra.ph/file/e700f9583051105afc3ea.jpg",
+        "https://telegra.ph/file/d75aebef9d18f9b8b061e.jpg",
+        "https://telegra.ph/file/fe3166a587947e378b65e.jpg",
+        "https://telegra.ph/file/840255dcf075d79019e70.jpg",
+        "https://telegra.ph/file/26d010a616a2e3298ba69.jpg",
+        "https://telegra.ph/file/c6d70d68fab273da7c9e1.jpg",
+        "https://telegra.ph/file/22c43ddb7023dc20f3711.jpg",
+        "https://telegra.ph/file/ddff660f969ca85fbadf6.jpg",
+        "https://telegra.ph/file/948e525c50a39b1394310.jpg",
+        "https://telegra.ph/file/aa409f56ffda090860464.jpg",
+        "https://telegra.ph/file/8380a5604da3ae366a1e2.jpg",
+        "https://telegra.ph/file/bdd15f91f48d4cbd34d89.jpg",
+        "https://telegra.ph/file/8bd1dbf9999d9778c1a5c.jpg"
+    ]
+};

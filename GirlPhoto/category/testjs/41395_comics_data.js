@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41395,
+    "title": "Hane Ame - Original Luxe Elf",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Original-Luxe-Elf-04-20",
+    "images": [
+        "https://telegra.ph/file/6b37d9e084222552f8b42.jpg",
+        "https://telegra.ph/file/8035c198813b15eb5868c.jpg",
+        "https://telegra.ph/file/e3be4db4bd9260e06277c.jpg",
+        "https://telegra.ph/file/4a0646de882b5cea0a83c.jpg",
+        "https://telegra.ph/file/064ff9a225a4b40786984.jpg",
+        "https://telegra.ph/file/932b77c72d43e948aedad.jpg",
+        "https://telegra.ph/file/21a5c35d385fc418e3df8.jpg",
+        "https://telegra.ph/file/2841757f9e65f81e95945.jpg",
+        "https://telegra.ph/file/5ac39594c0a774c0615e8.jpg",
+        "https://telegra.ph/file/9d2d3c3743b58e3f3b8f6.jpg",
+        "https://telegra.ph/file/eff845a0e11a4868183cd.jpg",
+        "https://telegra.ph/file/cfca6bc06c605f3702e42.jpg",
+        "https://telegra.ph/file/563107d3361288239da25.jpg",
+        "https://telegra.ph/file/01b85d8dc53b2574a9fef.jpg",
+        "https://telegra.ph/file/218599cf6b8131b9ad1e4.jpg",
+        "https://telegra.ph/file/82d79134f59cedc82cc17.jpg",
+        "https://telegra.ph/file/143091ac25dcd91ef68f2.jpg",
+        "https://telegra.ph/file/8c3de81601c34e53e9d38.jpg",
+        "https://telegra.ph/file/533c389ada83b1480a540.jpg",
+        "https://telegra.ph/file/0466bbed68336094e2ef5.jpg",
+        "https://telegra.ph/file/e60d3075e50a3a588b5e9.jpg",
+        "https://telegra.ph/file/630007b044bb68034c615.jpg",
+        "https://telegra.ph/file/0a76ff86d007ffe23c9bc.jpg",
+        "https://telegra.ph/file/c35ca3ba05f6d35056078.jpg"
+    ]
+};

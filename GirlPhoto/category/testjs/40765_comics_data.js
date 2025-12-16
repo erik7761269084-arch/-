@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40765,
+    "title": "TiTi - Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/TiTi---Power-Chainsaw-Man-09-30",
+    "images": [
+        "https://telegra.ph/file/16a85bbdd04045b0c932c.jpg",
+        "https://telegra.ph/file/2e2240bfb312ff985cf6f.jpg",
+        "https://telegra.ph/file/f8707e911d14703e3f496.jpg",
+        "https://telegra.ph/file/46cd48df436ca1fa09c63.jpg",
+        "https://telegra.ph/file/94cdffd0f1d05ab12d7a1.jpg",
+        "https://telegra.ph/file/73bd0e35e81a5670989b9.jpg",
+        "https://telegra.ph/file/e36200ad3b6f16d8626b2.jpg",
+        "https://telegra.ph/file/19350b9f9c601eb26b65d.jpg",
+        "https://telegra.ph/file/559017f11fe3b5edcfc6a.jpg",
+        "https://telegra.ph/file/617c06dd3bf4afdca7775.jpg",
+        "https://telegra.ph/file/e5f898fe6cc4f097a429d.jpg",
+        "https://telegra.ph/file/b5e7e588afcec73263437.jpg",
+        "https://telegra.ph/file/331c26eab3504f17cd440.jpg",
+        "https://telegra.ph/file/95f10bd53e86bccdf5607.jpg",
+        "https://telegra.ph/file/c602508366684274b856f.jpg",
+        "https://telegra.ph/file/57206535c4e662848f6ae.jpg",
+        "https://telegra.ph/file/66e691a2ab4f997cf2a3c.jpg",
+        "https://telegra.ph/file/efe44735c1e4ccea28325.jpg",
+        "https://telegra.ph/file/771d1c03cff6c0f3086ab.jpg",
+        "https://telegra.ph/file/a9de30d1e1fb5b72260ab.jpg",
+        "https://telegra.ph/file/0cfbb33c4eb0b37304eb9.jpg",
+        "https://telegra.ph/file/25efc0d13cb5871a9e577.jpg",
+        "https://telegra.ph/file/063a985779bc19fa725d3.jpg"
+    ]
+};

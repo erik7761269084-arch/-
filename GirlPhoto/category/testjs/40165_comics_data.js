@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40165,
+    "title": "Hane Ame - Helm (Nikke)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Helm-Nikke-02-11",
+    "images": [
+        "https://telegra.ph/file/b9b5db36cc56ddc91dbb8.jpg",
+        "https://telegra.ph/file/ab48a642daee9ef849e22.jpg",
+        "https://telegra.ph/file/304f7356c63beb09bb1ab.jpg",
+        "https://telegra.ph/file/ba1c5d51bf660096da9ce.jpg",
+        "https://telegra.ph/file/c3727a1b77b7be503eb09.jpg",
+        "https://telegra.ph/file/056b049ad4b7b7117f9e6.jpg",
+        "https://telegra.ph/file/2d4e7200a6c5548240845.jpg",
+        "https://telegra.ph/file/14a05c51f1b5ee14aec24.jpg",
+        "https://telegra.ph/file/e6dd88251182c235ad516.jpg",
+        "https://telegra.ph/file/2562202d4c6c8cc7a32df.jpg",
+        "https://telegra.ph/file/4f4bc5462623c72a76b61.jpg",
+        "https://telegra.ph/file/e3afab2ae4e35331c2651.jpg",
+        "https://telegra.ph/file/08d6d148c47c98d6779cd.jpg",
+        "https://telegra.ph/file/de6629359633976ef0217.jpg",
+        "https://telegra.ph/file/7d30b37619c7d57b3c179.jpg",
+        "https://telegra.ph/file/ce4b7bc9353e0eae972f9.jpg",
+        "https://telegra.ph/file/9cb67a8c530903857b1d3.jpg",
+        "https://telegra.ph/file/17ce6e43bb21f89303b1a.jpg",
+        "https://telegra.ph/file/737117d40a2346a90e1dd.jpg",
+        "https://telegra.ph/file/3165c12c57055724bc6dd.jpg",
+        "https://telegra.ph/file/554456ee7640f1e0a2167.jpg",
+        "https://telegra.ph/file/1faa0702f5c09f74b2f29.jpg",
+        "https://telegra.ph/file/01aeb59123d7a08dd0975.jpg",
+        "https://telegra.ph/file/e84a82689c3dc6864cc26.jpg",
+        "https://telegra.ph/file/10faf4bc4d2e85ddbca2d.jpg"
+    ]
+};

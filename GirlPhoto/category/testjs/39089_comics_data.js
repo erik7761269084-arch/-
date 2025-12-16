@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39089,
+    "title": "Lady Melamori - 2B (Nier Autómata)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---2B-Nier-Autómata-04-29",
+    "images": [
+        "https://telegra.ph/file/60b5e3b4f22d493e6ad38.jpg",
+        "https://telegra.ph/file/5a6788856cd9c65ce2b2f.jpg",
+        "https://telegra.ph/file/0e2720083594ee446764e.jpg",
+        "https://telegra.ph/file/f37c9a62eeb5f9a36ca97.jpg",
+        "https://telegra.ph/file/5bfed34a9da8ef06e9b26.jpg",
+        "https://telegra.ph/file/86460695dbf5b47762dfd.jpg",
+        "https://telegra.ph/file/e7ffcb3a6de8783167f5c.jpg",
+        "https://telegra.ph/file/bec23708e29ba564bd031.jpg",
+        "https://telegra.ph/file/0e9a44bba9fdb93ffa42c.jpg",
+        "https://telegra.ph/file/5ee16a335f1eff70ccda8.jpg",
+        "https://telegra.ph/file/42c822d1a6d4bfbe7aa90.jpg",
+        "https://telegra.ph/file/4b35e70e9d0f02f6e98e5.jpg",
+        "https://telegra.ph/file/7a7a5dd4c5cbf300e6b2e.jpg",
+        "https://telegra.ph/file/91282ad5a257765d364ef.jpg",
+        "https://telegra.ph/file/1d702c53d3768a6c3a642.jpg",
+        "https://telegra.ph/file/f8bf8c8ba4b00cf6ed32f.jpg",
+        "https://telegra.ph/file/5888414b6146c21cde239.jpg",
+        "https://telegra.ph/file/72679c7bca1bbe4bcb08e.jpg",
+        "https://telegra.ph/file/0e8819faf7a98d8c8163c.jpg",
+        "https://telegra.ph/file/3c3fa82895ab2421fc5ef.jpg",
+        "https://telegra.ph/file/bf2cd696507d388ffb003.jpg",
+        "https://telegra.ph/file/9a82757d9544df2b93621.jpg",
+        "https://telegra.ph/file/c23f85711793310b1524d.jpg",
+        "https://telegra.ph/file/47b610d6f61913bc9d154.jpg"
+    ]
+};

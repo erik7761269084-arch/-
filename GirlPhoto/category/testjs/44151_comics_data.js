@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44151,
+    "title": "Genshin Impact Cosplay",
+    "sourceUrl": "https://telegra.ph/Genshin-Impact-Cosplay-09-28",
+    "images": [
+        "https://telegra.ph/file/437c75ec54a530a23087c.jpg",
+        "https://telegra.ph/file/920ab649739d36cb9591f.jpg",
+        "https://telegra.ph/file/2a55dc96dd381762ac16b.jpg",
+        "https://telegra.ph/file/51cdcef75f657080cfae2.jpg",
+        "https://telegra.ph/file/cace37337d1cacbda64f0.jpg",
+        "https://telegra.ph/file/f124618a943c03a6cdafa.jpg",
+        "https://telegra.ph/file/bf03fb61ee75e7792f24b.jpg",
+        "https://telegra.ph/file/04493dd8aa465605bccf9.jpg",
+        "https://telegra.ph/file/2b9710645ab3558f1b72a.jpg",
+        "https://telegra.ph/file/0451c19c35fa82a0c94d5.jpg",
+        "https://telegra.ph/file/8ec6936c209b715fa94ed.jpg",
+        "https://telegra.ph/file/6661c58ef314fa791fff3.jpg",
+        "https://telegra.ph/file/5c2252491d66ca307432b.jpg",
+        "https://telegra.ph/file/a7a3ce3ccda997bfba741.jpg",
+        "https://telegra.ph/file/81f878106f7fc5fe8b1f1.jpg",
+        "https://telegra.ph/file/d9a0c386c31c89bfd658b.jpg",
+        "https://telegra.ph/file/4996e08953833b5b2c9a5.jpg",
+        "https://telegra.ph/file/984ed1fd538b8585cf542.jpg",
+        "https://telegra.ph/file/e53d4c84498fcfa1eec42.jpg",
+        "https://telegra.ph/file/988c148dfb7eb0866b140.jpg",
+        "https://telegra.ph/file/4349ef23e8a1aced843c3.jpg",
+        "https://telegra.ph/file/497110b4ddc2ccc0f26a0.jpg",
+        "https://telegra.ph/file/5b475b135f62cef98ca7e.jpg",
+        "https://telegra.ph/file/fa16572028f0b6520adaa.jpg",
+        "https://telegra.ph/file/b4ff176982452594c5aad.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37743,
+    "title": "Kalinka Fox - Asagi Igawa (Taimani Asagi)",
+    "sourceUrl": "https://telegra.ph/Kalinka-Fox---Asagi-Igawa-Taimani-Asagi-05-20",
+    "images": [
+        "https://telegra.ph/file/fe28111111df77f3af8ef.jpg",
+        "https://telegra.ph/file/b2bc738ebfe060681f910.jpg",
+        "https://telegra.ph/file/66408d7e0b308fd8f4186.jpg",
+        "https://telegra.ph/file/6eb823aff1af6f9c3ad7c.jpg",
+        "https://telegra.ph/file/5efb974afe8632372f58f.jpg",
+        "https://telegra.ph/file/e4ad84b575737e1c65838.jpg",
+        "https://telegra.ph/file/1f50e2624c6c4d1d6a47a.jpg",
+        "https://telegra.ph/file/fe7bc80d60f9568eabb27.jpg",
+        "https://telegra.ph/file/26c4bd7597d17d3e64ab2.jpg",
+        "https://telegra.ph/file/ca51be089d84ad67f3678.jpg",
+        "https://telegra.ph/file/5e6b411ef2abe4106df08.jpg",
+        "https://telegra.ph/file/245fb6a25f7d1ad4f430e.jpg",
+        "https://telegra.ph/file/6d81bf063169fe3272b81.jpg",
+        "https://telegra.ph/file/39a5ea4bc52957e281385.jpg",
+        "https://telegra.ph/file/4e11f6e414cf907b27f00.jpg",
+        "https://telegra.ph/file/8beba1bab3bff9eb344a7.jpg",
+        "https://telegra.ph/file/371bc0d48ba3257849cb9.jpg",
+        "https://telegra.ph/file/fcd683c27499aff3e8ca3.jpg",
+        "https://telegra.ph/file/d3590c7f70472822df7c3.jpg",
+        "https://telegra.ph/file/c9abc462f3d7c5e3891fb.jpg",
+        "https://telegra.ph/file/c2ced41f4701d8ee892fa.jpg",
+        "https://telegra.ph/file/d2ad211b8d45fdd64aa43.jpg",
+        "https://telegra.ph/file/f74746302251aadc8cc96.jpg"
+    ]
+};

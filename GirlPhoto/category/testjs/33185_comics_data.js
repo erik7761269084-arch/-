@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33185,
+    "title": "Han Yeri 한예리, [DJAWA] Home Sweet Hare Set.02",
+    "sourceUrl": "https://telegra.ph/Han-Yeri-한예리-DJAWA-Home-Sweet-Hare-Set02-02-09",
+    "images": [
+        "https://telegra.ph/file/d372a8f40d75fb38dd840.jpg",
+        "https://telegra.ph/file/945c4b7f1c98aff385f88.jpg",
+        "https://telegra.ph/file/c72208d17416c5d3238de.jpg",
+        "https://telegra.ph/file/c69d470159f6951bf38dd.jpg",
+        "https://telegra.ph/file/a003aa46982cb0a62db19.jpg",
+        "https://telegra.ph/file/5dc9b442f53cd58b6fa19.jpg",
+        "https://telegra.ph/file/5dffa10c7c1d5859ad4ba.jpg",
+        "https://telegra.ph/file/7a4fe795d6160cf87c90c.jpg",
+        "https://telegra.ph/file/67055c641cd6712f6dc18.jpg",
+        "https://telegra.ph/file/4e5741ff27d3ba7189884.jpg",
+        "https://telegra.ph/file/f2b8fbbb8092bf3e9e2de.jpg",
+        "https://telegra.ph/file/2e4a9b91cf08c085fbe35.jpg",
+        "https://telegra.ph/file/5a64ef6674413ffb3c7d9.jpg",
+        "https://telegra.ph/file/2b016da3497342503cfbe.jpg",
+        "https://telegra.ph/file/4ef26fd9e46b1bf21dbf0.jpg",
+        "https://telegra.ph/file/7aad49be79b40b1fb78d7.jpg",
+        "https://telegra.ph/file/9286c63bead897b663cb7.jpg",
+        "https://telegra.ph/file/b642d9994d0da2f3da62c.jpg",
+        "https://telegra.ph/file/43b3211a9b8ceccc13c15.jpg",
+        "https://telegra.ph/file/3f0018c0b2e397470ddea.jpg",
+        "https://telegra.ph/file/e0a71cf2692c9b082402d.jpg",
+        "https://telegra.ph/file/c99eedef790bf92ffc422.jpg",
+        "https://telegra.ph/file/7d35c2f3ce4294e682ab2.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

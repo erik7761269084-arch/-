@@ -1,0 +1,22 @@
+const comicData = {
+    "IDcode": 36611,
+    "title": "千尋_Chihiro Chang Cosplay 胡蝶しのぶ Shinobu Kocho",
+    "sourceUrl": "https://telegra.ph/千尋-Chihiro-Chang-Cosplay-胡蝶しのぶ-Shinobu-Kocho-01-20",
+    "images": [
+        "https://telegra.ph/file/e1100815ca7612df0248a.jpg",
+        "https://telegra.ph/file/20112d5e189786eb8a225.jpg",
+        "https://telegra.ph/file/702b956a68735633aab9c.jpg",
+        "https://telegra.ph/file/9b32fc4e94ceb9252bd10.jpg",
+        "https://telegra.ph/file/71e4cc2bec98a6439ff9a.jpg",
+        "https://telegra.ph/file/004748b66405b2af6477e.jpg",
+        "https://telegra.ph/file/061862cf9e3c9b1173eee.jpg",
+        "https://telegra.ph/file/66dcd1d5948108524cfa8.jpg",
+        "https://telegra.ph/file/5d963bd7a1dcceb0bba18.jpg",
+        "https://telegra.ph/file/ac3a9cd77d74681213f9c.jpg",
+        "https://telegra.ph/file/3ba2f530e8eaa958a6847.jpg",
+        "https://telegra.ph/file/c0809d9ed39c80abd8fb7.jpg",
+        "https://telegra.ph/file/6b9b4be126344650a544d.jpg",
+        "https://telegra.ph/file/303908a199cbd35c4ed1e.jpg",
+        "https://telegra.ph/file/77b5d9ffa010f514c67f5.jpg"
+    ]
+};

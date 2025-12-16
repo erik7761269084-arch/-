@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44393,
+    "title": "橙子喵酱 - 甘雨 [25P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---甘雨-25P-11-14",
+    "images": [
+        "https://telegra.ph/file/d71d52020f065a5a12d6b.jpg",
+        "https://telegra.ph/file/f7b9359e54ba8b202d89e.jpg",
+        "https://telegra.ph/file/d3f13c10f7d56845cf47b.jpg",
+        "https://telegra.ph/file/82333e6f71bff7f1683ba.jpg",
+        "https://telegra.ph/file/da234b1f9fd7e15e97e26.jpg",
+        "https://telegra.ph/file/14a598fbb272a5fa82efb.jpg",
+        "https://telegra.ph/file/70669a8814b400535c2bd.jpg",
+        "https://telegra.ph/file/5ddfc70e4644e7422aa64.jpg",
+        "https://telegra.ph/file/da511bcac69849bbcfd90.jpg",
+        "https://telegra.ph/file/6243a89bea23346303afe.jpg",
+        "https://telegra.ph/file/14f40bf0f24b2a53ed49a.jpg",
+        "https://telegra.ph/file/b90e384f85b0332004aa2.jpg",
+        "https://telegra.ph/file/91c795f896387529272be.jpg",
+        "https://telegra.ph/file/a2289556c5932868d57e4.jpg",
+        "https://telegra.ph/file/809af7e60f6a2d78455ba.jpg",
+        "https://telegra.ph/file/625b6a303348865d3da1f.jpg",
+        "https://telegra.ph/file/b50b382f404da3d122dd8.jpg",
+        "https://telegra.ph/file/3861367b695c4d01d242d.jpg",
+        "https://telegra.ph/file/587a002f74daef88de726.jpg",
+        "https://telegra.ph/file/63ff0b2bb8494ed1473e3.jpg",
+        "https://telegra.ph/file/49a3a3489dc7db50a96af.jpg",
+        "https://telegra.ph/file/f543aeda28c1101c1e5a2.jpg",
+        "https://telegra.ph/file/fc1e74ae596bb7aae0fa7.jpg",
+        "https://telegra.ph/file/d0b9c6bcff394f2d8e4ac.jpg",
+        "https://telegra.ph/file/e6524f1152efc2434b943.jpg"
+    ]
+};

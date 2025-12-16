@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37403,
+    "title": "[PANS写真] 2019.12.20 NO.1253 小九",
+    "sourceUrl": "https://telegra.ph/PANS写真-20191220-NO1253-小九-04-11",
+    "images": [
+        "https://telegra.ph/file/99c5f1af6c4f0c5b3c920.jpg",
+        "https://telegra.ph/file/7ef3fcba53f015acfbb94.jpg",
+        "https://telegra.ph/file/4fc8d0468476d259a8108.jpg",
+        "https://telegra.ph/file/a2c9bc3076974415bc4d3.jpg",
+        "https://telegra.ph/file/ff1150bbdf23f4b7486e6.jpg",
+        "https://telegra.ph/file/ca85068d7b85761a71707.jpg",
+        "https://telegra.ph/file/9534aef980968870695cb.jpg",
+        "https://telegra.ph/file/0a7d1f77e8fc62841fb14.jpg",
+        "https://telegra.ph/file/6a08d3b183c350ebc6b02.jpg",
+        "https://telegra.ph/file/ee56c58340f57848cc2f9.jpg",
+        "https://telegra.ph/file/8a741e5b62d6117cc76a4.jpg",
+        "https://telegra.ph/file/f67bb95eadda6c56d3a24.jpg",
+        "https://telegra.ph/file/7b42e65fd9c7f1d6e0e3d.jpg",
+        "https://telegra.ph/file/37a185d6762aa736991b7.jpg",
+        "https://telegra.ph/file/8169ffd897522b29d395a.jpg",
+        "https://telegra.ph/file/ca5c2296c50d0d067d4bb.jpg",
+        "https://telegra.ph/file/843691ea1025e25435380.jpg",
+        "https://telegra.ph/file/97a62e93d1665e2478f13.jpg",
+        "https://telegra.ph/file/ef9e9afd67741c169b41f.jpg",
+        "https://telegra.ph/file/8798c650548b0194ea5b2.jpg",
+        "https://telegra.ph/file/244144e179ca22b731380.jpg",
+        "https://telegra.ph/file/4b4b2f9e953da8a265fee.jpg",
+        "https://telegra.ph/file/2fa06c6fa06dec7b18d60.jpg",
+        "https://telegra.ph/file/e436a53dd5c2afca453e7.jpg",
+        "https://telegra.ph/file/0004f570843950e59c30c.jpg"
+    ]
+};

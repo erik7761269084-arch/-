@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42156,
+    "title": "Echi Tornado - Roxy Migurdia (Mushoku Tensei)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-30-5",
+    "images": [
+        "https://i.ibb.co/G3fppthq/DSC6761-1.jpg",
+        "https://i.ibb.co/6kBgCYd/DSC6769-1.jpg",
+        "https://i.ibb.co/Y7kGY3m2/DSC6830-1.jpg",
+        "https://i.ibb.co/jqCdt4b/DSC6839-1.jpg",
+        "https://i.ibb.co/zHQpkKWR/DSC6846-1.jpg",
+        "https://i.ibb.co/sJjVy7Cg/DSC6872-1.jpg",
+        "https://i.ibb.co/nNJ842qQ/DSC6911-1.jpg",
+        "https://i.ibb.co/6JR1FZ5N/DSC6931-1.jpg",
+        "https://i.ibb.co/FLj1WQxq/DSC6937-1.jpg",
+        "https://i.ibb.co/rG37WNn6/DSC6945-1.jpg",
+        "https://i.ibb.co/MkH32cRw/DSC7000-1.jpg",
+        "https://i.ibb.co/DPyKmVND/DSC7037-1.jpg",
+        "https://i.ibb.co/Q3Pf36Vv/DSC7048-1.jpg",
+        "https://i.ibb.co/b5V9M5sC/DSC7071-1.jpg",
+        "https://i.ibb.co/zV28jGq3/DSC7072-1.jpg",
+        "https://i.ibb.co/FkWLTtNB/DSC7083-1.jpg",
+        "https://i.ibb.co/krq8zBB/DSC7139-1.jpg",
+        "https://i.ibb.co/SXKHkKCY/DSC7146-1.jpg",
+        "https://i.ibb.co/6RDTXzWB/DSC7172-1.jpg",
+        "https://i.ibb.co/TDGw9ZQT/DSC7186-1.jpg",
+        "https://i.ibb.co/yF6pkzgL/DSC7219-1.jpg",
+        "https://i.ibb.co/wZddcHCv/DSC7228-1.jpg",
+        "https://i.ibb.co/YBwQq9rK/DSC7269-1.jpg"
+    ]
+};

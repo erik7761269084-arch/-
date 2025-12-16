@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44853,
+    "title": "Potato Godzilla - Yae Miko",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Yae-Miko-03-19",
+    "images": [
+        "https://telegra.ph/file/f4e509129ee8363dc1c58.jpg",
+        "https://telegra.ph/file/d36da76fc848c67a77c59.jpg",
+        "https://telegra.ph/file/94a3bf9434e4fadfd6faf.jpg",
+        "https://telegra.ph/file/c5a0fa0aa1f4d0a80f6d3.jpg",
+        "https://telegra.ph/file/3a09836d4664b7429c70b.jpg",
+        "https://telegra.ph/file/9e6a9b7a5482b9a6c0181.jpg",
+        "https://telegra.ph/file/250dcae0d23039e69e4dc.jpg",
+        "https://telegra.ph/file/90a5982bafb298e746cc1.jpg",
+        "https://telegra.ph/file/32645cb24c4e5379878bc.jpg",
+        "https://telegra.ph/file/b27b9a80bbe8af0425cd7.jpg",
+        "https://telegra.ph/file/be2d45b7810f2b29642f3.jpg",
+        "https://telegra.ph/file/f73218ef7c75874d33caf.jpg",
+        "https://telegra.ph/file/93425972dba1ccde43ff4.jpg",
+        "https://telegra.ph/file/51e6188a40641d47dd870.jpg",
+        "https://telegra.ph/file/e5f6853bc2d8c0fbe5aa3.jpg",
+        "https://telegra.ph/file/1668364c1a337740238c0.jpg",
+        "https://telegra.ph/file/1eb892ab468c37637cddb.jpg",
+        "https://telegra.ph/file/6479de2a8ad1320367644.jpg",
+        "https://telegra.ph/file/da9ef99f836cb7aa5bc75.jpg",
+        "https://telegra.ph/file/8439392602008759001fa.jpg",
+        "https://telegra.ph/file/bac673a27f3443c9e66b2.jpg",
+        "https://telegra.ph/file/bdc012b1b904bd79b3cd0.jpg",
+        "https://telegra.ph/file/827053402cf8a87e9d80f.jpg"
+    ]
+};

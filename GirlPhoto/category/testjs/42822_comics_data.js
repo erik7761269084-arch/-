@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42822,
+    "title": "Tsubaki Album Vol 009 Nudistただの体、初全裸Fullsize",
+    "sourceUrl": "https://telegra.ph/Tsubaki-Album-Vol-009-Nudist%E3%81%9F%E3%81%A0%E3%81%AE%E4%BD%93%E5%88%9D%E5%85%A8%E8%A3%B8Fullsize-07-02",
+    "images": [
+        "https://telegra.ph/file/55c0e70969f515675ee26.jpg",
+        "https://telegra.ph/file/8385e8e2157644fee440a.jpg",
+        "https://telegra.ph/file/6767fac2c73b9d3353eb7.jpg",
+        "https://telegra.ph/file/a1cd9c226734f34781753.jpg",
+        "https://telegra.ph/file/4e422dd9379e78fd9b837.jpg",
+        "https://telegra.ph/file/47841ca431300aa3674dc.jpg",
+        "https://telegra.ph/file/a91c46de6edd97ec30fa3.jpg",
+        "https://telegra.ph/file/b02db3cdd1591a777e83a.jpg",
+        "https://telegra.ph/file/b7f1ad9e469a0dc78df61.jpg",
+        "https://telegra.ph/file/42945f27bfd6bbfd50881.jpg",
+        "https://telegra.ph/file/221cd6fcf85cc1d663c45.jpg",
+        "https://telegra.ph/file/98443f49f864f1a42234c.jpg",
+        "https://telegra.ph/file/c5ff41b02963b8dc07c39.jpg",
+        "https://telegra.ph/file/b15dfdc8e9d8f5ed9c018.jpg",
+        "https://telegra.ph/file/5c2fd586f4ced44e7975a.jpg",
+        "https://telegra.ph/file/8ff37d90b1c3b1f36639b.jpg",
+        "https://telegra.ph/file/6005a27aa88f51c8fdeed.jpg",
+        "https://telegra.ph/file/c392bd5f1064a834fb6e2.jpg",
+        "https://telegra.ph/file/9972d892d5dddfef2fdc4.jpg",
+        "https://telegra.ph/file/29d1483bcb86bef53abac.jpg",
+        "https://telegra.ph/file/f3e932feeed92d1dce222.jpg",
+        "https://telegra.ph/file/27c1c72e7e48d716cc581.jpg",
+        "https://telegra.ph/file/ba3ac2feeb48813636110.jpg",
+        "https://telegra.ph/file/3d20d378c6d71326362b9.jpg",
+        "https://telegra.ph/file/700837c0e21835a65bd7b.jpg"
+    ]
+};

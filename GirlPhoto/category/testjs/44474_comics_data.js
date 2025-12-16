@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44474,
+    "title": "Choi Ji Yun - Shego",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Shego-11-27",
+    "images": [
+        "https://telegra.ph/file/616b27ab141650d06391c.jpg",
+        "https://telegra.ph/file/c3396502ba42482f336e1.jpg",
+        "https://telegra.ph/file/72bcf04fcec29b7c4153e.jpg",
+        "https://telegra.ph/file/616df51e4a6657ac8eda3.jpg",
+        "https://telegra.ph/file/4719119cdbf37fbc27f52.jpg",
+        "https://telegra.ph/file/591a5e7109fc758e9786f.jpg",
+        "https://telegra.ph/file/8c748643c5ecf75c8805d.jpg",
+        "https://telegra.ph/file/867584afaad42776aab72.jpg",
+        "https://telegra.ph/file/3e8c2ca38d66a9708e8fe.jpg",
+        "https://telegra.ph/file/ba6e9d3d44ad6fe7d43df.jpg",
+        "https://telegra.ph/file/c36d808c4d0c633219114.jpg",
+        "https://telegra.ph/file/66fafc52554291fdd6ae9.jpg",
+        "https://telegra.ph/file/2e88fc7e2e60702fddd28.jpg",
+        "https://telegra.ph/file/11886a3fa17db48ea44bc.jpg",
+        "https://telegra.ph/file/64d3fc902dfbbb41bc37f.jpg",
+        "https://telegra.ph/file/794e98e37e8db3fc171c8.jpg",
+        "https://telegra.ph/file/4653c844fb9d793077303.jpg",
+        "https://telegra.ph/file/8d69080d6139b24136512.jpg",
+        "https://telegra.ph/file/4bbbef47cfae151663419.jpg",
+        "https://telegra.ph/file/49115c5ca662023e76d41.jpg",
+        "https://telegra.ph/file/c3f713def306a8363750c.jpg",
+        "https://telegra.ph/file/dc5558c4a4d7ef600f77d.jpg",
+        "https://telegra.ph/file/6d4ae3eded2e29f2e97d6.jpg",
+        "https://telegra.ph/file/9126ed64490c67450e958.jpg",
+        "https://telegra.ph/file/0c1933e4c458c7591634a.jpg"
+    ]
+};

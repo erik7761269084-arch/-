@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 45651,
+    "title": "Byoru - Bremerton - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru---Bremerton---Page-1-10-13",
+    "images": [
+        "https://telegra.ph/file/37f3d72cff402d90a9cb6.jpg",
+        "https://telegra.ph/file/31d2f4701b7b29b3084e2.jpg",
+        "https://telegra.ph/file/398c72de69fcdfc3ac209.jpg",
+        "https://telegra.ph/file/2345bfc2806d31d1bb4c9.jpg",
+        "https://telegra.ph/file/4bfe612d1709bb7282f12.jpg",
+        "https://telegra.ph/file/372799e2a21598b2ed9ca.jpg",
+        "https://telegra.ph/file/7210564dacb18a4f9b293.jpg",
+        "https://telegra.ph/file/347ec9ccb118aa2a0e8ab.jpg",
+        "https://telegra.ph/file/f9ee5e90bd60b78611560.jpg",
+        "https://telegra.ph/file/2038f512b6cd1cf467ba2.jpg",
+        "https://telegra.ph/file/b55e9c0135224a08509e7.jpg",
+        "https://telegra.ph/file/8e7bc7ee39ae495e69e7c.jpg",
+        "https://telegra.ph/file/5fe3d69f40f797b4789d8.jpg",
+        "https://telegra.ph/file/95b8f461e4c363494e00e.jpg",
+        "https://telegra.ph/file/06915efb7613862b3edba.jpg",
+        "https://telegra.ph/file/a900d82139da13727fced.jpg",
+        "https://telegra.ph/file/5d85cc14dd9474e88d976.jpg",
+        "https://telegra.ph/file/2e6a8680e7bedc19661da.jpg",
+        "https://telegra.ph/file/e897ca6ef6d7b8c2309b3.jpg",
+        "https://telegra.ph/file/0098e807ae9d7bdb73016.jpg",
+        "https://telegra.ph/file/33d2d0ea98c01616534d1.jpg",
+        "https://telegra.ph/file/b7592b3ac5297b90f97b0.jpg",
+        "https://telegra.ph/file/81fbe52775d8549ccdb1a.jpg",
+        "https://telegra.ph/file/ab34c11d5dd47e1306b8a.jpg"
+    ]
+};

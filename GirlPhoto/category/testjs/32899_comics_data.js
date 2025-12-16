@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32899,
+    "title": "Cosplay Shika小鹿鹿 黑山梗菜",
+    "sourceUrl": "https://telegra.ph/Cosplay-Shika小鹿鹿-黑山梗菜-01-11",
+    "images": [
+        "https://telegra.ph/file/7cf5c2b775c9d1ad08be0.jpg",
+        "https://telegra.ph/file/798497de0b8b00e29848e.jpg",
+        "https://telegra.ph/file/ea20a41bf663a9fe117f2.jpg",
+        "https://telegra.ph/file/6814357a1e4286d59f706.jpg",
+        "https://telegra.ph/file/8b18dbaa3c6ecf3dfbb0f.jpg",
+        "https://telegra.ph/file/b39f441d3bf5e61f60478.jpg",
+        "https://telegra.ph/file/4b3e8152e4b8e8d07e897.jpg",
+        "https://telegra.ph/file/e5940a8c3b0c81679895b.jpg",
+        "https://telegra.ph/file/73c5098cf4749235c340c.jpg",
+        "https://telegra.ph/file/48dad0be5800b153d13e8.jpg",
+        "https://telegra.ph/file/4c488444fce40bdda5b43.jpg",
+        "https://telegra.ph/file/b91259aca2161b9840222.jpg",
+        "https://telegra.ph/file/84360e5694440e5647172.jpg",
+        "https://telegra.ph/file/0caf81ba51aad904fcd92.jpg",
+        "https://telegra.ph/file/5f9d56a98ec9e3a4fac76.jpg",
+        "https://telegra.ph/file/ba573555e48a60e6d090a.jpg",
+        "https://telegra.ph/file/bae57310794f7be72cd9e.jpg",
+        "https://telegra.ph/file/8119c668bb8e17e223ed8.jpg",
+        "https://telegra.ph/file/a4d35d329f127c96351aa.jpg",
+        "https://telegra.ph/file/23d3c4855be721a4e9031.jpg",
+        "https://telegra.ph/file/b3f1ba4e9828b59d60723.jpg",
+        "https://telegra.ph/file/d7f247e7618742fccedd4.jpg",
+        "https://telegra.ph/file/ad8beff9b8ff69dd57d8d.jpg",
+        "https://telegra.ph/file/670aedaea3c43fe5232ed.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49241,
+    "title": "Rioko凉凉子 - 尾张毛衣 - Page 1",
+    "sourceUrl": "https://telegra.ph/Rioko凉凉子---尾张毛衣---Page-1-01-15",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYVnhv9Bzc7CopX6pvjHAb16Hqu25wACdxQAAh-6OFRZM1c_KHu-DzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYZnhv9RQCBBO6zEqbBYqr1okRMz6gACeBQAAh-6OFSx8ZXit6U7OTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYdnhv9X6TIpO2SYz6UWGlJ5IpMMTAACeRQAAh-6OFQFwwbR_1wShDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYhnhv9bWY12YEH2Oyjq5vL9kaZ8uAACehQAAh-6OFRjoF8Y93O7AAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYlnhv9dqWuQYavSNnadVUtJ29tANAACexQAAh-6OFQ2bRfu7w3w6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYpnhv9glcrDKpdsRgGStFfjwFKVSAACfBQAAh-6OFT8lGdKxS1lBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYtnhv9iFraJ-E3uYGyIN5Opb6m20wACfRQAAh-6OFR8ZpGO_Pu4ZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgYxnhv9lzbAl_csHxNAh9wbuMYZa0gACfhQAAh-6OFS23AABkHRFf-s2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgY1nhv9nt63mzzW2mmKlSR_0EquaRgACfxQAAh-6OFSmDRFZEmK1hzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgY5nhv9qN9-yRJjLeZrEBIs-y1x-hQACgBQAAh-6OFQzROkqGZ4TgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgY9nhv9tpzxnWRgtj1IygW46SzpzCwACgRQAAh-6OFRlLmiO_cGhHjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZBnhv9yFp7GWCPMmD1A0Aw734Iq4gACghQAAh-6OFQn-Mu18iEtvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZFnhv907m1IkTp2XP7agLFMOJ1-2QACgxQAAh-6OFR2ZPjenQFOETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZJnhv96-Cf6IprJL-YBrt1yVtTO3wAChBQAAh-6OFS2aplsGFsFAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZNnhv986JGv8E4CBmia96I7JwxItAAChRQAAh-6OFRZp1nB-rOTDzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZRnhv9_5uIHlOqu9DkhXF2dG3QPOgAChhQAAh-6OFS9TbGZTTL9bjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZVnhv-BvD_962AIRQjxhTiFPkDk7QAChxQAAh-6OFSJ_VG4KU2UrzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZZnhv-D2VL4flLSPNZGokOrOe11ggACiBQAAh-6OFTVS1YYcbq2TDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZdnhv-GlQV--11dfHTxCXAe8RdCxwACiRQAAh-6OFRvqBxq5hzteDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZhnhv-Ji96guxePgSry1sRRFL11XAACihQAAh-6OFS-WBmF_daw2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZlnhv-MBwS0vnpv5DVxXNxYugbFywACixQAAh-6OFQc4DN11Rm_pTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZpnhv-Oa_yShoVMeHy6t9gtNOafkQACjBQAAh-6OFSZLC9-mW4K0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZtnhv-RS3pORXbqkm1WtQH4e7of4AACjRQAAh-6OFRRujh7vQdHrzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDgZxnhv-UQY9vsERhAAHpMrkCkgyd52cAAo4UAAIfujhUz3tUSBVM9oQ2BA"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38285,
+    "title": "Byoru - Kaine (Nier Replicant)",
+    "sourceUrl": "https://telegra.ph/Byoru---Kaine-Nier-Replicant-09-25",
+    "images": [
+        "https://telegra.ph/file/4fea48e3a81f8106c2a85.jpg",
+        "https://telegra.ph/file/aca3d3624043265deb450.jpg",
+        "https://telegra.ph/file/25c963c13c6b60897cac6.jpg",
+        "https://telegra.ph/file/471517e995cbc7ecd7bdc.jpg",
+        "https://telegra.ph/file/0dbebfd7639a805ebb260.jpg",
+        "https://telegra.ph/file/d626805950606dd5d3979.jpg",
+        "https://telegra.ph/file/2de3fb83d41856d35e29e.jpg",
+        "https://telegra.ph/file/b0411be9b55d981183e6e.jpg",
+        "https://telegra.ph/file/33e61613674570b71b208.jpg",
+        "https://telegra.ph/file/e922acbb1e9c7611ac0e5.jpg",
+        "https://telegra.ph/file/c83df2b884010af05d9ff.jpg",
+        "https://telegra.ph/file/b01a2e6cc0bf6cf9027f0.jpg",
+        "https://telegra.ph/file/b191750082c7e2e2f5cde.jpg",
+        "https://telegra.ph/file/1e07219667cb96340be9c.jpg",
+        "https://telegra.ph/file/f891fbb4027f39fc87cf3.jpg",
+        "https://telegra.ph/file/90b1f6a1f4876d10195fe.jpg",
+        "https://telegra.ph/file/a0c2a0a48889a15a0478c.jpg",
+        "https://telegra.ph/file/07df58709e0d037760ad4.jpg",
+        "https://telegra.ph/file/0c0da3156be81ebdb5d1e.jpg",
+        "https://telegra.ph/file/26fcf3101ba191036011a.jpg",
+        "https://telegra.ph/file/a188f211fa52e9f1b3e5a.jpg",
+        "https://telegra.ph/file/bc7fe52c917de50557af2.jpg",
+        "https://telegra.ph/file/2916bcbe5e3e0cc9f0c1e.jpg",
+        "https://telegra.ph/file/8b53f80240ad3153860d5.jpg",
+        "https://telegra.ph/file/c20eb85437c2af3382258.jpg"
+    ]
+};

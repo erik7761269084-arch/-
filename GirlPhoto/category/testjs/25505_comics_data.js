@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25505,
+    "title": "猫九酱-2016.12.29 BOL.016 猫九酱Sakura 沙漠旅拍[31P]",
+    "sourceUrl": "https://telegra.ph/%E7%8C%AB%E4%B9%9D%E9%85%B1-20161229-BOL016-%E7%8C%AB%E4%B9%9D%E9%85%B1Sakura-%E6%B2%99%E6%BC%A0%E6%97%85%E6%8B%8D31P-01-19",
+    "images": [
+        "https://telegra.ph/file/932e63c926d92b7f98a36.jpg",
+        "https://telegra.ph/file/fe3176726f2a9bdad4484.jpg",
+        "https://telegra.ph/file/f2bbd867909054eed798b.jpg",
+        "https://telegra.ph/file/c705ce960743853b3acee.jpg",
+        "https://telegra.ph/file/86c080967c168d7420b22.jpg",
+        "https://telegra.ph/file/3b92c1a835b58ec35b5c4.jpg",
+        "https://telegra.ph/file/5fe6279c748419acc5d55.jpg",
+        "https://telegra.ph/file/25103bd24b68b351f01db.jpg",
+        "https://telegra.ph/file/53b63274b93a8125046e5.jpg",
+        "https://telegra.ph/file/80198c34018feb69860e5.jpg",
+        "https://telegra.ph/file/a2c4b408342959d93efa3.jpg",
+        "https://telegra.ph/file/05282fcfaa8e910e50374.jpg",
+        "https://telegra.ph/file/cf150a3d85218def930fd.jpg",
+        "https://telegra.ph/file/70a608e27e4870c96c4ba.jpg",
+        "https://telegra.ph/file/eff126b82a445dfdd5132.jpg",
+        "https://telegra.ph/file/7b86464c057783bb2a0fe.jpg",
+        "https://telegra.ph/file/491099abb17e3680e287b.jpg",
+        "https://telegra.ph/file/47aad70c403b54f5b50b0.jpg",
+        "https://telegra.ph/file/58a106c6e7a468a1e748e.jpg",
+        "https://telegra.ph/file/ca0b74afc0ef96128733c.jpg",
+        "https://telegra.ph/file/48fa5ab6de62032661e52.jpg",
+        "https://telegra.ph/file/1312611bdbd484b696da1.jpg",
+        "https://telegra.ph/file/397accbb988131791de96.jpg"
+    ]
+};

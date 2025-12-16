@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30161,
+    "title": "网红 HongKongDoll",
+    "sourceUrl": "https://telegra.ph/网红-HongKongDoll-04-05",
+    "images": [
+        "https://telegra.ph/file/8ef73295a29aedfca3286.jpg",
+        "https://telegra.ph/file/f61baa957eb9772f58abd.jpg",
+        "https://telegra.ph/file/a4413f26de04a89476657.jpg",
+        "https://telegra.ph/file/b4d4eaf1e8458aed0bd9a.jpg",
+        "https://telegra.ph/file/15fc0512d16c54a957b38.jpg",
+        "https://telegra.ph/file/a128bc1a0fc6da3b2691c.jpg",
+        "https://telegra.ph/file/b730ccfdb26f9a6499d30.jpg",
+        "https://telegra.ph/file/b7934a94241f65241082e.jpg",
+        "https://telegra.ph/file/3ab3089e61a775e1d5597.jpg",
+        "https://telegra.ph/file/fcad4345cc3549637db73.jpg",
+        "https://telegra.ph/file/9d2eb78a53b446ab20f43.jpg",
+        "https://telegra.ph/file/84c2a48878d16663ecaf5.jpg",
+        "https://telegra.ph/file/c8a5f44870f398573702c.jpg",
+        "https://telegra.ph/file/9ed4f9002df0dc54634f6.jpg",
+        "https://telegra.ph/file/6733643dd0b27b91f4488.jpg",
+        "https://telegra.ph/file/17f798bf7b520c537606e.jpg",
+        "https://telegra.ph/file/601f4efb024a4e16e9544.jpg",
+        "https://telegra.ph/file/9aea1f6f595fb860d46e8.jpg",
+        "https://telegra.ph/file/562dfb279b258aefa27a6.jpg",
+        "https://telegra.ph/file/20c56058054eecf4a74e9.jpg",
+        "https://telegra.ph/file/866b61d9db4c4d45b0db8.jpg",
+        "https://telegra.ph/file/0cb83974fee8ad9348414.jpg",
+        "https://telegra.ph/file/0626ab2bf44757359f2a7.jpg",
+        "https://telegra.ph/file/ba84a168035fffae76014.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

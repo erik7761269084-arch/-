@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23541,
+    "title": "桜桃喵 拢花 23P",
+    "sourceUrl": "https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5-%E6%8B%A2%E8%8A%B1-23P-03-05",
+    "images": [
+        "https://telegra.ph/file/fb91ccd543b60da1e3908.jpg",
+        "https://telegra.ph/file/2f9e93133985d91555fad.jpg",
+        "https://telegra.ph/file/ecdd29d82e1aed0d3c047.jpg",
+        "https://telegra.ph/file/154cbdddf08267be407ef.jpg",
+        "https://telegra.ph/file/b429c56d88e7149e002f3.jpg",
+        "https://telegra.ph/file/a8b57ee49d4fc58288fc9.jpg",
+        "https://telegra.ph/file/72f39c34089d087ad42f0.jpg",
+        "https://telegra.ph/file/561076f2da1e3bb1dfba4.jpg",
+        "https://telegra.ph/file/060de9af4abf586df362c.jpg",
+        "https://telegra.ph/file/72b6ee1c8b4915d22d50d.jpg",
+        "https://telegra.ph/file/6a95d7f57d5a3146c9247.jpg",
+        "https://telegra.ph/file/e583f7fc4d7bfd663a04f.jpg",
+        "https://telegra.ph/file/5f015ede4cf4ec53d9d03.jpg",
+        "https://telegra.ph/file/2d8154bc95482a7638256.jpg",
+        "https://telegra.ph/file/63fbdb5d7d3d8103963cc.jpg",
+        "https://telegra.ph/file/6a306eb185b1daedc674b.jpg",
+        "https://telegra.ph/file/a1e6a81622b0b81f7552f.jpg",
+        "https://telegra.ph/file/016126b933a4295b1764c.jpg",
+        "https://telegra.ph/file/5577ddee47cee6cbcbc0a.jpg",
+        "https://telegra.ph/file/2fe76344e1f5bbfb2aaf6.jpg",
+        "https://telegra.ph/file/505b21b3e0a1b0c8dd022.jpg",
+        "https://telegra.ph/file/f07659f159caecd1a1571.jpg",
+        "https://telegra.ph/file/53307a22842c7ec049f3b.jpg"
+    ]
+};

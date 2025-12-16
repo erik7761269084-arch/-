@@ -1,0 +1,27 @@
+const comicData = {
+    "IDcode": 49609,
+    "title": "Kaya Azur Lane - Page 1",
+    "sourceUrl": "https://telegra.ph/Kaya-Azur-Lane---Page-1-02-03",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WZnoB9v9RscLM7OHS2EHFNRWBaB1gACrBgAArJNAAFVEXZArgABt9TTNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WdnoB9xXA0WrqfxFxiIJ1VqOGu0mwACrRgAArJNAAFVV0Lh09n-YhY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WhnoB9yD7NJg2tBZAo7BXs7eaHWnwACrhgAArJNAAFV2r3liYKJdHQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WlnoB91dKKmt5vdpyye-Rva8H6FYwACrxgAArJNAAFVmp6-KEoQKpE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WpnoB92vZht0Nt24JSb2jb60RgqMQACsBgAArJNAAFVuQ1j0b6mDEk2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WtnoB94A6DjSgsJfFMw7zH7GcMwNAACsRgAArJNAAFVnuzQOfEqFhg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5WxnoB96jIAOmFo7X5jgtKrOSY3-DgACshgAArJNAAFVA-gevfb2ZQY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5W1noB98jgNNwTt1g4sJtgex3PQQ_AACsxgAArJNAAFVmKsC1OMjZhE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5W5noB9-9D_mqU6hdsI30q5inSRExQACtBgAArJNAAFVENCbyHxd7vQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5W9noB-AM8Q-NwoyQwGG5J8Irq0P2AACtRgAArJNAAFV4c28l_IBrFI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XBnoB-B_xHOK6HJJNqwIju8vZ3nPwACthgAArJNAAFVP6cpMXhVid82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XFnoB-DcpIeIxADqk0yrzw1QaTFEQACtxgAArJNAAFV3aNSzA18oIc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XJnoB-Fr_tsPCi9Bq0u5I00PDVM2wACuBgAArJNAAFVIQ77unDZUkI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XNnoB-GfLjsDt54EHli_gi-j8d5SQACuRgAArJNAAFVzCWiFBZo8cY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XRnoB-IvhpbocJUs38hqYFTx4riBwACuhgAArJNAAFV6OcifkUiokA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XZnoB-JH0TX8Vn3XnNF6QPn0gq_2QACvBgAArJNAAFV_ixfkpWRZKA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XhnoB-LxT-ivi0Ba1wbUOzVDrthHwACvhgAArJNAAFVS6lula01JmI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XpnoB_KsigAAZs6ZZ5UmDmroeNmi1AAAsEYAAKyTQABVdcrJ6WrQYvoNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5XxnoB_MhWvZ4z0BHOjboLoWF85idQACwxgAArJNAAFVwzAyM9g7DXY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5X5noB_P41_4YBaQEQ-9cqHVjblvRwACxRgAArJNAAFVGzv9d-lW4C02BA"
+    ]
+};

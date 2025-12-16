@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24288,
+    "title": "阿包也是兔娘 - 12月神里凌华",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98---12%E6%9C%88%E7%A5%9E%E9%87%8C%E5%87%8C%E5%8D%8E-04-06",
+    "images": [
+        "https://telegra.ph/file/08858d0c527b893408998.jpg",
+        "https://telegra.ph/file/5c660251b620b6e2cdca5.jpg",
+        "https://telegra.ph/file/ca6183591497f657cf0d3.jpg",
+        "https://telegra.ph/file/8eda932b80a94b1ea93c6.jpg",
+        "https://telegra.ph/file/4bdd551af7e8e8eda6d79.jpg",
+        "https://telegra.ph/file/353e3971bf3fff03e4d0f.jpg",
+        "https://telegra.ph/file/50da44c3d22c65459d38b.jpg",
+        "https://telegra.ph/file/18ccea48c6fb43a24c86d.jpg",
+        "https://telegra.ph/file/42a55ee0e020a0a124629.jpg",
+        "https://telegra.ph/file/d3aae656f5885d1ee5b08.jpg",
+        "https://telegra.ph/file/e9d1f70a6c2c94b09ce74.jpg",
+        "https://telegra.ph/file/6278ec56f287469da0f92.jpg",
+        "https://telegra.ph/file/093351d97c54071a64e78.jpg",
+        "https://telegra.ph/file/9b0f57dc4afc1f05819c9.jpg",
+        "https://telegra.ph/file/15f763591d25019c20489.jpg",
+        "https://telegra.ph/file/b15c703c90fc730bcb4d2.jpg",
+        "https://telegra.ph/file/942f9764759a90219af1a.jpg",
+        "https://telegra.ph/file/d1ad2b6eb0519ad3249d2.jpg",
+        "https://telegra.ph/file/5881edb2f3c5c53974c8e.jpg",
+        "https://telegra.ph/file/1e51cf2da80aa0ea20b95.jpg",
+        "https://telegra.ph/file/b024e83420725e23670ee.jpg",
+        "https://telegra.ph/file/d39fb139c758d473c7990.jpg",
+        "https://telegra.ph/file/2e9147d36cd4504230f76.jpg",
+        "https://telegra.ph/file/5946dfb802b7d6b603b9c.jpg",
+        "https://telegra.ph/file/8d2df83939ed72916143f.jpg"
+    ]
+};

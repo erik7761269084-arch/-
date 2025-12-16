@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41663,
+    "title": "Caticornplay - Shiroko (Blue Archive)",
+    "sourceUrl": "https://telegra.ph/Caticornplay---Shiroko-Blue-Archive-07-03",
+    "images": [
+        "https://telegra.ph/file/86ff10a2a8e4bd7bae485.jpg",
+        "https://telegra.ph/file/10f22980ca3daac6aca73.jpg",
+        "https://telegra.ph/file/b2ce5487dcd5aaf0adbc4.jpg",
+        "https://telegra.ph/file/878ab55895620fd834d43.jpg",
+        "https://telegra.ph/file/b03fd51538325a719d736.jpg",
+        "https://telegra.ph/file/fabab0394306c062c0f2c.jpg",
+        "https://telegra.ph/file/c2d1059dfd9d7f4b1a5cf.jpg",
+        "https://telegra.ph/file/3ea63347199f2174b722e.jpg",
+        "https://telegra.ph/file/24b2057b38a4d5c84bd80.jpg",
+        "https://telegra.ph/file/a99cf4d1d7a397fca4890.jpg",
+        "https://telegra.ph/file/345aab62b185af2df0f6f.jpg",
+        "https://telegra.ph/file/d1749dd2d051d91b7494d.jpg",
+        "https://telegra.ph/file/08cd49507476a13a40baf.jpg",
+        "https://telegra.ph/file/de70f997185e6f12666ed.jpg",
+        "https://telegra.ph/file/2bca369c4f65e9c76156c.jpg",
+        "https://telegra.ph/file/e6a257bebd70392a1ba50.jpg",
+        "https://telegra.ph/file/47ce102e0feacc5aa4d37.jpg",
+        "https://telegra.ph/file/85c7bac58ee874e9e262e.jpg",
+        "https://telegra.ph/file/c146e9db7796cdc399024.jpg",
+        "https://telegra.ph/file/b558c319e3915c0d8f90e.jpg",
+        "https://telegra.ph/file/151c644ae4f4b60410be7.jpg",
+        "https://telegra.ph/file/b6caab11804810d20e59c.jpg",
+        "https://telegra.ph/file/b763e97d772d18c7c231f.jpg"
+    ]
+};

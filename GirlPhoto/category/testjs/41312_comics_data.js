@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41312,
+    "title": "Arty - Tsundere Elf (Isekai Ojisan)",
+    "sourceUrl": "https://telegra.ph/Arty---Tsundere-Elf-Isekai-Ojisan-03-28",
+    "images": [
+        "https://telegra.ph/file/aa781cce099bc79b93c6e.jpg",
+        "https://telegra.ph/file/4a91e72198445696df8a0.jpg",
+        "https://telegra.ph/file/db063dd29b95a974bd778.jpg",
+        "https://telegra.ph/file/a34b15b8af07ce32eddfe.jpg",
+        "https://telegra.ph/file/98bd7773cc421cebd8374.jpg",
+        "https://telegra.ph/file/5a3e69124ae656d50f010.jpg",
+        "https://telegra.ph/file/a27e21db7de5ea82e5d2e.jpg",
+        "https://telegra.ph/file/5940c95afa6b2a0736d97.jpg",
+        "https://telegra.ph/file/008e55900fdf186a0f55b.jpg",
+        "https://telegra.ph/file/708503060d4c2c278ad3a.jpg",
+        "https://telegra.ph/file/656562a04a4937d2ff4dc.jpg",
+        "https://telegra.ph/file/8af0ffd3b4f362079da22.jpg",
+        "https://telegra.ph/file/7183dd36f583c96eea148.jpg",
+        "https://telegra.ph/file/925438f8eb1f43f999871.jpg",
+        "https://telegra.ph/file/c4b0660a3c85c50bc4023.jpg",
+        "https://telegra.ph/file/5487c783b37ef65af10c2.jpg",
+        "https://telegra.ph/file/731805d74c3c76abb695e.jpg",
+        "https://telegra.ph/file/0df01fde24b0158c4586a.jpg",
+        "https://telegra.ph/file/5241036de0d8aa9bdf7a2.jpg",
+        "https://telegra.ph/file/4a8e8cab6ac4f2713b5b7.jpg",
+        "https://telegra.ph/file/61beae7386d0d03d79f19.jpg",
+        "https://telegra.ph/file/2160d295a687e2283a69c.jpg",
+        "https://telegra.ph/file/e5c31604240978dd47552.jpg",
+        "https://telegra.ph/file/d1caac9e1e356bb52f56f.jpg",
+        "https://telegra.ph/file/32755e5a48fc00b96eaba.jpg"
+    ]
+};

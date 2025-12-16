@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48672,
+    "title": "Lada Lyumos - Ashley - Page 1",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Ashley---Page-1-08-18",
+    "images": [
+        "https://telegra.ph/file/bcc5ad2ea233d1621ec5b.jpg",
+        "https://telegra.ph/file/7c0cffa0aac84726129da.jpg",
+        "https://telegra.ph/file/97722cc1383c4f797ec9b.jpg",
+        "https://telegra.ph/file/55853389bd6bdb65c5dc6.jpg",
+        "https://telegra.ph/file/ed08ee3724391520e2001.jpg",
+        "https://telegra.ph/file/06b0dc781462728118c97.jpg",
+        "https://telegra.ph/file/1df12a3056d7e676b18c2.jpg",
+        "https://telegra.ph/file/0dded5ab2940f1446162d.jpg",
+        "https://telegra.ph/file/a1d5c87d918c7b170eedf.jpg",
+        "https://telegra.ph/file/753826324a078fa61dfc4.jpg",
+        "https://telegra.ph/file/dc5f2d23c1dd32de18f98.jpg",
+        "https://telegra.ph/file/f2afd49850820203601f5.jpg",
+        "https://telegra.ph/file/12e3064cdf8aa64aa4c99.jpg",
+        "https://telegra.ph/file/18bf83e58f5ddf1c64879.jpg",
+        "https://telegra.ph/file/f7c74a18259f01bc34c5e.jpg",
+        "https://telegra.ph/file/3024f1c713fa0ab1670ab.jpg",
+        "https://telegra.ph/file/27c7011108a4114c280e5.jpg",
+        "https://telegra.ph/file/da1f69a878483972ac385.jpg",
+        "https://telegra.ph/file/019684b4dc29bdabbf993.jpg",
+        "https://telegra.ph/file/61006b042c4b754c3a5b4.jpg",
+        "https://telegra.ph/file/071a46a186be60db75a14.jpg",
+        "https://telegra.ph/file/2142563b692517aa697d3.jpg",
+        "https://telegra.ph/file/12a01456f718b6e9648e7.jpg",
+        "https://telegra.ph/file/17059e6b6a93264ae5338.jpg",
+        "https://telegra.ph/file/a8b0a0d3e62d35f92303c.jpg",
+        "https://telegra.ph/file/306fd299f901bdbd28986.jpg"
+    ]
+};

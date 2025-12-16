@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38757,
+    "title": "Kerocchi - No. 18 (Dragon Ball Z)",
+    "sourceUrl": "https://telegra.ph/Kerocchi---No-18-Dragon-Ball-Z-01-24",
+    "images": [
+        "https://telegra.ph/file/80407cde807d50cb8095c.jpg",
+        "https://telegra.ph/file/412fb9a1cfd1e24c76d64.jpg",
+        "https://telegra.ph/file/453b332005fb1cb798793.jpg",
+        "https://telegra.ph/file/0fbcd801a730374bed705.jpg",
+        "https://telegra.ph/file/b9b4104eb26b20fd07b2f.jpg",
+        "https://telegra.ph/file/2c6e73dd7b046a3b2ffdf.jpg",
+        "https://telegra.ph/file/639ea4ab4a4a2189c404d.jpg",
+        "https://telegra.ph/file/b7fa57000c536f6be822e.jpg",
+        "https://telegra.ph/file/04ffc0265944cfcc8605d.jpg",
+        "https://telegra.ph/file/ccfbdf02812b3b6e8368e.jpg",
+        "https://telegra.ph/file/19d18bce3d624670d41a5.jpg",
+        "https://telegra.ph/file/b7b76d50797d71bc3c3d2.jpg",
+        "https://telegra.ph/file/f9afe4f6916eb83c978d8.jpg",
+        "https://telegra.ph/file/58572526d69f554d6f8b0.jpg",
+        "https://telegra.ph/file/1c0bbbccdb45a83f91049.jpg",
+        "https://telegra.ph/file/00426dbe29c56b90f8db1.jpg",
+        "https://telegra.ph/file/52c4d86ce70cbcd0a7b73.jpg",
+        "https://telegra.ph/file/81e42c5c901ceb5251e0d.jpg",
+        "https://telegra.ph/file/19a971fffe475970194b8.jpg",
+        "https://telegra.ph/file/a24607616e118f8f2affd.jpg",
+        "https://telegra.ph/file/ab6b3a11bcbd0f17fbff5.jpg",
+        "https://telegra.ph/file/856387f372c66ab2f75de.jpg",
+        "https://telegra.ph/file/75b01dcd3547b3d9f3808.jpg",
+        "https://telegra.ph/file/84df9eedd41de4ace38bd.jpg"
+    ]
+};

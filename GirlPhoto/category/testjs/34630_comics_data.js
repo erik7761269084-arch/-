@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34630,
+    "title": "[Hoshilily 星之迟迟] 玉藻前忠犬蓄势待发",
+    "sourceUrl": "https://telegra.ph/Hoshilily-星之迟迟-玉藻前忠犬蓄势待发-07-04",
+    "images": [
+        "https://telegra.ph/file/b86609a386e4097120bf0.jpg",
+        "https://telegra.ph/file/5fc5d09b8ab3d34fb1631.jpg",
+        "https://telegra.ph/file/60872f1b924c17cfedc09.jpg",
+        "https://telegra.ph/file/bc7533cbb65bda984a47a.jpg",
+        "https://telegra.ph/file/6d49d2c615ec10619a983.jpg",
+        "https://telegra.ph/file/f361723f1eae4891eade3.jpg",
+        "https://telegra.ph/file/dc02dcae7bb93437fefe2.jpg",
+        "https://telegra.ph/file/62ac9c2395a4d907fabd8.jpg",
+        "https://telegra.ph/file/84302e2dcd2277d061d4b.jpg",
+        "https://telegra.ph/file/40a80876157f8046be83e.jpg",
+        "https://telegra.ph/file/1635d7c7c67b3f7287214.jpg",
+        "https://telegra.ph/file/8e428b9949b04e3378e17.jpg",
+        "https://telegra.ph/file/7a6e787ed2bd412ed8b17.jpg",
+        "https://telegra.ph/file/05695f4382c5baae7f7e4.jpg",
+        "https://telegra.ph/file/8309a54f39ee7d0196e25.jpg",
+        "https://telegra.ph/file/e80335960ccbbf406360e.jpg",
+        "https://telegra.ph/file/a60ed8a12904394cdc46d.jpg",
+        "https://telegra.ph/file/d4280723e56c1cf92b466.jpg",
+        "https://telegra.ph/file/ea3cf133a05678efd64f3.jpg",
+        "https://telegra.ph/file/da443fb33962c86dab28a.jpg",
+        "https://telegra.ph/file/55e2fe525d0c8794f1bb5.jpg",
+        "https://telegra.ph/file/48bcca887276a43681c97.jpg",
+        "https://telegra.ph/file/f5dbd3823dc6d20e36297.jpg",
+        "https://telegra.ph/file/203fa553673c845837bdd.jpg",
+        "https://telegra.ph/file/75ea9ed509532f4cebd49.jpg"
+    ]
+};

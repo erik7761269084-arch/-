@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47478,
+    "title": "[九曲Jean] 大鳳 - Page 1",
+    "sourceUrl": "https://telegra.ph/九曲Jean-大鳳---Page-1-04-04",
+    "images": [
+        "https://telegra.ph/file/0edfb32a7168731179a2b.jpg",
+        "https://telegra.ph/file/9d1a2c64a6e97b0156e46.jpg",
+        "https://telegra.ph/file/9b34c0449ca2c5f48f1dd.jpg",
+        "https://telegra.ph/file/b0caf52601354b9374a62.jpg",
+        "https://telegra.ph/file/28740ea09a2d8cbd01b60.jpg",
+        "https://telegra.ph/file/0f28c6761e9c739c8731f.jpg",
+        "https://telegra.ph/file/55f150fe90961d6db1ed7.jpg",
+        "https://telegra.ph/file/9ba559daba4e7bd5157f4.jpg",
+        "https://telegra.ph/file/80fe8c3f4ea709e928809.jpg",
+        "https://telegra.ph/file/d1de7ddad582def114bcd.jpg",
+        "https://telegra.ph/file/ac66909ee1b7bc751a97b.jpg",
+        "https://telegra.ph/file/e286ba759b4b8146019b8.jpg",
+        "https://telegra.ph/file/07dea493b0e1ab7f6f793.jpg",
+        "https://telegra.ph/file/2bb7e456dac4784b4416c.jpg",
+        "https://telegra.ph/file/d8436fc56eeb170ab9a9e.jpg",
+        "https://telegra.ph/file/fbfa24c3a09b0962b37d6.jpg",
+        "https://telegra.ph/file/3e2fb3f740a1f6f47fcec.jpg",
+        "https://telegra.ph/file/80eaae795e77b67b3a5fb.jpg",
+        "https://telegra.ph/file/685646187d2544aa62737.jpg",
+        "https://telegra.ph/file/1385ec7559e288fe8aee2.jpg",
+        "https://telegra.ph/file/0e23b50b34e764b73b844.jpg",
+        "https://telegra.ph/file/8341f42bfee480a3d402d.jpg",
+        "https://telegra.ph/file/16185a5b27e5775266f53.jpg",
+        "https://telegra.ph/file/520651be4590909b68598.jpg"
+    ]
+};

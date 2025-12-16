@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42244,
+    "title": "Cyberkitty - Ubel (Sou Sou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-12-01-7",
+    "images": [
+        "https://i.ibb.co/fzffy2QG/01-Ubel-1.jpg",
+        "https://i.ibb.co/vxZDBN9z/02-Ubel-2.jpg",
+        "https://i.ibb.co/ccgqSX5m/03-Ubel-3.jpg",
+        "https://i.ibb.co/jZvmZjMJ/04-Ubel-4.jpg",
+        "https://i.ibb.co/Xk5FH41Y/05-Ubel-5.jpg",
+        "https://i.ibb.co/0jtDRvRP/06-Ubel-6.jpg",
+        "https://i.ibb.co/zHjFqGT6/07-Ubel-7.jpg",
+        "https://i.ibb.co/6J1QFGzQ/08-Ubel-8.jpg",
+        "https://i.ibb.co/RGnJpZyS/09-Ubel-9.jpg",
+        "https://i.ibb.co/Q3xFfZrv/10-Ubel-10.jpg",
+        "https://i.ibb.co/jdX9CJD/11-Ubel-11.jpg",
+        "https://i.ibb.co/1Y1d3p4P/12-Ubel-12.jpg",
+        "https://i.ibb.co/PvrMTP4H/13-Ubel-13.jpg",
+        "https://i.ibb.co/N2NXTrVF/14-Ubel-14.jpg",
+        "https://i.ibb.co/BvdDtvW/15-Ubel-15.jpg",
+        "https://i.ibb.co/Xm5827k/16-Ubel-16.jpg",
+        "https://i.ibb.co/TD9sykmG/17-Ubel-17.jpg",
+        "https://i.ibb.co/nqyNqLMF/18-Ubel-18.jpg",
+        "https://i.ibb.co/xtPY8d4y/19-Ubel-19.jpg",
+        "https://i.ibb.co/DDwzdBdw/20-Ubel-20.jpg",
+        "https://i.ibb.co/MDnHkP0W/21-Ubel-21.jpg",
+        "https://i.ibb.co/XfqLYKwc/22-Ubel-22.jpg",
+        "https://i.ibb.co/5gHn0zjQ/23-Ubel-23.jpg",
+        "https://i.ibb.co/YFqCvmrX/24-Ubel-24.jpg"
+    ]
+};

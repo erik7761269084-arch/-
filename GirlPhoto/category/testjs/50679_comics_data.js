@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 50679,
+    "title": "[Xidaidai 习呆呆] 哈尔福德 with GIF (碧蓝航线) [无修正] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-哈尔福德-with-GIF-碧蓝航线-无修正---Page-1-06-30",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHf9oYo7g_aZXxLJ-98s_GJZ38YYvVQACzhkAAhInEFdbkyubHaC3JDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgABaGKO4jzMxIgcH7wP-hoXDQhUxGMAAs8ZAAISJxBXr17XPmaQa0Q2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgFoYo7kGe1RMNZJBrGPmN6uaATeDwAC0BkAAhInEFc7IJfCLuNWLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgJoYo7l0ohB5neaCp-fcOCgF704vAAC0RkAAhInEFd6eQhf2jyuhzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgNoYo7nG4LzerCny-tvl6yjY3xVQwAC0hkAAhInEFcqBnElerjRbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgRoYo7oKMrj7c-83mwzsoqf4ajmhQAC0xkAAhInEFe8N6AJ-XGPHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgVoYo7qmHhl5kUJvOtV1NU3BJew0wAC1BkAAhInEFdr0lg9cXPxWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgZoYo7tGVif5qw4d3hUjisouwmg_gAC1RkAAhInEFcnjspKmSvOUTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgdoYo7u1pa4LW0dJ6tQMuy2G9X7SgAC1hkAAhInEFf54cVHK8jAAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHghoYo7vB9uW1WLhw6gddcVvvEV0uAAC1xkAAhInEFeC3K1U2gJpvjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgloYo7xSie707pwgCX6mdIKEW_c5QAC2BkAAhInEFdAo-K8tthvkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgpoYo7zbU-2rWr9qB9pzxuO6vqKtwAC2RkAAhInEFeHOrtuYuMn4jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgtoYo70E1vYl1O_yR6o1NHeiRM3AQAC2hkAAhInEFep9EJWN1LFNzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHgxoYo72EdhvzlV5w24KF5gu3LRxOAAC2xkAAhInEFfVpluh8O-EnjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHg1oYo74UprnLInupYEJweISGqEAAZYAAtwZAAISJxBXqxXGJG867tE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHg5oYo75qK-iEamH4drmCbvHRvAGuAAC3RkAAhInEFdipvQQtf2kPjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHg9oYo77pNePtZdoTdaMxBOnyGW_MQAC3hkAAhInEFfztcaayFD-6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhBoYo79JRnOp4DznXtWYIJZHY82cwAC3xkAAhInEFfhRk1nu8wnLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhFoYo7_mi4ZA0cRZGPMhAac12wbCQAC4BkAAhInEFf_CweEPGKWGzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhJoYo8BZEiDNS4Vt-WNaHPWzNb-tQAC4RkAAhInEFcQLFcq0nsnsTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhNoYo9DaErxtKh4F7Pd3vVWUyAoPgAC4hkAAhInEFf6PM_-7S9LFDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhRoYo9GT43lWoUCX_LljHQrxZnN7wAC4xkAAhInEFevQjQV7_lZXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhVoYo9KtkKupZZAVBiB1uVys72pMwAC5BkAAhInEFfEEkFmCX7OJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhZoYo9OeGnelq7Dw5HQ-J0yQjgyMgAC5RkAAhInEFceVwxV6VhybTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENHhdoYo9RGCzSgjeRhK7IsGDv9XW6fQAC5hkAAhInEFcQbk9FaQABDjw2BA"
+    ]
+};

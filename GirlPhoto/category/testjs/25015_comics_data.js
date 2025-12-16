@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25015,
+    "title": "鬼畜瑶在不在w-透明女仆[40P]",
+    "sourceUrl": "https://telegra.ph/%E9%AC%BC%E7%95%9C%E7%91%B6%E5%9C%A8%E4%B8%8D%E5%9C%A8w-%E9%80%8F%E6%98%8E%E5%A5%B3%E4%BB%8640P-11-07",
+    "images": [
+        "https://telegra.ph/file/6fc485f3c841cd0b5b1a2.jpg",
+        "https://telegra.ph/file/48a401c32b29d69e5d0ac.jpg",
+        "https://telegra.ph/file/8a340c6809ee59a7a4278.jpg",
+        "https://telegra.ph/file/0ecd212ead6d1f33f740c.jpg",
+        "https://telegra.ph/file/3c3afd6751d119da8494c.jpg",
+        "https://telegra.ph/file/2d85979762ce3467861bc.jpg",
+        "https://telegra.ph/file/b904bee170eb3fca5aa4e.jpg",
+        "https://telegra.ph/file/6c68592282ac6777a2ed1.jpg",
+        "https://telegra.ph/file/61ff9d1905fa284745a08.jpg",
+        "https://telegra.ph/file/18412a7aa1e70e6f25d7a.jpg",
+        "https://telegra.ph/file/638c1f70bd7935d739326.jpg",
+        "https://telegra.ph/file/28b4c3dc9aee4347b17e5.jpg",
+        "https://telegra.ph/file/f696a02de91dd853c32cd.jpg",
+        "https://telegra.ph/file/4206bc6902a679fd14913.jpg",
+        "https://telegra.ph/file/8c9c154782d49c714be4c.jpg",
+        "https://telegra.ph/file/59fc4662c84dc3698b9dd.jpg",
+        "https://telegra.ph/file/ce30a8c22a2685415bacc.jpg",
+        "https://telegra.ph/file/b64adb0f658e76097ba1b.jpg",
+        "https://telegra.ph/file/23879607ee6b4a973e2fd.jpg",
+        "https://telegra.ph/file/1e47b8d4d87480a70fab4.jpg",
+        "https://telegra.ph/file/02430c848aa2b578e8b58.jpg",
+        "https://telegra.ph/file/ba3bbd9acf98ed5bef7c7.jpg",
+        "https://telegra.ph/file/9266a791588214c4f7afc.jpg",
+        "https://telegra.ph/file/b751be70f9e3a50aeaa3d.jpg",
+        "https://telegra.ph/file/6837c6ff443fd71a674ff.jpg"
+    ]
+};

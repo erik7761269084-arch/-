@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 34448,
+    "title": "Inah 이나, Espacia Korea EHC#102 Set.02",
+    "sourceUrl": "https://telegra.ph/Inah-이나-Espacia-Korea-EHC102-Set02-06-15",
+    "images": [
+        "https://telegra.ph/file/e82f5ee91edc6be4b9c94.jpg",
+        "https://telegra.ph/file/8a38eb404bf074a49b304.jpg",
+        "https://telegra.ph/file/682bc97d2ed3d77594c1a.jpg",
+        "https://telegra.ph/file/5a85d78518218e51f1163.jpg",
+        "https://telegra.ph/file/13bdefc477c9447f7e25c.jpg",
+        "https://telegra.ph/file/6535a62326c3c0a221c48.jpg",
+        "https://telegra.ph/file/a8b61dfbcc701cf9b341e.jpg",
+        "https://telegra.ph/file/7f9c5c96c1f9115d2fef2.jpg",
+        "https://telegra.ph/file/cd2fc15ddbf725a1636b3.jpg",
+        "https://telegra.ph/file/d1345f0726dfff6fae34b.jpg",
+        "https://telegra.ph/file/cdf2897bd05598f92a4c8.jpg",
+        "https://telegra.ph/file/6e21742d2bbcd926eee2c.jpg",
+        "https://telegra.ph/file/2947d751f34bc9735d1f1.jpg",
+        "https://telegra.ph/file/cddcb0a082f8151f0620e.jpg",
+        "https://telegra.ph/file/4caa3b376ba5a83b11810.jpg",
+        "https://telegra.ph/file/25a1804a55a78581734e0.jpg",
+        "https://telegra.ph/file/119698da737587886997a.jpg",
+        "https://telegra.ph/file/00b2f5a23176b4cb96888.jpg",
+        "https://telegra.ph/file/885d6e6c0c77e9e6816a4.jpg",
+        "https://telegra.ph/file/720a5684481ba714bc0ab.jpg",
+        "https://telegra.ph/file/064d0252b43f4c1994fc6.jpg",
+        "https://telegra.ph/file/60107ee89e0ebe6b7e15a.jpg",
+        "https://telegra.ph/file/f1c704b1ee8853708e5ed.jpg",
+        "https://telegra.ph/file/5eebba5415123a1d0c57b.jpg",
+        "https://telegra.ph/file/3f7766edb3fa5c96a55a0.jpg",
+        "https://telegra.ph/file/0f8e7dac137a1a6213389.jpg"
+    ]
+};

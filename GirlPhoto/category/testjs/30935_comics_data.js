@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30935,
+    "title": "Momona Koibuchi 恋渕ももな, ＦＲＩＤＡＹデジタル写真集 「とろけるたわわ＆ももいろの」 Set.03",
+    "sourceUrl": "https://telegra.ph/Momona-Koibuchi-恋渕ももな-ＦＲＩＤＡＹデジタル写真集-とろけるたわわももいろの-Set03-07-28",
+    "images": [
+        "https://telegra.ph/file/78b340525a66336dbe8fa.jpg",
+        "https://telegra.ph/file/c87d3a3deeb24c706961b.jpg",
+        "https://telegra.ph/file/0c46dadbe8c47ebca12d3.jpg",
+        "https://telegra.ph/file/5eb7fdcb256cc5610ec42.jpg",
+        "https://telegra.ph/file/41338949c29ea585ae0b4.jpg",
+        "https://telegra.ph/file/d349d5b849ca4b32ee343.jpg",
+        "https://telegra.ph/file/362a4eff65d134266eb2b.jpg",
+        "https://telegra.ph/file/818f398c26077ba43d64c.jpg",
+        "https://telegra.ph/file/9971a9c8b3ca017406218.jpg",
+        "https://telegra.ph/file/ce8d5b7adfefea908b389.jpg",
+        "https://telegra.ph/file/b7368d31bbc8c590fbc47.jpg",
+        "https://telegra.ph/file/9177764000bbdd713c6e0.jpg",
+        "https://telegra.ph/file/988b882c6010d33b91b05.jpg",
+        "https://telegra.ph/file/0550980e208c076ac9853.jpg",
+        "https://telegra.ph/file/081855ed41d87bba032dc.jpg",
+        "https://telegra.ph/file/1cdadfbde4995be7ad395.jpg",
+        "https://telegra.ph/file/a502920087b3fb7a61e9f.jpg",
+        "https://telegra.ph/file/2026e7d7c150fa0fd281b.jpg",
+        "https://telegra.ph/file/dcae684765c40fc07fe75.jpg",
+        "https://telegra.ph/file/4778a036554871d9f6699.jpg",
+        "https://telegra.ph/file/8e1f3186a5a0b64abfc15.jpg",
+        "https://telegra.ph/file/2fd6266079840568b21d0.jpg",
+        "https://telegra.ph/file/b48b4e6e6831d932587ee.jpg",
+        "https://telegra.ph/file/9327c1907dc168c313857.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

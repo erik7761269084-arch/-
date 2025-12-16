@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45511,
+    "title": "G44不会受伤 NO.085 水兰儿白旗袍 - Page 1",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-NO085-水兰儿白旗袍---Page-1-09-28",
+    "images": [
+        "https://telegra.ph/file/83929abdecdaa92179df5.jpg",
+        "https://telegra.ph/file/87cef79fd93bb0f811479.jpg",
+        "https://telegra.ph/file/543ccbe6fbdb7f08a68ea.jpg",
+        "https://telegra.ph/file/569e060e4938eace402d6.jpg",
+        "https://telegra.ph/file/fed5e83dbd954ec8197c9.jpg",
+        "https://telegra.ph/file/2785ca6e5e2135fbabbe0.jpg",
+        "https://telegra.ph/file/3051a36c80244ae34b6de.jpg",
+        "https://telegra.ph/file/fe100284d09beed257f49.jpg",
+        "https://telegra.ph/file/7b7e3793a7d11d41b302d.jpg",
+        "https://telegra.ph/file/faf5c423062713d73dc1a.jpg",
+        "https://telegra.ph/file/579ac4b8cfa996088502d.jpg",
+        "https://telegra.ph/file/ed34458793ea88c04b532.jpg",
+        "https://telegra.ph/file/2528e11a353660a122492.jpg",
+        "https://telegra.ph/file/0e03a2a2dfa25638a2c4f.jpg",
+        "https://telegra.ph/file/7edc34ace1f5a7b66898f.jpg",
+        "https://telegra.ph/file/06318876220d03282b1ec.jpg",
+        "https://telegra.ph/file/1ef890a30f12eb37f0d34.jpg",
+        "https://telegra.ph/file/409a583ce11f4bf62bbfc.jpg",
+        "https://telegra.ph/file/2570682960687eb1f15c1.jpg",
+        "https://telegra.ph/file/181e45061776017a13925.jpg",
+        "https://telegra.ph/file/d57cb8782f9a6320c202c.jpg",
+        "https://telegra.ph/file/502c00d278a99066b71e8.jpg",
+        "https://telegra.ph/file/8caab80ce1384230259bf.jpg",
+        "https://telegra.ph/file/02b2f12ad37b076333d08.jpg",
+        "https://telegra.ph/file/e4acf737bd9eaad485373.jpg"
+    ]
+};

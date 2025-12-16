@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 22900,
+    "title": "Neppuネップ U1196 [23P5V46.2MB]",
+    "sourceUrl": "https://telegra.ph/Neppu%E3%83%8D%E3%83%83%E3%83%97-U1196-23P5V462MB-12-22",
+    "images": [
+        "https://telegra.ph/file/16de5781bfc6fd3cf9c88.jpg",
+        "https://telegra.ph/file/956030081d969a51ac8b3.jpg",
+        "https://telegra.ph/file/f48aace162fb03b6001ef.jpg",
+        "https://telegra.ph/file/44d7ccb6babc5feb9fc9e.jpg",
+        "https://telegra.ph/file/6b0d89296bd506c1e55e8.jpg",
+        "https://telegra.ph/file/316defe27938607ff9aeb.jpg",
+        "https://telegra.ph/file/3386d8abbdc12cd320a90.jpg",
+        "https://telegra.ph/file/f38985ce4cfeffe16afe2.jpg",
+        "https://telegra.ph/file/de16d18a12f1f7c319eac.jpg",
+        "https://telegra.ph/file/63ac4aa2154b0e559eb76.jpg",
+        "https://telegra.ph/file/825789f2cf8e0b7f223a7.jpg",
+        "https://telegra.ph/file/c530cb77864abd98483d8.jpg",
+        "https://telegra.ph/file/a6e6b4d031f2271d9cbbc.jpg",
+        "https://telegra.ph/file/d8c1e16410731ac85cf26.jpg",
+        "https://telegra.ph/file/2cefa67918cd12630401b.jpg",
+        "https://telegra.ph/file/c07d2d53539f3e88c4a61.jpg",
+        "https://telegra.ph/file/ec311e14a1e72c485c5dd.jpg",
+        "https://telegra.ph/file/29544748641dfd174b78e.jpg",
+        "https://telegra.ph/file/c59a6939e367de77e57c6.jpg",
+        "https://telegra.ph/file/bb6c98a8665562c3b37a3.jpg",
+        "https://telegra.ph/file/819d4760c06e275e0f77c.jpg",
+        "https://telegra.ph/file/90eb1b9f4fdeba90ddb2c.jpg",
+        "https://telegra.ph/file/44e4bd7973bc73b07c689.jpg"
+    ]
+};

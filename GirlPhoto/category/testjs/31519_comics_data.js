@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31519,
+    "title": "Cosplay 神楽坂真冬 绝对服从",
+    "sourceUrl": "https://telegra.ph/Cosplay-神楽坂真冬-绝对服从-08-16",
+    "images": [
+        "https://telegra.ph/file/5e176797067003865eb22.jpg",
+        "https://telegra.ph/file/114bd1e822dddfa13e98e.jpg",
+        "https://telegra.ph/file/33a1f696c030a9ad55e31.jpg",
+        "https://telegra.ph/file/e0a606d84b2dd0db1c7ef.jpg",
+        "https://telegra.ph/file/4609e3163ec224c507cb1.jpg",
+        "https://telegra.ph/file/f049488c9711ed1bbd7fd.jpg",
+        "https://telegra.ph/file/7ccfa6435ef1233a0836f.jpg",
+        "https://telegra.ph/file/72e552df8a2b693e5e299.jpg",
+        "https://telegra.ph/file/9d8826b8b20d00f5071a8.jpg",
+        "https://telegra.ph/file/fee5c2d854e061ff66e1e.jpg",
+        "https://telegra.ph/file/89400344f632429538a5f.jpg",
+        "https://telegra.ph/file/3164abaff4f35d7eb25df.jpg",
+        "https://telegra.ph/file/8c2521a5e84c9e8437d21.jpg",
+        "https://telegra.ph/file/bdc09197fad91f465daf7.jpg",
+        "https://telegra.ph/file/19d76a226286e3fd08785.jpg",
+        "https://telegra.ph/file/9b2c2123fdd26b27d093e.jpg",
+        "https://telegra.ph/file/8155e060054a8f0dda119.jpg",
+        "https://telegra.ph/file/ec3aec76f61a966ac92e1.jpg",
+        "https://telegra.ph/file/ec061f74909a374023b4f.jpg",
+        "https://telegra.ph/file/a189f9b54efc5c6dcc98f.jpg",
+        "https://telegra.ph/file/6691df7d344ee4fad2376.jpg",
+        "https://telegra.ph/file/acb3d478de32a334d4cfb.jpg",
+        "https://telegra.ph/file/6d590151c5b00ac2506d1.jpg",
+        "https://telegra.ph/file/b167e98c3e0914be2183e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

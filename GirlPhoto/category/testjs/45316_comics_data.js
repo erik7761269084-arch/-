@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45316,
+    "title": "Xidaidai(习呆呆) - 草神 - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai习呆呆---草神---Page-1-08-11",
+    "images": [
+        "https://telegra.ph/file/e8487cda23fa0eb45a4c0.jpg",
+        "https://telegra.ph/file/0e0119747301eac957cf4.jpg",
+        "https://telegra.ph/file/720708c734b3490b79c4a.jpg",
+        "https://telegra.ph/file/f09f19e8112b6f1ce31c9.jpg",
+        "https://telegra.ph/file/41a3fd2f464f37a57dd96.jpg",
+        "https://telegra.ph/file/e6bd3d24c2e2d5b709c30.jpg",
+        "https://telegra.ph/file/89770a2731140130fb788.jpg",
+        "https://telegra.ph/file/fb731eacc06f286cea83e.jpg",
+        "https://telegra.ph/file/bac035f7ba2b092df59b9.jpg",
+        "https://telegra.ph/file/d8265f6499a4d2e4c8bd5.jpg",
+        "https://telegra.ph/file/069e444219abadad83b02.jpg",
+        "https://telegra.ph/file/5e2dee8985354dd38a70d.jpg",
+        "https://telegra.ph/file/114337d319d3950ceb7e2.jpg",
+        "https://telegra.ph/file/d693e7585bc3818f1dc2f.jpg",
+        "https://telegra.ph/file/576185fbb628c0765b09e.jpg",
+        "https://telegra.ph/file/9371f5e3c4186989b3043.jpg",
+        "https://telegra.ph/file/575965ee020e0408c9556.jpg",
+        "https://telegra.ph/file/f361af45477a7b359e7c5.jpg",
+        "https://telegra.ph/file/d01795c252344c1a0060a.jpg",
+        "https://telegra.ph/file/6a0455411556df4092d42.jpg",
+        "https://telegra.ph/file/c33b26d2b7ce0ab24a992.jpg",
+        "https://telegra.ph/file/940e83e62838534fbb4ee.jpg",
+        "https://telegra.ph/file/552cf6c6dab1e10cab381.jpg",
+        "https://telegra.ph/file/d6f60276ed6962d56b50b.jpg",
+        "https://telegra.ph/file/bfc515ce8038ed05734d6.jpg"
+    ]
+};

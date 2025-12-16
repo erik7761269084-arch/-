@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40713,
+    "title": "Neyrodesu - Yor Forger (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Neyrodesu---Yor-Forger-Spy-x-Family-09-14",
+    "images": [
+        "https://telegra.ph/file/f963fbccefd925a774098.jpg",
+        "https://telegra.ph/file/5f60990973a258f5e95e8.jpg",
+        "https://telegra.ph/file/3991347772442567207c8.jpg",
+        "https://telegra.ph/file/3ecb9e055d6b56fad289a.jpg",
+        "https://telegra.ph/file/11009f3881f57fe968595.jpg",
+        "https://telegra.ph/file/385fc7d5bb86343ff05c2.jpg",
+        "https://telegra.ph/file/5323afa439719b602ae4b.jpg",
+        "https://telegra.ph/file/52d31c071bd923482d6cb.jpg",
+        "https://telegra.ph/file/e91ab12d5161dde1ec6df.jpg",
+        "https://telegra.ph/file/81c1635eec00b856c101c.jpg",
+        "https://telegra.ph/file/9dcf43fe4860ca4bcb993.jpg",
+        "https://telegra.ph/file/850f1d8226ac8feeeeb5e.jpg",
+        "https://telegra.ph/file/d9d68a72035134848419b.jpg",
+        "https://telegra.ph/file/f88e4310049f859499b50.jpg",
+        "https://telegra.ph/file/18de48d11ba5988f91ef5.jpg",
+        "https://telegra.ph/file/5642cfff89bea6880633f.jpg",
+        "https://telegra.ph/file/571aa81ae7ca0ab9998f8.jpg",
+        "https://telegra.ph/file/e6189e7a6c67c59d046c0.jpg",
+        "https://telegra.ph/file/95ac28d8debdcfcc5aa20.jpg",
+        "https://telegra.ph/file/b3c571f5ad4154576bb6b.jpg",
+        "https://telegra.ph/file/beae3dff4174c1c2aebb3.jpg",
+        "https://telegra.ph/file/8110c2220e4ea093730c8.jpg",
+        "https://telegra.ph/file/6be2b723b6d11e333c3ef.jpg",
+        "https://telegra.ph/file/34d2ede523947ebb7d208.jpg",
+        "https://telegra.ph/file/a2547a59ff20016d47c80.jpg"
+    ]
+};

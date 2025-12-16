@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44939,
+    "title": "Hime Tsu - Yor",
+    "sourceUrl": "https://telegra.ph/Hime-Tsu---Yor-04-10",
+    "images": [
+        "https://telegra.ph/file/f0e3f0bacefd802c41ca1.jpg",
+        "https://telegra.ph/file/dc0785da74b1dff9e4748.jpg",
+        "https://telegra.ph/file/28e08880251f96aec27ed.jpg",
+        "https://telegra.ph/file/5206bc12c2aba63cb2f8b.jpg",
+        "https://telegra.ph/file/f92ffacf9852f7b2e62b6.jpg",
+        "https://telegra.ph/file/454c61ea942889e7549a8.jpg",
+        "https://telegra.ph/file/99da418c079c1d0dd2017.jpg",
+        "https://telegra.ph/file/72a2cdc7628b2f82c3a7d.jpg",
+        "https://telegra.ph/file/5d3fd8d32d4889f163fc6.jpg",
+        "https://telegra.ph/file/6ca1416e59dc0a4a5e7d6.jpg",
+        "https://telegra.ph/file/08b2d77da04ae9be960aa.jpg",
+        "https://telegra.ph/file/ce86d193d2481950ac2cb.jpg",
+        "https://telegra.ph/file/d63df6917c8d2090e6777.jpg",
+        "https://telegra.ph/file/48ae5a6f87f00503b7c3f.jpg",
+        "https://telegra.ph/file/81121eb0feba90c0b8d7c.jpg",
+        "https://telegra.ph/file/44db5add9e95ea93e1c8e.jpg",
+        "https://telegra.ph/file/5692ef67013ab1cec5cc8.jpg",
+        "https://telegra.ph/file/f11fb9ba12c3b98fa7783.jpg",
+        "https://telegra.ph/file/e6338fe060a55959aa004.jpg",
+        "https://telegra.ph/file/7523294eda6813e3e53e2.jpg",
+        "https://telegra.ph/file/d997a6f5bc4d9eb83c5f9.jpg",
+        "https://telegra.ph/file/fd902afbfabf84bd029fc.jpg",
+        "https://telegra.ph/file/f8094d72a8549d4041331.jpg",
+        "https://telegra.ph/file/a30dec664082971b69c24.jpg",
+        "https://telegra.ph/file/736e0012cd111803b4029.jpg",
+        "https://telegra.ph/file/0237ec76a869f6ba8f21f.jpg"
+    ]
+};

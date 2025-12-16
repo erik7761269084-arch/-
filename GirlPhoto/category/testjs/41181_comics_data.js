@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41181,
+    "title": "Choi Ji Yun - Black Naughty Rabbit",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Black-Naughty-Rabbit-02-23",
+    "images": [
+        "https://telegra.ph/file/a0f8b630cf1d11751d9bf.jpg",
+        "https://telegra.ph/file/57e2bb23f312c998a5fea.jpg",
+        "https://telegra.ph/file/ce9043ed7bac8adcf5bfb.jpg",
+        "https://telegra.ph/file/cdd5e321c733aa1f6cb65.jpg",
+        "https://telegra.ph/file/6e1bcdf3e278351d14a1d.jpg",
+        "https://telegra.ph/file/bc8e2a6340ee07cf44f5d.jpg",
+        "https://telegra.ph/file/db0f097de5284c9823262.jpg",
+        "https://telegra.ph/file/14286da2f4d89f5d1d44a.jpg",
+        "https://telegra.ph/file/2e94f01d328ef36da2e7c.jpg",
+        "https://telegra.ph/file/c2ce51a3cfdbb53514e11.jpg",
+        "https://telegra.ph/file/f89f589f58f565279c761.jpg",
+        "https://telegra.ph/file/0550b96169c88238b8d40.jpg",
+        "https://telegra.ph/file/3a93cf07acec1fa864cd2.jpg",
+        "https://telegra.ph/file/5464c7837ce44ecc6fd30.jpg",
+        "https://telegra.ph/file/f3783c0c58e4b6d31422e.jpg",
+        "https://telegra.ph/file/52392cc4734d9ba329e37.jpg",
+        "https://telegra.ph/file/0a36ac6ed46708b496068.jpg",
+        "https://telegra.ph/file/5329f7cf31a155121215d.jpg",
+        "https://telegra.ph/file/d958482641cd70585f79a.jpg",
+        "https://telegra.ph/file/5cd2c59fdaac5307b50fe.jpg",
+        "https://telegra.ph/file/1b37616b0ab72a2250774.jpg",
+        "https://telegra.ph/file/a497ad12d60ea68850f8f.jpg",
+        "https://telegra.ph/file/a4675eb599b6a272c35d5.jpg"
+    ]
+};

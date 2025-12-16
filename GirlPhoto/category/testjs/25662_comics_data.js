@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25662,
+    "title": "蜜汁猫裘-修女 [25P]",
+    "sourceUrl": "https://telegra.ph/%E8%9C%9C%E6%B1%81%E7%8C%AB%E8%A3%98-%E4%BF%AE%E5%A5%B3-25P-01-20-2",
+    "images": [
+        "https://telegra.ph/file/95de3b8e17c83a7a98e76.jpg",
+        "https://telegra.ph/file/85362c43ca0ca503f87a2.jpg",
+        "https://telegra.ph/file/89ca35736a99eca336d39.jpg",
+        "https://telegra.ph/file/aa1d1fa5f5ee150e848e8.jpg",
+        "https://telegra.ph/file/d6ba3f5ccfbcbf2fdb19e.jpg",
+        "https://telegra.ph/file/40b0f7e84e31d4c09e085.jpg",
+        "https://telegra.ph/file/26b5307d576eb8782a55f.jpg",
+        "https://telegra.ph/file/78fc7eb9858c149c0f6bb.jpg",
+        "https://telegra.ph/file/9769d2437d4ce37c92ded.jpg",
+        "https://telegra.ph/file/e10a7fec9f6c3bb273323.jpg",
+        "https://telegra.ph/file/5dd2d0e61074cbde5a37c.jpg",
+        "https://telegra.ph/file/7c5bdb61e9f0858bfa248.jpg",
+        "https://telegra.ph/file/c1665f7f114869ad1fe1d.jpg",
+        "https://telegra.ph/file/7406c66039cd51fc1115d.jpg",
+        "https://telegra.ph/file/8a777d2b7c6984d3a65bc.jpg",
+        "https://telegra.ph/file/9f59c4be2471dc3b1cefc.jpg",
+        "https://telegra.ph/file/2143d8099b0fc52adf606.jpg",
+        "https://telegra.ph/file/98b2a3884c7baa658bfa6.jpg",
+        "https://telegra.ph/file/34ddf952c5ffbedc03065.jpg",
+        "https://telegra.ph/file/228271b4a2193ca806485.jpg",
+        "https://telegra.ph/file/bc351e641dabe8caf8655.jpg",
+        "https://telegra.ph/file/d0901ee7666fbad407d3c.jpg",
+        "https://telegra.ph/file/b7a9003451ddd4146de0d.jpg",
+        "https://telegra.ph/file/a3d6a6317740a7fc28186.jpg",
+        "https://telegra.ph/file/4a682726b66cd8bc5814c.jpg"
+    ]
+};

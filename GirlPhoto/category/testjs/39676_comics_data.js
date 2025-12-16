@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39676,
+    "title": "Azami - Shuten Jiangshi (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Azami---Shuten-Jiangshi-Fate-Grand-Order-09-16",
+    "images": [
+        "https://telegra.ph/file/eb5ff03b2ed08567f286d.jpg",
+        "https://telegra.ph/file/057cf0c43e9a04301e703.jpg",
+        "https://telegra.ph/file/2c243c9632e6e886c9d9d.jpg",
+        "https://telegra.ph/file/a455adbcd11379c4b232d.jpg",
+        "https://telegra.ph/file/5e05626b625c1c0bc5502.jpg",
+        "https://telegra.ph/file/d1422ff9c4c503bb4bd01.jpg",
+        "https://telegra.ph/file/a3f2e8f681b608f3b85c5.jpg",
+        "https://telegra.ph/file/b555fcf47cbdcf1b12501.jpg",
+        "https://telegra.ph/file/71b66e0d85fa671a40cfc.jpg",
+        "https://telegra.ph/file/18f34e9ff1333823d082c.jpg",
+        "https://telegra.ph/file/d3ec804e204248008b4f7.jpg",
+        "https://telegra.ph/file/03afc886812aa0826b5b4.jpg",
+        "https://telegra.ph/file/2901f541cdb8557c1fd2e.jpg",
+        "https://telegra.ph/file/3587e28fae0404f73eb1f.jpg",
+        "https://telegra.ph/file/37f23d662cfaa422c6378.jpg",
+        "https://telegra.ph/file/b8a9d2628cafbe0131a85.jpg",
+        "https://telegra.ph/file/b6b097db3695e250cbd2d.jpg",
+        "https://telegra.ph/file/faa516aeb764ff03d37db.jpg",
+        "https://telegra.ph/file/88a96158c1399bff6a975.jpg",
+        "https://telegra.ph/file/7ed0bc5c97f527c422843.jpg",
+        "https://telegra.ph/file/4da4017953cc352aab04c.jpg",
+        "https://telegra.ph/file/54b9d516cb866c06760d8.jpg",
+        "https://telegra.ph/file/85f6f2ae82a8b5fbca37c.jpg",
+        "https://telegra.ph/file/be7336c7aeef6ca918570.jpg"
+    ]
+};

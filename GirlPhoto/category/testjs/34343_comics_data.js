@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 34343,
+    "title": "YUNA 윤아, [SAINT Photolife] Ahri Set.02",
+    "sourceUrl": "https://telegra.ph/YUNA-윤아-SAINT-Photolife-Ahri-Set02-06-04",
+    "images": [
+        "https://telegra.ph/file/075110886c7fc22add1f8.jpg",
+        "https://telegra.ph/file/da876845ef68e3a2bcf55.jpg",
+        "https://telegra.ph/file/22e86aec8d136fd266150.jpg",
+        "https://telegra.ph/file/72efbb71084a897ae6a28.jpg",
+        "https://telegra.ph/file/e4513edd10a935c04abc0.jpg",
+        "https://telegra.ph/file/6bb655ebfdcec52ec3b90.jpg",
+        "https://telegra.ph/file/8257020464df6bc0e3c05.jpg",
+        "https://telegra.ph/file/51dbbd0f66f737a10e2f4.jpg",
+        "https://telegra.ph/file/5743833cf28e657829246.jpg",
+        "https://telegra.ph/file/2ff7e285b73df421b0e45.jpg",
+        "https://telegra.ph/file/a64d2059f5d8fccfc4960.jpg",
+        "https://telegra.ph/file/3816c5e33a537434a6dd7.jpg",
+        "https://telegra.ph/file/8221d43bb57d94b61dbcd.jpg",
+        "https://telegra.ph/file/0cce37885164c7d76a014.jpg",
+        "https://telegra.ph/file/4586d1223f7b52e0f6f0c.jpg",
+        "https://telegra.ph/file/128592d23167f9ccfc2dc.jpg",
+        "https://telegra.ph/file/321697a5493f4ec92b0d9.jpg",
+        "https://telegra.ph/file/ebc1c2764503f1dc3c3da.jpg",
+        "https://telegra.ph/file/2a24f67d8f9177c96662c.jpg",
+        "https://telegra.ph/file/7bd39dd629443f79d2354.jpg",
+        "https://telegra.ph/file/cbe3858acacb468fefcc1.jpg",
+        "https://telegra.ph/file/50589eab1445000cca1b5.jpg",
+        "https://telegra.ph/file/231b507d7c9e6d3968cf8.jpg",
+        "https://telegra.ph/file/a1102d7cb7babcefa23cc.jpg",
+        "https://telegra.ph/file/935ff240fb19237c18699.jpg",
+        "https://telegra.ph/file/d3e72bd794cbcd2a647f4.jpg"
+    ]
+};

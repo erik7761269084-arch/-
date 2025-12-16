@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28371,
+    "title": "Sally Dorasnow - NO.23 Ayaka [25P-41MB]",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---NO23-Ayaka-25P-41MB-01-17",
+    "images": [
+        "https://telegra.ph/file/8709dd852fc70441d9904.jpg",
+        "https://telegra.ph/file/20241050c037c0df077a6.jpg",
+        "https://telegra.ph/file/6e85558ecd8295e10b6a2.jpg",
+        "https://telegra.ph/file/bf6d4fef3bf963d182042.jpg",
+        "https://telegra.ph/file/e4f8b7434c1de996f15a2.jpg",
+        "https://telegra.ph/file/5a9942579dd0c562ccc70.jpg",
+        "https://telegra.ph/file/ea7758520a13b181d529b.jpg",
+        "https://telegra.ph/file/202298960d807a1023ba2.jpg",
+        "https://telegra.ph/file/1ea818a8a4fac639b4d74.jpg",
+        "https://telegra.ph/file/30ee5994f31cb7ff67a5d.jpg",
+        "https://telegra.ph/file/d62ef1c96e15893dcf738.jpg",
+        "https://telegra.ph/file/5cb9c774f6097aca9a712.jpg",
+        "https://telegra.ph/file/cf1290a886e85920660c6.jpg",
+        "https://telegra.ph/file/7d247c6dc8e458dbbcfff.jpg",
+        "https://telegra.ph/file/f51acad050f4cd3d5fc2e.jpg",
+        "https://telegra.ph/file/04d4dd46e4f79e7e0bce6.jpg",
+        "https://telegra.ph/file/8176c18747279433278be.jpg",
+        "https://telegra.ph/file/1e434e942e440b87eb1ea.jpg",
+        "https://telegra.ph/file/135d75c46cb8921f55147.jpg",
+        "https://telegra.ph/file/7280b97ad8192de7fa0dd.jpg",
+        "https://telegra.ph/file/4710923af3b382e72b95d.jpg",
+        "https://telegra.ph/file/f7e7049e3eb073bf4f0f3.jpg",
+        "https://telegra.ph/file/b5883f540346247c63a5b.jpg",
+        "https://telegra.ph/file/1b92e411e181b7e46fa18.jpg",
+        "https://telegra.ph/file/60e0296c6464c0710f0e6.jpg"
+    ]
+};

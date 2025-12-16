@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47496,
+    "title": "Eimi Fukada - Ghost Legend Hanako Of The Toilet - Page 1",
+    "sourceUrl": "https://telegra.ph/Eimi-Fukada---Ghost-Legend-Hanako-Of-The-Toilet---Page-1-04-06",
+    "images": [
+        "https://telegra.ph/file/c324323c57fd6ef18d71b.jpg",
+        "https://telegra.ph/file/948f58da17ca9b03286f5.jpg",
+        "https://telegra.ph/file/2bbfa841ddd13b4820cd3.jpg",
+        "https://telegra.ph/file/b29aa8126068c40d57639.jpg",
+        "https://telegra.ph/file/1da978d20e64e047d1177.jpg",
+        "https://telegra.ph/file/45d66105b8ccab4c126c9.jpg",
+        "https://telegra.ph/file/84ad3667b9348da8a22e4.jpg",
+        "https://telegra.ph/file/8fc600f4395cae08b7548.jpg",
+        "https://telegra.ph/file/989bb1bc09a42dd6ec7d4.jpg",
+        "https://telegra.ph/file/5b2c33766a61a340f36c8.jpg",
+        "https://telegra.ph/file/8b5105f9f39dac5ffa15a.jpg",
+        "https://telegra.ph/file/eead9e8bde1a0ebf6d5fa.jpg",
+        "https://telegra.ph/file/a99f85cdaa55f7e55dcdc.jpg",
+        "https://telegra.ph/file/3394b0165bc703b3fb514.jpg",
+        "https://telegra.ph/file/16716a99ae809f887d642.jpg",
+        "https://telegra.ph/file/d2397e88d92744e1082f2.jpg",
+        "https://telegra.ph/file/5078c44de8d2d0f0dc0b3.jpg",
+        "https://telegra.ph/file/36a0cf066514239a521e8.jpg",
+        "https://telegra.ph/file/ad3da33a9f1b0a13535f1.jpg",
+        "https://telegra.ph/file/fb8125b0f9ebcfd6f33f0.jpg",
+        "https://telegra.ph/file/1989acc02abf2257e29ff.jpg",
+        "https://telegra.ph/file/59958635bd81cebbbfde8.jpg",
+        "https://telegra.ph/file/936695c190eeb97b27a3f.jpg"
+    ]
+};

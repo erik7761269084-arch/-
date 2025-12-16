@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31474,
+    "title": "小姐姐星之迟迟 Cosplay 鸣夏 扎拉",
+    "sourceUrl": "https://telegra.ph/小姐姐星之迟迟-Cosplay-鸣夏-扎拉-08-16",
+    "images": [
+        "https://telegra.ph/file/43038a586a42460ae6771.jpg",
+        "https://telegra.ph/file/28a4d2e4e0106ab03ac13.jpg",
+        "https://telegra.ph/file/36d072cf42e6a4bdb3d74.jpg",
+        "https://telegra.ph/file/78f7c39771f942c4a9bea.jpg",
+        "https://telegra.ph/file/f6b5029b2ca8a670a8814.jpg",
+        "https://telegra.ph/file/dbc9306e49723fbf919d2.jpg",
+        "https://telegra.ph/file/352ee67bcfb84dd0284c8.jpg",
+        "https://telegra.ph/file/0b00aa03a4fce8f47b89f.jpg",
+        "https://telegra.ph/file/dc8f087dce23fd36f87d5.jpg",
+        "https://telegra.ph/file/f52cb1ecf5980986c590a.jpg",
+        "https://telegra.ph/file/6bde10e8badd6d7b3ca30.jpg",
+        "https://telegra.ph/file/5b5eb33e5bcfc38ef6a00.jpg",
+        "https://telegra.ph/file/dfaea939411df612c8aa1.jpg",
+        "https://telegra.ph/file/9d618a3cc3ebcd0812d7d.jpg",
+        "https://telegra.ph/file/f4e63198cc7d9e21c1210.jpg",
+        "https://telegra.ph/file/5680abcef44f15aed3d3b.jpg",
+        "https://telegra.ph/file/fce09abc82c4921538550.jpg",
+        "https://telegra.ph/file/bf40d7983c6844ba0970b.jpg",
+        "https://telegra.ph/file/4a142ba3c4d54811ea5a6.jpg",
+        "https://telegra.ph/file/791e85312e1661c8ded2f.jpg",
+        "https://telegra.ph/file/06d06ebdd50804898806a.jpg",
+        "https://telegra.ph/file/27283c8612cc19f81b1fc.jpg",
+        "https://telegra.ph/file/458788c9937ef41cfbed5.jpg",
+        "https://telegra.ph/file/0e58d437daec7630c8f22.jpg",
+        "https://telegra.ph/file/4a13044c4ac586e8f0ad1.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46491,
+    "title": "Kitkat Cosplay 9 - St. Louis - Page 1",
+    "sourceUrl": "https://telegra.ph/Kitkat-Cosplay-9---St-Louis---Page-1-01-05",
+    "images": [
+        "https://telegra.ph/file/5acb88176158f13754c46.jpg",
+        "https://telegra.ph/file/1fedb37fe30d4d9af1c9b.jpg",
+        "https://telegra.ph/file/db009a45a25977c854d17.jpg",
+        "https://telegra.ph/file/bf8afc48a3b89ef1231a4.jpg",
+        "https://telegra.ph/file/b900cf53bb3f94abbaa2d.jpg",
+        "https://telegra.ph/file/e981d53c631db71a98caf.jpg",
+        "https://telegra.ph/file/2f8445451fd709d748d65.jpg",
+        "https://telegra.ph/file/16afaadb7355a973cc4a7.jpg",
+        "https://telegra.ph/file/925e3e4c300be80106780.jpg",
+        "https://telegra.ph/file/2df7874672cde90d31ae9.jpg",
+        "https://telegra.ph/file/ae8893b7ff71334450f17.jpg",
+        "https://telegra.ph/file/2585ec9a930ba58f3609a.jpg",
+        "https://telegra.ph/file/1ef08b7e745ef09591624.jpg",
+        "https://telegra.ph/file/bd1b5561846fad0e45123.jpg",
+        "https://telegra.ph/file/dbf8a4f0bcdb0b15f74bb.jpg",
+        "https://telegra.ph/file/5771a93bc7096e3e857ef.jpg",
+        "https://telegra.ph/file/bf4b7fd85e51db2e684d5.jpg",
+        "https://telegra.ph/file/a3e48eb08ea65d9e412cc.jpg",
+        "https://telegra.ph/file/219fb4766913b46292a00.jpg",
+        "https://telegra.ph/file/b5349c92894da11670db7.jpg",
+        "https://telegra.ph/file/8df06aa7f388767801978.jpg",
+        "https://telegra.ph/file/e8615c649b20ade0efd0b.jpg",
+        "https://telegra.ph/file/4208be36f525eaeb45182.jpg",
+        "https://telegra.ph/file/6568fee55afcf02000674.jpg",
+        "https://telegra.ph/file/7c6c451bda9dbeed6b808.jpg",
+        "https://telegra.ph/file/c3ac830aee073e33f1954.jpg"
+    ]
+};

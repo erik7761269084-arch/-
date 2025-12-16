@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31638,
+    "title": "橙子喵酱 &#8211; 阿狸 Ahri &#8211; 英雄联盟 League of Legends",
+    "sourceUrl": "https://telegra.ph/橙子喵酱-8211-阿狸-Ahri-8211-英雄联盟-League-of-Legends-08-21",
+    "images": [
+        "https://telegra.ph/file/3ca03dfc3ff6c244c796a.jpg",
+        "https://telegra.ph/file/edf4f53e664a0f8917734.jpg",
+        "https://telegra.ph/file/0a02904b21408aec2f509.jpg",
+        "https://telegra.ph/file/6bb95b0030a2a9ca8f7d2.jpg",
+        "https://telegra.ph/file/e9c0cb99a19294ebf6570.jpg",
+        "https://telegra.ph/file/a76f295c5d58b7f1240c7.jpg",
+        "https://telegra.ph/file/a10dbc3ef01d6d6520b08.jpg",
+        "https://telegra.ph/file/fcbeb104e439518946826.jpg",
+        "https://telegra.ph/file/ac04b6642c46dd1f3b755.jpg",
+        "https://telegra.ph/file/5d9e768fc9aec68491a5d.jpg",
+        "https://telegra.ph/file/2f993e6616578e9c14426.jpg",
+        "https://telegra.ph/file/928507b7a2365cb425611.jpg",
+        "https://telegra.ph/file/162c42290f1e0ebbd9685.jpg",
+        "https://telegra.ph/file/ee3f1291c7ff091483931.jpg",
+        "https://telegra.ph/file/1b5adb84d09c49f693455.jpg",
+        "https://telegra.ph/file/222d3a5704fb57b1d28fa.jpg",
+        "https://telegra.ph/file/ed595732b12d03048a54d.jpg",
+        "https://telegra.ph/file/c434e8dc4aa42f6673551.jpg",
+        "https://telegra.ph/file/a8847e2bc5cb2f635dd65.jpg",
+        "https://telegra.ph/file/ca6235f11d5b634f6cd22.jpg",
+        "https://telegra.ph/file/25b1cafc917e315566be7.jpg",
+        "https://telegra.ph/file/fc133f1d81477f293a3e1.jpg",
+        "https://telegra.ph/file/20aa88a61eecaba548170.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

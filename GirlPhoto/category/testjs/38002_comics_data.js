@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38002,
+    "title": "Lada Lyumos - Shuten Douji (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Shuten-Douji-Fate-Grand-Order-07-05",
+    "images": [
+        "https://telegra.ph/file/a91ba37936b0721a55bbb.jpg",
+        "https://telegra.ph/file/7c01abf70f570bb0ea1e1.jpg",
+        "https://telegra.ph/file/b4a51f1c9310a1fd54b33.jpg",
+        "https://telegra.ph/file/5cafd2808d70dca3fb03b.jpg",
+        "https://telegra.ph/file/1d17ec711764f1e5cf993.jpg",
+        "https://telegra.ph/file/725dc4cfb8a40bdf73681.jpg",
+        "https://telegra.ph/file/12a98af91829800ae805e.jpg",
+        "https://telegra.ph/file/fd03710fd50c77959d667.jpg",
+        "https://telegra.ph/file/e8f5271f2adf3e82f6e81.jpg",
+        "https://telegra.ph/file/573e3836e31ba563ede53.jpg",
+        "https://telegra.ph/file/6ec4c849ad79f1504c4e0.jpg",
+        "https://telegra.ph/file/096774ce7afda9a6dbd7a.jpg",
+        "https://telegra.ph/file/a6b2a196f12edde1726a6.jpg",
+        "https://telegra.ph/file/00300fbe4cb26d602cb3c.jpg",
+        "https://telegra.ph/file/dd5f1b794909ebbc7d813.jpg",
+        "https://telegra.ph/file/f5b6ecb0544b4ff9055ab.jpg",
+        "https://telegra.ph/file/d4febd5a266fb82b2448d.jpg",
+        "https://telegra.ph/file/a904896a350646c9346b6.jpg",
+        "https://telegra.ph/file/961d6500169a3a732ac7a.jpg",
+        "https://telegra.ph/file/6d4c43ca2eac554c1802c.jpg",
+        "https://telegra.ph/file/93f0b92f85a97b7d44df3.jpg",
+        "https://telegra.ph/file/69d57a3a15f1a488f2e2f.jpg",
+        "https://telegra.ph/file/b341de80d846e0fb345c4.jpg",
+        "https://telegra.ph/file/b0e8b31cf5de8248f0ccc.jpg",
+        "https://telegra.ph/file/9d351e12c7d1a120f4389.jpg",
+        "https://telegra.ph/file/b998fcc000fcf1f7d62c1.jpg"
+    ]
+};

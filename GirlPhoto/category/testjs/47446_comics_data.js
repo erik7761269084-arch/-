@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47446,
+    "title": "[水淼Aqua][Cosplay][artoria pendragon][Lancer]26P - Page 1",
+    "sourceUrl": "https://telegra.ph/水淼AquaCosplayartoria-pendragonLancer26P---Page-1-04-01",
+    "images": [
+        "https://telegra.ph/file/f773671d0cd6026d45210.jpg",
+        "https://telegra.ph/file/c6626acd276ebd7fb4eb7.jpg",
+        "https://telegra.ph/file/fbcad8bb14a0a13df8364.jpg",
+        "https://telegra.ph/file/33599ef2f90e273e44489.jpg",
+        "https://telegra.ph/file/f5dd30b44672d18d370a8.jpg",
+        "https://telegra.ph/file/250779ed130f4d7d9a3d4.jpg",
+        "https://telegra.ph/file/4ebc871e61c5ab5395840.jpg",
+        "https://telegra.ph/file/4fc65290c8cae00b01d39.jpg",
+        "https://telegra.ph/file/76a064f7a1be681bd84f2.jpg",
+        "https://telegra.ph/file/2a31fd6b3a96b085dda12.jpg",
+        "https://telegra.ph/file/7efa0dd4266d916a76b86.jpg",
+        "https://telegra.ph/file/6bb6c50a95151cad475bd.jpg",
+        "https://telegra.ph/file/17210fd190ed14227a063.jpg",
+        "https://telegra.ph/file/0ae49605efcef9cdf4220.jpg",
+        "https://telegra.ph/file/b9034342732d15e9d4131.jpg",
+        "https://telegra.ph/file/928e57c6a728f4cd18262.jpg",
+        "https://telegra.ph/file/4f06ee8e251f3d31d1dee.jpg",
+        "https://telegra.ph/file/f5bcae469959b6fe5cf77.jpg",
+        "https://telegra.ph/file/daff0d59466d797334ff0.jpg",
+        "https://telegra.ph/file/4b853a40c54ceb4592bdc.jpg",
+        "https://telegra.ph/file/87d364404a7924ecf69e2.jpg",
+        "https://telegra.ph/file/95620847f8ffdd2f9c111.jpg",
+        "https://telegra.ph/file/f144f745f5d7c93719695.jpg",
+        "https://telegra.ph/file/f8dc7a0c4264f2212523d.jpg",
+        "https://telegra.ph/file/35599a7cf4552dee14e6d.jpg",
+        "https://telegra.ph/file/d083bf8ff4b6656f291c0.jpg"
+    ]
+};

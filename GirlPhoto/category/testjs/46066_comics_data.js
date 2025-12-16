@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46066,
+    "title": "[Fantasy Factory]明日方舟  W - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory明日方舟-W---Page-1-11-23",
+    "images": [
+        "https://telegra.ph/file/a2452e39c6ab4fa753e3c.jpg",
+        "https://telegra.ph/file/559a008259fb67423fd20.jpg",
+        "https://telegra.ph/file/74e4def426bdc0a5d420f.jpg",
+        "https://telegra.ph/file/2ec7643a8a018ef14550a.jpg",
+        "https://telegra.ph/file/f35a6a84409be6e01973f.jpg",
+        "https://telegra.ph/file/d20391fc2011db199deea.jpg",
+        "https://telegra.ph/file/7f0256b71f0ad0e53c6fa.jpg",
+        "https://telegra.ph/file/02d37d260230706bb55ba.jpg",
+        "https://telegra.ph/file/b1f2993249b39f38e71cc.jpg",
+        "https://telegra.ph/file/b1fc9a27a9aac6d92631e.jpg",
+        "https://telegra.ph/file/4859d6b329828a53bc685.jpg",
+        "https://telegra.ph/file/534f08f76b86cba913842.jpg",
+        "https://telegra.ph/file/95dcc5c2dd15a1c0b9545.jpg",
+        "https://telegra.ph/file/787f809434dcfcc88537d.jpg",
+        "https://telegra.ph/file/376b928f07e052647826d.jpg",
+        "https://telegra.ph/file/98179846a79e0ba4063a7.jpg",
+        "https://telegra.ph/file/2659a805373d6ccb69384.jpg",
+        "https://telegra.ph/file/aa8415bb515fb78e8df96.jpg",
+        "https://telegra.ph/file/182b83349e01d62df9c0e.jpg",
+        "https://telegra.ph/file/e9d090c03980f48baced9.jpg",
+        "https://telegra.ph/file/a6cdb5bdad4ca0db67056.jpg",
+        "https://telegra.ph/file/44a4c4c0ef9316e99560c.jpg",
+        "https://telegra.ph/file/a51fb122218ac6ca939b4.jpg"
+    ]
+};

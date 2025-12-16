@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44519,
+    "title": "Vinnegal - Faye Valentine",
+    "sourceUrl": "https://telegra.ph/Vinnegal---Faye-Valentine-12-07",
+    "images": [
+        "https://telegra.ph/file/9052e1cb09dc4ac870003.jpg",
+        "https://telegra.ph/file/cdc993969fe17961aaacc.jpg",
+        "https://telegra.ph/file/ca50a41da083eab38e02b.jpg",
+        "https://telegra.ph/file/6e6bbe8d0a75197f888c2.jpg",
+        "https://telegra.ph/file/aea5dcf9910d8ad844922.jpg",
+        "https://telegra.ph/file/9ed4d2f3b100aa18ef75a.jpg",
+        "https://telegra.ph/file/3a1611f660b595f3e3b29.jpg",
+        "https://telegra.ph/file/7a2710ae7ff509381b4eb.jpg",
+        "https://telegra.ph/file/a4d4245d6429593c1fae2.jpg",
+        "https://telegra.ph/file/ba9603a5fccf9ae977966.jpg",
+        "https://telegra.ph/file/a5beb095d45ba43d9a216.jpg",
+        "https://telegra.ph/file/d8567b65dba4b2f3177e6.jpg",
+        "https://telegra.ph/file/ec48b46f2c0ce8eacb0f7.jpg",
+        "https://telegra.ph/file/a46ae37ce875aa9d4ed7f.jpg",
+        "https://telegra.ph/file/9088445eede8de7395464.jpg",
+        "https://telegra.ph/file/ea9cfd62afee4fa5c886b.jpg",
+        "https://telegra.ph/file/028edb125bc12935649ee.jpg",
+        "https://telegra.ph/file/1e5826e534a46da3c8b01.jpg",
+        "https://telegra.ph/file/beae2ec038f2cf20844d5.jpg",
+        "https://telegra.ph/file/4ed98e49de674beed89d0.jpg",
+        "https://telegra.ph/file/c906268aea1284db2d840.jpg",
+        "https://telegra.ph/file/49de60151eeb34fa0a4b0.jpg",
+        "https://telegra.ph/file/f78be8dbbec35dd0f290e.jpg",
+        "https://telegra.ph/file/82b56593e0c6fb3f40a80.jpg",
+        "https://telegra.ph/file/d35addd0b7ede099da5f7.jpg",
+        "https://telegra.ph/file/edc85f6d3a2be20077d4e.jpg"
+    ]
+};

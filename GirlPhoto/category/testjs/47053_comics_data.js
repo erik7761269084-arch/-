@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47053,
+    "title": "[星之迟迟]  吾妻 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-吾妻---Page-1-02-25",
+    "images": [
+        "https://telegra.ph/file/1d1a873edb29c454aa761.jpg",
+        "https://telegra.ph/file/991fdbb7d76389bcbdd4f.jpg",
+        "https://telegra.ph/file/d9f0891d54bc5c3934625.jpg",
+        "https://telegra.ph/file/f164b8f6ba9c52c859889.jpg",
+        "https://telegra.ph/file/cb4ccf39a249d66a94aa7.jpg",
+        "https://telegra.ph/file/0351ec9167f42ea6dd33e.jpg",
+        "https://telegra.ph/file/802b37b5fb59e91cc3a9a.jpg",
+        "https://telegra.ph/file/0fae546c5fc4ff4ae11fe.jpg",
+        "https://telegra.ph/file/189b0ff5871a5b6632dfd.jpg",
+        "https://telegra.ph/file/8ad63327ca7b201bb1de1.jpg",
+        "https://telegra.ph/file/c9405a80e1c690250ab15.jpg",
+        "https://telegra.ph/file/d06f994f68404fee51b1b.jpg",
+        "https://telegra.ph/file/0e94ea343922016df9d6d.jpg",
+        "https://telegra.ph/file/d9acccf6f23247fe4cf76.jpg",
+        "https://telegra.ph/file/7b7b943ffd91429d308d9.jpg",
+        "https://telegra.ph/file/6045444b74dca2f368c65.jpg",
+        "https://telegra.ph/file/6ab3ea1778b50be5f96b3.jpg",
+        "https://telegra.ph/file/4f48b78d88a4530a100e3.jpg",
+        "https://telegra.ph/file/d1efd8a538ad64c522bed.jpg",
+        "https://telegra.ph/file/dff72ff702bd84922da4a.jpg",
+        "https://telegra.ph/file/639ab2e3387be8456d58f.jpg",
+        "https://telegra.ph/file/c3cd1336876fdbece998f.jpg",
+        "https://telegra.ph/file/b9b5509a971d4f3c1b49d.jpg",
+        "https://telegra.ph/file/98eafb5133be22842a15a.jpg",
+        "https://telegra.ph/file/c14497616f6641f1ebca4.jpg"
+    ]
+};

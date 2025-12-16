@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30178,
+    "title": "柚木 第11季 [摩天轮露出] 22P",
+    "sourceUrl": "https://telegra.ph/柚木-第11季-摩天轮露出-22P-04-08",
+    "images": [
+        "https://telegra.ph/file/41e1b836befa7ac004fb4.jpg",
+        "https://telegra.ph/file/ff866e458572f8b08d0dd.jpg",
+        "https://telegra.ph/file/a8488d62fee99ef21eb94.jpg",
+        "https://telegra.ph/file/5c086483240191eb755bf.jpg",
+        "https://telegra.ph/file/9afefb5dca72b204d9ffc.jpg",
+        "https://telegra.ph/file/390373e1c9e0e477191aa.jpg",
+        "https://telegra.ph/file/923d89db09b56ed95cd0c.jpg",
+        "https://telegra.ph/file/22958f9c1fa4ae0ad074b.jpg",
+        "https://telegra.ph/file/3ea77814f3b77151dabdc.jpg",
+        "https://telegra.ph/file/670f185f26afe62ffb749.jpg",
+        "https://telegra.ph/file/52fa085188630638a5c61.jpg",
+        "https://telegra.ph/file/ce3c30e9dba77575169a6.jpg",
+        "https://telegra.ph/file/a191b825db9fda6a38237.jpg",
+        "https://telegra.ph/file/f159331c47321bcabae61.jpg",
+        "https://telegra.ph/file/963483a922a149795e31a.jpg",
+        "https://telegra.ph/file/7ee3b653ff730bd5e953d.jpg",
+        "https://telegra.ph/file/c700c5840d98d8adf7bee.jpg",
+        "https://telegra.ph/file/75e1b1f74ddb7e9d46f49.jpg",
+        "https://telegra.ph/file/ca8ef834a15707110fa08.jpg",
+        "https://telegra.ph/file/500419b71f0c5dea6383d.jpg",
+        "https://telegra.ph/file/dcd24e8d84744e5a8d9f7.jpg",
+        "https://telegra.ph/file/0c760841e8f149c5ff5f4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

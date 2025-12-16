@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42025,
+    "title": "Daria Flora - 2B (Nier Automata)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-30-6",
+    "images": [
+        "https://i.ibb.co/cXwmVXfM/01-Daria-Flora-2-B-25.jpg",
+        "https://i.ibb.co/gsLCktd/02-Daria-Flora-2-B-21.jpg",
+        "https://i.ibb.co/5xr7w6xH/03-Daria-Flora-2-B-20.jpg",
+        "https://i.ibb.co/84jvRTwV/04-Daria-Flora-2-B-18.jpg",
+        "https://i.ibb.co/kPTC3Yj/05-Daria-Flora-2-B-19.jpg",
+        "https://i.ibb.co/5hLftt3Q/06-Daria-Flora-2-B-17.jpg",
+        "https://i.ibb.co/Tx8H9YZL/07-Daria-Flora-2-B-16.jpg",
+        "https://i.ibb.co/fGV0LVYm/08-Daria-Flora-2-B-15.jpg",
+        "https://i.ibb.co/LLWbv09/09-Daria-Flora-2-B-14.jpg",
+        "https://i.ibb.co/XZXR6CMp/10-Daria-Flora-2-B-13.jpg",
+        "https://i.ibb.co/V0by1Dgd/11-Daria-Flora-2-B-12.jpg",
+        "https://i.ibb.co/fVN8PsBL/12-Daria-Flora-2-B-11.jpg",
+        "https://i.ibb.co/HDHQFV7t/13-Daria-Flora-2-B-10.jpg",
+        "https://i.ibb.co/MknHcgmb/14-Daria-Flora-2-B-9.jpg",
+        "https://i.ibb.co/jP2zMP91/15-Daria-Flora-2-B-8.jpg",
+        "https://i.ibb.co/YThhSD7P/16-Daria-Flora-2-B-7.jpg",
+        "https://i.ibb.co/rXfmtBX/17-Daria-Flora-2-B-6.jpg",
+        "https://i.ibb.co/Jwkrk05D/18-Daria-Flora-2-B-5.jpg",
+        "https://i.ibb.co/MxkQm4Xy/19-Daria-Flora-2-B-4.jpg",
+        "https://i.ibb.co/hJFjwPHd/20-Daria-Flora-2-B-3.jpg",
+        "https://i.ibb.co/PsZQcQvP/21-Daria-Flora-2-B-1.jpg",
+        "https://i.ibb.co/h1tZHC83/22-Daria-Flora-2-B-2.jpg",
+        "https://i.ibb.co/9kR6pKbT/23-Daria-Flora-2-B-24.jpg",
+        "https://i.ibb.co/pvSXmfzP/24-Daria-Flora-2-B-23.jpg",
+        "https://i.ibb.co/B51v0vkn/25-Daria-Flora-2-B-22.jpg"
+    ]
+};

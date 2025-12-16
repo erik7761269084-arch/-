@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42209,
+    "title": "布丁大法 - Kobeni (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-14-6",
+    "images": [
+        "https://i.ibb.co/67yCRZbT/01-4-IMG-4565.jpg",
+        "https://i.ibb.co/BV25L44F/02-9-IMG-4570.jpg",
+        "https://i.ibb.co/rG8h2yD2/03-10-IMG-4572.jpg",
+        "https://i.ibb.co/ch121MZZ/04-11-IMG-4573.jpg",
+        "https://i.ibb.co/gcQszK1/05-12-IMG-4574.jpg",
+        "https://i.ibb.co/NgGx3jcM/06-13-IMG-4575.jpg",
+        "https://i.ibb.co/j1vpRgH/07-14-IMG-4576.jpg",
+        "https://i.ibb.co/NgVxL9JZ/08-15-IMG-4577.jpg",
+        "https://i.ibb.co/XxXZSVNB/09-16-IMG-4578.jpg",
+        "https://i.ibb.co/JjH07rVk/10-17-IMG-4579.jpg",
+        "https://i.ibb.co/3YRMM9Bb/11-18-IMG-4580.jpg",
+        "https://i.ibb.co/GQL4pkQQ/12-19-IMG-4581.jpg",
+        "https://i.ibb.co/gby87Gt3/13-20-IMG-4582.jpg",
+        "https://i.ibb.co/JWrMRFcS/14-21-IMG-4583.jpg",
+        "https://i.ibb.co/gMszX1B2/15-22-IMG-4584.jpg",
+        "https://i.ibb.co/JwP3BQ7C/16-23-IMG-4585.jpg",
+        "https://i.ibb.co/rGKnPJbw/17-24-IMG-4586.jpg",
+        "https://i.ibb.co/0jmfKjCS/18-25-IMG-4587.jpg",
+        "https://i.ibb.co/JwhdD40b/19-26-IMG-4588.jpg",
+        "https://i.ibb.co/84GPNr0y/20-27-IMG-4589.jpg",
+        "https://i.ibb.co/VWkQRjKq/21-28-IMG-4590.jpg",
+        "https://i.ibb.co/fVSRz7JV/22-29-IMG-4591.jpg",
+        "https://i.ibb.co/TB7S7cFR/23-30-IMG-4592.jpg",
+        "https://i.ibb.co/14d2BFJ/24-3-IMG-4564.jpg"
+    ]
+};

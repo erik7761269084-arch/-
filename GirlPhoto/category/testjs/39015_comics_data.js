@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39015,
+    "title": "Hane Ame - Daki (Kimetsu no Yaiba)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Daki-Kimetsu-no-Yaiba-04-09",
+    "images": [
+        "https://telegra.ph/file/9b99b94cf07492e62cf96.jpg",
+        "https://telegra.ph/file/23178244490861b9c51f3.jpg",
+        "https://telegra.ph/file/3ff33eaace6857a1940c6.jpg",
+        "https://telegra.ph/file/2755f97d3558b1e05d99b.jpg",
+        "https://telegra.ph/file/a543e85986a81bdf11319.jpg",
+        "https://telegra.ph/file/d9cbd611d813b429121bf.jpg",
+        "https://telegra.ph/file/c91343ee8f851bc3827c1.jpg",
+        "https://telegra.ph/file/c0467553dc20f08651c6c.jpg",
+        "https://telegra.ph/file/3d6d23199f11eba5b1c84.jpg",
+        "https://telegra.ph/file/c587f5616dec6ac9f7a0e.jpg",
+        "https://telegra.ph/file/1182d49278378d90aec7f.jpg",
+        "https://telegra.ph/file/5086704c35c9cbbc50321.jpg",
+        "https://telegra.ph/file/81efe547c5c00117975c4.jpg",
+        "https://telegra.ph/file/935cb6e0c3dd66608f4f8.jpg",
+        "https://telegra.ph/file/b3cab7b513265e6d09fcd.jpg",
+        "https://telegra.ph/file/c6ea62c7c5d424956713b.jpg",
+        "https://telegra.ph/file/532c82dfc887f26a3fc24.jpg",
+        "https://telegra.ph/file/c33ccd2c1d98dac9690ca.jpg",
+        "https://telegra.ph/file/670adda8d0cb8636d6294.jpg",
+        "https://telegra.ph/file/b447d326462a3c5c55251.jpg",
+        "https://telegra.ph/file/60854db1bb7e27d442483.jpg",
+        "https://telegra.ph/file/273db37c6924da6623125.jpg",
+        "https://telegra.ph/file/17c6f715d6cadef7f5098.jpg"
+    ]
+};

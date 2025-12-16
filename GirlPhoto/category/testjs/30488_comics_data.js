@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30488,
+    "title": "Amau Kisumi 天羽希純, 週プレ Photo Book 「絶好調」 Set.01",
+    "sourceUrl": "https://telegra.ph/Amau-Kisumi-天羽希純-週プレ-Photo-Book-絶好調-Set01-06-16",
+    "images": [
+        "https://telegra.ph/file/cd0044f5c621663cedb99.jpg",
+        "https://telegra.ph/file/a70f69a44ae88641c2cab.jpg",
+        "https://telegra.ph/file/819e3961c053c41f5f67c.jpg",
+        "https://telegra.ph/file/f42d2c1b21b4a50c44929.jpg",
+        "https://telegra.ph/file/b9460c74ed124958fc2bd.jpg",
+        "https://telegra.ph/file/66dab6a7ec3a10ce277d2.jpg",
+        "https://telegra.ph/file/074a8cb46183d73990182.jpg",
+        "https://telegra.ph/file/76693b7544e205dca81a2.jpg",
+        "https://telegra.ph/file/ac45deba3375002a8873d.jpg",
+        "https://telegra.ph/file/3cc5e0719dc966db41caa.jpg",
+        "https://telegra.ph/file/e199be4742a6bab50276e.jpg",
+        "https://telegra.ph/file/9016dfcdac5fc2fccdeda.jpg",
+        "https://telegra.ph/file/0a9d0c9c2dcc946e514be.jpg",
+        "https://telegra.ph/file/147ce3ead1a19fedaf681.jpg",
+        "https://telegra.ph/file/933021687d786e126fae9.jpg",
+        "https://telegra.ph/file/e36b7e17cb0003935284f.jpg",
+        "https://telegra.ph/file/3e6792590ac8ffbf68289.jpg",
+        "https://telegra.ph/file/68ce0f88a39d284f5e45f.jpg",
+        "https://telegra.ph/file/97b205ef2a69518cdb61a.jpg",
+        "https://telegra.ph/file/74968e7008eaf28c0aaf5.jpg",
+        "https://telegra.ph/file/cb5b021379a77d146ca32.jpg",
+        "https://telegra.ph/file/1248ab748edc8bb573178.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

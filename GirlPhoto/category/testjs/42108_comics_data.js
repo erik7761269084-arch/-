@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42108,
+    "title": "lMusicl - Nahida (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-20-6",
+    "images": [
+        "https://i.ibb.co/XRK76VD/01-Nahida-1.jpg",
+        "https://i.ibb.co/h1FkVV3P/02-Nahida-2.jpg",
+        "https://i.ibb.co/SD2tYVGd/03-Nahida-3.jpg",
+        "https://i.ibb.co/yc7Gkh5L/04-Nahida-4.jpg",
+        "https://i.ibb.co/wNDX1Jv3/05-Nahida-5.jpg",
+        "https://i.ibb.co/WWPH0qJd/06-Nahida-6.jpg",
+        "https://i.ibb.co/JwM2x5Kv/07-Nahida-7.jpg",
+        "https://i.ibb.co/nsSpG29S/08-Nahida-8.jpg",
+        "https://i.ibb.co/d01k4CgR/09-Nahida-9.jpg",
+        "https://i.ibb.co/bjvR1WB4/10-Nahida-10.jpg",
+        "https://i.ibb.co/Nd7CX0j3/11-Nahida-11.jpg",
+        "https://i.ibb.co/hFQ91r6Y/12-Nahida-12.jpg",
+        "https://i.ibb.co/21HYSXDm/13-Nahida-13.jpg",
+        "https://i.ibb.co/xSb1zHDR/14-Nahida-14.jpg",
+        "https://i.ibb.co/Y45jDLPs/15-Nahida-15.jpg",
+        "https://i.ibb.co/b5dwCmGS/16-Nahida-16.jpg",
+        "https://i.ibb.co/PzVZ88SG/17-Nahida-17.jpg",
+        "https://i.ibb.co/8DxdCPnw/18-Nahida-18.jpg",
+        "https://i.ibb.co/CK2fPH0R/19-Nahida-19.jpg",
+        "https://i.ibb.co/Xx79b1BP/20-Nahida-20.jpg",
+        "https://i.ibb.co/3Ys9LBXK/21-Nahida-21.jpg",
+        "https://i.ibb.co/PZdtCShQ/22-Nahida-22.jpg",
+        "https://i.ibb.co/qYBbNkNV/23-Nahida-23.jpg",
+        "https://i.ibb.co/fV0RQsTV/24-Nahida-24.jpg",
+        "https://i.ibb.co/jvFgvpg6/25-Nahida-25.jpg",
+        "https://i.ibb.co/wF5cWSm2/26-Nahida-26.jpg"
+    ]
+};

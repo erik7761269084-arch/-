@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31983,
+    "title": "Bambi 밤비, [ArtGravia] Vol.192 아트그라비아 Set.02",
+    "sourceUrl": "https://telegra.ph/Bambi-밤비-ArtGravia-Vol192-아트그라비아-Set02-10-04",
+    "images": [
+        "https://telegra.ph/file/8ad70afb87a866ef0b99f.jpg",
+        "https://telegra.ph/file/fca6160a423b6f339c764.jpg",
+        "https://telegra.ph/file/dda83f51f354a0b1264f2.jpg",
+        "https://telegra.ph/file/b19515111b31b00dc70f4.jpg",
+        "https://telegra.ph/file/5edef6efe2c09a0dde995.jpg",
+        "https://telegra.ph/file/24fb5e1c46d6ca4575f8d.jpg",
+        "https://telegra.ph/file/e2a7f6547c0dea461d337.jpg",
+        "https://telegra.ph/file/3f4edfe70657cdc18e72c.jpg",
+        "https://telegra.ph/file/8295e06b5090414c020af.jpg",
+        "https://telegra.ph/file/bd764ccac2f3aae7d6d19.jpg",
+        "https://telegra.ph/file/642f90b6300926c466523.jpg",
+        "https://telegra.ph/file/8e9d3a9e1037ba570a952.jpg",
+        "https://telegra.ph/file/3fa3a1830e1cc45050352.jpg",
+        "https://telegra.ph/file/4848e35b8af495cbc851f.jpg",
+        "https://telegra.ph/file/392197efd57d3bb4925c0.jpg",
+        "https://telegra.ph/file/25338f02c8531a93003a7.jpg",
+        "https://telegra.ph/file/86fd5e1c8667fdca7c3a4.jpg",
+        "https://telegra.ph/file/8f7e8e2e028be38b8d07f.jpg",
+        "https://telegra.ph/file/8507f834bce138564ff92.jpg",
+        "https://telegra.ph/file/8cfb7e32bb49a1c76ed48.jpg",
+        "https://telegra.ph/file/9d7c27d2e0d57790ecd7b.jpg",
+        "https://telegra.ph/file/5442c05a8aa7fd259330a.jpg",
+        "https://telegra.ph/file/fbcb3ecf869ddfe3fe348.jpg",
+        "https://telegra.ph/file/3031561b0c8ad04997b9e.jpg",
+        "https://telegra.ph/file/e2587c8c7423c18311a49.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

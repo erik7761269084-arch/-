@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31827,
+    "title": "G44不会受伤 Cosplay 碧蓝航线 恶毒皮肤 懒懒的白兔",
+    "sourceUrl": "https://telegra.ph/G44不会受伤-Cosplay-碧蓝航线-恶毒皮肤-懒懒的白兔-09-14",
+    "images": [
+        "https://telegra.ph/file/6a7242adeac0fcd0cb50d.jpg",
+        "https://telegra.ph/file/e41502eb9b18208c6b08d.jpg",
+        "https://telegra.ph/file/ce646bf62e58eaaaf9b32.jpg",
+        "https://telegra.ph/file/b6be114370dc0632a928b.jpg",
+        "https://telegra.ph/file/88b52f16f7233eb7cc0c9.jpg",
+        "https://telegra.ph/file/eafb7f2909a03f19e4e67.jpg",
+        "https://telegra.ph/file/fb5c5e97222f5725ae876.jpg",
+        "https://telegra.ph/file/49e76382cddd4135483e9.jpg",
+        "https://telegra.ph/file/57723a65f3b248471d9dd.jpg",
+        "https://telegra.ph/file/0b18496922ad950d204a6.jpg",
+        "https://telegra.ph/file/191fdc17a4a0603325fee.jpg",
+        "https://telegra.ph/file/e35d0841d8ffc7667c272.jpg",
+        "https://telegra.ph/file/eab29b6deea855429b26c.jpg",
+        "https://telegra.ph/file/2c07f590d1e4a73e55e7c.jpg",
+        "https://telegra.ph/file/d057daad75d1c4213625f.jpg",
+        "https://telegra.ph/file/98e4a61df5a3734b33d0e.jpg",
+        "https://telegra.ph/file/488df2118d9ec8f00851a.jpg",
+        "https://telegra.ph/file/2922f7720e04f45192513.jpg",
+        "https://telegra.ph/file/5b99010a34dfc24b1b878.jpg",
+        "https://telegra.ph/file/f3ae63c26412f5a39e211.jpg",
+        "https://telegra.ph/file/c82027f126d16e93f27ff.jpg",
+        "https://telegra.ph/file/acf92773dd6e798701b53.jpg",
+        "https://telegra.ph/file/d265336f294cf3b4996d9.jpg",
+        "https://telegra.ph/file/a4b9b8478519d55838d4c.jpg",
+        "https://telegra.ph/file/e01ef8b71180ba27e0088.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

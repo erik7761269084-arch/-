@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38286,
+    "title": "Hane Ame - Chitose Itou (Iya na Kao sare nagara Opantsu Misete Moraitai)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Chitose-Itou-Iya-na-Kao-sare-nagara-Opantsu-Misete-Moraitai-09-25",
+    "images": [
+        "https://telegra.ph/file/7a2b860417c89c58221f2.jpg",
+        "https://telegra.ph/file/0419fc0cdaa964c04a42d.jpg",
+        "https://telegra.ph/file/aac2e8beee4c9f2b749e5.jpg",
+        "https://telegra.ph/file/3620b6e4b54412177051d.jpg",
+        "https://telegra.ph/file/08cc03d81f80a47558ef4.jpg",
+        "https://telegra.ph/file/ec6b8f1b6f7c2cc97c3eb.jpg",
+        "https://telegra.ph/file/7fb7ae825ac3ec4a9081d.jpg",
+        "https://telegra.ph/file/c2156e51137da7458a786.jpg",
+        "https://telegra.ph/file/3415f82689adf76c5ab42.jpg",
+        "https://telegra.ph/file/dc8b4071861f28dbb1c78.jpg",
+        "https://telegra.ph/file/944154282dcd2d61d0b50.jpg",
+        "https://telegra.ph/file/6944e5c2b02d445a64f67.jpg",
+        "https://telegra.ph/file/4b71b81fb920158ad7ef2.jpg",
+        "https://telegra.ph/file/675a1cceec7819ac83f8f.jpg",
+        "https://telegra.ph/file/0038c1ea7a26aa6caf69d.jpg",
+        "https://telegra.ph/file/68e743a8e9140bcf122bc.jpg",
+        "https://telegra.ph/file/7e45002957853543f5c4c.jpg",
+        "https://telegra.ph/file/861b567e0f6d9c2aed828.jpg",
+        "https://telegra.ph/file/7a71203a1e1e34b9dfc0d.jpg",
+        "https://telegra.ph/file/1298d365273a039bf9acc.jpg",
+        "https://telegra.ph/file/95e1ffc6b4a9448dac8b5.jpg",
+        "https://telegra.ph/file/1db8d6f8efe9a56bfba9c.jpg",
+        "https://telegra.ph/file/d52918292cf3f34571916.jpg",
+        "https://telegra.ph/file/fb4dd8999fbf940a62ee9.jpg",
+        "https://telegra.ph/file/e532b080175fe5a8f048f.jpg",
+        "https://telegra.ph/file/edf04a760d18b8f6c1c2c.jpg"
+    ]
+};

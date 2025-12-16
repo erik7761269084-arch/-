@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46854,
+    "title": "Sarah Carvalho - Chika Fujiwara - Page 1",
+    "sourceUrl": "https://telegra.ph/Sarah-Carvalho---Chika-Fujiwara---Page-1-02-08",
+    "images": [
+        "https://telegra.ph/file/c4b5e6176584f7d36f75a.jpg",
+        "https://telegra.ph/file/9aaaf846fa7ee8cfdb3ca.jpg",
+        "https://telegra.ph/file/790f1a05ae1a2d65efe10.jpg",
+        "https://telegra.ph/file/1a391f6e2ea887a462780.jpg",
+        "https://telegra.ph/file/661694a1a28a830371d22.jpg",
+        "https://telegra.ph/file/a72c29cf3b95f6e6d72e3.jpg",
+        "https://telegra.ph/file/ef0ee16ad2d511ea80610.jpg",
+        "https://telegra.ph/file/7a69f97648fd8fb886460.jpg",
+        "https://telegra.ph/file/4d70280aeff33b4dee068.jpg",
+        "https://telegra.ph/file/4c842a68f606b9bb9a19b.jpg",
+        "https://telegra.ph/file/589bb29f0eb2d56b0fad7.jpg",
+        "https://telegra.ph/file/a1280dc27f081ebefddb2.jpg",
+        "https://telegra.ph/file/2d318287d98d2992f9e33.jpg",
+        "https://telegra.ph/file/2f369518d900fd1f2f32d.jpg",
+        "https://telegra.ph/file/e24ff10d9e779820c9785.jpg",
+        "https://telegra.ph/file/d211b473cf006f522c606.jpg",
+        "https://telegra.ph/file/41f5bbf73baa844bb952d.jpg",
+        "https://telegra.ph/file/dc17d43bcb933f28bb35e.jpg",
+        "https://telegra.ph/file/d036373d874aefd773ba0.jpg",
+        "https://telegra.ph/file/7de11862b58c8f18f4588.jpg",
+        "https://telegra.ph/file/1eb32aea5621c951fe5a7.jpg",
+        "https://telegra.ph/file/cf5f4213b40c780202c92.jpg",
+        "https://telegra.ph/file/349c832183e8ea5d9a99b.jpg",
+        "https://telegra.ph/file/001180e0a79c0c5dd8ec7.jpg"
+    ]
+};

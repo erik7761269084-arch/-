@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26498,
+    "title": "2022-08-25 新入社員しもちゃん [24P-193.12MB]",
+    "sourceUrl": "https://telegra.ph/2022-08-25-%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%97%E3%82%82%E3%81%A1%E3%82%83%E3%82%93-24P-19312MB-09-05",
+    "images": [
+        "https://telegra.ph/file/39f3dd53118fe1e268e2f.jpg",
+        "https://telegra.ph/file/1f86158afed8f7ca76eb4.jpg",
+        "https://telegra.ph/file/3c291ff6d30cb1b42fa90.jpg",
+        "https://telegra.ph/file/1f6c17d6532c450dc59ce.jpg",
+        "https://telegra.ph/file/ea278aadaa858aee91ea0.jpg",
+        "https://telegra.ph/file/3cc4b0bca6b9561d7ec02.jpg",
+        "https://telegra.ph/file/0ed19be734198d48d1298.jpg",
+        "https://telegra.ph/file/74a24911b21539edab20f.jpg",
+        "https://telegra.ph/file/9a35231f40c1092dae934.jpg",
+        "https://telegra.ph/file/7f2529136403291a30558.jpg",
+        "https://telegra.ph/file/c00219aed37abc7a3c667.jpg",
+        "https://telegra.ph/file/e7e438301680c588e4665.jpg",
+        "https://telegra.ph/file/e7bdd3eba11bbb6430e9b.jpg",
+        "https://telegra.ph/file/df18e1d51ed6c5389be20.jpg",
+        "https://telegra.ph/file/ad4e147676fce5bda5c91.jpg",
+        "https://telegra.ph/file/801fd8c94de8ac6108d79.jpg",
+        "https://telegra.ph/file/762038afe7534f9e1828b.jpg",
+        "https://telegra.ph/file/21c3f6f80235819427898.jpg",
+        "https://telegra.ph/file/144015ce44db91f40dd2e.jpg",
+        "https://telegra.ph/file/c4798fe2c000a9c101208.jpg",
+        "https://telegra.ph/file/bdd883052aa5332084abb.jpg",
+        "https://telegra.ph/file/cf56c0606d1eb803c76bd.jpg",
+        "https://telegra.ph/file/e22332c47c062bd4f1eb8.jpg",
+        "https://telegra.ph/file/b753287db7139e32c9298.jpg"
+    ]
+};

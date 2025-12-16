@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49602,
+    "title": "(AC2) [my suite] エアコミケ２新刊② Suite/Grand Order20 キアラ水着ROM (Fate/Grand Order) - Page 2",
+    "sourceUrl": "https://telegra.ph/AC2-my-suite-エアコミケ２新刊-SuiteGrand-Order20-キアラ水着ROM-FateGrand-Order---Page-2-02-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3xlnn6txV5TVAw_esVXTFPAwhYJvcQAC4yIAArJN-FRU1LcUcA4OODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3xpnn6tyy1TL6U1cOj5RnlVhR65XXAAC5CIAArJN-FRHRKLotsXqTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3xtnn6t0ZXSvjSNEcoIptngm99OZMgAC5SIAArJN-FT_VcybXsLMNjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3xxnn6t1O2Q_MxP8scp1VZGs67nFDgAC5iIAArJN-FTiRx12kplcGTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3x1nn6t3p514b09TSnqueDlgKjb4pQAC5yIAArJN-FTWmPQYE88bNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3x5nn6u2QywC_MFnKxuYP619P9xMPAAC6SIAArJN-FRlEwNiw9EUIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3x9nn6vA1dwmvquTGIrwGRbVkVrcwQAC6iIAArJN-FTqB9bA7w-wzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yBnn6vNg6ZY0zyjsjB1KSiIbbF8ygAC6yIAArJN-FTmAAEVp8G-x_42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yFnn6vPWukTb7eUmO8rie-sWxRWvgAC7CIAArJN-FQ7SqttV5WNRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yJnn6vRYmV_8n0F09bMyPP1TeYyUgAC7SIAArJN-FQ-IDlukmbLmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yNnn6vSIjh_YECNQ0dnsAq2KEcn-gAC7iIAArJN-FRVhdq0OQPElDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yRnn6vVurOnOT1B5ZzBVNb3hB57XwAC7yIAArJN-FSK4tKiuyIZxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yVnn6vXpzlovNk5NZltkUM1yZP-QgAC8CIAArJN-FSQEbe1zmnWnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yZnn6vYoSkw-kjtEARV9GUrO__zsQAC8SIAArJN-FRlAR6U_PJlyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3ydnn6vaLcpGJ2hu3JSkmLHzOGw06gAC8iIAArJN-FRyjGjWTXRbuzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yhnn6vciVcjvxeevsn2Q-MiEZCl1AAC8yIAArJN-FRKSp5mV9awBTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3ylnn6ve_wGPazuP6XmXaab30ir3kwAC9CIAArJN-FQJqAwL1sG0DDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3ypnn6wdSsFCebU5HtAkkklNg9UiWwAC9SIAArJN-FS77BZiCi0LlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3ytnn6wffmhJnb_nR3p0sRaiHeMjUAAC9iIAArJN-FT6dMvT01PqKTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3yxnn6whSkvWIJHNkJw18LBuvrM0nQAC9yIAArJN-FSulA9xFurCAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3y1nn6wjoftmdWds6pKBMrTd-hPAYAAC-CIAArJN-FSHvrWT4MtzRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3y5nn6wkZ2NPSg8FzxLdmx9mbk2lAgAC-SIAArJN-FRcJssnV27V7jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3y9nn6woNMwpEgo18QblvE1sc8_UVgAC-iIAArJN-FRlv3ziQE9opjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3zBnn6wwcVXGhgFCeYs2is6o1yURZAAC-yIAArJN-FTtKCoZEfVyIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE3zFnn6w8CJGgDsVe1IbSI1lollWXcgAC_CIAArJN-FR_39q4nrScZzYE"
+    ]
+};

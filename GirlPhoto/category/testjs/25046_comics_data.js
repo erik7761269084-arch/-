@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 25046,
+    "title": "过期米线线喵 优等生",
+    "sourceUrl": "https://telegra.ph/%E8%BF%87%E6%9C%9F%E7%B1%B3%E7%BA%BF%E7%BA%BF%E5%96%B5-%E4%BC%98%E7%AD%89%E7%94%9F-04-30",
+    "images": [
+        "https://telegra.ph/file/7ceefcc5579fa2a8417fb.jpg",
+        "https://telegra.ph/file/bab8c74d7b1d275553241.jpg",
+        "https://telegra.ph/file/0a6ed6114124a1b85514e.jpg",
+        "https://telegra.ph/file/fb99cf17a02e67b2317f2.jpg",
+        "https://telegra.ph/file/6a6c708c00f9e12fa5d31.jpg",
+        "https://telegra.ph/file/a9bc4889975485f6d826f.jpg",
+        "https://telegra.ph/file/ebcd8ec3ef913920e0c0c.jpg",
+        "https://telegra.ph/file/6fe89adba1c4000c9716c.jpg",
+        "https://telegra.ph/file/565b76052441619db4b5c.jpg",
+        "https://telegra.ph/file/9da628b90c5be85eafbd3.jpg",
+        "https://telegra.ph/file/143f47359f810f60e178c.jpg",
+        "https://telegra.ph/file/ce7d229770a6449a70d2a.jpg",
+        "https://telegra.ph/file/ec97e4f1141cf4fadb65c.jpg",
+        "https://telegra.ph/file/c7553eaa9a943f6b84d78.jpg",
+        "https://telegra.ph/file/49913d3f09a2c78c8fa96.jpg",
+        "https://telegra.ph/file/93fac24ffc710a1af831e.jpg",
+        "https://telegra.ph/file/6026348c8480b8f85075c.jpg",
+        "https://telegra.ph/file/091cb4dbd7d478f6cec9f.jpg",
+        "https://telegra.ph/file/b1099a7d52ac8da758406.jpg",
+        "https://telegra.ph/file/352016b34656f1f60d6e7.jpg",
+        "https://telegra.ph/file/49c7fbde19222300ec23e.jpg",
+        "https://telegra.ph/file/22505c242073529ff0ce3.jpg",
+        "https://telegra.ph/file/54d749063a69f0d6b04b6.jpg",
+        "https://telegra.ph/file/f18649eedf757943c7743.jpg",
+        "https://telegra.ph/file/6d3ff22f73e1236096c70.jpg",
+        "https://telegra.ph/file/59af4b9c555a254a4c544.jpg"
+    ]
+};

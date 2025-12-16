@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47086,
+    "title": "[QIU] 2Bチョンサム同人 (ニーアオートマタ) - Page 1",
+    "sourceUrl": "https://telegra.ph/QIU-2Bチョンサム同人-ニーアオートマタ---Page-1-02-28",
+    "images": [
+        "https://telegra.ph/file/50158c6875fd33b7c8bf4.jpg",
+        "https://telegra.ph/file/46d7aff8ae00506b61be3.jpg",
+        "https://telegra.ph/file/e6bfc8dc3cd7fee4945bf.jpg",
+        "https://telegra.ph/file/98e3ed52608cc615ba925.jpg",
+        "https://telegra.ph/file/f56f6a3a68bd65069a1e9.jpg",
+        "https://telegra.ph/file/2bffd4c7bf6c19e32a735.jpg",
+        "https://telegra.ph/file/9b6dd0d4bbb733ea7a22e.jpg",
+        "https://telegra.ph/file/a5056d0541096c9121de4.jpg",
+        "https://telegra.ph/file/af37ff1e06e1d954123b5.jpg",
+        "https://telegra.ph/file/28baad5bd3e0d85ffd442.jpg",
+        "https://telegra.ph/file/700abe257978a60fa48a9.jpg",
+        "https://telegra.ph/file/3f708713604a6ac21f8f5.jpg",
+        "https://telegra.ph/file/6adf6dcad5a0cfcae6a2b.jpg",
+        "https://telegra.ph/file/f0e2417aa04cd5e09ad3e.jpg",
+        "https://telegra.ph/file/3b2a70c8bff68c88a07c4.jpg",
+        "https://telegra.ph/file/11f78dd3f24f32d1ae921.jpg",
+        "https://telegra.ph/file/ef283c8a736c2ffa11927.jpg",
+        "https://telegra.ph/file/a9bb305c88cfcafd85f90.jpg",
+        "https://telegra.ph/file/827b065ca0b49e6a4d8e9.jpg",
+        "https://telegra.ph/file/1c5c75ebcb96703025bb3.jpg",
+        "https://telegra.ph/file/0c51b5f5d5f98c35affe7.jpg",
+        "https://telegra.ph/file/22598cc9617d37f8f8f16.jpg",
+        "https://telegra.ph/file/0a3c4dd858e5c9857d6ac.jpg",
+        "https://telegra.ph/file/4e491946145e7d661d652.jpg",
+        "https://telegra.ph/file/dfb57361b1bdf4b5cf4eb.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47592,
+    "title": "艶娘幻梦谭-金莲（Yoko宅夏） - Page 1",
+    "sourceUrl": "https://telegra.ph/艶娘幻梦谭-金莲Yoko宅夏---Page-1-04-14",
+    "images": [
+        "https://telegra.ph/file/000f34e9edbdc99a26f28.jpg",
+        "https://telegra.ph/file/e7066e042e9371443b9c4.jpg",
+        "https://telegra.ph/file/c77023e2c2121148586c5.jpg",
+        "https://telegra.ph/file/545c6ea1a332b5c07e0e2.jpg",
+        "https://telegra.ph/file/af12a21c65abdd85ddf86.jpg",
+        "https://telegra.ph/file/e3d04d61a8b984d081140.jpg",
+        "https://telegra.ph/file/2f59ff171a27519bcd09a.jpg",
+        "https://telegra.ph/file/b31d7f173bb17b42a2484.jpg",
+        "https://telegra.ph/file/d113ddd79ff395523317c.jpg",
+        "https://telegra.ph/file/09464b53be9fb0d943cbd.jpg",
+        "https://telegra.ph/file/b03ee44d470020e194cf1.jpg",
+        "https://telegra.ph/file/3e90dc25effedaa4387f4.jpg",
+        "https://telegra.ph/file/e445a1efbe62aeaf8feaa.jpg",
+        "https://telegra.ph/file/25003154aeb0cfa1ed20c.jpg",
+        "https://telegra.ph/file/7ba8dcbffaabd61b5138b.jpg",
+        "https://telegra.ph/file/f51ad7b7d2d0f71fa6543.jpg",
+        "https://telegra.ph/file/15532d12abd4dac17dbb0.jpg",
+        "https://telegra.ph/file/b24cc7a9a45df3cfeb62d.jpg",
+        "https://telegra.ph/file/7021a0b65c0cfffd209f1.jpg",
+        "https://telegra.ph/file/55b84643eca51a0a704c3.jpg",
+        "https://telegra.ph/file/262cb4f5316903ffc908d.jpg",
+        "https://telegra.ph/file/abfb98d054a0b2886657b.jpg",
+        "https://telegra.ph/file/64e329e370cb8a728a1fa.jpg",
+        "https://telegra.ph/file/1369e24d4dc0e5302ee15.jpg"
+    ]
+};

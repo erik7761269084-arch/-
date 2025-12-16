@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23696,
+    "title": "黄金二逼王 绿洲舞娘",
+    "sourceUrl": "https://telegra.ph/%E9%BB%84%E9%87%91%E4%BA%8C%E9%80%BC%E7%8E%8B-%E7%BB%BF%E6%B4%B2%E8%88%9E%E5%A8%98-03-23",
+    "images": [
+        "https://telegra.ph/file/39539b1e935ecd782c069.jpg",
+        "https://telegra.ph/file/e98954029df324dbd8bf3.jpg",
+        "https://telegra.ph/file/91dd6d536af715ac5dba8.jpg",
+        "https://telegra.ph/file/e9830d296f5f15b607751.jpg",
+        "https://telegra.ph/file/2ea39bf3fdefd998c462f.jpg",
+        "https://telegra.ph/file/4f4732ab40baf7a3048c1.jpg",
+        "https://telegra.ph/file/1e48acc1ba20410c4eab4.jpg",
+        "https://telegra.ph/file/7e42add11598154e575b5.jpg",
+        "https://telegra.ph/file/b237f46ccf604ff0c8356.jpg",
+        "https://telegra.ph/file/e58a02432eba3e217a2ea.jpg",
+        "https://telegra.ph/file/daa9098b77e38bb23f11f.jpg",
+        "https://telegra.ph/file/1b4d8d8680faa5777da13.jpg",
+        "https://telegra.ph/file/d8ad726fab4f684c73918.jpg",
+        "https://telegra.ph/file/2094f608b2f37ffb52709.jpg",
+        "https://telegra.ph/file/c88c98d899cfd942722a0.jpg",
+        "https://telegra.ph/file/25e0cb41781d843f8117e.jpg",
+        "https://telegra.ph/file/9a4220b7d0dc5c712909e.jpg",
+        "https://telegra.ph/file/8c55f243916c7bceef9aa.jpg",
+        "https://telegra.ph/file/d4a1330e438dc099c9c02.jpg",
+        "https://telegra.ph/file/d1792ccdda2dcda87d824.jpg",
+        "https://telegra.ph/file/90c651712d5794555b05c.jpg",
+        "https://telegra.ph/file/f6fed0d15ceab13d20081.jpg",
+        "https://telegra.ph/file/3c20f3d01b2bb3e34b6a9.jpg",
+        "https://telegra.ph/file/9649cc34886a5a1d7386f.jpg",
+        "https://telegra.ph/file/027bef09948a4bc990615.jpg",
+        "https://telegra.ph/file/62a6e383c31820f22dd76.jpg"
+    ]
+};

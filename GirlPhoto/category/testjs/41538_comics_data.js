@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41538,
+    "title": "Lady Melamori - Motoko Kusanagi (Ghost In The Shell)",
+    "sourceUrl": "https://telegra.ph/Lady-Melamori---Motoko-Kusanagi-Ghost-In-The-Shell-05-28",
+    "images": [
+        "https://telegra.ph/file/640b56e4a4bf87a644c90.jpg",
+        "https://telegra.ph/file/de06b9bf1fa76414d4f02.jpg",
+        "https://telegra.ph/file/d89650a36276cbb439891.jpg",
+        "https://telegra.ph/file/a64244e3b7b9d701ae35c.jpg",
+        "https://telegra.ph/file/8bf9ad4fe115d16413aba.jpg",
+        "https://telegra.ph/file/df9b886b3e0164d55e0fe.jpg",
+        "https://telegra.ph/file/8678f2e644d4fd21f63cc.jpg",
+        "https://telegra.ph/file/dd9e61422a35b5f472dac.jpg",
+        "https://telegra.ph/file/84958719415d388065d0e.jpg",
+        "https://telegra.ph/file/9cc22c88924850a7a4700.jpg",
+        "https://telegra.ph/file/59909fce5a3b076c4c870.jpg",
+        "https://telegra.ph/file/0964ded413ff0a71203f8.jpg",
+        "https://telegra.ph/file/0c2c9b9024519caee1862.jpg",
+        "https://telegra.ph/file/5760f798423cb6fa796c9.jpg",
+        "https://telegra.ph/file/5a95f7707d6bdda88732c.jpg",
+        "https://telegra.ph/file/a64aacca29dafd3059b3e.jpg",
+        "https://telegra.ph/file/78fd24638a1897856bcb0.jpg",
+        "https://telegra.ph/file/b3f156c8c934664b3bf42.jpg",
+        "https://telegra.ph/file/cec98746cb17a9c3d09bd.jpg",
+        "https://telegra.ph/file/7fd94d3494db5e49a58b3.jpg",
+        "https://telegra.ph/file/5bcf24eafef003c97f1aa.jpg",
+        "https://telegra.ph/file/b89f5cef6805d5919cbca.jpg",
+        "https://telegra.ph/file/dd395d72413e4eedb91cc.jpg",
+        "https://telegra.ph/file/9390210a60d26c065ffb0.jpg"
+    ]
+};

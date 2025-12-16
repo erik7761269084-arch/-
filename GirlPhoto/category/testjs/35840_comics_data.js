@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35840,
+    "title": "比比骨骼精奇 Cosplay 布拉达曼特",
+    "sourceUrl": "https://telegra.ph/比比骨骼精奇-Cosplay-布拉达曼特-11-03",
+    "images": [
+        "https://telegra.ph/file/5964266f787a4a107b27c.jpg",
+        "https://telegra.ph/file/0c43dc9ec3d7600759ec2.jpg",
+        "https://telegra.ph/file/b067dc591525aff895169.jpg",
+        "https://telegra.ph/file/4ce5c6650ca871391d743.jpg",
+        "https://telegra.ph/file/96096197fe8386a53ca4e.jpg",
+        "https://telegra.ph/file/6ab6b088177f25a086b0f.jpg",
+        "https://telegra.ph/file/ab0188cf3daedcafcc15d.jpg",
+        "https://telegra.ph/file/127059ab968ea5de844f6.jpg",
+        "https://telegra.ph/file/b4b91f85f22b3c8fd9176.jpg",
+        "https://telegra.ph/file/d2a193862488e918e39f7.jpg",
+        "https://telegra.ph/file/fd722f717791484e9803f.jpg",
+        "https://telegra.ph/file/7a3a0abd67e2758a5a644.jpg",
+        "https://telegra.ph/file/96f86829e092ef26bfcd9.jpg",
+        "https://telegra.ph/file/2c6484d41e87ade69ef30.jpg",
+        "https://telegra.ph/file/e08a8eb9dc1ee76063772.jpg",
+        "https://telegra.ph/file/ded4ab7d3a1468ad231cc.jpg",
+        "https://telegra.ph/file/69ac9321a1cf891147208.jpg",
+        "https://telegra.ph/file/d8d03705213845f13afcc.jpg",
+        "https://telegra.ph/file/6160c9645c4762cf1339f.jpg",
+        "https://telegra.ph/file/1c88fcfac7d6afdd26575.jpg",
+        "https://telegra.ph/file/ae2a0948acd903c3f3414.jpg",
+        "https://telegra.ph/file/ad49c882ecfda800028d5.jpg",
+        "https://telegra.ph/file/2ae83c8e2d540796ba54f.jpg",
+        "https://telegra.ph/file/8015a0e72be6a1c0499e9.jpg"
+    ]
+};

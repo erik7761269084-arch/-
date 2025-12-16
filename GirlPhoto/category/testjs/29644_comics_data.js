@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29644,
+    "title": "桜桃喵 – 温迪女仆",
+    "sourceUrl": "https://telegra.ph/%E6%A1%9C%E6%A1%83%E5%96%B5--%E6%B8%A9%E8%BF%AA%E5%A5%B3%E4%BB%86-02-09",
+    "images": [
+        "https://telegra.ph/file/b78f5dda5174f29b2f819.jpg",
+        "https://telegra.ph/file/c2f967f5d7309529b9dfb.jpg",
+        "https://telegra.ph/file/a6f033ececeab2a5f4d1b.jpg",
+        "https://telegra.ph/file/736ab186dbb9b96e50f5e.jpg",
+        "https://telegra.ph/file/5e61abac7411ef36e6397.jpg",
+        "https://telegra.ph/file/c340d500dce8d3819f6f1.jpg",
+        "https://telegra.ph/file/9c29d1d4e41526a2a57b3.jpg",
+        "https://telegra.ph/file/68673805089e2c95dafec.jpg",
+        "https://telegra.ph/file/39b4f7818f953159f57a8.jpg",
+        "https://telegra.ph/file/b91fc1f2b2f3cddf9111f.jpg",
+        "https://telegra.ph/file/924ce1a49a966ec4565ce.jpg",
+        "https://telegra.ph/file/eba90c4a1346ec21da2bd.jpg",
+        "https://telegra.ph/file/1d46fa7358d02a7f097fe.jpg",
+        "https://telegra.ph/file/065ad0d594599964efb2b.jpg",
+        "https://telegra.ph/file/c8bfb22a20d2afbbad851.jpg",
+        "https://telegra.ph/file/37ca2b490b2719441eb74.jpg",
+        "https://telegra.ph/file/5eaf5f910ab572665c4e5.jpg",
+        "https://telegra.ph/file/d1943b7c807dfc42b65f6.jpg",
+        "https://telegra.ph/file/f9583cc33e2dac2adb935.jpg",
+        "https://telegra.ph/file/f98dfdbd10373bd9ac14c.jpg",
+        "https://telegra.ph/file/46462b3787d77ff37718a.jpg",
+        "https://telegra.ph/file/c6a876476247823c598ab.jpg",
+        "https://telegra.ph/file/cf78a24841f986ac3d350.jpg",
+        "https://telegra.ph/file/e0ef9c5027fcbf3e7afc2.jpg",
+        "https://telegra.ph/file/26154fc3c8befcc9b68f3.jpg",
+        "https://telegra.ph/file/6d130477fc53e222f0380.jpg"
+    ]
+};

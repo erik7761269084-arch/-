@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23499,
+    "title": "糖果果Candy-结野安娜[25P-132MB]",
+    "sourceUrl": "https://telegra.ph/%E7%B3%96%E6%9E%9C%E6%9E%9CCandy-%E7%BB%93%E9%87%8E%E5%AE%89%E5%A8%9C25P-132MB-03-01",
+    "images": [
+        "https://telegra.ph/file/4c71aecf140fb50cdffa1.jpg",
+        "https://telegra.ph/file/ed6414050d2145922d3bc.jpg",
+        "https://telegra.ph/file/93c95d5ddc182908c2e71.jpg",
+        "https://telegra.ph/file/cbba76194a7e4494f2cee.jpg",
+        "https://telegra.ph/file/2f77a2e17ff3c7c7927db.jpg",
+        "https://telegra.ph/file/e05d24a3a00622521f76f.jpg",
+        "https://telegra.ph/file/def1a3fc26098abdb80b3.jpg",
+        "https://telegra.ph/file/cd2a8aa5eff32c2508a0f.jpg",
+        "https://telegra.ph/file/91c0f49471142182166cf.jpg",
+        "https://telegra.ph/file/b514bc395093dba75d1b8.jpg",
+        "https://telegra.ph/file/65c71e46db7cc6d89ba82.jpg",
+        "https://telegra.ph/file/1cc520d1c843043e0b41b.jpg",
+        "https://telegra.ph/file/a49487cf4c7ec8c38db2d.jpg",
+        "https://telegra.ph/file/f71c0a487253a65660496.jpg",
+        "https://telegra.ph/file/4408b137aa944a0a45372.jpg",
+        "https://telegra.ph/file/69ee246ccd61157ba9916.jpg",
+        "https://telegra.ph/file/086b67138f58cd247fb19.jpg",
+        "https://telegra.ph/file/9fa01d8e0ecc41b907024.jpg",
+        "https://telegra.ph/file/3f7764e972eaf6c726859.jpg",
+        "https://telegra.ph/file/38d48aa469ad3bf3e3414.jpg",
+        "https://telegra.ph/file/df382f3697c060c6d1215.jpg",
+        "https://telegra.ph/file/1370ec7978a9c7b10db19.jpg",
+        "https://telegra.ph/file/e9442872202dfb8233e07.jpg",
+        "https://telegra.ph/file/27a2708490156cac0d029.jpg",
+        "https://telegra.ph/file/542874f0f40ff31a286bb.jpg"
+    ]
+};

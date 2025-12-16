@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40896,
+    "title": "Hane Ame - 2023 Birthday",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---2023-Birthday-11-08",
+    "images": [
+        "https://telegra.ph/file/e6bcff75b961f2f91e036.jpg",
+        "https://telegra.ph/file/a2b2f859fb8b0440bd061.jpg",
+        "https://telegra.ph/file/606bdf66aba5e81a769f8.jpg",
+        "https://telegra.ph/file/7603c3cfe0f486e84ce72.jpg",
+        "https://telegra.ph/file/b0bf16d4e6933e1d6d6ca.jpg",
+        "https://telegra.ph/file/4bfa0c96a418db3085858.jpg",
+        "https://telegra.ph/file/0f672460b3a114870766d.jpg",
+        "https://telegra.ph/file/58cb15a81c013e11cfbc3.jpg",
+        "https://telegra.ph/file/6d5696cfd49d88742ce4a.jpg",
+        "https://telegra.ph/file/99b7f0523ff997ad225f2.jpg",
+        "https://telegra.ph/file/b33adf5871b60494faf25.jpg",
+        "https://telegra.ph/file/dd4d258bf9cfb9c6f5867.jpg",
+        "https://telegra.ph/file/36ab67a30fabaffb03113.jpg",
+        "https://telegra.ph/file/ae7a8eb84ecb09ce051f8.jpg",
+        "https://telegra.ph/file/56fa9856448a071d637df.jpg",
+        "https://telegra.ph/file/d8a54ee788ca0da096840.jpg",
+        "https://telegra.ph/file/22c06017b0e3a3041489f.jpg",
+        "https://telegra.ph/file/03f67481c164cf2c05b44.jpg",
+        "https://telegra.ph/file/5bd88bfa73bf225c91235.jpg",
+        "https://telegra.ph/file/eee1502b992fa427b9cf9.jpg",
+        "https://telegra.ph/file/3b123334c82dd4b351cef.jpg",
+        "https://telegra.ph/file/5fde2bf6f9ad0e8a3f5f6.jpg",
+        "https://telegra.ph/file/ad3cfed3baa8435970558.jpg",
+        "https://telegra.ph/file/b4a1088f2d35afddd65b3.jpg",
+        "https://telegra.ph/file/ea45c4949a61889b21038.jpg"
+    ]
+};

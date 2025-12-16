@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39761,
+    "title": "Joyce - Princess Zelda (Legend of the Zelda)",
+    "sourceUrl": "https://telegra.ph/Joyce---Princess-Zelda-Legend-of-the-Zelda-10-04",
+    "images": [
+        "https://telegra.ph/file/75d512bb0d834eaa1847d.jpg",
+        "https://telegra.ph/file/9b5441a3a0a409866f067.jpg",
+        "https://telegra.ph/file/fe072ee10572c24b708d1.jpg",
+        "https://telegra.ph/file/091c634584c58e3f93722.jpg",
+        "https://telegra.ph/file/9108b82be6260ffb2c33f.jpg",
+        "https://telegra.ph/file/0f9342ef26c602da225cd.jpg",
+        "https://telegra.ph/file/bb324808b07460598fa9e.jpg",
+        "https://telegra.ph/file/9eb1f0a4b83820b3875cb.jpg",
+        "https://telegra.ph/file/92f86340c3f018bd088d5.jpg",
+        "https://telegra.ph/file/f4425a0420fa1ef2f2f4a.jpg",
+        "https://telegra.ph/file/ac58927c2d827cae9161b.jpg",
+        "https://telegra.ph/file/588af0e296d346beaa7b1.jpg",
+        "https://telegra.ph/file/f46b1586e17bb8d89b2f6.jpg",
+        "https://telegra.ph/file/4a701ddf6504b072b361a.jpg",
+        "https://telegra.ph/file/9941567053a13fca950f3.jpg",
+        "https://telegra.ph/file/643469a1b771121eaf6be.jpg",
+        "https://telegra.ph/file/c0793edbccea125d0d0e7.jpg",
+        "https://telegra.ph/file/e099c40df490157b145ce.jpg",
+        "https://telegra.ph/file/e6cbc6cb9ea0d19007acc.jpg",
+        "https://telegra.ph/file/cf83c725f305b8dce1325.jpg",
+        "https://telegra.ph/file/9144b322e594943c01a64.jpg",
+        "https://telegra.ph/file/a791172eaaa7eb064c14f.jpg",
+        "https://telegra.ph/file/323d106e1e3fb61f73b34.jpg",
+        "https://telegra.ph/file/fb5d19c6ba826275a3aa7.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35426,
+    "title": "Cosplay 爆机少女喵小吉 骸骨少女",
+    "sourceUrl": "https://telegra.ph/Cosplay-爆机少女喵小吉-骸骨少女-09-22",
+    "images": [
+        "https://telegra.ph/file/7b38f9176a45a92aed31e.jpg",
+        "https://telegra.ph/file/33a03bb64b63ac685b062.jpg",
+        "https://telegra.ph/file/61287ffbd377d4d04bac7.jpg",
+        "https://telegra.ph/file/269d05b2437c6e30310e4.jpg",
+        "https://telegra.ph/file/0f9e268fc7b5120194693.jpg",
+        "https://telegra.ph/file/2414fd062930f95db3206.jpg",
+        "https://telegra.ph/file/11e44ae1ea55e6f12c2c9.jpg",
+        "https://telegra.ph/file/c8b0ad996e6cc661ee7ff.jpg",
+        "https://telegra.ph/file/42e786907b126706e2888.jpg",
+        "https://telegra.ph/file/a133625d9e52fc29456ee.jpg",
+        "https://telegra.ph/file/5dbfb4c8fedfa34263a3b.jpg",
+        "https://telegra.ph/file/408f7506225cb4da5949c.jpg",
+        "https://telegra.ph/file/e72060189a6e52f460e4e.jpg",
+        "https://telegra.ph/file/18de041911806a807b0c9.jpg",
+        "https://telegra.ph/file/048ce9a9c33616241fe62.jpg",
+        "https://telegra.ph/file/e28677063a34cebb897ec.jpg",
+        "https://telegra.ph/file/8ae9e9bdb4c3e68bc5c20.jpg",
+        "https://telegra.ph/file/0c08715f75d6f92677e14.jpg",
+        "https://telegra.ph/file/f3483ef14c1afb9d60752.jpg",
+        "https://telegra.ph/file/640ee3d6888755488fbc2.jpg",
+        "https://telegra.ph/file/0e210496c98f38a2dedbd.jpg",
+        "https://telegra.ph/file/f168b961432cb79f01603.jpg",
+        "https://telegra.ph/file/2851a379b66c9d2a3dace.jpg",
+        "https://telegra.ph/file/c7ea02385d2ff2152b824.jpg"
+    ]
+};

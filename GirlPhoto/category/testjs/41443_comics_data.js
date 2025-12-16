@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41443,
+    "title": "Yummichiyo - Implacable (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Yummichiyo---Implacable-Azur-Lane-05-03",
+    "images": [
+        "https://telegra.ph/file/631aa7fbbd0c3d9979c61.jpg",
+        "https://telegra.ph/file/d6db4cb5b534f7f45655f.jpg",
+        "https://telegra.ph/file/5955245567ddaf58756cc.jpg",
+        "https://telegra.ph/file/c825e54fde3011e9c4920.jpg",
+        "https://telegra.ph/file/dc49bcbf67a7fd476627b.jpg",
+        "https://telegra.ph/file/8328aad6961c65bb20062.jpg",
+        "https://telegra.ph/file/35252bdc43ba78a6d192d.jpg",
+        "https://telegra.ph/file/1ad1717c6cfec473ece3d.jpg",
+        "https://telegra.ph/file/0a59955457ec972a4b33e.jpg",
+        "https://telegra.ph/file/be44b7a09f59b4a59d254.jpg",
+        "https://telegra.ph/file/1a7e27681545649b47cfa.jpg",
+        "https://telegra.ph/file/a9476ea82df82a5a736a5.jpg",
+        "https://telegra.ph/file/e000fbb95fd06c53c52e4.jpg",
+        "https://telegra.ph/file/e7e9df171611b3907b00e.jpg",
+        "https://telegra.ph/file/5ecdc677497aecb2738fd.jpg",
+        "https://telegra.ph/file/386b2dd60cf8146f67326.jpg",
+        "https://telegra.ph/file/5f19ef8f27c1bdb8e6074.jpg",
+        "https://telegra.ph/file/61ba679f7528203890f10.jpg",
+        "https://telegra.ph/file/3f5f3dd5786981062ee60.jpg",
+        "https://telegra.ph/file/56a83f8b0af06c605c227.jpg",
+        "https://telegra.ph/file/ab15f72d05a082257a448.jpg",
+        "https://telegra.ph/file/9a08484d86024e73f32ee.jpg",
+        "https://telegra.ph/file/a7f53338b5381bbdff99f.jpg",
+        "https://telegra.ph/file/bdd88b1f25ab474a2e7ff.jpg",
+        "https://telegra.ph/file/18735188c099826dab7ef.jpg"
+    ]
+};

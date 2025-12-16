@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42965,
+    "title": "阿包也是兔娘 - NO.38 贞德兔女郎 [25P-340MB]",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E5%8C%85%E4%B9%9F%E6%98%AF%E5%85%94%E5%A8%98---NO38-%E8%B4%9E%E5%BE%B7%E5%85%94%E5%A5%B3%E9%83%8E-25P-340MB-07-18",
+    "images": [
+        "https://telegra.ph/file/c2d50dc3aacb1c5e9f045.jpg",
+        "https://telegra.ph/file/abc3e21ee3de234327ce1.jpg",
+        "https://telegra.ph/file/a2b2c5d07041dc21b6508.jpg",
+        "https://telegra.ph/file/a8cb3abcaf9847a059191.jpg",
+        "https://telegra.ph/file/f6f29c7d96c0ad4a7a28d.jpg",
+        "https://telegra.ph/file/88012f01350963c77eff3.jpg",
+        "https://telegra.ph/file/aace20aadfb364795eb04.jpg",
+        "https://telegra.ph/file/12da9bda5b1d9c766ad49.jpg",
+        "https://telegra.ph/file/6421e95c269f36c8926a3.jpg",
+        "https://telegra.ph/file/b4b1230c6e732c9c0ee60.jpg",
+        "https://telegra.ph/file/e589440a4ffa600554f69.jpg",
+        "https://telegra.ph/file/565ea8a20fb1bc048f2f8.jpg",
+        "https://telegra.ph/file/1cd134912dabce8ffa99a.jpg",
+        "https://telegra.ph/file/38ee376f6ebddc1c554a3.jpg",
+        "https://telegra.ph/file/749574450db3253739494.jpg",
+        "https://telegra.ph/file/e7da9db15263936614133.jpg",
+        "https://telegra.ph/file/eb18b3769a050ca736266.jpg",
+        "https://telegra.ph/file/2619d9837446c6d48416d.jpg",
+        "https://telegra.ph/file/172016f7e181e3c5dad2a.jpg",
+        "https://telegra.ph/file/33f474622d3f1d5139cee.jpg",
+        "https://telegra.ph/file/ba9083cbad905a4e89a63.jpg",
+        "https://telegra.ph/file/42fc22b94f81b96c6b0c6.jpg",
+        "https://telegra.ph/file/7e9ab4a7404f9ff553942.jpg",
+        "https://telegra.ph/file/a837eabc8a309215df900.jpg",
+        "https://telegra.ph/file/8b156149fc8f08b7370b3.jpg"
+    ]
+};

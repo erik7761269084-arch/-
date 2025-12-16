@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27522,
+    "title": "雨波_HaneAme - NO.149 Daki [23P-114MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---NO149-Daki-23P-114MB-04-10",
+    "images": [
+        "https://telegra.ph/file/f2245be14248d962efe73.jpg",
+        "https://telegra.ph/file/b685175fcdf9c9e0723d4.jpg",
+        "https://telegra.ph/file/d3a6949092a01264de4bb.jpg",
+        "https://telegra.ph/file/10dd85bcea1ffb8593ad8.jpg",
+        "https://telegra.ph/file/6b0ec4378758d95747de1.jpg",
+        "https://telegra.ph/file/51dce54b07ff5bbe498f8.jpg",
+        "https://telegra.ph/file/25d7ca6b0b6805ed61398.jpg",
+        "https://telegra.ph/file/bf1bc001b6b42c6b47990.jpg",
+        "https://telegra.ph/file/1e5390b4c5dbc8e530125.jpg",
+        "https://telegra.ph/file/a20c2a026d34f2abed670.jpg",
+        "https://telegra.ph/file/813de20e9525858f08a88.jpg",
+        "https://telegra.ph/file/235a57e8e9e671b138603.jpg",
+        "https://telegra.ph/file/c82e32832f91d1ee8a740.jpg",
+        "https://telegra.ph/file/f7e26f107158568ddfc56.jpg",
+        "https://telegra.ph/file/3e2759b61c6b2685c77f9.jpg",
+        "https://telegra.ph/file/0b090fb252af9af4100d0.jpg",
+        "https://telegra.ph/file/a88eef1be9a6bb65940b1.jpg",
+        "https://telegra.ph/file/563fa88d3cd9382b4f9ca.jpg",
+        "https://telegra.ph/file/dbcb46eceed1863b7f961.jpg",
+        "https://telegra.ph/file/8fdad23fa17494db8da13.jpg",
+        "https://telegra.ph/file/5bcd56456a5ebc9f93300.jpg",
+        "https://telegra.ph/file/236af4cc707c1837029a3.jpg",
+        "https://telegra.ph/file/1858d3e1b05a4c695d884.jpg"
+    ]
+};

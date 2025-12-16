@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47147,
+    "title": "小奈奈 - 楪祈 - Page 1",
+    "sourceUrl": "https://telegra.ph/小奈奈---楪祈---Page-1-03-05",
+    "images": [
+        "https://telegra.ph/file/e68407da479e75abc61f3.jpg",
+        "https://telegra.ph/file/ca6963c62753b25a458d2.jpg",
+        "https://telegra.ph/file/4549f668538527df0c032.jpg",
+        "https://telegra.ph/file/6030cb5a1a4c37e970f59.jpg",
+        "https://telegra.ph/file/858207a91bff0cc512302.jpg",
+        "https://telegra.ph/file/e351dcd834ffc5e36ce4c.jpg",
+        "https://telegra.ph/file/573d2799b11c4d89b290c.jpg",
+        "https://telegra.ph/file/55e43f4fcf680ff1da979.jpg",
+        "https://telegra.ph/file/4db7ee5e1f12874df9d6b.jpg",
+        "https://telegra.ph/file/ee87afb34f90a56d57872.jpg",
+        "https://telegra.ph/file/97fb6b975e40eda7f3518.jpg",
+        "https://telegra.ph/file/7a718dc4e60f2eb91c886.jpg",
+        "https://telegra.ph/file/8f072bfec623eb35c729c.jpg",
+        "https://telegra.ph/file/fafca244ef474664f5c93.jpg",
+        "https://telegra.ph/file/0a3b8299fecb65fa83db9.jpg",
+        "https://telegra.ph/file/647fe18e5c2655b5094bd.jpg",
+        "https://telegra.ph/file/3e88b52f8d954b8b361eb.jpg",
+        "https://telegra.ph/file/b0fa17c3ed4512606db0f.jpg",
+        "https://telegra.ph/file/eb38f82eecf51368843c8.jpg",
+        "https://telegra.ph/file/d03f8aea7e3387fab8819.jpg",
+        "https://telegra.ph/file/2b8776d40de7e23dfa0e5.jpg",
+        "https://telegra.ph/file/a1665e93cbddbc75d3e61.jpg",
+        "https://telegra.ph/file/df5201d9a3b0ec249dca8.jpg",
+        "https://telegra.ph/file/a478e3dd5a76e538bb7cf.jpg",
+        "https://telegra.ph/file/71b5451cf83638ceb106f.jpg",
+        "https://telegra.ph/file/1c21b66547f4bb4dbbea8.jpg"
+    ]
+};

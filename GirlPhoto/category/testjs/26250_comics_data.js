@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 26250,
+    "title": "日奈娇 星空钻石",
+    "sourceUrl": "https://telegra.ph/%E6%97%A5%E5%A5%88%E5%A8%87-%E6%98%9F%E7%A9%BA%E9%92%BB%E7%9F%B3-09-25",
+    "images": [
+        "https://telegra.ph/file/6f582ff29c23018a83cb6.jpg",
+        "https://telegra.ph/file/1f61497bb3156344bef48.jpg",
+        "https://telegra.ph/file/ab0d727ae13a7853982e7.jpg",
+        "https://telegra.ph/file/1e8aa7a7c244d16b7bf31.jpg",
+        "https://telegra.ph/file/cc25f19b6287fafb781dc.jpg",
+        "https://telegra.ph/file/f0c288425265e2c7599c1.jpg",
+        "https://telegra.ph/file/be544221d0d3e9321f945.jpg",
+        "https://telegra.ph/file/3b53a8775d2430b3f7d11.jpg",
+        "https://telegra.ph/file/6beffb27f6367ed15faaa.jpg",
+        "https://telegra.ph/file/db278d568c49888ee478e.jpg",
+        "https://telegra.ph/file/9b1a3a2124b71065a87ae.jpg",
+        "https://telegra.ph/file/f5fd35049f078392af764.jpg",
+        "https://telegra.ph/file/5f8d65ef49eb6f5c73df1.jpg",
+        "https://telegra.ph/file/8613594221fd9a5351d4e.jpg",
+        "https://telegra.ph/file/098cfcfd62defd68f3431.jpg",
+        "https://telegra.ph/file/4b0ff6e6f8101007615c2.jpg",
+        "https://telegra.ph/file/3508c5eda81edf5132f57.jpg",
+        "https://telegra.ph/file/c5c3b6884c20e13cfae05.jpg",
+        "https://telegra.ph/file/ce8c0a996ea85ec2ec26f.jpg",
+        "https://telegra.ph/file/95dcb063127ca487a22b6.jpg",
+        "https://telegra.ph/file/c7555f87bc7a665908b74.jpg",
+        "https://telegra.ph/file/d19c54e730a5fde42b44b.jpg",
+        "https://telegra.ph/file/5d9d6291208345fa7f5fe.jpg",
+        "https://telegra.ph/file/31963c35840ae8cbd59ce.jpg",
+        "https://telegra.ph/file/90aeb98083b763418035c.jpg",
+        "https://telegra.ph/file/544b545e529df2e33e7c2.jpg"
+    ]
+};

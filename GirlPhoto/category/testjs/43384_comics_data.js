@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43384,
+    "title": "樱晚gigi - NO.25 粉丝群收费写真25 朦胧 [26P-215MB]",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E6%99%9Agigi---NO25-%E7%B2%89%E4%B8%9D%E7%BE%A4%E6%94%B6%E8%B4%B9%E5%86%99%E7%9C%9F25-%E6%9C%A6%E8%83%A7-26P-215MB-11-08",
+    "images": [
+        "https://telegra.ph/file/ec14a1c9b20a5c6a19fea.jpg",
+        "https://telegra.ph/file/29d3e849b0d2ea9902719.jpg",
+        "https://telegra.ph/file/1a18310bf0a5e8cc1d0d5.jpg",
+        "https://telegra.ph/file/91124825cd96458c4cd29.jpg",
+        "https://telegra.ph/file/c291916bc270852d0f838.jpg",
+        "https://telegra.ph/file/3a8d2fefe93a5e622fcaa.jpg",
+        "https://telegra.ph/file/c4305bb1b177a66ff6e72.jpg",
+        "https://telegra.ph/file/6bf3281927f153ad062e4.jpg",
+        "https://telegra.ph/file/1d11bc22e0d3febcbccb4.jpg",
+        "https://telegra.ph/file/07ac588d9f277dd29110d.jpg",
+        "https://telegra.ph/file/50bcee4fea2a1a6dd52ae.jpg",
+        "https://telegra.ph/file/27902a669cac808629e9c.jpg",
+        "https://telegra.ph/file/ba48f567ab9efb5d02a15.jpg",
+        "https://telegra.ph/file/0e80e963f400e0d736144.jpg",
+        "https://telegra.ph/file/96e4b7b3fad8ac2185d58.jpg",
+        "https://telegra.ph/file/f9a7ab5b8ae310a704381.jpg",
+        "https://telegra.ph/file/38e9e09bdda81ad8d9826.jpg",
+        "https://telegra.ph/file/8350c7724e2f023023b56.jpg",
+        "https://telegra.ph/file/73212d6a3a0393a8d334e.jpg",
+        "https://telegra.ph/file/cceacb1f2edd8bd5b6093.jpg",
+        "https://telegra.ph/file/94dffcb8e8eebcead9cd6.jpg",
+        "https://telegra.ph/file/d14d107f9212d2bbba7e2.jpg",
+        "https://telegra.ph/file/73613bae4807882b78d64.jpg",
+        "https://telegra.ph/file/a3dae4397fabe45d7286e.jpg",
+        "https://telegra.ph/file/7e0cdd3504e4d2f91bb33.jpg",
+        "https://telegra.ph/file/5ae97a50c9696ea1bfc29.jpg"
+    ]
+};

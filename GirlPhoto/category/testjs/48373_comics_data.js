@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48373,
+    "title": "Hinata2000 - Maid Jeanne - Page 1",
+    "sourceUrl": "https://telegra.ph/Hinata2000---Maid-Jeanne---Page-1-06-25",
+    "images": [
+        "https://telegra.ph/file/a9c4b64db5e51a9af4293.jpg",
+        "https://telegra.ph/file/ff54a7cc2be56f916b8ff.jpg",
+        "https://telegra.ph/file/338be7c73b5cd6c005213.jpg",
+        "https://telegra.ph/file/fe9f4f239b40d8c1a7c4d.jpg",
+        "https://telegra.ph/file/f59483e179f00ece992d0.jpg",
+        "https://telegra.ph/file/eeb8f4f5db7415e1fbd49.jpg",
+        "https://telegra.ph/file/54138f8debd6f28daf0a4.jpg",
+        "https://telegra.ph/file/750aee0e07da4c8929510.jpg",
+        "https://telegra.ph/file/2a189a5d7d6f493e1ddae.jpg",
+        "https://telegra.ph/file/fc4f7f4c683ba7e8dd538.jpg",
+        "https://telegra.ph/file/ef237b24448780b374eee.jpg",
+        "https://telegra.ph/file/98aec15a8bc7ba8890baa.jpg",
+        "https://telegra.ph/file/7c8e24267c88bc539aedd.jpg",
+        "https://telegra.ph/file/06e0b865f3b73034726dc.jpg",
+        "https://telegra.ph/file/c1fe5a13ec68a271a98af.jpg",
+        "https://telegra.ph/file/548c10a0717366dca2701.jpg",
+        "https://telegra.ph/file/dd677df6f0ca9517b3091.jpg",
+        "https://telegra.ph/file/187c1cc78e40faee40099.jpg",
+        "https://telegra.ph/file/24b75ecd85486ef73c5c9.jpg",
+        "https://telegra.ph/file/28d7483485a0cbcd50aad.jpg",
+        "https://telegra.ph/file/04818e791cbd9f511db9a.jpg",
+        "https://telegra.ph/file/8ea5c023f5a6d57dbdae5.jpg",
+        "https://telegra.ph/file/40327519e53907d364e4f.jpg",
+        "https://telegra.ph/file/80b00e8bd12aaeec931d7.jpg"
+    ]
+};

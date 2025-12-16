@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 51316,
+    "title": "[Xidaidai 习呆呆] Cipher with GIF (Honkai: Star Rail) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Cipher-with-GIF-Honkai-Star-Rail-Decensored---Page-1-12-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMY1pLeyllU-HPEXjWYj4J01SnQJeTAACNBwAAvWIcVWWIsOYulFB-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMY5pLeynUgEOR6nTFAe9amFav5wLxwACNRwAAvWIcVXs5Udz1Z43JzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMY9pLeyoerPUEOsz3S9RMBfXhA-0hwACNhwAAvWIcVUzzXnX4NnIDDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZBpLeypaLCNmfxKuaChhYhHXKsmmAACNxwAAvWIcVWakqrdTpthRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZFpLeyrcf_hKybO71FjaMBfWZeL5AACOBwAAvWIcVW8kBiGHV_s8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZNpLeysU8oIqWmz5UnSGk1OxEh0_wACOhwAAvWIcVUF1MNq0zbcfjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZRpLeytdEfF5d2BTD-eKloDGJN3iQACOxwAAvWIcVWyY6AWkmglaTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZdpLeyyZ1hzOXCw0AABPqyt_-pCTtkAAj4cAAL1iHFVbEk9_AxJtLU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZlpLeyzDd1S5MjrjG3xUvudqPziTgACQBwAAvWIcVV0LfA70fI2MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZtpLey3pUhoC6jFpw7YY10ZCNEZHAACQhwAAvWIcVX2TIUkGaeGETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMZ1pLey8slREYoUMdapuBoF1T6xWlQACRBwAAvWIcVXkH2BiNrFk4jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMaBpLey-ESe_W6v5zFgBTrUf4-lDrwACRxwAAvWIcVWBHah8OyeJBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMaJpLez8B-MoidhBcnKJ0C3Xv2UVBwACSRwAAvWIcVWwNj0BF_ngAjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMaRpLez-ZGRvgOSITYFvAAFKJKHUaXYAAkscAAL1iHFVXuHJowtbOig2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMaZpLe0C8RnX11wNJSNYJop8B2pyqgACTRwAAvWIcVXnMaLduo46nTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMahpLe0DKMT2g-9gahX_Zv_cXdPyKwACTxwAAvWIcVVIJjcS-QZjVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMappLe0F8ccymkVlsTIuXLAOUgABqTsAAlEcAAL1iHFVSPrNcOzkwLQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMaxpLe0IFwni6pWrAAFeWDeVbceIFOkAAlMcAAL1iHFVDjGjiAIl3vg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMa5pLe0J0bvOTHywCvl6_ET_oQABU14AAlUcAAL1iHFVm2ZOEBy5u7E2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMbBpLe0OispaK2lto-mq7nwngha0ewACVxwAAvWIcVVdWj7ecf5a9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMbJpLe0PKua9EHCPFI4VpeeVir7g2AACWRwAAvWIcVVp2wYgilVD3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMbRpLe0QtFUPu2BIBpRiUSpYPeupGwACWxwAAvWIcVWWqsyT5Pmb5TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMbdpLe1Qn-9yIP1IO0f6l-HcxZa5wwACXhwAAvWIcVWs5_jqyjms1DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMcNpLe2UFFaEU76IVYyr_Gt3y-FGZgACahwAAvWIcVX1LhDmT-YexjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMcRpLe2XFAdx8Y3mBp-jBT4vYL4ZfAACaxwAAvWIcVUaVqzA4I6HZTYE"
+    ]
+};

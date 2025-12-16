@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24372,
+    "title": "[Cos]白金 - 吊带袜私房 [25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E7%99%BD%E9%87%91---%E5%90%8A%E5%B8%A6%E8%A2%9C%E7%A7%81%E6%88%BF-25P-10-18",
+    "images": [
+        "https://telegra.ph/file/1bdcb19d955ec60fe71c7.jpg",
+        "https://telegra.ph/file/1779cef53d35058d2595f.jpg",
+        "https://telegra.ph/file/9f36b796bb8b78c83c126.jpg",
+        "https://telegra.ph/file/e6c79316380ca63d4a846.jpg",
+        "https://telegra.ph/file/b843ecfa179c810e67364.jpg",
+        "https://telegra.ph/file/563576e1e1d04dbf25cfb.jpg",
+        "https://telegra.ph/file/af66bab1cbea2949944a9.jpg",
+        "https://telegra.ph/file/a62edd03abbf34e7f00e3.jpg",
+        "https://telegra.ph/file/ef19276878e8fdb1e22ca.jpg",
+        "https://telegra.ph/file/778fe2f596046bb4a5719.jpg",
+        "https://telegra.ph/file/428e89db6aa4408140b06.jpg",
+        "https://telegra.ph/file/2184331640131f276aa33.jpg",
+        "https://telegra.ph/file/6a2caa5a8133c1582ceda.jpg",
+        "https://telegra.ph/file/585a081602ca10f1e14d2.jpg",
+        "https://telegra.ph/file/ca40cbe6e9ee85f500952.jpg",
+        "https://telegra.ph/file/7586f87c4fb4b178173b2.jpg",
+        "https://telegra.ph/file/a751518035969f342c3cb.jpg",
+        "https://telegra.ph/file/409e83386210ab920a763.jpg",
+        "https://telegra.ph/file/fb56879b168360795a691.jpg",
+        "https://telegra.ph/file/5a0b8b370af4c5677a360.jpg",
+        "https://telegra.ph/file/2415d7cf82b6599016eb2.jpg",
+        "https://telegra.ph/file/08b5a3bbd6834ed8541c8.jpg",
+        "https://telegra.ph/file/9b07d8c22ea5795088c73.jpg",
+        "https://telegra.ph/file/f4f8707ea2ffcc52c256c.jpg",
+        "https://telegra.ph/file/1aaa1bc172e18cd6d7eef.jpg"
+    ]
+};

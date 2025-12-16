@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40914,
+    "title": "Hana Bunny - Nurse",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Nurse-11-13",
+    "images": [
+        "https://telegra.ph/file/8155cca06c8206430c7f4.jpg",
+        "https://telegra.ph/file/fb637ff163f8e834123d6.jpg",
+        "https://telegra.ph/file/cd37d6de1ca9320b18453.jpg",
+        "https://telegra.ph/file/bc84552552e728947f13f.jpg",
+        "https://telegra.ph/file/f3dfebaec384e9760dc51.jpg",
+        "https://telegra.ph/file/4729bcda76c1e2c70ef72.jpg",
+        "https://telegra.ph/file/225c7711ec53f3595f9ee.jpg",
+        "https://telegra.ph/file/09cacac30d1b867a98250.jpg",
+        "https://telegra.ph/file/cfbce19004d7eac7adfb1.jpg",
+        "https://telegra.ph/file/74cf3538f647313af08cb.jpg",
+        "https://telegra.ph/file/139a174c8316f66df34f6.jpg",
+        "https://telegra.ph/file/f5d0463983eea67901435.jpg",
+        "https://telegra.ph/file/1a09fc7e3d86e1a6fdf50.jpg",
+        "https://telegra.ph/file/9021ef6f04e90efdae56b.jpg",
+        "https://telegra.ph/file/ea12ce81164fe4e9ea53c.jpg",
+        "https://telegra.ph/file/79122666c22d3b3e67d91.jpg",
+        "https://telegra.ph/file/909680b7629dd7cbea8da.jpg",
+        "https://telegra.ph/file/84516c50d2036957afea6.jpg",
+        "https://telegra.ph/file/f15ff1520ad436db4b301.jpg",
+        "https://telegra.ph/file/060e29e0d38ef91beaa39.jpg",
+        "https://telegra.ph/file/70f6443f7ab1601de2249.jpg",
+        "https://telegra.ph/file/08adab556199149fe9e67.jpg",
+        "https://telegra.ph/file/c43e8bc49c59d034ca410.jpg",
+        "https://telegra.ph/file/75ae7a208c6ca92abdf7d.jpg",
+        "https://telegra.ph/file/39d0cacc46b243851fdf5.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47161,
+    "title": "Azami - Yu Miaoyi Maid - Page 1",
+    "sourceUrl": "https://telegra.ph/Azami---Yu-Miaoyi-Maid---Page-1-03-06",
+    "images": [
+        "https://telegra.ph/file/8479cb727421a9804d244.jpg",
+        "https://telegra.ph/file/4f9e897a654c90f156279.jpg",
+        "https://telegra.ph/file/2c20ac54a6ea4643dbb8e.jpg",
+        "https://telegra.ph/file/d7113dd9ea51adb05822c.jpg",
+        "https://telegra.ph/file/733a66a10ca763faa282e.jpg",
+        "https://telegra.ph/file/6143461f4a0dcf918ff3e.jpg",
+        "https://telegra.ph/file/c3b582362bdc8984fa696.jpg",
+        "https://telegra.ph/file/c38b2264b6da8507bbaed.jpg",
+        "https://telegra.ph/file/650c218375ca26616f6bd.jpg",
+        "https://telegra.ph/file/18a421dbc201132f847c5.jpg",
+        "https://telegra.ph/file/1329cadcb18a6a6b97b45.jpg",
+        "https://telegra.ph/file/3e29bb518bca55ead0a3a.jpg",
+        "https://telegra.ph/file/8f82b5451b12d5d6cd007.jpg",
+        "https://telegra.ph/file/b3e8c9fc1e97247cfb620.jpg",
+        "https://telegra.ph/file/58334f4e6baa838de7077.jpg",
+        "https://telegra.ph/file/3b4a55641cd9d7e0e24cd.jpg",
+        "https://telegra.ph/file/12cb51d25305fdcbc6c6e.jpg",
+        "https://telegra.ph/file/4f6fe070f5fb45a323812.jpg",
+        "https://telegra.ph/file/c915d9a1946ae91ce7da0.jpg",
+        "https://telegra.ph/file/5ba8bb7d0e768341a9827.jpg",
+        "https://telegra.ph/file/d4618af92d7c045b2ad34.jpg",
+        "https://telegra.ph/file/0331493f1feb9f018dc3e.jpg",
+        "https://telegra.ph/file/0083967728cd5377fdf2f.jpg",
+        "https://telegra.ph/file/b98a29ddc45b59343f825.jpg",
+        "https://telegra.ph/file/2f6ff8aa245687d537e73.jpg"
+    ]
+};

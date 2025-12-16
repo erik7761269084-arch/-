@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 29252,
+    "title": "理万姬 – 天桥×集市露出摆摊 24P",
+    "sourceUrl": "https://telegra.ph/%E7%90%86%E4%B8%87%E5%A7%AC--%E5%A4%A9%E6%A1%A5%E9%9B%86%E5%B8%82%E9%9C%B2%E5%87%BA%E6%91%86%E6%91%8A-24P-04-28",
+    "images": [
+        "https://telegra.ph/file/9836f722403b9cdfdc6ca.jpg",
+        "https://telegra.ph/file/b4c4558b9ae5f4706eb06.jpg",
+        "https://telegra.ph/file/5205c5a80b8c5a3ebcea4.jpg",
+        "https://telegra.ph/file/76c012dad4c19e89ecddc.jpg",
+        "https://telegra.ph/file/8aaff77bb59b5477753b5.jpg",
+        "https://telegra.ph/file/49cec45b45f3039780eba.jpg",
+        "https://telegra.ph/file/90414817317db35dc913b.jpg",
+        "https://telegra.ph/file/000b72a6d594d85954952.jpg",
+        "https://telegra.ph/file/91e2e421885498bd1f0e1.jpg",
+        "https://telegra.ph/file/56521d0245060c7b3a1fc.jpg",
+        "https://telegra.ph/file/4f66993b7094529da7067.jpg",
+        "https://telegra.ph/file/e018d2762696a885f8180.jpg",
+        "https://telegra.ph/file/e4b5e83d716d88d98d11b.jpg",
+        "https://telegra.ph/file/a9b77a01807864238341c.jpg",
+        "https://telegra.ph/file/c41f53fceae249c6ff202.jpg",
+        "https://telegra.ph/file/158a99b54eff5632ce15f.jpg",
+        "https://telegra.ph/file/02e401b37d748af9404f1.jpg",
+        "https://telegra.ph/file/3e57e9591feb3524940dd.jpg",
+        "https://telegra.ph/file/cba073267d45f0448d619.jpg",
+        "https://telegra.ph/file/93b3001b2d75cf21178f6.jpg",
+        "https://telegra.ph/file/1db7e1a75ee124fd9dca6.jpg",
+        "https://telegra.ph/file/45e7a863e516dfed7f56a.jpg",
+        "https://telegra.ph/file/9b76d9b357f25560ca4c9.jpg",
+        "https://telegra.ph/file/706d101cfce0991a64c8f.jpg"
+    ]
+};

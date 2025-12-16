@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46366,
+    "title": "Lostwind10 - Janus - Page 1",
+    "sourceUrl": "https://telegra.ph/Lostwind10---Janus---Page-1-12-22",
+    "images": [
+        "https://telegra.ph/file/a241688d3665bb415c34f.jpg",
+        "https://telegra.ph/file/58ee8ebe6c9e6ef3a6a25.jpg",
+        "https://telegra.ph/file/ecd9147444f15e2e063a8.jpg",
+        "https://telegra.ph/file/8ab385f6873780199d8fe.jpg",
+        "https://telegra.ph/file/e35e2b05c345d1090ccfc.jpg",
+        "https://telegra.ph/file/322911559366244258a55.jpg",
+        "https://telegra.ph/file/53770684bac2ef0dcc3f7.jpg",
+        "https://telegra.ph/file/a5f711b80828c57d17a17.jpg",
+        "https://telegra.ph/file/a446d5991ba0ee0d0bfed.jpg",
+        "https://telegra.ph/file/7accf33464584820436db.jpg",
+        "https://telegra.ph/file/ce62fa369dad63bdfc143.jpg",
+        "https://telegra.ph/file/c84abb0b4d497a47fcba7.jpg",
+        "https://telegra.ph/file/9b29b9ae3b0e59710c7de.jpg",
+        "https://telegra.ph/file/a35c0550c242e1d79f765.jpg",
+        "https://telegra.ph/file/da678266fd64e83adb00e.jpg",
+        "https://telegra.ph/file/d3cbe5ff2d975a70c799a.jpg",
+        "https://telegra.ph/file/53f79426f5db28a8ca7e4.jpg",
+        "https://telegra.ph/file/451cec4f4538d03effb80.jpg",
+        "https://telegra.ph/file/4af99b7998f37357c7aaa.jpg",
+        "https://telegra.ph/file/26d2a14c5255482eb643f.jpg",
+        "https://telegra.ph/file/647785d41cc97c1f2c73d.jpg",
+        "https://telegra.ph/file/4f55d9959f3c721e16dc2.jpg",
+        "https://telegra.ph/file/9df0dfc81fd55589b71e6.jpg",
+        "https://telegra.ph/file/f7e3c84822185aebab0e0.jpg",
+        "https://telegra.ph/file/b4928037cb60453c015e8.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39989,
+    "title": "Potato Godzilla - Kinako",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Kinako-12-13",
+    "images": [
+        "https://telegra.ph/file/2ef9d8356327c2eac12ce.jpg",
+        "https://telegra.ph/file/47d77232724d155ef5f0b.jpg",
+        "https://telegra.ph/file/2dc134385a6c3a9fd673f.jpg",
+        "https://telegra.ph/file/2ee2134ff63a97f4ac769.jpg",
+        "https://telegra.ph/file/d65ef93b22f6b89f801e8.jpg",
+        "https://telegra.ph/file/8816447da22f3850f4088.jpg",
+        "https://telegra.ph/file/96b13bef4cb167684e80e.jpg",
+        "https://telegra.ph/file/b37a23fa605c5e0a767c4.jpg",
+        "https://telegra.ph/file/3b16117e7c739b2261c64.jpg",
+        "https://telegra.ph/file/7a31a122f356447f305e0.jpg",
+        "https://telegra.ph/file/7c6f1424e86b6a739a71b.jpg",
+        "https://telegra.ph/file/e36803c0616d7ec3e6870.jpg",
+        "https://telegra.ph/file/dc246fa46a001fb2b7a78.jpg",
+        "https://telegra.ph/file/1edc47bf926e811b3bbad.jpg",
+        "https://telegra.ph/file/d565b48143f57e8298d2d.jpg",
+        "https://telegra.ph/file/d342b0f0a198348ff56da.jpg",
+        "https://telegra.ph/file/f12c5fc5b3279512bc0fb.jpg",
+        "https://telegra.ph/file/57c8ef1bb5057933b93c5.jpg",
+        "https://telegra.ph/file/1170b51be76a203fc73d4.jpg",
+        "https://telegra.ph/file/5aa6f139c9ab0dd603f37.jpg",
+        "https://telegra.ph/file/e74ed22f5644ccf3332bb.jpg",
+        "https://telegra.ph/file/d36b4c332f1aecd63c4f9.jpg",
+        "https://telegra.ph/file/91f40e49e14856edad822.jpg",
+        "https://telegra.ph/file/e2db982dec80894fbfc32.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44422,
+    "title": "Joyce - Lumine",
+    "sourceUrl": "https://telegra.ph/Joyce---Lumine-11-14",
+    "images": [
+        "https://telegra.ph/file/730d874110b0260e01a9d.jpg",
+        "https://telegra.ph/file/c43fe6043b1a4fa6a1d8d.jpg",
+        "https://telegra.ph/file/4a8826703cc69e2aaafd0.jpg",
+        "https://telegra.ph/file/4d7acf8a340faab147794.jpg",
+        "https://telegra.ph/file/1b056f1d63aead4e971a9.jpg",
+        "https://telegra.ph/file/a2cd61fdd9dfcf70df701.jpg",
+        "https://telegra.ph/file/cafff0955b2ea85ea1dfd.jpg",
+        "https://telegra.ph/file/15859a4bafe6167bae243.jpg",
+        "https://telegra.ph/file/893f5e97783ccfb3319c3.jpg",
+        "https://telegra.ph/file/7b0ea8b940c0ccc13d3e3.jpg",
+        "https://telegra.ph/file/233e1ea7abe52485728ef.jpg",
+        "https://telegra.ph/file/148daf8525650f0010107.jpg",
+        "https://telegra.ph/file/0d5234f0c9eb357079573.jpg",
+        "https://telegra.ph/file/cec6fe66c55da0ac51619.jpg",
+        "https://telegra.ph/file/07d08cdc67270029d1e80.jpg",
+        "https://telegra.ph/file/5d3e1e6fabe398598c3af.jpg",
+        "https://telegra.ph/file/2a99d62cc0ce0cb97e1ba.jpg",
+        "https://telegra.ph/file/de41b4a0aad848baf1c20.jpg",
+        "https://telegra.ph/file/99e63cb1361772000f14b.jpg",
+        "https://telegra.ph/file/03f200e9304184dc1d109.jpg",
+        "https://telegra.ph/file/2d563af191a8cc007d305.jpg",
+        "https://telegra.ph/file/d3d4ff9cca90eb862b17e.jpg",
+        "https://telegra.ph/file/56067c033cc46b47c6fdc.jpg",
+        "https://telegra.ph/file/b4745e087e30eb4674c83.jpg"
+    ]
+};

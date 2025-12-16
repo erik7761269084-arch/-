@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40615,
+    "title": "Lada Lyumos -  Melissa Rory (Cyberpunk 2077 Cyberpsychosis)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Melissa-Rory-Cyberpunk-2077-Cyberpsychosis-08-10",
+    "images": [
+        "https://telegra.ph/file/96e7eac95460488c7233c.jpg",
+        "https://telegra.ph/file/5ca9db8db56dbee0f5928.jpg",
+        "https://telegra.ph/file/72983bd7eb9d35475f4fd.jpg",
+        "https://telegra.ph/file/a803ada8ef8ca422e7c9a.jpg",
+        "https://telegra.ph/file/0330bf0c040e23c5d50c0.jpg",
+        "https://telegra.ph/file/f7212c04d1317a1368071.jpg",
+        "https://telegra.ph/file/ac850df17f7125cd59236.jpg",
+        "https://telegra.ph/file/65205b94cf45dcc4d526c.jpg",
+        "https://telegra.ph/file/c502bf34d4a55d92b75a8.jpg",
+        "https://telegra.ph/file/5d6a2cb83f0a7cea174ea.jpg",
+        "https://telegra.ph/file/008f800a5666553c78252.jpg",
+        "https://telegra.ph/file/c049cb883fbbb7cd96ba8.jpg",
+        "https://telegra.ph/file/7d067e6b77bde35ff3e94.jpg",
+        "https://telegra.ph/file/085ef132200062fc3e1d7.jpg",
+        "https://telegra.ph/file/d7610231333b104ac922f.jpg",
+        "https://telegra.ph/file/c56c0a354cd7f25c86dde.jpg",
+        "https://telegra.ph/file/a13fb9ccd03fed7ad8202.jpg",
+        "https://telegra.ph/file/adcadba7d57540753a698.jpg",
+        "https://telegra.ph/file/14833c9cddc682696a3eb.jpg",
+        "https://telegra.ph/file/777727e81e0e97659f170.jpg",
+        "https://telegra.ph/file/a10aa4850b6a524f0b506.jpg",
+        "https://telegra.ph/file/15e1fb33563587e162726.jpg",
+        "https://telegra.ph/file/a276b22a9b071ceca46d7.jpg",
+        "https://telegra.ph/file/6f9cb49b004ac175b00c2.jpg",
+        "https://telegra.ph/file/282ee5d784346e278426c.jpg"
+    ]
+};

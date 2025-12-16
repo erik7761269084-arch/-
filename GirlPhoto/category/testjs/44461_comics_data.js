@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44461,
+    "title": "[Comonun] 💜スカサハ新刊💜+💪🏻ラジオ体操💪🏻",
+    "sourceUrl": "https://telegra.ph/Comonun-スカサハ新刊ラジオ体操-11-27",
+    "images": [
+        "https://telegra.ph/file/52a684f927b9f39b6a8c5.jpg",
+        "https://telegra.ph/file/b8919d2b834694abfef8a.jpg",
+        "https://telegra.ph/file/9c5f72ac5d96b4964a771.jpg",
+        "https://telegra.ph/file/ff36c8a87f18fae4f5a0c.jpg",
+        "https://telegra.ph/file/7e6746abd4df61590602a.jpg",
+        "https://telegra.ph/file/e2c3359d990badc4064ee.jpg",
+        "https://telegra.ph/file/303865a2ada33acdcf8f8.jpg",
+        "https://telegra.ph/file/a39c70aec01cda3ee84e7.jpg",
+        "https://telegra.ph/file/8af2e15ddecc38fa1bf62.jpg",
+        "https://telegra.ph/file/f0b52ef8215552caa4b1e.jpg",
+        "https://telegra.ph/file/05d2d6cae12dd6f031ecb.jpg",
+        "https://telegra.ph/file/660eecbd470ec8ab7ff4b.jpg",
+        "https://telegra.ph/file/876508aa4daa36c0713fc.jpg",
+        "https://telegra.ph/file/52d0b6373af6b84781c8c.jpg",
+        "https://telegra.ph/file/6492e79a21338c4c12d15.jpg",
+        "https://telegra.ph/file/96c3116c8bdeff4fdfad0.jpg",
+        "https://telegra.ph/file/9228980490200f3c2231b.jpg",
+        "https://telegra.ph/file/792b0dc42565d6fdc7b2e.jpg",
+        "https://telegra.ph/file/0f0475ca386a53d8858b3.jpg",
+        "https://telegra.ph/file/d2a1e90f5ebfe997100d3.jpg",
+        "https://telegra.ph/file/f89e579c6af860d5bb630.jpg",
+        "https://telegra.ph/file/201c35416613af449a595.jpg",
+        "https://telegra.ph/file/370fe7ba27123e980552f.jpg"
+    ]
+};

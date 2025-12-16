@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35784,
+    "title": "Cosplay 樱晚gigi 温.度",
+    "sourceUrl": "https://telegra.ph/Cosplay-樱晚gigi-温度-10-28",
+    "images": [
+        "https://telegra.ph/file/507daf3ffbc744bafe9b8.jpg",
+        "https://telegra.ph/file/b37225c0d1962e63f5683.jpg",
+        "https://telegra.ph/file/5f9864f4df82143f7fb6d.jpg",
+        "https://telegra.ph/file/ba546e8510bb79c318882.jpg",
+        "https://telegra.ph/file/8b0bc2fa746c1ba79741e.jpg",
+        "https://telegra.ph/file/64becc28ea64e1b653520.jpg",
+        "https://telegra.ph/file/3c767ae69a07d633adc13.jpg",
+        "https://telegra.ph/file/bf55e582e6a9d8ba7a6af.jpg",
+        "https://telegra.ph/file/2959fad04b12a878e94c8.jpg",
+        "https://telegra.ph/file/5def87c10bb12f63310a1.jpg",
+        "https://telegra.ph/file/72c749f6ab6449a4b9119.jpg",
+        "https://telegra.ph/file/ecc47180d6ec2efda5b2e.jpg",
+        "https://telegra.ph/file/40062c3ec16ec0d8e43f8.jpg",
+        "https://telegra.ph/file/63effbb9954242daddefd.jpg",
+        "https://telegra.ph/file/34d59406dd51e6fb14167.jpg",
+        "https://telegra.ph/file/f985409281424f65d3080.jpg",
+        "https://telegra.ph/file/6dcb81b0ce968975d089e.jpg",
+        "https://telegra.ph/file/4625ff54c67b667812a78.jpg",
+        "https://telegra.ph/file/855cf8a25b65ab9c0b509.jpg",
+        "https://telegra.ph/file/ce0dfd970d5415117bc37.jpg",
+        "https://telegra.ph/file/339cc35c1a066d2fd1d77.jpg",
+        "https://telegra.ph/file/bf828e056ce9142ee4c15.jpg",
+        "https://telegra.ph/file/1f37c95fa9b4c88858be8.jpg",
+        "https://telegra.ph/file/c6614740b49ae1d04777d.jpg"
+    ]
+};

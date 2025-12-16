@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 34203,
+    "title": "Cosplay 瓜希酱 总司水着满破",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-总司水着满破-05-21",
+    "images": [
+        "https://telegra.ph/file/0d184836574d55e4ed2c4.jpg",
+        "https://telegra.ph/file/86635ddcad6ef75935d4d.jpg",
+        "https://telegra.ph/file/1197323edbb4dde454224.jpg",
+        "https://telegra.ph/file/25d223d5e508824ef07c5.jpg",
+        "https://telegra.ph/file/bb429acd1ccceafe7a720.jpg",
+        "https://telegra.ph/file/8602e6e4072ce36f74a78.jpg",
+        "https://telegra.ph/file/99018930ce7a67e011cd8.jpg",
+        "https://telegra.ph/file/a1bbdcacceba628864576.jpg",
+        "https://telegra.ph/file/55f808e4410d84dcfbc72.jpg",
+        "https://telegra.ph/file/8c4be620ae98f70822ae7.jpg",
+        "https://telegra.ph/file/60d997ababd5b3d69b9a4.jpg",
+        "https://telegra.ph/file/0a4675ed2e70c34f36994.jpg",
+        "https://telegra.ph/file/1741e75d813a7aa7f0c37.jpg",
+        "https://telegra.ph/file/8237028f3a15f684cc65c.jpg",
+        "https://telegra.ph/file/8e1874c0e1af425bb79b8.jpg",
+        "https://telegra.ph/file/d81faacd0149b03d2a57e.jpg",
+        "https://telegra.ph/file/a363fa16021fc7b088a18.jpg",
+        "https://telegra.ph/file/37708827a9f4cd7bf8e4f.jpg",
+        "https://telegra.ph/file/8baac6fbfd146d2394b48.jpg",
+        "https://telegra.ph/file/50fc58dc8b9d6119decf7.jpg",
+        "https://telegra.ph/file/eb0fd8039e3b629df67f7.jpg",
+        "https://telegra.ph/file/76f8c7a1c5c206f5d7aed.jpg",
+        "https://telegra.ph/file/5955a76fe582b7657e9c8.jpg",
+        "https://telegra.ph/file/b7766491ee494a20bd52d.jpg",
+        "https://telegra.ph/file/5d7c4db121b3423e99816.jpg",
+        "https://telegra.ph/file/94891311004be792dc66b.jpg"
+    ]
+};

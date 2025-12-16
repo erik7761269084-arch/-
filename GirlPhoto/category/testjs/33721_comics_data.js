@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33721,
+    "title": "PURM 푸름, [Espacia Korea] EHC #031 Set.02",
+    "sourceUrl": "https://telegra.ph/PURM-푸름-Espacia-Korea-EHC-031-Set02-04-02",
+    "images": [
+        "https://telegra.ph/file/7be08b9d69bc48b6487ea.jpg",
+        "https://telegra.ph/file/222f144e81e09c95be8af.jpg",
+        "https://telegra.ph/file/6287a98ef139c8082798b.jpg",
+        "https://telegra.ph/file/15558582d1cc651c81cc6.jpg",
+        "https://telegra.ph/file/31de1afa7d0a7a60a7920.jpg",
+        "https://telegra.ph/file/ac133ffd3428c4ff8e779.jpg",
+        "https://telegra.ph/file/1dcfc4ec7e9d4b620b3d4.jpg",
+        "https://telegra.ph/file/3388e6f53fc556c2157fb.jpg",
+        "https://telegra.ph/file/1dc1fbadc4f1c1049a16f.jpg",
+        "https://telegra.ph/file/56e2e55e9a6a61e0287e0.jpg",
+        "https://telegra.ph/file/be4880ec1ddb87d1cf4ff.jpg",
+        "https://telegra.ph/file/6b3608b8773e2b7e71b10.jpg",
+        "https://telegra.ph/file/27805cd023c14e7b9596d.jpg",
+        "https://telegra.ph/file/eda0ecb3f83469ee71d20.jpg",
+        "https://telegra.ph/file/22d42357b226ca188aa6d.jpg",
+        "https://telegra.ph/file/c8f60b2d5f3f1b941d51f.jpg",
+        "https://telegra.ph/file/5cd9615014266e6d6eb9b.jpg",
+        "https://telegra.ph/file/72585147240cf3ec74350.jpg",
+        "https://telegra.ph/file/d65c3cc50155885307d1e.jpg",
+        "https://telegra.ph/file/268fd9e27072163df9c11.jpg",
+        "https://telegra.ph/file/053b2064e91eb23364e06.jpg",
+        "https://telegra.ph/file/aa040914085fadd4844b2.jpg",
+        "https://telegra.ph/file/8bad441e6b31e0aaff447.jpg",
+        "https://telegra.ph/file/ecb90413919fa46daf363.jpg",
+        "https://telegra.ph/file/3530abf81dcf1cf202e91.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

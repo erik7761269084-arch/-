@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43274,
+    "title": "雨波 - 欧根亲王",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2---%E6%AC%A7%E6%A0%B9%E4%BA%B2%E7%8E%8B-09-27",
+    "images": [
+        "https://telegra.ph/file/6b6311dab671d94f50f49.jpg",
+        "https://telegra.ph/file/32302ac3154d7c3c2d265.jpg",
+        "https://telegra.ph/file/1aa7c7be236118d0a00b3.jpg",
+        "https://telegra.ph/file/9a0de5737c61944bd07d1.jpg",
+        "https://telegra.ph/file/ad01b33cfd5b188242f31.jpg",
+        "https://telegra.ph/file/1528de0f58dfadb6e240f.jpg",
+        "https://telegra.ph/file/cd625e0c2d91f0a7757ad.jpg",
+        "https://telegra.ph/file/9cf53eb8b2f5fc1901da3.jpg",
+        "https://telegra.ph/file/5e7aa82bbf5475b2f8250.jpg",
+        "https://telegra.ph/file/25452c49df31bb9e0d1cc.jpg",
+        "https://telegra.ph/file/3d2e6b905797456b030e3.jpg",
+        "https://telegra.ph/file/b563694f81874bfa133da.jpg",
+        "https://telegra.ph/file/064449add4a3aaa181e84.jpg",
+        "https://telegra.ph/file/4e13a41699c769f512339.jpg",
+        "https://telegra.ph/file/dc1eeada898da9593a03e.jpg",
+        "https://telegra.ph/file/863a26f9e30d4662a87d0.jpg",
+        "https://telegra.ph/file/1ef3a2af05fe4056a4adb.jpg",
+        "https://telegra.ph/file/6ae7a1b9ec2ec9ae7a418.jpg",
+        "https://telegra.ph/file/30fccee731af929a45b69.jpg",
+        "https://telegra.ph/file/9ae391a783626ec7d5fce.jpg",
+        "https://telegra.ph/file/cd1f106450d4c2a76ee84.jpg",
+        "https://telegra.ph/file/792282197865406072b76.jpg",
+        "https://telegra.ph/file/c3ff9aeebd9e6348cf036.jpg",
+        "https://telegra.ph/file/a79a1f9f881c16aafbad7.jpg",
+        "https://telegra.ph/file/c004b99304be9c53fed8b.jpg",
+        "https://telegra.ph/file/3b245a4380cd3003fb348.jpg"
+    ]
+};

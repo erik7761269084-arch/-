@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33625,
+    "title": "Koby 코비, [SAINT Photolife] Koby Vol.03 &#8211; Set.01",
+    "sourceUrl": "https://telegra.ph/Koby-코비-SAINT-Photolife-Koby-Vol03-8211-Set01-03-24",
+    "images": [
+        "https://telegra.ph/file/1b89f274f6e6f912bd364.jpg",
+        "https://telegra.ph/file/72dc759c1a0b27c437cca.jpg",
+        "https://telegra.ph/file/aa40ec356c5e45b1c7a1e.jpg",
+        "https://telegra.ph/file/6967d59ac59b630db8145.jpg",
+        "https://telegra.ph/file/8bdfbfbd48531db8fab04.jpg",
+        "https://telegra.ph/file/408edb661cebe6e67e731.jpg",
+        "https://telegra.ph/file/9fc2f8f52a995413cb91d.jpg",
+        "https://telegra.ph/file/595935ddd6a1a7451cbd8.jpg",
+        "https://telegra.ph/file/d3d985547bb3390fd3450.jpg",
+        "https://telegra.ph/file/5ea33df0f89d76cec547b.jpg",
+        "https://telegra.ph/file/e502eaf693bac74ed5f9d.jpg",
+        "https://telegra.ph/file/c42cb5ba28252f46fe714.jpg",
+        "https://telegra.ph/file/934e5ac93b7763cc23189.jpg",
+        "https://telegra.ph/file/cf918530685ab85dba771.jpg",
+        "https://telegra.ph/file/b93488fd84a30fcfd2e33.jpg",
+        "https://telegra.ph/file/d89c8ea39d95af2efc3b4.jpg",
+        "https://telegra.ph/file/ccb86c9b2c4b6ba38fdcd.jpg",
+        "https://telegra.ph/file/253a9c451f7e70466d5a3.jpg",
+        "https://telegra.ph/file/fabe78e1807821cd74132.jpg",
+        "https://telegra.ph/file/6ef49f5e3e612d4341292.jpg",
+        "https://telegra.ph/file/0f4fa6aacee483360dc38.jpg",
+        "https://telegra.ph/file/decd8044cce260f877794.jpg",
+        "https://telegra.ph/file/44fd06ae23b427f0faff2.jpg",
+        "https://telegra.ph/file/00a29266b55193ceba6f7.jpg",
+        "https://telegra.ph/file/f90b71b253d3a68bc13ee.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

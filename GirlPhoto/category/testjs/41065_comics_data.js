@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41065,
+    "title": "Potato Godzilla - Lumine (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Lumine-Genshin-Impact-01-01",
+    "images": [
+        "https://telegra.ph/file/0aeff1c82cab87740d0f1.jpg",
+        "https://telegra.ph/file/dab35699be947586a6488.jpg",
+        "https://telegra.ph/file/6137b1b612f149f9ad7b4.jpg",
+        "https://telegra.ph/file/98869c0851be577eb1a27.jpg",
+        "https://telegra.ph/file/b08374794d3775dee01e8.jpg",
+        "https://telegra.ph/file/907f71088cf63898df904.jpg",
+        "https://telegra.ph/file/a5f9604b96cb850ce5557.jpg",
+        "https://telegra.ph/file/3508615af484c4a5aaf8e.jpg",
+        "https://telegra.ph/file/e795aaa526487bd5a0fc0.jpg",
+        "https://telegra.ph/file/1a39ef2189bf72f0dd446.jpg",
+        "https://telegra.ph/file/b7f9d4ec01beadca5cbd9.jpg",
+        "https://telegra.ph/file/7d998d685be1d1352e489.jpg",
+        "https://telegra.ph/file/aa2a863977abe2ddf0fe7.jpg",
+        "https://telegra.ph/file/1b255582493e7ab1dd66b.jpg",
+        "https://telegra.ph/file/df82f77da5fe170fcbdb7.jpg",
+        "https://telegra.ph/file/cb1a1200cf0e6de2e0e14.jpg",
+        "https://telegra.ph/file/64a10bc4eb75b6a5547c2.jpg",
+        "https://telegra.ph/file/d73397b6b6f321b919f77.jpg",
+        "https://telegra.ph/file/e2815fa8ae339fce1a2a4.jpg",
+        "https://telegra.ph/file/83d9eae584762813260bb.jpg",
+        "https://telegra.ph/file/7bc34beee50afb1e1fb42.jpg",
+        "https://telegra.ph/file/70f13fb864dc245645bb3.jpg",
+        "https://telegra.ph/file/13507129aa0fe1428b5b3.jpg",
+        "https://telegra.ph/file/cd14b5db9cfa6c4c87701.jpg",
+        "https://telegra.ph/file/feb69a2873b17e0565460.jpg"
+    ]
+};

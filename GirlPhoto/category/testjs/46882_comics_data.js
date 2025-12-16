@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46882,
+    "title": "Rioko凉凉子 - Tifa Little Bee - Page 1",
+    "sourceUrl": "https://telegra.ph/Rioko凉凉子---Tifa-Little-Bee---Page-1-02-10",
+    "images": [
+        "https://telegra.ph/file/03b17f811fc8e5c831404.jpg",
+        "https://telegra.ph/file/b21d997462ff26d8adcd8.jpg",
+        "https://telegra.ph/file/b8c21075f16b47322f808.jpg",
+        "https://telegra.ph/file/72080492805502ab6b4d7.jpg",
+        "https://telegra.ph/file/1b4c7486c399cacaa7e47.jpg",
+        "https://telegra.ph/file/ff42d533f2dd24bc55356.jpg",
+        "https://telegra.ph/file/f3a3e32fffc9aec029abf.jpg",
+        "https://telegra.ph/file/66866433e52a91cec94c2.jpg",
+        "https://telegra.ph/file/955c018b1f327d78cc148.jpg",
+        "https://telegra.ph/file/97620bfcfe9fcb06590b4.jpg",
+        "https://telegra.ph/file/739e2c4fef021d972fa36.jpg",
+        "https://telegra.ph/file/27263c2306955ca6b3664.jpg",
+        "https://telegra.ph/file/fe200c2b5f8b885bde4d7.jpg",
+        "https://telegra.ph/file/58d837bf090fc5a1a6947.jpg",
+        "https://telegra.ph/file/287bb28c6c2348530e0a5.jpg",
+        "https://telegra.ph/file/d85ee847c42533e1f671f.jpg",
+        "https://telegra.ph/file/41c8d17fd0f61085d6f6a.jpg",
+        "https://telegra.ph/file/328a827796875b8e2c311.jpg",
+        "https://telegra.ph/file/500d0b76221510973f301.jpg",
+        "https://telegra.ph/file/f32134589a2355c8a7ef6.jpg",
+        "https://telegra.ph/file/e83725682595de46a4098.jpg",
+        "https://telegra.ph/file/12b9d40c4387114a08be0.jpg",
+        "https://telegra.ph/file/c1e7c1d52c04c9e0d7c39.jpg",
+        "https://telegra.ph/file/d0003e8b5c03ce398ebe3.jpg",
+        "https://telegra.ph/file/962606c585e9ce5f9640d.jpg"
+    ]
+};

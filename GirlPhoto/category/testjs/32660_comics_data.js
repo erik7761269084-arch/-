@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32660,
+    "title": "[面饼仙儿] MBXER UMP45 Girls Frontline",
+    "sourceUrl": "https://telegra.ph/面饼仙儿-MBXER-UMP45-Girls-Frontline-12-18",
+    "images": [
+        "https://telegra.ph/file/383f9e853dafaecfff2c5.jpg",
+        "https://telegra.ph/file/afca6c1ad29d56bc4e735.jpg",
+        "https://telegra.ph/file/4cfecc2eca78f4b1bc0fe.jpg",
+        "https://telegra.ph/file/1c6c5e514acd1bde2ce6c.jpg",
+        "https://telegra.ph/file/7c37329c7c92ba15b3e9f.jpg",
+        "https://telegra.ph/file/739d3f5773dac2ab91f77.jpg",
+        "https://telegra.ph/file/97eeabb8f9a73c6a06160.jpg",
+        "https://telegra.ph/file/9120da7f1502cfcfc3fab.jpg",
+        "https://telegra.ph/file/07a51dbdaa419dfb7055d.jpg",
+        "https://telegra.ph/file/9c92e9fc6c3ac44983d0d.jpg",
+        "https://telegra.ph/file/b139af7a2378d7e7128e7.jpg",
+        "https://telegra.ph/file/9e676786be59b2398d42a.jpg",
+        "https://telegra.ph/file/f0f1dd69ac877b73c607d.jpg",
+        "https://telegra.ph/file/349a687943369bbfcd051.jpg",
+        "https://telegra.ph/file/bce5ab5c13dc6e86a4fab.jpg",
+        "https://telegra.ph/file/f491ad39426f615954d91.jpg",
+        "https://telegra.ph/file/e3993f8bfb9f590fb9152.jpg",
+        "https://telegra.ph/file/353a99bf2c356859e751d.jpg",
+        "https://telegra.ph/file/583d28a9b833b61cafebf.jpg",
+        "https://telegra.ph/file/ce04b3eaa0da22e44e507.jpg",
+        "https://telegra.ph/file/b9ec325aad6b79201e0a8.jpg",
+        "https://telegra.ph/file/188c4787c5f99b1202f9f.jpg",
+        "https://telegra.ph/file/a4e7677f584eea98737f6.jpg",
+        "https://telegra.ph/file/d446867733f07cbf1b84a.jpg",
+        "https://telegra.ph/file/3f32716bf54c738e94b93.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

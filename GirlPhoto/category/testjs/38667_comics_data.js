@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38667,
+    "title": "Kalinka Fox - Jinx Christmas (League Of Legends)",
+    "sourceUrl": "https://telegra.ph/Kalinka-Fox---Jinx-Christmas-League-Of-Legends-12-28",
+    "images": [
+        "https://telegra.ph/file/38eebd27a1832cea9b118.jpg",
+        "https://telegra.ph/file/5abde5d3e74c4cad58a33.jpg",
+        "https://telegra.ph/file/1ec8ecdb370bb983e8bf7.jpg",
+        "https://telegra.ph/file/32995ce0b712bd06a474d.jpg",
+        "https://telegra.ph/file/9d1b2a32711656cecf3d7.jpg",
+        "https://telegra.ph/file/3cd0e4c207658233e8898.jpg",
+        "https://telegra.ph/file/addfb36f538d4ce4cdba3.jpg",
+        "https://telegra.ph/file/c324588e9a956db5009eb.jpg",
+        "https://telegra.ph/file/89d05cde4390c569f9044.jpg",
+        "https://telegra.ph/file/a56044fa8fea2f11ae4c6.jpg",
+        "https://telegra.ph/file/3a364a8f69516a3d267b7.jpg",
+        "https://telegra.ph/file/e20309c0854bb0a166b74.jpg",
+        "https://telegra.ph/file/f45842451d532fe357be7.jpg",
+        "https://telegra.ph/file/3f5d2f3db16ef1a68e474.jpg",
+        "https://telegra.ph/file/ae585961655392dbad702.jpg",
+        "https://telegra.ph/file/96c5a7a3cdc422410adab.jpg",
+        "https://telegra.ph/file/062340e8296de04f18298.jpg",
+        "https://telegra.ph/file/2d8b7f96816935b3533a9.jpg",
+        "https://telegra.ph/file/291df0a2eeef10440d545.jpg",
+        "https://telegra.ph/file/f77bb302d53aa85e77125.jpg",
+        "https://telegra.ph/file/126501c3990f254de572e.jpg",
+        "https://telegra.ph/file/b567e19e5b5e14adb7b92.jpg",
+        "https://telegra.ph/file/50821da93977008a17921.jpg",
+        "https://telegra.ph/file/25d19d298ce1517372219.jpg"
+    ]
+};

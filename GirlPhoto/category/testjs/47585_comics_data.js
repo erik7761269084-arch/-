@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47585,
+    "title": "KAYA HUAN JEANNE D ARC - Page 1",
+    "sourceUrl": "https://telegra.ph/KAYA-HUAN-JEANNE-D-ARC---Page-1-04-14",
+    "images": [
+        "https://telegra.ph/file/37d839eb6371cc88fe4fb.jpg",
+        "https://telegra.ph/file/d87804e5e28a4baebdf1c.jpg",
+        "https://telegra.ph/file/f0aa4e6282421e20f5d00.jpg",
+        "https://telegra.ph/file/4172fdaf193895a29df57.jpg",
+        "https://telegra.ph/file/8a8a2c3a7a6e0da5ee830.jpg",
+        "https://telegra.ph/file/1ed964852625017b6492a.jpg",
+        "https://telegra.ph/file/9764cf097df6c93594cf4.jpg",
+        "https://telegra.ph/file/d917fb88e5fc51f50474d.jpg",
+        "https://telegra.ph/file/988fedacd673cb89a305f.jpg",
+        "https://telegra.ph/file/370f75e686c4ebc5df33f.jpg",
+        "https://telegra.ph/file/2592788374a4dd0856985.jpg",
+        "https://telegra.ph/file/f7349d5ecd2b1de2240a4.jpg",
+        "https://telegra.ph/file/282aacd25a8fe209fa513.jpg",
+        "https://telegra.ph/file/69454d7be78786b86a85a.jpg",
+        "https://telegra.ph/file/0d93cd0167e5fff275806.jpg",
+        "https://telegra.ph/file/8ca5a3d52f323cff055f7.jpg",
+        "https://telegra.ph/file/238f0c0f5e37d1cb66a4d.jpg",
+        "https://telegra.ph/file/c1db828fd7039da8687c5.jpg",
+        "https://telegra.ph/file/b5e153bf9c13f73a50a8e.jpg",
+        "https://telegra.ph/file/c020e0086e7251af63e06.jpg",
+        "https://telegra.ph/file/ebeeca785d677c9c1117c.jpg",
+        "https://telegra.ph/file/d4875b5caa058012196b9.jpg",
+        "https://telegra.ph/file/973b4dcd36237dbc99b70.jpg",
+        "https://telegra.ph/file/2a1a02ce96c03746e3b26.jpg",
+        "https://telegra.ph/file/f3211ee63e63c6d8b4994.jpg"
+    ]
+};

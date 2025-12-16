@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43306,
+    "title": "面饼仙儿 - 开胸女仆",
+    "sourceUrl": "https://telegra.ph/%E9%9D%A2%E9%A5%BC%E4%BB%99%E5%84%BF---%E5%BC%80%E8%83%B8%E5%A5%B3%E4%BB%86-10-10",
+    "images": [
+        "https://telegra.ph/file/e7db918df9564d2cda9db.jpg",
+        "https://telegra.ph/file/2f86e27afadf386c70d86.jpg",
+        "https://telegra.ph/file/191eff537ba1b713e8084.jpg",
+        "https://telegra.ph/file/964323db35371f449de39.jpg",
+        "https://telegra.ph/file/5668d098c3523292451a7.jpg",
+        "https://telegra.ph/file/467dcf21fb83a66f74182.jpg",
+        "https://telegra.ph/file/2d27196b75c4f29c64684.jpg",
+        "https://telegra.ph/file/38cf3f6500ee13cab1cb9.jpg",
+        "https://telegra.ph/file/f7bcafc80d872d3314d8e.jpg",
+        "https://telegra.ph/file/4932dcbbbb86be1be3dd8.jpg",
+        "https://telegra.ph/file/37e8eea8881f3ac584929.jpg",
+        "https://telegra.ph/file/d14a4b607af476a1e959f.jpg",
+        "https://telegra.ph/file/652c3497b1c242a21cb8f.jpg",
+        "https://telegra.ph/file/2b13a48a1b0eb78d5620b.jpg",
+        "https://telegra.ph/file/cc060c8b7a15d1ef61269.jpg",
+        "https://telegra.ph/file/e38cd1741e874f9c1d724.jpg",
+        "https://telegra.ph/file/7fd944dec977d3397ef17.jpg",
+        "https://telegra.ph/file/f6f93fb4dff636d704378.jpg",
+        "https://telegra.ph/file/b8f60d11a364a1ee490bd.jpg",
+        "https://telegra.ph/file/caf4e143e952d77587c55.jpg",
+        "https://telegra.ph/file/fb17e51fd52f8bfb1db4e.jpg",
+        "https://telegra.ph/file/4dddd1fd89564f15949f1.jpg",
+        "https://telegra.ph/file/cfc4ff6e1c46b7c74136c.jpg",
+        "https://telegra.ph/file/38f59825be0ca87db3a2a.jpg",
+        "https://telegra.ph/file/3a98d1af5d82d1d59a473.jpg",
+        "https://telegra.ph/file/134ee78d0c41d040dab04.jpg"
+    ]
+};

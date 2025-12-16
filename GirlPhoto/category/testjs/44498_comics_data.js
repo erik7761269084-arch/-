@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44498,
+    "title": "橙子喵酱 - 楪祈 [26P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---楪祈-26P-12-01",
+    "images": [
+        "https://telegra.ph/file/082d9696d2cafbb49a9b0.jpg",
+        "https://telegra.ph/file/9795d52e58b8cebde6050.jpg",
+        "https://telegra.ph/file/0c0d98531af323eb87768.jpg",
+        "https://telegra.ph/file/34a6eab892ec41ffc3669.jpg",
+        "https://telegra.ph/file/2fdff3a499c8cc89d2b78.jpg",
+        "https://telegra.ph/file/57294f0663771cb3a5789.jpg",
+        "https://telegra.ph/file/713f84abfba1bec7a3c85.jpg",
+        "https://telegra.ph/file/db3016f0370b6ee52c314.jpg",
+        "https://telegra.ph/file/a34e81541f5136d8a6127.jpg",
+        "https://telegra.ph/file/db33fc7a68c2c3867191d.jpg",
+        "https://telegra.ph/file/8796ffc1000801ae079a6.jpg",
+        "https://telegra.ph/file/bc4f69b540756b34e1969.jpg",
+        "https://telegra.ph/file/891a18df7e3dd5992c174.jpg",
+        "https://telegra.ph/file/a529cfff1e2c437d05795.jpg",
+        "https://telegra.ph/file/8c8b8f2f911ebb971ad17.jpg",
+        "https://telegra.ph/file/e19e6aa05f78f6f13ed18.jpg",
+        "https://telegra.ph/file/4c53f6d6d16aaf86cfd8d.jpg",
+        "https://telegra.ph/file/01680d2eb52ecbbb02351.jpg",
+        "https://telegra.ph/file/e23f055d3f27943f27111.jpg",
+        "https://telegra.ph/file/a8d48a9603f3d524c573c.jpg",
+        "https://telegra.ph/file/6456a8934038d31a5fb08.jpg",
+        "https://telegra.ph/file/7cd213093d7fbce8f14ac.jpg",
+        "https://telegra.ph/file/c5d9b56ea87b34fdeb11d.jpg",
+        "https://telegra.ph/file/0f6bec7a53ab7fcb55ffc.jpg",
+        "https://telegra.ph/file/d98b3c582712c2d5c671e.jpg"
+    ]
+};

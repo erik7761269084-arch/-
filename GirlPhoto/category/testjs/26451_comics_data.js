@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26451,
+    "title": "是一只熊仔吗 - 大凤 [25P]",
+    "sourceUrl": "https://telegra.ph/%E6%98%AF%E4%B8%80%E5%8F%AA%E7%86%8A%E4%BB%94%E5%90%97---%E5%A4%A7%E5%87%A4-25P-01-12",
+    "images": [
+        "https://telegra.ph/file/03da7f05de9eae564b276.jpg",
+        "https://telegra.ph/file/77a367f5adc311ccf62e1.jpg",
+        "https://telegra.ph/file/59808747c2e6e103258af.jpg",
+        "https://telegra.ph/file/045174a45b7fd204b5791.jpg",
+        "https://telegra.ph/file/080774daf04daa01d1115.jpg",
+        "https://telegra.ph/file/89b904f3dbc147126d19b.jpg",
+        "https://telegra.ph/file/b681a41945c4108ed9505.jpg",
+        "https://telegra.ph/file/c17a1eec09445ebbd30ff.jpg",
+        "https://telegra.ph/file/e15fb6e4c4e36995caf73.jpg",
+        "https://telegra.ph/file/0d8f78036a106ecfa2211.jpg",
+        "https://telegra.ph/file/a550e30512e796217f5ce.jpg",
+        "https://telegra.ph/file/bb7e2b2c731ddb28b1374.jpg",
+        "https://telegra.ph/file/3f5e60542c4f8f78d5150.jpg",
+        "https://telegra.ph/file/56142017a9146adb1e8ed.jpg",
+        "https://telegra.ph/file/4644f177161a5cb4b514c.jpg",
+        "https://telegra.ph/file/9d95a15d27c8ecfabeecd.jpg",
+        "https://telegra.ph/file/a60a85ef4c8d80f50ad31.jpg",
+        "https://telegra.ph/file/7214a868409cf1ba5ae83.jpg",
+        "https://telegra.ph/file/e43dd2979f1a61c32ebe6.jpg",
+        "https://telegra.ph/file/3b1ffb46665a608719a11.jpg",
+        "https://telegra.ph/file/f10b2bd1ed00195f94a32.jpg",
+        "https://telegra.ph/file/ee0ff27501c26eda4d31d.jpg",
+        "https://telegra.ph/file/c25e7d8d72688b4cf2660.jpg",
+        "https://telegra.ph/file/e999a0029b2cc08fd86f2.jpg",
+        "https://telegra.ph/file/7289c2be26074139e2b45.jpg"
+    ]
+};

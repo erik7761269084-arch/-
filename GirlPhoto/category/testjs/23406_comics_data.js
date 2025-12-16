@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23406,
+    "title": "[CREAM PIE] Hani (하니) - With Hani in The Shower",
+    "sourceUrl": "https://telegra.ph/CREAM-PIE-Hani-%ED%95%98%EB%8B%88---With-Hani-in-The-Shower-02-23",
+    "images": [
+        "https://telegra.ph/file/4b2a96df6c80d5fe4274b.jpg",
+        "https://telegra.ph/file/cfa99643c71ac15ca407c.jpg",
+        "https://telegra.ph/file/92dc451c15b01625932b6.jpg",
+        "https://telegra.ph/file/b5cbbe834a5aa72fca097.jpg",
+        "https://telegra.ph/file/52fdd869f3fb7b1c03f95.jpg",
+        "https://telegra.ph/file/cd86c4677be9cddead7fc.jpg",
+        "https://telegra.ph/file/0ea93894734edf551d9be.jpg",
+        "https://telegra.ph/file/75a6ecd4a78e0f1b44154.jpg",
+        "https://telegra.ph/file/2a823f045fb5c176d724c.jpg",
+        "https://telegra.ph/file/201ae8507d9f4c6cb859c.jpg",
+        "https://telegra.ph/file/04625f09cb4f97123dd75.jpg",
+        "https://telegra.ph/file/c7d20bc6c9156deaa4b07.jpg",
+        "https://telegra.ph/file/1e2319157f8d37cda878d.jpg",
+        "https://telegra.ph/file/6c2a897b623da0f993417.jpg",
+        "https://telegra.ph/file/1d0fbabae7014653a13dc.jpg",
+        "https://telegra.ph/file/e74d98ffc2e0e0065cfe4.jpg",
+        "https://telegra.ph/file/ae6dc1c793075914b5fa8.jpg",
+        "https://telegra.ph/file/191d6d1ce5d21e22e8a1f.jpg",
+        "https://telegra.ph/file/6fc5eb8139cbe053c709d.jpg",
+        "https://telegra.ph/file/6a8b304ddd537cf209c8d.jpg",
+        "https://telegra.ph/file/bcbcc03769ace2944dcd7.jpg",
+        "https://telegra.ph/file/26a7ed2027c57d98e13ec.jpg",
+        "https://telegra.ph/file/6b83d78a97e122535500d.jpg",
+        "https://telegra.ph/file/9bb35e83251dfa555b9c6.jpg",
+        "https://telegra.ph/file/20028ff2f93255773742b.jpg",
+        "https://telegra.ph/file/cc692f9567453a9039b99.jpg"
+    ]
+};

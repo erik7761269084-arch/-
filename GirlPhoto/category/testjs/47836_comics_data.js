@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47836,
+    "title": "[BoLoli]波萝社新刊 2018-02-13 Vol.134 夏美酱 - Page 1",
+    "sourceUrl": "https://telegra.ph/BoLoli波萝社新刊-2018-02-13-Vol134-夏美酱---Page-1-05-07",
+    "images": [
+        "https://telegra.ph/file/9c689ce03200ac569c98c.jpg",
+        "https://telegra.ph/file/9e5d2f2801ac560fc8c23.jpg",
+        "https://telegra.ph/file/957571567ea6dbb907399.jpg",
+        "https://telegra.ph/file/26b5842ab12d28bfa36a9.jpg",
+        "https://telegra.ph/file/33cebb9bf70e58a7d8d13.jpg",
+        "https://telegra.ph/file/f0be27dd2095686ab3bf2.jpg",
+        "https://telegra.ph/file/32b1527ad4401f92747ed.jpg",
+        "https://telegra.ph/file/125af09c1a6a9384230f5.jpg",
+        "https://telegra.ph/file/297eff8a1d08c4b690436.jpg",
+        "https://telegra.ph/file/c4e0a60a0b8bfa0c49fb2.jpg",
+        "https://telegra.ph/file/9b464f0c28e968b126524.jpg",
+        "https://telegra.ph/file/c0fbbe7adfe6abfaa13e5.jpg",
+        "https://telegra.ph/file/3c8eafe5f02eb4e20ac98.jpg",
+        "https://telegra.ph/file/4faed117b494ae544d068.jpg",
+        "https://telegra.ph/file/b38048e4cd2796d51e336.jpg",
+        "https://telegra.ph/file/2579f1c900a84048fd71b.jpg",
+        "https://telegra.ph/file/6b01c38d60477e04f5f2f.jpg",
+        "https://telegra.ph/file/b6c3bc956f013a4244e38.jpg",
+        "https://telegra.ph/file/942f4b9f1d5f072b11804.jpg",
+        "https://telegra.ph/file/7a8102ba330e4ee51a3eb.jpg",
+        "https://telegra.ph/file/e133838bb8a6671ef98ca.jpg",
+        "https://telegra.ph/file/668ca030f1e4cf28fe89a.jpg",
+        "https://telegra.ph/file/599574404d38ec2f60fd7.jpg",
+        "https://telegra.ph/file/1fad1fb4340b1ec8bce09.jpg",
+        "https://telegra.ph/file/bbf24086933786b8af8ae.jpg"
+    ]
+};

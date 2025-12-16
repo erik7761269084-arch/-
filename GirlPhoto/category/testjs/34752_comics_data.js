@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34752,
+    "title": "YUNA 윤아, [SAINT Photolife] Growing Up Vol.03 Set.02",
+    "sourceUrl": "https://telegra.ph/YUNA-윤아-SAINT-Photolife-Growing-Up-Vol03-Set02-07-17",
+    "images": [
+        "https://telegra.ph/file/18e968726917c7cb0bdde.jpg",
+        "https://telegra.ph/file/9543e50baea11189b2f81.jpg",
+        "https://telegra.ph/file/41a595827af34e021bf18.jpg",
+        "https://telegra.ph/file/98766cd547528796fd964.jpg",
+        "https://telegra.ph/file/9035f7afe9cfd698a5f23.jpg",
+        "https://telegra.ph/file/82c26df06e143968e7cf2.jpg",
+        "https://telegra.ph/file/1d9785d7ec3e189cdb1e2.jpg",
+        "https://telegra.ph/file/1d28423276de868a4c2fe.jpg",
+        "https://telegra.ph/file/a7e7aaef074a674537252.jpg",
+        "https://telegra.ph/file/4f9932fb0e74691542617.jpg",
+        "https://telegra.ph/file/e37c7cd7236161f4df273.jpg",
+        "https://telegra.ph/file/b97a41f210f2cceb7eac9.jpg",
+        "https://telegra.ph/file/552b4312fe7c9e5d846f2.jpg",
+        "https://telegra.ph/file/b968aa7783ad6e8cffa46.jpg",
+        "https://telegra.ph/file/37dcca9757ccc02d9411d.jpg",
+        "https://telegra.ph/file/07dc1ac91ae3da6399381.jpg",
+        "https://telegra.ph/file/413a0b83a3258da62c3c5.jpg",
+        "https://telegra.ph/file/8bcdb5f709260fd219fe7.jpg",
+        "https://telegra.ph/file/a846148961f1c616c254c.jpg",
+        "https://telegra.ph/file/28b6c8015f87a6bddf431.jpg",
+        "https://telegra.ph/file/3dcbcf1d7e2bb9e9ad7f2.jpg",
+        "https://telegra.ph/file/cb87c9c11a285693a9eed.jpg",
+        "https://telegra.ph/file/a024ab79d62b2ebd99667.jpg",
+        "https://telegra.ph/file/803db49e5a25ca46da919.jpg",
+        "https://telegra.ph/file/42a604ca5869ddc453a93.jpg"
+    ]
+};

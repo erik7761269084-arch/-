@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39111,
+    "title": "阿包也是兔娘 - Tifa Bunny蒂法 (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘---Tifa-Bunny蒂法-Final-Fantasy-05-04",
+    "images": [
+        "https://telegra.ph/file/21fb82bc48eb105750e15.jpg",
+        "https://telegra.ph/file/c1f888d411ddb9e89b596.jpg",
+        "https://telegra.ph/file/5e9928d1912f25c9f8ff6.jpg",
+        "https://telegra.ph/file/ad1bb850264a6a9e970d9.jpg",
+        "https://telegra.ph/file/33077da48782380910a22.jpg",
+        "https://telegra.ph/file/1d14a742d5df70a4c3658.jpg",
+        "https://telegra.ph/file/9b3df46bf9b5b55115b5d.jpg",
+        "https://telegra.ph/file/bbd02d32606d7e6cef81c.jpg",
+        "https://telegra.ph/file/fc7d0ee6cf48ccbb8b17b.jpg",
+        "https://telegra.ph/file/7f3803e000c5b4d770fb8.jpg",
+        "https://telegra.ph/file/55bbead1673197a3d26a6.jpg",
+        "https://telegra.ph/file/a20831a6473d65340a22d.jpg",
+        "https://telegra.ph/file/227616e89fb12ba523ecd.jpg",
+        "https://telegra.ph/file/40060702c6df078457324.jpg",
+        "https://telegra.ph/file/c62c85473a27e9ce18682.jpg",
+        "https://telegra.ph/file/fd7181726c878719f9e3b.jpg",
+        "https://telegra.ph/file/93860260fbe1810dd6217.jpg",
+        "https://telegra.ph/file/e392fd52ac5a2d00ceb73.jpg",
+        "https://telegra.ph/file/cba1286b0ec2a09c50a1b.jpg",
+        "https://telegra.ph/file/fd09d838f3337ea2ae837.jpg",
+        "https://telegra.ph/file/217deb88676f47aafc5a9.jpg",
+        "https://telegra.ph/file/6cfc0e51f444a0a4ba743.jpg",
+        "https://telegra.ph/file/cb4815e67ad9e6e7bf7ad.jpg",
+        "https://telegra.ph/file/314c218331505fbaee53f.jpg"
+    ]
+};

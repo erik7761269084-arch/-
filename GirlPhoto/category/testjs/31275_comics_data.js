@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31275,
+    "title": "[瓜希酱] 逸仙",
+    "sourceUrl": "https://telegra.ph/瓜希酱-逸仙-08-16",
+    "images": [
+        "https://telegra.ph/file/d369e2948299fbb5a5d0d.jpg",
+        "https://telegra.ph/file/e4973c3d52a3473e4ed83.jpg",
+        "https://telegra.ph/file/4994f2a0cec63c875031d.jpg",
+        "https://telegra.ph/file/c94b49094ecb9bf32f2f1.jpg",
+        "https://telegra.ph/file/a1b9889ecc4216425fa83.jpg",
+        "https://telegra.ph/file/7c4910f6054f541b1786c.jpg",
+        "https://telegra.ph/file/aabfdd654dbc9e682727e.jpg",
+        "https://telegra.ph/file/aae4c40abddff82ab3ded.jpg",
+        "https://telegra.ph/file/7a8b24b85e376a356b169.jpg",
+        "https://telegra.ph/file/34ddc8cb309c0ce27fa28.jpg",
+        "https://telegra.ph/file/2410e9f7210dddd7664df.jpg",
+        "https://telegra.ph/file/fffde2751bdaa34973536.jpg",
+        "https://telegra.ph/file/507aca2239bf7bcb94816.jpg",
+        "https://telegra.ph/file/ad7eb31503267954a9517.jpg",
+        "https://telegra.ph/file/26b1b6b7178b73c7259db.jpg",
+        "https://telegra.ph/file/08de838bc25a4f38e5169.jpg",
+        "https://telegra.ph/file/3b3edeee98c624f543ed5.jpg",
+        "https://telegra.ph/file/8237b1eae727b7fd44d20.jpg",
+        "https://telegra.ph/file/98f99dd27f5825f30e187.jpg",
+        "https://telegra.ph/file/205d082375f0fba964c21.jpg",
+        "https://telegra.ph/file/d1e48c60b285f0dfe1d28.jpg",
+        "https://telegra.ph/file/65060181983be799734b8.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

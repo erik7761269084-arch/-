@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40254,
+    "title": "Hatori - Houshou Marine (Hololive)",
+    "sourceUrl": "https://telegra.ph/Hatori---Houshou-Marine-Hololive-04-10",
+    "images": [
+        "https://telegra.ph/file/8db4147bfb50b0c2b9cb5.jpg",
+        "https://telegra.ph/file/2e16751469dfdd46f7348.jpg",
+        "https://telegra.ph/file/6264845c4e21d8f1594c9.jpg",
+        "https://telegra.ph/file/73f33d02aaa72f3b734b8.jpg",
+        "https://telegra.ph/file/a291078c5cfee396b6421.jpg",
+        "https://telegra.ph/file/784b41303a5e524a68d06.jpg",
+        "https://telegra.ph/file/a5b816f5b6acda15a2573.jpg",
+        "https://telegra.ph/file/26611961e19b8f7741506.jpg",
+        "https://telegra.ph/file/fc74b376933b6425b0cfd.jpg",
+        "https://telegra.ph/file/fffc2964a37962ad6b42e.jpg",
+        "https://telegra.ph/file/cc2858178cba8372b4896.jpg",
+        "https://telegra.ph/file/0d78da126d1b763942f23.jpg",
+        "https://telegra.ph/file/8c16a660c2b6fdb8b628f.jpg",
+        "https://telegra.ph/file/fe14004c44dbf63e320bf.jpg",
+        "https://telegra.ph/file/fd902e2350a1e871d28ae.jpg",
+        "https://telegra.ph/file/957ce00e327e6e3c51ebc.jpg",
+        "https://telegra.ph/file/3be38afa3ad985f59cd7a.jpg",
+        "https://telegra.ph/file/39968ecdb66cc61d155dc.jpg",
+        "https://telegra.ph/file/9a4d08177295629914640.jpg",
+        "https://telegra.ph/file/d2b7fe438e4e5429cdb92.jpg",
+        "https://telegra.ph/file/9c92b25e0c45654d8d042.jpg",
+        "https://telegra.ph/file/9120421fa9ca3489b1228.jpg",
+        "https://telegra.ph/file/3eb1c8108ba3890b3f023.jpg",
+        "https://telegra.ph/file/829a53ee5f2a5992f84ac.jpg"
+    ]
+};

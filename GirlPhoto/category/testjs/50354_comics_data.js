@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50354,
+    "title": "Sayo Momo - Laffey - Page 1",
+    "sourceUrl": "https://telegra.ph/Sayo-Momo---Laffey---Page-1-04-25",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnd1oC4eyKLVUvp4ujMc_wSCBB6EL2gACEBwAAqz_WVSBvNrGhr78MDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJneBoC4ezBDMWEMpwXtDQ0KmrYqTj6wACExwAAqz_WVSE_6WxYIeZ8TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJneJoC4e4cYeUtvxO_ktDuzHuGVUWCQACFRwAAqz_WVQlZNCk2_0nczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJneRoC4e6d6lYLB4foYmuev5XVvHnTgACFxwAAqz_WVTolTON7-uAijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnedoC4e_4XMrcQkZcmGp-MIcYddf9gACGhwAAqz_WVTRXlHZLHcT5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnepoC4f-a82h43MZq7HmrAmFKq0tEwACHhwAAqz_WVQ5bzrvDMZ5NzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnexoC4gAAR9LXJ_VAaTRI_IdZ_TARKYAAiAcAAKs_1lUHKuzsKxXrk42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJne5oC4gF-qgjuy8eRNoV_qhHLmqf1gACIhwAAqz_WVS-vjZsBI62zTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfBoC4gGzjYfr221AsBSJxxXgvmzkAACJBwAAqz_WVRzk1_MNpGj4jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfJoC4gIFb0MHaPdz-LnH_QpGAvM1gACJhwAAqz_WVQQE_8vqhfozjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfRoC4gL0-SlWpkKE8NwV_mqf8RwIwACKBwAAqz_WVTUHxkbGkpqATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfZoC4gNM60Z0-zNUYKr5jUm1miTHwACKhwAAqz_WVSvehw8fzOHzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfhoC4gTcqgSuiYYJN4kfQZDFK6qtgACLBwAAqz_WVRhPFfbK8l-dTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfpoC4gVtDN6GlPGXjRg_9InzncNaQACLhwAAqz_WVQuzmRaTf2abDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnfxoC4gXs0Jbf1DF7o2bZTgAAUNktrgAAjAcAAKs_1lUEHssBA6gmTg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnf5oC4hWnVHWFSs_s8Rb_mxZvsd08AACMhwAAqz_WVRKw0_oO5Pu0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngABaAuIVzy2gq1W1W7bsqcdg0a0wi0AAjQcAAKs_1lUBIdwLVit4qQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngJoC4hcgqvODOfN8b9MXhU6daLBkwACNhwAAqz_WVQFiyTFfMLNIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngRoC4hevw33RahVCo9wiq2zASFxZAACOBwAAqz_WVTXLhzN5Mu6DzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngZoC4hfqnA-RXwRCDfSKY867uxcZgACOhwAAqz_WVRrY5tSS_s5kDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnghoC4hjr5dLI5kHRoVNMkZR7FzEgQACPBwAAqz_WVQYM1i-eC5ANjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngpoC4hk1rxKavq7UFKabG4mDqsXAAM-HAACrP9ZVI5n8c2vNCFiNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJngxoC4hpXDn0o4VasF4jaJgRVx0fhwACQBwAAqz_WVROCBlYja9_kzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJng5oC4hrpj-4zw02DUTUOYXdPoDHfwACQhwAAqz_WVT9knu60Q9XLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnhBoC4hsyDZd2UdSblBLladwH0wE6QACRBwAAqz_WVRN1CNu86brgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJnhJoC4isF2l9A2QK-BPEP8P6z9G3aAACRhwAAqz_WVQldgPBZ3ZgGTYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43498,
+    "title": "【阿晶Akira&落落Raku】 青龍&白虎 [25P 138MB]",
+    "sourceUrl": "https://telegra.ph/%E9%98%BF%E6%99%B6Akira%E8%90%BD%E8%90%BDRaku-%E9%9D%92%E9%BE%8D%E7%99%BD%E8%99%8E-25P-138MB-12-18",
+    "images": [
+        "https://telegra.ph/file/9493de3ed92a3db2aa165.jpg",
+        "https://telegra.ph/file/9c500415ed55555f1083a.jpg",
+        "https://telegra.ph/file/c9d6336e12fa09bd784d3.jpg",
+        "https://telegra.ph/file/3f6001f5c04c33b23cdb5.jpg",
+        "https://telegra.ph/file/6465b2c7198eb5eb9df8f.jpg",
+        "https://telegra.ph/file/a1a87f110155569062eec.jpg",
+        "https://telegra.ph/file/03eb234d01e92a53d5f7a.jpg",
+        "https://telegra.ph/file/8c5c72f5035f0bd7a491f.jpg",
+        "https://telegra.ph/file/f40fbde591c8ee39f2ee2.jpg",
+        "https://telegra.ph/file/c2a8c4f11423a90022bd7.jpg",
+        "https://telegra.ph/file/fb2c7cffd1695de9b1bea.jpg",
+        "https://telegra.ph/file/6cd3369a2df105c9cff59.jpg",
+        "https://telegra.ph/file/63ad986a99fa68eceae77.jpg",
+        "https://telegra.ph/file/39fda753c2d42d8ae7376.jpg",
+        "https://telegra.ph/file/97ee5b926fbb6c1345a52.jpg",
+        "https://telegra.ph/file/512c24554a335922de563.jpg",
+        "https://telegra.ph/file/712ae0b48526172e329cb.jpg",
+        "https://telegra.ph/file/ca9bd934c449304314b7e.jpg",
+        "https://telegra.ph/file/ed1229e8b45bee065dbf3.jpg",
+        "https://telegra.ph/file/12776eb73284b636f0db5.jpg",
+        "https://telegra.ph/file/8431eb959f086212b23f3.jpg",
+        "https://telegra.ph/file/1257cf4f106eeeb6bace1.jpg",
+        "https://telegra.ph/file/feda7de035d9e5598a163.jpg",
+        "https://telegra.ph/file/5ff40046ebc13269fb36e.jpg",
+        "https://telegra.ph/file/3a641aedaf7362d97dab4.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49591,
+    "title": "星之迟迟 Tosa Bikini - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-Tosa-Bikini---Page-1-02-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1Z5nnxpjUzG9Fcwotm1Zkkf6p1bDdgACWBQAArJN-FQ9cBjn76cv3zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1aBnnxpkvG8p5g3Z7LozoAPjQtgR4gACWhQAArJN-FRLyze8EDFZtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1aJnnxpmH-fWOHwp3-FbwMW3FGmdUAACXRQAArJN-FTICtKxhVYSiTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1aRnnxpqz5HI29RUHhLu-ZIozL9GlwACXxQAArJN-FSW6XRzqwrA6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1aZnnxpsR3IcUHwW9En_wsZU8NcvuQACYRQAArJN-FQEMFDx6VU74jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1adnnxpvsaI6iJVu7VqRzMs966PLPAACYhQAArJN-FTrpMW3jPJE6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1apnnxpxQda66Q1EdSAr0SZANKLIagACZRQAArJN-FTofVVv_vasSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1axnnxp2YhvJrBvV22hd3RcrVCXk6wACZxQAArJN-FTKKswWo92TKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1a5nnxp3AosZ07JB61koRuAk6-iGzQACaRQAArJN-FRn-e7QVGJ-VDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bBnnxp51YsILWrFCZRN_dE4uZz_KwACaxQAArJN-FSbP1XEHjfI5DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bJnnxq7W5w0YMQl8RQsx2Hj8Ze0NwACdRQAArJN-FTbvOAp4JRsMzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bRnnxq8Lvum-dQfZG24mnv6m5YIjQACdxQAArJN-FSbJ_SXQCv4STYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bZnnxq-oEcVi1wG86PaJrphji0YZgACeRQAArJN-FTMdLZbFVKBfDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bhnnxrDA2uZtrYvN9NNrvAhuznc-wACexQAArJN-FQ3WOw4HIcZoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bpnnxrFC3fBhHE2jMPJ7dgBpn3W9wACfRQAArJN-FTq-GgBGl9n6TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1bxnnxrJ53l0Vr8JDlk7BKrvGlpjpgACfxQAArJN-FTstYjYVTNoMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1b9nnxrMf5nfp8sVPC_DPw162EYC3gACghQAArJN-FSzt7sAAYCj-Hw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1cFnnxrRqX_SQEytEUL7Z9HjEm8nnwAChRQAArJN-FQJMXOpOmHY-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1cNnnxrTj3LM64ou-o9A0UhYShK-wQAChxQAArJN-FQYtFNaTZwPOzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1cRnnxrUlVEwc7XR1G79MFpvOpkoPQACiBQAArJN-FSQD4szFhOllzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1cVnnxrWLIp4p-A28YsD19deSLXEbwACiRQAArJN-FSKhBBXypbiSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1cdnnxsYwElcR_qJHQ_XaDfNsZq_JAACjBQAArJN-FSg4nqPdsPRjTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1clnnxsae6coUq7X1Oq2Jb_Th6Dq4gACjhQAArJN-FTzptXg-LX5dzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1ctnnxsfMxhRhH7NMiSuf8vKzzPeXAACkBQAArJN-FSElpFDuLWtpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE1c1nnxshOtdQztrZ-INLCqLqUEKcUAACkhQAArJN-FTGsbaCZfXeNDYE"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44165,
+    "title": "Neppu ネップ - Indomitable Maid",
+    "sourceUrl": "https://telegra.ph/Neppu-ネップ---Indomitable-Maid-09-28",
+    "images": [
+        "https://telegra.ph/file/4467598c5836e40f1b880.jpg",
+        "https://telegra.ph/file/ee3f61218bdf6f2f8d7f4.jpg",
+        "https://telegra.ph/file/1d59c2274e3cb6b36da8e.jpg",
+        "https://telegra.ph/file/6c130fbfc417b17892c78.jpg",
+        "https://telegra.ph/file/822cbb37cc9711462a2ca.jpg",
+        "https://telegra.ph/file/4bb2a1bed5ab0083670ae.jpg",
+        "https://telegra.ph/file/571639731292966ae3628.jpg",
+        "https://telegra.ph/file/30675c417acb08045ff2a.jpg",
+        "https://telegra.ph/file/f436b42e0be0857b97d90.jpg",
+        "https://telegra.ph/file/5326c43f7b4e273732f4c.jpg",
+        "https://telegra.ph/file/606d2dae8626d7aaf4b05.jpg",
+        "https://telegra.ph/file/6ef46e4be4ca5b5ad7711.jpg",
+        "https://telegra.ph/file/97593b62e88df5e2bb514.jpg",
+        "https://telegra.ph/file/2a4d353d10db163c21229.jpg",
+        "https://telegra.ph/file/bd865acee0c058cc93f8d.jpg",
+        "https://telegra.ph/file/f8a582351af72cc69caf6.jpg",
+        "https://telegra.ph/file/017cb1c1d8926783ccd9d.jpg",
+        "https://telegra.ph/file/ef0afc797bdf43c26b220.jpg",
+        "https://telegra.ph/file/02c611ea42f6fe2db5f14.jpg",
+        "https://telegra.ph/file/c94522eb5d1b6816576db.jpg",
+        "https://telegra.ph/file/ddca7df44009be8178314.jpg",
+        "https://telegra.ph/file/c286fcc1c123a2664a394.jpg",
+        "https://telegra.ph/file/b20b648635ac6431084a9.jpg",
+        "https://telegra.ph/file/d60980a297d1f1e27b87c.jpg",
+        "https://telegra.ph/file/d2f7dc44f65ea712f0d1e.jpg",
+        "https://telegra.ph/file/774c1acfdf5eb61d96a59.jpg"
+    ]
+};

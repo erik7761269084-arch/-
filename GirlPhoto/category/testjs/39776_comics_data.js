@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39776,
+    "title": "Potato Godzilla - No Horny",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---No-Horny-10-08",
+    "images": [
+        "https://telegra.ph/file/bbaa73a1b934940938fe3.jpg",
+        "https://telegra.ph/file/acc9dcc8fd66dad030119.jpg",
+        "https://telegra.ph/file/0737c92dff05b9ec57ca8.jpg",
+        "https://telegra.ph/file/4cd805c372127f729b005.jpg",
+        "https://telegra.ph/file/1c7e3b7454d940e62e4bb.jpg",
+        "https://telegra.ph/file/01afaf6c3be81e19182f2.jpg",
+        "https://telegra.ph/file/812487cf0baa646e919db.jpg",
+        "https://telegra.ph/file/0360cb46d4262ed0995fa.jpg",
+        "https://telegra.ph/file/f2b3ded3dc57e0ef1a32f.jpg",
+        "https://telegra.ph/file/664cb928932ed3fda2d66.jpg",
+        "https://telegra.ph/file/4aaee0c6fcc0416505698.jpg",
+        "https://telegra.ph/file/bbd0ef7a6600c0e36f107.jpg",
+        "https://telegra.ph/file/01d83a2c6536532af16b7.jpg",
+        "https://telegra.ph/file/8af9c7ee0be6993782456.jpg",
+        "https://telegra.ph/file/2be7dc13f4f3fa2583dd7.jpg",
+        "https://telegra.ph/file/2be62db576e17655175f0.jpg",
+        "https://telegra.ph/file/2c317181b2509ac76560a.jpg",
+        "https://telegra.ph/file/6b3d8e03859279ac06f29.jpg",
+        "https://telegra.ph/file/492bcb2d85def24382043.jpg",
+        "https://telegra.ph/file/8a6c052b8b1522d3574f5.jpg",
+        "https://telegra.ph/file/1adb2995cc75c12fe4f69.jpg",
+        "https://telegra.ph/file/090c3737db968fceb723c.jpg",
+        "https://telegra.ph/file/9753c7468796c9a11d2ac.jpg",
+        "https://telegra.ph/file/a1cb9967bc0314cb58793.jpg",
+        "https://telegra.ph/file/9076e5b9b00842f6af4f1.jpg"
+    ]
+};

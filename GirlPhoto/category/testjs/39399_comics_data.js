@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39399,
+    "title": "Byoru - Leviathan (Seven Mortal Sins)",
+    "sourceUrl": "https://telegra.ph/Byoru---Leviathan-Seven-Mortal-Sins-07-20",
+    "images": [
+        "https://telegra.ph/file/0ee3f9628c9c4b44d7853.jpg",
+        "https://telegra.ph/file/000752cb6b8612d1bb078.jpg",
+        "https://telegra.ph/file/6f8c714a592d95bfdf280.jpg",
+        "https://telegra.ph/file/21ad8324081831a448356.jpg",
+        "https://telegra.ph/file/bbb8e8c8dd3453f2e0217.jpg",
+        "https://telegra.ph/file/8b66930707c0b38f6d0e1.jpg",
+        "https://telegra.ph/file/5d0911388b1793bfa071a.jpg",
+        "https://telegra.ph/file/497787a23361b449a43b3.jpg",
+        "https://telegra.ph/file/27382b3336246ed1e58fb.jpg",
+        "https://telegra.ph/file/4c86d0a114f4563bee5d9.jpg",
+        "https://telegra.ph/file/03d55a01c1643825d4c9a.jpg",
+        "https://telegra.ph/file/83b38005538b0b9896262.jpg",
+        "https://telegra.ph/file/aa93839d69c920b48399f.jpg",
+        "https://telegra.ph/file/b33b27f35df794eafa6b4.jpg",
+        "https://telegra.ph/file/00a89fb734367698095d2.jpg",
+        "https://telegra.ph/file/8befea765e82d3fabda4b.jpg",
+        "https://telegra.ph/file/4b43030a5a286a2ba20db.jpg",
+        "https://telegra.ph/file/1fa5c0ca80d12cc015cb8.jpg",
+        "https://telegra.ph/file/7feb23e144ddb5e741487.jpg",
+        "https://telegra.ph/file/58b1deb661500d1877826.jpg",
+        "https://telegra.ph/file/b65316da77a06e9cc62b9.jpg",
+        "https://telegra.ph/file/53f1b34f269b1b87aa488.jpg",
+        "https://telegra.ph/file/2fdbebd9ca92bbda6c143.jpg",
+        "https://telegra.ph/file/5158d87d01602859df662.jpg",
+        "https://telegra.ph/file/30ca1cce8cc8dc796f8be.jpg"
+    ]
+};

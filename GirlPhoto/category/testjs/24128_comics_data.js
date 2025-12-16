@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 24128,
+    "title": "雨波HaneAme - 我獨自升級 車慧怡",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2HaneAme---%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A-%E8%BB%8A%E6%85%A7%E6%80%A1-07-02",
+    "images": [
+        "https://telegra.ph/file/ce89574c591a8babd50d6.jpg",
+        "https://telegra.ph/file/7998ac0053c5a0d2dca2b.jpg",
+        "https://telegra.ph/file/fb47312db515b25f30f65.jpg",
+        "https://telegra.ph/file/e2cc00b050bf96c100028.jpg",
+        "https://telegra.ph/file/ca21afff53697b8f20ebe.jpg",
+        "https://telegra.ph/file/2bece4cceb338a4fa76e4.jpg",
+        "https://telegra.ph/file/aa0c58eac5912296014dc.jpg",
+        "https://telegra.ph/file/5f63836e3e0e7f5fb8831.jpg",
+        "https://telegra.ph/file/9d218c66b0d0c2f1ecab5.jpg",
+        "https://telegra.ph/file/cf4ed62bcb1dfd39b118f.jpg",
+        "https://telegra.ph/file/e745fce1316902bb7a4a7.jpg",
+        "https://telegra.ph/file/90ea7949d6e69ffe9dfc5.jpg",
+        "https://telegra.ph/file/cb4f99a66a421ea67760f.jpg",
+        "https://telegra.ph/file/162703c3c599cbb1b68b5.jpg",
+        "https://telegra.ph/file/67c786f4e16ea4346ff82.jpg",
+        "https://telegra.ph/file/d5a33ad8a9dd931188ce5.jpg",
+        "https://telegra.ph/file/d12e42897c7a2aaf5ae15.jpg",
+        "https://telegra.ph/file/5bc78e48dcd9ab51eb2e6.jpg",
+        "https://telegra.ph/file/2c1e9f3cb151a46705db9.jpg",
+        "https://telegra.ph/file/13bbeefbdca4faee224b8.jpg",
+        "https://telegra.ph/file/5569a77f4c87d1584a172.jpg",
+        "https://telegra.ph/file/bc432fb69e6158ffb183c.jpg",
+        "https://telegra.ph/file/402fd0fa1a2b1d0e068c1.jpg"
+    ]
+};

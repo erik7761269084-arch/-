@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46480,
+    "title": "[elizamiaomiao] (eliza喵喵) Asuka - Page 1",
+    "sourceUrl": "https://telegra.ph/elizamiaomiao-eliza喵喵-Asuka---Page-1-01-04",
+    "images": [
+        "https://telegra.ph/file/0fb9de93e6c9525a1886e.jpg",
+        "https://telegra.ph/file/91ac4c01e690c2bfd3d84.jpg",
+        "https://telegra.ph/file/3497e1a51fd2885162b5c.jpg",
+        "https://telegra.ph/file/fabb149f3469bcfe0873b.jpg",
+        "https://telegra.ph/file/df4c59c8be385987d55f2.jpg",
+        "https://telegra.ph/file/3ed4b26bf83730396d728.jpg",
+        "https://telegra.ph/file/999722a924e84a281a11a.jpg",
+        "https://telegra.ph/file/878ff6b59a8b45e1e2a3e.jpg",
+        "https://telegra.ph/file/58f9fb85b29423b51c3dd.jpg",
+        "https://telegra.ph/file/4d934bcf961b879da764e.jpg",
+        "https://telegra.ph/file/873d6ffed97e4907dd028.jpg",
+        "https://telegra.ph/file/e8ac3c0cbdd167bcc0ce1.jpg",
+        "https://telegra.ph/file/a0bd6d26a787badc80dbf.jpg",
+        "https://telegra.ph/file/85bdf49ac53afc2f0eadf.jpg",
+        "https://telegra.ph/file/63e174223565cd852c607.jpg",
+        "https://telegra.ph/file/82d506f87581c362569cf.jpg",
+        "https://telegra.ph/file/bcf93c203a64cc0f89c9f.jpg",
+        "https://telegra.ph/file/0c42afdb5c7857c3f7ced.jpg",
+        "https://telegra.ph/file/e7b385bd4c507f8bffef9.jpg",
+        "https://telegra.ph/file/1a9f460f9c4caf8139e39.jpg",
+        "https://telegra.ph/file/8a2c2dcb3dff57167cc5e.jpg",
+        "https://telegra.ph/file/16de9ea3c7afe30eba44d.jpg",
+        "https://telegra.ph/file/290e536e5c5dfbfa6ef13.jpg",
+        "https://telegra.ph/file/83e657acdd752c9edd40d.jpg",
+        "https://telegra.ph/file/946682fa639e38967fa0e.jpg"
+    ]
+};

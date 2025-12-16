@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48572,
+    "title": "[铃木美咲(Misaki Suzuki)] 美脚的赐福 姬子篇 - Page 1",
+    "sourceUrl": "https://telegra.ph/铃木美咲Misaki-Suzuki-美脚的赐福-姬子篇---Page-1-08-09",
+    "images": [
+        "https://telegra.ph/file/de791cb28ceed1f9315ae.jpg",
+        "https://telegra.ph/file/7be04b9d1557b25fb4172.jpg",
+        "https://telegra.ph/file/03ba83b3527ab911fa681.jpg",
+        "https://telegra.ph/file/aca52b7cd88c489716e70.jpg",
+        "https://telegra.ph/file/09706f810d94dcec1cfc1.jpg",
+        "https://telegra.ph/file/b802e412b10182ecc4cda.jpg",
+        "https://telegra.ph/file/a80a3b096bebc20c25ae9.jpg",
+        "https://telegra.ph/file/08d0dd42278666c57f9e4.jpg",
+        "https://telegra.ph/file/0b387bc678bceaa055c56.jpg",
+        "https://telegra.ph/file/4813035746068e047c2b3.jpg",
+        "https://telegra.ph/file/e36453f14bf6c20809abc.jpg",
+        "https://telegra.ph/file/fe70585dd8d42ccdb8d95.jpg",
+        "https://telegra.ph/file/9f92dc1ef2492812ea76a.jpg",
+        "https://telegra.ph/file/fd19b58929e1dbe785853.jpg",
+        "https://telegra.ph/file/b8f7d8727d88f1a7fe290.jpg",
+        "https://telegra.ph/file/91aaf5b718478e89f0d0c.jpg",
+        "https://telegra.ph/file/a888cd2f9b34051b8c13d.jpg",
+        "https://telegra.ph/file/fa9e7fa9ec9521c1844ee.jpg",
+        "https://telegra.ph/file/1047448b81be43a4ed6b7.jpg",
+        "https://telegra.ph/file/daaa8f034062f70569291.jpg",
+        "https://telegra.ph/file/1c43702bc26abb3bfa0dc.jpg",
+        "https://telegra.ph/file/f7dd601af5f9338a7aa61.jpg",
+        "https://telegra.ph/file/b6ece95b0bc17e60cd2aa.jpg"
+    ]
+};

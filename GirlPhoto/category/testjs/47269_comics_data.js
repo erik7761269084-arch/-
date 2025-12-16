@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47269,
+    "title": "[一笑芳香沁]黑兽 奥莉斯汀 - Page 1",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁黑兽-奥莉斯汀---Page-1-03-16",
+    "images": [
+        "https://telegra.ph/file/073ffe3e4674f1ef2f39a.jpg",
+        "https://telegra.ph/file/66aa82d76a5cdfea78ff6.jpg",
+        "https://telegra.ph/file/b60d2e816eb41f2774f50.jpg",
+        "https://telegra.ph/file/90df50ae6004732e3bb58.jpg",
+        "https://telegra.ph/file/04361c272674c571b1165.jpg",
+        "https://telegra.ph/file/c20f165e1caaf52dd6f61.jpg",
+        "https://telegra.ph/file/a90cad63aa6b21f65092f.jpg",
+        "https://telegra.ph/file/525b9405071708e0cd4c6.jpg",
+        "https://telegra.ph/file/09010bab6aa71f4ade942.jpg",
+        "https://telegra.ph/file/e3536311c47a1b81bf03b.jpg",
+        "https://telegra.ph/file/1055df779b4e1299513d3.jpg",
+        "https://telegra.ph/file/2cf8bb2389b24f5dd514b.jpg",
+        "https://telegra.ph/file/ae58cbadb8f181840dea2.jpg",
+        "https://telegra.ph/file/459941460650461cbea45.jpg",
+        "https://telegra.ph/file/29d8224edeea0257516af.jpg",
+        "https://telegra.ph/file/1a72e877e0fb1cc4890f1.jpg",
+        "https://telegra.ph/file/046743e34d68da45d7a89.jpg",
+        "https://telegra.ph/file/1d9f4bc6010443a747fbf.jpg",
+        "https://telegra.ph/file/2aab5c5eebbf24e91bc81.jpg",
+        "https://telegra.ph/file/18768b3b1fc1e6f37ae4d.jpg",
+        "https://telegra.ph/file/c7bad2f1290139a84d090.jpg",
+        "https://telegra.ph/file/bf70461caf0646da1b2b6.jpg",
+        "https://telegra.ph/file/1045fd94e3b1f6086375c.jpg",
+        "https://telegra.ph/file/8507c1e7d5e4fbc78a973.jpg",
+        "https://telegra.ph/file/1631466df02fc26eaa2f7.jpg"
+    ]
+};

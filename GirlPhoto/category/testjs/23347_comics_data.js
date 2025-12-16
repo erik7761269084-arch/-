@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23347,
+    "title": "miko酱ww - 女仆",
+    "sourceUrl": "https://telegra.ph/miko%E9%85%B1ww---%E5%A5%B3%E4%BB%86-02-18",
+    "images": [
+        "https://telegra.ph/file/1f006f755700219d8457c.jpg",
+        "https://telegra.ph/file/266b782a2f61cc55344b1.jpg",
+        "https://telegra.ph/file/b53b717bf1c230081544f.jpg",
+        "https://telegra.ph/file/fe056a710424294c22f91.jpg",
+        "https://telegra.ph/file/c2b8d0418b1f3a51a19f5.jpg",
+        "https://telegra.ph/file/f61bedf3e24cc166bae3f.jpg",
+        "https://telegra.ph/file/119466a18e85afc21a720.jpg",
+        "https://telegra.ph/file/37396127c3e022588e006.jpg",
+        "https://telegra.ph/file/08dbf4ecad0749a5b19b6.jpg",
+        "https://telegra.ph/file/2560f2cc54a0a18a9f72a.jpg",
+        "https://telegra.ph/file/79a28e1109a24d4f2755d.jpg",
+        "https://telegra.ph/file/6cdb5958dfd7501407eb2.jpg",
+        "https://telegra.ph/file/cfb77ee56a1a5b03204b6.jpg",
+        "https://telegra.ph/file/575c34f754fac4a70ecd4.jpg",
+        "https://telegra.ph/file/0ff2a3573b7375f9e331f.jpg",
+        "https://telegra.ph/file/9f04923890dcde884d9a7.jpg",
+        "https://telegra.ph/file/d463f532dad284d429499.jpg",
+        "https://telegra.ph/file/daef96cede9c7766cf65f.jpg",
+        "https://telegra.ph/file/f93934fd9592714d759ed.jpg",
+        "https://telegra.ph/file/066e6e3c26517185e9d52.jpg",
+        "https://telegra.ph/file/7f2efd6e4279bb4030ded.jpg",
+        "https://telegra.ph/file/f7910ca9dc00e00c2d46c.jpg",
+        "https://telegra.ph/file/6d8f5baa67699ad8cc0b7.jpg"
+    ]
+};

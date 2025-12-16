@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35130,
+    "title": "[奈汐酱nice] 女拳击手",
+    "sourceUrl": "https://telegra.ph/奈汐酱nice-女拳击手-08-24",
+    "images": [
+        "https://telegra.ph/file/c62f99ce5023818d3ffb2.jpg",
+        "https://telegra.ph/file/d0f4e07c675c0100078f6.jpg",
+        "https://telegra.ph/file/9d1c41996d8768c842a02.jpg",
+        "https://telegra.ph/file/24e52351fa90689eefac8.jpg",
+        "https://telegra.ph/file/3166a4aa384580708f729.jpg",
+        "https://telegra.ph/file/3f6a01de3b4ade27ca3ff.jpg",
+        "https://telegra.ph/file/1cab6d9e4c0cd67ce9b13.jpg",
+        "https://telegra.ph/file/c28472ecfe722f4c0cdf4.jpg",
+        "https://telegra.ph/file/fb8c832512938cac07cb8.jpg",
+        "https://telegra.ph/file/641ebd8e92e0a95b54b64.jpg",
+        "https://telegra.ph/file/99ebf0bc9a65c9565892e.jpg",
+        "https://telegra.ph/file/ae788e03a96632f904954.jpg",
+        "https://telegra.ph/file/a599dfc96502a14991127.jpg",
+        "https://telegra.ph/file/103de43c49ea38f044374.jpg",
+        "https://telegra.ph/file/82b44d0521fad3a23b20e.jpg",
+        "https://telegra.ph/file/6b72ea1c976a1026a9566.jpg",
+        "https://telegra.ph/file/f8445d9a61ed5df6abbc9.jpg",
+        "https://telegra.ph/file/e89fb40eb0ec14e444278.jpg",
+        "https://telegra.ph/file/c69a6482a560bec6f91c2.jpg",
+        "https://telegra.ph/file/f19fbf978ae66b2757010.jpg",
+        "https://telegra.ph/file/54fec0385c51d3c1d492b.jpg",
+        "https://telegra.ph/file/1318ff4f434152f115952.jpg",
+        "https://telegra.ph/file/c7171f2c9b3e89dbcc26c.jpg",
+        "https://telegra.ph/file/718224e07a6798f762b2f.jpg",
+        "https://telegra.ph/file/c144a7b126c20d6b741b9.jpg"
+    ]
+};

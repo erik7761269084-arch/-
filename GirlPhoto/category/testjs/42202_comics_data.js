@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42202,
+    "title": "Xenon - Makima Nurse (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-13",
+    "images": [
+        "https://i.ibb.co/8nFPXgrB/01-xe-17.jpg",
+        "https://i.ibb.co/xqsp3WSq/02-xe-1.jpg",
+        "https://i.ibb.co/Ld30bqtg/03-xe-19.jpg",
+        "https://i.ibb.co/TD2p9gpK/04-xe-4.jpg",
+        "https://i.ibb.co/cXDkXjqm/05-xe-6.jpg",
+        "https://i.ibb.co/mr2w0p30/06-xe-8.jpg",
+        "https://i.ibb.co/xt3wxJVL/07-xe-22.jpg",
+        "https://i.ibb.co/fdHRrttD/08-xe-24.jpg",
+        "https://i.ibb.co/Hfy1hgCM/09-xe-26.jpg",
+        "https://i.ibb.co/35Cp6zLZ/10-xe-28.jpg",
+        "https://i.ibb.co/bRLJ72fT/11-xe-29.jpg",
+        "https://i.ibb.co/ynLDg9hC/12-xe-31.jpg",
+        "https://i.ibb.co/gFhf5zRJ/13-xe-10.jpg",
+        "https://i.ibb.co/ZR8MSJSK/14-xe-3.jpg",
+        "https://i.ibb.co/xq8GDRsv/15-xe-12.jpg",
+        "https://i.ibb.co/ksVVqXjv/16-xe-14.jpg",
+        "https://i.ibb.co/q3T8hD2Z/17-xe-15.jpg",
+        "https://i.ibb.co/fGBGXYRy/18-xe-16.jpg",
+        "https://i.ibb.co/dsyxrLz5/19-xe-ex-2.jpg",
+        "https://i.ibb.co/Sw6N5gQB/20-xe-32.jpg",
+        "https://i.ibb.co/bMtDqM0M/21-xe-34.jpg",
+        "https://i.ibb.co/6cKgr3ZG/22-xe-35.jpg",
+        "https://i.ibb.co/MDHGMQ5t/23-xe-33.jpg"
+    ]
+};

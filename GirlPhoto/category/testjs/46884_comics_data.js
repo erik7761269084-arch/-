@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46884,
+    "title": "Azami - Tony Cheongsam - Page 1",
+    "sourceUrl": "https://telegra.ph/Azami---Tony-Cheongsam---Page-1-02-10",
+    "images": [
+        "https://telegra.ph/file/c4d0b5db0eaa893fc5bad.jpg",
+        "https://telegra.ph/file/603d81031a0dd8a407d69.jpg",
+        "https://telegra.ph/file/486b21a64a0f06327c5e7.jpg",
+        "https://telegra.ph/file/8068cfea82f21c7781438.jpg",
+        "https://telegra.ph/file/770441c1a4023032c56e8.jpg",
+        "https://telegra.ph/file/6bd12980e47fe62b91157.jpg",
+        "https://telegra.ph/file/331384278f97f570ea032.jpg",
+        "https://telegra.ph/file/97cfa498fff0251fc24c0.jpg",
+        "https://telegra.ph/file/a194c5597b5ea0e449826.jpg",
+        "https://telegra.ph/file/a959bd667ae1725f8c46b.jpg",
+        "https://telegra.ph/file/7fb5dcf0c293c17175feb.jpg",
+        "https://telegra.ph/file/970fa7d9784f1262d8c2d.jpg",
+        "https://telegra.ph/file/e56249e055df293a1b6ed.jpg",
+        "https://telegra.ph/file/f24bab571bc904aae68b1.jpg",
+        "https://telegra.ph/file/aab8fd5f70a541871397c.jpg",
+        "https://telegra.ph/file/446b6a06eaeec48d22824.jpg",
+        "https://telegra.ph/file/df4a316c07b83ba1d68ea.jpg",
+        "https://telegra.ph/file/613393c7e66d04027be9e.jpg",
+        "https://telegra.ph/file/9cb738ad2db38296c6a03.jpg",
+        "https://telegra.ph/file/d8c65c6f885a3ece50e3b.jpg",
+        "https://telegra.ph/file/1473c80a80573105951b2.jpg",
+        "https://telegra.ph/file/1b90a9c7b77939786cc47.jpg",
+        "https://telegra.ph/file/0359ca87c3b37b6e55e58.jpg"
+    ]
+};

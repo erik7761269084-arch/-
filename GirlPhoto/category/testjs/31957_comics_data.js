@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31957,
+    "title": "Mozzi 모찌, [PURE MEDIA] Vol.29 누드 디지털화보 Set.03",
+    "sourceUrl": "https://telegra.ph/Mozzi-모찌-PURE-MEDIA-Vol29-누드-디지털화보-Set03-09-30",
+    "images": [
+        "https://telegra.ph/file/512fbf7e80d359fbf1e3c.jpg",
+        "https://telegra.ph/file/ef90f0e8fac738ba4210c.jpg",
+        "https://telegra.ph/file/7a4f77216302eaef9431e.jpg",
+        "https://telegra.ph/file/81d291e1fa5864895fe1b.jpg",
+        "https://telegra.ph/file/76d34aa9ce7b955666152.jpg",
+        "https://telegra.ph/file/b7116701fe4477e49309f.jpg",
+        "https://telegra.ph/file/81b092c3791a7be1b44e0.jpg",
+        "https://telegra.ph/file/81c981cb571506f2eb4c3.jpg",
+        "https://telegra.ph/file/db038c44c3c09252bc607.jpg",
+        "https://telegra.ph/file/561d74bc5201e435b3073.jpg",
+        "https://telegra.ph/file/31b45a8d39e969c59b636.jpg",
+        "https://telegra.ph/file/ee16665ef5be40629f245.jpg",
+        "https://telegra.ph/file/428dba3fa9a0c1d32ef28.jpg",
+        "https://telegra.ph/file/605f72f209676dcbbf4fa.jpg",
+        "https://telegra.ph/file/7395ec15bfa731d2e1370.jpg",
+        "https://telegra.ph/file/0ff057a66220b612a29e4.jpg",
+        "https://telegra.ph/file/1dd6136bcf4e6834c37e3.jpg",
+        "https://telegra.ph/file/b916f228843e4800e7d56.jpg",
+        "https://telegra.ph/file/d48239dad53ef5834b348.jpg",
+        "https://telegra.ph/file/5d5668d3884d293e5d297.jpg",
+        "https://telegra.ph/file/20a4c97e84d3a0125e0c9.jpg",
+        "https://telegra.ph/file/713d19f092e253913e855.jpg",
+        "https://telegra.ph/file/193fc68f69e66b86a4374.jpg",
+        "https://telegra.ph/file/9cac10dc37c4d17ce1d23.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

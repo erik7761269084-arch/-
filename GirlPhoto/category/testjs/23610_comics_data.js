@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23610,
+    "title": "Fantasy Factory小丁 P活 [23P-12MB]",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory%E5%B0%8F%E4%B8%81-P%E6%B4%BB-23P-12MB-03-14",
+    "images": [
+        "https://telegra.ph/file/3bba7d45c9e45cebbeaa9.jpg",
+        "https://telegra.ph/file/6c44d2bd038c5567d7058.jpg",
+        "https://telegra.ph/file/492af7d6bac6c20bf043d.jpg",
+        "https://telegra.ph/file/c634f1f07cec23691f8d5.jpg",
+        "https://telegra.ph/file/9f22ea461ea0a42c3b41a.jpg",
+        "https://telegra.ph/file/306bcd3f5a8d32bff943f.jpg",
+        "https://telegra.ph/file/b60ef3a061cd0712199b9.jpg",
+        "https://telegra.ph/file/e30b2333739656aa72a9c.jpg",
+        "https://telegra.ph/file/111ded6b62251d338d03a.jpg",
+        "https://telegra.ph/file/959b5e2e61766b4e5a99a.jpg",
+        "https://telegra.ph/file/0fc140a1ff831afa7213a.jpg",
+        "https://telegra.ph/file/0a0913e9fa4f00d41c2ef.jpg",
+        "https://telegra.ph/file/f439ad369a05bb2edb528.jpg",
+        "https://telegra.ph/file/44f4bcfa4b6929efdc5fe.jpg",
+        "https://telegra.ph/file/72d0fc53f08875be29d53.jpg",
+        "https://telegra.ph/file/044192702589639b1baec.jpg",
+        "https://telegra.ph/file/0126564a03b0cdbd89506.jpg",
+        "https://telegra.ph/file/faad70999b631ec6346b1.jpg",
+        "https://telegra.ph/file/913c315f6d1c94a3c3c48.jpg",
+        "https://telegra.ph/file/9c9d6c4c07a99bb29235f.jpg",
+        "https://telegra.ph/file/4e8d7915913e5c5cea630.jpg",
+        "https://telegra.ph/file/b303eedd10512989c9bce.jpg",
+        "https://telegra.ph/file/c1bd1d5d58de820050fb3.jpg"
+    ]
+};

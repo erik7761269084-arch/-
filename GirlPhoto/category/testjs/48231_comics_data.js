@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48231,
+    "title": "Power - Hidori Rose - Page 1",
+    "sourceUrl": "https://telegra.ph/Power---Hidori-Rose---Page-1-06-12",
+    "images": [
+        "https://telegra.ph/file/726dc303cff610e9bfc63.jpg",
+        "https://telegra.ph/file/d20166bd1138b9b67a908.jpg",
+        "https://telegra.ph/file/08bbb3be7a22bf8b2e1ea.jpg",
+        "https://telegra.ph/file/07820278e0e149de89c9c.jpg",
+        "https://telegra.ph/file/be582d1076c469985abb0.jpg",
+        "https://telegra.ph/file/0fc1ef20e7a590126bf18.jpg",
+        "https://telegra.ph/file/e7d2066fd89089dc6fe45.jpg",
+        "https://telegra.ph/file/78a7c32fde661e45933f6.jpg",
+        "https://telegra.ph/file/b7cf1f98f9611cdbd3418.jpg",
+        "https://telegra.ph/file/2522a300f897f24a8a363.jpg",
+        "https://telegra.ph/file/29faf81a7dcfb23fac3e0.jpg",
+        "https://telegra.ph/file/e96802097a2fc81124acd.jpg",
+        "https://telegra.ph/file/486c9bb13c008a170bd8e.jpg",
+        "https://telegra.ph/file/6ae131a32c087f1fe4225.jpg",
+        "https://telegra.ph/file/0033a628e562cd8b61e14.jpg",
+        "https://telegra.ph/file/3f75e9ff9798337d742b2.jpg",
+        "https://telegra.ph/file/abab61d81f11c9e64ca31.jpg",
+        "https://telegra.ph/file/660129436ea854be88cf7.jpg",
+        "https://telegra.ph/file/d430cf6aae1ec1c34dd6d.jpg",
+        "https://telegra.ph/file/24c0f331c32e2737baeee.jpg",
+        "https://telegra.ph/file/fe2986cf0881eb6a10ad4.jpg",
+        "https://telegra.ph/file/cc656e142b161d6a2ab22.jpg",
+        "https://telegra.ph/file/d2624a93f0050a0456dd0.jpg",
+        "https://telegra.ph/file/0a50b0cecaeea1472ad85.jpg"
+    ]
+};

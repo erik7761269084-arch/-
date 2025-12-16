@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 33826,
+    "title": "Cosplay 小仓千代w 普利茅斯泳装",
+    "sourceUrl": "https://telegra.ph/Cosplay-小仓千代w-普利茅斯泳装-04-12",
+    "images": [
+        "https://telegra.ph/file/3d51018426daa6c54f2d2.jpg",
+        "https://telegra.ph/file/7934c86861d30e5d1b563.jpg",
+        "https://telegra.ph/file/d19ee071860932c1e704f.jpg",
+        "https://telegra.ph/file/a53aabc2332ed8a331404.jpg",
+        "https://telegra.ph/file/7bb26ae834c745a6d156a.jpg",
+        "https://telegra.ph/file/3fd7ac7cfd47e15e3c3df.jpg",
+        "https://telegra.ph/file/77f4e8c4a7e1b02c9488b.jpg",
+        "https://telegra.ph/file/cc7503555a686e336115d.jpg",
+        "https://telegra.ph/file/191cd839b11ef8595170c.jpg",
+        "https://telegra.ph/file/3b4207716b0d0e55c696e.jpg",
+        "https://telegra.ph/file/1c4552fd2a35323ae0eba.jpg",
+        "https://telegra.ph/file/b0630a4f8736b35568fc1.jpg",
+        "https://telegra.ph/file/61ab167abc163ad07d278.jpg",
+        "https://telegra.ph/file/6826bb9cec0b4eb90d711.jpg",
+        "https://telegra.ph/file/f84cc4aa7028fbed33261.jpg",
+        "https://telegra.ph/file/7f5505c5b490eb77f6e33.jpg",
+        "https://telegra.ph/file/b35d7d17fecb5444c2620.jpg",
+        "https://telegra.ph/file/0f1f168b81c0c03ee796d.jpg",
+        "https://telegra.ph/file/a13db72997aa04a61f173.jpg",
+        "https://telegra.ph/file/161bf07d097928b2e60a7.jpg",
+        "https://telegra.ph/file/a8e02b35e149ab98c6539.jpg",
+        "https://telegra.ph/file/de2c5436ac450b358f4c5.jpg",
+        "https://telegra.ph/file/bae00ecfe309306500876.jpg"
+    ]
+};

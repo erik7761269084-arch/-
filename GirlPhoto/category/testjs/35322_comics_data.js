@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35322,
+    "title": "Ai Hongo 本郷愛, 週刊ポストデジタル写真集 ヌレッヌレ！ Set.03",
+    "sourceUrl": "https://telegra.ph/Ai-Hongo-本郷愛-週刊ポストデジタル写真集-ヌレッヌレ-Set03-09-12",
+    "images": [
+        "https://telegra.ph/file/e0075946ac48afbe2a083.jpg",
+        "https://telegra.ph/file/a4e4741a362e89f86ea03.jpg",
+        "https://telegra.ph/file/856406f78897bc2d05e9f.jpg",
+        "https://telegra.ph/file/faa79b9790977e51a0d97.jpg",
+        "https://telegra.ph/file/afbf7ebf7f8adf659e3e9.jpg",
+        "https://telegra.ph/file/e6ecb2db136263496d0ca.jpg",
+        "https://telegra.ph/file/36d53dbbce99698d9c235.jpg",
+        "https://telegra.ph/file/e3d5f1a36cd3df4e73d4c.jpg",
+        "https://telegra.ph/file/3a6746981233f7741f1dd.jpg",
+        "https://telegra.ph/file/c03d63563ef5c032f7884.jpg",
+        "https://telegra.ph/file/f5e58e262a2320d865203.jpg",
+        "https://telegra.ph/file/a4c23276080a412b12251.jpg",
+        "https://telegra.ph/file/cf6484430a03903a5dd37.jpg",
+        "https://telegra.ph/file/a29e376cc8d330092cc1f.jpg",
+        "https://telegra.ph/file/bc58637db4a18c825c9ae.jpg",
+        "https://telegra.ph/file/ab9ca6c1aa3c760db3231.jpg",
+        "https://telegra.ph/file/e28b09ad837076856c932.jpg",
+        "https://telegra.ph/file/e7bb5587c2ef8737f411c.jpg",
+        "https://telegra.ph/file/099fd6a82e8aa54703a0c.jpg",
+        "https://telegra.ph/file/06e043f56b8e0eaf8a2ac.jpg",
+        "https://telegra.ph/file/a4b0d91910dcfe2251a2a.jpg",
+        "https://telegra.ph/file/e33eaa8440170f15773f7.jpg",
+        "https://telegra.ph/file/428537aec3dffeb133877.jpg",
+        "https://telegra.ph/file/43730aa3ed8d155c0d23d.jpg"
+    ]
+};

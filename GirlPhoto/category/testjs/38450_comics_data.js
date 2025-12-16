@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38450,
+    "title": "Hana Bunny - Cow Girl Swimsuit (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Cow-Girl-Swimsuit-Random-Cosplay-11-06",
+    "images": [
+        "https://telegra.ph/file/5a302c7afa08c12c1b5de.jpg",
+        "https://telegra.ph/file/cb1ebf6e6edff4b45304d.jpg",
+        "https://telegra.ph/file/3898284a7825810e0e784.jpg",
+        "https://telegra.ph/file/aaba12ea23af3c7ee6bd1.jpg",
+        "https://telegra.ph/file/b25e6475a2c009dcfed0c.jpg",
+        "https://telegra.ph/file/926097a75b15aed6339f2.jpg",
+        "https://telegra.ph/file/95b17c8575ac05f598a81.jpg",
+        "https://telegra.ph/file/c8c059d20c1ab44d09415.jpg",
+        "https://telegra.ph/file/70f2feb10d9c66ee91c95.jpg",
+        "https://telegra.ph/file/1a6bf7466c49cbf42cd89.jpg",
+        "https://telegra.ph/file/c73e4053ed46ac1b5d55c.jpg",
+        "https://telegra.ph/file/0fc231387ebb8dcf98f40.jpg",
+        "https://telegra.ph/file/12d5372044c7a1e027093.jpg",
+        "https://telegra.ph/file/4640149fef100eb7baa9c.jpg",
+        "https://telegra.ph/file/f4eb6bfd0b8f8d2eb3e6a.jpg",
+        "https://telegra.ph/file/8601a1a010db73d067b79.jpg",
+        "https://telegra.ph/file/aba89b6588fb3ddeb8846.jpg",
+        "https://telegra.ph/file/0381b34d85bb0d439d82a.jpg",
+        "https://telegra.ph/file/fb08b1700ff237697dd16.jpg",
+        "https://telegra.ph/file/3a8032f89c6b0a6e7eafb.jpg",
+        "https://telegra.ph/file/451a26c150f0545e16230.jpg",
+        "https://telegra.ph/file/0c6be2d677e548aac7ca2.jpg",
+        "https://telegra.ph/file/d45d25153d4f6b13cad71.jpg"
+    ]
+};

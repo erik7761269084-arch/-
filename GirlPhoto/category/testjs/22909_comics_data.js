@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 22909,
+    "title": "百合欧皇子 - 碧蓝航线莱莎联动 [23P-157MB]",
+    "sourceUrl": "https://telegra.ph/%E7%99%BE%E5%90%88%E6%AC%A7%E7%9A%87%E5%AD%90---%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF%E8%8E%B1%E8%8E%8E%E8%81%94%E5%8A%A8-23P-157MB-12-22",
+    "images": [
+        "https://telegra.ph/file/cb53fe376151d1ee709a4.jpg",
+        "https://telegra.ph/file/d706ee11c3cff044efee1.jpg",
+        "https://telegra.ph/file/5b5c29b6a167ae53a5204.jpg",
+        "https://telegra.ph/file/0ef530459034fb367fc00.jpg",
+        "https://telegra.ph/file/cec801372eb0edc9fa5f7.jpg",
+        "https://telegra.ph/file/59613db3559a18f5abcf4.jpg",
+        "https://telegra.ph/file/9555d42989f0ea3503349.jpg",
+        "https://telegra.ph/file/a9e133f86fea55c99ea29.jpg",
+        "https://telegra.ph/file/d2562513421f39b411701.jpg",
+        "https://telegra.ph/file/e79093baff9ef22bbc471.jpg",
+        "https://telegra.ph/file/ad7fc37180c2b02a37812.jpg",
+        "https://telegra.ph/file/ec6f2a8e8d4bd45dbeb81.jpg",
+        "https://telegra.ph/file/246873b3393ebcc99c066.jpg",
+        "https://telegra.ph/file/da45c8897a6da9c449222.jpg",
+        "https://telegra.ph/file/3d998c39140e8bb9ca5bf.jpg",
+        "https://telegra.ph/file/b7263b07c8579843d9974.jpg",
+        "https://telegra.ph/file/73b16fab8882bff0dd581.jpg",
+        "https://telegra.ph/file/41bf79198412dc15907a9.jpg",
+        "https://telegra.ph/file/c8a2d0755970160177b42.jpg",
+        "https://telegra.ph/file/1145c1abb7df23e8dfc49.jpg",
+        "https://telegra.ph/file/e96ab8947708dbe43dbc7.jpg",
+        "https://telegra.ph/file/afe2a9e65f63d30ef1a8c.jpg",
+        "https://telegra.ph/file/39b0f8b9a084b15658b7e.jpg"
+    ]
+};

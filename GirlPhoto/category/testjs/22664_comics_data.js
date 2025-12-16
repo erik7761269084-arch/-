@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22664,
+    "title": "宮本桜(宫本樱)009 - 森蚺同人",
+    "sourceUrl": "https://telegra.ph/%E5%AE%AE%E6%9C%AC%E6%A1%9C%E5%AE%AB%E6%9C%AC%E6%A8%B1009---%E6%A3%AE%E8%9A%BA%E5%90%8C%E4%BA%BA-12-03",
+    "images": [
+        "https://telegra.ph/file/36b268060eea6fcec5c1a.jpg",
+        "https://telegra.ph/file/4e731cbdbdd52a949c7f5.jpg",
+        "https://telegra.ph/file/1b7b68723113ea8bae2f7.jpg",
+        "https://telegra.ph/file/6018e152622a78555e4e5.jpg",
+        "https://telegra.ph/file/934a0405d942546be973d.jpg",
+        "https://telegra.ph/file/db2f25b3d6633913172d5.jpg",
+        "https://telegra.ph/file/ef69155312493ab37b62a.jpg",
+        "https://telegra.ph/file/9930de9ebd61b1dfa3c82.jpg",
+        "https://telegra.ph/file/28078623cb248711f17c5.jpg",
+        "https://telegra.ph/file/ef478bc04b571f5c75a8b.jpg",
+        "https://telegra.ph/file/9cba2a1e591fbbc6c39cc.jpg",
+        "https://telegra.ph/file/cb8124290cd97493283e2.jpg",
+        "https://telegra.ph/file/e828ba5eb44c82d1e8d58.jpg",
+        "https://telegra.ph/file/d691e5927e2e0828db365.jpg",
+        "https://telegra.ph/file/fdd3fd63fb92ad147931f.jpg",
+        "https://telegra.ph/file/8d08f1a9db466af151c94.jpg",
+        "https://telegra.ph/file/2e2a6d167d64c42574db0.jpg",
+        "https://telegra.ph/file/14e04bf8c6f2ba6225bcd.jpg",
+        "https://telegra.ph/file/a4b9711188a391ddc888a.jpg",
+        "https://telegra.ph/file/a6485df7f3c7399ace0c2.jpg",
+        "https://telegra.ph/file/840c38ce8db5f2594348a.jpg",
+        "https://telegra.ph/file/cfeeba66801fe7cf0c58a.jpg",
+        "https://telegra.ph/file/7ffa422277ad17b3c2119.jpg",
+        "https://telegra.ph/file/d2e4d071896b29b5d9e37.jpg",
+        "https://telegra.ph/file/d3fc12d60868a9707f7d4.jpg",
+        "https://telegra.ph/file/bba3c655a9d328a7cbdad.jpg"
+    ]
+};

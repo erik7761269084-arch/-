@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47083,
+    "title": "凉凉子 OTS-14 Dress - Page 1",
+    "sourceUrl": "https://telegra.ph/凉凉子-OTS-14-Dress---Page-1-02-28",
+    "images": [
+        "https://telegra.ph/file/18b1625ae948003e8bf87.jpg",
+        "https://telegra.ph/file/e613dc14e7e282f7a184d.jpg",
+        "https://telegra.ph/file/55fd3bfaf133bb048567c.jpg",
+        "https://telegra.ph/file/2e9b644b32004aa6ce0e0.jpg",
+        "https://telegra.ph/file/31dd57f31f2c5488eb067.jpg",
+        "https://telegra.ph/file/5909ff98f79862b02a68d.jpg",
+        "https://telegra.ph/file/678efad90a5ab6dc512f3.jpg",
+        "https://telegra.ph/file/ed28da1abe95ec0a8f448.jpg",
+        "https://telegra.ph/file/c1b47e094664a106896fc.jpg",
+        "https://telegra.ph/file/16e99bbfeff712983622f.jpg",
+        "https://telegra.ph/file/82fa3f127a2ec0ad2762d.jpg",
+        "https://telegra.ph/file/102e93c1adb65a8c3c5cd.jpg",
+        "https://telegra.ph/file/231b21daa39f7245d702a.jpg",
+        "https://telegra.ph/file/81fb45ba468717dddbe82.jpg",
+        "https://telegra.ph/file/3882fd8ea63148d10f733.jpg",
+        "https://telegra.ph/file/6de06822a996aeb4ae4cd.jpg",
+        "https://telegra.ph/file/03d8508a49b61561a556f.jpg",
+        "https://telegra.ph/file/4cbe6ede6827a11562c97.jpg",
+        "https://telegra.ph/file/c7d047a9c6b9aadeb35a9.jpg",
+        "https://telegra.ph/file/cad165a358fd977677ad8.jpg",
+        "https://telegra.ph/file/b6193712e62084d13ea45.jpg",
+        "https://telegra.ph/file/637c9831ed0cc9a710b2a.jpg",
+        "https://telegra.ph/file/33088161612fb637a7d89.jpg",
+        "https://telegra.ph/file/64590115b29d925baff7c.jpg",
+        "https://telegra.ph/file/bdcd61e1237f89712f175.jpg"
+    ]
+};

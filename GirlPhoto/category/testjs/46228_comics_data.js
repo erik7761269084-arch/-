@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46228,
+    "title": "Hane Ame - 40 Hara sensei IYA PAN - Page 1",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---40-Hara-sensei-IYA-PAN---Page-1-12-08",
+    "images": [
+        "https://telegra.ph/file/97e46eeefb007c7d94f32.jpg",
+        "https://telegra.ph/file/9baa5a70caed75ed945c1.jpg",
+        "https://telegra.ph/file/6a257100e04896e36e30f.jpg",
+        "https://telegra.ph/file/c1100a87e794c90e5a302.jpg",
+        "https://telegra.ph/file/9ea1098e44f7196b24738.jpg",
+        "https://telegra.ph/file/1b7498977fd2cd4ec5e35.jpg",
+        "https://telegra.ph/file/2947509f04218e4bfa7c7.jpg",
+        "https://telegra.ph/file/fab5b94c8e4ecf252e5e2.jpg",
+        "https://telegra.ph/file/063d3e96aea672204751e.jpg",
+        "https://telegra.ph/file/80ebcaeaf95f34f4f7792.jpg",
+        "https://telegra.ph/file/5159ec9c6600c9a98d918.jpg",
+        "https://telegra.ph/file/9d79cf6e3e02d24193b3b.jpg",
+        "https://telegra.ph/file/c477ecad5cce3d6308e21.jpg",
+        "https://telegra.ph/file/1f2c46edad05354bd2e10.jpg",
+        "https://telegra.ph/file/193b670638eda9bcc16cb.jpg",
+        "https://telegra.ph/file/6b8a150012521bcaba218.jpg",
+        "https://telegra.ph/file/1b79e1b04f2801d12950c.jpg",
+        "https://telegra.ph/file/070b1c9e58e030848581e.jpg",
+        "https://telegra.ph/file/410ad356f579520cc1672.jpg",
+        "https://telegra.ph/file/a1874eda564b9307619e2.jpg",
+        "https://telegra.ph/file/1e257c16c4360460fdff5.jpg",
+        "https://telegra.ph/file/28676bad43dfda3f71e03.jpg",
+        "https://telegra.ph/file/5247d6d6c4ebefcb82119.jpg",
+        "https://telegra.ph/file/06303f07f9e30cb201171.jpg",
+        "https://telegra.ph/file/230b9a41e7095cc9c7495.jpg",
+        "https://telegra.ph/file/4ea965cc9b4de2dd5103c.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42410,
+    "title": "少女秩序 群内福利3 无水印",
+    "sourceUrl": "https://telegra.ph/%E5%B0%91%E5%A5%B3%E7%A7%A9%E5%BA%8F-%E7%BE%A4%E5%86%85%E7%A6%8F%E5%88%A93-%E6%97%A0%E6%B0%B4%E5%8D%B0-05-19",
+    "images": [
+        "https://telegra.ph/file/426bf051c85304d1d7c9c.jpg",
+        "https://telegra.ph/file/0caf4834a5693d3b63d3f.jpg",
+        "https://telegra.ph/file/595ed18ad1cf50d70c37c.jpg",
+        "https://telegra.ph/file/a31cd6cdb7b1bbe0fe159.jpg",
+        "https://telegra.ph/file/951315a74e70e903e0e11.jpg",
+        "https://telegra.ph/file/4d7a105ee3012345a15cb.jpg",
+        "https://telegra.ph/file/2759ddb32131f919994c9.jpg",
+        "https://telegra.ph/file/f8939f6e17c7a7f650066.jpg",
+        "https://telegra.ph/file/2ed346ef7fc5ed0c2c608.jpg",
+        "https://telegra.ph/file/a1c1dade4d94c661f36d0.jpg",
+        "https://telegra.ph/file/cb4f8dca10a6cb79e081f.jpg",
+        "https://telegra.ph/file/8a4b01c0213a168d24fe5.jpg",
+        "https://telegra.ph/file/fa8358def9783ca805a19.jpg",
+        "https://telegra.ph/file/41a04cc51f07b67997715.jpg",
+        "https://telegra.ph/file/f8d652db6f55c63fb4274.jpg",
+        "https://telegra.ph/file/ff70e8af4005fed47eddd.jpg",
+        "https://telegra.ph/file/b948beb0dbb43c6e57c3e.jpg",
+        "https://telegra.ph/file/ac64de42b85e91ffe92e9.jpg",
+        "https://telegra.ph/file/530a2d92e5a31d0f6d7de.jpg",
+        "https://telegra.ph/file/f6cf159e23b9b0ebc2283.jpg",
+        "https://telegra.ph/file/9190f50cde0bf84cc8155.jpg",
+        "https://telegra.ph/file/c1c0d66231c352d4a711e.jpg",
+        "https://telegra.ph/file/fcb1df3bbbbe3c8c713a0.jpg",
+        "https://telegra.ph/file/31e6619e34766de7e7d6b.jpg",
+        "https://telegra.ph/file/92d2d365b7c6fc278bfc1.jpg",
+        "https://telegra.ph/file/0ca270257b1cc225e948b.jpg"
+    ]
+};

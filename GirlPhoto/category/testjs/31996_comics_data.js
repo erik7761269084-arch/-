@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31996,
+    "title": "Ggubbu 꾸뿌, [SAINT Photolife] Ggubbu Vol.07 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/Ggubbu-꾸뿌-SAINT-Photolife-Ggubbu-Vol07-8211-Set02-10-05",
+    "images": [
+        "https://telegra.ph/file/d50dd2449a20d7cf46acc.jpg",
+        "https://telegra.ph/file/87a325a2943042f2ece3a.jpg",
+        "https://telegra.ph/file/bf0b1582c57ea74d1e76b.jpg",
+        "https://telegra.ph/file/3c9a131540272cdd8aadd.jpg",
+        "https://telegra.ph/file/ce5d199327e01ba0eb292.jpg",
+        "https://telegra.ph/file/67d263392240d83e0d756.jpg",
+        "https://telegra.ph/file/bc7ecde262ff1e7712186.jpg",
+        "https://telegra.ph/file/56449954aadf5d4b22cf3.jpg",
+        "https://telegra.ph/file/756cdf55fd9412d1cbfb0.jpg",
+        "https://telegra.ph/file/5d5742ec347ac474872a0.jpg",
+        "https://telegra.ph/file/3ed3d56fdbb0a80dece0c.jpg",
+        "https://telegra.ph/file/b5a788918b88730c874c6.jpg",
+        "https://telegra.ph/file/04bbae0f88e87f82d4236.jpg",
+        "https://telegra.ph/file/c25de6f348acb8bf606b6.jpg",
+        "https://telegra.ph/file/102d872ff80cfb478e588.jpg",
+        "https://telegra.ph/file/d4760e3f1d4a08b695e38.jpg",
+        "https://telegra.ph/file/a66f889690120d33c49a8.jpg",
+        "https://telegra.ph/file/f15b56a5e2f54764e350f.jpg",
+        "https://telegra.ph/file/f27d01bab837ba6fb8dcf.jpg",
+        "https://telegra.ph/file/10f534d335ec61315302b.jpg",
+        "https://telegra.ph/file/b42350d7682e5bc15b754.jpg",
+        "https://telegra.ph/file/9c24344f3c56dea6528c2.jpg",
+        "https://telegra.ph/file/ace4b5914e7736af8df1e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

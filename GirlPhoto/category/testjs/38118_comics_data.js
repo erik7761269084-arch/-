@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38118,
+    "title": "KuukoW - Asuka (Neon Génesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Asuka-Neon-Génesis-Evangelion-08-02",
+    "images": [
+        "https://telegra.ph/file/22d1dab74bf89382c05e9.jpg",
+        "https://telegra.ph/file/9ac92c1524e1effdb0a34.jpg",
+        "https://telegra.ph/file/6f561632b132fe2b390e9.jpg",
+        "https://telegra.ph/file/c3050a6efb68f4cab60c3.jpg",
+        "https://telegra.ph/file/2f45d27961c01b56625a8.jpg",
+        "https://telegra.ph/file/90ec9ee37564499d6f655.jpg",
+        "https://telegra.ph/file/c49f87a259eb159a31ca3.jpg",
+        "https://telegra.ph/file/1cc746579204be3a1649a.jpg",
+        "https://telegra.ph/file/a81e8ddb9bc434f2872a2.jpg",
+        "https://telegra.ph/file/d556a3883e9ffdc722a5a.jpg",
+        "https://telegra.ph/file/cfc249505f2ce3f7d5f52.jpg",
+        "https://telegra.ph/file/868f04b2ddebac4e9a6cc.jpg",
+        "https://telegra.ph/file/3034196f26254be12260a.jpg",
+        "https://telegra.ph/file/1f215c4b89098751b8805.jpg",
+        "https://telegra.ph/file/add737195ec7b32bab161.jpg",
+        "https://telegra.ph/file/6009d00e4d519b13d1734.jpg",
+        "https://telegra.ph/file/20b32f29107b06208d952.jpg",
+        "https://telegra.ph/file/a983f0ec0746b8cfc9a3c.jpg",
+        "https://telegra.ph/file/7c4aaa95edd47634d57af.jpg",
+        "https://telegra.ph/file/21983f280c25729f83f60.jpg",
+        "https://telegra.ph/file/ed61276f24304c9bf8d8b.jpg",
+        "https://telegra.ph/file/861fb2d6466843579ca27.jpg",
+        "https://telegra.ph/file/364ce910317e65b1429f7.jpg",
+        "https://telegra.ph/file/e8b3a5d0307d59df97bef.jpg"
+    ]
+};

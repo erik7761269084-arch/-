@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 25298,
+    "title": "九九八XY - 牛牛吖 [26P]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E4%B9%9D%E5%85%ABXY---%E7%89%9B%E7%89%9B%E5%90%96-26P-01-12",
+    "images": [
+        "https://telegra.ph/file/4ad441d079b558f3c4eff.jpg",
+        "https://telegra.ph/file/d7c04e5b2d0c82803b55c.jpg",
+        "https://telegra.ph/file/2af4260394c647bba4174.jpg",
+        "https://telegra.ph/file/6e61eb31d389b403f8aa8.jpg",
+        "https://telegra.ph/file/b14153df5d79dea650f10.jpg",
+        "https://telegra.ph/file/981812498d4b24e61bc1c.jpg",
+        "https://telegra.ph/file/cf3355962310d5c4aeb85.jpg",
+        "https://telegra.ph/file/5dc8190327d43c2b22bb0.jpg",
+        "https://telegra.ph/file/ef8a6d8343ee21b652a7f.jpg",
+        "https://telegra.ph/file/5bc884a1e9a6afa0b251f.jpg",
+        "https://telegra.ph/file/ed48df745d10a776f222e.jpg",
+        "https://telegra.ph/file/8fdfd817d240caef038c3.jpg",
+        "https://telegra.ph/file/bf4ef63964ce21ba0c467.jpg",
+        "https://telegra.ph/file/efc079b884214cb059cdc.jpg",
+        "https://telegra.ph/file/2d09ac531db20084af9b6.jpg",
+        "https://telegra.ph/file/0984173ef5dc397cb45de.jpg",
+        "https://telegra.ph/file/2ebd5dbce7420e00bc0d4.jpg",
+        "https://telegra.ph/file/8b02f35e953f38a625145.jpg",
+        "https://telegra.ph/file/bccbc9869bfd963fef06a.jpg",
+        "https://telegra.ph/file/1646a17908ba99a666c55.jpg",
+        "https://telegra.ph/file/9cf565012e78ad34d1243.jpg",
+        "https://telegra.ph/file/183b88637fa29f2e8f4b5.jpg",
+        "https://telegra.ph/file/5275aa93c10b33140be58.jpg",
+        "https://telegra.ph/file/23409a97bb81c71390220.jpg",
+        "https://telegra.ph/file/11696141f788e253888f9.jpg",
+        "https://telegra.ph/file/4020d1e618921198e276b.jpg"
+    ]
+};

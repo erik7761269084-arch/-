@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46385,
+    "title": "[西园寺南歌] 恶毒兔女郎 - Page 1",
+    "sourceUrl": "https://telegra.ph/西园寺南歌-恶毒兔女郎---Page-1-12-24",
+    "images": [
+        "https://telegra.ph/file/fdd96a61c4f34c86d87e5.jpg",
+        "https://telegra.ph/file/8cdae95d36a8250bd84b2.jpg",
+        "https://telegra.ph/file/74aac115e9791d351faa6.jpg",
+        "https://telegra.ph/file/12e8d9de9e01d5f0fe251.jpg",
+        "https://telegra.ph/file/f39bf75f7b355ebcc5283.jpg",
+        "https://telegra.ph/file/1efc6e94ab6c293f2730b.jpg",
+        "https://telegra.ph/file/8ca21a978f8f0d6e33f53.jpg",
+        "https://telegra.ph/file/d3675b101c0918e0fff7f.jpg",
+        "https://telegra.ph/file/cb9f624a61f8253d9a9ff.jpg",
+        "https://telegra.ph/file/b60e3e38a0f3f2a50b28a.jpg",
+        "https://telegra.ph/file/57a7182cd47e7fbd84821.jpg",
+        "https://telegra.ph/file/64fff1f612ff8a150add9.jpg",
+        "https://telegra.ph/file/8bfe23bf1d7f280fa69c8.jpg",
+        "https://telegra.ph/file/8513a180050782613fdc5.jpg",
+        "https://telegra.ph/file/bee475a37c240c1d1847f.jpg",
+        "https://telegra.ph/file/17286361e4c704558423f.jpg",
+        "https://telegra.ph/file/4c1c4b3c5f842df8be448.jpg",
+        "https://telegra.ph/file/044f5a784ea1ca9ac7bfe.jpg",
+        "https://telegra.ph/file/d8384b4940b0d2d341310.jpg",
+        "https://telegra.ph/file/c289883c97807fc0ab1dc.jpg",
+        "https://telegra.ph/file/68d16ad735bebaf50e40c.jpg",
+        "https://telegra.ph/file/6ae985ed9d46d4b76c728.jpg",
+        "https://telegra.ph/file/57a28e35318cbeaeab085.jpg",
+        "https://telegra.ph/file/2c262dbdfab81edffdf71.jpg",
+        "https://telegra.ph/file/db80de87e9b7065162c63.jpg"
+    ]
+};

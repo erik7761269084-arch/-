@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 28111,
+    "title": "[Cos]KuukoW - Taimanin Yukikaze[26P]",
+    "sourceUrl": "https://telegra.ph/CosKuukoW---Taimanin-Yukikaze26P-02-14",
+    "images": [
+        "https://telegra.ph/file/210a60ff57a6f9080f502.jpg",
+        "https://telegra.ph/file/2d71d046c62f3ecd00998.jpg",
+        "https://telegra.ph/file/9550cb986cb9d8086a284.jpg",
+        "https://telegra.ph/file/3045cd59757db1e200b72.jpg",
+        "https://telegra.ph/file/29c3a4dc8b4fcfc421651.jpg",
+        "https://telegra.ph/file/c3b1f8d127c1cf710aaf4.jpg",
+        "https://telegra.ph/file/6bd4825ca1a0ee5f683ec.jpg",
+        "https://telegra.ph/file/2b16b0a804e5b890fd418.jpg",
+        "https://telegra.ph/file/4645994cb9ecb375ec02b.jpg",
+        "https://telegra.ph/file/4552cbffcecab3a6cea6e.jpg",
+        "https://telegra.ph/file/a77ce907af16504b4000d.jpg",
+        "https://telegra.ph/file/69f2ac7d9e62f3b19a640.jpg",
+        "https://telegra.ph/file/22d32ee8ccf2c540fcd51.jpg",
+        "https://telegra.ph/file/87beea50db6393061391d.jpg",
+        "https://telegra.ph/file/dde7ae0f80d32bf51d264.jpg",
+        "https://telegra.ph/file/5c66798a5392ed827baeb.jpg",
+        "https://telegra.ph/file/95b98e92e0c52b44e8005.jpg",
+        "https://telegra.ph/file/e84131d0ee685d8a79d68.jpg",
+        "https://telegra.ph/file/7d24d0534ab1030cb320e.jpg",
+        "https://telegra.ph/file/f80acf98f5cd7bf1846fa.jpg",
+        "https://telegra.ph/file/a36b35c6a807e62a2ccd3.jpg",
+        "https://telegra.ph/file/0bf160e586cf2236d7e8b.jpg",
+        "https://telegra.ph/file/16f484aee83c443c6ad30.jpg",
+        "https://telegra.ph/file/b12aef8cbea291eab512e.jpg",
+        "https://telegra.ph/file/ffa8ce4c0662ee012c7c3.jpg",
+        "https://telegra.ph/file/a6fe2077febbda1095dc7.jpg"
+    ]
+};

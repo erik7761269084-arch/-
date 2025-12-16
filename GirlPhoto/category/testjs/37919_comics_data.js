@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37919,
+    "title": "Sarah Carvalho - Chika Fujiwara (Kaguya Sama wa Kokurosetai)",
+    "sourceUrl": "https://telegra.ph/Sarah-Carvalho---Chika-Fujiwara-Kaguya-Sama-wa-Kokurotekai-06-23",
+    "images": [
+        "https://telegra.ph/file/6d3f1a8f0da17be0a929d.jpg",
+        "https://telegra.ph/file/12c590a206912732cc8f7.jpg",
+        "https://telegra.ph/file/26be6a6423d024917d49d.jpg",
+        "https://telegra.ph/file/0a1dba49e2dcc0aa11cb5.jpg",
+        "https://telegra.ph/file/8d31180d4406008f3a388.jpg",
+        "https://telegra.ph/file/f19dd8bac9e79e900f172.jpg",
+        "https://telegra.ph/file/40018aa0732d9f473d54b.jpg",
+        "https://telegra.ph/file/61e54f51cb0e7d2acb4f2.jpg",
+        "https://telegra.ph/file/3e93c9d8752803b6f83fe.jpg",
+        "https://telegra.ph/file/23876a93ff891033c7bb9.jpg",
+        "https://telegra.ph/file/99ad9db08b5f9b4ec46d6.jpg",
+        "https://telegra.ph/file/18aa45f4227c9493693f1.jpg",
+        "https://telegra.ph/file/62cc0cef4f471198114cb.jpg",
+        "https://telegra.ph/file/f9df5653e13f8e6ad2914.jpg",
+        "https://telegra.ph/file/f7e101579e49f18625829.jpg",
+        "https://telegra.ph/file/2a7a4629476acf8f91662.jpg",
+        "https://telegra.ph/file/228a87722253c9453e3dc.jpg",
+        "https://telegra.ph/file/a34d7d904c02d79613be6.jpg",
+        "https://telegra.ph/file/349298f5c8c12465d9740.jpg",
+        "https://telegra.ph/file/d54c941751c513551df07.jpg",
+        "https://telegra.ph/file/90491ae6ef46f5778fdc5.jpg",
+        "https://telegra.ph/file/e6f6f8aaffd5fc2ba5873.jpg",
+        "https://telegra.ph/file/ce60ee253ad24302a9e5b.jpg",
+        "https://telegra.ph/file/b12a9aef8daefd3ff3b2c.jpg"
+    ]
+};

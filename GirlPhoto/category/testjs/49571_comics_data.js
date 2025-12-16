@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49571,
+    "title": "雨波HaneAme - Ada Wong Lingerie - Page 1",
+    "sourceUrl": "https://telegra.ph/雨波HaneAme---Ada-Wong-Lingerie---Page-1-02-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvG9nngABT3f-lIgK8ab6duy39aOVvA0AAoQRAAIx1vFU-V8Y55J4rrQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHBnngABUgza46vf_WHsmxfqAxBPojMAAoURAAIx1vFUQWcGk749V9c2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHFnngABVNEp858xQAmBMc5L57X1yD8AAoYRAAIx1vFUGO4iVqCEXDo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHJnngABVuFD3U4679XIOQ1cMkAvipYAAocRAAIx1vFUD4qWwk8t51c2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHNnngABWEltblTaYl_APCEmbp1lJq4AAogRAAIx1vFUyZGUtJi3ItU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHRnngABWgHyxE_34ojjuAzvfFETGr4AAokRAAIx1vFUBUj1ztqacVI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHVnngABXCzv5dUpKD2O16m4EtXbVl8AAooRAAIx1vFUBJHtziyj7TQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHZnngABXrzwqlp1JlAqQA2FI6r0jAgAAosRAAIx1vFUuhdmfwNur4o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHdnngABXxwksDoFJearta8cNZBf3DQAAowRAAIx1vFU2qTN94NK-bs2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHhnngABYceQqmeuKsLAWR9HWDgk-rQAAo0RAAIx1vFU-tCL7Xpn3dI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHlnngABY88sxHhGPPtQRjRPKyfPls0AAo4RAAIx1vFU9Rr5SFzF9gw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHpnngABZRZmqdJBdIw89oilFOqMPbkAAo8RAAIx1vFUbJgKO6XdtAABNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHtnngABZ__75jroOBxZk7KcgXQYKo0AApARAAIx1vFUdwbQalO4G6o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvHxnngABaUyk1PYiGZLyLANpJNqJhHAAApERAAIx1vFUbnTAPYyaKgc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvH1nngABa7aoSZFNTWTp9p9GMXjKC18AApIRAAIx1vFUJA-pHrl7MAI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvH5nngABbfH5RuxVXVOgW7Jt_zRToykAApMRAAIx1vFUstdiHfapu4w2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvH9nngABb6ngHEh4-tcseGGDAy1ObUAAApQRAAIx1vFUQ7tnmw824oA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIBnngABcWtLpZ8EY2POMLWkVwpn64wAApURAAIx1vFUdAYGLNenzko2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIFnngABcyYLCW8YA9NndYXl3k3Pu2UAApYRAAIx1vFUEc-BbOC8Y0U2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIJnngABdAtbMbQ1URVuTgSNCGZnJkkAApcRAAIx1vFUULBAzo55of42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvINnngABtHBZbtNuRxHgivtnNF19bK0AApgRAAIx1vFU4JjP3I9mR_42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIRnngABtsISp_32OtMkUTBGbViGar4AApkRAAIx1vFUxEEWIMkT_Fo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIVnngABty6ox1MCaa5Yx24P6bSBvpUAApoRAAIx1vFU04JQaVpHP8I2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIZnngABufMtPf0XInJaqpckzKGeILYAApsRAAIx1vFUlQIg1HZUl2c2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEvIdnngABuxy8SweHs6VZmci9i0NUqRoAApwRAAIx1vFUd_cDEqemTI02BA"
+    ]
+};

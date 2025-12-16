@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 46649,
+    "title": "Alina Becker - 2B Raining - Page 1",
+    "sourceUrl": "https://telegra.ph/Alina-Becker---2B-Raining---Page-1-01-21",
+    "images": [
+        "https://telegra.ph/file/66494ebc72fbfb7f86d89.jpg",
+        "https://telegra.ph/file/881df84e32cc3922821b5.jpg",
+        "https://telegra.ph/file/ae4536d764a830c8c1380.jpg",
+        "https://telegra.ph/file/9cc7387b849cdd161aa64.jpg",
+        "https://telegra.ph/file/dfd27cc2830d5dcac48c9.jpg",
+        "https://telegra.ph/file/cdd45e38a15ac64f901d7.jpg",
+        "https://telegra.ph/file/5bcfa4037ff7922146ca4.jpg",
+        "https://telegra.ph/file/bf26e0bb5d587dc34ea85.jpg",
+        "https://telegra.ph/file/34e136fd3888cd3070f1f.jpg",
+        "https://telegra.ph/file/be32d2eea269145ce4e77.jpg",
+        "https://telegra.ph/file/d9bfb31431e608d7fba01.jpg",
+        "https://telegra.ph/file/a2d57e8014eeeb6f01a94.jpg",
+        "https://telegra.ph/file/46fc00a1eaea2fe208850.jpg",
+        "https://telegra.ph/file/26d9f237d2c0a1f92cb37.jpg",
+        "https://telegra.ph/file/e81b1e5decd633b7f7e4f.jpg",
+        "https://telegra.ph/file/913ce4ad605ef4d9f198f.jpg",
+        "https://telegra.ph/file/cb5cbec20ed504ef88f2f.jpg",
+        "https://telegra.ph/file/7520296872ae9ce0b8242.jpg",
+        "https://telegra.ph/file/0b606b752977e5426f216.jpg",
+        "https://telegra.ph/file/0aa714b65a070c0fcecbb.jpg",
+        "https://telegra.ph/file/ce7bb4dc92c1a7663410a.jpg",
+        "https://telegra.ph/file/85b1573fa5deeca67dfa4.jpg",
+        "https://telegra.ph/file/56d154c03fa224046ea65.jpg"
+    ]
+};

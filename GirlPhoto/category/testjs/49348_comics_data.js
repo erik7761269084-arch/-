@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49348,
+    "title": "麻花酱 - 托帕 - Page 1",
+    "sourceUrl": "https://telegra.ph/麻花酱---托帕---Page-1-01-18",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0JlnjClCyzM-3pftPMpjPhV1_N_x9wACfRYAAqjGaVRx8UtSaQoISjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0JpnjClbwbgHHrCJApuvRtEBJV3NoAACfhYAAqjGaVR3KUv7zkXM8DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0JtnjClwvXwHqXzU0ByEWGNEIYGuZQACfxYAAqjGaVRhr7HzF4MzVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0JxnjCmC1GzMiasdt5sgkYZ_OjeU6wACgBYAAqjGaVQYC5MKL0NW8DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0J1njCmZSvP5Sx07rKsoN_RSuHnU-gACgRYAAqjGaVQ8AsWwf9IWzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0J5njCmrvFyYI0JVeL_aebkDEZnUugACghYAAqjGaVS5iOOPzHBy1TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0J9njCmwwS48ttUZEtnKiynFL_pD7wACgxYAAqjGaVQtUSoHoD8ByjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KBnjCnEs8Edg7YIa4BcEc0cHjt4qAAChBYAAqjGaVRn-B7C7xDYqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KFnjCnT81OltKU6R3FNt24SRHs5VwAChRYAAqjGaVT8AhvA8_p7GzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KJnjCnblcI93fcf4mM_-8-6HxcO8AAChhYAAqjGaVR1uIWKQSi0yjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KNnjCnrIjhPbpGnESKjcr4n4wABA9sAAocWAAKoxmlUQf0SPUIgKy82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KRnjCn2P_xR7dGu07XRVz1L1eahewACiBYAAqjGaVSQG0-ZbKES9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KVnjCn5svTvL4hD_lHcV8G3jOIkIQACiRYAAqjGaVRKkLvbf2xGjTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KZnjCoGwByrSDOEFNuyqQ2kcJzLhQACihYAAqjGaVTvrIxKDztndzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KdnjCoJUXXArE2jGDDrX09s9r-PqgACixYAAqjGaVSiYI6nHb39DTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KhnjCoMPoQ499QuvqMwK1JziTH-WQACjBYAAqjGaVQVP81smK6jbzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KlnjCoP_Xa9el24F6629o9PRQcx_QACjRYAAqjGaVS7KLb82SKHwzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KpnjCoSWhryJ5IXF3afZWsNM41TWwACjhYAAqjGaVSdq_oIhw53jjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KtnjCoWCCo1WUz57iQgtH2_-iyZMwACjxYAAqjGaVTxEYPpTb6tzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0KxnjCoZa8e5gfNqvvLQLQfVvHu_NgACkBYAAqjGaVQCcjkDUfmhnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0K1njCocMVK1qQABRMJc900yDBD7tpwAApEWAAKoxmlU-hjNXVdmhGE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0K5njCofcKY0gKtf1jpXO4Tg4GGsZwACkhYAAqjGaVTVygfeKgeVkzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0K9njCoiJPVFcMwAAVRk8PgYIKpLLOAAApMWAAKoxmlU17Y_2XKWcfM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0LBnjColJ_Y0aneJy6S4nK0Q673ewQAClBYAAqjGaVRuJEERPwwXjTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0LFnjCosB55G-6OMPBaKM0o_KJhhGAAClRYAAqjGaVThSbKyt2Z9xTYE"
+    ]
+};

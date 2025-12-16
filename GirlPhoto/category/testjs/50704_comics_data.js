@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 50704,
+    "title": "Meenfox - Kitagawa Marin - Page 1",
+    "sourceUrl": "https://telegra.ph/Meenfox---Kitagawa-Marin---Page-1-07-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1FoY9MSfLwCn1jHT92zuqCxgYfEIAACwioAAhInGFfwMYlj1oWSPDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1JoY9MXii9tA2zPkf5kbPQEK2XkkwACxCoAAhInGFexn1MTwLdPZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1NoY9MZ2vK2qQko-Bbgs5U7wwH03wACxSoAAhInGFeq5AKMsc14XjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1RoY9MakVuKfvBgTziosvS8HRpccgACxyoAAhInGFfiyN51ISzIxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1VoY9McI8qk98b0RLz9HsOYJ_hufQACyCoAAhInGFc6dTXj8hMZUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1ZoY9Md7sbtVy-JBw4m7h1LFDPdUwACySoAAhInGFcrr5ZZG0XUajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1doY9MfpXyUVkmhJ98KH8YhOkGUXwACyioAAhInGFcshUx9wRv1yTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1hoY9MgTWJw31mJnjlwI95xcLrkkwACyyoAAhInGFfMajQ-xIpSBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1loY9MiXrWJ2s-rQuhbqUhtPOsO0QACzCoAAhInGFcHcErvY-IfBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1poY9MjqmDhKcKv3VHpDyMhOQ_OBwACzSoAAhInGFcCAAENBRdS1Oc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1toY9Mly3wn5FS0v-HIcx3t2ze6qgACzioAAhInGFeRdcwMOzwYXDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO1xoY9Mmk7WZtPgifl8qiYtyl3YfGgACzyoAAhInGFc6MeRcW4863jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO11oY9Mo-gx_nBQ_Pt0TFXHkYkHehAAC0CoAAhInGFe2jCdwmsX7WDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO15oY9MpcyC8g9JFyG_1EQvKtvn4fAAC0SoAAhInGFdwL0FWP9HtgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO19oY9Mrl6gQf90HM6d-_AP9TReRvQAC0ioAAhInGFc_BcE0ZhWHkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2BoY9MsRpXjZwAB4CeZN8-BVa4egbQAAtMqAAISJxhXSRMg5g82vkc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2FoY9Mu_RvMcQ1RFIgSdVbJTjiXsQAC1CoAAhInGFfgM0UGF2aPIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2JoY9Mvwv8uoNxzuNL7pnrfAAGBRdYAAtUqAAISJxhXqanh3ruIGPA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2NoY9MxhYp414n5X3FgVz8NKLZK-gAC1ioAAhInGFcNziSMvVbXSjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2RoY9MyVVzR2aN4ZQudAsnATFFpegAC2CoAAhInGFfhB1gqKYwrhTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2VoY9Ny-Wjf2RAYxx3PcTgR7u3yrQAC4CoAAhInGFffF5tYiuT1STYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2ZoY9N0mcjkdq1Amds-1GOeE7CVxgAC4SoAAhInGFdW8PgByUVqEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2doY9N1LdurQn5eatVEnFAR_b1ASAAC4ioAAhInGFc-YvVHPJn-PzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2hoY9N2Cj3xZHzOK3jiUWb3b5Sk6QAC4yoAAhInGFforUggYFrpJTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENO2loY9N4VuYhXC5chtWGr-UjqYQZhgAC5CoAAhInGFcgdzp7wHVqDjYE"
+    ]
+};

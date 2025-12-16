@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25023,
+    "title": "[Cos]果咩酱w - 浴缸 [25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E6%9E%9C%E5%92%A9%E9%85%B1w---%E6%B5%B4%E7%BC%B8-25P-10-12",
+    "images": [
+        "https://telegra.ph/file/184cdf9e458bc0a54517e.jpg",
+        "https://telegra.ph/file/0990b459979d62af98c57.jpg",
+        "https://telegra.ph/file/dc21eb9cb34b06036dfec.jpg",
+        "https://telegra.ph/file/6ff98b7ae1072431f8fc8.jpg",
+        "https://telegra.ph/file/bb87934b08b5ea78f69ac.jpg",
+        "https://telegra.ph/file/4266c570c08d096abfcbe.jpg",
+        "https://telegra.ph/file/2ab6f66a2c024f19739e8.jpg",
+        "https://telegra.ph/file/aad1dd9b5857ffebf0bbe.jpg",
+        "https://telegra.ph/file/82abf1307c54466118453.jpg",
+        "https://telegra.ph/file/053e05c3e6f6113f028c6.jpg",
+        "https://telegra.ph/file/0d46eb651c8d067b7b7a5.jpg",
+        "https://telegra.ph/file/593a62d6ec512dfebf655.jpg",
+        "https://telegra.ph/file/c2b254363ac2f4fcbc804.jpg",
+        "https://telegra.ph/file/8e2f5cac590b90db58004.jpg",
+        "https://telegra.ph/file/07d59f838aa5bc0aae914.jpg",
+        "https://telegra.ph/file/71458508bddb99cc88093.jpg",
+        "https://telegra.ph/file/6775292a5082ca0b8b171.jpg",
+        "https://telegra.ph/file/effbc2b64e81b936b59cc.jpg",
+        "https://telegra.ph/file/ef77de78ebb203de1c9d5.jpg",
+        "https://telegra.ph/file/54c84790441ec8eb2e558.jpg",
+        "https://telegra.ph/file/61cf831f81a6ff66cee07.jpg",
+        "https://telegra.ph/file/ed6dfbbb0674c6186fb01.jpg",
+        "https://telegra.ph/file/f3cc0e34fdfc90b7f37a1.jpg",
+        "https://telegra.ph/file/7fddc91e4adef6013dac1.jpg",
+        "https://telegra.ph/file/3346df204a3f7162c2a95.jpg"
+    ]
+};

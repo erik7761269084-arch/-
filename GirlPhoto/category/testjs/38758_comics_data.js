@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38758,
+    "title": "Kerocchi - Gawr Gura (Hololive)",
+    "sourceUrl": "https://telegra.ph/Kerocchi---Gawr-Gura-Hololive-01-24",
+    "images": [
+        "https://telegra.ph/file/b310fbc5a8d529af96bfd.jpg",
+        "https://telegra.ph/file/f611ef37b474df12b3b81.jpg",
+        "https://telegra.ph/file/a086bc898de87639a2307.jpg",
+        "https://telegra.ph/file/ada1c96fe63dabe2be50f.jpg",
+        "https://telegra.ph/file/b9ff0ed189616a2e3ce5e.jpg",
+        "https://telegra.ph/file/bea94f48c4096da2c17eb.jpg",
+        "https://telegra.ph/file/c7f5b112af52f14bd518b.jpg",
+        "https://telegra.ph/file/47fc2b3535206c47a4174.jpg",
+        "https://telegra.ph/file/904d67811789eff292d40.jpg",
+        "https://telegra.ph/file/4c3dab155e258fd68eb1d.jpg",
+        "https://telegra.ph/file/e84802f0bd822df544ac8.jpg",
+        "https://telegra.ph/file/244fbcf229f86ba315479.jpg",
+        "https://telegra.ph/file/3047b619c7ef5c3181ab5.jpg",
+        "https://telegra.ph/file/1dd33cd4805afcce7dfcc.jpg",
+        "https://telegra.ph/file/ecfd0f724df3691b72271.jpg",
+        "https://telegra.ph/file/ca29d274998add2d3a4a5.jpg",
+        "https://telegra.ph/file/ade90eee7737675cba2d0.jpg",
+        "https://telegra.ph/file/e4f2051bf8041b6cb5381.jpg",
+        "https://telegra.ph/file/73598b7632b2bad0e87e9.jpg",
+        "https://telegra.ph/file/0eb39ff93914a7a4e9e91.jpg",
+        "https://telegra.ph/file/08118e2eff1d181c5315c.jpg",
+        "https://telegra.ph/file/c91de41b45acbab7c1462.jpg",
+        "https://telegra.ph/file/88d888316d970b0123d3e.jpg",
+        "https://telegra.ph/file/f73eb0503ae3d47a954da.jpg",
+        "https://telegra.ph/file/7f85a0027588ccf4c052c.jpg"
+    ]
+};

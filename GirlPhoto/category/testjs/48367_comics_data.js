@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48367,
+    "title": "Potato Godzilla - Lumine Hoyofest - Page 1",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Lumine-Hoyofest---Page-1-06-24",
+    "images": [
+        "https://telegra.ph/file/eebd3aee6c3471d87e69f.jpg",
+        "https://telegra.ph/file/a2dbc5764f635b5c739d7.jpg",
+        "https://telegra.ph/file/47025e5381db25c53e268.jpg",
+        "https://telegra.ph/file/7c77fc3ebf0ea4805049f.jpg",
+        "https://telegra.ph/file/0ea5ed653e4ea8f2cd951.jpg",
+        "https://telegra.ph/file/f4bb9e0418d969bed55b8.jpg",
+        "https://telegra.ph/file/cda35e7c1a7d8446e500f.jpg",
+        "https://telegra.ph/file/5b4e7bb12886543647ca6.jpg",
+        "https://telegra.ph/file/168c9630b525ff4e5f565.jpg",
+        "https://telegra.ph/file/25d36848c5969b72de9b8.jpg",
+        "https://telegra.ph/file/dcccc782a982bae709b38.jpg",
+        "https://telegra.ph/file/a88a3aa149e7627e44f24.jpg",
+        "https://telegra.ph/file/b154388f3601589bd8af1.jpg",
+        "https://telegra.ph/file/58a3623d3f76b903140dd.jpg",
+        "https://telegra.ph/file/a3d3e90bb3c06affe643b.jpg",
+        "https://telegra.ph/file/4ca686ba4373be1959517.jpg",
+        "https://telegra.ph/file/159c068e539398da289b1.jpg",
+        "https://telegra.ph/file/d939b04c33982405fdc2b.jpg",
+        "https://telegra.ph/file/089d970ee2f6d3a33a1ed.jpg",
+        "https://telegra.ph/file/3f27bd9f8d5d86dc7c903.jpg",
+        "https://telegra.ph/file/1ebcfb53773f83445da4c.jpg",
+        "https://telegra.ph/file/1e58fb11fb24be6515074.jpg",
+        "https://telegra.ph/file/8c31b8b34ad782f3f3deb.jpg",
+        "https://telegra.ph/file/7b6023194a0bb5a8fbe10.jpg",
+        "https://telegra.ph/file/1bd952046142ba02c151d.jpg"
+    ]
+};

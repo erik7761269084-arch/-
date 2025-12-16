@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34385,
+    "title": "Cosplay 云溪溪Yunx1x1 星澜是澜澜叫澜妹呀 如勾 Set.02",
+    "sourceUrl": "https://telegra.ph/Cosplay-云溪溪Yunx1x1-星澜是澜澜叫澜妹呀-如勾-Set02-06-08",
+    "images": [
+        "https://telegra.ph/file/eafcae9c5ec03ff6394d0.jpg",
+        "https://telegra.ph/file/3a3f478adfa958ab187d5.jpg",
+        "https://telegra.ph/file/336c7f5d73ad72d46769e.jpg",
+        "https://telegra.ph/file/e25db6942a5f8a4afa779.jpg",
+        "https://telegra.ph/file/ef3851b890ffcda58dba9.jpg",
+        "https://telegra.ph/file/d4688ecf2df9db356b468.jpg",
+        "https://telegra.ph/file/08350c2215da0b6eb0ce5.jpg",
+        "https://telegra.ph/file/aa3e2d903034f6e44ef00.jpg",
+        "https://telegra.ph/file/1b1e8646a10ca971740b1.jpg",
+        "https://telegra.ph/file/42b902952a0b67aad6565.jpg",
+        "https://telegra.ph/file/718588a630bcee01bc459.jpg",
+        "https://telegra.ph/file/dd2ca9213d0fc56b3ad82.jpg",
+        "https://telegra.ph/file/42ccb59fcff496dc12dfb.jpg",
+        "https://telegra.ph/file/41b29733a2be232094eb7.jpg",
+        "https://telegra.ph/file/9d617b6ad38cb92b64122.jpg",
+        "https://telegra.ph/file/b4f30dca0eaf4bf09abfe.jpg",
+        "https://telegra.ph/file/96fd0a807da44365c413a.jpg",
+        "https://telegra.ph/file/aa53c165a066b834fc191.jpg",
+        "https://telegra.ph/file/39651839cedd910a9da97.jpg",
+        "https://telegra.ph/file/269566867332cf634f871.jpg",
+        "https://telegra.ph/file/095babb958f47afb8a1cb.jpg",
+        "https://telegra.ph/file/e254f0e13987ebaeb67e2.jpg",
+        "https://telegra.ph/file/0ef8d8c622ad1fd523c60.jpg",
+        "https://telegra.ph/file/6f5d5fd6e8b4c664f2b8a.jpg",
+        "https://telegra.ph/file/ad7029d7073e70875a8a3.jpg"
+    ]
+};

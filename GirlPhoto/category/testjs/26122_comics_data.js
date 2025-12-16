@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26122,
+    "title": "清水由乃-爱宕泳装Ver[25P]",
+    "sourceUrl": "https://telegra.ph/%E6%B8%85%E6%B0%B4%E7%94%B1%E4%B9%83-%E7%88%B1%E5%AE%95%E6%B3%B3%E8%A3%85Ver25P-08-17",
+    "images": [
+        "https://telegra.ph/file/444d8a78ce794dbc896d5.jpg",
+        "https://telegra.ph/file/ac2051dc55bf07274b999.jpg",
+        "https://telegra.ph/file/d3fd2d824916f7733f87c.jpg",
+        "https://telegra.ph/file/76095f1fdbbe4ee02bc85.jpg",
+        "https://telegra.ph/file/5907f51b7275323e29ed4.jpg",
+        "https://telegra.ph/file/03e8552b4edfa5c6691fc.jpg",
+        "https://telegra.ph/file/022ea3c6d37779458181f.jpg",
+        "https://telegra.ph/file/58757c413007be475c5fc.jpg",
+        "https://telegra.ph/file/fe0c1460fe7447b636522.jpg",
+        "https://telegra.ph/file/3027bc2b133fecb1003ff.jpg",
+        "https://telegra.ph/file/0160725b447ad94552996.jpg",
+        "https://telegra.ph/file/968674d17dc7d84d717f3.jpg",
+        "https://telegra.ph/file/24ed9ab364688d988a308.jpg",
+        "https://telegra.ph/file/4a4e43e86b6743e8c69ff.jpg",
+        "https://telegra.ph/file/e2a0698fe9d9ca0a1fdca.jpg",
+        "https://telegra.ph/file/a5de3a37502d93a28b2f1.jpg",
+        "https://telegra.ph/file/f2b08ca7c8377d23a844b.jpg",
+        "https://telegra.ph/file/686312223683ccedf1ee2.jpg",
+        "https://telegra.ph/file/4cffe52e0b2015b3b79b8.jpg",
+        "https://telegra.ph/file/5f331fdf76a97242f3373.jpg",
+        "https://telegra.ph/file/ac7dd4ff2fe28c86cb4c2.jpg",
+        "https://telegra.ph/file/b42509b2cdbfad245566e.jpg",
+        "https://telegra.ph/file/4ab0aaa857076424a9212.jpg",
+        "https://telegra.ph/file/4ea80e71065907240a0a1.jpg",
+        "https://telegra.ph/file/58249c993cb72ab461a70.jpg"
+    ]
+};

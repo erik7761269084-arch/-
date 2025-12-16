@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50469,
+    "title": "Byoru & Hana Bunny - Fern and Frieren Sousou no Frieren - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru--Hana-Bunny---Fern-and-Frieren-Sousou-no-Frieren---Page-1-05-21",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfNoLTNtSjNFcq0FnmTGV2QuXvDGlQACzhUAAgeucVVjvn4ppqNpjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfRoLTNv1ocrGB3nAuNiM93baMKWtAACzxUAAgeucVU-uyFsqWxx1zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfVoLTNwZUbK6o9JApsx_oHBV4IVtAAC0BUAAgeucVXIaQABQj8o6Tw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfZoLTNygHLF2Ed5kA3gia3Dv2y2wQAC0RUAAgeucVVbQkht6ZHi9zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfdoLTN0bD8uauKjkgh0TtmQ7Xo04wAC0hUAAgeucVXPSk2E44DgWTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfhoLTN2NBL2zA6sT0GeSFHXOp64DQAC0xUAAgeucVXq262rhxr4tjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfloLTN3xZv2N42viX0LVZRm3IBrKgAC1BUAAgeucVUP5qSidqo89jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfpoLTN4E7H948d-AAHMys-dMGO-HPYAAtUVAAIHrnFVRCDKdwYnJGw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSftoLTN6EHw6FWDZffPToZ8nASuC3AAC8BUAAsAkaVXbsJd5KltfXzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSfxoLTN7wDdtUWWM9uOfx1XVHnpWjwAC1hUAAgeucVX3p2vS-_E-wTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSf1oLTN97YVVg1Obkz_GmPQ2BhKjdAAC1xUAAgeucVWVGeduu8sdgzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSgdoLTO8Oo9B9RDXexUXXnOIKuJk5AAC4BUAAgeucVWFviA_cLZufDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSghoLTO-BO8vrRNEnFfbN3fOC7wCdgAC4RUAAgeucVX54nAbp53MLzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSgloLTO_hyAcKNkylMYEueDrRJ08rAAC4hUAAgeucVWUKt9n8E0fbzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSgpoLTPBGhzFrgvPAAHKXM51gT-U0r4AAuMVAAIHrnFVCVX8oRNDWvc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSgtoLTPDCxxf2MjKeJPDGH2UqPDP4AAC5BUAAgeucVU_i9kcd7ngEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSgxoLTPENEcP8HT5PoKenZju7FoYTQAC5RUAAgeucVVVxVXavKuyizYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSg1oLTPGOXVEG_lkzItL5vZbVhC3AAPmFQACB65xVT27JwlX6U61NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSg5oLTPIU1E0CbP4tX0lLbnLMfvWpwAC5xUAAgeucVX62eZyurRPeTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELSg9oLTPKP8uxPudB8YYdxQ8fQPWOtQAC6BUAAgeucVUXwnMmcJ5m7jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELShBoLTPLYCYMHqqlbh1O-u9hZeCAPQAC6RUAAgeucVV8iLr3jh2mezYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELShJoLTPNYuIoajN1OurtS1hyvTdRbwAC6xUAAgeucVXBIYNLKBOPBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELShRoLTPPkZgf9-917xsZ12Kl9b1TVgAC7RUAAgeucVUy8sO3zbDfNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELShZoLTPVMd2j_oCLv-2Bchts7Zg5gAAC7xUAAgeucVXAu00NvVXoqzYE"
+    ]
+};

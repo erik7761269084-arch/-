@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35920,
+    "title": "Cosplay 瓜希酱 总司 水着",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-总司-水着-11-11",
+    "images": [
+        "https://telegra.ph/file/0126ab8c53a636917427b.jpg",
+        "https://telegra.ph/file/4baf0a9e11ac173e5be61.jpg",
+        "https://telegra.ph/file/55fe1c0fbf6b226e9afa0.jpg",
+        "https://telegra.ph/file/bbf7f6e244d2a05569aae.jpg",
+        "https://telegra.ph/file/676224147e5251208a82c.jpg",
+        "https://telegra.ph/file/d441289f4319d745270a5.jpg",
+        "https://telegra.ph/file/8f79579624ce88203ca9f.jpg",
+        "https://telegra.ph/file/7a443790374084593e837.jpg",
+        "https://telegra.ph/file/dc2ce4a90095c5c9edece.jpg",
+        "https://telegra.ph/file/81ed169e0cc28d186a66c.jpg",
+        "https://telegra.ph/file/719a31538fef077bf77bd.jpg",
+        "https://telegra.ph/file/842a8ab9e88520d791e79.jpg",
+        "https://telegra.ph/file/6b5dbcb04c27076f1e702.jpg",
+        "https://telegra.ph/file/34844b165b775772ebc46.jpg",
+        "https://telegra.ph/file/0b282cc1bffea9454d878.jpg",
+        "https://telegra.ph/file/30eae6d0d9e98115f7bea.jpg",
+        "https://telegra.ph/file/e247ac16e487a4cbc7fdd.jpg",
+        "https://telegra.ph/file/c697991fbcab0ed0c685d.jpg",
+        "https://telegra.ph/file/0eeeb21a58a7642ddca59.jpg",
+        "https://telegra.ph/file/1ed82497daf64a761c67d.jpg",
+        "https://telegra.ph/file/5da7e74ffb22cd3765834.jpg",
+        "https://telegra.ph/file/645ed8ecb0d1fa3a16fa6.jpg",
+        "https://telegra.ph/file/dc80d01099f16e20c8166.jpg",
+        "https://telegra.ph/file/9eb0b0a62fb0626cfabca.jpg"
+    ]
+};

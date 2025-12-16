@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28185,
+    "title": "Misaki Suzuki - 欲求不满的她",
+    "sourceUrl": "https://telegra.ph/Misaki-Suzuki---%E6%AC%B2%E6%B1%82%E4%B8%8D%E6%BB%A1%E7%9A%84%E5%A5%B9-05-13",
+    "images": [
+        "https://telegra.ph/file/d0568c1b731c833a11997.jpg",
+        "https://telegra.ph/file/0b25ec1f484e836b9da09.jpg",
+        "https://telegra.ph/file/ab1f52fb8a0c505eb1f12.jpg",
+        "https://telegra.ph/file/bfffd33f651d4a95eebaf.jpg",
+        "https://telegra.ph/file/d02bff08e131544d70698.jpg",
+        "https://telegra.ph/file/9855c2e5c00bd74f06d48.jpg",
+        "https://telegra.ph/file/f2359750aac99a9ebcc26.jpg",
+        "https://telegra.ph/file/2f45f5ed923ae6d33071e.jpg",
+        "https://telegra.ph/file/9e3ade2bab6e1842e4a31.jpg",
+        "https://telegra.ph/file/125d3b924665030d33b4f.jpg",
+        "https://telegra.ph/file/5fb6f2743fa282e8cd064.jpg",
+        "https://telegra.ph/file/1d4d068b77b93817b7577.jpg",
+        "https://telegra.ph/file/cbe8c762e716fec22d5d4.jpg",
+        "https://telegra.ph/file/d7448d7632fa1dfb21a4c.jpg",
+        "https://telegra.ph/file/d6c6db1f51e3f590cc5df.jpg",
+        "https://telegra.ph/file/428c4df85b871ef3ef134.jpg",
+        "https://telegra.ph/file/a1c4570ea33be942a3b09.jpg",
+        "https://telegra.ph/file/6bf9bfeb5cac9c5e28ae5.jpg",
+        "https://telegra.ph/file/656e528c3756deefaf609.jpg",
+        "https://telegra.ph/file/6fc98e9414b2ba9da8fad.jpg",
+        "https://telegra.ph/file/2cdd7e266d2f489d79924.jpg",
+        "https://telegra.ph/file/3265229b5b975b9a49f28.jpg",
+        "https://telegra.ph/file/46af0a7e3eb31a1354c5b.jpg",
+        "https://telegra.ph/file/0dcdb9fa4919166612b96.jpg",
+        "https://telegra.ph/file/d1745631b6e5c079cc992.jpg"
+    ]
+};

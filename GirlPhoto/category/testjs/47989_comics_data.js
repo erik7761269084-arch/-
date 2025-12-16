@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47989,
+    "title": "Machi - Fren nun_Cosplay - Page 1",
+    "sourceUrl": "https://telegra.ph/Machi---Fren-nun-Cosplay---Page-1-05-21",
+    "images": [
+        "https://telegra.ph/file/b3ad29e13ce5b39597f49.jpg",
+        "https://telegra.ph/file/73f7098447a9426b367a2.jpg",
+        "https://telegra.ph/file/3d327592c976c96c88d4d.jpg",
+        "https://telegra.ph/file/14d285772fcb934680a30.jpg",
+        "https://telegra.ph/file/384e6b9293084e583aedf.jpg",
+        "https://telegra.ph/file/8850a293dfe57e68dfbe6.jpg",
+        "https://telegra.ph/file/14820e5d135b8cacede50.jpg",
+        "https://telegra.ph/file/1dea72f37a2d7a93306d5.jpg",
+        "https://telegra.ph/file/20257dc1ccae3c408fd68.jpg",
+        "https://telegra.ph/file/1b3cdd74341f63de7f590.jpg",
+        "https://telegra.ph/file/16c21a26266a159f0ca41.jpg",
+        "https://telegra.ph/file/b8fb43ffd05e0c82beb60.jpg",
+        "https://telegra.ph/file/8caff80ddfd1ad0c26a1c.jpg",
+        "https://telegra.ph/file/dc9eac1213209815b0c4d.jpg",
+        "https://telegra.ph/file/d738bbb9c2a66fa51a80a.jpg",
+        "https://telegra.ph/file/9621cbe99a7ee2619582f.jpg",
+        "https://telegra.ph/file/57217a1379fe0fe359915.jpg",
+        "https://telegra.ph/file/7202d187dd4c13626d27d.jpg",
+        "https://telegra.ph/file/084464de9e8a1d13df556.jpg",
+        "https://telegra.ph/file/5999e89aebed41bb15d7f.jpg",
+        "https://telegra.ph/file/2c18bdff5613261fc514d.jpg",
+        "https://telegra.ph/file/efbfb9133f6696f06a00c.jpg",
+        "https://telegra.ph/file/a4a5e8cf3ebe892f7f615.jpg",
+        "https://telegra.ph/file/2bbbb68f4b2cab94ca6a6.jpg"
+    ]
+};

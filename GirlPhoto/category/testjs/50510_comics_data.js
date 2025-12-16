@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50510,
+    "title": "小仓千代w - Yuzuriha 地狱楽 杠 - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w---Yuzuriha-地狱楽-杠---Page-1-05-24",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlexoMgmOOsCsZVJZZCswzEFyrcqW9AAC1BkAAswtkVUcavkjJvKZAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELle1oMgmZLoiSAAGcy9wPKDtApmttB9MAAtUZAALMLZFVwcx6SyWeq_82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELle5oMgmb5JT9macJ-AaOuUisOQizIAAC1hkAAswtkVVHosWQaI8PDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELle9oMgmdHISuZgK_MyFh9PZO1kFZtQAC1xkAAswtkVWPw_ZVYyG1hzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfBoMgmfF0Bpa_4DuoJa6o56435yvwAC2BkAAswtkVXpBHsm8b24zTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfFoMgmgg9EQE1rMl9BPc3GsGDZdpAAC2RkAAswtkVVKYF1J1Lu-6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfJoMgmi96qIx8PM-2YLdp14Eo5LDQAC2hkAAswtkVUWK3Xd4RG0ETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfNoMgmkCPh-FrwHW87-IQVynR3yygAC2xkAAswtkVWN4djdJ0AsBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfRoMgmmiLArQwFv7WA2yr_tJ71n-wAC3BkAAswtkVUPJAbeAnq-izYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfVoMgmoR7-ncUKeKVzkP0y1Cs8ipwAC3RkAAswtkVVomb6CcQABS502BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfZoMgmppjWDCeZQt3f91fH9CZ3CXgAC3hkAAswtkVVkORonffiZQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfdoMgmrt9zazzvMVvn6ty_GSZZecgAC3xkAAswtkVX0WeOOHiZ31TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfhoMgmtbDCszo-x2N-Qn-eaN4XVZAAC4BkAAswtkVWqh-w9Frc2BjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfloMgmu5s9ebT-hUJZC-dEAAQIri7sAAuEZAALMLZFVjRA9yVX4Lgw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfpoMgmwp6mkWHyz2SjlQzuQSAx0xAAC4hkAAswtkVUi5lZpJOIc6TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlftoMgmxQGB9Dpix0k2TQIK-TDWpbwAC4xkAAswtkVXklpznEZrrMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlfxoMgmzCW6hwJQZXGWDPGa4ufLzJAAC5BkAAswtkVVyWWj5rNxxozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlf1oMgm14a0qPXLsXBfT_XJpcrP3GAAC5RkAAswtkVUa7KYfhi6zEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlf5oMgm3KGxnkjRRMSZXzp3DiEuL_wAC5hkAAswtkVWq21pzXbpsMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlf9oMgm4rgcZuzgwSeHAu1iZdsFz2wAC5xkAAswtkVXRu80cZiQcgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgABaDIJ92RZ2lQIgMOSsU5LcjFgkAYAAugZAALMLZFVi-MP2fIgawM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgFoMgn56wYnMXCb3EEaEec6VKH1XgAC6RkAAswtkVXuT0PTucPGHTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgJoMgn64wABd4Hx3nlbsZjcpfB45UQAAuoZAALMLZFVPmbjW0lrSNQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgNoMgn8Uw6tdM-FWzLs2bGn73LsXwAC6xkAAswtkVV9HOPoq5kLVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgRoMgn9EaFbYy255YHVc8-49fCNvQAC7BkAAswtkVUjtdqCcfps8DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELlgVoMgn_5XfRTu5mSA1LkYAUDuIy5AAC7RkAAswtkVWoPE1R8YtspzYE"
+    ]
+};

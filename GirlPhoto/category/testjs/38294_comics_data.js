@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38294,
+    "title": "Sally Dorasnow - Ayaka (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Ayaka-Genshin-Impact-09-29",
+    "images": [
+        "https://telegra.ph/file/6acd0224af1471b13c97e.jpg",
+        "https://telegra.ph/file/34360961d23c395eb71b2.jpg",
+        "https://telegra.ph/file/40bb12445541e8e5f9684.jpg",
+        "https://telegra.ph/file/8ff134b82f8277b77b550.jpg",
+        "https://telegra.ph/file/865c771511f307a3ba23c.jpg",
+        "https://telegra.ph/file/7198780b196e2d2c36a8b.jpg",
+        "https://telegra.ph/file/ef919549685d44c546ec1.jpg",
+        "https://telegra.ph/file/9895a59e04d53a3d90429.jpg",
+        "https://telegra.ph/file/86e434e57fedc37c822a3.jpg",
+        "https://telegra.ph/file/68688ba19b7fdf92b7213.jpg",
+        "https://telegra.ph/file/ed2582cfee611a08d9340.jpg",
+        "https://telegra.ph/file/764bb17aff8b3a0b39f08.jpg",
+        "https://telegra.ph/file/a4cd766ae76d8da6a8851.jpg",
+        "https://telegra.ph/file/dc927e0d152b507c9da40.jpg",
+        "https://telegra.ph/file/b920a0942fdb91838d146.jpg",
+        "https://telegra.ph/file/64d47898616e1e10c1b1c.jpg",
+        "https://telegra.ph/file/2f78a87ba24938686bdeb.jpg",
+        "https://telegra.ph/file/4529cb83bddb8a736ccce.jpg",
+        "https://telegra.ph/file/7055bb26c779720ec37b3.jpg",
+        "https://telegra.ph/file/553aa2bcbe0c6c7231e1b.jpg",
+        "https://telegra.ph/file/99f2c813354acd9c1e387.jpg",
+        "https://telegra.ph/file/7a530e3c4d6cdec8347fe.jpg",
+        "https://telegra.ph/file/ff04a31cbf73f8a192f18.jpg",
+        "https://telegra.ph/file/47d37b24105038f64ec18.jpg",
+        "https://telegra.ph/file/d520b1747e4a9edcf5c9c.jpg"
+    ]
+};

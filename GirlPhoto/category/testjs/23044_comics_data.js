@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23044,
+    "title": "Ceason Photography 大尺度写真七套 1",
+    "sourceUrl": "https://telegra.ph/Ceason-Photography-%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%86%99%E7%9C%9F%E4%B8%83%E5%A5%97-1-01-10",
+    "images": [
+        "https://telegra.ph/file/8f4b0aebae2454cc0bfe8.jpg",
+        "https://telegra.ph/file/49c8cf71aa59b39a3a505.jpg",
+        "https://telegra.ph/file/cedad0ac1075b228b737f.jpg",
+        "https://telegra.ph/file/b249b222ccc7bccae884c.jpg",
+        "https://telegra.ph/file/3d1477108d3d0c3557b41.jpg",
+        "https://telegra.ph/file/2642452ad7a9f7c585ade.jpg",
+        "https://telegra.ph/file/0fa8823c1805b9727e20e.jpg",
+        "https://telegra.ph/file/3b8a0229a121f8f0788d1.jpg",
+        "https://telegra.ph/file/ee15b1476e3b3f30988f5.jpg",
+        "https://telegra.ph/file/16aa080be604f83742c9b.jpg",
+        "https://telegra.ph/file/dd2328ac02bf8eb04af82.jpg",
+        "https://telegra.ph/file/9c9836663fcddb3720f85.jpg",
+        "https://telegra.ph/file/6e1775a2feec5dc011494.jpg",
+        "https://telegra.ph/file/04d035d55c3a182590230.jpg",
+        "https://telegra.ph/file/688aea4a313b25a0c107c.jpg",
+        "https://telegra.ph/file/9c41bfd0aa5fbe69b1e48.jpg",
+        "https://telegra.ph/file/29905815dea0558c0bb4e.jpg",
+        "https://telegra.ph/file/fdc660e0dc380f3fbd488.jpg",
+        "https://telegra.ph/file/384a77b4bca9f9071bd46.jpg",
+        "https://telegra.ph/file/b4a4f297f36089ff4cb7b.jpg",
+        "https://telegra.ph/file/5cf32c5823137f0944c1f.jpg",
+        "https://telegra.ph/file/f01bb880e42a04e7331d1.jpg",
+        "https://telegra.ph/file/6c706fd9147bdf2f69662.jpg",
+        "https://telegra.ph/file/7208fd813940b65704877.jpg",
+        "https://telegra.ph/file/402ce162cfa19b7f9e66f.jpg",
+        "https://telegra.ph/file/4a4da8cb25e48e24fc66e.jpg"
+    ]
+};

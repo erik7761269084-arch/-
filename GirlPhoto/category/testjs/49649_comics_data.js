@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49649,
+    "title": "[怪蜀黍的乖萝莉]岛风 - Page 1",
+    "sourceUrl": "https://telegra.ph/怪蜀黍的乖萝莉岛风---Page-1-02-05",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEa5nov9ipo16qnvPDoYhlMpoxMC9xgAC2hgAApQIGVWB22jINUAKWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEa9nov9pUOuD9NqD2who1i4XbpqxsgAC2xgAApQIGVXT0TGgIkoDIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbBnov9staghpsA1zz4xtUulzB6UgQAC3BgAApQIGVUAAZ-FJDOwjhc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbFnov9tzvFYujjlEsaUQQ1HAzHN1AAC3RgAApQIGVWru6obqHLHZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbJnov9uRGRf2qnhvdsOFKa0rN78yAAC3hgAApQIGVVr22b2klD1VzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbNnov9vEMYpQmyPSnRurme7OsduTwAC3xgAApQIGVV_8FmDiVgZPDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbRnov9xBXYBDiSFvf4yDqNZR1UsHgAC4BgAApQIGVXA4_bBwvbwjDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbVnov9y-TDkyOQNHG_rE-khQF3h4wAC4RgAApQIGVUG0H_6KX1O1DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbZnov90VWT9vakngw20wWXx4N75GwAC4hgAApQIGVW1rDF2QEZBXDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbdnov91ooYXwAcN3x9voMZhevUlzQAC4xgAApQIGVWkmo1IMp-xnTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbhnov93Ni2CZCCXjL7tFVW-KWP82gAC5BgAApQIGVXjk-9GjyFqAjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEblnov943nWSTyDuBINE0Ysk6IYakwAC5RgAApQIGVWy0j3jD32q4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbpnov95PAvfMJ-Df_4-vorwAAGsHuEAAuYYAAKUCBlVcuaX_2UznrY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbtnov969RyU5A8tTH7JIEHq5NDEMwAC5xgAApQIGVUEORniY7rgqjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEbxnov98fPDHy8OHqvrYQ-sZ_CQNRQAC6BgAApQIGVV5G74DaTv3aDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEb1nov9-LjpevLZlXbhory24S5sBaAAC6RgAApQIGVXmtezb2nW2MDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEb5nov9_gF4pmqkhsp30w2GzoQEKkQAC6hgAApQIGVUhy3VvS5i1rDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEb9nov-Bh1TmjSup20OdEwUkUdEscAAC6xgAApQIGVVY9MHVwkz1rjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEcBnov-CzQqLGPP1rBgwU7dHFwfKcgAC7BgAApQIGVUgKKKZiDiL_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEcFnov-ESRYpnd353hdwle9eOC9MTQAC7RgAApQIGVUZUV2Aq2ErtzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEcJnov_DUAHJ-MtmboX01u92ju3ebAAC7hgAApQIGVVNYcABwzgFsjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEcNnov_FzLu0VtO4k4de7xEdEXzW0gAC7xgAApQIGVXTbXr1SjytFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFEcRnowABBNyI9wlWLSFW1sQxF7akIUUAAvEYAAKUCBlVCsYcbAOErSo2BA"
+    ]
+};

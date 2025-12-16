@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40351,
+    "title": "Queenie - Akali (KDA / League Of Legend)",
+    "sourceUrl": "https://telegra.ph/Queenie---Akali-KDA--League-Of-Legend-05-20",
+    "images": [
+        "https://telegra.ph/file/9494120c8b73428664c7e.jpg",
+        "https://telegra.ph/file/108bfa3804ad31aae13e1.jpg",
+        "https://telegra.ph/file/fc69913707d37676d78b8.jpg",
+        "https://telegra.ph/file/2b05113f9e44872346bf8.jpg",
+        "https://telegra.ph/file/6c3faedea4332bf76bd25.jpg",
+        "https://telegra.ph/file/d5ad6ff27249cfb96f5f8.jpg",
+        "https://telegra.ph/file/334e7d53842665ea5c660.jpg",
+        "https://telegra.ph/file/6a0b9d7cc6d4329a66ce7.jpg",
+        "https://telegra.ph/file/133e62ad306f2902018d7.jpg",
+        "https://telegra.ph/file/43a1699294609afb30682.jpg",
+        "https://telegra.ph/file/c14fc5e3c82b8734f8c49.jpg",
+        "https://telegra.ph/file/6d18a8b8ffb4f550578bd.jpg",
+        "https://telegra.ph/file/ecd7c581119a118006695.jpg",
+        "https://telegra.ph/file/ffba157635c213da1a1fb.jpg",
+        "https://telegra.ph/file/541b52b13d5455be1ee8e.jpg",
+        "https://telegra.ph/file/9afc47a285b8c80180aaf.jpg",
+        "https://telegra.ph/file/79237217eb89ee81b3fda.jpg",
+        "https://telegra.ph/file/c2be7e7a593a2343940a5.jpg",
+        "https://telegra.ph/file/daf0081f3635a54b6f140.jpg",
+        "https://telegra.ph/file/24244dcc98a5f949236e3.jpg",
+        "https://telegra.ph/file/1fa98bab8143a20873ad5.jpg",
+        "https://telegra.ph/file/199ed73c8f78b6600f075.jpg",
+        "https://telegra.ph/file/598c9a2ab9d183e075803.jpg",
+        "https://telegra.ph/file/26aeb20dc4e2cd19a6728.jpg",
+        "https://telegra.ph/file/3e4cdc32a47709aa6d8f1.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46947,
+    "title": "[PingPing] アズールレーン - ST LOUIS (アズールレーン) - Page 1",
+    "sourceUrl": "https://telegra.ph/PingPing-アズールレーン---ST-LOUIS-アズールレーン---Page-1-02-16",
+    "images": [
+        "https://telegra.ph/file/263b6242295a92d2e1ad5.jpg",
+        "https://telegra.ph/file/4d29ac1bbdebd7c77244b.jpg",
+        "https://telegra.ph/file/911516cc8248b90e9d09a.jpg",
+        "https://telegra.ph/file/1e801c6680f977b7c6813.jpg",
+        "https://telegra.ph/file/96db7e422bbb448eb280c.jpg",
+        "https://telegra.ph/file/8ad3578651f8a5db06cae.jpg",
+        "https://telegra.ph/file/5bae0f0bc837d0ee18a09.jpg",
+        "https://telegra.ph/file/6637cde0d79821112a390.jpg",
+        "https://telegra.ph/file/2411209ce530c83243f35.jpg",
+        "https://telegra.ph/file/13ceb83cd79be10f0440a.jpg",
+        "https://telegra.ph/file/c0d36a99892a99751f4c2.jpg",
+        "https://telegra.ph/file/e7ce89c9d9a527abcd4d2.jpg",
+        "https://telegra.ph/file/3830780ff47a4585f4345.jpg",
+        "https://telegra.ph/file/a1de24c7a5e29ca8d3ea7.jpg",
+        "https://telegra.ph/file/f352cdd7fc8af734f1759.jpg",
+        "https://telegra.ph/file/25fa87e8f12e69fc31e53.jpg",
+        "https://telegra.ph/file/7cf1f09a7a98f46f44170.jpg",
+        "https://telegra.ph/file/bd97b2306d5ffa84bb3c0.jpg",
+        "https://telegra.ph/file/9d4e577381b34a829c73c.jpg",
+        "https://telegra.ph/file/ca0578e64c39a01278fb3.jpg",
+        "https://telegra.ph/file/53357f945aa7f77e37b5f.jpg",
+        "https://telegra.ph/file/178bf28315728f731d557.jpg",
+        "https://telegra.ph/file/864636e26ea4de7ff2bdd.jpg",
+        "https://telegra.ph/file/43a7fe84faddc96461c4d.jpg",
+        "https://telegra.ph/file/ddfb86b57a7f216fbce67.jpg",
+        "https://telegra.ph/file/f073d57d528b25472069f.jpg"
+    ]
+};

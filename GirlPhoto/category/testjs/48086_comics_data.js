@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48086,
+    "title": "小九酱（白猫少女） - 和泉纱雾 - Page 1",
+    "sourceUrl": "https://telegra.ph/小九酱白猫少女---和泉纱雾---Page-1-05-30",
+    "images": [
+        "https://telegra.ph/file/d6adcc58f519673394002.jpg",
+        "https://telegra.ph/file/8c31e7a846947851fa04c.jpg",
+        "https://telegra.ph/file/2d6a518c57a6da0386566.jpg",
+        "https://telegra.ph/file/51ffd87a844585ee7d952.jpg",
+        "https://telegra.ph/file/8db320abff2799abb9419.jpg",
+        "https://telegra.ph/file/bd87aaf1d2f7e85434a72.jpg",
+        "https://telegra.ph/file/ed99c4f93a2da6d9f3db5.jpg",
+        "https://telegra.ph/file/09703a63b44f964d399a1.jpg",
+        "https://telegra.ph/file/acbc6f8e240cccd81327b.jpg",
+        "https://telegra.ph/file/816be49cb544e33e6cfb9.jpg",
+        "https://telegra.ph/file/2e9bf05b57f624849d85d.jpg",
+        "https://telegra.ph/file/f8baa170e0a90d68b3097.jpg",
+        "https://telegra.ph/file/5e9d04506c0191e0b90c4.jpg",
+        "https://telegra.ph/file/6ec63b56fa426373e6a7e.jpg",
+        "https://telegra.ph/file/07180c3f4d7afc075e01f.jpg",
+        "https://telegra.ph/file/967d762ad00ae3bbfe476.jpg",
+        "https://telegra.ph/file/b133e8d726097dbbf355e.jpg",
+        "https://telegra.ph/file/c4f4d07ed21b2d79ef411.jpg",
+        "https://telegra.ph/file/bab73e7f545e2af5be135.jpg",
+        "https://telegra.ph/file/ee6792d1312c5e7759be4.jpg",
+        "https://telegra.ph/file/8e575fbb4f3642fde9a71.jpg",
+        "https://telegra.ph/file/7a402925d23252ad03de8.jpg",
+        "https://telegra.ph/file/643bdce99d39940e9797a.jpg",
+        "https://telegra.ph/file/bfcc5890d0e2963ff09d4.jpg",
+        "https://telegra.ph/file/9887d40cda32f3864095a.jpg"
+    ]
+};

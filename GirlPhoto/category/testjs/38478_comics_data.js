@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38478,
+    "title": "Sweetie Fox - Squid Game",
+    "sourceUrl": "https://telegra.ph/Sweetie-Fox---Squid-Game-11-13",
+    "images": [
+        "https://telegra.ph/file/038eda273b906bc1d0048.jpg",
+        "https://telegra.ph/file/61412435f21b7779a9a3f.jpg",
+        "https://telegra.ph/file/7216ca3e6eb50c1167dc1.jpg",
+        "https://telegra.ph/file/babcd20aac38dd96d776b.jpg",
+        "https://telegra.ph/file/4eda4cfe3b2cc6b6bf365.jpg",
+        "https://telegra.ph/file/180783dfd0d0b96b9e539.jpg",
+        "https://telegra.ph/file/46ebc7ff0659ec854aeb0.jpg",
+        "https://telegra.ph/file/6523759949f6d20101c60.jpg",
+        "https://telegra.ph/file/abf1f7ccee3c6abc93ff7.jpg",
+        "https://telegra.ph/file/e6c48a54a6fa22b27e8a9.jpg",
+        "https://telegra.ph/file/c30c935ced56a8ffbb397.jpg",
+        "https://telegra.ph/file/25f252e36bc374ff49bfa.jpg",
+        "https://telegra.ph/file/fae8937722be3e724170e.jpg",
+        "https://telegra.ph/file/7e685e4fea8b66711e766.jpg",
+        "https://telegra.ph/file/349528e0673b513d0bf33.jpg",
+        "https://telegra.ph/file/825860b90c338611fe88e.jpg",
+        "https://telegra.ph/file/1861200fe29ad0ba212d9.jpg",
+        "https://telegra.ph/file/d2719b2603c6ef2c10b87.jpg",
+        "https://telegra.ph/file/d96bc361cf810dbaa1541.jpg",
+        "https://telegra.ph/file/a63b80e7f9f361e848289.jpg",
+        "https://telegra.ph/file/88cb8710d5f25d8d9bbe0.jpg",
+        "https://telegra.ph/file/7a0499f89f2702acc8ce7.jpg",
+        "https://telegra.ph/file/5ceae1173e32feb920051.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43305,
+    "title": "樱岛嗷一 - 雷电将军",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E5%B2%9B%E5%97%B7%E4%B8%80---%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B-10-10",
+    "images": [
+        "https://telegra.ph/file/230c07d1faeb4c9b58955.jpg",
+        "https://telegra.ph/file/ff7bda40ce456c5b583c5.jpg",
+        "https://telegra.ph/file/024ca839f24878a6e97e8.jpg",
+        "https://telegra.ph/file/f869dc887b3e1e9b2e174.jpg",
+        "https://telegra.ph/file/356f12b0f34ab9d8c2608.jpg",
+        "https://telegra.ph/file/25b780dbbc59b9847313d.jpg",
+        "https://telegra.ph/file/981adb824a4bd6e2b08c1.jpg",
+        "https://telegra.ph/file/42f54a69555a4c0e6ef95.jpg",
+        "https://telegra.ph/file/bc458b84038b37cf7c1d4.jpg",
+        "https://telegra.ph/file/69730e639e7835711d23b.jpg",
+        "https://telegra.ph/file/00558bf6569a6797c19b6.jpg",
+        "https://telegra.ph/file/74e0c762db476d6cb2ad5.jpg",
+        "https://telegra.ph/file/cb5856c94870eb13dd432.jpg",
+        "https://telegra.ph/file/13ea53f9e7b415d2be236.jpg",
+        "https://telegra.ph/file/84c478b5b1f68b9198a9c.jpg",
+        "https://telegra.ph/file/1569fa500c20d5e9db8ce.jpg",
+        "https://telegra.ph/file/898eac7a6798d0343d5e7.jpg",
+        "https://telegra.ph/file/86e3ac65d23921788dded.jpg",
+        "https://telegra.ph/file/cdf7ac646d64334fa8276.jpg",
+        "https://telegra.ph/file/ea865fc76c301b79e069d.jpg",
+        "https://telegra.ph/file/c8e648b279228de4b556a.jpg",
+        "https://telegra.ph/file/7d8282cae520cb0b7c6d4.jpg",
+        "https://telegra.ph/file/fb06883150ff92862f672.jpg",
+        "https://telegra.ph/file/335e9c33100f80474b586.jpg",
+        "https://telegra.ph/file/8511bcd672dd981f0a57d.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 30547,
+    "title": "U.Hwa 은유화, [LEEHEE EXPRESS] LEDG-022B Set.02",
+    "sourceUrl": "https://telegra.ph/UHwa-은유화-LEEHEE-EXPRESS-LEDG-022B-Set02-06-22",
+    "images": [
+        "https://telegra.ph/file/673755c1b5fb175a6ca42.jpg",
+        "https://telegra.ph/file/c5292cc92d061d4d01ba5.jpg",
+        "https://telegra.ph/file/a8be646e1fdfddf1e1217.jpg",
+        "https://telegra.ph/file/6dfa56be5385c2e7043ec.jpg",
+        "https://telegra.ph/file/08f5923b69e37395a1da8.jpg",
+        "https://telegra.ph/file/a4a00a59fa843469f029f.jpg",
+        "https://telegra.ph/file/376f94b776581870f68a3.jpg",
+        "https://telegra.ph/file/001312cf58b6178deafcc.jpg",
+        "https://telegra.ph/file/1cafc9a50c002ed701e76.jpg",
+        "https://telegra.ph/file/8c46af6a3484ab4ed1796.jpg",
+        "https://telegra.ph/file/ea1190d17b08fcb92a0cf.jpg",
+        "https://telegra.ph/file/2970b1b0be5020fde4be2.jpg",
+        "https://telegra.ph/file/dddbe15d6c932beaa7ec9.jpg",
+        "https://telegra.ph/file/55a8e55653e5c48b8b285.jpg",
+        "https://telegra.ph/file/97ee1588b409ca7e5b6d0.jpg",
+        "https://telegra.ph/file/c8804eb296f97820e02a7.jpg",
+        "https://telegra.ph/file/8273271fa2645f597d94a.jpg",
+        "https://telegra.ph/file/961567f6e23a382047f09.jpg",
+        "https://telegra.ph/file/5dba23a6948d21a25fe99.jpg",
+        "https://telegra.ph/file/c95fd8b19aae746dff7cf.jpg",
+        "https://telegra.ph/file/89ca4609e773ca4b54764.jpg",
+        "https://telegra.ph/file/c0a4ddb26119e434b06b0.jpg",
+        "https://telegra.ph/file/2b93e72a9c9679666c98d.jpg",
+        "https://telegra.ph/file/f623c42cf3c274e0a198b.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

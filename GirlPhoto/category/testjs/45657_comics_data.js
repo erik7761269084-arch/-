@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 45657,
+    "title": "蠢沫沫 - 沫沫真爱版 Marie Rose - Page 1",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---沫沫真爱版-Marie-Rose---Page-1-10-14",
+    "images": [
+        "https://telegra.ph/file/bb5f72fe6c6a5f72aa61c.jpg",
+        "https://telegra.ph/file/1a856914b95d2eefdf487.jpg",
+        "https://telegra.ph/file/95340ea6c243c39118dc0.jpg",
+        "https://telegra.ph/file/39d8aecf4b9e33bf190f4.jpg",
+        "https://telegra.ph/file/c87d5f788648605f0e906.jpg",
+        "https://telegra.ph/file/766ae186970fdfdefd794.jpg",
+        "https://telegra.ph/file/894e5d4193640e497cddb.jpg",
+        "https://telegra.ph/file/9689f52a61b2346f842bc.jpg",
+        "https://telegra.ph/file/bf0c0c2eab85566d8cb18.jpg",
+        "https://telegra.ph/file/c2bb4a549ca9404be838a.jpg",
+        "https://telegra.ph/file/d571697728c912f57e7b5.jpg",
+        "https://telegra.ph/file/6f3467afd4927cde49e03.jpg",
+        "https://telegra.ph/file/5434d90396e13ed535a24.jpg",
+        "https://telegra.ph/file/5ca630759401d9700f93e.jpg",
+        "https://telegra.ph/file/7bbd69a8e02a48dd5866f.jpg",
+        "https://telegra.ph/file/3fe59f87ae0e73c8880b6.jpg",
+        "https://telegra.ph/file/100a075acf080a03c145f.jpg",
+        "https://telegra.ph/file/7112d448274c9158f8481.jpg",
+        "https://telegra.ph/file/66d21e1ce61ee17004ee5.jpg",
+        "https://telegra.ph/file/19029833b5cce196064c3.jpg",
+        "https://telegra.ph/file/f4134e95cd9272da6efb5.jpg",
+        "https://telegra.ph/file/48f5b9870209fa03691d2.jpg",
+        "https://telegra.ph/file/c20eeffe050a3f41d08eb.jpg",
+        "https://telegra.ph/file/8895227445ffdb9044584.jpg",
+        "https://telegra.ph/file/dafbc5b5a830b1939fb8d.jpg",
+        "https://telegra.ph/file/3639e599821c24949ac9e.jpg"
+    ]
+};

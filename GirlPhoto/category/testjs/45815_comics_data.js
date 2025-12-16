@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45815,
+    "title": "Arty Huang - Chen Hai - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---Chen-Hai---Page-1-10-28",
+    "images": [
+        "https://telegra.ph/file/880a4532a78eae3cc04b6.jpg",
+        "https://telegra.ph/file/dc3cc32f0b0d9f00fbd2b.jpg",
+        "https://telegra.ph/file/8ba02e3690540acdb34c4.jpg",
+        "https://telegra.ph/file/c4e461eb435654e52556b.jpg",
+        "https://telegra.ph/file/b4f936a6782965660b11a.jpg",
+        "https://telegra.ph/file/a051977dd89e66b377033.jpg",
+        "https://telegra.ph/file/d92b843b99292ef9e6aba.jpg",
+        "https://telegra.ph/file/c61058b03f2a51bbac765.jpg",
+        "https://telegra.ph/file/96f67ae83c2061924c7cf.jpg",
+        "https://telegra.ph/file/6108985d993c6d45f0a69.jpg",
+        "https://telegra.ph/file/8a5c5f5e64b8405b2b2c9.jpg",
+        "https://telegra.ph/file/c819651021b7ac9939791.jpg",
+        "https://telegra.ph/file/c7df7be67f0eaed684feb.jpg",
+        "https://telegra.ph/file/f4c16835002d07b0eaf0c.jpg",
+        "https://telegra.ph/file/e5d00d84d627c4fb7edde.jpg",
+        "https://telegra.ph/file/28f28a69b6aa09ff89aad.jpg",
+        "https://telegra.ph/file/239cd966a53e60ed9e79d.jpg",
+        "https://telegra.ph/file/68c09c9d8d0824d1d54e9.jpg",
+        "https://telegra.ph/file/b44486921155a5182a6b1.jpg",
+        "https://telegra.ph/file/e2de0d1b217f4741706bb.jpg",
+        "https://telegra.ph/file/854f3ec16b1fbc5d81294.jpg",
+        "https://telegra.ph/file/c881207cd48eae964973c.jpg",
+        "https://telegra.ph/file/06aee86bd44f6bb525901.jpg",
+        "https://telegra.ph/file/ec9a6efa6814f6281977e.jpg",
+        "https://telegra.ph/file/ca61eb7be59ecd23ef038.jpg"
+    ]
+};

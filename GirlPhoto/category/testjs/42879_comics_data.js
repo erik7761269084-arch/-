@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42879,
+    "title": "华清池",
+    "sourceUrl": "https://telegra.ph/%E5%8D%8E%E6%B8%85%E6%B1%A0-07-07",
+    "images": [
+        "https://telegra.ph/file/a5d6a23ea131ba5041ed3.jpg",
+        "https://telegra.ph/file/cb5f8d3ca285bd4189c6b.jpg",
+        "https://telegra.ph/file/640b4c965a26597c72984.jpg",
+        "https://telegra.ph/file/e80c2327f63ec1d721106.jpg",
+        "https://telegra.ph/file/6af76cc02491b2985d318.jpg",
+        "https://telegra.ph/file/6387ea536c85f0ae9ae09.jpg",
+        "https://telegra.ph/file/552f499bf6826979abc1f.jpg",
+        "https://telegra.ph/file/5d6cf302225e412ea8cf9.jpg",
+        "https://telegra.ph/file/b4edddd6863e2ef650b3f.jpg",
+        "https://telegra.ph/file/5d93377c36c275e3769af.jpg",
+        "https://telegra.ph/file/f7cb333e0364a257beded.jpg",
+        "https://telegra.ph/file/f76d0e04c3771fac021b7.jpg",
+        "https://telegra.ph/file/7fa6ab5852a92f1ade751.jpg",
+        "https://telegra.ph/file/b4c4badd6d8eab1629226.jpg",
+        "https://telegra.ph/file/5fa74c628a8daf7b26a23.jpg",
+        "https://telegra.ph/file/1c54b7ef729d2b8d6c73b.jpg",
+        "https://telegra.ph/file/2d9a54c70de8aa964f3e8.jpg",
+        "https://telegra.ph/file/1ceef80518f3b7198c495.jpg",
+        "https://telegra.ph/file/6917a51ce199b2a300454.jpg",
+        "https://telegra.ph/file/00726e538684d827381aa.jpg",
+        "https://telegra.ph/file/01d8c49e0b33aa2938788.jpg",
+        "https://telegra.ph/file/1a95650d00fd9d9994c7f.jpg",
+        "https://telegra.ph/file/3fd77121adfd302b5edc2.jpg",
+        "https://telegra.ph/file/a475f25d1be69bb7d81bd.jpg"
+    ]
+};

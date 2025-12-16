@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27387,
+    "title": "樱井奈奈-小恶魔[26P]",
+    "sourceUrl": "https://telegra.ph/%E6%A8%B1%E4%BA%95%E5%A5%88%E5%A5%88-%E5%B0%8F%E6%81%B6%E9%AD%9426P-01-05",
+    "images": [
+        "https://telegra.ph/file/1f23021c271883b0efdf8.jpg",
+        "https://telegra.ph/file/0f71f0c9fed7592ef099f.jpg",
+        "https://telegra.ph/file/7ee10fd415e449a0723d4.jpg",
+        "https://telegra.ph/file/2f544ce013751e0be3f68.jpg",
+        "https://telegra.ph/file/ac70d8f8a9b51b97c67a6.jpg",
+        "https://telegra.ph/file/09718a8b21a779abaff38.jpg",
+        "https://telegra.ph/file/22c77c93f4eae9e17e3a4.jpg",
+        "https://telegra.ph/file/ae046baf21a0d5bcadfc5.jpg",
+        "https://telegra.ph/file/50760875f9327b9dbcce3.jpg",
+        "https://telegra.ph/file/e07b0d1eae24ddf24377f.jpg",
+        "https://telegra.ph/file/678ab2a6466900c310e55.jpg",
+        "https://telegra.ph/file/b5fea7384da7d52b4be54.jpg",
+        "https://telegra.ph/file/b6a8aa8ab5a5b851be319.jpg",
+        "https://telegra.ph/file/40bd90687ffe8cfdc8533.jpg",
+        "https://telegra.ph/file/07b3a5fb3acee7562efbe.jpg",
+        "https://telegra.ph/file/46854dddef89bfe3cab14.jpg",
+        "https://telegra.ph/file/b86ffdaf7583f08ab9a2f.jpg",
+        "https://telegra.ph/file/ee319921271a14e3fff40.jpg",
+        "https://telegra.ph/file/3e8f8e83a5bb651a65138.jpg",
+        "https://telegra.ph/file/d5bb78b25c4e11268b716.jpg",
+        "https://telegra.ph/file/d2bfda0a90074ee8af655.jpg",
+        "https://telegra.ph/file/55abe186746f87fa483b4.jpg",
+        "https://telegra.ph/file/d4923c233a19053299dac.jpg",
+        "https://telegra.ph/file/cb472f62d21fe05233973.jpg",
+        "https://telegra.ph/file/4215d919373fd0410bcd3.jpg",
+        "https://telegra.ph/file/ff725ca4410a20cb69a8e.jpg"
+    ]
+};

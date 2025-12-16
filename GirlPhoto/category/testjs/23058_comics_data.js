@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23058,
+    "title": "九言 - 路易九世",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E8%B7%AF%E6%98%93%E4%B9%9D%E4%B8%96-01-13",
+    "images": [
+        "https://telegra.ph/file/149a859fb3a82bc40080f.jpg",
+        "https://telegra.ph/file/c72b78d68e395af3dd93d.jpg",
+        "https://telegra.ph/file/6235fae17ace53811565d.jpg",
+        "https://telegra.ph/file/a4715aaa09bba22315524.jpg",
+        "https://telegra.ph/file/d6ca04dd7fdcad7dbe006.jpg",
+        "https://telegra.ph/file/a95dd6ed44395e21443e8.jpg",
+        "https://telegra.ph/file/8ba1c74938fd8b5777fcf.jpg",
+        "https://telegra.ph/file/07e6d4d4d9f514c564a12.jpg",
+        "https://telegra.ph/file/ee7a7a369cab3942cb58e.jpg",
+        "https://telegra.ph/file/16f393bdfda590769b71d.jpg",
+        "https://telegra.ph/file/4b4bb89ba4a879c837928.jpg",
+        "https://telegra.ph/file/1527b2153b9d62c5f844d.jpg",
+        "https://telegra.ph/file/17342327f6d19a6550bf2.jpg",
+        "https://telegra.ph/file/425d8da2d165d557cd72f.jpg",
+        "https://telegra.ph/file/de85573ee1fc406725dc2.jpg",
+        "https://telegra.ph/file/ff1d60340d7fb0fe4ae11.jpg",
+        "https://telegra.ph/file/ae7229613217dc1321d00.jpg",
+        "https://telegra.ph/file/563ff064977e337c7c206.jpg",
+        "https://telegra.ph/file/5db8af6c5e84f855bd518.jpg",
+        "https://telegra.ph/file/1dfcf3067e6dd1551a15e.jpg",
+        "https://telegra.ph/file/2e235d1e92febb1a9b117.jpg",
+        "https://telegra.ph/file/8aa51976438fcf2933859.jpg",
+        "https://telegra.ph/file/b4eb6064bfe9994260936.jpg",
+        "https://telegra.ph/file/6f4d1e61aa6604cf7e064.jpg",
+        "https://telegra.ph/file/4a1ea3192e451d6dfd215.jpg"
+    ]
+};

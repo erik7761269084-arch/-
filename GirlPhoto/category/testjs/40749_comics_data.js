@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40749,
+    "title": "Shirogane Sama - Gwen Bikini (Spider-man)",
+    "sourceUrl": "https://telegra.ph/Shirogane-Sama---Gwen-Bikini-Spider-man-09-27",
+    "images": [
+        "https://telegra.ph/file/967b9c804e16acc7ed96a.jpg",
+        "https://telegra.ph/file/167d6142bad7ff8c1529e.jpg",
+        "https://telegra.ph/file/9976a41a949862d82fa0c.jpg",
+        "https://telegra.ph/file/6b895622140ec891a4357.jpg",
+        "https://telegra.ph/file/9daa2045cf378a80182a5.jpg",
+        "https://telegra.ph/file/0603103575129c3aeeeb2.jpg",
+        "https://telegra.ph/file/bdd4e217d9152ffd7703d.jpg",
+        "https://telegra.ph/file/d4495b6771ce62a89955b.jpg",
+        "https://telegra.ph/file/11a9a9975918c25aff874.jpg",
+        "https://telegra.ph/file/71d2758afbd01603c84f7.jpg",
+        "https://telegra.ph/file/b681a32e4afe3af782f81.jpg",
+        "https://telegra.ph/file/a0ef2b31f0e7c50eb7022.jpg",
+        "https://telegra.ph/file/aa929bf98fb8ed496805a.jpg",
+        "https://telegra.ph/file/cbb52ebedbe38a758e384.jpg",
+        "https://telegra.ph/file/1c7225aaed31dcb9d7fc9.jpg",
+        "https://telegra.ph/file/5f28fe0532408e373eab7.jpg",
+        "https://telegra.ph/file/a70b6919d52f028e23aad.jpg",
+        "https://telegra.ph/file/cee72e798dfbdd75b562a.jpg",
+        "https://telegra.ph/file/50a2fbfc4a8a3278e0b88.jpg",
+        "https://telegra.ph/file/168aa8b66cfc3a605550d.jpg",
+        "https://telegra.ph/file/786ecef596d19afbc9b56.jpg",
+        "https://telegra.ph/file/a5b7a21922c3ab82783e8.jpg",
+        "https://telegra.ph/file/e3517bc44e9465e1e7d38.jpg"
+    ]
+};

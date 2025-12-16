@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37893,
+    "title": "Mikomin Hokina - Asuna (Sword Art Online)",
+    "sourceUrl": "https://telegra.ph/Mikomin-Hokina---Asuna-Sword-Art-Online-06-19",
+    "images": [
+        "https://telegra.ph/file/e0480dead3b2a64b88b0b.jpg",
+        "https://telegra.ph/file/deee35dd0f4a958eb8374.jpg",
+        "https://telegra.ph/file/4c63e1c7b339648d63bce.jpg",
+        "https://telegra.ph/file/a6ff3647b8c2b2bea007f.jpg",
+        "https://telegra.ph/file/e2474bbfb91412ba985a7.jpg",
+        "https://telegra.ph/file/039aa42e123e96ea0b8cd.jpg",
+        "https://telegra.ph/file/affefb471b78fadfd3a45.jpg",
+        "https://telegra.ph/file/180eb0f4fd655e49c4de9.jpg",
+        "https://telegra.ph/file/ff430561ee4a469045f55.jpg",
+        "https://telegra.ph/file/001acf9b8b7141992fb96.jpg",
+        "https://telegra.ph/file/accba2a0cf5a2623e5572.jpg",
+        "https://telegra.ph/file/381dabfe3e00c220c64e0.jpg",
+        "https://telegra.ph/file/706200c47f0884ccf8f7f.jpg",
+        "https://telegra.ph/file/7a6ea4d7568b11ed6c6de.jpg",
+        "https://telegra.ph/file/914401063a12484793fc7.jpg",
+        "https://telegra.ph/file/d68b2376fb18b759f5ce4.jpg",
+        "https://telegra.ph/file/0136cdd9006192cf019b8.jpg",
+        "https://telegra.ph/file/cd9313c88576b8cc7c892.jpg",
+        "https://telegra.ph/file/2b68b783d044542de0f6d.jpg",
+        "https://telegra.ph/file/df15607cf2c2e97f29bf3.jpg",
+        "https://telegra.ph/file/2bee34c4a5be49c7be550.jpg",
+        "https://telegra.ph/file/a8fef014599589c2be486.jpg",
+        "https://telegra.ph/file/2636adab65b580df18a2c.jpg",
+        "https://telegra.ph/file/112735495e241ba359353.jpg",
+        "https://telegra.ph/file/38b750d8e4f87a9a099b3.jpg",
+        "https://telegra.ph/file/f2a91d8886554e51d6ed8.jpg"
+    ]
+};

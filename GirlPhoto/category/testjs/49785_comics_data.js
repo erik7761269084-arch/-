@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49785,
+    "title": "Mikomi Hokina - Mona Pasties - Page 1",
+    "sourceUrl": "https://telegra.ph/Mikomi-Hokina---Mona-Pasties---Page-1-02-19",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzepntc1FV4d0_jDMXe2GGBK7TXHqCAACbCAAAllZqVX_RlaO8R05MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzetntc1HHNjVrD9D9qWfj5UDB1QY8AACbSAAAllZqVURXprjq9OWYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzexntc1I5l5amLOqEoJWK3xWPa11JQACbiAAAllZqVUFEW3HVkZNNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFze1ntc1KfKUZZdjYjkIeP5egrH-ZWQACbyAAAllZqVXHAiEotr2BEjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFze5ntc1MCDJyV38sgO10whDVIvbHQgACcCAAAllZqVW9w1uDmYEFvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFze9ntc1OUVPbQAwsrEeD1aUplk0k3QACcSAAAllZqVWAgCcYEuDUuTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfBntc1QAgdgTWikuwFr8RmE9ZtfDwACciAAAllZqVViYxY6QwcZCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfFntc1SuAHFbL3jkInrpJhLPb4rbwACcyAAAllZqVUGzMldTbQ-QzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfJntc1TCc4-vJRlqrOLeD3YQUn2yQACdCAAAllZqVUX2zutfTR2jjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfNntc1VGeBZr4rzM0YJfU2_aAABSCQAAnUgAAJZWalVCvsPTLRHewY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfRntc1WvkkIQEeGuDoSMXn-Am1DhQACdiAAAllZqVVqvDVMTAW5ZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfVntc1YuJWPAv8wlVELhBokKcEvIAACdyAAAllZqVVvlXFHKWjF_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfZntc1ZzjcIfbGKGB0HumjPs8y_cQACeCAAAllZqVXtHPFKi8cCsjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfdntc1bA3fQhfh0z9MaxmllFpoKWQACeSAAAllZqVVneYfMq-K5pzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfhntc1c7syrBmSdF9IWAc2UGXZKIgACeiAAAllZqVVAMi7txmF89zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzflntc1dCP_NlUJUoOLgh5LTV-5fewACeyAAAllZqVUlOybE09oi6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfpntc1gSH8lGxassto7nFt4ogWVbgACfCAAAllZqVXkaq1PYFarzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzftntc1j5dpsDvBMivjE2VH6zl2DNgACfSAAAllZqVXHlHpUWEaJNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzfxntc1l9JFStONi2xULRQz0F6EAAWUAAn4gAAJZWalVe3fWFBDA9hI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzf1ntc1nOB5JuuzvwfAdVMJUXN-BewACfyAAAllZqVXwAAHBk6JP8Qk2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzf5ntc2nk0h2DFAJcHfSafHdPVHEfAACgCAAAllZqVU_z8wM0y64UTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzf9ntc2p2PQcVvKamh6KLdD-RFqI4gACgSAAAllZqVUtefJ4r2SDTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzgABZ7XNqth-NN4wp3MLisiZBlIwnpAAAoIgAAJZWalVZ0ssmJzLTdY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFzgFntc2sxx3QAAGC_SoHSHqxHwPdamcAAoMgAAJZWalVP3MWneUKIKw2BA"
+    ]
+};

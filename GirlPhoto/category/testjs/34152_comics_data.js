@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 34152,
+    "title": "[抱走莫子] 金色传说 Pasties NO.028",
+    "sourceUrl": "https://telegra.ph/抱走莫子-金色传说-Pasties-NO028-05-16",
+    "images": [
+        "https://telegra.ph/file/8cc67ee748b73ec8d1a5c.jpg",
+        "https://telegra.ph/file/48f3181240d75d4498ef7.jpg",
+        "https://telegra.ph/file/5698e018faecd5b5af57c.jpg",
+        "https://telegra.ph/file/ab1c32244cce3acc4928b.jpg",
+        "https://telegra.ph/file/88ac6da724526f914bd1b.jpg",
+        "https://telegra.ph/file/557e3087a90b446043cb2.jpg",
+        "https://telegra.ph/file/1490b08fe5d707c54f301.jpg",
+        "https://telegra.ph/file/b198635c6bf0233b790b1.jpg",
+        "https://telegra.ph/file/a80259508a14cc5d73560.jpg",
+        "https://telegra.ph/file/e8e8d8baf3845f8b032a1.jpg",
+        "https://telegra.ph/file/b356bf29365a8805eadd1.jpg",
+        "https://telegra.ph/file/c0af9a4ba696bd7cfbb12.jpg",
+        "https://telegra.ph/file/3ee8b19934604e2a40414.jpg",
+        "https://telegra.ph/file/80e6e00ccd71322dba295.jpg",
+        "https://telegra.ph/file/b068acb4313befa922968.jpg",
+        "https://telegra.ph/file/62fadd2ddcb438cf3955f.jpg",
+        "https://telegra.ph/file/9f9e999dec0a7e9349326.jpg",
+        "https://telegra.ph/file/7cdff5d97372508fa872f.jpg",
+        "https://telegra.ph/file/59f69cb09b11833270a42.jpg",
+        "https://telegra.ph/file/dee5d12aea6e41acf2eac.jpg",
+        "https://telegra.ph/file/bec37992a72986ed69395.jpg",
+        "https://telegra.ph/file/79b9f99dca2968241a28c.jpg",
+        "https://telegra.ph/file/a8da5b0042cba3f24a2d7.jpg",
+        "https://telegra.ph/file/cf564befc834c88f3070c.jpg"
+    ]
+};

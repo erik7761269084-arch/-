@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 28652,
+    "title": "快点亲亲我吖-黑色短裙[23P]",
+    "sourceUrl": "https://telegra.ph/%E5%BF%AB%E7%82%B9%E4%BA%B2%E4%BA%B2%E6%88%91%E5%90%96-%E9%BB%91%E8%89%B2%E7%9F%AD%E8%A3%9923P-02-25",
+    "images": [
+        "https://legra.ph/file/fba66ffb67d6e88ed4b1e.jpg",
+        "https://legra.ph/file/f06670f704bf1ae144886.jpg",
+        "https://legra.ph/file/848d15ee7dd7c6b478706.jpg",
+        "https://legra.ph/file/f56dfc96915cbc45090e3.jpg",
+        "https://legra.ph/file/1faa50bbf4cbf25a4c0a1.jpg",
+        "https://legra.ph/file/32d85d91a5def0e547ad1.jpg",
+        "https://legra.ph/file/e48ae44d3803286288c3a.jpg",
+        "https://legra.ph/file/120d07d4042c04c7b091d.jpg",
+        "https://legra.ph/file/ded245c5af91e8c51aab6.jpg",
+        "https://legra.ph/file/098ffe0e2751870ccb4b2.jpg",
+        "https://legra.ph/file/8c067254612a843db2ffa.jpg",
+        "https://legra.ph/file/36ab19495563dd859f563.jpg",
+        "https://legra.ph/file/249e613f3e6f973c8e939.jpg",
+        "https://legra.ph/file/fe402d28303b6d5f33021.jpg",
+        "https://legra.ph/file/fd8c2cb8740f8a4ee3f61.jpg",
+        "https://legra.ph/file/18ed56e0f104ae11591f1.jpg",
+        "https://legra.ph/file/445d230f7bb4bb249bb93.jpg",
+        "https://legra.ph/file/366e3e7f8e5cc17f9f6f1.jpg",
+        "https://legra.ph/file/ab8b65b24b2c5cddb630f.jpg",
+        "https://legra.ph/file/65602a556485673669f2c.jpg",
+        "https://legra.ph/file/7584feb32533269930af0.jpg",
+        "https://legra.ph/file/fe8e92575401ee9511669.jpg",
+        "https://legra.ph/file/bf98126422c84ad7ae40b.jpg"
+    ]
+};

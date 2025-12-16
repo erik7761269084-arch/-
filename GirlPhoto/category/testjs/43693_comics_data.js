@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43693,
+    "title": "Byoru - Tiger HD 26P",
+    "sourceUrl": "https://telegra.ph/Byoru---Tiger-HD-26P-06-07",
+    "images": [
+        "https://telegra.ph/file/e384db42fe410ab3c5736.jpg",
+        "https://telegra.ph/file/faa6d22897e87b39ec649.jpg",
+        "https://telegra.ph/file/8fc321a6efcdf0ddcf9d7.jpg",
+        "https://telegra.ph/file/62abfec93159c1747ceed.jpg",
+        "https://telegra.ph/file/2ffcc9faaa0e833186669.jpg",
+        "https://telegra.ph/file/7b2f00a2925348d4baf3e.jpg",
+        "https://telegra.ph/file/349707f607563f5cbe0b7.jpg",
+        "https://telegra.ph/file/0e7f8a74e9cf17122ceec.jpg",
+        "https://telegra.ph/file/f41651021ddecd2cb4215.jpg",
+        "https://telegra.ph/file/b305cf8b45d325560e876.jpg",
+        "https://telegra.ph/file/619535d144d2842753d2f.jpg",
+        "https://telegra.ph/file/224530a8b0da4d3fba8d4.jpg",
+        "https://telegra.ph/file/3effd569beda3c46c3d2e.jpg",
+        "https://telegra.ph/file/33735c8189520a177e308.jpg",
+        "https://telegra.ph/file/c822cb19ea12646c40dde.jpg",
+        "https://telegra.ph/file/a65d34e85315f8120891c.jpg",
+        "https://telegra.ph/file/5f2cdc03d09caa45e40f3.jpg",
+        "https://telegra.ph/file/0f4e1184c17f9479d7f48.jpg",
+        "https://telegra.ph/file/d1219687aed39a3f9e8b7.jpg",
+        "https://telegra.ph/file/a5fcac1652c98fc6fdad0.jpg",
+        "https://telegra.ph/file/3749e9da31e189a2afec1.jpg",
+        "https://telegra.ph/file/f8e69d5a0651adcfbf94a.jpg",
+        "https://telegra.ph/file/a5311b63d4cf4a074a1f9.jpg",
+        "https://telegra.ph/file/444d8970df413a5703e5d.jpg",
+        "https://telegra.ph/file/8cb0e3e8257abd343c772.jpg",
+        "https://telegra.ph/file/bc9c806315520e1ae5914.jpg"
+    ]
+};

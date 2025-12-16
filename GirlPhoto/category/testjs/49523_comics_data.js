@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49523,
+    "title": "瓦斯塔亚小龙虾 - 碧蓝航线 新泽西 花园白雪之仪 - Page 1",
+    "sourceUrl": "https://telegra.ph/瓦斯塔亚小龙虾---碧蓝航线-新泽西-花园白雪之仪---Page-1-01-29",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMVnmapLrDC3nGLxXXZDiX0uu_CYnAAC4hEAAmEZ0VRyRRLfDYLrQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMZnmapUyBsmfDNoVG678WjOCefxWgAC4xEAAmEZ0VSyb5zjWq33zzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMdnmapX_p1MH7pWCMaKvBaUyRbmiAAC5BEAAmEZ0VSTfikPoIE65DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMhnmapZKrF8wW3FFt7OQNRQ7EZYigAC5REAAmEZ0VT0V4sWuOeBMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMlnmapaT9aCnqdxH4rDg3NDp9-PXwAC5hEAAmEZ0VSakp8rfyDqNDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMpnmapcIU_6vY3xHWvc4ckB2hn2WwAC5xEAAmEZ0VQlY5pRLRXwyTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMtnmapeonmaStd7KvMzRZxqEsdpCgAC6BEAAmEZ0VTK3o_y7Swq1zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjMxnmapf4jDTEIci7czQjFMEfi9zDwAC6REAAmEZ0VRjy6cz-4_hOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjM1nmaphEX_MGAaHf6Bg5wgpRWPwWQAC6hEAAmEZ0VTOJsJtPVIEMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjM5nmapjzv6us8RlcojO8gpt0yFOOgAC6xEAAmEZ0VS4jAO3kKrTETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjM9nmapkw0dPatJSO2B7AAHfadZWjUoAAuwRAAJhGdFU3asjz6yNdi42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNBnmapmb7Oj2J1hgjlhyp592Xia9gAC7REAAmEZ0VQ6BexGsHjy8TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNFnmapn5iobwQwgrHO3dt0xLLjVtAAC7hEAAmEZ0VTEi_ElAujGnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNJnmappflDeCDfwHl4QKwYVPjPKgAAC7xEAAmEZ0VTkzmUev8wsgzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNNnmapqh3G6JqUldKOUmLqtruZcbQAC8BEAAmEZ0VR5w-A1paz9ijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNRnmapsXc-CDRGfFp9naNenCXzb_AAC8REAAmEZ0VSJUd0M7FQPMTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNVnmaptxR6k6egvPSkmGQbaim5RHwAC8hEAAmEZ0VT3E0QoTouLbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNZnmapv97D7mUBUpoXNh0gfQv85tAAC8xEAAmEZ0VSJ9lSaau6hlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNdnmapxFqGPt6MSn9JS5iaqap5dywAC9BEAAmEZ0VRb97PVWCNX7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNhnmapy4LgXa5R4ZZJegoy5mwn3oAAC9REAAmEZ0VR54z5JdCP7pjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNlnmaqxpg4qOnOhaQFNPQ3yNhebAQAC9hEAAmEZ0VQmToLTY1IxrTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNpnmaqzj00pzelBcr7dCv09nZIMDwAC9xEAAmEZ0VS9UdhA4Fc7gDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNtnmaq15gI9ScQcWILJQA6XncyjnQAC-BEAAmEZ0VReO6xhWZymazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjNxnmaq38leqJk0i1MNplMQho863_wAC-REAAmEZ0VSnrwpESiPNyDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjN1nmaq5BerM00Sjpd-auygzP2l5OQAC-hEAAmEZ0VRg2MFoAAF90z02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjN5nmaq7LcM2cTpT3Dtf9pa2UC_6-wAC-xEAAmEZ0VRuaCrVt6ibKDYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34238,
+    "title": "Arina Hashimoto 橋本ありな, デジタル写真集 「Awaking EPISODE ：2」 Set.01",
+    "sourceUrl": "https://telegra.ph/Arina-Hashimoto-橋本ありな-デジタル写真集-Awaking-EPISODE-2-Set01-05-25",
+    "images": [
+        "https://telegra.ph/file/d74ac2e6f5ac1f369ceb3.jpg",
+        "https://telegra.ph/file/d296f700d68c96c010b08.jpg",
+        "https://telegra.ph/file/728af21b7355650830f8c.jpg",
+        "https://telegra.ph/file/b2aa5cd2a690795014671.jpg",
+        "https://telegra.ph/file/fe7722216b4ac2ae7d02f.jpg",
+        "https://telegra.ph/file/5f7aa9b58a2fb940a6123.jpg",
+        "https://telegra.ph/file/4a46cabf9e205352278f9.jpg",
+        "https://telegra.ph/file/7b8b7882c36db649932f4.jpg",
+        "https://telegra.ph/file/19c88c7503b0570d96961.jpg",
+        "https://telegra.ph/file/c101fe8c0b21368320cfa.jpg",
+        "https://telegra.ph/file/5d385c0cad3a9ca1fcd1b.jpg",
+        "https://telegra.ph/file/99163e582aad113ffebe9.jpg",
+        "https://telegra.ph/file/02ecf5ee9a8dd960e4c6c.jpg",
+        "https://telegra.ph/file/4e2ad46e9a2855b22ec46.jpg",
+        "https://telegra.ph/file/469c6b8591975b92caf86.jpg",
+        "https://telegra.ph/file/7a45b449fd26a006122ba.jpg",
+        "https://telegra.ph/file/460dba2d8c94162b1a251.jpg",
+        "https://telegra.ph/file/600f8355f7bd42b53950c.jpg",
+        "https://telegra.ph/file/8eaf2135ba2c64d599342.jpg",
+        "https://telegra.ph/file/e6bdaab12ed5809bc7689.jpg",
+        "https://telegra.ph/file/300b8558c12a9e34e9e2e.jpg",
+        "https://telegra.ph/file/cc575dd7fa98d458e8b79.jpg",
+        "https://telegra.ph/file/bf8f18de3c013ff6b46b7.jpg",
+        "https://telegra.ph/file/0d9fdcfa4f6122bd1ca59.jpg",
+        "https://telegra.ph/file/5918997d77ee16dd05f96.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38760,
+    "title": "KuukoW - Magical Kitty Girl (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Magical-Kitty-Girl-Random-Cosplay-01-24",
+    "images": [
+        "https://telegra.ph/file/868eb2ffe5d92bed3541b.jpg",
+        "https://telegra.ph/file/70e8cc9a6aeeda564e076.jpg",
+        "https://telegra.ph/file/a0f9d961df9c9f8d8335f.jpg",
+        "https://telegra.ph/file/e338f73bac60adac8f438.jpg",
+        "https://telegra.ph/file/fae52fb20d80fed36a751.jpg",
+        "https://telegra.ph/file/d219264162ef93b6eaba8.jpg",
+        "https://telegra.ph/file/3f89762dae84513cfae25.jpg",
+        "https://telegra.ph/file/2770dce0ffc3cc35b31af.jpg",
+        "https://telegra.ph/file/d39982f9b9f26b10f771a.jpg",
+        "https://telegra.ph/file/a652fabc2cbe04d3c720d.jpg",
+        "https://telegra.ph/file/ca7f82a19b043f49f5680.jpg",
+        "https://telegra.ph/file/975ebdd73fa50028b4334.jpg",
+        "https://telegra.ph/file/73c598aabcc2427244cbb.jpg",
+        "https://telegra.ph/file/59795c130ae0b3f8c6e20.jpg",
+        "https://telegra.ph/file/96ac602dcb0dc67a85ad1.jpg",
+        "https://telegra.ph/file/004412dde4e5519b6ace5.jpg",
+        "https://telegra.ph/file/5ca75e384b137a346d0ef.jpg",
+        "https://telegra.ph/file/4ae338f3f1024336a0372.jpg",
+        "https://telegra.ph/file/5321addd2a7d305383bd0.jpg",
+        "https://telegra.ph/file/8c6c396e49866e737fb86.jpg",
+        "https://telegra.ph/file/54054828d9b49bda87aaf.jpg",
+        "https://telegra.ph/file/af6c294071aa00dc616f8.jpg",
+        "https://telegra.ph/file/c00de9fa83a0f3abb9416.jpg",
+        "https://telegra.ph/file/e1761cdb777d18a81e9d8.jpg",
+        "https://telegra.ph/file/9f8b641de4614d1072ae9.jpg",
+        "https://telegra.ph/file/e8607f6cba275f75b4d43.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42252,
+    "title": "Lada Lyumos - Mai Shiranui (King Of Fighter)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-12-04-3",
+    "images": [
+        "https://i.ibb.co/BKdyQQr1/IMG-5879-KOPIYffdfca49537334de-compress34.jpg",
+        "https://i.ibb.co/JWP63pWn/IMG-5989-KOPIY434ed2035c13fbf9-compress64.jpg",
+        "https://i.ibb.co/4ZgSGCG2/IMG-6130-KOPIY2f3b69bc0b97604f-compress1.jpg",
+        "https://i.ibb.co/fzYxXfQT/IMG-6244-KOPIYeeeaad7862969bc9-compress9.jpg",
+        "https://i.ibb.co/jvtWqk9C/IMG-6273-KOPIYfd08c710e2d3257f-compress72.jpg",
+        "https://i.ibb.co/spWGtSfN/IMG-6314-KOPIYc69278896701dc75-compress94.jpg",
+        "https://i.ibb.co/4ZZbdcHW/IMG-6431-KOPIY90c10b3050101658-compress77.jpg",
+        "https://i.ibb.co/TDtRNqSp/IMG-6446-KOPIYc320fc7f3bd91912-compress66.jpg",
+        "https://i.ibb.co/DPWK3hLb/IMG-6466-KOPIY72b390f6a0959892-compress3.jpg",
+        "https://i.ibb.co/KpvtBKbN/IMG-6517-KOPIY061dbc562cca5d2f-compress97.jpg",
+        "https://i.ibb.co/Rkt60w3J/IMG-6533-KOPIYf95e50e656ff0afd-compress93.jpg",
+        "https://i.ibb.co/HfYmY3cR/IMG-6551-KOPIYab3ac59a88e0147e-compress94.jpg",
+        "https://i.ibb.co/5gZmbjXk/IMG-6566-KOPIYc7045f3ed38a5a8c-compress70.jpg",
+        "https://i.ibb.co/5hscsCLz/IMG-6577-KOPIYf31023912e3caa0b-compress80.jpg",
+        "https://i.ibb.co/wNHNJCqs/IMG-6596-KOPIY92246251e16bc679-compress56.jpg",
+        "https://i.ibb.co/ZR026YWK/IMG-6600-KOPIY8367834373a3c154-compress37.jpg",
+        "https://i.ibb.co/wZYxXq7Q/IMG-6625-KOPIY371b9a3e34c22adf-compress34.jpg",
+        "https://i.ibb.co/0jd9pCHV/IMG-6679-KOPIYbdb5480fe53c429c-compress40.jpg",
+        "https://i.ibb.co/kgJH7rxW/IMG-6688-KOPIY99d8847774458c49-compress26.jpg",
+        "https://i.ibb.co/Z58ZGQR/IMG-6696-KOPIY2812202b7a474839-compress93.jpg",
+        "https://i.ibb.co/1JzhV5sz/IMG-6737-KOPIY3574ffbc0170cbd3-compress89.jpg",
+        "https://i.ibb.co/8L43mYN7/IMG-6754-KOPIYcc7d57209b11b8a5-compress88.jpg",
+        "https://i.ibb.co/99qTcd7S/IMG-6782-KOPIY6b5393bbbf95779a-compress24.jpg",
+        "https://i.ibb.co/k2WkygtP/IMG-6793-KOPIY7aa62d18395cca0d-compress58.jpg",
+        "https://i.ibb.co/21f05tpM/IMG-6804-KOPIYa5b46492efeae9c3-compress47.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32057,
+    "title": "索索 Cosplay 愛宕 Atago Racing Queen Ver.",
+    "sourceUrl": "https://telegra.ph/索索-Cosplay-愛宕-Atago-Racing-Queen-Ver-10-13",
+    "images": [
+        "https://telegra.ph/file/ed96ea72b78602df02e0a.jpg",
+        "https://telegra.ph/file/dbc5716d2c2ff17f129e7.jpg",
+        "https://telegra.ph/file/f478271e3d072084c1cb8.jpg",
+        "https://telegra.ph/file/537ce0d90997336818db6.jpg",
+        "https://telegra.ph/file/cb58260058732deef83dd.jpg",
+        "https://telegra.ph/file/cf4a84c0dca276c761fbb.jpg",
+        "https://telegra.ph/file/e49395c85192a0d98043a.jpg",
+        "https://telegra.ph/file/c50e815c497d5df240966.jpg",
+        "https://telegra.ph/file/607108e45c1c4ce811027.jpg",
+        "https://telegra.ph/file/143a6fc6cb4d967876bd8.jpg",
+        "https://telegra.ph/file/892b145bd55eca6c0a9cd.jpg",
+        "https://telegra.ph/file/cdbe443b17998de5ad9d3.jpg",
+        "https://telegra.ph/file/a2445e4aeecb4092b416f.jpg",
+        "https://telegra.ph/file/9d3f93ef384897a804797.jpg",
+        "https://telegra.ph/file/377f33b4e3a5a7ea9b476.jpg",
+        "https://telegra.ph/file/2f9888250c748a1897631.jpg",
+        "https://telegra.ph/file/913ee581f9d126243a6da.jpg",
+        "https://telegra.ph/file/cf4cf7410a4c0d9ac7332.jpg",
+        "https://telegra.ph/file/57c4e7ab8ebd07d6eff80.jpg",
+        "https://telegra.ph/file/dde88ba51866e9c96ed8f.jpg",
+        "https://telegra.ph/file/98cd54ef085943b38458e.jpg",
+        "https://telegra.ph/file/0969d4bf9ef13d3d6a3fe.jpg",
+        "https://telegra.ph/file/f37dd0b7ddd56c109dcba.jpg",
+        "https://telegra.ph/file/9971ccae006f6c19665da.jpg",
+        "https://telegra.ph/file/7ca3a37b84eab909a0e09.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37084,
+    "title": "Cosplay ElyEE子 玉藻前泳装",
+    "sourceUrl": "https://telegra.ph/Cosplay-ElyEE子-玉藻前泳装-03-09",
+    "images": [
+        "https://telegra.ph/file/bdcbb1a9e17172804c3f4.jpg",
+        "https://telegra.ph/file/27147c7873a1a54c99758.jpg",
+        "https://telegra.ph/file/e9a84ba2edb43caf2d921.jpg",
+        "https://telegra.ph/file/4921ef3e40f4f8f92b808.jpg",
+        "https://telegra.ph/file/8bc40dca42b06103f1ae8.jpg",
+        "https://telegra.ph/file/5820f6c725ded723587db.jpg",
+        "https://telegra.ph/file/f2e61940f96ee959da7b6.jpg",
+        "https://telegra.ph/file/21950a84432088d619fca.jpg",
+        "https://telegra.ph/file/e6c934a09068036e17a90.jpg",
+        "https://telegra.ph/file/ad3206a1168c5bef642ab.jpg",
+        "https://telegra.ph/file/f9b1eadbb9f02a21949ee.jpg",
+        "https://telegra.ph/file/251698885250486d279e8.jpg",
+        "https://telegra.ph/file/b088ff100af7cb3f7ede4.jpg",
+        "https://telegra.ph/file/f3f7cbcec008576573e31.jpg",
+        "https://telegra.ph/file/8293a58268b7dfee46c13.jpg",
+        "https://telegra.ph/file/2f85e08c0198238dca2b1.jpg",
+        "https://telegra.ph/file/8a3b2e2ec3641029cbc47.jpg",
+        "https://telegra.ph/file/72905d3b192d7567f7d77.jpg",
+        "https://telegra.ph/file/199bc545095b5edde7d83.jpg",
+        "https://telegra.ph/file/2f0b29c12befdd2b38430.jpg",
+        "https://telegra.ph/file/14d906b5f66941ca0d50a.jpg",
+        "https://telegra.ph/file/d62a9583e4d808413793a.jpg",
+        "https://telegra.ph/file/153ffd3214f76731cedde.jpg",
+        "https://telegra.ph/file/7decb492d7b3934a00970.jpg"
+    ]
+};

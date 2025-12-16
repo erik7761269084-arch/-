@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44701,
+    "title": "阿包也是兔娘 蒂法",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-蒂法-01-22",
+    "images": [
+        "https://telegra.ph/file/a350922ee62bb14a4a595.jpg",
+        "https://telegra.ph/file/777dfc55461af8a98e01b.jpg",
+        "https://telegra.ph/file/449f472d17b4938ae9de2.jpg",
+        "https://telegra.ph/file/08998636089d838370b19.jpg",
+        "https://telegra.ph/file/7898e444e11e45b73d22f.jpg",
+        "https://telegra.ph/file/5d3809ca207444c7914a3.jpg",
+        "https://telegra.ph/file/2977e46dc3a639d9e5e2f.jpg",
+        "https://telegra.ph/file/1ca16b1a398bc14743ddc.jpg",
+        "https://telegra.ph/file/f3d3deb8f1ad164f3560e.jpg",
+        "https://telegra.ph/file/ecd680a591333ff88d1b0.jpg",
+        "https://telegra.ph/file/5a1ee0e8de7f33c7d6263.jpg",
+        "https://telegra.ph/file/5298eb4bb14f4659b86cd.jpg",
+        "https://telegra.ph/file/cb5cb7e9e7b74f7104669.jpg",
+        "https://telegra.ph/file/f9a6e103d3441a82f3789.jpg",
+        "https://telegra.ph/file/d7301bf607d7e6d6c55d3.jpg",
+        "https://telegra.ph/file/100631b5bf90aff6fc844.jpg",
+        "https://telegra.ph/file/2fda165dd2a9680e34c97.jpg",
+        "https://telegra.ph/file/01e4142bcc32186f541dd.jpg",
+        "https://telegra.ph/file/278c9f2b7ae3568e8f943.jpg",
+        "https://telegra.ph/file/55cb6457438a8526a3579.jpg",
+        "https://telegra.ph/file/dd3fa8acfdb3c9b1f3989.jpg",
+        "https://telegra.ph/file/fef54ca710fda283d1f9f.jpg",
+        "https://telegra.ph/file/559101637de8c04cc743a.jpg",
+        "https://telegra.ph/file/49cf9d300377aed1ef4bd.jpg"
+    ]
+};

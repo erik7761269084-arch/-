@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33263,
+    "title": "Kim Woo Hyeon 김우현 [LEEHEE EXPRESS] LEHF-037A 웹화보 Vol.02",
+    "sourceUrl": "https://telegra.ph/Kim-Woo-Hyeon-김우현-LEEHEE-EXPRESS-LEHF-037A-웹화보-Vol02-02-16",
+    "images": [
+        "https://telegra.ph/file/3cccc40d213c0c61b7730.jpg",
+        "https://telegra.ph/file/4772c30890dfde29a6e72.jpg",
+        "https://telegra.ph/file/3c1e13fb8a5cbf717a410.jpg",
+        "https://telegra.ph/file/3236eb1156592270db6c1.jpg",
+        "https://telegra.ph/file/e2d91c1cad65c1a293dba.jpg",
+        "https://telegra.ph/file/37ea640b0ce56cdbb4339.jpg",
+        "https://telegra.ph/file/0f47f3611351b24b11027.jpg",
+        "https://telegra.ph/file/7a84362822642a16c8dcb.jpg",
+        "https://telegra.ph/file/2e612bfd8fc3718b574de.jpg",
+        "https://telegra.ph/file/d84fccdedf243fbe927db.jpg",
+        "https://telegra.ph/file/5cba3aad19b9f3e844885.jpg",
+        "https://telegra.ph/file/26adee3db788a5ccf165b.jpg",
+        "https://telegra.ph/file/d63a1a9e19fe63c23f98c.jpg",
+        "https://telegra.ph/file/35991a660761c43dcc71b.jpg",
+        "https://telegra.ph/file/dc038ff5b7855c6cfc689.jpg",
+        "https://telegra.ph/file/068c4e6ee08c397e05fd9.jpg",
+        "https://telegra.ph/file/37da44fd5bca06a871c64.jpg",
+        "https://telegra.ph/file/a198a35c3683c1f75c9d7.jpg",
+        "https://telegra.ph/file/f5114102533e15e7dc38d.jpg",
+        "https://telegra.ph/file/bbc4371b97f8d71adce4b.jpg",
+        "https://telegra.ph/file/de70b0372b48cdd58e2e7.jpg",
+        "https://telegra.ph/file/f7db6246af2c7ca8e3cea.jpg",
+        "https://telegra.ph/file/bc8284761cb78048692aa.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

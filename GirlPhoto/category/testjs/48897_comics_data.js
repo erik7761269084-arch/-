@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48897,
+    "title": "DreamlikeUwU - Greater Lord Rukkhadevata - Page 1",
+    "sourceUrl": "https://telegra.ph/DreamlikeUwU---Greater-Lord-Rukkhadevata---Page-1-01-03",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkS9neGQMaBChHUsvlGV87Jz-5unr9AACMiUAAnXdwFcKIGJRppGsvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTBneGQPgQAB5daZugABIcBm4e0FxOMUAAIzJQACdd3AV5bzkSg-jKcJNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTJneGQShIHEr8_xpketyYkntLTufAACNSUAAnXdwFcj-g2zquzzxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTRneGRTQaaeceTk6Cn372I1wx0K5QACNyUAAnXdwFcFF-KYu8aAxTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTZneGRWXoL0oSAHxlF431WSdkdbvwACOSUAAnXdwFeUJdsBJ_qQGjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkThneGRZJimpYxKGf1gypbLaRWOnjgACOyUAAnXdwFejJZi05EtCbzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTlneGRbH0qRTklsfgvZAzBxiKGOfwACPCUAAnXdwFf_qMNIwFxCxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkTtneGRdLTXpqyzxX-7Jw1RHZhE_MwACPiUAAnXdwFeRhbqoYsOxwTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkT1neGRg4mRuTx4YapLPFQmfHC_jcAACQCUAAnXdwFflN0n7vaalFzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkT9neGRjAsuloWf-WXmpdtGcJh-WPAACQiUAAnXdwFf8JazR73X5-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUFneGRluuk2L5wVtNAIRuoD1tYpFAACRCUAAnXdwFefx_dZQVw_qTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUNneGRs8z15dMr_SCrK6fLmbKdc4wACRiUAAnXdwFd2Gzz9bGUaYzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUVneGRubIP_WFR-pEPNQIap7giZGQACSCUAAnXdwFcCGPMtuq1HmTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUdneGSxuIQB0X103QI6UHKwRIT97QACSiUAAnXdwFdRicI52E8OhzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUlneGS2_Aobag2uyaUg_pCSKNW_FAACTCUAAnXdwFdH30cCtGmEQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkUtneGS5AwxfF7_DatVge8rcSa3c6QACTiUAAnXdwFfZoKwV9di4QjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkU1neGS7Gd356MymZH-rDVAZXs1IVwACUCUAAnXdwFfeX2UYASq76jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkU9neGS-oemvd0Bc3du3Hjo2MaIG3wACUiUAAnXdwFcF_jFcSnEbfDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVBneGTAa0Cf6N1Sr6Sm4j34iviGXgACUyUAAnXdwFfI1v-njbjBEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVJneGTDVrih_voshDvxtxDF33QGPwACVSUAAnXdwFcDIxRGDQfwxzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVRneGTHwPZmNxbO3IwqIVCYK9OprAACVyUAAnXdwFcm56fY6YNB2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVZneGTJmZzKUE-JWajcYv3zw2mC-gACWSUAAnXdwFctTs4AAcpLPyU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVhneGTMD1WOnJ8Vg8x0OJU2rVEmYQACWyUAAnXdwFcxTzsa188mhDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVpneGTOxi2vfJnarvQhFd64whFrMQACXSUAAnXdwFdFyyrwR2hlPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECkVtneGUWsRDP_TzUSANHs1oUSrC9iAACXiUAAnXdwFfWwp0aryOx9jYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43783,
+    "title": "霜月shimo - Fourth August [25P-175M]",
+    "sourceUrl": "https://telegra.ph/%E9%9C%9C%E6%9C%88shimo---Fourth-August-25P-175M-09-09",
+    "images": [
+        "https://telegra.ph/file/b339f9b63d30b69a07380.jpg",
+        "https://telegra.ph/file/8008d4933271423552f40.jpg",
+        "https://telegra.ph/file/334a6a7967ad67347077a.jpg",
+        "https://telegra.ph/file/be461936edb6acaf031df.jpg",
+        "https://telegra.ph/file/85bfc390823805ce5cdb1.jpg",
+        "https://telegra.ph/file/515c98be1cb623a3647ee.jpg",
+        "https://telegra.ph/file/3664746d4f1331bdd0da1.jpg",
+        "https://telegra.ph/file/e85ea863bb7e26e619d07.jpg",
+        "https://telegra.ph/file/d6a3d5d369f64ca03ddee.jpg",
+        "https://telegra.ph/file/506727aec6bb8ffd7445f.jpg",
+        "https://telegra.ph/file/27a3635285a991600135b.jpg",
+        "https://telegra.ph/file/be010d31539d891636e0f.jpg",
+        "https://telegra.ph/file/5c6dfd9633da8b5c376cf.jpg",
+        "https://telegra.ph/file/962eca4d1271502411c51.jpg",
+        "https://telegra.ph/file/75c5cfe11cd22b8a9df8c.jpg",
+        "https://telegra.ph/file/c9e3be46bcd90a30a1a0b.jpg",
+        "https://telegra.ph/file/a5ab4a74a54761fd0c671.jpg",
+        "https://telegra.ph/file/799e16c3115c947f0a38f.jpg",
+        "https://telegra.ph/file/c1316c149da8958081b2e.jpg",
+        "https://telegra.ph/file/58eaec7cf6035f9e02978.jpg",
+        "https://telegra.ph/file/f1b79bfeeb2dd1d66193e.jpg",
+        "https://telegra.ph/file/8b0cff7db305ad5b7ce79.jpg",
+        "https://telegra.ph/file/0c2437cbdf80be994aa5b.jpg",
+        "https://telegra.ph/file/a772451c436777513dcec.jpg",
+        "https://telegra.ph/file/01e971b626543f87d7f08.jpg"
+    ]
+};

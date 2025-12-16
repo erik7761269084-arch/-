@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27165,
+    "title": "眼酱 vol.33风吕に入る",
+    "sourceUrl": "https://telegra.ph/%E7%9C%BC%E9%85%B1-vol33%E9%A3%8E%E5%90%95%E3%81%AB%E5%85%A5%E3%82%8B-08-16",
+    "images": [
+        "https://telegra.ph/file/276f887d9e7d26d1faf55.jpg",
+        "https://telegra.ph/file/024c0dec5eb1208e899c2.jpg",
+        "https://telegra.ph/file/acc1e37ce5a2550a39cef.jpg",
+        "https://telegra.ph/file/b96dabd0c407547949c0f.jpg",
+        "https://telegra.ph/file/d44b38591e100e1ac6cef.jpg",
+        "https://telegra.ph/file/161311691ce40f54d5746.jpg",
+        "https://telegra.ph/file/84b93d473f163d9f0fa3c.jpg",
+        "https://telegra.ph/file/5f7ae3a75b3aa691a6870.jpg",
+        "https://telegra.ph/file/696d16aee49ecc35c3f8c.jpg",
+        "https://telegra.ph/file/7386b85147a5c891f5873.jpg",
+        "https://telegra.ph/file/1fe7d31eb17f806dd5a91.jpg",
+        "https://telegra.ph/file/586f0a40aff9a59cb013f.jpg",
+        "https://telegra.ph/file/a86657438c35d5ab9121a.jpg",
+        "https://telegra.ph/file/2ca96b065dcecbadafb20.jpg",
+        "https://telegra.ph/file/06e2babb6ca2d46c3cc93.jpg",
+        "https://telegra.ph/file/f426b1a4e90ed1bd50e98.jpg",
+        "https://telegra.ph/file/e9bc196195d4f7af80b2a.jpg",
+        "https://telegra.ph/file/c717ee8d119bc54e910df.jpg",
+        "https://telegra.ph/file/e85eeef7eb6671a2e77f7.jpg",
+        "https://telegra.ph/file/14c84d759c86e4c2d15cf.jpg",
+        "https://telegra.ph/file/3cc1bd16a0105ed3efe07.jpg",
+        "https://telegra.ph/file/fced04d9e89707de3af2f.jpg",
+        "https://telegra.ph/file/2e24dcd915971604dd2b1.jpg",
+        "https://telegra.ph/file/63b5e80c123183c343d2c.jpg",
+        "https://telegra.ph/file/44aae5f82a7bba9f38297.jpg",
+        "https://telegra.ph/file/d65a3d644ce41b54314fa.jpg"
+    ]
+};

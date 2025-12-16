@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45716,
+    "title": "[Fantasy Factory 小丁] - Sena Kashiwazaki - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory-小丁---Sena-Kashiwazaki---Page-1-10-19",
+    "images": [
+        "https://telegra.ph/file/86b2cacb5c75aaa622043.jpg",
+        "https://telegra.ph/file/d274020dd10d1070df4f4.jpg",
+        "https://telegra.ph/file/f3edc851c474508125cce.jpg",
+        "https://telegra.ph/file/408d813a7bd9e5d778551.jpg",
+        "https://telegra.ph/file/5031a3c53befecf5d244e.jpg",
+        "https://telegra.ph/file/ab69a185bee7221c6ab46.jpg",
+        "https://telegra.ph/file/4c2fad8a97d93cbdae8e9.jpg",
+        "https://telegra.ph/file/28ac591a64a546f132038.jpg",
+        "https://telegra.ph/file/b1da25fe62ad0cffa8297.jpg",
+        "https://telegra.ph/file/cd5ed730b8d80138032f7.jpg",
+        "https://telegra.ph/file/955c369ad6d7641d3247b.jpg",
+        "https://telegra.ph/file/2c4126d1154757a06bbb0.jpg",
+        "https://telegra.ph/file/934ec172bd9148968091d.jpg",
+        "https://telegra.ph/file/b933cde630186c5dbb570.jpg",
+        "https://telegra.ph/file/9d259b1c5da87dc8e0074.jpg",
+        "https://telegra.ph/file/57acca0765ab010adb9d1.jpg",
+        "https://telegra.ph/file/5f39de3ab417ee0adb95e.jpg",
+        "https://telegra.ph/file/172e51ea629e6829cd4ab.jpg",
+        "https://telegra.ph/file/5d92843d9cb3815cf83ce.jpg",
+        "https://telegra.ph/file/f71d9418446eddcdb3c76.jpg",
+        "https://telegra.ph/file/96884dca536462fbe1c2e.jpg",
+        "https://telegra.ph/file/a8f13c85fd7da0cbafff4.jpg",
+        "https://telegra.ph/file/08c4ee008e76b6f3a740c.jpg",
+        "https://telegra.ph/file/b21e4c3aac7ae4cc6b755.jpg",
+        "https://telegra.ph/file/6e60d398dd1b22cffe880.jpg"
+    ]
+};

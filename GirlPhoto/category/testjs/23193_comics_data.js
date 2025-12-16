@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23193,
+    "title": "千澄 裸体围巾犬娘 26p",
+    "sourceUrl": "https://telegra.ph/%E5%8D%83%E6%BE%84-%E8%A3%B8%E4%BD%93%E5%9B%B4%E5%B7%BE%E7%8A%AC%E5%A8%98-26p-01-27",
+    "images": [
+        "https://telegra.ph/file/a00ae86f0308d258042fb.jpg",
+        "https://telegra.ph/file/300af6763eb6b6ef0bf35.jpg",
+        "https://telegra.ph/file/69f27042254436d20d5bc.jpg",
+        "https://telegra.ph/file/d01018b8c514215ab87a9.jpg",
+        "https://telegra.ph/file/7cf51e6c9e7d8979992e6.jpg",
+        "https://telegra.ph/file/8cf2c577541aa9bbf9879.jpg",
+        "https://telegra.ph/file/5a41878da2dad7c511104.jpg",
+        "https://telegra.ph/file/24fcaa3c22ad598282f92.jpg",
+        "https://telegra.ph/file/da505961b88548f763a8e.jpg",
+        "https://telegra.ph/file/7cd02f1caa9730a9d5411.jpg",
+        "https://telegra.ph/file/4d1cee50913580d469051.jpg",
+        "https://telegra.ph/file/ffe37572a7dc7ff617609.jpg",
+        "https://telegra.ph/file/fd70a29576f420e3c8188.jpg",
+        "https://telegra.ph/file/9f4df7b5739c456535869.jpg",
+        "https://telegra.ph/file/d9d173e638a6863c51d8c.jpg",
+        "https://telegra.ph/file/1c16ca9ec1613747dbc6e.jpg",
+        "https://telegra.ph/file/92556b5a5c2af0aef66ef.jpg",
+        "https://telegra.ph/file/3b7883ddbd7431ad6364a.jpg",
+        "https://telegra.ph/file/3dc8078e8a8a114d9aaa9.jpg",
+        "https://telegra.ph/file/7967619af70eb90bc6344.jpg",
+        "https://telegra.ph/file/cea048a703be768cdf4c5.jpg",
+        "https://telegra.ph/file/6a74b4f675023930f133a.jpg",
+        "https://telegra.ph/file/a274a002f487790e5900a.jpg",
+        "https://telegra.ph/file/43b18f7c1803782884baa.jpg",
+        "https://telegra.ph/file/5bf4f7aad778783264a21.jpg",
+        "https://telegra.ph/file/86cf3983349d860627252.jpg"
+    ]
+};

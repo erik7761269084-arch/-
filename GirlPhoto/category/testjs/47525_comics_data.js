@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47525,
+    "title": "FeGalvão - Himiko Toga - Page 1",
+    "sourceUrl": "https://telegra.ph/FeGalvão---Himiko-Toga---Page-1-04-08",
+    "images": [
+        "https://telegra.ph/file/f68e8fa67ae4c15199484.jpg",
+        "https://telegra.ph/file/5bc977e215eca526351e6.jpg",
+        "https://telegra.ph/file/2bb8df51e329ba0741cc5.jpg",
+        "https://telegra.ph/file/f6fd8de16b3756f0b8948.jpg",
+        "https://telegra.ph/file/fb1b7c1283a2e3c9e2d2d.jpg",
+        "https://telegra.ph/file/9c22154010b3aab008097.jpg",
+        "https://telegra.ph/file/7a048bca4efbc593b12fe.jpg",
+        "https://telegra.ph/file/33da09e18f23bb5cfa705.jpg",
+        "https://telegra.ph/file/9dfd7067f55ff1c673bb2.jpg",
+        "https://telegra.ph/file/d856e7ac5ff6d0db11808.jpg",
+        "https://telegra.ph/file/2e22d2d2605ccdb58c4c8.jpg",
+        "https://telegra.ph/file/721dfd1b6551aedc9c95e.jpg",
+        "https://telegra.ph/file/3fdbe84bb2924bb0748d4.jpg",
+        "https://telegra.ph/file/9be91980813023682b558.jpg",
+        "https://telegra.ph/file/2833ec6c5aa7a99fabf1d.jpg",
+        "https://telegra.ph/file/509b27319dace03679432.jpg",
+        "https://telegra.ph/file/8ca647029ec06b6859e5b.jpg",
+        "https://telegra.ph/file/111ea2b8e257e495b229c.jpg",
+        "https://telegra.ph/file/91b53ff92f3736f37d5db.jpg",
+        "https://telegra.ph/file/3bd61ca28193b37317bff.jpg",
+        "https://telegra.ph/file/2b67cd30121525e78bd0f.jpg",
+        "https://telegra.ph/file/84f1429e3c91460f318d5.jpg",
+        "https://telegra.ph/file/8bce6c6eac2a7b2e050b1.jpg",
+        "https://telegra.ph/file/9e3530a65ef7dd27e34bc.jpg"
+    ]
+};

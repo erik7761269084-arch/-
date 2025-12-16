@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30995,
+    "title": "[QUEENIE CHUPPY] マシュ・キリエライト Mashu Dancer Version",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY-マシュキリエライト-Mashu-Dancer-Version-08-03",
+    "images": [
+        "https://telegra.ph/file/7c36bf242457c55a6f0a7.jpg",
+        "https://telegra.ph/file/2e1307e1a72f5e5db942f.jpg",
+        "https://telegra.ph/file/f045efe55d77fa9e360d4.jpg",
+        "https://telegra.ph/file/8b370f124ab7bea1506fa.jpg",
+        "https://telegra.ph/file/acfa8a836fd4698aa1ba0.jpg",
+        "https://telegra.ph/file/ecd87bcdbb3dac1418b88.jpg",
+        "https://telegra.ph/file/2ccdfc5adab9853f85092.jpg",
+        "https://telegra.ph/file/26ca4f35545f8ae0e0a27.jpg",
+        "https://telegra.ph/file/5424c7455c45d5a205a25.jpg",
+        "https://telegra.ph/file/2cdd9f2cba6376194fac1.jpg",
+        "https://telegra.ph/file/3e27ab5dd083c8ca97658.jpg",
+        "https://telegra.ph/file/49738809dba8ef22365b9.jpg",
+        "https://telegra.ph/file/9ec5559201c19b1121011.jpg",
+        "https://telegra.ph/file/398712d937533e5f892ee.jpg",
+        "https://telegra.ph/file/96a4a6d1d50babaceeaa3.jpg",
+        "https://telegra.ph/file/d7492c36dbae12e3c875d.jpg",
+        "https://telegra.ph/file/861f4bffbbc41e734e43b.jpg",
+        "https://telegra.ph/file/a4816700d4d3ad906b3c1.jpg",
+        "https://telegra.ph/file/d674488dc31e54d8968a9.jpg",
+        "https://telegra.ph/file/73b29ccae4de6032e6169.jpg",
+        "https://telegra.ph/file/8084e10966be900f71512.jpg",
+        "https://telegra.ph/file/d6eabfb73c2cae1a7147a.jpg",
+        "https://telegra.ph/file/66946f6471f47fa62b071.jpg",
+        "https://telegra.ph/file/33f75523e5df77eeabc3d.jpg",
+        "https://telegra.ph/file/1c5a311924213fe3c8ef0.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

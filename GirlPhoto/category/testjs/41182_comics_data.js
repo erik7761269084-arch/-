@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 41182,
+    "title": "Alice Delish - Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Alice-Delish---Power-Chainsaw-Man-02-23",
+    "images": [
+        "https://telegra.ph/file/28810721f00b45e41b385.jpg",
+        "https://telegra.ph/file/a293ebd88d2ddf417eef5.jpg",
+        "https://telegra.ph/file/7462408c13c498e1e0002.jpg",
+        "https://telegra.ph/file/965f9731196d2028b61be.jpg",
+        "https://telegra.ph/file/019696974425486966a3a.jpg",
+        "https://telegra.ph/file/14364f0c3c535579c6fe0.jpg",
+        "https://telegra.ph/file/d2a4a3e30d4ed21b99959.jpg",
+        "https://telegra.ph/file/75665d2cb991de0951602.jpg",
+        "https://telegra.ph/file/324be9e3626ab997b70ba.jpg",
+        "https://telegra.ph/file/e3bcd9b58c481784ebcef.jpg",
+        "https://telegra.ph/file/45785ad0caf374ed2221b.jpg",
+        "https://telegra.ph/file/25b5da56c380fae833456.jpg",
+        "https://telegra.ph/file/9d387b1557dcddb928970.jpg",
+        "https://telegra.ph/file/fc7872b26cd1696d676c9.jpg",
+        "https://telegra.ph/file/3c97d9dc03c67d14d9ad7.jpg",
+        "https://telegra.ph/file/9ee6202419030e9ba7eeb.jpg",
+        "https://telegra.ph/file/de37466ebdcf71ca5278d.jpg",
+        "https://telegra.ph/file/4a517cef606a3c35c4dcc.jpg",
+        "https://telegra.ph/file/2c5649f949e0c9c3a86a4.jpg",
+        "https://telegra.ph/file/1e34553dba2192087113e.jpg",
+        "https://telegra.ph/file/c03b5864274ca3b44e343.jpg",
+        "https://telegra.ph/file/43ca7fe8c152117503fec.jpg",
+        "https://telegra.ph/file/d06737fbf9cd024e9b5b4.jpg",
+        "https://telegra.ph/file/789b08e629adb976def07.jpg",
+        "https://telegra.ph/file/2a01065ab140624cc6844.jpg",
+        "https://telegra.ph/file/3b57fdb945163754855ba.jpg"
+    ]
+};

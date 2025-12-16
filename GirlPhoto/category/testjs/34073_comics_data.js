@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34073,
+    "title": "Son Yeeun 손예은, [Loozy] Gisheng 妓生 Set.01",
+    "sourceUrl": "https://telegra.ph/Son-Yeeun-손예은-Loozy-Gisheng-妓生-Set01-05-08",
+    "images": [
+        "https://telegra.ph/file/5b53a8b574a69c04b0371.jpg",
+        "https://telegra.ph/file/cdd3bbf5eca3b8f7b6adf.jpg",
+        "https://telegra.ph/file/149b372f16fccb2d2da1d.jpg",
+        "https://telegra.ph/file/1c1538b1b0d632fa6581f.jpg",
+        "https://telegra.ph/file/da5671d407bc890a8192b.jpg",
+        "https://telegra.ph/file/bb3791f4f48019313595f.jpg",
+        "https://telegra.ph/file/52513bb43491be79b20a1.jpg",
+        "https://telegra.ph/file/254de3f56375b9e638d3c.jpg",
+        "https://telegra.ph/file/6fc79aca78c225c4ba129.jpg",
+        "https://telegra.ph/file/5aa9237b589c24b7cc76e.jpg",
+        "https://telegra.ph/file/a4da7152ff11dcc2351fa.jpg",
+        "https://telegra.ph/file/717640c4ec9736fcc0721.jpg",
+        "https://telegra.ph/file/cbfb878e56931124099d6.jpg",
+        "https://telegra.ph/file/7649f92164aa717bf3eb2.jpg",
+        "https://telegra.ph/file/326251f336e83bf29b3c1.jpg",
+        "https://telegra.ph/file/79a0aceea2009a21df94e.jpg",
+        "https://telegra.ph/file/b5c56013b012cec6f7f0a.jpg",
+        "https://telegra.ph/file/a47016bcfc0a80d0eaa12.jpg",
+        "https://telegra.ph/file/5833ec9820e4bb9277bae.jpg",
+        "https://telegra.ph/file/b7ee0ac035198f9be76e6.jpg",
+        "https://telegra.ph/file/faf5d4d3755aa31d4aca7.jpg",
+        "https://telegra.ph/file/281c88a92a03ee73ec7ca.jpg",
+        "https://telegra.ph/file/8c73ce4e104d0920d6c60.jpg",
+        "https://telegra.ph/file/d6a4ae46a11ca58dbe694.jpg",
+        "https://telegra.ph/file/b54dd2f143c9680956c01.jpg"
+    ]
+};

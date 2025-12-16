@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35488,
+    "title": "Hani 하니, CREAM PIE Photobook &#8216;Taking A Shower&#8217;",
+    "sourceUrl": "https://telegra.ph/Hani-하니-CREAM-PIE-Photobook-8216Taking-A-Shower8217-09-29",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUSZHcIecTwZ6OkmvsV_4iWvMAAlLNMRvzdbBTbG4ne1_ruHIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUSVd1xlY7XsIfSi0gGdw-oXgAAlTNMRvzdbBTKbG_-jEyGngBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUSWFO5LFewBB95f1OiSIy8vAAAlPNMRvzdbBTJxvGDllQmJUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUSaKynJaBq8LOxhYR-WUdKigAAlXNMRvzdbBT1GLEECjGzTkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUSRxav93Rcyetqrb4UHT5CXYAAlHNMRvzdbBTa6zBlQ2yemYBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUQJLLfF6M1lq1OPFQTwABPSfvAAJQzTEb83WwU_p61kW5j6kYAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUQAPtCtwWYJSrF4Q4vc4pJYAAAk7NMRvzdbBT6ok8d1AK4D4BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUQKmkhBfu7uJvzxUVpL6bSKUAAk_NMRvzdbBTu7YSV2rsYkIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUQA4ZgSn5PBdN81Aw9Ha4rWsAAkzNMRvzdbBTaiWpQQzdU4EBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUQCzi6qGFrnCxpQTjf089NKoAAk3NMRvzdbBT3FdtFTMXNFcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUVQEAAeuWy8LHdHNSbsEekzHaAAJYzTEb83WwU975ibWhb984AQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUVWnk9bTtAAGyw6oYp33L6lgSAAJXzTEb83WwU6Cc-j_537OWAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUVat3aPBKW6gX1wdkrS8z43YAAlbNMRvzdbBTzohStLCGuYoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUVah-kBoAAQagRjdLdLlm3JrUAAJazTEb83WwUy8Uw0c0BEBEAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUVR2ZJPllcB-qoQc5bms-_wUAAlnNMRvzdbBTUW1waOXniJ0BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUWrNtt1piefh5ksL9dhTBJqcAAl7NMRvzdbBTNIgYC_htt8YBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUWorJwMphfiTLDI9c2XmdBV8AAlvNMRvzdbBTZxRzgKl4t5ABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUWu0aKYx-Z4Mb3NBazMc9D8AAAlzNMRvzdbBTBazKiMb3BwkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUWrPWAjpwjsRMkNLFlMnLOxoAAl3NMRvzdbBTvvQDLbrm5JcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUWqp9XpeRW8DbLJC3wttfvjoAAl_NMRvzdbBT18U-8D7WEGABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUkxxnRln0Jq8fsNTgsjjbPGoAAmHNMRvzdbBTE_qvhVsAAdTsAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUk3zfg8NRBJIZykdzGDpfpRkAAmTNMRvzdbBTMsEX8HgH7RkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUk4NC1loOz_V4N1OneXqrqzcAAmXNMRvzdbBThUJTAkakvfABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUk2JYIkXYzy2dIm-YpGddv_UAAmDNMRvzdbBTDfG1Uyr1imIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUmDLT6nlF4JUrumKPsFw1QmUAAmLNMRvzdbBTe_Klb6R197kBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXUk_y53IvoL2micRZngdusSkcAAmPNMRvzdbBTpjAHBLYYHoUBAAMCAAN3AAM2BA.jpg"
+    ]
+};

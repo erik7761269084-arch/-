@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47206,
+    "title": "QQueen - Rem - Page 1",
+    "sourceUrl": "https://telegra.ph/QQueen---Rem---Page-1-03-10",
+    "images": [
+        "https://telegra.ph/file/fea49ce2bbb2b80a802df.jpg",
+        "https://telegra.ph/file/a067df4dd75a02d0a4f32.jpg",
+        "https://telegra.ph/file/dcce57708669730e96d87.jpg",
+        "https://telegra.ph/file/09f8e242279f3ac766394.jpg",
+        "https://telegra.ph/file/d60a0cea9e76f7f0569de.jpg",
+        "https://telegra.ph/file/c20e491408e3d1ca8b975.jpg",
+        "https://telegra.ph/file/61a7297f1c1be0e2a9678.jpg",
+        "https://telegra.ph/file/58c202867cb5ab3366f0d.jpg",
+        "https://telegra.ph/file/d72640fe70f268f5c9579.jpg",
+        "https://telegra.ph/file/065106122c55899e3fc87.jpg",
+        "https://telegra.ph/file/3ed180e353480d853be8a.jpg",
+        "https://telegra.ph/file/66b2c369b4a9a80fd4982.jpg",
+        "https://telegra.ph/file/c5afa84aa5b8f5301919e.jpg",
+        "https://telegra.ph/file/fb76141b62a920bf3384e.jpg",
+        "https://telegra.ph/file/790a562ed19f32d09dd21.jpg",
+        "https://telegra.ph/file/c8998ab4ba0f0f1843d5d.jpg",
+        "https://telegra.ph/file/a2412b10b0d6ed110e47c.jpg",
+        "https://telegra.ph/file/088d6511a1316c9d8ab79.jpg",
+        "https://telegra.ph/file/981c08d31be12a7f0b54b.jpg",
+        "https://telegra.ph/file/d41cc65d7b42a3e9bd5c9.jpg",
+        "https://telegra.ph/file/af29c2633445ca1f0bba0.jpg",
+        "https://telegra.ph/file/1202604d13b0cbbfddfc8.jpg",
+        "https://telegra.ph/file/1cf9714e4711a4566448f.jpg",
+        "https://telegra.ph/file/48f9876bb9fe700608dd4.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39645,
+    "title": "Potato Godzilla - Kizuna Ai (Hololive)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Kizuna-Ai-Genshin-Impact-09-09",
+    "images": [
+        "https://telegra.ph/file/4896b39fe283e06d55d50.jpg",
+        "https://telegra.ph/file/f1f80088479e0b12d446b.jpg",
+        "https://telegra.ph/file/e223bdbfe202229267351.jpg",
+        "https://telegra.ph/file/e83e8002b744223a6683c.jpg",
+        "https://telegra.ph/file/cd9c770723df5027d275f.jpg",
+        "https://telegra.ph/file/d73a26c69a98490d18428.jpg",
+        "https://telegra.ph/file/99e26bd1e9a419feacd4e.jpg",
+        "https://telegra.ph/file/8d4d95cd500026f4fc46e.jpg",
+        "https://telegra.ph/file/f4a1127f7d42dd699f7e9.jpg",
+        "https://telegra.ph/file/9bdee6927fc22b035de95.jpg",
+        "https://telegra.ph/file/256e4be24de065a491538.jpg",
+        "https://telegra.ph/file/f3ab8d4c99fd108e5f14e.jpg",
+        "https://telegra.ph/file/8b85f95978fd0f7111875.jpg",
+        "https://telegra.ph/file/766cbf8d2eb8eaece87fe.jpg",
+        "https://telegra.ph/file/2d7079c5bab0e70b26bad.jpg",
+        "https://telegra.ph/file/496e00509ac8f49a9600b.jpg",
+        "https://telegra.ph/file/53314d4f85d86e2cee1f4.jpg",
+        "https://telegra.ph/file/2a95d9de4a75195180b5a.jpg",
+        "https://telegra.ph/file/730b52cfe0bb964aefac2.jpg",
+        "https://telegra.ph/file/a31098cff1a02f15700c6.jpg",
+        "https://telegra.ph/file/72f71e861fb690ebdef9e.jpg",
+        "https://telegra.ph/file/21918fe1f2b53424b26d3.jpg",
+        "https://telegra.ph/file/03400b2d4728c6709173d.jpg",
+        "https://telegra.ph/file/2e650302c0c4a5e18bd6e.jpg",
+        "https://telegra.ph/file/cc9cdb6004481a2bcfd1c.jpg",
+        "https://telegra.ph/file/b8e53a495a872827f00c1.jpg"
+    ]
+};

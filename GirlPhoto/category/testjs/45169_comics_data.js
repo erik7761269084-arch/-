@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45169,
+    "title": "蠢沫沫 - 大慈树王 - Page 1",
+    "sourceUrl": "https://telegra.ph/蠢沫沫---大慈树王---Page-1-07-23",
+    "images": [
+        "https://telegra.ph/file/90978c108dc1f6427d3db.jpg",
+        "https://telegra.ph/file/7b60fbaefe275c4a830b7.jpg",
+        "https://telegra.ph/file/023dc72c61666ff44a8fd.jpg",
+        "https://telegra.ph/file/13dd7c0e9a82906ee41dc.jpg",
+        "https://telegra.ph/file/603b604ae98dbe83933d2.jpg",
+        "https://telegra.ph/file/36902da60313cec381d85.jpg",
+        "https://telegra.ph/file/9d4a5f0942047b36e1d38.jpg",
+        "https://telegra.ph/file/c5bdd6ddab651aa0da554.jpg",
+        "https://telegra.ph/file/9abd3520956751de47f89.jpg",
+        "https://telegra.ph/file/37d99a501336a6c7fbcb9.jpg",
+        "https://telegra.ph/file/99f5fffdb64b65ddd06fc.jpg",
+        "https://telegra.ph/file/bcab9bf336a6a7b7abf53.jpg",
+        "https://telegra.ph/file/c61db26b8a7efd14b7e0f.jpg",
+        "https://telegra.ph/file/a9052dcff935ecff6f3ea.jpg",
+        "https://telegra.ph/file/1f729a6e2cb4a38c41c21.jpg",
+        "https://telegra.ph/file/811c40fa4638a025f4ac1.jpg",
+        "https://telegra.ph/file/7bd73f48140f23ccb47ce.jpg",
+        "https://telegra.ph/file/3a59d6225a29a93f55373.jpg",
+        "https://telegra.ph/file/50458dcf34e23da305e69.jpg",
+        "https://telegra.ph/file/4452f8c7fec5aea2102f3.jpg",
+        "https://telegra.ph/file/da0977f51bf344d9ffadf.jpg",
+        "https://telegra.ph/file/8fc197f9fbd6d514b7c4a.jpg",
+        "https://telegra.ph/file/84ff47c500fa6c10c7f95.jpg",
+        "https://telegra.ph/file/2cf3e7c69394011e06f42.jpg",
+        "https://telegra.ph/file/fd77025c29ea8e007e60c.jpg"
+    ]
+};

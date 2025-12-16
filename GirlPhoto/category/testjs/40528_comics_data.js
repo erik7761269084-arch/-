@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40528,
+    "title": "Hidori Rose - OL Keqing (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---OL-Keqing-Genshin-Impact-07-22",
+    "images": [
+        "https://telegra.ph/file/c7a562779a2be1b350077.jpg",
+        "https://telegra.ph/file/553efc51df8213db377b2.jpg",
+        "https://telegra.ph/file/f8d8cdf0636acb064b5a6.jpg",
+        "https://telegra.ph/file/5b367a8c722f3b01affbf.jpg",
+        "https://telegra.ph/file/5381452194494c2c16f97.jpg",
+        "https://telegra.ph/file/0cd923266b13005b4c57d.jpg",
+        "https://telegra.ph/file/12b5647642c43d9d6c31f.jpg",
+        "https://telegra.ph/file/cda7116cc6fbd9ecdf506.jpg",
+        "https://telegra.ph/file/2351dce0dfb0d70614637.jpg",
+        "https://telegra.ph/file/288f8514952b1fea73a7b.jpg",
+        "https://telegra.ph/file/f4b93dde2e6f45c42f0f4.jpg",
+        "https://telegra.ph/file/6858036b7c57905bb4806.jpg",
+        "https://telegra.ph/file/129b6c97349848cb13cfa.jpg",
+        "https://telegra.ph/file/572307e7ee5ac8219fdcb.jpg",
+        "https://telegra.ph/file/41257b30e7e9471865678.jpg",
+        "https://telegra.ph/file/ad7130799ae5a96841dea.jpg",
+        "https://telegra.ph/file/eb14d3a848b8b0fe48f7a.jpg",
+        "https://telegra.ph/file/a59fdb2cfc05bfe38bbf9.jpg",
+        "https://telegra.ph/file/d283feb522c7bac43ccb4.jpg",
+        "https://telegra.ph/file/450489e53d5dda9290caf.jpg",
+        "https://telegra.ph/file/d09ca94d720ae7d8089a5.jpg",
+        "https://telegra.ph/file/8e0290f80f564d20a7baf.jpg",
+        "https://telegra.ph/file/8f5d33c7f1d7a7f01558f.jpg",
+        "https://telegra.ph/file/0ac4ae668bc8528cf90c5.jpg",
+        "https://telegra.ph/file/d0ab4d8286ff685b6f72f.jpg"
+    ]
+};

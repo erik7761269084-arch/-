@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30431,
+    "title": "[XiuRen秀人网]  No.5147 梦心玥 佛山心愿旅拍",
+    "sourceUrl": "https://telegra.ph/XiuRen秀人网-No5147-梦心玥-佛山心愿旅拍-06-06",
+    "images": [
+        "https://telegra.ph/file/543c515ff30d7e810fe8e.jpg",
+        "https://telegra.ph/file/72cbb5508f17bbdaa10c7.jpg",
+        "https://telegra.ph/file/bcfb588b9d11c09e19673.jpg",
+        "https://telegra.ph/file/705c5c183408cc9ad0069.jpg",
+        "https://telegra.ph/file/b04554f11bc249ce89956.jpg",
+        "https://telegra.ph/file/270f2ca215ac4856d3811.jpg",
+        "https://telegra.ph/file/37bb50afb03e4dbfd957d.jpg",
+        "https://telegra.ph/file/75df70de1101f1f08e06f.jpg",
+        "https://telegra.ph/file/9a4ec669c8f0e5a9c10c6.jpg",
+        "https://telegra.ph/file/488847421d74f8f60ba48.jpg",
+        "https://telegra.ph/file/7dead5028884db7f9ddb7.jpg",
+        "https://telegra.ph/file/3aa77cf05b564e757e3b0.jpg",
+        "https://telegra.ph/file/c6c37f8da10161e437239.jpg",
+        "https://telegra.ph/file/928c52a9dffbc6fc3b3c1.jpg",
+        "https://telegra.ph/file/29d8a03db551368997f72.jpg",
+        "https://telegra.ph/file/3f93c16f5d38be632619b.jpg",
+        "https://telegra.ph/file/1c266d8572cfd6dd9a840.jpg",
+        "https://telegra.ph/file/4d1ac873262d25b9681e9.jpg",
+        "https://telegra.ph/file/454647e1f70f2d81111ba.jpg",
+        "https://telegra.ph/file/a4d12518cf13bb44e2992.jpg",
+        "https://telegra.ph/file/07c01864ef0fec71c72a7.jpg",
+        "https://telegra.ph/file/f7410dbad9433e0500c7f.jpg",
+        "https://telegra.ph/file/97478a3e8313fda8b96ae.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

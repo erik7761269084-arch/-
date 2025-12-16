@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35477,
+    "title": "Cosplay 萝莉Byoru 千夜 Chiyo",
+    "sourceUrl": "https://telegra.ph/Cosplay-萝莉Byoru-千夜-Chiyo-09-27",
+    "images": [
+        "https://telegra.ph/file/251a8503e27105826da0b.jpg",
+        "https://telegra.ph/file/b6e296cca7bbd54df7c05.jpg",
+        "https://telegra.ph/file/05c35e6507eee02ffb4cb.jpg",
+        "https://telegra.ph/file/0fafd8e7ac6c1451b1a65.jpg",
+        "https://telegra.ph/file/aab122f790650b6335b20.jpg",
+        "https://telegra.ph/file/1f86e46df9781d1acb115.jpg",
+        "https://telegra.ph/file/b9f87fb9252aecc2c5231.jpg",
+        "https://telegra.ph/file/9e16eda2b45b0c76f175b.jpg",
+        "https://telegra.ph/file/eb86bcc70954395a8eaa9.jpg",
+        "https://telegra.ph/file/4b48c4be40d13af8a60f7.jpg",
+        "https://telegra.ph/file/8aaae74a9dfd57e60c94c.jpg",
+        "https://telegra.ph/file/25e177d4e4d978caf1474.jpg",
+        "https://telegra.ph/file/dd75fa08481a6e85cd3b3.jpg",
+        "https://telegra.ph/file/443cffa491562444b9986.jpg",
+        "https://telegra.ph/file/22b6c13124c5f1f73cd4b.jpg",
+        "https://telegra.ph/file/b9da30163be556367d2ad.jpg",
+        "https://telegra.ph/file/46c9e5ab34423e80738f1.jpg",
+        "https://telegra.ph/file/025ae14a9cdc45027d458.jpg",
+        "https://telegra.ph/file/65afc0eca9990e4531516.jpg",
+        "https://telegra.ph/file/371631458d987dc0ff010.jpg",
+        "https://telegra.ph/file/41bc4fda04382655648d0.jpg",
+        "https://telegra.ph/file/f126ea9217fb23ebfe03f.jpg",
+        "https://telegra.ph/file/49fa4c2204002a0c34bdf.jpg",
+        "https://telegra.ph/file/d572ae5cf34517d0732ef.jpg",
+        "https://telegra.ph/file/9fa634459affa2e52623d.jpg"
+    ]
+};

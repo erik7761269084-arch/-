@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43699,
+    "title": "NAGISA魔物喵 - かわいい転校生 [26P／135MB]",
+    "sourceUrl": "https://telegra.ph/NAGISA%E9%AD%94%E7%89%A9%E5%96%B5---%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%BB%A2%E6%A0%A1%E7%94%9F-26P135MB-06-08",
+    "images": [
+        "https://telegra.ph/file/ea898e8f3e1cf692786a5.jpg",
+        "https://telegra.ph/file/178b75ce753b0d0cfa5d6.jpg",
+        "https://telegra.ph/file/4e5033e4a58d59e5e02ff.jpg",
+        "https://telegra.ph/file/9cdb46811d53daa78b61d.jpg",
+        "https://telegra.ph/file/ea30427da1e93d76adcfa.jpg",
+        "https://telegra.ph/file/d266edc94ac85f9e43dd4.jpg",
+        "https://telegra.ph/file/3e31a38809a144d32624a.jpg",
+        "https://telegra.ph/file/a6decc546cd6d5cc02aeb.jpg",
+        "https://telegra.ph/file/9458d441414e168273a4f.jpg",
+        "https://telegra.ph/file/b5c0bca53ec4a09d1a972.jpg",
+        "https://telegra.ph/file/25a80b4e370f03f6fe2f9.jpg",
+        "https://telegra.ph/file/e6878246a7efb31b1167e.jpg",
+        "https://telegra.ph/file/7d76bcbcd2ce5eb5e75cd.jpg",
+        "https://telegra.ph/file/743b0c147e4d2ead41e29.jpg",
+        "https://telegra.ph/file/c5b501aa15ee5847b2288.jpg",
+        "https://telegra.ph/file/f63e3e59073089f94f4c2.jpg",
+        "https://telegra.ph/file/ab283b64f1d4925272459.jpg",
+        "https://telegra.ph/file/8c2aad98cb1e4d607350f.jpg",
+        "https://telegra.ph/file/2542279da6f227121650b.jpg",
+        "https://telegra.ph/file/f01211951f1b271baf8b5.jpg",
+        "https://telegra.ph/file/7e679d40f25d0291a9833.jpg",
+        "https://telegra.ph/file/53cacb4f8c88407242e57.jpg",
+        "https://telegra.ph/file/ec65488ca6d6456d190d3.jpg",
+        "https://telegra.ph/file/cf7d873d3022785ab2472.jpg",
+        "https://telegra.ph/file/3c2152cf90490cfa7e19c.jpg",
+        "https://telegra.ph/file/7af39c80605992e51de3b.jpg"
+    ]
+};

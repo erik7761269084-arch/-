@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27860,
+    "title": "Byoru - Pack Leviathan",
+    "sourceUrl": "https://telegra.ph/Byoru---Pack-Leviathan-07-07",
+    "images": [
+        "https://telegra.ph/file/eaf8979d073ff97ea9491.jpg",
+        "https://telegra.ph/file/750dafd8931d7abc4c931.jpg",
+        "https://telegra.ph/file/4394b121740b620b687b5.jpg",
+        "https://telegra.ph/file/a83408deedd390ec0a2a8.jpg",
+        "https://telegra.ph/file/001c2d854cf200a0f3c08.jpg",
+        "https://telegra.ph/file/5d31092d6d0664bd16b15.jpg",
+        "https://telegra.ph/file/36b9b6943000bcb9c9e18.jpg",
+        "https://telegra.ph/file/74f222e8723d3e5912ed3.jpg",
+        "https://telegra.ph/file/2a4bce9baa7aa95e5cfe5.jpg",
+        "https://telegra.ph/file/e361a65767bc3b9e8c219.jpg",
+        "https://telegra.ph/file/0c13e98d945edb917369f.jpg",
+        "https://telegra.ph/file/aa408ee25a3cc4367aff8.jpg",
+        "https://telegra.ph/file/56a989cbcb9766d8ef225.jpg",
+        "https://telegra.ph/file/b8346a5cdbe34a1e8ecec.jpg",
+        "https://telegra.ph/file/19c339f5ca73d2adbb093.jpg",
+        "https://telegra.ph/file/48accd5fb296732e717d3.jpg",
+        "https://telegra.ph/file/4e280ecfd09f056ef6aac.jpg",
+        "https://telegra.ph/file/5a2ca59c7b6b99e3e1aa8.jpg",
+        "https://telegra.ph/file/5d9c5ee08282f870a76cf.jpg",
+        "https://telegra.ph/file/390794cc2a8b1e35d1c9b.jpg",
+        "https://telegra.ph/file/69c7c5c2e0e90648f100e.jpg",
+        "https://telegra.ph/file/2c8790c0097cffca1900e.jpg",
+        "https://telegra.ph/file/6e6cee99fd8bf9c4a3d16.jpg",
+        "https://telegra.ph/file/aca09c744810268e8f04d.jpg"
+    ]
+};

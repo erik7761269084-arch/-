@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23075,
+    "title": "九言 - 玛修[23P2V]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E7%8E%9B%E4%BF%AE23P2V-01-15",
+    "images": [
+        "https://telegra.ph/file/c20cab4c5ca78ba7bfcb5.jpg",
+        "https://telegra.ph/file/1dde0a92a64bc1bbc658e.jpg",
+        "https://telegra.ph/file/4ae78fd028b1f4e63e8e4.jpg",
+        "https://telegra.ph/file/8a6d76b64353f2914e72e.jpg",
+        "https://telegra.ph/file/4d6171b7f018da1fc4366.jpg",
+        "https://telegra.ph/file/15e27ba74db6d21c1cc96.jpg",
+        "https://telegra.ph/file/e6bd42c78d92aaafab266.jpg",
+        "https://telegra.ph/file/6f11cd92bcdcb807eba80.jpg",
+        "https://telegra.ph/file/b6105444746554d8692eb.jpg",
+        "https://telegra.ph/file/7626f373c572ef26b297e.jpg",
+        "https://telegra.ph/file/c6fc7b8658fe088d87f5c.jpg",
+        "https://telegra.ph/file/06e0d6ad4a01324faecfd.jpg",
+        "https://telegra.ph/file/bb9202e3f2263e67edd12.jpg",
+        "https://telegra.ph/file/52b230aa26c1686077726.jpg",
+        "https://telegra.ph/file/621e182d0769c9792f258.jpg",
+        "https://telegra.ph/file/f5bd6d57b9095e1e891bb.jpg",
+        "https://telegra.ph/file/67ab033e6f96b1718de88.jpg",
+        "https://telegra.ph/file/22d312bdeb2dc5f151229.jpg",
+        "https://telegra.ph/file/675163042d0cac3da4de8.jpg",
+        "https://telegra.ph/file/5f17239aa24be7aef504a.jpg",
+        "https://telegra.ph/file/573004b9351330c5d4ec9.jpg",
+        "https://telegra.ph/file/3b166eac2d35b6812f0c2.jpg",
+        "https://telegra.ph/file/d1dcd3166ad4257a69272.jpg"
+    ]
+};

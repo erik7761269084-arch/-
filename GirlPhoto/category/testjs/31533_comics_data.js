@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31533,
+    "title": "Cosplay 一笑芳香沁 箱庭妖怪",
+    "sourceUrl": "https://telegra.ph/Cosplay-一笑芳香沁-箱庭妖怪-08-16",
+    "images": [
+        "https://telegra.ph/file/9fd05b050e87fba2ed990.jpg",
+        "https://telegra.ph/file/121764895e056ac79d68b.jpg",
+        "https://telegra.ph/file/a90a2373dcddb18fc18fe.jpg",
+        "https://telegra.ph/file/ded29050edf7f464da0e4.jpg",
+        "https://telegra.ph/file/a7e56df08672a2a0cadc1.jpg",
+        "https://telegra.ph/file/00e30e706a3a71917ef2c.jpg",
+        "https://telegra.ph/file/dbf10ff2b96b3e9a40a5a.jpg",
+        "https://telegra.ph/file/48ca943b9a5287a096d4a.jpg",
+        "https://telegra.ph/file/2b3183107ca03f0030ef5.jpg",
+        "https://telegra.ph/file/5a4b7f12951ef0d5a63bd.jpg",
+        "https://telegra.ph/file/0e0a2f81c8c9781818120.jpg",
+        "https://telegra.ph/file/6d5bf2378c899e9163117.jpg",
+        "https://telegra.ph/file/689cdf02e8c5c2c23f0d8.jpg",
+        "https://telegra.ph/file/f1700454fc9bbe1eb28a5.jpg",
+        "https://telegra.ph/file/2f263f91579dfcad59c0f.jpg",
+        "https://telegra.ph/file/17100c78440f679a17062.jpg",
+        "https://telegra.ph/file/1b5e6bdc3c515d61c582e.jpg",
+        "https://telegra.ph/file/ad73b8b2bcc761be5726c.jpg",
+        "https://telegra.ph/file/14848b968cca0a630da63.jpg",
+        "https://telegra.ph/file/78b500ea21b7ff60daf22.jpg",
+        "https://telegra.ph/file/204c4b5fb2eb32c9e0d3c.jpg",
+        "https://telegra.ph/file/bc97c2b34103211577a5d.jpg",
+        "https://telegra.ph/file/adce37813f09df86c6778.jpg",
+        "https://telegra.ph/file/3638d6d5a981edd6eb5b8.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

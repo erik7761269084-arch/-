@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41624,
+    "title": "Bishoujomom - Atom Eve (Invisible)",
+    "sourceUrl": "https://telegra.ph/Bishoujomom---Atom-Eve-Invisible-06-22",
+    "images": [
+        "https://telegra.ph/file/c3db75192ceac22bd84b9.jpg",
+        "https://telegra.ph/file/2a82464d86ad80056b777.jpg",
+        "https://telegra.ph/file/fb3f4e01d8314b9c1895a.jpg",
+        "https://telegra.ph/file/91aedfe08794d4a205ccf.jpg",
+        "https://telegra.ph/file/bd165a82045ba4572697f.jpg",
+        "https://telegra.ph/file/d438dfa6f14a353c1f336.jpg",
+        "https://telegra.ph/file/eb0b95cb0250b32bdf9f0.jpg",
+        "https://telegra.ph/file/c8da4df5611d0fcc60769.jpg",
+        "https://telegra.ph/file/d039e32b3b027e90edc34.jpg",
+        "https://telegra.ph/file/df71927972feab95b43f0.jpg",
+        "https://telegra.ph/file/dd32bee0778dae3cafd1c.jpg",
+        "https://telegra.ph/file/17dbd53ef0871d9feb2e2.jpg",
+        "https://telegra.ph/file/0b591051342bdce227845.jpg",
+        "https://telegra.ph/file/ee0ab224abca080d08c0a.jpg",
+        "https://telegra.ph/file/efbc0a7944bba2fba0288.jpg",
+        "https://telegra.ph/file/d1b1025737736694d01a1.jpg",
+        "https://telegra.ph/file/07f542b750c472d2d5229.jpg",
+        "https://telegra.ph/file/3dc28170a6b4a900b06b1.jpg",
+        "https://telegra.ph/file/cebf28bb3647e9403f1e7.jpg",
+        "https://telegra.ph/file/5dfa4591208feac1d3f40.jpg",
+        "https://telegra.ph/file/4daf1ee6be8b293142d91.jpg",
+        "https://telegra.ph/file/0763113d4147334a434eb.jpg",
+        "https://telegra.ph/file/406328f327fff8793f161.jpg",
+        "https://telegra.ph/file/f8c452b8aa1ab9b088bbd.jpg",
+        "https://telegra.ph/file/67013fa342a8888eeeaf4.jpg"
+    ]
+};

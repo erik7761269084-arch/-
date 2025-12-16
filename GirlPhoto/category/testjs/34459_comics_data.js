@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 34459,
+    "title": "Cosplay 前羽_rr 镇海",
+    "sourceUrl": "https://telegra.ph/Cosplay-前羽-rr-镇海-06-16",
+    "images": [
+        "https://telegra.ph/file/ac57ab0f1298458cf0f01.jpg",
+        "https://telegra.ph/file/0f616cee80b2123aaa46e.jpg",
+        "https://telegra.ph/file/5092b5c1aa73039ad69d4.jpg",
+        "https://telegra.ph/file/515d634898b97817411a4.jpg",
+        "https://telegra.ph/file/7d2cf1997dc14c5f07d44.jpg",
+        "https://telegra.ph/file/9d28871ab7f53b442fe48.jpg",
+        "https://telegra.ph/file/a7832706d1531546bbe97.jpg",
+        "https://telegra.ph/file/e9d58f43ed27dd15e84bb.jpg",
+        "https://telegra.ph/file/4bf4f89b36f0c358c7358.jpg",
+        "https://telegra.ph/file/034763bfe43b49e85a4e5.jpg",
+        "https://telegra.ph/file/fc07f675743d5e2548785.jpg",
+        "https://telegra.ph/file/61cbb86cf94aa63f5c29d.jpg",
+        "https://telegra.ph/file/9bc5044e216b11e23b53c.jpg",
+        "https://telegra.ph/file/e94cc222af69cd2c8249a.jpg",
+        "https://telegra.ph/file/d43804eed7e1aff34d1a9.jpg",
+        "https://telegra.ph/file/8d1378af759810ec1946c.jpg",
+        "https://telegra.ph/file/a3b9fcec2595f9ec24afd.jpg",
+        "https://telegra.ph/file/732ec1f64a71894d0a3f6.jpg",
+        "https://telegra.ph/file/f04f820cceefc0f517531.jpg",
+        "https://telegra.ph/file/4e87e1df38fcc43109e78.jpg",
+        "https://telegra.ph/file/c2596e60f971225b29cc6.jpg",
+        "https://telegra.ph/file/ea78e8734fa59108d5e8e.jpg",
+        "https://telegra.ph/file/21f8356e03505b1e82369.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46931,
+    "title": "星之迟迟-爱宕 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-爱宕---Page-1-02-15",
+    "images": [
+        "https://telegra.ph/file/0822e49c6ac93eb0ef0cc.jpg",
+        "https://telegra.ph/file/1625636dda9e3fd7f3f74.jpg",
+        "https://telegra.ph/file/9cd9d653cce5970a84365.jpg",
+        "https://telegra.ph/file/dba6deada4034a93c5534.jpg",
+        "https://telegra.ph/file/3570ee1fca8746a984a19.jpg",
+        "https://telegra.ph/file/568b20cc536c4ceaa4986.jpg",
+        "https://telegra.ph/file/5777fa6e4038c2b83e157.jpg",
+        "https://telegra.ph/file/55e02d9b2f11af825244c.jpg",
+        "https://telegra.ph/file/ee9442f84ec9ee4d19a39.jpg",
+        "https://telegra.ph/file/69ba3343ea7f5f34f2e98.jpg",
+        "https://telegra.ph/file/86bf9e5148feaf643412e.jpg",
+        "https://telegra.ph/file/aedb80d2f95ecc8663222.jpg",
+        "https://telegra.ph/file/41377dd4e1fa288535cf0.jpg",
+        "https://telegra.ph/file/f3e66e6d133feceda5c53.jpg",
+        "https://telegra.ph/file/2270d7eb411c6dd896418.jpg",
+        "https://telegra.ph/file/2873bd4c80abc5851ce4e.jpg",
+        "https://telegra.ph/file/1a0e4b5d5eeb4c1f7f74d.jpg",
+        "https://telegra.ph/file/02febd48bc71a6688a7fb.jpg",
+        "https://telegra.ph/file/30d3ae3417872262a0e61.jpg",
+        "https://telegra.ph/file/0b269e3f16f874c8f2191.jpg",
+        "https://telegra.ph/file/6b1a331297f86e5f2ddfc.jpg",
+        "https://telegra.ph/file/502e4e322473f90e48895.jpg",
+        "https://telegra.ph/file/49ea2795aa09c43c727f4.jpg",
+        "https://telegra.ph/file/eb51e37effcfd4cf7067b.jpg",
+        "https://telegra.ph/file/2dcbe565af07fc1a39651.jpg"
+    ]
+};

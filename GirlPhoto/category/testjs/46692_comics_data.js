@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46692,
+    "title": "QUEENIE CHUPPY - 2B - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---2B---Page-1-01-25",
+    "images": [
+        "https://telegra.ph/file/456a7aee2875c79a63525.jpg",
+        "https://telegra.ph/file/d4cabe72e99a1511d10c3.jpg",
+        "https://telegra.ph/file/6a84f37e770f700eadab0.jpg",
+        "https://telegra.ph/file/8d171772e4e082206edef.jpg",
+        "https://telegra.ph/file/b4c5930b8b9fdbcf094a1.jpg",
+        "https://telegra.ph/file/e6c1ffdde8afacf6a141d.jpg",
+        "https://telegra.ph/file/6ffbd1260327f05076f8c.jpg",
+        "https://telegra.ph/file/6e9c5dddcf9049145e848.jpg",
+        "https://telegra.ph/file/1204b448da41d457e4e9d.jpg",
+        "https://telegra.ph/file/2121844913c55e5ec992c.jpg",
+        "https://telegra.ph/file/a7a91af3f3f3e4bcba2dd.jpg",
+        "https://telegra.ph/file/a91d7e77b0d9344404192.jpg",
+        "https://telegra.ph/file/1c79718fd7d8639f1209b.jpg",
+        "https://telegra.ph/file/d198c8c75e9c630ac6216.jpg",
+        "https://telegra.ph/file/6f4eea3519b4ad995db9d.jpg",
+        "https://telegra.ph/file/15ccabcae60ea2043b748.jpg",
+        "https://telegra.ph/file/244a6b5403142b0322a54.jpg",
+        "https://telegra.ph/file/e664cfa0bfa04e6708448.jpg",
+        "https://telegra.ph/file/dc884996739fd373950d7.jpg",
+        "https://telegra.ph/file/56ef6adbda44dcc783fd7.jpg",
+        "https://telegra.ph/file/689c17811ab4fbc8d8437.jpg",
+        "https://telegra.ph/file/42e63fd7bd0d6e59add8e.jpg",
+        "https://telegra.ph/file/b5f9dda2adf2d2b5a4ded.jpg",
+        "https://telegra.ph/file/562cf1401e680e21b3b57.jpg",
+        "https://telegra.ph/file/c5a003126662114f2ed20.jpg"
+    ]
+};

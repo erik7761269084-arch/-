@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38438,
+    "title": "Sally Dorasnow - Hu Tao (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Hu-Tao-Genshin-Impact-11-04",
+    "images": [
+        "https://telegra.ph/file/7563cfa5e21c1fe8709eb.jpg",
+        "https://telegra.ph/file/3cde7c901728fbce5c64a.jpg",
+        "https://telegra.ph/file/c09288c13192dc36c685e.jpg",
+        "https://telegra.ph/file/f20a85080e61dc2782300.jpg",
+        "https://telegra.ph/file/8cac35843042db89e3d8b.jpg",
+        "https://telegra.ph/file/54c68ccfe1fde60e0e613.jpg",
+        "https://telegra.ph/file/c940cadc80411f95bc8bf.jpg",
+        "https://telegra.ph/file/0889109eee8593f4bfc88.jpg",
+        "https://telegra.ph/file/3c6d02cea2fa528e00168.jpg",
+        "https://telegra.ph/file/f6c5e81b160aeadc54c3d.jpg",
+        "https://telegra.ph/file/110924ccc0f393058c714.jpg",
+        "https://telegra.ph/file/eb50de1e8eea42ac1c4ab.jpg",
+        "https://telegra.ph/file/cac8b40487fcafc243037.jpg",
+        "https://telegra.ph/file/093578bb48b2bcda4335e.jpg",
+        "https://telegra.ph/file/42637be3117691ed90e95.jpg",
+        "https://telegra.ph/file/dd95a8ed6dba508401eb0.jpg",
+        "https://telegra.ph/file/b7f955201926bde848610.jpg",
+        "https://telegra.ph/file/545d7f3f09ac81dddca76.jpg",
+        "https://telegra.ph/file/8e217279c9c3fc5e8e54e.jpg",
+        "https://telegra.ph/file/8300e48799550919f51b0.jpg",
+        "https://telegra.ph/file/2db887e758e7807f87381.jpg",
+        "https://telegra.ph/file/c8f6d970e8ebe2166df7e.jpg",
+        "https://telegra.ph/file/6799f0c0763543ea8285d.jpg",
+        "https://telegra.ph/file/3297fd593301f078581e3.jpg"
+    ]
+};

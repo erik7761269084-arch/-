@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50307,
+    "title": "Alcololi - Page 1",
+    "sourceUrl": "https://telegra.ph/Alcololi---Page-1-04-18",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNBoAZtEPTN7tfI6tE2BsLr__74fhQACUBIAAtcdEVSLWpxt2Kx6AAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNFoAZtGwbjtzbeI5MUbsyrm5QF_CwACURIAAtcdEVR03fNtjA96wzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNJoAZtJDrbZB7s7Q22lzhC8nbNyLwACUhIAAtcdEVSJm0QBthm5AAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNNoAZtKTmOi6LJXb7HxJKwKerbUeAACUxIAAtcdEVTceci9VcYxVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNRoAZtNkp87UVsi0OaSD-scw_2VRAACVBIAAtcdEVTSBQzFWOlBTzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNVoAZtPh5s8hSUrUyJem0ec7Vo01gACVRIAAtcdEVQY2XftEaNLWjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNZoAZtRUUqh_ztCH49z5SHGc7658wACVhIAAtcdEVT2ZuEFfj_7rzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNdoAZtS9Ry_kZchnw1OI5OFoKAg0gACVxIAAtcdEVTjAdbPRWEs7TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNhoAZtUzn84izaLJ9ooI_TAF5TlcQACWBIAAtcdEVQ55_d_qtCV3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNloAZtVDpSCgkece8dzcnnGDr6UfgACWRIAAtcdEVSAEx66lRbbrjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNpoAZtXgKamAad7VuB21tv24OQSMQACWhIAAtcdEVSM1Uo69xq9mTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNtoAZtY5mCwTwFtiiGzpZoVhnImxAACWxIAAtcdEVQM4Zeuju5KJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFNxoAZtaZ517BD3ESQXGHYNGBRg-XwACXBIAAtcdEVRlkR42jaClYDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFN1oAZtbygABJSSLgqcbN0FNp9724toAAl0SAALXHRFU6P_MJUhfR7k2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFN5oAZtd1_w9JEp7JcMIiocUNOkJ2QACXhIAAtcdEVTU88OgwVr3nDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFN9oAZte_Rbg8G_8wQpysjayN-U7-QACXxIAAtcdEVQYNFrr06qxkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFOBoAZtgW1kvc2l_QkJIO_Uc91xIzwACYBIAAtcdEVTN7a5FIoBGGzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFOFoAZthq39hUt6h_x1axcOgYUffogACYRIAAtcdEVTgRq6UoeLnwDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFOJoAZtj2K3XyiCj-4mXjEIVo5x8BAACYhIAAtcdEVRpifldY2CQlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFONoAZtknFqCZk5O1TZuiBEFVcmI-AACYxIAAtcdEVRYM56BmiL-dTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFORoAZujHxwo5h3AV2GKvAmnxmS-FgACZBIAAtcdEVSdDsD_IMUGyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFOVoAZukpd8fe_PCQd4F7U6kb4z-ogACZRIAAtcdEVTOo3ef9s9T7TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJFOZoAZumPV3tPgX2EnR1J8fyit6SrgACZhIAAtcdEVRAz-4YEt6b4DYE"
+    ]
+};

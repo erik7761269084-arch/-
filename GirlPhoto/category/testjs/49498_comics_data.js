@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49498,
+    "title": "小仓千代w - 英仙座 透明护士 - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w---英仙座-透明护士---Page-1-01-27",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdBtnmAsl7ouTAvVqiAsAAU_21X_rkeEAArUaAAIpTsBUlkNhx_Iz_oU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdBxnmAsnYJdg2X4i_eWSu1_2xYq8dQACthoAAilOwFQCY-OMoVkK3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdB1nmAsttkRKMZ-6yvsqPxWjB9MJ7AACtxoAAilOwFSRsc5vwO_DQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdB5nmAsuT1ctYujmPP0xitpx0wU7jAACuBoAAilOwFS6yqRO_MmT6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdB9nmAswPkB5pRbVdIPfAs_FZ5-u2gACuRoAAilOwFRz61NDzM8dVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCBnmAsy5T0CJXzU-kcpSViURLVlmgACuhoAAilOwFQZjPnO0zeRPzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCFnmAsznQ2Vd8yDITgaJfoZJRkotgACuxoAAilOwFQE5CJmT7zTkzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCJnmAs0FJZJTuSERG71L7CDikIrzwACvBoAAilOwFTg2kIWu3Y1CzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCNnmAs2za4g_ASkCc0lN7GfTrlrzQACvRoAAilOwFSDIMePjRLW6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCRnmAs4aeBco6wmP8lNAWoHefWzQQACvhoAAilOwFRuJoK73hVGjDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCVnmAs5SDO56peLVbb_38KPRe761gACvxoAAilOwFRz0LIk18zW2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCZnmAs7pifZxaP6nXDgGaJDcJWwIgACwBoAAilOwFQzP6CuQhu_9TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCdnmAs8-5DpGFrqh0HFQ3yepANWrgACwRoAAilOwFRzkZrOS4tySDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdChnmAs-7_-gVFZZlDRGdkccypEzDQACwhoAAilOwFQCZEwVJMHhLzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdClnmAtAr58zOJT705tIPs-JQahnygACwxoAAilOwFTQYksbC3LUTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCpnmAtBTDiwbtGewbotV950ROk4FwACxBoAAilOwFSOAAEp5Rl6xsw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCtnmAtDrYkzOR8VLpvX9eEuZt-KXgACxRoAAilOwFSJ0SGreCK23DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdCxnmAtFgtSh99KdP32NOSc2GxDEQgACxhoAAilOwFQ-r_vNnjWyOTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdC1nmAtHwA7NLl-HVAWoM8ajOqMoeQACxxoAAilOwFRbEOEMHJ39oTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdC5nmAtIMaug732dQDTAhNVqlBWAIQACyBoAAilOwFT1o5PoGyVKIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdC9nmAuH1D_a1Mq7rYzNum3eVLLJTwACyhoAAilOwFTo_YW2ZMWrMzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdDBnmAuJ8VNL2TvpR_Wr19qoIeQyOgACyxoAAilOwFSwgT4cQ_AqoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdDFnmAuLhorYbSDBAAH9F4KXzt21P_sAAswaAAIpTsBUkuO0muXKr8k2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEdDJnmAuNbBWs5eZea_zqSsUmpouyZAACzRoAAilOwFT55oVvWaHJPDYE"
+    ]
+};

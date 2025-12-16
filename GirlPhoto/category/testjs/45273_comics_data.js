@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 45273,
+    "title": "QUEENIE CHUPPY - Mihara - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---Mihara---Page-1-08-05",
+    "images": [
+        "https://telegra.ph/file/2c8cd3d7329ef557f6d1c.jpg",
+        "https://telegra.ph/file/5fc2ecd5b8095c88c9314.jpg",
+        "https://telegra.ph/file/c60a0630ef689ac5a8cbb.jpg",
+        "https://telegra.ph/file/5280cfd4e8d48a3948186.jpg",
+        "https://telegra.ph/file/949e115bddbe24b0f694c.jpg",
+        "https://telegra.ph/file/fad5742d82d1fbeafa1af.jpg",
+        "https://telegra.ph/file/36d3453d5cd46a956dd92.jpg",
+        "https://telegra.ph/file/b32cc991af70a8820bd23.jpg",
+        "https://telegra.ph/file/d63fc533ce3fac8bccce9.jpg",
+        "https://telegra.ph/file/f873ad2c16cd2593f01cc.jpg",
+        "https://telegra.ph/file/69337a66b46df77666d25.jpg",
+        "https://telegra.ph/file/2c3dd866393335210be84.jpg",
+        "https://telegra.ph/file/9f90919e986ef1680afa3.jpg",
+        "https://telegra.ph/file/0772413e195c18c046364.jpg",
+        "https://telegra.ph/file/b730dc300e5e665d7d558.jpg",
+        "https://telegra.ph/file/16752f2783568d824eef9.jpg",
+        "https://telegra.ph/file/2974aa79c746fd29a6632.jpg",
+        "https://telegra.ph/file/39049b019073514d43e78.jpg",
+        "https://telegra.ph/file/9458327bafbfc6002289b.jpg",
+        "https://telegra.ph/file/c4d60892414dcc0ecac58.jpg",
+        "https://telegra.ph/file/17959eaf28130b194c27f.jpg",
+        "https://telegra.ph/file/7ef1ec99cb3aa5e65b918.jpg",
+        "https://telegra.ph/file/5eee1bba6ded4bfcfa3ba.jpg",
+        "https://telegra.ph/file/6280385157dfca9388779.jpg"
+    ]
+};

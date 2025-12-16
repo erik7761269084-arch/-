@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40460,
+    "title": "Xidaidai 习呆呆 - Janus (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆---Janus-Azur-Lane-06-29",
+    "images": [
+        "https://telegra.ph/file/d5fa30f222477dd0fed9e.jpg",
+        "https://telegra.ph/file/0875dae30df8a6bd78f73.jpg",
+        "https://telegra.ph/file/bb1db4e2f24eb765c2bfa.jpg",
+        "https://telegra.ph/file/4a4a48f90d78455c1767e.jpg",
+        "https://telegra.ph/file/d812388c23f1b774cdb9e.jpg",
+        "https://telegra.ph/file/e0fefaecb90fc1cc2b33b.jpg",
+        "https://telegra.ph/file/84571777cdf67a3ce988d.jpg",
+        "https://telegra.ph/file/79472d982a2cb0608bbf3.jpg",
+        "https://telegra.ph/file/886e3d1334ad6153ceb54.jpg",
+        "https://telegra.ph/file/e0c02e03bd3a92c3df687.jpg",
+        "https://telegra.ph/file/4301120fb7ace490cac6c.jpg",
+        "https://telegra.ph/file/be6eeee4c7f1d0dc8b243.jpg",
+        "https://telegra.ph/file/3d485159a5f01e43cc50c.jpg",
+        "https://telegra.ph/file/a9e609315935df2e55347.jpg",
+        "https://telegra.ph/file/1823edd71332b016a5c3c.jpg",
+        "https://telegra.ph/file/944c3cd5b92a35daa65b8.jpg",
+        "https://telegra.ph/file/b5cef347a5252436b2010.jpg",
+        "https://telegra.ph/file/0536c640cc3277e3448dd.jpg",
+        "https://telegra.ph/file/ec77231854449c9ae180c.jpg",
+        "https://telegra.ph/file/33ee73f41074347681ce4.jpg",
+        "https://telegra.ph/file/9f358ffe9037c8d66d321.jpg",
+        "https://telegra.ph/file/f7b0b52135e09a2223243.jpg",
+        "https://telegra.ph/file/f1be1538751ae0559a997.jpg",
+        "https://telegra.ph/file/6ea42dbdcf80ed4c5c7cc.jpg"
+    ]
+};

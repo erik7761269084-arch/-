@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41320,
+    "title": "Queenie - Frieren (Sousou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Queenie---Frieren-Sousou-No-Frieren-03-30",
+    "images": [
+        "https://telegra.ph/file/f1e25deb34884503282f2.jpg",
+        "https://telegra.ph/file/a9d9a50d3782139b116c5.jpg",
+        "https://telegra.ph/file/1d07aaff54a7335cfced9.jpg",
+        "https://telegra.ph/file/7cd7c70084463bbb91131.jpg",
+        "https://telegra.ph/file/4344e2049c367549a9137.jpg",
+        "https://telegra.ph/file/15c8cc4eab539104a3a14.jpg",
+        "https://telegra.ph/file/d5db7240355b8c02fdf3b.jpg",
+        "https://telegra.ph/file/04fab341f57c9ddf06924.jpg",
+        "https://telegra.ph/file/80144f70dd767871f28c5.jpg",
+        "https://telegra.ph/file/828bd68f8889bc2c59f31.jpg",
+        "https://telegra.ph/file/12a4c0c0fa96bc059da90.jpg",
+        "https://telegra.ph/file/9b85a561b4532283c122f.jpg",
+        "https://telegra.ph/file/43063d67f7aa503ee270d.jpg",
+        "https://telegra.ph/file/0234163135603e1cbc928.jpg",
+        "https://telegra.ph/file/75c7b324c3d5b8dcfdb65.jpg",
+        "https://telegra.ph/file/45aa7b18c6ea6197917d1.jpg",
+        "https://telegra.ph/file/6efffd1a26bc947d5d954.jpg",
+        "https://telegra.ph/file/5fa23e6c098838d3cc2ec.jpg",
+        "https://telegra.ph/file/5119c88d615fa29a6ad5e.jpg",
+        "https://telegra.ph/file/85598fcbec528c178ee98.jpg",
+        "https://telegra.ph/file/6ef399ed09610433d87d5.jpg",
+        "https://telegra.ph/file/d54f017028928e806d29d.jpg",
+        "https://telegra.ph/file/4afe52bbd0d4f95939eb9.jpg",
+        "https://telegra.ph/file/50a403401622df6dede01.jpg",
+        "https://telegra.ph/file/4e9aa49ae021bda61e6f7.jpg"
+    ]
+};

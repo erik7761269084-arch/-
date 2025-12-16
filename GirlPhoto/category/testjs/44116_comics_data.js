@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44116,
+    "title": "Meenfox - Yor",
+    "sourceUrl": "https://telegra.ph/Meenfox---Yor-09-28?_=1672698508",
+    "images": [
+        "https://telegra.ph/file/e45f316e866d77d6c59a4.jpg",
+        "https://telegra.ph/file/0de0bb6e7360bb7db316c.jpg",
+        "https://telegra.ph/file/718dae395972606abaed1.jpg",
+        "https://telegra.ph/file/95ad224680aeb44d29e59.jpg",
+        "https://telegra.ph/file/fdf4e2b48e3be6da0eabd.jpg",
+        "https://telegra.ph/file/e37649b89c6debcf89cb0.jpg",
+        "https://telegra.ph/file/76d81ba8069d645ec93a0.jpg",
+        "https://telegra.ph/file/6559a73998a994b178ba6.jpg",
+        "https://telegra.ph/file/6ceda45b71cca17e891ce.jpg",
+        "https://telegra.ph/file/88b4cc6bc186170da3b18.jpg",
+        "https://telegra.ph/file/52f86461774e6f78c6f76.jpg",
+        "https://telegra.ph/file/ab86322128bb4a1911e8b.jpg",
+        "https://telegra.ph/file/d27e90097d81f49206a10.jpg",
+        "https://telegra.ph/file/6e717dbb70ab7b209e74f.jpg",
+        "https://telegra.ph/file/2263b40151063d556b449.jpg",
+        "https://telegra.ph/file/3419a2b8eb006f6a922b5.jpg",
+        "https://telegra.ph/file/541730e6d17a857c59882.jpg",
+        "https://telegra.ph/file/c85fcae9bffa0f52f1cb6.jpg",
+        "https://telegra.ph/file/3126acab687bdd53ed574.jpg",
+        "https://telegra.ph/file/2da83e915c5e9837102a9.jpg",
+        "https://telegra.ph/file/17abc24789c57a704b692.jpg",
+        "https://telegra.ph/file/09f4dbb657ad2d21ace68.jpg",
+        "https://telegra.ph/file/c5f1d92c0a117e1df6e18.jpg",
+        "https://telegra.ph/file/464459668be4c82bb76aa.jpg"
+    ]
+};

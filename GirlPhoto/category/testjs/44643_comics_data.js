@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44643,
+    "title": "Minichu - Tokisaki Kurumi",
+    "sourceUrl": "https://telegra.ph/Minichu---Tokisaki-Kurumi-01-13",
+    "images": [
+        "https://telegra.ph/file/c10d01a9bc287d7826a00.jpg",
+        "https://telegra.ph/file/6db646c7b4529f50dad0d.jpg",
+        "https://telegra.ph/file/24138464016a0e17802a8.jpg",
+        "https://telegra.ph/file/5de29390d744d470f52c1.jpg",
+        "https://telegra.ph/file/403020201def40b426a3c.jpg",
+        "https://telegra.ph/file/48bd2b4fb98032252469a.jpg",
+        "https://telegra.ph/file/de549aeed262550ac46ce.jpg",
+        "https://telegra.ph/file/73fd95c46b64dba63f5eb.jpg",
+        "https://telegra.ph/file/9d0e4d5e3750bb26ecb2e.jpg",
+        "https://telegra.ph/file/c280d4ac93194b8084f5c.jpg",
+        "https://telegra.ph/file/b7e84168485ab5182761b.jpg",
+        "https://telegra.ph/file/13977deca8773720ec0a5.jpg",
+        "https://telegra.ph/file/ee1fded918a13452a08a1.jpg",
+        "https://telegra.ph/file/9ed47b2b9b698ae5a4a98.jpg",
+        "https://telegra.ph/file/b866f1a39110a7f0ca22a.jpg",
+        "https://telegra.ph/file/1e33569cd7d1870b95995.jpg",
+        "https://telegra.ph/file/f74c304772e7696e946bc.jpg",
+        "https://telegra.ph/file/3ec9dd522b55f5755ce71.jpg",
+        "https://telegra.ph/file/5354f035a70e5503c8277.jpg",
+        "https://telegra.ph/file/a7d4a869bcf8eba7e112b.jpg",
+        "https://telegra.ph/file/e7aa0e2fd43c1d5dc8500.jpg",
+        "https://telegra.ph/file/acb38e9a994a75f00bf46.jpg",
+        "https://telegra.ph/file/0b5d7016344b37761fa44.jpg",
+        "https://telegra.ph/file/3dc94b990d84d2c34d276.jpg",
+        "https://telegra.ph/file/d824d9cbca5d6a489d252.jpg"
+    ]
+};

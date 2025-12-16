@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28076,
+    "title": "Joyce - NO.002 原神 烟绯 [33P-234MB]",
+    "sourceUrl": "https://telegra.ph/Joyce---NO002-%E5%8E%9F%E7%A5%9E-%E7%83%9F%E7%BB%AF-33P-234MB-03-04",
+    "images": [
+        "https://telegra.ph/file/f36a0d8b9d52cb6eb03fc.jpg",
+        "https://telegra.ph/file/8268055237658ff0ab9a6.jpg",
+        "https://telegra.ph/file/c224c762e92bd6f5e6a82.jpg",
+        "https://telegra.ph/file/4159cd6403d8f4428bffb.jpg",
+        "https://telegra.ph/file/65e7b26c79c57a4f4a2b7.jpg",
+        "https://telegra.ph/file/8843bbddebf19ca41f0a6.jpg",
+        "https://telegra.ph/file/e099e6fcf6aad97e44a8d.jpg",
+        "https://telegra.ph/file/a6c9bea5fbc0a569d2252.jpg",
+        "https://telegra.ph/file/19aead300ca84c1e85002.jpg",
+        "https://telegra.ph/file/ab434e9962712b9630580.jpg",
+        "https://telegra.ph/file/66629c2772fa13578a71e.jpg",
+        "https://telegra.ph/file/bda2bc849c2fb347c1009.jpg",
+        "https://telegra.ph/file/7c3c1d0a2dfe7e85a2c02.jpg",
+        "https://telegra.ph/file/aeb42efdd74c02df18fc4.jpg",
+        "https://telegra.ph/file/0bc241bb4c9ca928d831d.jpg",
+        "https://telegra.ph/file/cb4a958b6f3ea6a51e6da.jpg",
+        "https://telegra.ph/file/0f3ea192f5d61686e9d14.jpg",
+        "https://telegra.ph/file/dd69c01d3ef8204ab83c8.jpg",
+        "https://telegra.ph/file/96a7df29b1ed988bfe6a4.jpg",
+        "https://telegra.ph/file/bf303dee0e2e4cf4af98f.jpg",
+        "https://telegra.ph/file/87934e8693200c9c4bb5b.jpg",
+        "https://telegra.ph/file/06b6342a2a6ce6df03df4.jpg",
+        "https://telegra.ph/file/47dfe7bbcaae541f997f4.jpg",
+        "https://telegra.ph/file/b10b745d4cf35d0eb3bfe.jpg"
+    ]
+};

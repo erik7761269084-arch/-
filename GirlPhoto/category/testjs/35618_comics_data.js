@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35618,
+    "title": "Yua Mikami 三上悠亜, FLASH フラッシュ Next Stage 17カット",
+    "sourceUrl": "https://telegra.ph/Yua-Mikami-三上悠亜-FLASH-フラッシュ-Next-Stage-17カット-10-12",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm58UAvInPcn51pqFg6QAbISYUAApnJMRsHDMhTXur9ZCJV-GIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm58XnB69GmV96tVoFVdZWHPYQAApXJMRsHDMhTUe3FOkbfqboBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm58QgTmvVSpou2Eeti-U3bu3gAApfJMRsHDMhTSDPpnlLaulkBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm58eYBwTzYOrPsvE8Esm6a7FsAApjJMRsHDMhTa7hxa3CWPckBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm59qwnUbLvs8y7om3cZbGeNN0AApzJMRsHDMhTWKVBDg3OMnsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm58ZvwUCuavWaCZalevVj1QDQAApbJMRsHDMhTtIR9orRQeOwBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm59hVOydDP32ELBXrip3K00CcAApvJMRsHDMhTYTT8zM2RlSIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm59ie6CbXlbHeebwsNbziYu24AAprJMRsHDMhT3EDG39EZmA8BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm59q-xC4AtQk9RTkVHriMDNV8AAp7JMRsHDMhTAAF3XXmXraZBAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm59oJ0iGcAAY_HelSLsyZlSrPBAAKdyTEbBwzIU3S9qdHzK6TdAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6AYia1l2ITXpfs5TKZ_hjSkwAAqHJMRsHDMhTvIkBHyA-bFQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6ARmgEPLQPN73X8xdnmX6T30AAqDJMRsHDMhTxubAoMfX3bcBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6AT5cCPFLz58Mr6guBHBgN2oAAqLJMRsHDMhT14dEGvEBp14BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6BmBAOTDK8ysrvNj_GN2OwVIAAqbJMRsHDMhT_nhi87-tMpIBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6ARA4RxfXEfS-LeObCriMJtgAAqPJMRsHDMhTqAdzsv-zF2oBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6Bl17VZj1OH50lJBsEUaE9o8AAqfJMRsHDMhTtU35eb5BfHEBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6Btz34jUFgd9Hd9VPwvtP6vAAAqjJMRsHDMhTAuhyekB5SHsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6AcIEg16lm3XspE5UcogecQgAAp_JMRsHDMhTAqc4V-wmjokBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6BuX9vve2Aht3ZZvlfetJ-2oAAqTJMRsHDMhTmKRxZzkcHpgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6BtHYoeb72rv12OoehoqHahYAAqXJMRsHDMhTSV7VVyFCGrsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6NSJWUxUq71N5vpJT6WBPNfcAAqvJMRsHDMhT6slW1NdV1kQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6NUOVzpEwVtTSLJO2qYqtkM8AAqzJMRsHDMhT5Zz7BagcZHsBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6NRmvavZGlpIQR_UawJZVt08AAqnJMRsHDMhTP7jxqrVUPTQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm6NV_m0JBsHOFiMLj_W-tbCgEAAqrJMRsHDMhTQQABkewpK6MRAQADAgADdwADNgQ.jpg"
+    ]
+};

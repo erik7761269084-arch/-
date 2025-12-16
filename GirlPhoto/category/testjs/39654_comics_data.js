@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39654,
+    "title": "Azami - Yelan (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Azami---Yelan-Genshin-Impact-09-10",
+    "images": [
+        "https://telegra.ph/file/808cb4a62becf63f81e79.jpg",
+        "https://telegra.ph/file/b0f27b21e57f269e913f9.jpg",
+        "https://telegra.ph/file/4fc0738ff9d222c123254.jpg",
+        "https://telegra.ph/file/d9f0b3af36ef3faa2aef6.jpg",
+        "https://telegra.ph/file/20a3674764de6ed778d2f.jpg",
+        "https://telegra.ph/file/1f16f5bfae0c97c984d77.jpg",
+        "https://telegra.ph/file/16d66b2279ec32394604e.jpg",
+        "https://telegra.ph/file/bbf767805c3d74fdebaef.jpg",
+        "https://telegra.ph/file/f7594aedb3661df99fcbf.jpg",
+        "https://telegra.ph/file/e3be21db0ad96e37a8135.jpg",
+        "https://telegra.ph/file/d4cde03ea75c076a28386.jpg",
+        "https://telegra.ph/file/71d493530573d01bad2e4.jpg",
+        "https://telegra.ph/file/94f6f81cd92dad29177a1.jpg",
+        "https://telegra.ph/file/d0851d7ec344a349aa37b.jpg",
+        "https://telegra.ph/file/6525fe516147042366459.jpg",
+        "https://telegra.ph/file/681456eadb2a237dfcaec.jpg",
+        "https://telegra.ph/file/7dc0cfda2555b1b3e4e35.jpg",
+        "https://telegra.ph/file/1565e59d60fa416d43bbb.jpg",
+        "https://telegra.ph/file/49ddff8b82b8021cd23cb.jpg",
+        "https://telegra.ph/file/e578c2c57a683325da11c.jpg",
+        "https://telegra.ph/file/a950732bf7ad75ed0b8e6.jpg",
+        "https://telegra.ph/file/4aed1fca39042ec4b5188.jpg",
+        "https://telegra.ph/file/4ccc6339d87f8e64e944a.jpg"
+    ]
+};

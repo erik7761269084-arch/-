@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38944,
+    "title": "Byoru - Amber (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Byoru---Amber-Genshin-Impact-03-23",
+    "images": [
+        "https://telegra.ph/file/38df9e0bad9a8c86a3db6.jpg",
+        "https://telegra.ph/file/ae6fa7f82bdc009bc5d29.jpg",
+        "https://telegra.ph/file/72881c02dca0ec077b4b6.jpg",
+        "https://telegra.ph/file/7dbdeef4e38c470acdfe1.jpg",
+        "https://telegra.ph/file/72187e19c5fbed4e2ad17.jpg",
+        "https://telegra.ph/file/322b7afd3a5f97ac73bf3.jpg",
+        "https://telegra.ph/file/a0b4d0fadfd65208f1cd6.jpg",
+        "https://telegra.ph/file/9689e474b44b56e15c8c8.jpg",
+        "https://telegra.ph/file/a33e01f64d8515d4d5016.jpg",
+        "https://telegra.ph/file/5a863cb479b2f960b5570.jpg",
+        "https://telegra.ph/file/6d58b2c2a33a1e87353ab.jpg",
+        "https://telegra.ph/file/71e505708b71d4e8d05e5.jpg",
+        "https://telegra.ph/file/08bf16ee8915ddff54963.jpg",
+        "https://telegra.ph/file/61c31a21abc7f430dd9bd.jpg",
+        "https://telegra.ph/file/fb81fa58efee1a4750a68.jpg",
+        "https://telegra.ph/file/a09ce3513d0d86dc20d3a.jpg",
+        "https://telegra.ph/file/f56257123914ce06c8d93.jpg",
+        "https://telegra.ph/file/d736eb84a13c327ea8587.jpg",
+        "https://telegra.ph/file/fc486073ef68389eba16f.jpg",
+        "https://telegra.ph/file/a5533d72b66043b21d0e8.jpg",
+        "https://telegra.ph/file/acc094e94e6f133bf7018.jpg",
+        "https://telegra.ph/file/0695c995b4aaaf4065678.jpg",
+        "https://telegra.ph/file/077822179c0630843d40f.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42318,
+    "title": "爆机少女喵小吉 - 瓶中精灵 [23P 224M]",
+    "sourceUrl": "https://telegra.ph/%E7%88%86%E6%9C%BA%E5%B0%91%E5%A5%B3%E5%96%B5%E5%B0%8F%E5%90%89---%E7%93%B6%E4%B8%AD%E7%B2%BE%E7%81%B5-23P-224M-05-12",
+    "images": [
+        "https://telegra.ph/file/13de0a127e3606babe8f2.jpg",
+        "https://telegra.ph/file/b9867d1949705ac74faa6.jpg",
+        "https://telegra.ph/file/24aa0eccacc77c6d168c8.jpg",
+        "https://telegra.ph/file/1c9f78dfb3d85e43eb87f.jpg",
+        "https://telegra.ph/file/b6829bbe5d128f9cd675b.jpg",
+        "https://telegra.ph/file/fb2bcb6136d09e2901569.jpg",
+        "https://telegra.ph/file/9788a2504cc0cf4e44bba.jpg",
+        "https://telegra.ph/file/65104c975832f6acf178a.jpg",
+        "https://telegra.ph/file/dea5506c85a97d8486918.jpg",
+        "https://telegra.ph/file/cd97b6586deec199d64bb.jpg",
+        "https://telegra.ph/file/eccffe435917933df697f.jpg",
+        "https://telegra.ph/file/37afaa501011beaab752f.jpg",
+        "https://telegra.ph/file/4bebf4f745637f191120f.jpg",
+        "https://telegra.ph/file/f9d5c577ff0ae05573103.jpg",
+        "https://telegra.ph/file/46143ec323b7ea09c890e.jpg",
+        "https://telegra.ph/file/e81c6f0c910ed61d5444d.jpg",
+        "https://telegra.ph/file/bf88cf8a9368a7d44caab.jpg",
+        "https://telegra.ph/file/ba334e813daa1ab146f1f.jpg",
+        "https://telegra.ph/file/7021f0a491a6fb27f1c72.jpg",
+        "https://telegra.ph/file/ca2eb2d4bc228826e2f75.jpg",
+        "https://telegra.ph/file/39e8ca077ed839aa0bbbb.jpg",
+        "https://telegra.ph/file/baced30bdf7f74eb9b827.jpg",
+        "https://telegra.ph/file/aedb0270d1b4d028e990b.jpg"
+    ]
+};

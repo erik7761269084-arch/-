@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46251,
+    "title": "Fantastic Nami - Discordia - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantastic-Nami---Discordia---Page-1-12-10",
+    "images": [
+        "https://telegra.ph/file/54b92a45540c131942a6c.jpg",
+        "https://telegra.ph/file/17392a909d15f2131c276.jpg",
+        "https://telegra.ph/file/d08305ca50c1393eb7e0f.jpg",
+        "https://telegra.ph/file/60eb0b6cc99205313634b.jpg",
+        "https://telegra.ph/file/284bda7c6adab609536d8.jpg",
+        "https://telegra.ph/file/18f91b9de2e1b9118896e.jpg",
+        "https://telegra.ph/file/bea32853a4425bc352f59.jpg",
+        "https://telegra.ph/file/9073641b28c03134950fd.jpg",
+        "https://telegra.ph/file/eed824c05b5345b16ad4a.jpg",
+        "https://telegra.ph/file/bf8797a9691cb20a5a9e7.jpg",
+        "https://telegra.ph/file/9971d093a8bef6d2a1c81.jpg",
+        "https://telegra.ph/file/b65385d40f0a90dda88a0.jpg",
+        "https://telegra.ph/file/f622a8f3c910ebf37df11.jpg",
+        "https://telegra.ph/file/4a5a306b5960d1519cef1.jpg",
+        "https://telegra.ph/file/f983bca6e6a7bd43b6d4a.jpg",
+        "https://telegra.ph/file/b136684667862d7189434.jpg",
+        "https://telegra.ph/file/b990c055642926ec85b89.jpg",
+        "https://telegra.ph/file/9ecb6d6189f0de1417f4e.jpg",
+        "https://telegra.ph/file/0f01d8d12dbfd61025e47.jpg",
+        "https://telegra.ph/file/368177c98d19d0485fa00.jpg",
+        "https://telegra.ph/file/32983e58bb77a2b7f6ebe.jpg",
+        "https://telegra.ph/file/b44be0abaac4cacbe7d38.jpg",
+        "https://telegra.ph/file/6f7c6cac4af60e88b1f0d.jpg",
+        "https://telegra.ph/file/56e06be3cbb1a94f041ea.jpg",
+        "https://telegra.ph/file/2ada6b1bc7a58297ebd18.jpg"
+    ]
+};

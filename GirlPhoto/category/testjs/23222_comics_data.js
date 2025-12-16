@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23222,
+    "title": "卜呦 - 幽灵鲨",
+    "sourceUrl": "https://telegra.ph/%E5%8D%9C%E5%91%A6---%E5%B9%BD%E7%81%B5%E9%B2%A8-01-31",
+    "images": [
+        "https://telegra.ph/file/0a672cc0cb77ddbdce840.jpg",
+        "https://telegra.ph/file/df36578b60763d0c464ca.jpg",
+        "https://telegra.ph/file/148f13fd09d71aa57e9a1.jpg",
+        "https://telegra.ph/file/8f1fe24c0a3db07804252.jpg",
+        "https://telegra.ph/file/1ad4efac0a3dda21bfaf4.jpg",
+        "https://telegra.ph/file/9b53d7874778c9e67701b.jpg",
+        "https://telegra.ph/file/161c47e7351881b90b0fb.jpg",
+        "https://telegra.ph/file/d786ecda0c2294300c6ab.jpg",
+        "https://telegra.ph/file/121c2d64098ea40af78d9.jpg",
+        "https://telegra.ph/file/66a960e53261b0c2bf9d7.jpg",
+        "https://telegra.ph/file/80ab17e27b7b85cfb6395.jpg",
+        "https://telegra.ph/file/410714ac4cf9aead82c77.jpg",
+        "https://telegra.ph/file/3cd0faa9b9ccf42d9ec8d.jpg",
+        "https://telegra.ph/file/fafad7cc1005a2b25d812.jpg",
+        "https://telegra.ph/file/5bef6909a8076f028f0c7.jpg",
+        "https://telegra.ph/file/8291d19c95f1b1bee8d8a.jpg",
+        "https://telegra.ph/file/760289afb7f0e2489df95.jpg",
+        "https://telegra.ph/file/a8d468be3a0dcfd45c4bf.jpg",
+        "https://telegra.ph/file/7fc7ffaf47f6d1301b382.jpg",
+        "https://telegra.ph/file/dcb6cdd98c76dacf2f5a2.jpg",
+        "https://telegra.ph/file/c5630fcb216ed516448a7.jpg",
+        "https://telegra.ph/file/4ef7ed47d3329c7492018.jpg",
+        "https://telegra.ph/file/c82d542456374af9fdfa3.jpg",
+        "https://telegra.ph/file/3125d09af9e2c1252b379.jpg",
+        "https://telegra.ph/file/93cb1c7041b11e6692a77.jpg",
+        "https://telegra.ph/file/2e9aa05b9250d1c03e2ae.jpg"
+    ]
+};

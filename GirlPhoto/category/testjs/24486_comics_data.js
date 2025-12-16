@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 24486,
+    "title": "布丁大法-20171224KTV[26P]",
+    "sourceUrl": "https://telegra.ph/%E5%B8%83%E4%B8%81%E5%A4%A7%E6%B3%95-20171224KTV26P-07-25",
+    "images": [
+        "https://telegra.ph/file/ac0054a835e21b6e059be.jpg",
+        "https://telegra.ph/file/3f134536a56f4bcab9292.jpg",
+        "https://telegra.ph/file/6c707b731f0a7b10a0ea3.jpg",
+        "https://telegra.ph/file/cdfad2de720204ac1f4de.jpg",
+        "https://telegra.ph/file/ef42618d45af78965498d.jpg",
+        "https://telegra.ph/file/db9e6e124ed175f14a2dd.jpg",
+        "https://telegra.ph/file/b0ad414388446c3e91e62.jpg",
+        "https://telegra.ph/file/9694e23639b0104cdc2ce.jpg",
+        "https://telegra.ph/file/04170c24c1df4774eb9cd.jpg",
+        "https://telegra.ph/file/bb1e9839f0d6c6aa89cc1.jpg",
+        "https://telegra.ph/file/12a62f0aa741b171c37cd.jpg",
+        "https://telegra.ph/file/774a8f70105fc0f831d85.jpg",
+        "https://telegra.ph/file/17c26b59854e4b7a6285f.jpg",
+        "https://telegra.ph/file/cbb2530cca798266636a0.jpg",
+        "https://telegra.ph/file/b3493b366ad6f14ce92c6.jpg",
+        "https://telegra.ph/file/a9ef4d8a83cc7433a39b3.jpg",
+        "https://telegra.ph/file/89a2c81e86b3be06fafe6.jpg",
+        "https://telegra.ph/file/7bf6cb3e7191fdc003628.jpg",
+        "https://telegra.ph/file/ba1aa5d5d7571aa3344bd.jpg",
+        "https://telegra.ph/file/66ac5297ea8751cf72799.jpg",
+        "https://telegra.ph/file/02e1df67298aa852c6a1b.jpg",
+        "https://telegra.ph/file/b835ee11b22acfd92c62b.jpg",
+        "https://telegra.ph/file/e4174bcf21124138d4d6d.jpg",
+        "https://telegra.ph/file/7087c62adde450b141bb5.jpg",
+        "https://telegra.ph/file/dbd94a20dfe12a4661ca1.jpg",
+        "https://telegra.ph/file/b360e540c820e8dc3904c.jpg"
+    ]
+};

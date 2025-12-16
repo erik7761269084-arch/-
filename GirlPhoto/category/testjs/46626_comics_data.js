@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46626,
+    "title": "Lada Lyumos - Shuten Douji - Page 1",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Shuten-Douji---Page-1-01-19",
+    "images": [
+        "https://telegra.ph/file/19335b49af85f8941a8bd.jpg",
+        "https://telegra.ph/file/f2441f7e8fe5343b8a9b3.jpg",
+        "https://telegra.ph/file/d07eeb6e670beae01274f.jpg",
+        "https://telegra.ph/file/ccada6e4ba138772d5f34.jpg",
+        "https://telegra.ph/file/7522e5c6b73b67f3e9c74.jpg",
+        "https://telegra.ph/file/6dd81b2bef6f911d591c2.jpg",
+        "https://telegra.ph/file/33bd91cd62b89ebb52961.jpg",
+        "https://telegra.ph/file/55371f5c8632e870c3708.jpg",
+        "https://telegra.ph/file/9334ca0c06905860cedd6.jpg",
+        "https://telegra.ph/file/77497d4f9c2183ef3087c.jpg",
+        "https://telegra.ph/file/e8a589a3e62073161be5f.jpg",
+        "https://telegra.ph/file/e0b682ed6c7cbf366ed0e.jpg",
+        "https://telegra.ph/file/18e2d45a9a937029e5806.jpg",
+        "https://telegra.ph/file/9f07cea596de858c13eda.jpg",
+        "https://telegra.ph/file/9facfb8522de00b97d2b8.jpg",
+        "https://telegra.ph/file/e39e1ba8d81e5e9f36ae6.jpg",
+        "https://telegra.ph/file/a2d9cbc27fc8abab7c468.jpg",
+        "https://telegra.ph/file/5279c468f58edb75832b4.jpg",
+        "https://telegra.ph/file/e309cfbed0d23c4a84c23.jpg",
+        "https://telegra.ph/file/15ddf3e70cb55eed91f38.jpg",
+        "https://telegra.ph/file/c59e8a2eee35d4a515be4.jpg",
+        "https://telegra.ph/file/7ca67b09a20c6e4d05733.jpg",
+        "https://telegra.ph/file/d0089c7adca637f3da7f2.jpg",
+        "https://telegra.ph/file/6f74be9c44f7bf254f2c4.jpg",
+        "https://telegra.ph/file/57052dcb2035c8d8f3fc8.jpg",
+        "https://telegra.ph/file/21aeb36000c7cbfb1f1fb.jpg"
+    ]
+};

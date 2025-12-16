@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44857,
+    "title": "[习呆呆] 井上泷奈 (Lycoris Recoil)",
+    "sourceUrl": "https://telegra.ph/习呆呆-井上泷奈-Lycoris-Recoil-03-19",
+    "images": [
+        "https://telegra.ph/file/6b1f29e80ccb67955735c.jpg",
+        "https://telegra.ph/file/837d036f7b9a061262dc1.jpg",
+        "https://telegra.ph/file/b6220f581638374e86064.jpg",
+        "https://telegra.ph/file/90a69c4478b70513b0acf.jpg",
+        "https://telegra.ph/file/759dd320cc52efb57c50e.jpg",
+        "https://telegra.ph/file/88848f717b1e948820f77.jpg",
+        "https://telegra.ph/file/9e77d11a647bed5b1d024.jpg",
+        "https://telegra.ph/file/6503a0d302877e4304f14.jpg",
+        "https://telegra.ph/file/e166b1c2cd1278b081bf5.jpg",
+        "https://telegra.ph/file/2876d62c79ab261e9c1ee.jpg",
+        "https://telegra.ph/file/6b5ab20b6e4263ac1ee47.jpg",
+        "https://telegra.ph/file/8389f6697442474d96a2d.jpg",
+        "https://telegra.ph/file/b5e747413e2aea3560935.jpg",
+        "https://telegra.ph/file/b5021122127cb85283084.jpg",
+        "https://telegra.ph/file/b05e154249b01374eccbe.jpg",
+        "https://telegra.ph/file/9e4a44aea5149c775c7a3.jpg",
+        "https://telegra.ph/file/df1ca5890ab790a8250c9.jpg",
+        "https://telegra.ph/file/79e378630282237ecfad4.jpg",
+        "https://telegra.ph/file/e40dff0150ab94b1780e2.jpg",
+        "https://telegra.ph/file/10479e0aa9e0026060cd2.jpg",
+        "https://telegra.ph/file/d8956b819ad5c0312f3a0.jpg",
+        "https://telegra.ph/file/783a81972d2666993beab.jpg",
+        "https://telegra.ph/file/31bf5f81d3e5b55a3e31f.jpg",
+        "https://telegra.ph/file/6615d81cf85b79455a6c1.jpg"
+    ]
+};

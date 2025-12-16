@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42501,
+    "title": "白桃少女 - 死库水 [71P2V]",
+    "sourceUrl": "https://telegra.ph/%E7%99%BD%E6%A1%83%E5%B0%91%E5%A5%B3---%E6%AD%BB%E5%BA%93%E6%B0%B4-71P2V-05-25",
+    "images": [
+        "https://telegra.ph/file/ced03f452bd9e74793d63.jpg",
+        "https://telegra.ph/file/b02f7517c2917c17893a1.jpg",
+        "https://telegra.ph/file/a4947b6b1e8d59e47b515.jpg",
+        "https://telegra.ph/file/214308131c26731674ea7.jpg",
+        "https://telegra.ph/file/bbc9c15adb1931bfd2605.jpg",
+        "https://telegra.ph/file/28b18a343c85593337437.jpg",
+        "https://telegra.ph/file/11d0f0a43b3b87688a27a.jpg",
+        "https://telegra.ph/file/c27e4959e6f8a25b571d3.jpg",
+        "https://telegra.ph/file/21efea2d3224cb35f83b9.jpg",
+        "https://telegra.ph/file/a0366e7f7f212d62a2c42.jpg",
+        "https://telegra.ph/file/45db2dadcdef7eb8a5e13.jpg",
+        "https://telegra.ph/file/b9a2f956ae9f42c2dcf68.jpg",
+        "https://telegra.ph/file/9f67e6603d89b2ecce957.jpg",
+        "https://telegra.ph/file/dbc736d7537988990ef22.jpg",
+        "https://telegra.ph/file/4aef69bc665e57fe43805.jpg",
+        "https://telegra.ph/file/b21fedb8d87911291b117.jpg",
+        "https://telegra.ph/file/3d0be261598da927ae8c2.jpg",
+        "https://telegra.ph/file/e37f2e1be142f48140fd6.jpg",
+        "https://telegra.ph/file/0c094a8d9e63a6fc68ed0.jpg",
+        "https://telegra.ph/file/a985b9f64f11253798623.jpg",
+        "https://telegra.ph/file/1f324a64df42dbc0991fc.jpg",
+        "https://telegra.ph/file/a3a19ea9e59e857d7d687.jpg",
+        "https://telegra.ph/file/9ff6bb881add45dd8d06c.jpg",
+        "https://telegra.ph/file/e2aff14404f2ac05c4bc2.jpg",
+        "https://telegra.ph/file/c0109a5069c3fb17964ed.jpg"
+    ]
+};

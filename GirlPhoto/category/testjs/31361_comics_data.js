@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31361,
+    "title": "Cosplay 瓜希酱 能代女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-瓜希酱-能代女仆-08-16",
+    "images": [
+        "https://telegra.ph/file/065adb5631abd482c1c35.jpg",
+        "https://telegra.ph/file/6812278023191346abf15.jpg",
+        "https://telegra.ph/file/ee948351de20224e65c3b.jpg",
+        "https://telegra.ph/file/2f29a9f483d4e263c4f4f.jpg",
+        "https://telegra.ph/file/691982996b67f934b8226.jpg",
+        "https://telegra.ph/file/947279c5d975041af0425.jpg",
+        "https://telegra.ph/file/024f5c253eca88b766f10.jpg",
+        "https://telegra.ph/file/ab948d5a5b67bc7759a03.jpg",
+        "https://telegra.ph/file/de64227a798f16e6bf080.jpg",
+        "https://telegra.ph/file/77dbdac8735f8e0c5dc95.jpg",
+        "https://telegra.ph/file/5f8f11727b7a7b8fc7e26.jpg",
+        "https://telegra.ph/file/84d3c326c7dd60489a6f1.jpg",
+        "https://telegra.ph/file/1118746850d31ddb51423.jpg",
+        "https://telegra.ph/file/4f0c0cbfc566d2a9e12d6.jpg",
+        "https://telegra.ph/file/1df3eda9ad9e60f277f22.jpg",
+        "https://telegra.ph/file/62b435b28f52f6aac9375.jpg",
+        "https://telegra.ph/file/f27dba4ea0718a276383c.jpg",
+        "https://telegra.ph/file/260fe78708a8ef4fb5032.jpg",
+        "https://telegra.ph/file/fa0bc0038ea86016a46f3.jpg",
+        "https://telegra.ph/file/163d673e89f8fa16bcada.jpg",
+        "https://telegra.ph/file/866e48b46caceb5e77e8f.jpg",
+        "https://telegra.ph/file/9f7d4f528445687e9c4c4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

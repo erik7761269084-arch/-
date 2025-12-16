@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37906,
+    "title": "Potato Godzilla - Asuna (Sword Art Online)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Asuna-Sword-Art-Online-06-21",
+    "images": [
+        "https://telegra.ph/file/439415d41fa6da15df05a.jpg",
+        "https://telegra.ph/file/7fcd75cc7f090b58a809d.jpg",
+        "https://telegra.ph/file/7d406577ffa094a381f00.jpg",
+        "https://telegra.ph/file/11d059db60b114bbaaeb2.jpg",
+        "https://telegra.ph/file/4f763a9cf14d5bc18d61e.jpg",
+        "https://telegra.ph/file/9bc45608d114d042eddd4.jpg",
+        "https://telegra.ph/file/3225285bb1338d4824568.jpg",
+        "https://telegra.ph/file/69d5baa970b55bcac2a31.jpg",
+        "https://telegra.ph/file/5b68de577c063d20bed4a.jpg",
+        "https://telegra.ph/file/ef9bee37dfe1aca019c2e.jpg",
+        "https://telegra.ph/file/5250e0785dc2f132042d1.jpg",
+        "https://telegra.ph/file/0e1c030e755800a447958.jpg",
+        "https://telegra.ph/file/fc5cd9237498e7306a568.jpg",
+        "https://telegra.ph/file/07fd2aee7ec7dd4e4012a.jpg",
+        "https://telegra.ph/file/d3eda62ba5224e8d38b8a.jpg",
+        "https://telegra.ph/file/221b1532e8bbba035bae4.jpg",
+        "https://telegra.ph/file/006b5e9ccef13bff5b7fd.jpg",
+        "https://telegra.ph/file/0b89f3e59c87ff3db2136.jpg",
+        "https://telegra.ph/file/9369c311020a703313bba.jpg",
+        "https://telegra.ph/file/33dd57babe90aedd68274.jpg",
+        "https://telegra.ph/file/6b60664d4f3afb3aaee6c.jpg",
+        "https://telegra.ph/file/ec392cc253c664085ddd5.jpg",
+        "https://telegra.ph/file/8bf5564940c5d9272a3fa.jpg",
+        "https://telegra.ph/file/40ede6b21b166a33cc061.jpg",
+        "https://telegra.ph/file/8d57f738c98c8efe59f27.jpg"
+    ]
+};

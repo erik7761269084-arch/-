@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43635,
+    "title": "rioko凉凉子-办公室的意外 [35P 394MB]",
+    "sourceUrl": "https://telegra.ph/rioko%E5%87%89%E5%87%89%E5%AD%90-%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%9A%84%E6%84%8F%E5%A4%96-35P-394MB-04-07",
+    "images": [
+        "https://telegra.ph/file/42d465e6139cc452159a0.jpg",
+        "https://telegra.ph/file/0d7c75cf180bbb3fad912.jpg",
+        "https://telegra.ph/file/d803efeb9addbf09224fe.jpg",
+        "https://telegra.ph/file/655c84c9aa05aed18c634.jpg",
+        "https://telegra.ph/file/057be5968608faa001bf1.jpg",
+        "https://telegra.ph/file/0b9a7ebb9f5b0cd847f91.jpg",
+        "https://telegra.ph/file/11454e7b28c4ab45ab081.jpg",
+        "https://telegra.ph/file/89f695599ce933c811de3.jpg",
+        "https://telegra.ph/file/f57d8eb0f6ac7234abd72.jpg",
+        "https://telegra.ph/file/0c9501a87f942ced0a3bc.jpg",
+        "https://telegra.ph/file/e16436333cff221b1005e.jpg",
+        "https://telegra.ph/file/a2566875aefd0626f2e12.jpg",
+        "https://telegra.ph/file/16f40e309f33ff8e16fa6.jpg",
+        "https://telegra.ph/file/07c391843aeb2c246e040.jpg",
+        "https://telegra.ph/file/a5bdc4559a0c43bca134a.jpg",
+        "https://telegra.ph/file/657723264fa8b03b210a3.jpg",
+        "https://telegra.ph/file/c51e82c4d62a741dba713.jpg",
+        "https://telegra.ph/file/813cc1e9adb2e8cb4b13d.jpg",
+        "https://telegra.ph/file/0e734d513f759a5e70b14.jpg",
+        "https://telegra.ph/file/ca39dbdb1e00a2923bad5.jpg",
+        "https://telegra.ph/file/25272d39506237a024cfd.jpg",
+        "https://telegra.ph/file/6b969eed7a0d05a9da9a7.jpg",
+        "https://telegra.ph/file/88494e22c94c16d88f6b0.jpg",
+        "https://telegra.ph/file/6aa2fb748afb5a576f402.jpg",
+        "https://telegra.ph/file/6ab7fb2bf1f98a7960c70.jpg",
+        "https://telegra.ph/file/fb5b3f42798af7ff7d892.jpg"
+    ]
+};

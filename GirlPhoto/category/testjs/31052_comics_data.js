@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31052,
+    "title": "Bambi 밤비, [CreamSoda] “Today&#8217;s” Set.02",
+    "sourceUrl": "https://telegra.ph/Bambi-밤비-CreamSoda-Today8217s-Set02-08-09",
+    "images": [
+        "https://telegra.ph/file/93db9eda03e1c7ef153eb.jpg",
+        "https://telegra.ph/file/eb8bbbe1ffb3dc3d74a28.jpg",
+        "https://telegra.ph/file/2e3ab0ac43b97867138df.jpg",
+        "https://telegra.ph/file/6f5283c7eb3ecb077d0fd.jpg",
+        "https://telegra.ph/file/aa7aaab7869595d165827.jpg",
+        "https://telegra.ph/file/88859facce0bf6b0a4627.jpg",
+        "https://telegra.ph/file/df91c38f14aabbbb3cded.jpg",
+        "https://telegra.ph/file/a4412f017a34de548c4e0.jpg",
+        "https://telegra.ph/file/17a56b1bb004e30d88b6d.jpg",
+        "https://telegra.ph/file/e215d3a994d55be4b814e.jpg",
+        "https://telegra.ph/file/f70ba3a04e0cdca31f2a4.jpg",
+        "https://telegra.ph/file/ae61b8b8ae10b0cf19ce5.jpg",
+        "https://telegra.ph/file/ca94d1903df8c5164f63e.jpg",
+        "https://telegra.ph/file/2c69b79697852a67f89d5.jpg",
+        "https://telegra.ph/file/878a6954ca038da0a3c28.jpg",
+        "https://telegra.ph/file/48aea67208ba29fc66d18.jpg",
+        "https://telegra.ph/file/2a04d03f7f2b48db08d17.jpg",
+        "https://telegra.ph/file/fbf1e92d820975849bae0.jpg",
+        "https://telegra.ph/file/b944c64ffd9adb36c512e.jpg",
+        "https://telegra.ph/file/f9b5429ae342c1ea72164.jpg",
+        "https://telegra.ph/file/08a59b3492ade1a8ba803.jpg",
+        "https://telegra.ph/file/3460f40b788421e44b006.jpg",
+        "https://telegra.ph/file/fa95807a5b50cc04cbe73.jpg",
+        "https://telegra.ph/file/571087de9a5ff1481b2c7.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47555,
+    "title": "Octokuro Model - Summer Widowmaker - Page 1",
+    "sourceUrl": "https://telegra.ph/Octokuro-Model---Summer-Widowmaker---Page-1-04-11",
+    "images": [
+        "https://telegra.ph/file/0ca18d65593db6ce38c31.jpg",
+        "https://telegra.ph/file/ff60acba85e9cf31591f5.jpg",
+        "https://telegra.ph/file/7365ea3b199efa77fb1a3.jpg",
+        "https://telegra.ph/file/cb04532ce48b126a60997.jpg",
+        "https://telegra.ph/file/316ce4f976aba9a0cc330.jpg",
+        "https://telegra.ph/file/38f260f089507711f6a18.jpg",
+        "https://telegra.ph/file/e9aac6d70f04f8d62d010.jpg",
+        "https://telegra.ph/file/72b60f8dd72992605aa8e.jpg",
+        "https://telegra.ph/file/6c8911a34375386c5c1dd.jpg",
+        "https://telegra.ph/file/e5f9c930fc89e8f889c4a.jpg",
+        "https://telegra.ph/file/691c9a263018348750c99.jpg",
+        "https://telegra.ph/file/f2580142c0d6bd1162f04.jpg",
+        "https://telegra.ph/file/223a8dfe89d03c6223596.jpg",
+        "https://telegra.ph/file/5788264104a7944f65a42.jpg",
+        "https://telegra.ph/file/1bb32eaad60b7ce82468a.jpg",
+        "https://telegra.ph/file/56865144295305ad917ab.jpg",
+        "https://telegra.ph/file/9c2d72f34358c1c053a6c.jpg",
+        "https://telegra.ph/file/9c09b612bcf5dbdd64a85.jpg",
+        "https://telegra.ph/file/515e17fe62fc1ffd613f7.jpg",
+        "https://telegra.ph/file/819f7702b3232124ec4f0.jpg",
+        "https://telegra.ph/file/76a270b682eec657d32ce.jpg",
+        "https://telegra.ph/file/4aa60c9d84a2d2b337e84.jpg",
+        "https://telegra.ph/file/43125f98bbfbd42e89fb0.jpg",
+        "https://telegra.ph/file/8ba04e146ea9815a5e29e.jpg"
+    ]
+};

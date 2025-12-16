@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24876,
+    "title": "发条少女-公园露出[25P]",
+    "sourceUrl": "https://telegra.ph/ErQfau-07-02",
+    "images": [
+        "https://telegra.ph/file/d700138da84718612a663.jpg",
+        "https://telegra.ph/file/d51a7974a2ba575ff84fd.jpg",
+        "https://telegra.ph/file/da430c88a77d891943b69.jpg",
+        "https://telegra.ph/file/59693a03599e827b772d2.jpg",
+        "https://telegra.ph/file/56842d0ed8d188c90d68f.jpg",
+        "https://telegra.ph/file/3fb6b9b79d33c75b7e7b2.jpg",
+        "https://telegra.ph/file/5caec9db5601c76a79776.jpg",
+        "https://telegra.ph/file/000d92d5f63b1ce166287.jpg",
+        "https://telegra.ph/file/8abf53c0389fa83d10f64.jpg",
+        "https://telegra.ph/file/3d8c68bc2b160a7d5c8d2.jpg",
+        "https://telegra.ph/file/02a10c41ee40491d0e39e.jpg",
+        "https://telegra.ph/file/90b79f93a170466d153b0.jpg",
+        "https://telegra.ph/file/0f27f8d86716e1c79051d.jpg",
+        "https://telegra.ph/file/f475b30e78260a4011770.jpg",
+        "https://telegra.ph/file/e2abd496435220e24b961.jpg",
+        "https://telegra.ph/file/d4d089bc760d0f02a6513.jpg",
+        "https://telegra.ph/file/4696da42dd4b566d38ef5.jpg",
+        "https://telegra.ph/file/77c351d5f4edaf89a9a41.jpg",
+        "https://telegra.ph/file/3243a45bd59ecf5c08681.jpg",
+        "https://telegra.ph/file/03fd7c755fb7df173cda8.jpg",
+        "https://telegra.ph/file/08262a1e41e9113c89fe0.jpg",
+        "https://telegra.ph/file/58b90f91d63ff937c577f.jpg",
+        "https://telegra.ph/file/6fef24beeb5bc6aeed33a.jpg",
+        "https://telegra.ph/file/4a46325d69a0954bc3853.jpg",
+        "https://telegra.ph/file/6087461ebaddd2ea2919a.jpg"
+    ]
+};

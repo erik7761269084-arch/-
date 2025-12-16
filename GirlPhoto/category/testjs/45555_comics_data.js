@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45555,
+    "title": "[千夜未来] 大凤 - Page 1",
+    "sourceUrl": "https://telegra.ph/千夜未来-大凤---Page-1-10-03",
+    "images": [
+        "https://telegra.ph/file/e658b1c14f9c354d3e063.jpg",
+        "https://telegra.ph/file/fe24bd3a5771f854a54d7.jpg",
+        "https://telegra.ph/file/f3549210b2dfb87a410a5.jpg",
+        "https://telegra.ph/file/299dd25c43e37415149cc.jpg",
+        "https://telegra.ph/file/6616bba5a71497dd92fba.jpg",
+        "https://telegra.ph/file/9d39b91f319638c690e6d.jpg",
+        "https://telegra.ph/file/2b47b6b84cf5280bcfe9e.jpg",
+        "https://telegra.ph/file/91f190e18322c7fff0411.jpg",
+        "https://telegra.ph/file/d8fbc359de22d3a4dd3ca.jpg",
+        "https://telegra.ph/file/170a284e9c66e2178ef9e.jpg",
+        "https://telegra.ph/file/a17ed9d98ccc5026a02ec.jpg",
+        "https://telegra.ph/file/f47e9d041a5c3c0ddcbd0.jpg",
+        "https://telegra.ph/file/c89969013c03ef4d00cd9.jpg",
+        "https://telegra.ph/file/8f29b4ddd79cf5af6a4a5.jpg",
+        "https://telegra.ph/file/c54808255050045028ffe.jpg",
+        "https://telegra.ph/file/f94cb7ddde2d7a1213945.jpg",
+        "https://telegra.ph/file/d7e43e417ff2ecb7b493d.jpg",
+        "https://telegra.ph/file/38cf963713ccea6fe178c.jpg",
+        "https://telegra.ph/file/117589e4646272df0e560.jpg",
+        "https://telegra.ph/file/8f68d3fd5a169cb8f6184.jpg",
+        "https://telegra.ph/file/188f26a8b6195dab44c8f.jpg",
+        "https://telegra.ph/file/7bc8a7798f6a871d6fa82.jpg",
+        "https://telegra.ph/file/05bf68fe786a6c677f8d3.jpg",
+        "https://telegra.ph/file/0837ff15ea25ac146283c.jpg",
+        "https://telegra.ph/file/8c7dba4bd428d8211846b.jpg"
+    ]
+};

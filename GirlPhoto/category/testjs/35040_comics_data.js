@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35040,
+    "title": "Cosplay KuukoW クー子 Rosalia-Honkai Impact",
+    "sourceUrl": "https://telegra.ph/Cosplay-KuukoW-クー子-Rosalia-Honkai-Impact-08-15",
+    "images": [
+        "https://telegra.ph/file/b724ec69d816c1546f589.jpg",
+        "https://telegra.ph/file/80311e7455b32481cdb08.jpg",
+        "https://telegra.ph/file/765fd2ecf8d0c74d8c317.jpg",
+        "https://telegra.ph/file/9e1e83175ec5f8ba8f998.jpg",
+        "https://telegra.ph/file/aeb1758217b298fb6deea.jpg",
+        "https://telegra.ph/file/38a52c9cc253b37e750a3.jpg",
+        "https://telegra.ph/file/621de08720153fa08bf5c.jpg",
+        "https://telegra.ph/file/f496f9363a541ac383b40.jpg",
+        "https://telegra.ph/file/a14328f8575783e3924e1.jpg",
+        "https://telegra.ph/file/10eec1d49c71e59e923d9.jpg",
+        "https://telegra.ph/file/6cd6f840946882c752faf.jpg",
+        "https://telegra.ph/file/0b276efc1ad3beb5bc224.jpg",
+        "https://telegra.ph/file/c3a7548eaf00508b1d0ae.jpg",
+        "https://telegra.ph/file/e5eb3471fe350c90acdbc.jpg",
+        "https://telegra.ph/file/216c48569cab5f1ae0ff1.jpg",
+        "https://telegra.ph/file/dc23911c8bcc9fc113760.jpg",
+        "https://telegra.ph/file/17ec0367aef2af7fb2dbb.jpg",
+        "https://telegra.ph/file/6bd431ba2c917d707d03b.jpg",
+        "https://telegra.ph/file/a5d3146503ae4ae530561.jpg",
+        "https://telegra.ph/file/264957b24b7d95738c59f.jpg",
+        "https://telegra.ph/file/a6637ede976e42b165785.jpg",
+        "https://telegra.ph/file/986038252c3c1ef21f129.jpg",
+        "https://telegra.ph/file/0557383e9e9a6dc0d5275.jpg",
+        "https://telegra.ph/file/b72a2c0eefae43f450dfe.jpg"
+    ]
+};

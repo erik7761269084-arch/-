@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48050,
+    "title": "Shirokitsune - Easter Jinx - Page 1",
+    "sourceUrl": "https://telegra.ph/Shirokitsune---Easter-Jinx---Page-1-05-26",
+    "images": [
+        "https://telegra.ph/file/8891627e4640f3acba4ed.jpg",
+        "https://telegra.ph/file/ffcf9f2f2fd34b00c2e13.jpg",
+        "https://telegra.ph/file/875a8117d5fbc41a71b52.jpg",
+        "https://telegra.ph/file/aa37939fd1e4334acfb0e.jpg",
+        "https://telegra.ph/file/78ee9893041b1103b23db.jpg",
+        "https://telegra.ph/file/b736196d694a91adec6b3.jpg",
+        "https://telegra.ph/file/52073a8640497d0afcf90.jpg",
+        "https://telegra.ph/file/73fbb7ab6bbc222ed34c2.jpg",
+        "https://telegra.ph/file/7546e3d4a787d85021c94.jpg",
+        "https://telegra.ph/file/951fa9113df535c248be4.jpg",
+        "https://telegra.ph/file/ef53d1277be646f55177e.jpg",
+        "https://telegra.ph/file/583d7b51176603c371649.jpg",
+        "https://telegra.ph/file/eba1a908cf504ec43c391.jpg",
+        "https://telegra.ph/file/37435f7a2280358427a1e.jpg",
+        "https://telegra.ph/file/26574a55539b2f530ba02.jpg",
+        "https://telegra.ph/file/ca2246a09169f8d7f4de2.jpg",
+        "https://telegra.ph/file/fde8be2a6b0ccfec8b8cd.jpg",
+        "https://telegra.ph/file/63df05e255098917d0919.jpg",
+        "https://telegra.ph/file/215102252cb4ccc3fc6c3.jpg",
+        "https://telegra.ph/file/a7ff24cb6d052cef94ef9.jpg",
+        "https://telegra.ph/file/3e7ce878fac366850324e.jpg",
+        "https://telegra.ph/file/5c1ae3673cf8a31edd824.jpg",
+        "https://telegra.ph/file/6fab5e4120fb12c9b0537.jpg",
+        "https://telegra.ph/file/bfc8f22f7f670832f69bc.jpg",
+        "https://telegra.ph/file/a4a6ba9d7e174a410c3fc.jpg"
+    ]
+};

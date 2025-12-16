@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39564,
+    "title": "Rioko 凉凉子 - 和女上司的七夕",
+    "sourceUrl": "https://telegra.ph/Rioko-凉凉子---和女上司的七夕-08-25",
+    "images": [
+        "https://telegra.ph/file/1e1e206fd0765c1ea4217.jpg",
+        "https://telegra.ph/file/31f8dbe8bb5edebe0398e.jpg",
+        "https://telegra.ph/file/ff14c461a7562f1bfbef1.jpg",
+        "https://telegra.ph/file/371297e115f6491ec0110.jpg",
+        "https://telegra.ph/file/b13403d12c51413f4ad7c.jpg",
+        "https://telegra.ph/file/d0cf49973bc7653ca3622.jpg",
+        "https://telegra.ph/file/b9caae369be90cb603256.jpg",
+        "https://telegra.ph/file/d5bf2921a6a56fc936a5c.jpg",
+        "https://telegra.ph/file/fef5eab0a27baa3786a4a.jpg",
+        "https://telegra.ph/file/319ffce1c4053a9f8a943.jpg",
+        "https://telegra.ph/file/5150b484225de0c87f92e.jpg",
+        "https://telegra.ph/file/1912d869778b28ebb7f9a.jpg",
+        "https://telegra.ph/file/f682a830cb416fcfb15d2.jpg",
+        "https://telegra.ph/file/a2ad724ad0caa4bbcdbd1.jpg",
+        "https://telegra.ph/file/d5245c93c5dd6e1f4f3d0.jpg",
+        "https://telegra.ph/file/f8d57b708cca5754f8372.jpg",
+        "https://telegra.ph/file/a927be69b77401a11e160.jpg",
+        "https://telegra.ph/file/b3b0ff9efa9c30f4ad2c2.jpg",
+        "https://telegra.ph/file/9f41e611af698fe1a1aff.jpg",
+        "https://telegra.ph/file/9cbf331f3f8f3a224f748.jpg",
+        "https://telegra.ph/file/642d16cc0adfe2649642a.jpg",
+        "https://telegra.ph/file/75893f6543abd4b3e71ca.jpg",
+        "https://telegra.ph/file/7c3f3ece56623621431bf.jpg",
+        "https://telegra.ph/file/bc801728851ef1fb8f683.jpg",
+        "https://telegra.ph/file/5a6f7aaafe58418f96c7e.jpg",
+        "https://telegra.ph/file/5ffa022c9f49ae93b5f54.jpg"
+    ]
+};

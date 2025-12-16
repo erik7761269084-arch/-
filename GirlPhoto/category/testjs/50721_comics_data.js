@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50721,
+    "title": "阿包也是兔娘 二月舰长埃吉尔 - Page 1",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-二月舰长埃吉尔---Page-1-07-06",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfVpoalggqEiLQiTtKW1zdfY7ScVlbAAC9BsAA85QV1A0pdokiPk3NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfVtoalgkUqtMKpNuUQgZ0PpZjww6CwAC9RsAA85QV5nMr7Yijz_UNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfVxoalgllLtd4bz_jXExbOOFHU4XdwAC9hsAA85QV-XMYiXJiVXLNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfV1oalgoChGnY4aCPYp85lCwwujkmAAC9xsAA85QV2wFXtcVDVvFNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfV5oalgqTrjgq120SLEYhP4nqkd4hgAC-BsAA85QV6Q3j0LXWF0jNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfV9oalgs2mwSDG1_Bf02LYPwFK4C0QAC-RsAA85QV1HRIauRQc2rNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWBoalgufVNaoz46X5y0jOVMvxx-FAAC-hsAA85QV5rtYmMpdqjhNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWFoalgwJfGlM89BkfedhZbPiews5wAC-xsAA85QVyfdqeRiKSHXNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWJoalgxdsDL0up2kwvWqhYV7x0dTAAC_BsAA85QV00BNKltFVo9NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWNoalgzVuiHAAHR8Curm1zl6SriVQYAAv0bAAPOUFdNNDDfMc5hvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWRoalg1uk36pNNE5E-U6LmB5pGN4QAC_hsAA85QVyhyqtCZ7WWwNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWVoalg3AAGLkQ9gNBcwWCOxKWU7iY0AAv8bAAPOUFd4871HhJsmzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWZoalg5YCUpEl0jKjvKEhWiqhZYcAADHAADzlBXGUQNWdLB5ZM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWdoalg6-aymLXFvyrIX1RcFholVbwACARwAA85QVxpUFIC8zgj1NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWhoalg8tD_fYgZV44YQnNtaFi1nowACAhwAA85QVytoJh1qTdXoNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWloalg-vsMkx1pdsuPY0zyk8EqHEQACAxwAA85QV_G-KU2kAZPINgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWpoalg_WFmkxW3Q_uQlHLxt3L-RPgACBBwAA85QV1Hvgsle3UF-NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWtoalhBZAo98MSuL3yZh1s2FfDU0AACBRwAA85QV8lePQFUqrEzNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfWxoalhCz1vyo1sb50rsbUUhQJunhgACBhwAA85QV_OW7KsY5BOmNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfW1oalhDnu8zWv-G7vqCjGgB5Oh_ywACBxwAA85QV-Jqp8nX_WfcNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfW5oaliC5mmENfTtIWTj9tBqnpiT0AACCBwAA85QV4lbhX3D1J3ZNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfW9oaliEVE28xVOOxkrO86GKzedpfQACCRwAA85QV6Lx93tU-AABbTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfXBoaliFQKIE9YERxVynxqOejXrO6gACChwAA85QV1Z6aUfVh87XNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfXFoaliHNTl8ZjMd7ki6dlja7Cs_nQACDBwAA85QVz3Yf79Q-sRANgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfXJoaliJDIiOAcB8b_WTye5tM60angACDRwAA85QV-UKZmGy9cBCNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENfXNoaliLtBK6Ydyye6kr2drAVtwrEgACDhwAA85QVyUhT-wd8dXcNgQ"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44053,
+    "title": "橙子喵酱 - 宵宫 [23P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---宵宫-23P-09-27",
+    "images": [
+        "https://telegra.ph/file/1e6f11d38924b71028cc2.jpg",
+        "https://telegra.ph/file/ec797c45e9d845591baaf.jpg",
+        "https://telegra.ph/file/15b82b7c35448af006a65.jpg",
+        "https://telegra.ph/file/f6e9b8b225ef32cf8ffa7.jpg",
+        "https://telegra.ph/file/511e9c89f5a5770c28cbc.jpg",
+        "https://telegra.ph/file/f0f9a0884f4897a47263f.jpg",
+        "https://telegra.ph/file/24f4242d6b0ceac68b29c.jpg",
+        "https://telegra.ph/file/8349518ab831131aec23d.jpg",
+        "https://telegra.ph/file/f5e18dd0a3219229d85f7.jpg",
+        "https://telegra.ph/file/f8d54740a5cc929f24ee3.jpg",
+        "https://telegra.ph/file/515745c3c60a6060e602b.jpg",
+        "https://telegra.ph/file/408c7e40a7e184a876ee7.jpg",
+        "https://telegra.ph/file/09584bb37f515b126b12d.jpg",
+        "https://telegra.ph/file/b2a97c93b6e5089620800.jpg",
+        "https://telegra.ph/file/55f854dba6f6e021aec31.jpg",
+        "https://telegra.ph/file/44cf0a8a4e2ebe3dedc86.jpg",
+        "https://telegra.ph/file/8c6e48c459a5ea4f12fb7.jpg",
+        "https://telegra.ph/file/4bc568364d5a37fba9814.jpg",
+        "https://telegra.ph/file/b7fc44d44cdb21dd76ca5.jpg",
+        "https://telegra.ph/file/eeb102588eaac68b28941.jpg",
+        "https://telegra.ph/file/53bebd55c60f40343444e.jpg",
+        "https://telegra.ph/file/8b7a226256f20b3344a1d.jpg",
+        "https://telegra.ph/file/55b479b011ede7fd667f5.jpg"
+    ]
+};

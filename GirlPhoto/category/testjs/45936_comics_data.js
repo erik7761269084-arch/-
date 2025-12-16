@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45936,
+    "title": "念念_D NO.016 欧根护士 Azur Lane Prinz Eugen [25P-106MB] - Page 1",
+    "sourceUrl": "https://telegra.ph/念念-D-NO016-欧根护士-Azur-Lane-Prinz-Eugen-25P-106MB---Page-1-11-11",
+    "images": [
+        "https://telegra.ph/file/bbf1ca260e4c20ef1a8a5.jpg",
+        "https://telegra.ph/file/296b923f145ee450e093c.jpg",
+        "https://telegra.ph/file/4f2fc5934e77e15887483.jpg",
+        "https://telegra.ph/file/8f6231ad4e3e117238d18.jpg",
+        "https://telegra.ph/file/d3ad969f8cb0a17a9345d.jpg",
+        "https://telegra.ph/file/d68b671e02c4f1a1005f4.jpg",
+        "https://telegra.ph/file/d669b87381f801a547e49.jpg",
+        "https://telegra.ph/file/8560ba9d3374367e03348.jpg",
+        "https://telegra.ph/file/890819d3c1c0a101213aa.jpg",
+        "https://telegra.ph/file/165bc43bfb8277979790c.jpg",
+        "https://telegra.ph/file/05eff8a07748c51ef05cb.jpg",
+        "https://telegra.ph/file/fe7544416f971a1a3ef62.jpg",
+        "https://telegra.ph/file/94cd9af85c982bc2e00c4.jpg",
+        "https://telegra.ph/file/9373556446b961b198d2b.jpg",
+        "https://telegra.ph/file/c218515db58a253fd84d5.jpg",
+        "https://telegra.ph/file/f844afc9692050c3b9565.jpg",
+        "https://telegra.ph/file/3f9a2ec160d428118639e.jpg",
+        "https://telegra.ph/file/afa4e5a86f37e70921075.jpg",
+        "https://telegra.ph/file/8d8556ffac6294fb7c20a.jpg",
+        "https://telegra.ph/file/015a6da6a36e7c8ef89b2.jpg",
+        "https://telegra.ph/file/61535dc0e9527ee494527.jpg",
+        "https://telegra.ph/file/4ede18d2f0f0266d74bd4.jpg",
+        "https://telegra.ph/file/c66c0b06393d81ac615d3.jpg",
+        "https://telegra.ph/file/7142afee3c6486ec0196f.jpg",
+        "https://telegra.ph/file/b853ae223799da1b4b273.jpg"
+    ]
+};

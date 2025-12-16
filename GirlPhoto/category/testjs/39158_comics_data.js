@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39158,
+    "title": "Neppu - Rrizu-kyun (Sono Bisque Doll Wa Koi Wo Soru)",
+    "sourceUrl": "https://telegra.ph/Neppu---Rrizu-kyun-Sono-Bisque-Doll-Wa-Koi-Wo-Soru-05-20",
+    "images": [
+        "https://telegra.ph/file/65b7dd6d437aa4e6d8ee0.jpg",
+        "https://telegra.ph/file/02855411516a3ca4b2163.jpg",
+        "https://telegra.ph/file/5f8e4a2220cdf9ca5a8b4.jpg",
+        "https://telegra.ph/file/6f856babe331b893177b4.jpg",
+        "https://telegra.ph/file/dd07910b8ddfb121d3dc2.jpg",
+        "https://telegra.ph/file/e689816b83a494caac418.jpg",
+        "https://telegra.ph/file/7424607e7c824a7a561de.jpg",
+        "https://telegra.ph/file/e817e56a004f21fe1557d.jpg",
+        "https://telegra.ph/file/3809fad66f40eed45e2e2.jpg",
+        "https://telegra.ph/file/e382d6b3f2056c00e8fea.jpg",
+        "https://telegra.ph/file/1669473ea65df90bda772.jpg",
+        "https://telegra.ph/file/dc0f968607142716b6dea.jpg",
+        "https://telegra.ph/file/7bf23a8b03e431fcdeb05.jpg",
+        "https://telegra.ph/file/c555a39aff310b982288e.jpg",
+        "https://telegra.ph/file/74f04be7db8b681826c9e.jpg",
+        "https://telegra.ph/file/4661340ca4b1f7c047b8a.jpg",
+        "https://telegra.ph/file/e3e9a57943ca2ea44889a.jpg",
+        "https://telegra.ph/file/242a44aa0841b03eaf408.jpg",
+        "https://telegra.ph/file/2e806de853a5b50638e4a.jpg",
+        "https://telegra.ph/file/9cf43dbb2ffe00363d479.jpg",
+        "https://telegra.ph/file/5f9f9aefb70abdd7ed40d.jpg",
+        "https://telegra.ph/file/c7ab02edefab4339d81c1.jpg",
+        "https://telegra.ph/file/5dfadb7a09fb389c1d7cc.jpg",
+        "https://telegra.ph/file/747ed02e50d3dd42570a2.jpg"
+    ]
+};

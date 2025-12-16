@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38511,
+    "title": "Kalinka Fox - DO-S (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Kalinka-Fox---DO-S-One-Punch-Man-11-22",
+    "images": [
+        "https://telegra.ph/file/9fafa7cfba17a07665746.jpg",
+        "https://telegra.ph/file/94883f7c5c1563e221372.jpg",
+        "https://telegra.ph/file/43e06397a4191d2e5291e.jpg",
+        "https://telegra.ph/file/ff4b61d96195ec0797275.jpg",
+        "https://telegra.ph/file/36ad5ccbe7e82d0004f08.jpg",
+        "https://telegra.ph/file/30606581e62f4dd78846c.jpg",
+        "https://telegra.ph/file/df66fff720f777f0fca8f.jpg",
+        "https://telegra.ph/file/2427ed04d12e913ee6e35.jpg",
+        "https://telegra.ph/file/cd928f388c04dcd107854.jpg",
+        "https://telegra.ph/file/7c467fad04319de7b184f.jpg",
+        "https://telegra.ph/file/bebc5348f4a1465d50047.jpg",
+        "https://telegra.ph/file/33467cb5038f1e544cf66.jpg",
+        "https://telegra.ph/file/3e744b570402704be0165.jpg",
+        "https://telegra.ph/file/59a321c74ef93fdc678ec.jpg",
+        "https://telegra.ph/file/ecd0b498399d920f6a7c6.jpg",
+        "https://telegra.ph/file/c5414cca439a3eb873a4e.jpg",
+        "https://telegra.ph/file/5a50ba8e72265cb5ae9f9.jpg",
+        "https://telegra.ph/file/58966e6842bb69b0b57df.jpg",
+        "https://telegra.ph/file/b0b7a82445778a1c5461d.jpg",
+        "https://telegra.ph/file/e7879f874d2dc37d2a14d.jpg",
+        "https://telegra.ph/file/8738eb269f6c39a157940.jpg",
+        "https://telegra.ph/file/f63341617f1401cfd4c1b.jpg",
+        "https://telegra.ph/file/aeeeed31a4e2019d9b7e2.jpg"
+    ]
+};

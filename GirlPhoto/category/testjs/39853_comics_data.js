@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39853,
+    "title": "Caticornplay - Gawr Gura Halloween (Hololive)",
+    "sourceUrl": "https://telegra.ph/Caticornplay---Gawr-Gura-Halloween-Hololive-11-08",
+    "images": [
+        "https://telegra.ph/file/0a15f642048d2329e4ea7.jpg",
+        "https://telegra.ph/file/a87823bcc7b7cb1684ded.jpg",
+        "https://telegra.ph/file/695b389f9a8b79632a9c3.jpg",
+        "https://telegra.ph/file/37d13172afb368ed2d4f0.jpg",
+        "https://telegra.ph/file/555d9ff5a3481a47a2937.jpg",
+        "https://telegra.ph/file/d4665ccf545af18653266.jpg",
+        "https://telegra.ph/file/fb4f33779bf6c48ef31fe.jpg",
+        "https://telegra.ph/file/083a36694e1c9ca50653f.jpg",
+        "https://telegra.ph/file/59e84bc8bd4ae1206252b.jpg",
+        "https://telegra.ph/file/cb48c7720521625ec13b0.jpg",
+        "https://telegra.ph/file/52ebc2bdead34928bce32.jpg",
+        "https://telegra.ph/file/2c29275668fa5535541f4.jpg",
+        "https://telegra.ph/file/6f4c42c8951b6da79dc37.jpg",
+        "https://telegra.ph/file/f6a395ac5fbe3d3405e33.jpg",
+        "https://telegra.ph/file/7e06172cdc5894172e7c9.jpg",
+        "https://telegra.ph/file/c0a22a3788fe80b9435b7.jpg",
+        "https://telegra.ph/file/d54a1d701e0a55c50f862.jpg",
+        "https://telegra.ph/file/bb2513a44ef756db8c047.jpg",
+        "https://telegra.ph/file/c0b15ca30fe4bbc62b609.jpg",
+        "https://telegra.ph/file/23146324e3c5702072016.jpg",
+        "https://telegra.ph/file/83f53e1c77fa82c7f7f6c.jpg",
+        "https://telegra.ph/file/1d0729bd7d48b514f7db9.jpg",
+        "https://telegra.ph/file/39ef17566dcf1fbf65d2b.jpg",
+        "https://telegra.ph/file/aa161a3158e540ba1c34b.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34575,
+    "title": "Cosplay KuukoW クー子 Tamaki Kotatsu",
+    "sourceUrl": "https://telegra.ph/Cosplay-KuukoW-クー子-Tamaki-Kotatsu-06-27",
+    "images": [
+        "https://telegra.ph/file/4be53895f7f24fab06c57.jpg",
+        "https://telegra.ph/file/fd2ca4136d49a7c7fe18f.jpg",
+        "https://telegra.ph/file/332b6a962ee293bf27be6.jpg",
+        "https://telegra.ph/file/535ba6c3c116b872990ea.jpg",
+        "https://telegra.ph/file/d5e19a3a65a05372f1a04.jpg",
+        "https://telegra.ph/file/1fbd07782ca0aa637151f.jpg",
+        "https://telegra.ph/file/0b029308a10a4f048f313.jpg",
+        "https://telegra.ph/file/fa9b998f3eb25c3313177.jpg",
+        "https://telegra.ph/file/e26833321128b10288d60.jpg",
+        "https://telegra.ph/file/d408bb34e1fdf20f68cdc.jpg",
+        "https://telegra.ph/file/8acb195d479ddbe14f36b.jpg",
+        "https://telegra.ph/file/59555e6308edb66f8a637.jpg",
+        "https://telegra.ph/file/f5db01bac0e51729e72bb.jpg",
+        "https://telegra.ph/file/b8d3445f8067ede326a81.jpg",
+        "https://telegra.ph/file/6e7b9c03dbbff1afc5e18.jpg",
+        "https://telegra.ph/file/bc2381e080049b0a19ee8.jpg",
+        "https://telegra.ph/file/222a1586f17fe158f813b.jpg",
+        "https://telegra.ph/file/610b0cab49e6e3c59d1ba.jpg",
+        "https://telegra.ph/file/43f7c8ec56e8fbd3d735f.jpg",
+        "https://telegra.ph/file/c4dcbfc4f5f7ee14fd96a.jpg",
+        "https://telegra.ph/file/d8b54334212d20e771faa.jpg",
+        "https://telegra.ph/file/5b022ebce330e544fc48b.jpg",
+        "https://telegra.ph/file/9a46ff192be692e291f0b.jpg",
+        "https://telegra.ph/file/c0dd35fcda73a20092e8f.jpg",
+        "https://telegra.ph/file/59d4e77b4ef1b52c17bac.jpg"
+    ]
+};

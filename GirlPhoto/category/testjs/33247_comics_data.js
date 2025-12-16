@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33247,
+    "title": "Jeong Ah 정아, [LEEHEE EXPRESS] LEDG-024A Set.02",
+    "sourceUrl": "https://telegra.ph/Jeong-Ah-정아-LEEHEE-EXPRESS-LEDG-024A-Set02-02-15",
+    "images": [
+        "https://telegra.ph/file/9fc6dd6b7bcb2d17ccdf7.jpg",
+        "https://telegra.ph/file/d69eb2fbb1a1a64a1a39c.jpg",
+        "https://telegra.ph/file/d74b04f0012999055f1c1.jpg",
+        "https://telegra.ph/file/ac6facb00e83ee35c9769.jpg",
+        "https://telegra.ph/file/f15b5c93984ab9eb35433.jpg",
+        "https://telegra.ph/file/cf9aa14e6e40f4f77838e.jpg",
+        "https://telegra.ph/file/f9ed7a68643a9165665e3.jpg",
+        "https://telegra.ph/file/29a21bd9fe59f3a1c7747.jpg",
+        "https://telegra.ph/file/9366f69a4e9c600344244.jpg",
+        "https://telegra.ph/file/584e98ece6fed7ae0c7b2.jpg",
+        "https://telegra.ph/file/af57f2d6941afb9601cde.jpg",
+        "https://telegra.ph/file/1bcf9e0e4c8fdd9030b50.jpg",
+        "https://telegra.ph/file/bf6e0fb3b6f9b28afe7a4.jpg",
+        "https://telegra.ph/file/024a5678c5834f1156dc8.jpg",
+        "https://telegra.ph/file/a8522daf5a8ac4b33c8e0.jpg",
+        "https://telegra.ph/file/d22327c19dbafe645404e.jpg",
+        "https://telegra.ph/file/4c7940ae25e323bfa2882.jpg",
+        "https://telegra.ph/file/65fb7d8b91b7e252747af.jpg",
+        "https://telegra.ph/file/6a82f4fd6ca5cf09c1531.jpg",
+        "https://telegra.ph/file/a12ffb1df9c55a975222a.jpg",
+        "https://telegra.ph/file/323a5092255c9d6715ac4.jpg",
+        "https://telegra.ph/file/f5b6d8f821f7b9980ae6c.jpg",
+        "https://telegra.ph/file/2188a066f006ea8b7b2c1.jpg",
+        "https://telegra.ph/file/41178066abeacedcbd4fa.jpg",
+        "https://telegra.ph/file/d640542c0be7f4f063cc5.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

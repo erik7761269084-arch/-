@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43735,
+    "title": "水淼Aqua - kisaki会长 31P-253M",
+    "sourceUrl": "https://telegra.ph/%E6%B0%B4%E6%B7%BCAqua---kisaki%E4%BC%9A%E9%95%BF-31P-253M-07-04",
+    "images": [
+        "https://telegra.ph/file/4a655997e8d47d3ca958d.png",
+        "https://telegra.ph/file/e6a6c7c77fdb7ebfa7980.png",
+        "https://telegra.ph/file/c3515404defcd776f4ccf.png",
+        "https://telegra.ph/file/03bc8efb45d5f94c7c75e.png",
+        "https://telegra.ph/file/46192c1f6f4974456296b.png",
+        "https://telegra.ph/file/6b37ddbff4f84b371628c.png",
+        "https://telegra.ph/file/2082afba90468f50c8434.png",
+        "https://telegra.ph/file/1df585285921a8711e414.png",
+        "https://telegra.ph/file/28e627557ead38eefa92a.png",
+        "https://telegra.ph/file/3f4c893f3e6b70661adf1.png",
+        "https://telegra.ph/file/0f0226b6c91b955f1c367.png",
+        "https://telegra.ph/file/936006fcc518bc35e405c.png",
+        "https://telegra.ph/file/20e2d15a372ca0647b92b.png",
+        "https://telegra.ph/file/7bb8553145d82662d9497.png",
+        "https://telegra.ph/file/56ffaaad2c54da85d0936.png",
+        "https://telegra.ph/file/4050eb619a8a7be4f1186.png",
+        "https://telegra.ph/file/ac33f827915f779587762.png",
+        "https://telegra.ph/file/86e07f00030d9c835ff89.png",
+        "https://telegra.ph/file/8d9195356d355faa09454.png",
+        "https://telegra.ph/file/d2e00fc9644532c55cf49.png",
+        "https://telegra.ph/file/c69e447d262c16d619a60.png",
+        "https://telegra.ph/file/6afce23f2f6491263947e.png",
+        "https://telegra.ph/file/d1390eed8c49a99a5a576.png",
+        "https://telegra.ph/file/db279f55d10f223817219.png",
+        "https://telegra.ph/file/43a7d8692bb374b9322f4.png"
+    ]
+};

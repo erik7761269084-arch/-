@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31323,
+    "title": "[Rioko凉凉子] 食铁兽-音乐会",
+    "sourceUrl": "https://telegra.ph/Rioko凉凉子-食铁兽-音乐会-08-16",
+    "images": [
+        "https://telegra.ph/file/bbdb24bdfc0bace6790c8.jpg",
+        "https://telegra.ph/file/62920b8bc9ceab94f556e.jpg",
+        "https://telegra.ph/file/188f232bf7d82cce75950.jpg",
+        "https://telegra.ph/file/38bbf8bc6faa1513b4776.jpg",
+        "https://telegra.ph/file/75cacb3642a7101f790ae.jpg",
+        "https://telegra.ph/file/7f16492a1f26881e2383e.jpg",
+        "https://telegra.ph/file/cbb712d1cc9ee5ed0d6eb.jpg",
+        "https://telegra.ph/file/aecf2a9af6ba6b2208821.jpg",
+        "https://telegra.ph/file/c4443b6ba0d6345808b97.jpg",
+        "https://telegra.ph/file/dc39e784fa4610ae0bcd0.jpg",
+        "https://telegra.ph/file/384a9e001b333a4f15bf1.jpg",
+        "https://telegra.ph/file/26f03452b797cda291e5e.jpg",
+        "https://telegra.ph/file/16ce6f39495775370eeb4.jpg",
+        "https://telegra.ph/file/fc4a21bae8e217087701c.jpg",
+        "https://telegra.ph/file/240af86657c030a1fa31d.jpg",
+        "https://telegra.ph/file/358292e1d32206c75d441.jpg",
+        "https://telegra.ph/file/9d2ced8db2064f7c817f4.jpg",
+        "https://telegra.ph/file/71bcd4895f3dd963dea7e.jpg",
+        "https://telegra.ph/file/f5e71348ef14fc796e6b5.jpg",
+        "https://telegra.ph/file/4bf760af692d600a6bccb.jpg",
+        "https://telegra.ph/file/80379271558b895375ac3.jpg",
+        "https://telegra.ph/file/b1449d843d70359f097a8.jpg",
+        "https://telegra.ph/file/c83e5e4efd7aee2e0cb6b.jpg",
+        "https://telegra.ph/file/ff30c51c811b5799d9397.jpg",
+        "https://telegra.ph/file/8b45e8e81ab251511f2b4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30170,
+    "title": "柚木 第03季 [花嫁tiao教] 25P",
+    "sourceUrl": "https://telegra.ph/柚木-第03季-花嫁tiao教-25P-04-07",
+    "images": [
+        "https://telegra.ph/file/98cc5fd9a12e4611ee6ec.jpg",
+        "https://telegra.ph/file/a9f6c87a9bb93c2a507c0.jpg",
+        "https://telegra.ph/file/9efec761ee21b07f903e1.jpg",
+        "https://telegra.ph/file/154b0458b812c7f2240a3.jpg",
+        "https://telegra.ph/file/2d9ababd5fabb727296aa.jpg",
+        "https://telegra.ph/file/28eca8e74f4d0b6f74283.jpg",
+        "https://telegra.ph/file/59d9a4b13eb2a9db032b7.jpg",
+        "https://telegra.ph/file/b1b880dd694fe4571e3ad.jpg",
+        "https://telegra.ph/file/c0207a10dbfdfa104d88c.jpg",
+        "https://telegra.ph/file/67dcdabfafba5bbce725b.jpg",
+        "https://telegra.ph/file/ffa1c281033f655a9b54d.jpg",
+        "https://telegra.ph/file/b58e018420df620191f23.jpg",
+        "https://telegra.ph/file/f713de5b1ec0ea475194d.jpg",
+        "https://telegra.ph/file/ddd67f06143e6dfffd198.jpg",
+        "https://telegra.ph/file/ce8eb674b1db9f1d9cf5c.jpg",
+        "https://telegra.ph/file/060dbd9e0ed064c97dd65.jpg",
+        "https://telegra.ph/file/7fd1771a3d8df62f65e3b.jpg",
+        "https://telegra.ph/file/f553a691293d162117c5e.jpg",
+        "https://telegra.ph/file/e9adf8a5eed6c10d1815c.jpg",
+        "https://telegra.ph/file/2ef9ab896759f6fe0b5f1.jpg",
+        "https://telegra.ph/file/918334543142a453df721.jpg",
+        "https://telegra.ph/file/0d61db68f0c39c303453f.jpg",
+        "https://telegra.ph/file/e87096cb28744fc02e319.jpg",
+        "https://telegra.ph/file/6e06172cce93d3ab5a713.jpg",
+        "https://telegra.ph/file/abc33cf3553e43c1513ef.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

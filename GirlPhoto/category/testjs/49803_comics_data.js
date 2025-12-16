@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49803,
+    "title": "Tiny Asa - Chun-li - Page 1",
+    "sourceUrl": "https://telegra.ph/Tiny-Asa---Chun-li---Page-1-02-23",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEOxnuvrLmwckRysQv2nBFFjVozYraQACZRsAAn-g2VW84yujKNqoAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEO5nuvrN8lJXE0BzvtPy48oSzMMyuwACZxsAAn-g2VW1tzB32JMzxzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPBnuvrPxC8Pnswz8nhyWn2oBJj6TAACaRsAAn-g2VVJmWwpp_N5FjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPJnuvsPuSUtTJUw02xpCRBCD05BTQACaxsAAn-g2VU1hSyUT6TgODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPRnuvsR4v4bLWBBxmgDPBXLwO1CwQACbRsAAn-g2VV2kgoHP9NmozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPZnuvsTRAABsEBxr9rSFAJWrFsa37sAAm8bAAJ_oNlV1REEbJ78vmI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPhnuvsVHKtsx5KaEFkOouXxY6cyQQACcRsAAn-g2VVGtSjoifJbajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPpnuvsXo2xMVmDYmjJCvAYXSZnK9AACcxsAAn-g2VVGsN6tZeBzozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEPxnuvsZtb-hhqfQIWLRkc1oKWmCtgACdRsAAn-g2VWuWRRAS0BvHTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEP1nuvsbfa5XFu3E8ZmVtw76rh5StQACdhsAAn-g2VWfVHHlnCll1jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQABZ7r7IF7OrbSuejhtx7dgtrM3BFwAAnkbAAJ_oNlVh_TiW2KQrhw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQJnuvsicoZIrnQsj18wkn2q_wqR3QACexsAAn-g2VWf0gtgbiNIeTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQRnuvskcpaUVSq4rhUS834X883fPwACfRsAAn-g2VWoJKwfxYCdQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQZnuvtj3Zf-zy7eZ-JpCFq5_HtmugACgBsAAn-g2VU9RO9ypk7DvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQhnuvtlvA7Z8Lc0IbhFLhigO3On4QACghsAAn-g2VUyuf5-FxJ4EjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQpnuvtrV7TlKmsWFxnxW8YXuv4BbQAChBsAAn-g2VVjZpEhPGxIkzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQxnuvtszoeLH0wer-O8T9pmqXpZsgAChhsAAn-g2VXOJAYPJnmcizYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGEQ5nuvtuf4aSRJw8WN00bmF-KxwfZQACiBsAAn-g2VUFpSZ23vtZcDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGERBnuvtyEASGWQoPWxOITIbgM8WhpAACihsAAn-g2VWitOiCctTk1jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGERFnuvt0EQrz1TxV0m5H4dQEujgYcAACixsAAn-g2VXa6OZ9xehZDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGERNnuvt2VLTVgQTXwzd-xyca3nsr2QACjRsAAn-g2VWj3Z-NoaRlvDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGERVnuvt6PR7Xu52t7Ndpq0l7uhhgnwACjxsAAn-g2VUMzYP9GvgCRzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGERdnuvt9rQMvmGgLLe2HriU2GKmr0QACkRsAAn-g2VVXG3QWsGXAPzYE"
+    ]
+};

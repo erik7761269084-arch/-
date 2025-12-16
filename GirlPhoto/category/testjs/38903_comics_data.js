@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38903,
+    "title": "Ping Ping - Kama (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Ping-Ping---Ksma-Fate-Grand-Order-02-24",
+    "images": [
+        "https://telegra.ph/file/92da547aba7f82c9ad5d0.jpg",
+        "https://telegra.ph/file/5d1158cebd437b618768a.jpg",
+        "https://telegra.ph/file/9b8f1a99aad1b423ef828.jpg",
+        "https://telegra.ph/file/cb1b062a6624b83ae3b38.jpg",
+        "https://telegra.ph/file/b5da8155e7e0da36f1cd7.jpg",
+        "https://telegra.ph/file/fe1acb7375f0e239e1d36.jpg",
+        "https://telegra.ph/file/1db5fa4c9b48dccd659ad.jpg",
+        "https://telegra.ph/file/68cc2c3fece4bbb711a7b.jpg",
+        "https://telegra.ph/file/b5023108af5bdbb09bd79.jpg",
+        "https://telegra.ph/file/da7d3826f1694d1a9a4c5.jpg",
+        "https://telegra.ph/file/f3e2bdb76211284e8340e.jpg",
+        "https://telegra.ph/file/d92cf9f84bd1df2c951c5.jpg",
+        "https://telegra.ph/file/4e2bb0eb257afbe7d61af.jpg",
+        "https://telegra.ph/file/dbb6cb77a19a58f2e58ef.jpg",
+        "https://telegra.ph/file/5c8b1e81d07bc5977fefa.jpg",
+        "https://telegra.ph/file/3bcfdcebf7281f5cd646d.jpg",
+        "https://telegra.ph/file/a7224a9cd817b28cf306e.jpg",
+        "https://telegra.ph/file/3dfec4fd5793b41e19d2a.jpg",
+        "https://telegra.ph/file/d718a52cd185ded386118.jpg",
+        "https://telegra.ph/file/32f8a25e40be5bc9acc32.jpg",
+        "https://telegra.ph/file/2ba8ca8448a4a9372fc7a.jpg",
+        "https://telegra.ph/file/7139d668789eb26b33b16.jpg",
+        "https://telegra.ph/file/ed2b14f7e5e8a15d13076.jpg"
+    ]
+};

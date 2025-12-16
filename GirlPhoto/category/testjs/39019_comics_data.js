@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39019,
+    "title": "Queenie Chuppy - Bremerton (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Bremerton-Azur-Lane-04-11",
+    "images": [
+        "https://telegra.ph/file/b83b406579311e78970b0.jpg",
+        "https://telegra.ph/file/2b481517acad4c65ff73a.jpg",
+        "https://telegra.ph/file/b9d026a8759544964765f.jpg",
+        "https://telegra.ph/file/b28c567680c752a4ed1d3.jpg",
+        "https://telegra.ph/file/86059dfcc947c8679b847.jpg",
+        "https://telegra.ph/file/778353d00fd8c17cec1c2.jpg",
+        "https://telegra.ph/file/3fe95e340378c9f2c14c3.jpg",
+        "https://telegra.ph/file/2e71ba7959a2c6e69d547.jpg",
+        "https://telegra.ph/file/8917978277faee854032f.jpg",
+        "https://telegra.ph/file/40349a17787e64aff940d.jpg",
+        "https://telegra.ph/file/b0f98dd2e3a60060ed3e9.jpg",
+        "https://telegra.ph/file/7ea34543b6de5a33f8193.jpg",
+        "https://telegra.ph/file/1fab7492ae414b07f14a0.jpg",
+        "https://telegra.ph/file/86372b112c7bffd88fe94.jpg",
+        "https://telegra.ph/file/a1be32e5fa563e724a7f1.jpg",
+        "https://telegra.ph/file/ba648fbddbeadabf43e06.jpg",
+        "https://telegra.ph/file/57b9dbdcab6781ea7c7d8.jpg",
+        "https://telegra.ph/file/0ced5f43ba11c0d41f5c4.jpg",
+        "https://telegra.ph/file/e0e79ae1c9ab3aebb42a5.jpg",
+        "https://telegra.ph/file/c785598e04a8e28aa14a0.jpg",
+        "https://telegra.ph/file/feee183425b1a99489792.jpg",
+        "https://telegra.ph/file/aca09e9db9dffe675e941.jpg",
+        "https://telegra.ph/file/edc58982f1c75043b0ea5.jpg"
+    ]
+};

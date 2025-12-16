@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40184,
+    "title": "Potato Godzilla - Yae Miko (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Yae-Miko-Genshin-Impact-02-23",
+    "images": [
+        "https://telegra.ph/file/619f86464d38c3082f7c8.jpg",
+        "https://telegra.ph/file/caebe022fb07af7632561.jpg",
+        "https://telegra.ph/file/756cf80c9dc9a18ae0d40.jpg",
+        "https://telegra.ph/file/ad1d02fea20ede0e84f95.jpg",
+        "https://telegra.ph/file/b879c6b9cae4a8d89151f.jpg",
+        "https://telegra.ph/file/c499b22b96618ceaf3706.jpg",
+        "https://telegra.ph/file/f48994896ea72df5639ff.jpg",
+        "https://telegra.ph/file/4f6feff0003f71f2aaf11.jpg",
+        "https://telegra.ph/file/87fcbdf9bfc91548ec8d3.jpg",
+        "https://telegra.ph/file/24235a11c21f4477d5576.jpg",
+        "https://telegra.ph/file/8110790353a4a987f9e68.jpg",
+        "https://telegra.ph/file/ddce9ed3387fd4e9146e2.jpg",
+        "https://telegra.ph/file/c109d5cb52953c04d5f3c.jpg",
+        "https://telegra.ph/file/cef44654252b4f33c103a.jpg",
+        "https://telegra.ph/file/dee6570ab45c929d9d358.jpg",
+        "https://telegra.ph/file/cac2d3236ea16c960cdc6.jpg",
+        "https://telegra.ph/file/535a988a49e5ac1883f7f.jpg",
+        "https://telegra.ph/file/92c639e25fdf9f584ed73.jpg",
+        "https://telegra.ph/file/50afcbf8547eddc4df357.jpg",
+        "https://telegra.ph/file/fa770b7e32ef0c5871223.jpg",
+        "https://telegra.ph/file/6b288a7a3c171b08c6544.jpg",
+        "https://telegra.ph/file/a6f9293993f1a2572a074.jpg",
+        "https://telegra.ph/file/bbed8d76fea5136e2a06a.jpg"
+    ]
+};

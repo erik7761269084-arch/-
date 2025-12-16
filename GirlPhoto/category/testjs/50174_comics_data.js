@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50174,
+    "title": "萌白酱 (yikouyoutao)  Sagiri Izumi - Eromanga Sensei - Page 1",
+    "sourceUrl": "https://telegra.ph/萌白酱-yikouyoutao-Sagiri-Izumi---Eromanga-Sensei---Page-1-03-21",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGyhn3bpK6UTxowu2JmioT-qLEAy3bQAC2xYAAvHo8VaREUbqYgQKDzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGyln3bpMhk8ZjhBuIOibZ2dP3sEdXQAC3BYAAvHo8VYo2luvJe5uTDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGypn3bpO2shm9AyKYO8aU9h54MMlmQAC3RYAAvHo8VYk7FGLpOe0JjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGytn3bpQuElzdiUOsz843Xb0nmWdeQAC3hYAAvHo8Va5cbG4T6Ef6TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGyxn3bpS89GdSNyCO0LZ39tZTTbsGQAC3xYAAvHo8VY6HQO3H7jw7TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGy1n3bpTYooSmkH05OqEnlTaxhYyLgAC4BYAAvHo8Vbfejwfete6tjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGy5n3bpVja0VnC-dwpDwaaHgI7ts9wAC4RYAAvHo8VYXBw6ASj86nTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGy9n3bpX7gEn7dD-jwc-A5wcKtUwTwAC4hYAAvHo8VaRwd-MMRfAnTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzBn3bpYphX0sVSN7mI9mKIJz-oY5gAC4xYAAvHo8VZtvqNa1slECjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzFn3bpa4IsCBI8D8YKqDUq5r-1_wQAC5BYAAvHo8VY0FBMAAZAWN702BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzJn3bpb0IcJmJxNUjZOBksuHRD6iwAC5RYAAvHo8VZjPU1Q7rcLXTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzNn3bpd8fkW9jkz7yVvHMV_OyNDbwAC5hYAAvHo8VZan24PZGXTETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzRn3bpeewHKAAHbO9x10vvp45BNbFkAAucWAALx6PFWEHlqsy-qWtg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzVn3bpgbdM2F1C1sZJCaaI6ehN6AgAC6BYAAvHo8VbziozfTrLSnjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzZn3bphl2uOo9GuiQK7s5rGMh-eGQAC6RYAAvHo8VZCLG1qC1L5eTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzdn3bpiM41hUUcoaz7q4s9bUcY47gAC6hYAAvHo8VYaLFEBkYh49zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzhn3bpkxGwUHzRPejcHx5IuV7_WrAAC6xYAAvHo8VYLwUUuXBz6dzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzln3bplXeblV3VgAAGGCS-NOi6QqlMAAuwWAALx6PFWDWNdXjGjRjM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzpn3bpmLI30ryjRR27QyMvC3C5rDAAC7RYAAvHo8VallEBf0egbgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGztn3bpokieEVS55x91E4QPzl7VgfQAC7hYAAvHo8VZL8riGUdo0sTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGzxn3bqncZZY825ceJJUqBnlI-DilAAC7xYAAvHo8VYlF73wEuU5rTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGz1n3bqoNaIMlmKlYmljWjH6tiwRzAAC8BYAAvHo8VbakSUU7hZfAjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGz5n3bqqMgHV_acHb-KnJm-JPfaZdgAC8RYAAvHo8VYmG_sITzU5SDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIGz9n3bqr0_GoyvkFtCg4IHZBLBQ8twAC8hYAAvHo8VbdbDw4Lal4WjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIG0Bn3bqtjq3_zurHyyswlgKQ_uXOfQAC8xYAAvHo8VbvFWYcUUFBXzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIG0Fn3bqu_ncOxQ1vYipjpEX3X17CxgAC9BYAAvHo8VZPgZKzMvdPIDYE"
+    ]
+};

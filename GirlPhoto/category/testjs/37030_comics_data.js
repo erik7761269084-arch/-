@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37030,
+    "title": "KuukoW クー子 Cosplay Elf Kukuru",
+    "sourceUrl": "https://telegra.ph/KuukoW-クー子-Cosplay-Elf-Kukuru-03-03",
+    "images": [
+        "https://telegra.ph/file/7f8c7d65a35c8efa4477e.jpg",
+        "https://telegra.ph/file/1c3301c6f648114afc665.jpg",
+        "https://telegra.ph/file/e2fdbb99433ed9d273c1d.jpg",
+        "https://telegra.ph/file/85d1fd81c7a94a5a00579.jpg",
+        "https://telegra.ph/file/e3463bf4296cb9472c660.jpg",
+        "https://telegra.ph/file/1493d52595019aaac0c2b.jpg",
+        "https://telegra.ph/file/4e1f451b8e5edfb830a59.jpg",
+        "https://telegra.ph/file/b1c7d59c009791fa0f1d8.jpg",
+        "https://telegra.ph/file/6c79e9ca28978cbcfed43.jpg",
+        "https://telegra.ph/file/0bcf96a2af229df67d39e.jpg",
+        "https://telegra.ph/file/d625c3df5d5ffc42773c4.jpg",
+        "https://telegra.ph/file/386679a0af6ef15f8bbd8.jpg",
+        "https://telegra.ph/file/7dcd70017131aa2241466.jpg",
+        "https://telegra.ph/file/a1703024855bad9cc3180.jpg",
+        "https://telegra.ph/file/9704dd5baa1a6ca72f0ff.jpg",
+        "https://telegra.ph/file/7bd52350086aa19db3147.jpg",
+        "https://telegra.ph/file/90919eb618e96253cc36a.jpg",
+        "https://telegra.ph/file/dd7a44ff7fb50258b7b54.jpg",
+        "https://telegra.ph/file/1449baeea761ea13fb1f6.jpg",
+        "https://telegra.ph/file/b27ff7332ea4d32e0ef75.jpg",
+        "https://telegra.ph/file/6095853b6eb25d3e3163b.jpg",
+        "https://telegra.ph/file/3b94b549238fe4ea58248.jpg",
+        "https://telegra.ph/file/143ece0b440889b4cddef.jpg",
+        "https://telegra.ph/file/a93f3cc1c3a9f86116b3a.jpg",
+        "https://telegra.ph/file/9c67efc529d82d0faf67e.jpg"
+    ]
+};

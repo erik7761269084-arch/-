@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41402,
+    "title": "Hana Bunny - Luxury Fubuki (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Luxury-Fubuki-One-Punch-Man-04-21",
+    "images": [
+        "https://telegra.ph/file/4878a054fb83fc9b0551a.jpg",
+        "https://telegra.ph/file/7f173cc9470be135d0992.jpg",
+        "https://telegra.ph/file/e66336a06a219d83a53c2.jpg",
+        "https://telegra.ph/file/39e96b7d702e32f324663.jpg",
+        "https://telegra.ph/file/21c162b3fccb4090ff080.jpg",
+        "https://telegra.ph/file/c5538f0cc6fce3d058e69.jpg",
+        "https://telegra.ph/file/4e77a70a0d91e57f8d28f.jpg",
+        "https://telegra.ph/file/c176912ac3bc85f97b48e.jpg",
+        "https://telegra.ph/file/e5d79ee5a390a9dee041e.jpg",
+        "https://telegra.ph/file/66df9637f0186d2808e39.jpg",
+        "https://telegra.ph/file/6ac12a164989209e15535.jpg",
+        "https://telegra.ph/file/43ee4cb50b3ef4e1a67c7.jpg",
+        "https://telegra.ph/file/65f9b44c88b4e7ed8dd92.jpg",
+        "https://telegra.ph/file/59a458989847af0936e4c.jpg",
+        "https://telegra.ph/file/cf55fe3e8f0b004825c71.jpg",
+        "https://telegra.ph/file/c3811bd372cb5292d5292.jpg",
+        "https://telegra.ph/file/1549a906e4ec633dc59ad.jpg",
+        "https://telegra.ph/file/d0bbe476793b5aa077964.jpg",
+        "https://telegra.ph/file/e33363ef4b82d5fa91135.jpg",
+        "https://telegra.ph/file/3ae1c9420a9c7eaed10f6.jpg",
+        "https://telegra.ph/file/d3ba3ace4691c683860e7.jpg",
+        "https://telegra.ph/file/b07a61e588643027f4fbb.jpg",
+        "https://telegra.ph/file/5aa21d396ad3f460b727e.jpg"
+    ]
+};

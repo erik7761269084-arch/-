@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29720,
+    "title": "韶陌陌 面具陌 [26P-178MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9F%B6%E9%99%8C%E9%99%8C-%E9%9D%A2%E5%85%B7%E9%99%8C-26P-178MB-12-13",
+    "images": [
+        "https://telegra.ph/file/0176fdc37b210095e6f32.jpg",
+        "https://telegra.ph/file/578e68bbb5096af43c8ad.jpg",
+        "https://telegra.ph/file/3257ae435606def045582.jpg",
+        "https://telegra.ph/file/b915b0887a0940606c716.jpg",
+        "https://telegra.ph/file/8bd4d074465ac1443a1a5.jpg",
+        "https://telegra.ph/file/37052c66c896e7c96a803.jpg",
+        "https://telegra.ph/file/1da208743ea763d78b9ba.jpg",
+        "https://telegra.ph/file/d7dd74b62d919b3855bd8.jpg",
+        "https://telegra.ph/file/9fc13a4d3d340cb3ca615.jpg",
+        "https://telegra.ph/file/2dd573d578e9faf3210ab.jpg",
+        "https://telegra.ph/file/d8912783bdbe0478d8458.jpg",
+        "https://telegra.ph/file/4ea0a4eb247fdd2d8cbab.jpg",
+        "https://telegra.ph/file/5ca920e7878e9e897fc53.jpg",
+        "https://telegra.ph/file/5abea9287ac918f5246ae.jpg",
+        "https://telegra.ph/file/6a97d9b35d388b4606707.jpg",
+        "https://telegra.ph/file/e61f4b6cdb86d5421c3d1.jpg",
+        "https://telegra.ph/file/9bc3e6943cc1a228fe4c1.jpg",
+        "https://telegra.ph/file/4e7af902892f1c4fe8138.jpg",
+        "https://telegra.ph/file/486d7de0853b50f0d7fa4.jpg",
+        "https://telegra.ph/file/2f4d77616cbccef978498.jpg",
+        "https://telegra.ph/file/d55a8ecee3adcb926e864.jpg",
+        "https://telegra.ph/file/615c4fab7b29aab54799f.jpg",
+        "https://telegra.ph/file/7a00bd66501dc052074e6.jpg",
+        "https://telegra.ph/file/1502c689ebf48f60287f5.jpg",
+        "https://telegra.ph/file/6dd43e1820249476c9c5c.jpg",
+        "https://telegra.ph/file/7d4fe43a0bb174785c2bd.jpg"
+    ]
+};

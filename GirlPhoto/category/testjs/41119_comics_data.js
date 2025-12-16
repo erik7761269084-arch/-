@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41119,
+    "title": "Lada Lyumos - Mikasa (Shingeki No Kiojin)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Mikasa-Shingeki-No-Kiojin-02-02",
+    "images": [
+        "https://telegra.ph/file/39c15e6f81176c5928968.jpg",
+        "https://telegra.ph/file/0a06a97af36c6e67a6d9a.jpg",
+        "https://telegra.ph/file/12674cdc28396b1d660c4.jpg",
+        "https://telegra.ph/file/e329c702cbea9a77d1d61.jpg",
+        "https://telegra.ph/file/a3b78f8d391d10acce4b9.jpg",
+        "https://telegra.ph/file/0ee460224871eb0197c55.jpg",
+        "https://telegra.ph/file/7c9df9b6cc9112aa6e3cc.jpg",
+        "https://telegra.ph/file/fdf1735aea60e29c4972b.jpg",
+        "https://telegra.ph/file/2d11c75e4e51e37aa641f.jpg",
+        "https://telegra.ph/file/c19fc2369cb7c6fcef5f1.jpg",
+        "https://telegra.ph/file/36ecc82b462f5bc9e1569.jpg",
+        "https://telegra.ph/file/b50c7a2db0f2c3d9db925.jpg",
+        "https://telegra.ph/file/634f338ab49ce446bb153.jpg",
+        "https://telegra.ph/file/2efbf9f663f6a912da398.jpg",
+        "https://telegra.ph/file/5cdb455c06a6d48d65a27.jpg",
+        "https://telegra.ph/file/026553033babb392da934.jpg",
+        "https://telegra.ph/file/21ee05d85676e32baab96.jpg",
+        "https://telegra.ph/file/dcdbb37d948c3dcbb117d.jpg",
+        "https://telegra.ph/file/8721b8eb76f3082d076a5.jpg",
+        "https://telegra.ph/file/4386bc0f19f61f3ca7966.jpg",
+        "https://telegra.ph/file/9f3b0e8717ee74e77b72a.jpg",
+        "https://telegra.ph/file/3fcfce900b13223c02d14.jpg",
+        "https://telegra.ph/file/876640c0eb469d89dec7f.jpg",
+        "https://telegra.ph/file/2146740f04719904057cc.jpg",
+        "https://telegra.ph/file/6360892dbe603419cfb3c.jpg"
+    ]
+};

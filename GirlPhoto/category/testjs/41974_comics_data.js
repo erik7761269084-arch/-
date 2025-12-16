@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41974,
+    "title": "KANEKO 咔喵 - Prinz (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-17-2",
+    "images": [
+        "https://i.ibb.co/xtm3NG1X/001-compress78.jpg",
+        "https://i.ibb.co/Y40htgZG/002-compress8.jpg",
+        "https://i.ibb.co/FL6JtRBB/003-compress42.jpg",
+        "https://i.ibb.co/fVVkL3pJ/004-compress37.jpg",
+        "https://i.ibb.co/93GxKkkh/005-compress71.jpg",
+        "https://i.ibb.co/S4m2XsYX/006-compress75.jpg",
+        "https://i.ibb.co/3yH7TWRg/007-compress37.jpg",
+        "https://i.ibb.co/b5btyjgW/008-compress89.jpg",
+        "https://i.ibb.co/gZszWdDM/009-compress5.jpg",
+        "https://i.ibb.co/M5GGZHCL/010-compress65.jpg",
+        "https://i.ibb.co/zh1j7cXV/011-compress34.jpg",
+        "https://i.ibb.co/1tDW45M3/012-compress73.jpg",
+        "https://i.ibb.co/sd5WCfYn/013-compress83.jpg",
+        "https://i.ibb.co/N2WFpskf/014-compress70.jpg",
+        "https://i.ibb.co/Mkxw33xB/015-compress31.jpg",
+        "https://i.ibb.co/21MTKpMy/016-compress43.jpg",
+        "https://i.ibb.co/Wpn3n7hw/017-compress33.jpg",
+        "https://i.ibb.co/WS99G6j/018-compress88.jpg",
+        "https://i.ibb.co/XkXNPJ0y/019-compress70.jpg",
+        "https://i.ibb.co/v6Xfgrjp/020-compress52.jpg",
+        "https://i.ibb.co/931Lcvz0/021-compress22.jpg",
+        "https://i.ibb.co/Cp1hsGwz/022-compress86.jpg",
+        "https://i.ibb.co/Q7RJRjSK/023-compress59.jpg",
+        "https://i.ibb.co/8gQX6ntt/024-compress84.jpg"
+    ]
+};

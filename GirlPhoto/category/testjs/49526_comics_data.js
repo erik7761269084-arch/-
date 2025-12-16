@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49526,
+    "title": "[柠檬 & 麻衣] 《罗德岛的恶魔》| 第一话  被狩猎的干员澄闪 - Page 1",
+    "sourceUrl": "https://telegra.ph/柠檬--麻衣-罗德岛的恶魔-第一话-被狩猎的干员澄闪---Page-1-01-29",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjn5nmdNJA8eQyNELSX38C950wbHbWwAC-xMAAmEZ0VRttyT4UAtJZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjn9nmdNLXDtzP2jE4RV-pnCvPd78MgAC_BMAAmEZ0VQGGPF4BK9RNjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoBnmdNNJkaa5Mkj97RUPjdYc47GhAAC_RMAAmEZ0VTJPR0sXiOhJTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoFnmdNOJYnxX_g-lYBLYPk6IXwHIQAC_hMAAmEZ0VSthP7gehE-dTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoJnmdNRmo-yGTcBaYIDIAxTl9G9EgADFAACYRnRVH59v8_WNgRjNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoNnmdNT0VVEAdWhPrn3Q9qVeCAlRAACARQAAmEZ0VTwMVXeTpvwCzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoRnmdNVQ6ciL_wDmDs5Kzkujp9iAAMCFAACYRnRVDcrlPZ9yBuWNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoVnmdNWxpqoVin7POL6VkAv8_RYRAACAxQAAmEZ0VTL2BAtF8tNJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoZnmdNYhTZdx0Xjxyz_lYOi07wZiwACBBQAAmEZ0VTJJLGugO_brTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjodnmdNdIUpkKlpnmeuXDU6GpiuXEwACBhQAAmEZ0VTj5XRD-ikVJjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjohnmdNf2SLUEtNOkkCVu2LH5a2IVAACBxQAAmEZ0VSCTFAiPKgN7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjolnmdNg1lqtFQLDFfIoY-aO4LQjEAACCBQAAmEZ0VQYSaTSyRH0MDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjopnmdNh9cz9jiMkqjiP3_ve183mcgACCRQAAmEZ0VTAzmCJ-xYiYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjotnmdNi7dsrTw5ccVU8zz1T5fUMCwACChQAAmEZ0VSsZ1JQW0ZDVDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjoxnmdNk8Dy_UAbu9bdX9RkT2jLepAACCxQAAmEZ0VTf2MGHHBfJ2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjo1nmdNl_PTexL9hbQ85L8u5LQFxOwACDBQAAmEZ0VTvwLJIfrZ5zjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjo5nmdNnrLIpH2ps6FbeWL1dTpeW2gACDRQAAmEZ0VTsy23YrTiiSTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjo9nmdNoFYzYyowpYRbsdqTi_DC_NQACDhQAAmEZ0VRWwufxoYupmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpBnmdNqvXY3CQ8ZJrSjPQr2qexaQAACDxQAAmEZ0VTT1vrCyZGpITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpFnmdNua8Y6axI_0-5FRMHxqNZoGAACEBQAAmEZ0VQQ_FraOALF8jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpJnmdOtwEmNFYAGbyu5EfQMIR9g6AACERQAAmEZ0VS5puBS2te2YjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpNnmdOvnpMfQhcQaLtxWyxuMZWPDwACEhQAAmEZ0VQPD8wsj_NTQDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpRnmdOwhHVuKdWchzvuw0ol5tV0nQACExQAAmEZ0VTuELBKIttPdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpVnmdOysstSPO63kktHDILn928i5wACFBQAAmEZ0VRB_uMzSzxCtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEjpZnmdO0XpWlEcOkXKyvzWoX43MOIgACFRQAAmEZ0VSNVyYKIN96ujYE"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43249,
+    "title": "南宫 - 明日方舟 泥岩 [26P]",
+    "sourceUrl": "https://telegra.ph/%E5%8D%97%E5%AE%AB---%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-%E6%B3%A5%E5%B2%A9-26P-09-16",
+    "images": [
+        "https://telegra.ph/file/3cada8af494b3020bcdaf.jpg",
+        "https://telegra.ph/file/be000b00c927dca4dddcf.jpg",
+        "https://telegra.ph/file/d4e5627195db60f28a7d1.jpg",
+        "https://telegra.ph/file/fe2154f1f29432b21193e.jpg",
+        "https://telegra.ph/file/919f6b917fc7d778bdac1.jpg",
+        "https://telegra.ph/file/cf13fedfd3d82b6396765.jpg",
+        "https://telegra.ph/file/9bd3a68f854dfad001d4e.jpg",
+        "https://telegra.ph/file/0600869e1eb9280d405c8.jpg",
+        "https://telegra.ph/file/ee481b0c2076727c98c93.jpg",
+        "https://telegra.ph/file/bf70889cb72c897f63452.jpg",
+        "https://telegra.ph/file/8e783abcdba3eabf57c60.jpg",
+        "https://telegra.ph/file/56791526bb82a541a23e5.jpg",
+        "https://telegra.ph/file/678256b3b50906caacccc.jpg",
+        "https://telegra.ph/file/4e02a7dc8eb8b4a2bd6c4.jpg",
+        "https://telegra.ph/file/a994addcf518b8c14db08.jpg",
+        "https://telegra.ph/file/8b31365b345d0193c7fdf.jpg",
+        "https://telegra.ph/file/44e22c8ec9a896e3544bd.jpg",
+        "https://telegra.ph/file/3a0e58bab73ca5fb4481e.jpg",
+        "https://telegra.ph/file/766d82d7f8fa51f3dbc59.jpg",
+        "https://telegra.ph/file/d6bfe497f454896b17d79.jpg",
+        "https://telegra.ph/file/201e84e7cb106b660e7e8.jpg",
+        "https://telegra.ph/file/de96faae9c9feae939e65.jpg",
+        "https://telegra.ph/file/78a97464276e9e3743258.jpg",
+        "https://telegra.ph/file/fd2176a2bc264170d47a8.jpg",
+        "https://telegra.ph/file/8bbf97495a59b58cffc92.jpg",
+        "https://telegra.ph/file/4b1f7f25d480c938c2f83.jpg"
+    ]
+};

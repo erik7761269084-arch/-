@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27264,
+    "title": "一笑芳香沁-早餐奶[25P]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%80%E7%AC%91%E8%8A%B3%E9%A6%99%E6%B2%81-%E6%97%A9%E9%A4%90%E5%A5%B625P-01-18",
+    "images": [
+        "https://telegra.ph/file/047aad11fe429071bd67a.jpg",
+        "https://telegra.ph/file/1ad886f9a277d8bb8a85a.jpg",
+        "https://telegra.ph/file/ad6614369aeb1e579c813.jpg",
+        "https://telegra.ph/file/e863177008d8d2eb492bf.jpg",
+        "https://telegra.ph/file/0fd80e00025cf0f6c2b50.jpg",
+        "https://telegra.ph/file/ae55fef4a725728c647c4.jpg",
+        "https://telegra.ph/file/992664348590c73e83ff8.jpg",
+        "https://telegra.ph/file/69c81a6711495e2936d46.jpg",
+        "https://telegra.ph/file/58bc8b0db540d911f2032.jpg",
+        "https://telegra.ph/file/8da8c86ed50740ae8790b.jpg",
+        "https://telegra.ph/file/02c71882e29bfdce6d47b.jpg",
+        "https://telegra.ph/file/778e36719890b89de0ab5.jpg",
+        "https://telegra.ph/file/ef24ad4096f248173f7e6.jpg",
+        "https://telegra.ph/file/ecf960dd371b3d7a011a1.jpg",
+        "https://telegra.ph/file/f57500525d358fe31a615.jpg",
+        "https://telegra.ph/file/43ed2077f49f552ec1b53.jpg",
+        "https://telegra.ph/file/b229976fc5f04b01f9cf4.jpg",
+        "https://telegra.ph/file/4192af3f452d6a9136c95.jpg",
+        "https://telegra.ph/file/2ffd08b0a4fd8f4706456.jpg",
+        "https://telegra.ph/file/8cc31ea3f039b4040d8f1.jpg",
+        "https://telegra.ph/file/b413264a7a8074043f9d5.jpg",
+        "https://telegra.ph/file/9dfd557956b27948ea863.jpg",
+        "https://telegra.ph/file/c9a0c89df444780926225.jpg",
+        "https://telegra.ph/file/1d78a7d5cd34449b0a7ca.jpg",
+        "https://telegra.ph/file/1db1ff7a04067f1c48a7f.jpg"
+    ]
+};

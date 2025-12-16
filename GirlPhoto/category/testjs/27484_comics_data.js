@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27484,
+    "title": "雨波_HaneAme - Ninomae Ina’nis Onsen [26P-24MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---Ninomae-Inanis-Onsen-26P-24MB-06-21",
+    "images": [
+        "https://telegra.ph/file/3e69ba347f51fb703f5cc.jpg",
+        "https://telegra.ph/file/3e5c0653e58ab74515f00.jpg",
+        "https://telegra.ph/file/10cefad2d7b87df2aff65.jpg",
+        "https://telegra.ph/file/b8fd8f8df8c9972237617.jpg",
+        "https://telegra.ph/file/1a14285f4cabfd4d71da3.jpg",
+        "https://telegra.ph/file/6a3e1ef430014842f1b7b.jpg",
+        "https://telegra.ph/file/9c98460951d581bfa82d7.jpg",
+        "https://telegra.ph/file/fc4dc8f3e3de62132ab6a.jpg",
+        "https://telegra.ph/file/26eb3176dfe3679623ea1.jpg",
+        "https://telegra.ph/file/e31fc1329f61af538630a.jpg",
+        "https://telegra.ph/file/f6224140d6109939c9416.jpg",
+        "https://telegra.ph/file/201498d34c18ff93ba4ed.jpg",
+        "https://telegra.ph/file/1ee6475dd9ced1ca48cb2.jpg",
+        "https://telegra.ph/file/0582288916cbe76024392.jpg",
+        "https://telegra.ph/file/cebe9386b8c443d304ffd.jpg",
+        "https://telegra.ph/file/f5a080fe30659164fe661.jpg",
+        "https://telegra.ph/file/b0aea0127b75b4acf81c1.jpg",
+        "https://telegra.ph/file/aecd7b661b0392f5425c0.jpg",
+        "https://telegra.ph/file/9d7f17203b075a1b2f021.jpg",
+        "https://telegra.ph/file/eeab4a56fcb16a794dc0e.jpg",
+        "https://telegra.ph/file/eb0dc0eae4f79e4b8e7af.jpg",
+        "https://telegra.ph/file/1f0dfd3d1f3f7837cbf22.jpg",
+        "https://telegra.ph/file/a0d4d2a60e6f5291d60f6.jpg",
+        "https://telegra.ph/file/6924f8d09b2a85bab884a.jpg",
+        "https://telegra.ph/file/bc849c249a79c91c4933d.jpg",
+        "https://telegra.ph/file/f1c182a861b436908bb59.jpg"
+    ]
+};

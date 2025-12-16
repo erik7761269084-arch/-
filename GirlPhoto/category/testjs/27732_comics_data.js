@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27732,
+    "title": "Azami-布莱默顿 [23P]",
+    "sourceUrl": "https://telegra.ph/Azami-%E5%B8%83%E8%8E%B1%E9%BB%98%E9%A1%BF-23P-11-23",
+    "images": [
+        "https://telegra.ph/file/463b3b397431a88dd2980.jpg",
+        "https://telegra.ph/file/c16c55533bfa1b11b0049.jpg",
+        "https://telegra.ph/file/6030ef697f9f8960b0769.jpg",
+        "https://telegra.ph/file/47d1f65b9040ec5ba1a47.jpg",
+        "https://telegra.ph/file/f26cd46d52b73463e3cb3.jpg",
+        "https://telegra.ph/file/3e47bc05c4e3c8b2d4bc5.jpg",
+        "https://telegra.ph/file/9cd335378e71443c8e4d8.jpg",
+        "https://telegra.ph/file/c502846ce248857450c7c.jpg",
+        "https://telegra.ph/file/b1cd398874138f547d21e.jpg",
+        "https://telegra.ph/file/a967bca94e652b8a673f6.jpg",
+        "https://telegra.ph/file/bdc8ea77c093e4a23c04c.jpg",
+        "https://telegra.ph/file/fc344449a9879208f52ec.jpg",
+        "https://telegra.ph/file/cf484f10a31af96c95222.jpg",
+        "https://telegra.ph/file/8cbdba0f58a7ccbdcc27a.jpg",
+        "https://telegra.ph/file/c96a1354687d1eeda770c.jpg",
+        "https://telegra.ph/file/955cd8e279799e1104940.jpg",
+        "https://telegra.ph/file/53218f7a182ef57d364b2.jpg",
+        "https://telegra.ph/file/52cdeaea6970be4453c3a.jpg",
+        "https://telegra.ph/file/f8e6f2537ac92fd453315.jpg",
+        "https://telegra.ph/file/b52b2adec76452c62930e.jpg",
+        "https://telegra.ph/file/c03d477d402594bb3cc74.jpg",
+        "https://telegra.ph/file/bdcb89cd6c568da076ba2.jpg",
+        "https://telegra.ph/file/42fa390bb8dab46ac0bbd.jpg"
+    ]
+};

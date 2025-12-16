@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42670,
+    "title": "Littlesula OnlyFans [25p1v]",
+    "sourceUrl": "https://telegra.ph/Littlesula-OnlyFans-25p1v-06-11",
+    "images": [
+        "https://telegra.ph/file/d8ebeea3f7df29c615c05.jpg",
+        "https://telegra.ph/file/de1bd742e2b9cad414ee6.jpg",
+        "https://telegra.ph/file/94eb97e2244bbfbadb285.jpg",
+        "https://telegra.ph/file/cecd24106bd2f82b4f67b.jpg",
+        "https://telegra.ph/file/e838602c4a7133aba53a0.jpg",
+        "https://telegra.ph/file/fa3397525cb37fe351f31.jpg",
+        "https://telegra.ph/file/004dfb471d9a84326fb94.jpg",
+        "https://telegra.ph/file/28c1435c74206704d461e.jpg",
+        "https://telegra.ph/file/10bc775ff6b1b716106aa.jpg",
+        "https://telegra.ph/file/b1676fded32274423f5f1.jpg",
+        "https://telegra.ph/file/285d56c69dcaa1b2e6529.jpg",
+        "https://telegra.ph/file/22c4b64da4695128d375b.jpg",
+        "https://telegra.ph/file/86109ffb8ce230fd53731.jpg",
+        "https://telegra.ph/file/90b568a01a5042e6fc6ad.jpg",
+        "https://telegra.ph/file/349876bb1cd85ed924cff.jpg",
+        "https://telegra.ph/file/c8890e32aeba5cef3cf53.jpg",
+        "https://telegra.ph/file/2aa5bdcaacd8a55d7f017.jpg",
+        "https://telegra.ph/file/6a7ea5c1fa75cc51b786b.jpg",
+        "https://telegra.ph/file/ae3f5a9b841f82893657b.jpg",
+        "https://telegra.ph/file/51049241b21e720c358b8.jpg",
+        "https://telegra.ph/file/be2be9df111c22ccb2f46.jpg",
+        "https://telegra.ph/file/835214e95246ab384e7c0.jpg",
+        "https://telegra.ph/file/d0f45550fcaa13c852d0a.jpg",
+        "https://telegra.ph/file/7d027795af789aeb26915.jpg",
+        "https://telegra.ph/file/5b7275f2466a1fd49ce2d.jpg"
+    ]
+};

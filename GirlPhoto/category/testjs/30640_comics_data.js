@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30640,
+    "title": "JULIA じゅりあ, ＦＲＩＤＡＹデジタル写真集 「Please Eat Me… Vol.2」 Set.03",
+    "sourceUrl": "https://telegra.ph/JULIA-じゅりあ-ＦＲＩＤＡＹデジタル写真集-Please-Eat-Me-Vol2-Set03-06-30",
+    "images": [
+        "https://telegra.ph/file/dbd4a95ff7cee8588e1fd.jpg",
+        "https://telegra.ph/file/604865bb04e1b1b5b6eb6.jpg",
+        "https://telegra.ph/file/2aebcfde45ec8e5914238.jpg",
+        "https://telegra.ph/file/967ab5f8e629e22beafba.jpg",
+        "https://telegra.ph/file/1e66b4c9faa434bf85075.jpg",
+        "https://telegra.ph/file/26528fcf8005dd5910cef.jpg",
+        "https://telegra.ph/file/9beb7922e1b72af6687cf.jpg",
+        "https://telegra.ph/file/c3c9fa3687edb0d3544b1.jpg",
+        "https://telegra.ph/file/3ebe55911008f615c0d1e.jpg",
+        "https://telegra.ph/file/d4e37961dce34e6e08ccd.jpg",
+        "https://telegra.ph/file/cea5a760e3309585002a9.jpg",
+        "https://telegra.ph/file/8e88ab861a004b2d4f0e6.jpg",
+        "https://telegra.ph/file/5fe6d35eb0f85f3249510.jpg",
+        "https://telegra.ph/file/fcd13734669b688473457.jpg",
+        "https://telegra.ph/file/d880cca9d1a1a70548363.jpg",
+        "https://telegra.ph/file/f3130e54c7705656786c1.jpg",
+        "https://telegra.ph/file/33105027287eb19b424cd.jpg",
+        "https://telegra.ph/file/0001232eb2ef3ad364d68.jpg",
+        "https://telegra.ph/file/f544a23b57ab1c25e45c8.jpg",
+        "https://telegra.ph/file/12b51a621f63570c342f1.jpg",
+        "https://telegra.ph/file/a2acb811a1a7cff681ce4.jpg",
+        "https://telegra.ph/file/6c76336a7b44bfbc84e57.jpg",
+        "https://telegra.ph/file/7f95a65acab0b0979b856.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

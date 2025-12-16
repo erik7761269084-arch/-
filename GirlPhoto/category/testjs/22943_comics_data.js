@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22943,
+    "title": "Natsuko夏夏子 - NO.008 英仙座 [25P-219MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO008-%E8%8B%B1%E4%BB%99%E5%BA%A7-25P-219MB-12-29",
+    "images": [
+        "https://telegra.ph/file/233aec99a13b9ecc65ecc.jpg",
+        "https://telegra.ph/file/625b4b2967288839e4d17.jpg",
+        "https://telegra.ph/file/cbaa20d183bcba80cae08.jpg",
+        "https://telegra.ph/file/03c66fb83588820bb3e34.jpg",
+        "https://telegra.ph/file/73739cadec56043b4812f.jpg",
+        "https://telegra.ph/file/7e0abebe09184d14feb37.jpg",
+        "https://telegra.ph/file/96940023084d2b46bd0c6.jpg",
+        "https://telegra.ph/file/9e69d783cf2807b2c7f05.jpg",
+        "https://telegra.ph/file/ff53675015ea1fff0cbbb.jpg",
+        "https://telegra.ph/file/b8fc7f1fe29f928669a44.jpg",
+        "https://telegra.ph/file/3fe4320c606a926c1947a.jpg",
+        "https://telegra.ph/file/23fc8d0fd01ad50eb3704.jpg",
+        "https://telegra.ph/file/3c6b57b1c0d9215eb4a17.jpg",
+        "https://telegra.ph/file/903633ac7ca80f2e452b0.jpg",
+        "https://telegra.ph/file/7de129a26e61ba34ffad1.jpg",
+        "https://telegra.ph/file/803f19b24b60bd53a7782.jpg",
+        "https://telegra.ph/file/71180bc257928986df0b1.jpg",
+        "https://telegra.ph/file/9d8f7074ba6c6880dbbdd.jpg",
+        "https://telegra.ph/file/07fa9ff6d9d7b37311910.jpg",
+        "https://telegra.ph/file/4a66d128698d1b45b1b66.jpg",
+        "https://telegra.ph/file/22fe1e91a751695163e1b.jpg",
+        "https://telegra.ph/file/86fe61cf4bef2c22e0b73.jpg",
+        "https://telegra.ph/file/c444752b66fe8d9929fa4.jpg",
+        "https://telegra.ph/file/f7253d566bb23453b41c6.jpg",
+        "https://telegra.ph/file/379296e969bc4ad3edeb1.jpg"
+    ]
+};

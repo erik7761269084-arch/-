@@ -1,0 +1,27 @@
+const comicData = {
+    "IDcode": 36165,
+    "title": "[Byoru ビヨル] Daenerys Targaryen",
+    "sourceUrl": "https://telegra.ph/Byoru-ビヨル-Daenerys-Targaryen-12-05",
+    "images": [
+        "https://telegra.ph/file/20cd7552f5cf017d2f0b2.jpg",
+        "https://telegra.ph/file/49e8995de4d4f90540225.jpg",
+        "https://telegra.ph/file/dec83d951e419aa98e9ed.jpg",
+        "https://telegra.ph/file/50ab42ecb271988760d06.jpg",
+        "https://telegra.ph/file/f0db7ceb66bc2d7c6fa6b.jpg",
+        "https://telegra.ph/file/e9664ce6fe195523afaa1.jpg",
+        "https://telegra.ph/file/9658483fbc703041ad01f.jpg",
+        "https://telegra.ph/file/f599863e80636a7f0f89d.jpg",
+        "https://telegra.ph/file/c4b9dfec92117ec7d8d69.jpg",
+        "https://telegra.ph/file/1b73ead4524b132291c81.jpg",
+        "https://telegra.ph/file/1c9051d44edbcf90eedd3.jpg",
+        "https://telegra.ph/file/f9fb08e75358bb93c3b6e.jpg",
+        "https://telegra.ph/file/678f7b7c16327ac7fae30.jpg",
+        "https://telegra.ph/file/906a41df14677eaed30d0.jpg",
+        "https://telegra.ph/file/ff4b191d6ae94965b45b1.jpg",
+        "https://telegra.ph/file/e1bd481717140b8c766d7.jpg",
+        "https://telegra.ph/file/5a66e4a53a5d7c21e7add.jpg",
+        "https://telegra.ph/file/498ca433da9799ee74cf5.jpg",
+        "https://telegra.ph/file/bb278470f2f8607a612eb.jpg",
+        "https://telegra.ph/file/beb70e38de8be7592587a.jpg"
+    ]
+};

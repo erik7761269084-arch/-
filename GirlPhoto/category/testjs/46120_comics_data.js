@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46120,
+    "title": "[林檎蜜紀] 原神💜新コスプレ⚡️Sexy雷電将軍💜ファンティア限定エロエロランジェリーVerも💜 - Page 1",
+    "sourceUrl": "https://telegra.ph/林檎蜜紀-原神新コスプレSexy雷電将軍ファンティア限定エロエロランジェリーVerも---Page-1-11-27",
+    "images": [
+        "https://telegra.ph/file/005e1e3a6fa5ce4482b90.jpg",
+        "https://telegra.ph/file/78edcdc2acb338fba3ecd.jpg",
+        "https://telegra.ph/file/0c073ecff0a3f27a5ba0d.jpg",
+        "https://telegra.ph/file/213065034de7c2e5bcf3a.jpg",
+        "https://telegra.ph/file/2a95b4225bc53314ffaac.jpg",
+        "https://telegra.ph/file/737e6f37d382b2919fddd.jpg",
+        "https://telegra.ph/file/3535b49cb5d1ca5ed212f.jpg",
+        "https://telegra.ph/file/94ce7190f57d30fb43c35.jpg",
+        "https://telegra.ph/file/4a6e290b1f8a13db7b0a7.jpg",
+        "https://telegra.ph/file/a0755e9468254fdff82c6.jpg",
+        "https://telegra.ph/file/da0af561eabbf16bb2335.jpg",
+        "https://telegra.ph/file/390ae2d124c261b7e0c53.jpg",
+        "https://telegra.ph/file/b0686c899c8cfab29ceb5.jpg",
+        "https://telegra.ph/file/5a13ba57415a8c3f7484f.jpg",
+        "https://telegra.ph/file/23a1eac786d3b7ea6eb4f.jpg",
+        "https://telegra.ph/file/b3d9698610ba1e908759a.jpg",
+        "https://telegra.ph/file/4dfaf57c3319c0a281425.jpg",
+        "https://telegra.ph/file/aa6d982fe7bcba24552ae.jpg",
+        "https://telegra.ph/file/7606df92a9cb3358251e1.jpg",
+        "https://telegra.ph/file/9cffa19ae2325dafc3ad3.jpg",
+        "https://telegra.ph/file/4180050dfae0d548b8990.jpg",
+        "https://telegra.ph/file/8a01c5d289b19c3810f7c.jpg",
+        "https://telegra.ph/file/0c5aee5b94aba91fc14d3.jpg",
+        "https://telegra.ph/file/4db91e261b85086156c5d.jpg"
+    ]
+};

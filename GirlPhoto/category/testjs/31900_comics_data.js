@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31900,
+    "title": "[樱落酱w] St.Louis Luxurious Handle (春の華)",
+    "sourceUrl": "https://telegra.ph/樱落酱w-StLouis-Luxurious-Handle-春の華-09-23",
+    "images": [
+        "https://telegra.ph/file/f03e99dd8080b1fd05a69.jpg",
+        "https://telegra.ph/file/4d790fbb51ab95a2c7827.jpg",
+        "https://telegra.ph/file/494b379270aadc3697f90.jpg",
+        "https://telegra.ph/file/6945e190e5eb748e7b948.jpg",
+        "https://telegra.ph/file/2c7ba6f36d631708e7527.jpg",
+        "https://telegra.ph/file/9ce11095bdf70ef844f04.jpg",
+        "https://telegra.ph/file/a56b47e245d2b159423ff.jpg",
+        "https://telegra.ph/file/9cccb041f3479ff6730a6.jpg",
+        "https://telegra.ph/file/ff63cca7aec2bda820941.jpg",
+        "https://telegra.ph/file/3947cb268ddddac27bc4d.jpg",
+        "https://telegra.ph/file/268e965e291a565a070e0.jpg",
+        "https://telegra.ph/file/72b3fc8678d90d19723a2.jpg",
+        "https://telegra.ph/file/468cccef1b9688416d6f4.jpg",
+        "https://telegra.ph/file/40f18c7d16d6db6d3fc24.jpg",
+        "https://telegra.ph/file/27529053984989db2095c.jpg",
+        "https://telegra.ph/file/1487f1a3e865a3f044f54.jpg",
+        "https://telegra.ph/file/561a7609a91b024d2b69d.jpg",
+        "https://telegra.ph/file/18a662499dc16a5d32c70.jpg",
+        "https://telegra.ph/file/a937e1365f3e7e0023cd7.jpg",
+        "https://telegra.ph/file/96c55f48b3fc5562c1eee.jpg",
+        "https://telegra.ph/file/19403e17faf2fc9e6f9ad.jpg",
+        "https://telegra.ph/file/020167f4ccc8f7c704f4c.jpg",
+        "https://telegra.ph/file/99ebb341b482fe38e5657.jpg",
+        "https://telegra.ph/file/8ff45cdeb82627a841f47.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

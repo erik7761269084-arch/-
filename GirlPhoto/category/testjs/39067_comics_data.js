@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39067,
+    "title": "Fantasy Factory - Ishtar and Ereshkigal (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Ishtar-and-Ereshkigal-Fate-Grand-Order-04-25",
+    "images": [
+        "https://telegra.ph/file/1883b8dc1efea1e888569.jpg",
+        "https://telegra.ph/file/789764d5b1c3d3205abc2.jpg",
+        "https://telegra.ph/file/b84b2ede62b269be65fdf.jpg",
+        "https://telegra.ph/file/009f4cd4f4cc0a825781d.jpg",
+        "https://telegra.ph/file/c3f924eebe8759223cd9b.jpg",
+        "https://telegra.ph/file/7cb57fdc56b71a0dae0a5.jpg",
+        "https://telegra.ph/file/7bf87d005683140217ca9.jpg",
+        "https://telegra.ph/file/c39c7a994950a40dc7575.jpg",
+        "https://telegra.ph/file/30be2a1edd72fa2f1f574.jpg",
+        "https://telegra.ph/file/b228f847df81dccd79f09.jpg",
+        "https://telegra.ph/file/f59563bb4c7de557e7a2d.jpg",
+        "https://telegra.ph/file/a859e8a307d96e00f2e7c.jpg",
+        "https://telegra.ph/file/62bc096565b36ecc01220.jpg",
+        "https://telegra.ph/file/6dd1e5c6e4de999c79b0e.jpg",
+        "https://telegra.ph/file/d180b70b0ec075ae18c46.jpg",
+        "https://telegra.ph/file/07fe038b412247bd426da.jpg",
+        "https://telegra.ph/file/8cce2d00fe2b65ce135ec.jpg",
+        "https://telegra.ph/file/90e91b58280d4d6fe5227.jpg",
+        "https://telegra.ph/file/f06f5014a4dbda8975e6b.jpg",
+        "https://telegra.ph/file/23f2b375bca59529643c7.jpg",
+        "https://telegra.ph/file/15e2ef1df42575e7a0dd0.jpg",
+        "https://telegra.ph/file/2c2b045061ddf4098f171.jpg",
+        "https://telegra.ph/file/c1918a5d30d28c3a2d0e3.jpg"
+    ]
+};

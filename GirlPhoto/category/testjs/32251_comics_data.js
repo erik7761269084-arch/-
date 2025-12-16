@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32251,
+    "title": "Cosplay KuukoW クー子 式波・アスカ・ラングレー",
+    "sourceUrl": "https://telegra.ph/Cosplay-KuukoW-クー子-式波アスカラングレー-10-31",
+    "images": [
+        "https://telegra.ph/file/d5e2a876c6c91f6d5138b.jpg",
+        "https://telegra.ph/file/fe6ffc7598916095303ed.jpg",
+        "https://telegra.ph/file/0fa69f1734cfe6715992f.jpg",
+        "https://telegra.ph/file/360f55d36504862096641.jpg",
+        "https://telegra.ph/file/fe4d684054bb1f3ec9156.jpg",
+        "https://telegra.ph/file/ef0a1b7d38fed58026de5.jpg",
+        "https://telegra.ph/file/b7998a28b3723c0941433.jpg",
+        "https://telegra.ph/file/b352935aa0655b2acf99e.jpg",
+        "https://telegra.ph/file/3add56cb2edce1b0b4b04.jpg",
+        "https://telegra.ph/file/90aeef09272fbfbc9ac56.jpg",
+        "https://telegra.ph/file/b43f9b2f183d24fbc56fd.jpg",
+        "https://telegra.ph/file/e71f3cb76b077a9faaab0.jpg",
+        "https://telegra.ph/file/693d6580c38f5c9b2d2f6.jpg",
+        "https://telegra.ph/file/312fddbdfcb115bc9e927.jpg",
+        "https://telegra.ph/file/6c3679583fe4bb6bffa6a.jpg",
+        "https://telegra.ph/file/3bcd49d628f766fb860bf.jpg",
+        "https://telegra.ph/file/e52a950f8f790dd5ada84.jpg",
+        "https://telegra.ph/file/be1198e34cc5168f74ca5.jpg",
+        "https://telegra.ph/file/b59c9c4ada17ef9db6fd1.jpg",
+        "https://telegra.ph/file/146dd38a4dee41fb590d7.jpg",
+        "https://telegra.ph/file/74d9afde191edf6c0bf60.jpg",
+        "https://telegra.ph/file/f94213cf6669a128a926c.jpg",
+        "https://telegra.ph/file/1c41f48c6adf5b9eaed7f.jpg",
+        "https://telegra.ph/file/bd13c862bbf7b0557a5c4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

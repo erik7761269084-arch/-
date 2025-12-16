@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 24575,
+    "title": "沖田凛花 - 虎斑貓貓内衣",
+    "sourceUrl": "https://telegra.ph/%E8%99%8E%E6%96%91%E8%B2%93%E8%B2%93%E5%86%85%E8%A1%A3-05-31",
+    "images": [
+        "https://telegra.ph/file/96e7a1a0fd65588b04be5.jpg",
+        "https://telegra.ph/file/e906b28e3d644ee161aaa.jpg",
+        "https://telegra.ph/file/f4678e16b371b40a8ab15.jpg",
+        "https://telegra.ph/file/2c920453a9542818f10e8.jpg",
+        "https://telegra.ph/file/33d60669d761fc62cc0d8.jpg",
+        "https://telegra.ph/file/b2477b22a590380137c4c.jpg",
+        "https://telegra.ph/file/25eab1e70fb7b95823930.jpg",
+        "https://telegra.ph/file/de5707b6a73d6240685b5.jpg",
+        "https://telegra.ph/file/0094fb02e88de7dc1fbdf.jpg",
+        "https://telegra.ph/file/3050c6351fd37d6ccfd00.jpg",
+        "https://telegra.ph/file/9a2277aa8b52489ea0974.jpg",
+        "https://telegra.ph/file/ac99848723d8b209353a7.jpg",
+        "https://telegra.ph/file/d9c3b2fed8daf3ad4ca91.jpg",
+        "https://telegra.ph/file/f9189936580dd4ef36034.jpg",
+        "https://telegra.ph/file/0d0f258a7267085a74b0e.jpg",
+        "https://telegra.ph/file/b203b8a9bba2a2ddda3a7.jpg",
+        "https://telegra.ph/file/d8e7b9f6d445c3318777f.jpg",
+        "https://telegra.ph/file/f113fdefb4c06cd6709f4.jpg",
+        "https://telegra.ph/file/e47f0bbf9bba90dbfa2f3.jpg",
+        "https://telegra.ph/file/286fed2d79eeaaeb986c4.jpg",
+        "https://telegra.ph/file/b5f249f36eb6329d79e57.jpg",
+        "https://telegra.ph/file/1ca495a4cc4727d7a4bb5.jpg",
+        "https://telegra.ph/file/ea9f6e5064c00e06b55dd.jpg"
+    ]
+};

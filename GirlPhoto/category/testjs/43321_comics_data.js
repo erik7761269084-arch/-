@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43321,
+    "title": "HeneAme - Mash Kyrielight",
+    "sourceUrl": "https://telegra.ph/HeneAme---Mash-Kyrielight-10-13",
+    "images": [
+        "https://telegra.ph/file/e00fe397d973c9c23a7ed.jpg",
+        "https://telegra.ph/file/debb62c1db8478e32ec62.jpg",
+        "https://telegra.ph/file/67546ee1b4a5fa52c08b2.jpg",
+        "https://telegra.ph/file/cb2a5da7cfba88ce258b5.jpg",
+        "https://telegra.ph/file/558b4afeeb6da8bd8dd28.jpg",
+        "https://telegra.ph/file/5dd96a200c850aa407750.jpg",
+        "https://telegra.ph/file/fd75e64f9b2f717d7f5af.jpg",
+        "https://telegra.ph/file/1ddb96f20de443fa35705.jpg",
+        "https://telegra.ph/file/f88911268a597ebf53f58.jpg",
+        "https://telegra.ph/file/c6c42f5eee2d21139f5de.jpg",
+        "https://telegra.ph/file/7e2c30fe7e58064a9967a.jpg",
+        "https://telegra.ph/file/7c43d3d00f44674f89570.jpg",
+        "https://telegra.ph/file/c3453c84fbce5210865a4.jpg",
+        "https://telegra.ph/file/328b071a49995844fd935.jpg",
+        "https://telegra.ph/file/b255ef79660b12e3f5a83.jpg",
+        "https://telegra.ph/file/21ddd482a276a2453ab4a.jpg",
+        "https://telegra.ph/file/fc31a1a607c2ca3aedcb2.jpg",
+        "https://telegra.ph/file/c8db4107410051d6f5b9a.jpg",
+        "https://telegra.ph/file/69c3941f4f0b71156e948.jpg",
+        "https://telegra.ph/file/5f13d41dca3d89bb6c7e0.jpg",
+        "https://telegra.ph/file/6cc5a19d28185d8369989.jpg",
+        "https://telegra.ph/file/3c3d0e9fd9a552024b66f.jpg",
+        "https://telegra.ph/file/eeea08b584d7b95d76baf.jpg",
+        "https://telegra.ph/file/c65bf1d26c983e4f0c4eb.jpg",
+        "https://telegra.ph/file/10645ea235914edad6cce.jpg",
+        "https://telegra.ph/file/ba07b064111d83d8a3879.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31400,
+    "title": "[Shika熾鹿] Mai Sakurajima 桜島麻衣 (青春ブタ野郎)",
+    "sourceUrl": "https://telegra.ph/Shika熾鹿-Mai-Sakurajima-桜島麻衣-青春ブタ野郎-08-16",
+    "images": [
+        "https://telegra.ph/file/e5fd078657f24e368b4ea.jpg",
+        "https://telegra.ph/file/b9b2b5c7703f90a26d959.jpg",
+        "https://telegra.ph/file/0449887e3559532549708.jpg",
+        "https://telegra.ph/file/4e7e5780cf098abf65465.jpg",
+        "https://telegra.ph/file/493525efecba85616306f.jpg",
+        "https://telegra.ph/file/ba1ece60d35faeb1129b4.jpg",
+        "https://telegra.ph/file/38823e501f97b7030860b.jpg",
+        "https://telegra.ph/file/7ff597bbd89a0ec97d909.jpg",
+        "https://telegra.ph/file/f64953aa0ea5fe82c7603.jpg",
+        "https://telegra.ph/file/73b93c55b3b18bf2c4893.jpg",
+        "https://telegra.ph/file/f54d28f22347775a089e2.jpg",
+        "https://telegra.ph/file/48b45689007a31341ba98.jpg",
+        "https://telegra.ph/file/71a41082fc3d148a675ab.jpg",
+        "https://telegra.ph/file/e4b0d4bb8e5897620aefc.jpg",
+        "https://telegra.ph/file/946fb04949d6ba8118c5f.jpg",
+        "https://telegra.ph/file/e7c510c74d2c815c2d97c.jpg",
+        "https://telegra.ph/file/3dd9f1f53a28e79c89254.jpg",
+        "https://telegra.ph/file/04a1861266098632b721b.jpg",
+        "https://telegra.ph/file/7b2540a97090aa72df60c.jpg",
+        "https://telegra.ph/file/283b59d6942669e75294f.jpg",
+        "https://telegra.ph/file/117c1dc5863fe0a7dbf40.jpg",
+        "https://telegra.ph/file/4d80923d567cb6f9963f6.jpg",
+        "https://telegra.ph/file/38b15056b334fa2c7230e.jpg",
+        "https://telegra.ph/file/635b6f7103c8099803bb6.jpg",
+        "https://telegra.ph/file/6462ad0f4d8e4b3b63258.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

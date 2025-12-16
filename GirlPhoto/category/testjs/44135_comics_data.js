@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44135,
+    "title": "QUEENIE CHUPPY - 2B sling bikini",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---2B-sling-bikini-09-28",
+    "images": [
+        "https://telegra.ph/file/00bee7d5c12cfed5d423e.jpg",
+        "https://telegra.ph/file/5244f0c9458f0fb1e753f.jpg",
+        "https://telegra.ph/file/f58e066e69cbb93243f67.jpg",
+        "https://telegra.ph/file/6120febf5fb969bb9b454.jpg",
+        "https://telegra.ph/file/969bb3b6f97f730d9d4ac.jpg",
+        "https://telegra.ph/file/ac7b7cba714b27d95a312.jpg",
+        "https://telegra.ph/file/e7556c803ef5eb2ac214d.jpg",
+        "https://telegra.ph/file/138efbf333bb3d12fefdf.jpg",
+        "https://telegra.ph/file/01dce5538e1963dc50fe6.jpg",
+        "https://telegra.ph/file/e411a4f28deac698d31c5.jpg",
+        "https://telegra.ph/file/372a6910bdcc03e1fb354.jpg",
+        "https://telegra.ph/file/d65d40f4ac047d1422240.jpg",
+        "https://telegra.ph/file/a2123e6fba65bd9934c47.jpg",
+        "https://telegra.ph/file/da6e5dc53cc8363d7d24e.jpg",
+        "https://telegra.ph/file/9beeb79e82ab0c945dbc6.jpg",
+        "https://telegra.ph/file/5ebb53c1529fd49e205f6.jpg",
+        "https://telegra.ph/file/8b3596cb71240d6364eb7.jpg",
+        "https://telegra.ph/file/81b323a4e404d1ca542fb.jpg",
+        "https://telegra.ph/file/7693f8a2f6b0c1b0810f2.jpg",
+        "https://telegra.ph/file/67916569c26e9593536f9.jpg",
+        "https://telegra.ph/file/8d3175fccbc6b59144310.jpg",
+        "https://telegra.ph/file/e0d0a3e632529a9df8aac.jpg",
+        "https://telegra.ph/file/ab1e0905069d1f80e2838.jpg",
+        "https://telegra.ph/file/2d5a0430e34d8833a583d.jpg",
+        "https://telegra.ph/file/7523ba876009f231a73ad.jpg"
+    ]
+};

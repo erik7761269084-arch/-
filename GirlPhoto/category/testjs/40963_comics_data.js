@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40963,
+    "title": "Yoshinobi - Maximilian Calypse (Under the Oak Tree)",
+    "sourceUrl": "https://telegra.ph/Yoshinobi---Maximilian-Calypse-Under-the-Oak-Tree-11-29",
+    "images": [
+        "https://telegra.ph/file/4ad979425e4b32d377a43.jpg",
+        "https://telegra.ph/file/82cc166478559bd373364.jpg",
+        "https://telegra.ph/file/44ddb079b9bcfdde5d423.jpg",
+        "https://telegra.ph/file/a59d9e1f2093f81cca7f4.jpg",
+        "https://telegra.ph/file/1abc9209c299ba75bf921.jpg",
+        "https://telegra.ph/file/1d8dcc9af4d737612b109.jpg",
+        "https://telegra.ph/file/425fb405dbed6b852421f.jpg",
+        "https://telegra.ph/file/154e6d955f436b6544242.jpg",
+        "https://telegra.ph/file/de8fadaaee60eed40c9a3.jpg",
+        "https://telegra.ph/file/3a9d8520cd62dc831c922.jpg",
+        "https://telegra.ph/file/1f88643e9454cb25ee1cb.jpg",
+        "https://telegra.ph/file/c31b468fb9098d9281dd1.jpg",
+        "https://telegra.ph/file/9479d0271b93ef2b16a56.jpg",
+        "https://telegra.ph/file/fcea98cf63cdab193f242.jpg",
+        "https://telegra.ph/file/38eeec60eda9fb42d0046.jpg",
+        "https://telegra.ph/file/e1ff1dd7acea8d3b64df6.jpg",
+        "https://telegra.ph/file/92eeb352d2968c0148dae.jpg",
+        "https://telegra.ph/file/007bd334bab470e1b24e1.jpg",
+        "https://telegra.ph/file/d1f8f114b5ccaf45eea0a.jpg",
+        "https://telegra.ph/file/4783c830aab752250bd29.jpg",
+        "https://telegra.ph/file/8c8425ecd42bfdaeaf6d7.jpg",
+        "https://telegra.ph/file/87456a649061c9946a5ad.jpg",
+        "https://telegra.ph/file/84dddae855dffd42d8ebe.jpg",
+        "https://telegra.ph/file/0481954d9b42842cd1480.jpg",
+        "https://telegra.ph/file/700454ef6ee6c263b6ba2.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49567,
+    "title": "Hane Ame  - Mushoku Tensei_Mother X Duaghter - Page 1",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Mushoku-Tensei-Mother-X-Duaghter---Page-1-02-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuaNnnbReKzSsJ1LcE1JUThZHfgufigACUBUAAjHW6VSmnOwls9w_6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuaRnnbRmwUpdEsd3Yo_D2ksZdc-V0gACURUAAjHW6VSSeH75Pg-k2zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuaVnnbRpH6wLkhiRV13qTlHg9_vDjQACUhUAAjHW6VQtZ0o_-vp7GzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuaZnnbRr4hI23qOQnnFzynIuohtu1wACUxUAAjHW6VSZN9Z6LZzarTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuadnnbSq36K7iwn8aVzq7MhxT6_q5AACVBUAAjHW6VSQJc2aApAmJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuahnnbSsFROy80El4ITA3oqKB7RaXwACVRUAAjHW6VTxDw4yLK_WBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEualnnbSuFfZM9WWPGkudFimJ5h284QACVhUAAjHW6VTxwAqsnoI3QzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuapnnbSwB7OwdmqG7HaJbQqiIzExrwACVxUAAjHW6VStEcPAVG7GXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuatnnbSzkHv0y_I9k8HT6CHR-L9S_gACWBUAAjHW6VSdqMnp2-CanzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEuaxnnbS0Bx-KJt6dBZLHvM_JvFHQ5AACWRUAAjHW6VQAAa8SyOF8Hlc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEua1nnbS2RGZu1_hURI3DbEzT5J0m4QACWhUAAjHW6VTCasu72rhZODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEua5nnbT2B3HwekQKOM62-QABvUt6OyAAAlsVAAIx1ulUKXJlga16OMY2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEua9nnbT4hh4SzsX0uUfn0HwGVytrgAACXBUAAjHW6VSoXjYEZKFkLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubBnnbT6JkzHpdZ1xnJsPlUaHVpKKQACXRUAAjHW6VSF6anWYlMl2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubFnnbT8XKd2rAOtkfXXf0qI0BI5PQACXhUAAjHW6VRX_uF9qv3uWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubJnnbT_ddOI0Rw1CAvrnZo5WVAFTwACXxUAAjHW6VSww4v99ztsnTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubNnnbUBys-0VqTVimeisp_0Ip9qswACYBUAAjHW6VSDWBTmfuyUCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubRnnbUC7n1eu9LVtGGTb16q1AABGloAAmEVAAIx1ulU7esntaRGJX02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubVnnbUECdZAygABpRpW14i2TSTvTRQAAmIVAAIx1ulUw0qUDcuhRMI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubZnnbUGd0EAAfAu9M2MjlU8vWgNrPQAAmMVAAIx1ulUXo6G1hC0SJo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubdnnbUIosaZPVlVBndgQa_FoXOOZwACZBUAAjHW6VTc_TX-KpqoljYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubhnnbUJr5SK-OE7Nh6cnmor0HACaAACZRUAAjHW6VTP5u8fdZ-jKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEublnnbUMbjFIj0GCuSsD5JO0zxaU4gACZhUAAjHW6VTn7sCVUeY0jTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubpnnbUNhqFYNoIaC28ZGU73cBAOCwACZxUAAjHW6VRlMapjPpxQ3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubtnnbUQmhNgaBtRx88JoYYL7-OS6QACaBUAAjHW6VRCUzbqdZwE-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEubxnnbUWHsJviiLTOBoi4aXH1o7Y0QACaRUAAjHW6VSPmI3h55t_zjYE"
+    ]
+};

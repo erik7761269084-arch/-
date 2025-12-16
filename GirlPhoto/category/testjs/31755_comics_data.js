@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31755,
+    "title": "Zzyuri 쮸리, [SAINT Photolife] Blue Marine",
+    "sourceUrl": "https://telegra.ph/Zzyuri-쮸리-SAINT-Photolife-Blue-Marine-09-05",
+    "images": [
+        "https://telegra.ph/file/6efba9a47163c003b522b.jpg",
+        "https://telegra.ph/file/15284660840df6ac79a9d.jpg",
+        "https://telegra.ph/file/8a9cc05153541eade1503.jpg",
+        "https://telegra.ph/file/a0a2580590627ac8ebc9a.jpg",
+        "https://telegra.ph/file/5c5d146e21b9cbd4624ed.jpg",
+        "https://telegra.ph/file/f922231007b810c61f03d.jpg",
+        "https://telegra.ph/file/376772fb729d1abdcffe2.jpg",
+        "https://telegra.ph/file/a63f9db77861e4cfca406.jpg",
+        "https://telegra.ph/file/82a8bbbf9e12c09135d0b.jpg",
+        "https://telegra.ph/file/12443a367175c012a4fde.jpg",
+        "https://telegra.ph/file/03452f86282a6203cf436.jpg",
+        "https://telegra.ph/file/37f195b1f03be19f08def.jpg",
+        "https://telegra.ph/file/b5116ac67ef016e3c617a.jpg",
+        "https://telegra.ph/file/c981d3fb4d9137adff8af.jpg",
+        "https://telegra.ph/file/b319742336bf382d88163.jpg",
+        "https://telegra.ph/file/5b6cd53ec868d92ad400f.jpg",
+        "https://telegra.ph/file/6489ec6c88d5bcca208b2.jpg",
+        "https://telegra.ph/file/d51c2156d5e02a2eea1ed.jpg",
+        "https://telegra.ph/file/bf24eab7e11cf4fdb99ca.jpg",
+        "https://telegra.ph/file/df78482d55310040f9524.jpg",
+        "https://telegra.ph/file/088e43c74bfc28d87bbd5.jpg",
+        "https://telegra.ph/file/4d56f950c6e226c4fe353.jpg",
+        "https://telegra.ph/file/36acd10b006d75d9659ed.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

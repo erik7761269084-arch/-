@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23313,
+    "title": "雨波_HaneAme - AzurLane ST.LOUIS-聖路易斯[27P+2V-44.48MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---AzurLane-STLOUIS-%E8%81%96%E8%B7%AF%E6%98%93%E6%96%AF27P2V-4448MB-02-13",
+    "images": [
+        "https://telegra.ph/file/effb3ac648c192d8fffda.jpg",
+        "https://telegra.ph/file/192cc6dc8dc02e7861192.jpg",
+        "https://telegra.ph/file/56f79209ce320be41998b.jpg",
+        "https://telegra.ph/file/ee92c203266e98ca6d3f8.jpg",
+        "https://telegra.ph/file/9e55ef325d4fd31278067.jpg",
+        "https://telegra.ph/file/0aee8b43729596461819d.jpg",
+        "https://telegra.ph/file/e44fe1ea1997b89804404.jpg",
+        "https://telegra.ph/file/926281355a91b3e3dd4b1.jpg",
+        "https://telegra.ph/file/9fa86ff6cd272bec07b99.jpg",
+        "https://telegra.ph/file/935b3ba60a78f8b0dd302.jpg",
+        "https://telegra.ph/file/917b6594ee19885df2c3b.jpg",
+        "https://telegra.ph/file/64096a1a065a9b4eb3511.jpg",
+        "https://telegra.ph/file/5b2e7184f693aa5cb6e91.jpg",
+        "https://telegra.ph/file/bd96c411dda8419c9a6a3.jpg",
+        "https://telegra.ph/file/23ed626674c7e47a718e2.jpg",
+        "https://telegra.ph/file/ae631ccca15daf6665cf9.jpg",
+        "https://telegra.ph/file/ed427a032843ca6618464.jpg",
+        "https://telegra.ph/file/62a7c002b268f02f6306d.jpg",
+        "https://telegra.ph/file/2399b0676d43c2f17b5a3.jpg",
+        "https://telegra.ph/file/e4fb0e07bb6a45e862570.jpg",
+        "https://telegra.ph/file/fb567a6cf67b5722c185f.jpg",
+        "https://telegra.ph/file/002c229197cd3c5db31f1.jpg",
+        "https://telegra.ph/file/13433c79bff878fa24d0e.jpg",
+        "https://telegra.ph/file/5c65e84cca30a8df5f75f.jpg",
+        "https://telegra.ph/file/298a4060b7722951424e0.jpg",
+        "https://telegra.ph/file/3fab8b7b6303e3e0afde7.jpg"
+    ]
+};

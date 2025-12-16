@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40820,
+    "title": "Lada Lyumos - Ashley (Resident Evil)",
+    "sourceUrl": "https://telegra.ph/Lada-Lyumos---Ashley-Resident-Evil-10-17",
+    "images": [
+        "https://telegra.ph/file/5e52f007f4d0959f95abd.jpg",
+        "https://telegra.ph/file/6d902b223c6559c12d060.jpg",
+        "https://telegra.ph/file/18b3ad88e64cfbe3e47f6.jpg",
+        "https://telegra.ph/file/31109ba0f1ca6a579d39f.jpg",
+        "https://telegra.ph/file/b450a95ea1757edbf5531.jpg",
+        "https://telegra.ph/file/66525d93f97b657be3031.jpg",
+        "https://telegra.ph/file/d810747b843c78fc737b1.jpg",
+        "https://telegra.ph/file/cf027674ee2963b7c6295.jpg",
+        "https://telegra.ph/file/f8b02f73b59a4a71b625a.jpg",
+        "https://telegra.ph/file/e32e9884e46ec9ca5d218.jpg",
+        "https://telegra.ph/file/05b8c869fc5054da866e1.jpg",
+        "https://telegra.ph/file/41031bef6534542f1ebf9.jpg",
+        "https://telegra.ph/file/dce52a2729326608dd41d.jpg",
+        "https://telegra.ph/file/749a7043a839b96dda9af.jpg",
+        "https://telegra.ph/file/f60978a60c2bdc073b28b.jpg",
+        "https://telegra.ph/file/44d8c9c4c67bca7fb96e4.jpg",
+        "https://telegra.ph/file/a84deaf4731f9b83f751c.jpg",
+        "https://telegra.ph/file/5cf4c4a7179624f496c5f.jpg",
+        "https://telegra.ph/file/6de0948f8d55a93b3a2fe.jpg",
+        "https://telegra.ph/file/ffe1fac3b4722d972afd1.jpg",
+        "https://telegra.ph/file/7bf120cbc1f5b3e3856ab.jpg",
+        "https://telegra.ph/file/f4a6b06ae70f3fec10082.jpg",
+        "https://telegra.ph/file/0a32e0116c7985830c472.jpg",
+        "https://telegra.ph/file/5c0e33ea8cd4bb25312c2.jpg",
+        "https://telegra.ph/file/8dd923efc0b2e1ad1c68b.jpg",
+        "https://telegra.ph/file/dba84ae6c75af7187aa27.jpg"
+    ]
+};

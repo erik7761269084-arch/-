@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45633,
+    "title": "Byoru &amp; Sally - Makima x Power - Page 1",
+    "sourceUrl": "https://telegra.ph/Byoru-amp-Sally---Makima-x-Power---Page-1-10-11",
+    "images": [
+        "https://telegra.ph/file/0ac23e1f6e2688b6c1a7d.jpg",
+        "https://telegra.ph/file/e71741dbcbfedf6715904.jpg",
+        "https://telegra.ph/file/0eae7bcefca684d44a113.jpg",
+        "https://telegra.ph/file/76abb95a724dd9fbd0488.jpg",
+        "https://telegra.ph/file/6fd91e956c17f3584f1d2.jpg",
+        "https://telegra.ph/file/6fcdc847476067dded68a.jpg",
+        "https://telegra.ph/file/f830925105647199bdbf8.jpg",
+        "https://telegra.ph/file/609a3fd568251d1b8f423.jpg",
+        "https://telegra.ph/file/720ca1b63c37cb07f5547.jpg",
+        "https://telegra.ph/file/cd322ef65d11372312b23.jpg",
+        "https://telegra.ph/file/25015531034a48379cb8a.jpg",
+        "https://telegra.ph/file/266928bae2efd92f90d92.jpg",
+        "https://telegra.ph/file/3fdba38054a5db047dc76.jpg",
+        "https://telegra.ph/file/e7a1d5369ddd753fd743e.jpg",
+        "https://telegra.ph/file/852a763fcfb0202881b76.jpg",
+        "https://telegra.ph/file/56a2c2be3ac9e6cbf9f21.jpg",
+        "https://telegra.ph/file/e08d4c2d3baba5f0345b4.jpg",
+        "https://telegra.ph/file/33131104e8ea26f33bb4c.jpg",
+        "https://telegra.ph/file/e0ced8ed65fa0a30c9de9.jpg",
+        "https://telegra.ph/file/b266cd32d1d2f772e866f.jpg",
+        "https://telegra.ph/file/cb33407ee4756a43e46b6.jpg",
+        "https://telegra.ph/file/5a82f17b31951d2c2a4f1.jpg",
+        "https://telegra.ph/file/d817d773adb7b479d169a.jpg",
+        "https://telegra.ph/file/afb116564e313b9fe8449.jpg",
+        "https://telegra.ph/file/0f4f889cef792c992034d.jpg"
+    ]
+};

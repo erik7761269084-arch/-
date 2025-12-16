@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41348,
+    "title": "Misaki Sai - Princess Peach (Mario Bros)",
+    "sourceUrl": "https://telegra.ph/Misaki-Sai---Princess-Peach-Mario-Bros-04-08",
+    "images": [
+        "https://telegra.ph/file/4723cacffaf3272326f42.jpg",
+        "https://telegra.ph/file/54cb5117986b30cb1ead1.jpg",
+        "https://telegra.ph/file/7c2b912b25ba69cadc1a8.jpg",
+        "https://telegra.ph/file/50c7a20eee17f6e4bcf1d.jpg",
+        "https://telegra.ph/file/0529dc06b31eb51de05ab.jpg",
+        "https://telegra.ph/file/02c9a04b2402f81f6d942.jpg",
+        "https://telegra.ph/file/8277dd37cfe4438d77388.jpg",
+        "https://telegra.ph/file/a7efd479bc1a5c3619ead.jpg",
+        "https://telegra.ph/file/fb7961482a5e2362941c0.jpg",
+        "https://telegra.ph/file/f9e5ca3ca948e102dd726.jpg",
+        "https://telegra.ph/file/2671325e2647693a5661d.jpg",
+        "https://telegra.ph/file/11c61b85711458755a858.jpg",
+        "https://telegra.ph/file/fae9389566a4abbab67be.jpg",
+        "https://telegra.ph/file/0de6f66782f854af35066.jpg",
+        "https://telegra.ph/file/12811b33b9b09079643e2.jpg",
+        "https://telegra.ph/file/97e28e4d58b37da6e54dd.jpg",
+        "https://telegra.ph/file/4b1862af8bb12e8a54ff2.jpg",
+        "https://telegra.ph/file/75b52774451fc63e3f8f4.jpg",
+        "https://telegra.ph/file/e5e597b0abd12c8626295.jpg",
+        "https://telegra.ph/file/c95a0e861ea2614bb9191.jpg",
+        "https://telegra.ph/file/f3bd243e960e739a7f57c.jpg",
+        "https://telegra.ph/file/26bf3f5f2a5e2f7690acc.jpg",
+        "https://telegra.ph/file/306cc8b42aa0e3567255b.jpg",
+        "https://telegra.ph/file/043c4400f9f2aaaa60278.jpg",
+        "https://telegra.ph/file/64dc2983ea8757062626b.jpg"
+    ]
+};

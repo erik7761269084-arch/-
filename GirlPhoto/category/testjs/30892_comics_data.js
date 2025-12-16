@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30892,
+    "title": "JVID精品 加加瞄-紧缚凌辱の初体验 Vol.02",
+    "sourceUrl": "https://telegra.ph/JVID精品-加加瞄-紧缚凌辱の初体验-Vol02-07-23",
+    "images": [
+        "https://telegra.ph/file/6ca937a30bd5faaa08d03.jpg",
+        "https://telegra.ph/file/ae99e683512af5a5d5ffa.jpg",
+        "https://telegra.ph/file/7fea5594b02f4ddf11928.jpg",
+        "https://telegra.ph/file/386043a1ad350d1aa3671.jpg",
+        "https://telegra.ph/file/213e4102f7d8f9a530ba3.jpg",
+        "https://telegra.ph/file/90b26fb25c8e6ecebe9c1.jpg",
+        "https://telegra.ph/file/ec6504921c907b50d5717.jpg",
+        "https://telegra.ph/file/0017ea227f0a2ec8675fd.jpg",
+        "https://telegra.ph/file/266c3fc98cb2a26861dd3.jpg",
+        "https://telegra.ph/file/f8f43f39c1ac634abcea0.jpg",
+        "https://telegra.ph/file/b0acc9a5de0296d651224.jpg",
+        "https://telegra.ph/file/8282d330723133d0f182a.jpg",
+        "https://telegra.ph/file/4c3ef338bb851eaf9318f.jpg",
+        "https://telegra.ph/file/8c757bbecee054666319a.jpg",
+        "https://telegra.ph/file/7fa0d75525acf6e00bd1d.jpg",
+        "https://telegra.ph/file/875103c7d4637a5704c44.jpg",
+        "https://telegra.ph/file/105dbe172a8ee0eece0f7.jpg",
+        "https://telegra.ph/file/d1de11e0aa1f2abebfdae.jpg",
+        "https://telegra.ph/file/2b021c14fe0b6c6518bf2.jpg",
+        "https://telegra.ph/file/a45a90563c19622ecc065.jpg",
+        "https://telegra.ph/file/a81c4746dbf1cd9cbdbc3.jpg",
+        "https://telegra.ph/file/6b04b65ac8dfd5a11f937.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44194,
+    "title": "Choi Ji Yun - Ada Wong w Tifa Outfit",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Ada-Wong-w-Tifa-Outfit-09-28",
+    "images": [
+        "https://telegra.ph/file/0992ef9134a9b3c0fef6a.jpg",
+        "https://telegra.ph/file/d053aa551aaa38640fb1d.jpg",
+        "https://telegra.ph/file/59d764c1972a31a31dc00.jpg",
+        "https://telegra.ph/file/d45b16d40a87ba68bc8b9.jpg",
+        "https://telegra.ph/file/dd7bf3618ddc609887ea8.jpg",
+        "https://telegra.ph/file/22c9277e90c1bb840d9ca.jpg",
+        "https://telegra.ph/file/9a3ec9b03b304d0c9595b.jpg",
+        "https://telegra.ph/file/777e279c22adc2330f02e.jpg",
+        "https://telegra.ph/file/7e0bb3d6980e1f42f9f4f.jpg",
+        "https://telegra.ph/file/ecdf72f0a7b6bd87144bd.jpg",
+        "https://telegra.ph/file/72ae187d136dd102e2f74.jpg",
+        "https://telegra.ph/file/415168cb448b54695162f.jpg",
+        "https://telegra.ph/file/7f9b834899daaf887e608.jpg",
+        "https://telegra.ph/file/7975579a1944b4dc10301.jpg",
+        "https://telegra.ph/file/505c53d4d9273c4b78542.jpg",
+        "https://telegra.ph/file/e1dd1d7eb475988b0c3b8.jpg",
+        "https://telegra.ph/file/1fdb97e3f2d81967008db.jpg",
+        "https://telegra.ph/file/a3f71db26d43105c9a153.jpg",
+        "https://telegra.ph/file/3464b0c698563962e7766.jpg",
+        "https://telegra.ph/file/3ce5cdf0d556404c11be8.jpg",
+        "https://telegra.ph/file/2a9597d5f384c7c99ce49.jpg",
+        "https://telegra.ph/file/0ded2647d2bf302ce80de.jpg",
+        "https://telegra.ph/file/74176ae5ee52247c2d9aa.jpg",
+        "https://telegra.ph/file/805bf2ef2a85e9011db94.jpg"
+    ]
+};

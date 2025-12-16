@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22949,
+    "title": "Natsuko夏夏子 - NO.013 JK&花嫁 豪华版 [131P-1.17GB]剧情版",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO013-JK%E8%8A%B1%E5%AB%81-%E8%B1%AA%E5%8D%8E%E7%89%88-131P-117GB%E5%89%A7%E6%83%85%E7%89%88-12-29",
+    "images": [
+        "https://telegra.ph/file/564e677cf096a62ad005f.jpg",
+        "https://telegra.ph/file/b27988d7453e72863dd0c.jpg",
+        "https://telegra.ph/file/f2de3a407eeba394abfd9.jpg",
+        "https://telegra.ph/file/f716d4e32db21588fa1ab.jpg",
+        "https://telegra.ph/file/adff05437eb9dd26c9578.jpg",
+        "https://telegra.ph/file/c3ed044dc11f309392637.jpg",
+        "https://telegra.ph/file/3bc957c2a3c2602de747f.jpg",
+        "https://telegra.ph/file/7d49e1e0612e04f4dea75.jpg",
+        "https://telegra.ph/file/765a73436103c6d5334a4.jpg",
+        "https://telegra.ph/file/be8231ed692d630d11213.jpg",
+        "https://telegra.ph/file/44ca17eaf55a6b7e6bc9f.jpg",
+        "https://telegra.ph/file/600f8e6be0aacfd5b7930.jpg",
+        "https://telegra.ph/file/a519e23c549db182261f7.jpg",
+        "https://telegra.ph/file/32b86bc58fc55f998f879.jpg",
+        "https://telegra.ph/file/30e5b4095b3991d288728.jpg",
+        "https://telegra.ph/file/a83ffa0a6a30754a0ed46.jpg",
+        "https://telegra.ph/file/2034c3fd411c60b7e6166.jpg",
+        "https://telegra.ph/file/a1ac8a6203c4931f914f2.jpg",
+        "https://telegra.ph/file/4530fd3df57686c9508d3.jpg",
+        "https://telegra.ph/file/945794ec486468f3905b1.jpg",
+        "https://telegra.ph/file/1f28e0071e2e74aa8886d.jpg",
+        "https://telegra.ph/file/1309b794f017ee799558f.jpg",
+        "https://telegra.ph/file/b222ed38132cc1b34c6fd.jpg",
+        "https://telegra.ph/file/3496e3c6b84ca3a6e945f.jpg"
+    ]
+};

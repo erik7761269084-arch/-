@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25375,
+    "title": "[Cos]凉凉子 - 逸仙[29P]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%87%89%E5%87%89%E5%AD%90---%E9%80%B8%E4%BB%9929P-07-03",
+    "images": [
+        "https://telegra.ph/file/703108a330c922fae4b70.jpg",
+        "https://telegra.ph/file/0906764f17e9725902159.jpg",
+        "https://telegra.ph/file/2d46a75a5fc464f098b30.jpg",
+        "https://telegra.ph/file/41a574e939bb496ef6ed3.jpg",
+        "https://telegra.ph/file/918301d297aac597e131d.jpg",
+        "https://telegra.ph/file/bd8eb74b46f76d49bc837.jpg",
+        "https://telegra.ph/file/464e0927abe9287d43319.jpg",
+        "https://telegra.ph/file/9284491e17b90fadafc8c.jpg",
+        "https://telegra.ph/file/2797ec7901c2d3961af92.jpg",
+        "https://telegra.ph/file/f29ef236c78e5ef3a5312.jpg",
+        "https://telegra.ph/file/58e3ffa618089cb4d3d32.jpg",
+        "https://telegra.ph/file/66ad166661fb3551e430c.jpg",
+        "https://telegra.ph/file/e79ada31596468655781d.jpg",
+        "https://telegra.ph/file/2a9ec35e2730b62ab19d2.jpg",
+        "https://telegra.ph/file/24b7277c6c2f3c99349e2.jpg",
+        "https://telegra.ph/file/6a1077247646785c0f29d.jpg",
+        "https://telegra.ph/file/2fea9a3c9efaaa5ceaa2e.jpg",
+        "https://telegra.ph/file/ba7006e472c8519c17461.jpg",
+        "https://telegra.ph/file/396f946730195676f446d.jpg",
+        "https://telegra.ph/file/ec0a3cf941f2299ccaab9.jpg",
+        "https://telegra.ph/file/44745a45654e67b84b2ce.jpg",
+        "https://telegra.ph/file/3e2148402b90bc6ea1a30.jpg",
+        "https://telegra.ph/file/b53b271ad7fb749c0c66c.jpg",
+        "https://telegra.ph/file/c52cdbb63f93f7d1cc16c.jpg",
+        "https://telegra.ph/file/bf8e23914ea0cc0b364d2.jpg"
+    ]
+};

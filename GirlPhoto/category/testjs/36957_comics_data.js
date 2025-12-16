@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 36957,
+    "title": "Son Yeeun 손예은, [BLUECAKE] 2B RED Set.02",
+    "sourceUrl": "https://telegra.ph/Son-Yeeun-손예은-BLUECAKE-2B-RED-Set02-02-24",
+    "images": [
+        "https://telegra.ph/file/d6a658884fe11f9d47bf3.jpg",
+        "https://telegra.ph/file/5657660b334f93781dce3.jpg",
+        "https://telegra.ph/file/7e345f5316b69c20e5af8.jpg",
+        "https://telegra.ph/file/a8809eb81f25cde9149e0.jpg",
+        "https://telegra.ph/file/45c8be0589c3033ecde44.jpg",
+        "https://telegra.ph/file/7ce13e74b40d24e467404.jpg",
+        "https://telegra.ph/file/4333871e405b1a3412e73.jpg",
+        "https://telegra.ph/file/2c03638d95fa4d30689b2.jpg",
+        "https://telegra.ph/file/905ccc68e48e083ef978e.jpg",
+        "https://telegra.ph/file/5ef7b8e3f31a90817d934.jpg",
+        "https://telegra.ph/file/e0e8710cce9679eb2dc91.jpg",
+        "https://telegra.ph/file/0b50881ab790867406833.jpg",
+        "https://telegra.ph/file/940f9dc57cb54486ea9f6.jpg",
+        "https://telegra.ph/file/6abc4ce25e85d62bc2feb.jpg",
+        "https://telegra.ph/file/92589d07fc568368d6ed6.jpg",
+        "https://telegra.ph/file/d40b0a45232a4e8309bd5.jpg",
+        "https://telegra.ph/file/c939e27a4b7c89a4062a2.jpg",
+        "https://telegra.ph/file/3d534b1dc98a2a9f6ddab.jpg",
+        "https://telegra.ph/file/2805f8d1617568817c9e9.jpg",
+        "https://telegra.ph/file/d54b4f479c7e7e6591592.jpg",
+        "https://telegra.ph/file/669e7e290a0c2bf931493.jpg",
+        "https://telegra.ph/file/657c0ab83a25aeed8a4d0.jpg",
+        "https://telegra.ph/file/a4ad14a4008183bd4f2b0.jpg",
+        "https://telegra.ph/file/b5cff59411332c25e35f5.jpg",
+        "https://telegra.ph/file/727be2e65a40eab75fe21.jpg",
+        "https://telegra.ph/file/53e9ce7c7c25a8e8a5554.jpg"
+    ]
+};

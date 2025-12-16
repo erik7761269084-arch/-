@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31737,
+    "title": "Cosplay 橙子喵酱 Chengzimiaoj 甘雨 艾米莉亚",
+    "sourceUrl": "https://telegra.ph/Cosplay-橙子喵酱-Chengzimiaoj-甘雨-艾米莉亚-09-03",
+    "images": [
+        "https://telegra.ph/file/a6415026220c8a21bdc1a.jpg",
+        "https://telegra.ph/file/b5fa27fd31c382da075d7.jpg",
+        "https://telegra.ph/file/eac4f75d677569c624540.jpg",
+        "https://telegra.ph/file/9a6e0c4a82a9b07fe8b9f.jpg",
+        "https://telegra.ph/file/d19f6b1afc25b42895833.jpg",
+        "https://telegra.ph/file/ea57c160f0eb26e57438f.jpg",
+        "https://telegra.ph/file/5c18f8c9fbb05a08dc822.jpg",
+        "https://telegra.ph/file/a242ffe94ac933143c5ba.jpg",
+        "https://telegra.ph/file/4fd990acacf0ee8a0fbe5.jpg",
+        "https://telegra.ph/file/45cfff083ad3f18bf801b.jpg",
+        "https://telegra.ph/file/d12b257d88f761636fa00.jpg",
+        "https://telegra.ph/file/4ee23f5890817b7b143a4.jpg",
+        "https://telegra.ph/file/87f2c540cb80bfa04c1a9.jpg",
+        "https://telegra.ph/file/0f6378d292132f9744c78.jpg",
+        "https://telegra.ph/file/d7604d8d7fd97baf7397a.jpg",
+        "https://telegra.ph/file/632581e9b8096df7b12f9.jpg",
+        "https://telegra.ph/file/b1152897d213904fb4a3a.jpg",
+        "https://telegra.ph/file/d3a7e3d602dca12ace02f.jpg",
+        "https://telegra.ph/file/ccf931dbdc23bb11c300e.jpg",
+        "https://telegra.ph/file/fe9b4641cab2d95764aa3.jpg",
+        "https://telegra.ph/file/8d53eb1f29e5fba9d1200.jpg",
+        "https://telegra.ph/file/c7bc9905d2211612ae942.jpg",
+        "https://telegra.ph/file/c79d2aebeecf7ddbfd2fd.jpg",
+        "https://telegra.ph/file/e41c5141a08947723dc4b.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

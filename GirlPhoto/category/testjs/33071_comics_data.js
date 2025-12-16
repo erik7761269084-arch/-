@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33071,
+    "title": "[沖田凜花Rinka] HMS Cheshire アズールレーン (Azur Lane 碧蓝航线)",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka-HMS-Cheshire-アズールレーン-Azur-Lane-碧蓝航线-01-28",
+    "images": [
+        "https://telegra.ph/file/63cf9f90fa7c768ccf1db.jpg",
+        "https://telegra.ph/file/3705114cc68482eca010c.jpg",
+        "https://telegra.ph/file/be2ee729bf24a30dfc2de.jpg",
+        "https://telegra.ph/file/85a4680193d0c399f7cfd.jpg",
+        "https://telegra.ph/file/d731fd5da34c80110f7ef.jpg",
+        "https://telegra.ph/file/37ecbbe41f8794976451d.jpg",
+        "https://telegra.ph/file/2aa0b6ae4a382fb9d1fb8.jpg",
+        "https://telegra.ph/file/b89f93913a25b43c56519.jpg",
+        "https://telegra.ph/file/630ebd948b260d944d3e1.jpg",
+        "https://telegra.ph/file/1191072fd479ebd96451c.jpg",
+        "https://telegra.ph/file/259bb98d5fe8841773f31.jpg",
+        "https://telegra.ph/file/6fbcb18d9494a181e6f7e.jpg",
+        "https://telegra.ph/file/7af7cb645ed7d7750d1e6.jpg",
+        "https://telegra.ph/file/5b46e45f40339aa00f024.jpg",
+        "https://telegra.ph/file/17114d6f37347bd7881c5.jpg",
+        "https://telegra.ph/file/05200b6b250ca7108a658.jpg",
+        "https://telegra.ph/file/5aba9f8f56de599c0db93.jpg",
+        "https://telegra.ph/file/9b7bc0d2c3c04f48cd049.jpg",
+        "https://telegra.ph/file/9eee15ffcb4075a5916cd.jpg",
+        "https://telegra.ph/file/822f6439cb6b567a08734.jpg",
+        "https://telegra.ph/file/ca547ae4ed703f675b6cc.jpg",
+        "https://telegra.ph/file/2a500c1a4cc6e8bd21c9a.jpg",
+        "https://telegra.ph/file/37e704ea39b0bc713bd84.jpg",
+        "https://telegra.ph/file/8ceda14d2c79ced3e93aa.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

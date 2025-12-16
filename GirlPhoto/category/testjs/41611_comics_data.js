@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41611,
+    "title": "Mimsy - Rias Gremory (High School DxD)",
+    "sourceUrl": "https://telegra.ph/Mimsy---Rias-Gremory-High-School-DxD-06-19",
+    "images": [
+        "https://telegra.ph/file/2cb3fa40178076446fb47.jpg",
+        "https://telegra.ph/file/a9ca0b92c30ac5743de6c.jpg",
+        "https://telegra.ph/file/4381110295d5f1639c1dc.jpg",
+        "https://telegra.ph/file/4acb67308f5345f8b2be5.jpg",
+        "https://telegra.ph/file/27aa7c12c09337a6ed94e.jpg",
+        "https://telegra.ph/file/22cf70f8e743ae7afa928.jpg",
+        "https://telegra.ph/file/20b125c0ea236338ac857.jpg",
+        "https://telegra.ph/file/90a45713c2e456343caff.jpg",
+        "https://telegra.ph/file/01b260ae17bc3f0e1d81c.jpg",
+        "https://telegra.ph/file/68046f48b09848adce012.jpg",
+        "https://telegra.ph/file/a524142f2ea8e6510c8c5.jpg",
+        "https://telegra.ph/file/b54be18b093386cb61962.jpg",
+        "https://telegra.ph/file/95b7e1a3c50f6460e8623.jpg",
+        "https://telegra.ph/file/556233123a24f794550f9.jpg",
+        "https://telegra.ph/file/a41e2b2c1dd96741dd4e8.jpg",
+        "https://telegra.ph/file/fb83bbd8192ae00663e76.jpg",
+        "https://telegra.ph/file/aeda960610c921341c09d.jpg",
+        "https://telegra.ph/file/ba6345658e5a4f04cd6f7.jpg",
+        "https://telegra.ph/file/f46ca3fbcd89df5c0ab92.jpg",
+        "https://telegra.ph/file/73efd5c3dfc31615c5915.jpg",
+        "https://telegra.ph/file/2ce0f9f8c22a92731b0d7.jpg",
+        "https://telegra.ph/file/bf7e49c7f0950c5263348.jpg",
+        "https://telegra.ph/file/2892b6f36bde424785f8a.jpg"
+    ]
+};

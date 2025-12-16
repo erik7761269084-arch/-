@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38689,
+    "title": "Gumiho Arts - Tifa (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/Gumiho-Arts---Tifa-Final-Fantasy-01-03",
+    "images": [
+        "https://telegra.ph/file/87a04124fedbca3c75218.jpg",
+        "https://telegra.ph/file/3e4935162eb6f376a2e6b.jpg",
+        "https://telegra.ph/file/116268e7eeccc493edcb8.jpg",
+        "https://telegra.ph/file/3e7e912344fa5150435b6.jpg",
+        "https://telegra.ph/file/0f04f05bbbff9b38790e6.jpg",
+        "https://telegra.ph/file/4cf2b1ecba7890010a433.jpg",
+        "https://telegra.ph/file/fcf124146260f5cfdbff4.jpg",
+        "https://telegra.ph/file/9ebb61b8a89fa67d5762d.jpg",
+        "https://telegra.ph/file/b5a8d6246da2dede67241.jpg",
+        "https://telegra.ph/file/864a9970e53057e8569e4.jpg",
+        "https://telegra.ph/file/c771108a9e1cc4a9059ad.jpg",
+        "https://telegra.ph/file/55344bc6bc53826815774.jpg",
+        "https://telegra.ph/file/047ed69a7316d88db315e.jpg",
+        "https://telegra.ph/file/fb85ee982821ab24ae7e8.jpg",
+        "https://telegra.ph/file/616013a843a53483a8200.jpg",
+        "https://telegra.ph/file/bd9134de34de86e591997.jpg",
+        "https://telegra.ph/file/b9805b979eaa1e7e4d772.jpg",
+        "https://telegra.ph/file/37fe445a90f04f3ae13e4.jpg",
+        "https://telegra.ph/file/a4a68bdc9a8a7b003989a.jpg",
+        "https://telegra.ph/file/26abae60eea94db7a38c7.jpg",
+        "https://telegra.ph/file/98221f669d0fa1a958866.jpg",
+        "https://telegra.ph/file/5f8df0002ed211485bcac.jpg",
+        "https://telegra.ph/file/3f1b0be4a191ddf40ef8b.jpg",
+        "https://telegra.ph/file/601c991e647e147c8574d.jpg"
+    ]
+};

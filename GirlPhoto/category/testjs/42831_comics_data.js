@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42831,
+    "title": "Tsubaki Album Vol 036 SteampunkFullSize",
+    "sourceUrl": "https://telegra.ph/Tsubaki-Album-Vol-036-SteampunkFullSize-07-02",
+    "images": [
+        "https://telegra.ph/file/b25e3e11f7e0a56d89af6.jpg",
+        "https://telegra.ph/file/226cedee93447f816b70a.jpg",
+        "https://telegra.ph/file/b34669bc90add4f0b8fa3.jpg",
+        "https://telegra.ph/file/cbaca890ce36f3604f7c5.jpg",
+        "https://telegra.ph/file/6c18026d32ea3bbb1f6a5.jpg",
+        "https://telegra.ph/file/1871fe68cab79df89dd89.jpg",
+        "https://telegra.ph/file/f0e3b034784c7e8e59585.jpg",
+        "https://telegra.ph/file/2721e5b826533f7e40cc7.jpg",
+        "https://telegra.ph/file/301d0dec7f17bd07132f7.jpg",
+        "https://telegra.ph/file/550519355ebdf9ae2c727.jpg",
+        "https://telegra.ph/file/77b617408d05925a0f13b.jpg",
+        "https://telegra.ph/file/1736b48d67db0ab5a3aa7.jpg",
+        "https://telegra.ph/file/4803c8c413a3b61cc34ce.jpg",
+        "https://telegra.ph/file/e1c82c5fe8745f28cc794.jpg",
+        "https://telegra.ph/file/4c6e86c1acc3bfa2ff737.jpg",
+        "https://telegra.ph/file/87c4e82acf5d78d7fa152.jpg",
+        "https://telegra.ph/file/818754ae7493e9bcd0759.jpg",
+        "https://telegra.ph/file/b112f2881b7bc9e0a789f.jpg",
+        "https://telegra.ph/file/e4a4605b3077daf34b6ed.jpg",
+        "https://telegra.ph/file/0df6176e846ab5a1115df.jpg",
+        "https://telegra.ph/file/fb878c93f608a8c4300d7.jpg",
+        "https://telegra.ph/file/7fe235866005e67d8bc21.jpg",
+        "https://telegra.ph/file/00b16aaef839d82e86bc5.jpg",
+        "https://telegra.ph/file/42ab6aa7fb21e09bdcc96.jpg",
+        "https://telegra.ph/file/729b76b22f2ac5fce56eb.jpg"
+    ]
+};

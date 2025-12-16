@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39672,
+    "title": "Fantasy Factory - Miko Kurokawa",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Miko-Kurokawa-09-15",
+    "images": [
+        "https://telegra.ph/file/c6365c4202a9500b7359c.jpg",
+        "https://telegra.ph/file/c9d75997bb0ec76e26f5c.jpg",
+        "https://telegra.ph/file/520fa1bdb9c59146c21f7.jpg",
+        "https://telegra.ph/file/f8f7dbbf66c238ce5bcdb.jpg",
+        "https://telegra.ph/file/3826e4554508aeadb5656.jpg",
+        "https://telegra.ph/file/149a555b7e2ed91fbc3de.jpg",
+        "https://telegra.ph/file/487c77bbba4a1810191c8.jpg",
+        "https://telegra.ph/file/22e62d51045bd89d87f45.jpg",
+        "https://telegra.ph/file/f3aa31fd86495993a5aeb.jpg",
+        "https://telegra.ph/file/084e8c24584138b267c24.jpg",
+        "https://telegra.ph/file/83786dc0708ba4f0d30c5.jpg",
+        "https://telegra.ph/file/af435045184ea54e5131b.jpg",
+        "https://telegra.ph/file/4bf32153cf9ca89613505.jpg",
+        "https://telegra.ph/file/772c48c884691fb6ab45f.jpg",
+        "https://telegra.ph/file/c37bf53b13685dfd8b6a8.jpg",
+        "https://telegra.ph/file/e079b209249f11fe3d0f5.jpg",
+        "https://telegra.ph/file/ff4f7abf78c5ba149a1c0.jpg",
+        "https://telegra.ph/file/21cc7a25ee74d15999d4c.jpg",
+        "https://telegra.ph/file/fbd4020258c3e9aad8ad4.jpg",
+        "https://telegra.ph/file/531704907bc175795e2cf.jpg",
+        "https://telegra.ph/file/927c5d332ca1d75a2eb9b.jpg",
+        "https://telegra.ph/file/faec64203540626060ee6.jpg",
+        "https://telegra.ph/file/a0489e561f27afd70022c.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39218,
+    "title": "Dio Sixx - Morticia Addams (The Addams Family)",
+    "sourceUrl": "https://telegra.ph/Dio-Sixx---Morticia-Addams-The-Addams-Family-06-04",
+    "images": [
+        "https://telegra.ph/file/95855af443a863c0be828.jpg",
+        "https://telegra.ph/file/7f766474bda4faf05ef76.jpg",
+        "https://telegra.ph/file/e2602138507931fcaaa02.jpg",
+        "https://telegra.ph/file/735c1927d0829483bf75c.jpg",
+        "https://telegra.ph/file/25967a32352652f4aa29b.jpg",
+        "https://telegra.ph/file/0cdd7464910a76cded4ae.jpg",
+        "https://telegra.ph/file/20a0e5db6a6eb5fb2b4bb.jpg",
+        "https://telegra.ph/file/d3596b37f822160a5be05.jpg",
+        "https://telegra.ph/file/c32150dac9647ee13b653.jpg",
+        "https://telegra.ph/file/a348f6e3ff113a9db4cd2.jpg",
+        "https://telegra.ph/file/7229a6e0538b38c2ed6bc.jpg",
+        "https://telegra.ph/file/3c6c3cd23401e989e592a.jpg",
+        "https://telegra.ph/file/0691beed188f326873982.jpg",
+        "https://telegra.ph/file/87a38f69106e1ca9fca8d.jpg",
+        "https://telegra.ph/file/6f048bdbcba3c98f82793.jpg",
+        "https://telegra.ph/file/3dd843593d90ba50af08e.jpg",
+        "https://telegra.ph/file/18489e73b30fae58e5ecf.jpg",
+        "https://telegra.ph/file/d58c7234c5b671f6cc787.jpg",
+        "https://telegra.ph/file/314b11a62ac88c3fbd7bb.jpg",
+        "https://telegra.ph/file/e364620dd0d095695b722.jpg",
+        "https://telegra.ph/file/b46b0815476e4972283b1.jpg",
+        "https://telegra.ph/file/be24d4fa51b52b770e016.jpg",
+        "https://telegra.ph/file/1e9f3293d56dd6c158b9e.jpg",
+        "https://telegra.ph/file/642fd37cfec763d75e96f.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50301,
+    "title": "Minichu - Officer Kitagawa - Page 1",
+    "sourceUrl": "https://telegra.ph/Minichu---Officer-Kitagawa---Page-1-04-16",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvJn_zQHscDQHtzXF2V7h9AgJ-py1QACRxkAAmta-VfRJjsYeZlbhDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvNn_zQIREi8BMFFsk4yqAHnonyKgQACSBkAAmta-Vdo22s-33O1ZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvRn_zQK9lFu21g2Q1HT41YvUX3fQwACSRkAAmta-VdkuLOkE49cZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvVn_zQMfqnlC6GuFh2d8k4OifHooAACShkAAmta-Vf4Lxb-sgflRTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvZn_zQN8ExUoPP_wOpLjZ_LW_TD6QACSxkAAmta-VdeQ7gSi-RKRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvdn_zQOtXGv1Qfkj8zS7NUZ2L8z5gACTBkAAmta-VefzPO6o5qroTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvhn_zQQ3dbvA8izJ7bUmlnNfSeeIwACTRkAAmta-VdK5EtssXY3dDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvln_zQR19FrOstee4jnvyL1wJK4iQACThkAAmta-VceHmI5YK_lvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvpn_zQTuUD7UfHrGKwETTD2AX9oRQACTxkAAmta-VcpAgNAD79eYzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvtn_zQUbGn0nzLe8zJatG29QFuLxQACUBkAAmta-Vc3wXJ9opvy_TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDvxn_zQW93vdeWmerVv0g6dn_A3kNQACURkAAmta-VcAASNMViUBixc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDv1n_zQYwUfb2K3t7cQQqsL7DXe5wgACUhkAAmta-VcOaix6Fkz0-TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDv5n_zQbEYzXdEi7wIxdF0utelfILQACUxkAAmta-VdYEpBBpytMLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDv9n_zQcT7oAAUJpRoyViOtnxa0scSAAAlQZAAJrWvlXYJ3dalWFlxE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwABZ_80Hc0Ymw6-WHaxMHIP_gQbHVwAAlUZAAJrWvlXoIzUdURXytI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwFn_zQfVpfziyWNTJO1PRNi-CGZ9wACVhkAAmta-Vdpka7EY1RkhjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwJn_zQgW1A4sj0KAv3XB3hYolWwQwACVxkAAmta-Vcw0Cej3UXRPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwNn_zQiNgtwYMt4bOSWQM7dtGx-qAACWBkAAmta-VdhVq1v0D6kTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwRn_zQj2C8psDrWUsC0a2A2XdSPGwACWRkAAmta-VcQu7g1Eb0oxjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwVn_zQlc2XGQEaFGF10dC3ZqHnfDwACWhkAAmta-VfEyp1SqS3UATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwZn_zRkyZanyKMSf65Jgurbe9NTtwACWxkAAmta-VeSDyB11Xli2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwdn_zRm_577Qrbm7yjqual8M1MjbgACXBkAAmta-Vdwyoi0swKbmTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDwhn_zRnFIx-yZdyr1KMLUcLFGgF5wACXRkAAmta-VdqCYeKDXbsAjYE"
+    ]
+};

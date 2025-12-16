@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22515,
+    "title": "清水由乃 虎皮蛋糕24P",
+    "sourceUrl": "https://telegra.ph/%E6%B8%85%E6%B0%B4%E7%94%B1%E4%B9%83-%E8%99%8E%E7%9A%AE%E8%9B%8B%E7%B3%9524P-12-03",
+    "images": [
+        "https://image.acg.lol/file/2025/12/03/IMG_3758.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3759.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3760.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3761.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3762.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3763.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3764.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3765.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3766.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3767.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3769.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3770.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3771.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3772.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3773.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3774.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3775.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3776.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3777.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3778.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3779.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3780.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3781.jpg",
+        "https://image.acg.lol/file/2025/12/03/IMG_3782.jpg"
+    ]
+};

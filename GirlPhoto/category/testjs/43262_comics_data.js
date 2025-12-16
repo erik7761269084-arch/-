@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43262,
+    "title": "金鱼kinngyo（花音栗子） - 夏日の时光【23P 110M】",
+    "sourceUrl": "https://telegra.ph/%E9%87%91%E9%B1%BCkinngyo%E8%8A%B1%E9%9F%B3%E6%A0%97%E5%AD%90---%E5%A4%8F%E6%97%A5%E3%81%AE%E6%97%B6%E5%85%8923P-110M-09-22",
+    "images": [
+        "https://telegra.ph/file/6521677122993d52fde99.jpg",
+        "https://telegra.ph/file/987ce6be17375637256ff.jpg",
+        "https://telegra.ph/file/ad335ddb3c2e423f73190.jpg",
+        "https://telegra.ph/file/fa90222fbc9d2b90a81b6.jpg",
+        "https://telegra.ph/file/c016a5b63817538407188.jpg",
+        "https://telegra.ph/file/1c601d3ca22ab33a51b2e.jpg",
+        "https://telegra.ph/file/183552e23eb34cf110b69.jpg",
+        "https://telegra.ph/file/d0d0bce64bd9e97572727.jpg",
+        "https://telegra.ph/file/ca2c6648e04b1e166f1ae.jpg",
+        "https://telegra.ph/file/1909d4660259e5abad593.jpg",
+        "https://telegra.ph/file/b3d8262e56a082e2ccb58.jpg",
+        "https://telegra.ph/file/e091a478e37c44d14284e.jpg",
+        "https://telegra.ph/file/32fd5115802f3797df965.jpg",
+        "https://telegra.ph/file/006b809d24d6ac4edb3f1.jpg",
+        "https://telegra.ph/file/ed7260d0d919ddeb30ace.jpg",
+        "https://telegra.ph/file/a8652f681be430b086125.jpg",
+        "https://telegra.ph/file/77d7ae4ad7248569122e2.jpg",
+        "https://telegra.ph/file/db83280cad40a77743c61.jpg",
+        "https://telegra.ph/file/4ee1ab6647c69733db879.jpg",
+        "https://telegra.ph/file/d060d8d8091fda65ada24.jpg",
+        "https://telegra.ph/file/0bd1647bdfe9d6a0eebf3.jpg",
+        "https://telegra.ph/file/b1bf4cc59a43c72dd0e2e.jpg",
+        "https://telegra.ph/file/75cb04ada71ffe9354d50.jpg"
+    ]
+};

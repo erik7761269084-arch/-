@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44759,
+    "title": "猫と爪呸罗呸罗-HK416（猫爪呸罗呸罗）",
+    "sourceUrl": "https://telegra.ph/猫と爪呸罗呸罗-HK416猫爪呸罗呸罗-02-09",
+    "images": [
+        "https://telegra.ph/file/3b647dd343a15ced80113.jpg",
+        "https://telegra.ph/file/b876d86d4a55d1016f5d2.jpg",
+        "https://telegra.ph/file/9a0d74fa5910274e4f7a8.jpg",
+        "https://telegra.ph/file/b14bb7878272c524cf888.jpg",
+        "https://telegra.ph/file/b03b2bf073aec8759bef8.jpg",
+        "https://telegra.ph/file/6482fe37f8119245fcca1.jpg",
+        "https://telegra.ph/file/62ef968d700829cc747c9.jpg",
+        "https://telegra.ph/file/b36855245e162cecf4e09.jpg",
+        "https://telegra.ph/file/2d49bde29585654d7c5e5.jpg",
+        "https://telegra.ph/file/d0295b856372ba03783fc.jpg",
+        "https://telegra.ph/file/0f46ad5294988b2cece8a.jpg",
+        "https://telegra.ph/file/c7ace803aa524efb7f5b4.jpg",
+        "https://telegra.ph/file/15cd03a750162d23bd1c1.jpg",
+        "https://telegra.ph/file/157c8410e1fca3b7183cf.jpg",
+        "https://telegra.ph/file/89105b3e0cd324e4300a2.jpg",
+        "https://telegra.ph/file/4d10ae0f4438f376b8823.jpg",
+        "https://telegra.ph/file/b027dc6272d4598193dae.jpg",
+        "https://telegra.ph/file/3af2e7086129b6932c9eb.jpg",
+        "https://telegra.ph/file/e2d38cba3373d92e4f1ac.jpg",
+        "https://telegra.ph/file/6f1ab0df2234edca06112.jpg",
+        "https://telegra.ph/file/52a7940be144448785594.jpg",
+        "https://telegra.ph/file/f3967e35e78ec7b38e274.jpg",
+        "https://telegra.ph/file/2686b7756d0dc54af0ce2.jpg"
+    ]
+};

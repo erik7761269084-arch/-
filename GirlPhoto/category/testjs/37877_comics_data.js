@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37877,
+    "title": "Miu - Kurumi/Neko (Date A Live)",
+    "sourceUrl": "https://telegra.ph/Miu---KurumiNeko-Date-A-Live-06-17",
+    "images": [
+        "https://telegra.ph/file/8862f2a4df1b2f4b00318.jpg",
+        "https://telegra.ph/file/0f55eb4dde21e99f2c99a.jpg",
+        "https://telegra.ph/file/73708a775c14af2261240.jpg",
+        "https://telegra.ph/file/0dd032c40d5ea8a067919.jpg",
+        "https://telegra.ph/file/6df4cd975d92c66bb4869.jpg",
+        "https://telegra.ph/file/1aeb3d1cf3222b6538ab2.jpg",
+        "https://telegra.ph/file/ec49de33b954636997f71.jpg",
+        "https://telegra.ph/file/f4854d3cc5fd75181c506.jpg",
+        "https://telegra.ph/file/85d5c7639dafa25eb1a08.jpg",
+        "https://telegra.ph/file/84ae56b0308eadfd7c771.jpg",
+        "https://telegra.ph/file/4fa11683f9dbc0979b4b8.jpg",
+        "https://telegra.ph/file/92fda263651b98d335b87.jpg",
+        "https://telegra.ph/file/860365d0b9b7e8ac08d34.jpg",
+        "https://telegra.ph/file/8a57f2eed97b9281514b2.jpg",
+        "https://telegra.ph/file/06b3167ec0474249c3c21.jpg",
+        "https://telegra.ph/file/e741b7c8b32a92368d15e.jpg",
+        "https://telegra.ph/file/87afe47eb1adf75ce6545.jpg",
+        "https://telegra.ph/file/ab3215742fefb7f64449c.jpg",
+        "https://telegra.ph/file/8e1b6cd356eb13a687170.jpg",
+        "https://telegra.ph/file/b6f136b1a77cdef72542f.jpg",
+        "https://telegra.ph/file/087d3fe611e88aeeef891.jpg",
+        "https://telegra.ph/file/f31cc7b8ff0273c3ab81e.jpg",
+        "https://telegra.ph/file/15f8bacaa03a4dfff1ed0.jpg"
+    ]
+};

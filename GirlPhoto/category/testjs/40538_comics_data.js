@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40538,
+    "title": "Choi Ji Yun - Chun Li (Street Fighter)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Chun-Li-Street-Fighter-07-26",
+    "images": [
+        "https://telegra.ph/file/fd45cef9f0cb2ea3cff6c.jpg",
+        "https://telegra.ph/file/c7b7502e61fe53defd518.jpg",
+        "https://telegra.ph/file/01a46836eb90637167ab3.jpg",
+        "https://telegra.ph/file/1c800f10624122001bedc.jpg",
+        "https://telegra.ph/file/429d437da7685e1251a8c.jpg",
+        "https://telegra.ph/file/bba88103d733b8645c559.jpg",
+        "https://telegra.ph/file/e4d2b7bbc725451fbbf80.jpg",
+        "https://telegra.ph/file/c7518742a89b11734d479.jpg",
+        "https://telegra.ph/file/f116f9b7e7548cb5ec6f0.jpg",
+        "https://telegra.ph/file/49cca94e9cccf00820271.jpg",
+        "https://telegra.ph/file/a5f7607dac3d56a54fb2f.jpg",
+        "https://telegra.ph/file/9669a16df75575dcf3d39.jpg",
+        "https://telegra.ph/file/972374c183e67aa4f4919.jpg",
+        "https://telegra.ph/file/45a79e6ea971369fb23ac.jpg",
+        "https://telegra.ph/file/87bb52a6c2fc22cac9bcc.jpg",
+        "https://telegra.ph/file/608907aa00a8165ef9c9f.jpg",
+        "https://telegra.ph/file/1c83bad40ec9297bb1291.jpg",
+        "https://telegra.ph/file/75fc8d963b6da9f041be7.jpg",
+        "https://telegra.ph/file/4cc342c0a3b15ab8e9495.jpg",
+        "https://telegra.ph/file/0c7616712c5a4b53a96e1.jpg",
+        "https://telegra.ph/file/003f82f8b3ea14236bc3b.jpg",
+        "https://telegra.ph/file/d1d9f44398685ab65b417.jpg",
+        "https://telegra.ph/file/fe6bf157faf5e84e42b80.jpg",
+        "https://telegra.ph/file/84ab305aa38790a816d6b.jpg",
+        "https://telegra.ph/file/e143e8d8b8a19f341fd89.jpg",
+        "https://telegra.ph/file/4da076837a85654a16979.jpg"
+    ]
+};

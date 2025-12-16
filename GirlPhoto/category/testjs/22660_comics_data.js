@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22660,
+    "title": "宮本桜(宫本樱) 005 - 奥古斯特",
+    "sourceUrl": "https://telegra.ph/%E5%AE%AE%E6%9C%AC%E6%A1%9C%E5%AE%AB%E6%9C%AC%E6%A8%B1-005---%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9-12-03",
+    "images": [
+        "https://telegra.ph/file/5caf1625b06bce14d7d3a.jpg",
+        "https://telegra.ph/file/16cbea870a44260be4810.jpg",
+        "https://telegra.ph/file/498e3906eb11c26dd5f89.jpg",
+        "https://telegra.ph/file/e09fa8cd53682c2e61af3.jpg",
+        "https://telegra.ph/file/19549b21fe8c947d79b2d.jpg",
+        "https://telegra.ph/file/6cd7efbfc78dee5b37952.jpg",
+        "https://telegra.ph/file/75707c0466818de118d57.jpg",
+        "https://telegra.ph/file/7a0bf7952a4eb7fba5465.jpg",
+        "https://telegra.ph/file/bca3939380127961e5213.jpg",
+        "https://telegra.ph/file/5b8a23c6b22cbfd2275c3.jpg",
+        "https://telegra.ph/file/c8e52e3071986d151e8d7.jpg",
+        "https://telegra.ph/file/c32b5bc2115992b027f2d.jpg",
+        "https://telegra.ph/file/20166c5e2c9ea60a2a110.jpg",
+        "https://telegra.ph/file/bcb8b9ae8027001785f53.jpg",
+        "https://telegra.ph/file/9c787f7973a4c6998e607.jpg",
+        "https://telegra.ph/file/5b674cbc2b6016ba3b76d.jpg",
+        "https://telegra.ph/file/f6e4069c7775c82c48538.jpg",
+        "https://telegra.ph/file/099a2b809f6c71345f5ca.jpg",
+        "https://telegra.ph/file/b8828166aa2f810c101a0.jpg",
+        "https://telegra.ph/file/5d74b92840ca129e15c2b.jpg",
+        "https://telegra.ph/file/fbc03b5c73be06f6fcd6d.jpg",
+        "https://telegra.ph/file/e3487b5d2f4dccb805139.jpg",
+        "https://telegra.ph/file/bc1a862369ee7b75ec681.jpg",
+        "https://telegra.ph/file/6fa2831ad80955fbc205c.jpg",
+        "https://telegra.ph/file/2e91793658500b31846d4.jpg"
+    ]
+};

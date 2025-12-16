@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49494,
+    "title": "Fantasy Factory小丁- 忱畄畄 - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory小丁--忱畄畄---Page-1-01-27",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZe5nlwV8pUByFxlbHvfnA2PjD5qymwACQRkAAilOuFT8OuZx32KlwTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfBnlwV9AAHEqMF36cW8EIryCVMNUi8AAkMZAAIpTrhUvGVyAAHkUmVANgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfJnlwV_qvH4ZICmlTJaV2yX6J8YjQACRRkAAilOuFSCI2mksOQMqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfRnlwWD8DlDTrhryp2fOJl2oEyIfgACRxkAAilOuFRXiEANEn7mkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfZnlwWF9bD9a3ETIMr0NN3ewjmtOQACSRkAAilOuFTN8p_XELiCjDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfdnlwWH9gfBNRfZ_PSvMcLS3NMtQwACShkAAilOuFQNeuhE77Va-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZflnlwWKaZKWZeVqgO0VOc7pUhLvlAACTBkAAilOuFS644o0JtpizDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfpnlwWMM1FpVGgd3PDKTCoK3KzieQACTRkAAilOuFTfuipink2khzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZfxnlwWO_AABEZ9XNzdKI2wOzBmMinsAAk8ZAAIpTrhUh6zTxtoCx3U2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZf5nlwWRkbz_fbacTPT80I-7RLl1_wACURkAAilOuFQsyfDziTmDfTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZgABZ5cFk1_Zexv9uce5V-GZbKkBeCYAAlMZAAIpTrhUG0yURU0inww2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZgJnlwXUrY2-6OYNFJc5Gq1hltet8AACVRkAAilOuFRTAAHJrxNQSNs2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZgRnlwXWEKoKbZC_IY66GEadJhph3AACVxkAAilOuFTm5J0k810sKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZgZnlwXY8JfayAJm7phZWLKC_s4rMAACWRkAAilOuFT12lPQWUdEETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZghnlwXd-XzAxCtWoDVBvz8Eo9PCNQACWxkAAilOuFQqX9DtEj5ifjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZglnlwXhbYK5Acd4uMzCU_par16t4QACXBkAAilOuFTmjtw4mdMjHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZgtnlwXieikqjM9I2Hcl758ITuLfkQACXhkAAilOuFQHAwrCnfPuQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZg1nlwXkoEXNkqVaHCZOAj1O0fCW2QACYBkAAilOuFQpMYE6BYFlIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZg5nlwXmYOYhiq1QXMkbpws-KbsxagACYRkAAilOuFSkOi7ED0lXvDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZg9nlwXn0iibr77Hw4-iXCkubofCtQACYhkAAilOuFR503ZWLq1neTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZhBnlwXpIEqKFyysTf-HAAH8ka3mwGoAAmMZAAIpTrhUAAEBMuKKvNGHNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZhJnlwXrcBMB1qAVfn_S3qXGdThxPQACZRkAAilOuFTHJXeQ5upJpDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZhRnlwXtpN1I3FLwZz8ZhpdEKwbonQACZxkAAilOuFRcWQeOX_H1mTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZhZnlwYvOIdK0nuCcISAarwUFU0tTwACaRkAAilOuFQQcQVEu796izYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEZhdnlwYxD9hcTyAMibP9eiyXmzMb0wACahkAAilOuFRAr-QrOre86TYE"
+    ]
+};

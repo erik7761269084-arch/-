@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33420,
+    "title": "Cosplay 翎柒菜菜 10万粉福利",
+    "sourceUrl": "https://telegra.ph/Cosplay-翎柒菜菜-10万粉福利-03-03",
+    "images": [
+        "https://telegra.ph/file/5eac4a15a3acef23c2f7e.jpg",
+        "https://telegra.ph/file/eae6d01921a283a0d0bd7.jpg",
+        "https://telegra.ph/file/26ae54b337870abe5f118.jpg",
+        "https://telegra.ph/file/a7dd42980f2b1aa8cd3d4.jpg",
+        "https://telegra.ph/file/b9c9c217cd9a2b00d5844.jpg",
+        "https://telegra.ph/file/e1277514abf050e70d0d5.jpg",
+        "https://telegra.ph/file/36f8be200d57d04153393.jpg",
+        "https://telegra.ph/file/77080785c3c654d596a7a.jpg",
+        "https://telegra.ph/file/8401c46856063aae64adf.jpg",
+        "https://telegra.ph/file/622b2b3278ffe096d5001.jpg",
+        "https://telegra.ph/file/0bc6f7a16c33f83ea4b5f.jpg",
+        "https://telegra.ph/file/ecc9b6db5e26d49403e03.jpg",
+        "https://telegra.ph/file/5c59cc4afc359510200e3.jpg",
+        "https://telegra.ph/file/9d6be03dea040503b302a.jpg",
+        "https://telegra.ph/file/6116a8f6b58a75ee3a91d.jpg",
+        "https://telegra.ph/file/41df11d663547d05a4f06.jpg",
+        "https://telegra.ph/file/672129fa12a584781175a.jpg",
+        "https://telegra.ph/file/ac1051def714ec02c82a8.jpg",
+        "https://telegra.ph/file/4f08c74eb087ae46f8e12.jpg",
+        "https://telegra.ph/file/923937f9f0ab3b563aab1.jpg",
+        "https://telegra.ph/file/dbccc0be48dd674d7b312.jpg",
+        "https://telegra.ph/file/2545ba064976451326d7b.jpg",
+        "https://telegra.ph/file/e80e227fc595c2533db92.jpg",
+        "https://telegra.ph/file/02a09729cb73257f1071b.jpg",
+        "https://telegra.ph/file/a0ec554ce1aa518547d05.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

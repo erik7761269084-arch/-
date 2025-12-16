@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41378,
+    "title": "Sweetie Fox - Elastigirl (The Incredibles)",
+    "sourceUrl": "https://telegra.ph/Sweetie-Fox---Elastigirl-The-Incredibles-04-16",
+    "images": [
+        "https://telegra.ph/file/430aa1d23a42166520258.jpg",
+        "https://telegra.ph/file/e4ea8b451a1c2768e86a0.jpg",
+        "https://telegra.ph/file/4fdfae53461b3182cb039.jpg",
+        "https://telegra.ph/file/724a4fbbb68c2a79d0cad.jpg",
+        "https://telegra.ph/file/c60847761da0bd2f680b0.jpg",
+        "https://telegra.ph/file/50adadf047b0c296c7689.jpg",
+        "https://telegra.ph/file/b784e0ae92ba1e0922839.jpg",
+        "https://telegra.ph/file/1f7175dcf22d8588483fe.jpg",
+        "https://telegra.ph/file/6e82a9cc741ba23faaf0d.jpg",
+        "https://telegra.ph/file/afb1072357778082976ff.jpg",
+        "https://telegra.ph/file/2b2fcb35dafb546b962aa.jpg",
+        "https://telegra.ph/file/f827dcac2e6002520054d.jpg",
+        "https://telegra.ph/file/ebd8a91f4abe852c321cb.jpg",
+        "https://telegra.ph/file/674d3cdead4bf45dfb9ef.jpg",
+        "https://telegra.ph/file/53cfb0a9ec88b7d01177c.jpg",
+        "https://telegra.ph/file/a5cefe5b27b45fc511006.jpg",
+        "https://telegra.ph/file/584e5e64f47fb7f619ce8.jpg",
+        "https://telegra.ph/file/f94902fb6e7f04ba4df03.jpg",
+        "https://telegra.ph/file/6809e81feb1894fa43970.jpg",
+        "https://telegra.ph/file/09dfc93cda166561b17c3.jpg",
+        "https://telegra.ph/file/7ce2d9a826f5699fb6d58.jpg",
+        "https://telegra.ph/file/cc7dc1289b22971b8d684.jpg",
+        "https://telegra.ph/file/806850c0ca62b7b8b5170.jpg",
+        "https://telegra.ph/file/792316ec582463e12f74e.jpg"
+    ]
+};

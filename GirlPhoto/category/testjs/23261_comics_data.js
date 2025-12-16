@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23261,
+    "title": "萌芽儿 麻衣兔 [24P-272MB]",
+    "sourceUrl": "https://telegra.ph/%E8%90%8C%E8%8A%BD%E5%84%BF-%E9%BA%BB%E8%A1%A3%E5%85%94-24P-272MB-02-07",
+    "images": [
+        "https://telegra.ph/file/ae40ace94fe439f1a5491.jpg",
+        "https://telegra.ph/file/d5b7443c3bef667876694.jpg",
+        "https://telegra.ph/file/1485752126f2314ba7f89.jpg",
+        "https://telegra.ph/file/8618fc507c6db9b01bfe6.jpg",
+        "https://telegra.ph/file/bdd87063cec5341fdb581.jpg",
+        "https://telegra.ph/file/13a0810db4b2d4b50a4ad.jpg",
+        "https://telegra.ph/file/0aba45c49f352c755e2e0.jpg",
+        "https://telegra.ph/file/0e9126d355a8604063de3.jpg",
+        "https://telegra.ph/file/992491cb4c1cd78e12630.jpg",
+        "https://telegra.ph/file/973a1dcb84ba116cb9f6a.jpg",
+        "https://telegra.ph/file/4cd6c229e4f859522c01a.jpg",
+        "https://telegra.ph/file/9841cb5968aa7fabbb96e.jpg",
+        "https://telegra.ph/file/75bd4cdec29f58ca73064.jpg",
+        "https://telegra.ph/file/15851b9173397a5b10289.jpg",
+        "https://telegra.ph/file/fdb697c7c354bd1c00382.jpg",
+        "https://telegra.ph/file/c2a3985d595e711e2f180.jpg",
+        "https://telegra.ph/file/3d29eafcec1e1ebecf8b1.jpg",
+        "https://telegra.ph/file/19775c1765d11f1f9ee64.jpg",
+        "https://telegra.ph/file/86897d6949e2d7f10c4cf.jpg",
+        "https://telegra.ph/file/dc9b346a0b032f8703738.jpg",
+        "https://telegra.ph/file/5cd158a683590fc46d1c7.jpg",
+        "https://telegra.ph/file/2615dc28223036015dc05.jpg",
+        "https://telegra.ph/file/11486a806b4f881c22cf2.jpg",
+        "https://telegra.ph/file/e99e11373aef4c70de248.jpg"
+    ]
+};

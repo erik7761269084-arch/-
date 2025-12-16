@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43165,
+    "title": "[你的负卿] 阿斯托爾福 女僕裝",
+    "sourceUrl": "https://telegra.ph/%E4%BD%A0%E7%9A%84%E8%B4%9F%E5%8D%BF-%E9%98%BF%E6%96%AF%E6%89%98%E7%88%BE%E7%A6%8F-%E5%A5%B3%E5%83%95%E8%A3%9D-08-16",
+    "images": [
+        "https://telegra.ph/file/541ecc508a656a719169c.jpg",
+        "https://telegra.ph/file/23f46f49d45fd4b87de15.jpg",
+        "https://telegra.ph/file/b359573f819d6dc51364f.jpg",
+        "https://telegra.ph/file/bfcdaa00d9d95a0ca411d.jpg",
+        "https://telegra.ph/file/fb48ee52608b5868811d8.jpg",
+        "https://telegra.ph/file/be8930ac5f1165e696b5e.jpg",
+        "https://telegra.ph/file/5f983004b2beae23a642b.jpg",
+        "https://telegra.ph/file/2916bfa6e0adbaca03dc7.jpg",
+        "https://telegra.ph/file/4def19068482725d17a39.jpg",
+        "https://telegra.ph/file/461e7207bdb243fdd942a.jpg",
+        "https://telegra.ph/file/7948ed0d981fc9a32e6ab.jpg",
+        "https://telegra.ph/file/a1d0b527512902ce1907a.jpg",
+        "https://telegra.ph/file/c16f66175d3de691b2ac3.jpg",
+        "https://telegra.ph/file/561c7e11a59c7fb8bfc25.jpg",
+        "https://telegra.ph/file/4ce4ae7d1cde8520535a4.jpg",
+        "https://telegra.ph/file/1cac5a119cf0e409bbc55.jpg",
+        "https://telegra.ph/file/c8f2da773377c515cc67b.jpg",
+        "https://telegra.ph/file/2167aa616fc49734eb888.jpg",
+        "https://telegra.ph/file/74c5a22568c8c1d89fcf4.jpg",
+        "https://telegra.ph/file/4ad5ada95ab97dbb6e871.jpg",
+        "https://telegra.ph/file/43397847711eb0fda7e6d.jpg",
+        "https://telegra.ph/file/3ea45ee99caae0d08933e.jpg",
+        "https://telegra.ph/file/8a03078d24766a25beacc.jpg",
+        "https://telegra.ph/file/8dd7f89a2a751f9466470.jpg",
+        "https://telegra.ph/file/92d32d7a04a4f40f1c29c.jpg",
+        "https://telegra.ph/file/03bdbed6ebee843616b49.jpg"
+    ]
+};

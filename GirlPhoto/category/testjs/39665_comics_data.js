@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39665,
+    "title": "KuukoW - Ring Flt",
+    "sourceUrl": "https://telegra.ph/KuukoW---Ring-Flt-09-13",
+    "images": [
+        "https://telegra.ph/file/fa50371f544f3a96c557e.jpg",
+        "https://telegra.ph/file/874937b608a2a26be423d.jpg",
+        "https://telegra.ph/file/8233ea09964d7dac11398.jpg",
+        "https://telegra.ph/file/95a24a9ed59f69bad520f.jpg",
+        "https://telegra.ph/file/cd3ee3657e68aad6db991.jpg",
+        "https://telegra.ph/file/e4ed9fd19a11097fe61da.jpg",
+        "https://telegra.ph/file/fee83b41218d1678c0c94.jpg",
+        "https://telegra.ph/file/5538bd76364dc81200494.jpg",
+        "https://telegra.ph/file/19de87ae25b7ee01f84d6.jpg",
+        "https://telegra.ph/file/a35fa916ff7fbd0020216.jpg",
+        "https://telegra.ph/file/1141b00cea59348ad96e5.jpg",
+        "https://telegra.ph/file/6e3d53c60e561293140e5.jpg",
+        "https://telegra.ph/file/fafb27d5a5da32c6f8a52.jpg",
+        "https://telegra.ph/file/63df9ae5b42ba46841a03.jpg",
+        "https://telegra.ph/file/7327d9394a2c138c2fb34.jpg",
+        "https://telegra.ph/file/e39625b0ce18e4f40ff94.jpg",
+        "https://telegra.ph/file/3fc7cd43d246d6b520ef9.jpg",
+        "https://telegra.ph/file/985ec2c0583321ba3a5c6.jpg",
+        "https://telegra.ph/file/e78eb7134eca154d314ed.jpg",
+        "https://telegra.ph/file/a48ced1d5fa6ed1d19ea4.jpg",
+        "https://telegra.ph/file/4fbf897983f5cf6ec7a03.jpg",
+        "https://telegra.ph/file/9c20084a665ed97e1cd6a.jpg",
+        "https://telegra.ph/file/10b8d3e7c16313697e953.jpg",
+        "https://telegra.ph/file/1f25f8a02203f2f7b32be.jpg"
+    ]
+};

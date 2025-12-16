@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22938,
+    "title": "Natsuko夏夏子 - NO.002 碧蓝航线 大凤誓约 [24P-195MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO002-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E5%A4%A7%E5%87%A4%E8%AA%93%E7%BA%A6-24P-195MB-12-29",
+    "images": [
+        "https://telegra.ph/file/c710587f36501071f1e92.jpg",
+        "https://telegra.ph/file/fa4e7e3ad70cb69d5231c.jpg",
+        "https://telegra.ph/file/b34bdcbd1055d3989fb78.jpg",
+        "https://telegra.ph/file/1a53b5de130d3cdd6bf2a.jpg",
+        "https://telegra.ph/file/0957e9a5d44d5500ce2ce.jpg",
+        "https://telegra.ph/file/7afbca14e99fe3fd5af7c.jpg",
+        "https://telegra.ph/file/ae87aa4d17b5a27bc935e.jpg",
+        "https://telegra.ph/file/ed93322db0b2c70d2eafb.jpg",
+        "https://telegra.ph/file/1da20bba90603c5f72c19.jpg",
+        "https://telegra.ph/file/6590acec632b4ddc01ab2.jpg",
+        "https://telegra.ph/file/cb3159a63ee52052a2946.jpg",
+        "https://telegra.ph/file/a70d5630ff394ffcbd220.jpg",
+        "https://telegra.ph/file/127ef3ce92f820308a8f7.jpg",
+        "https://telegra.ph/file/b891051bf55883795b0f2.jpg",
+        "https://telegra.ph/file/8c6be2059feb98898d7ca.jpg",
+        "https://telegra.ph/file/d4e1aed44b1c9dcc94174.jpg",
+        "https://telegra.ph/file/ea17df3abf11dedc24341.jpg",
+        "https://telegra.ph/file/07e2ecf372046b681ef32.jpg",
+        "https://telegra.ph/file/c976c0b0fc98d1b1c8683.jpg",
+        "https://telegra.ph/file/0ca256517a38bca75b861.jpg",
+        "https://telegra.ph/file/ec7168a9f76c43ef276bc.jpg",
+        "https://telegra.ph/file/59107da1ce7188b7e9b9e.jpg",
+        "https://telegra.ph/file/758b4720598d61630de33.jpg",
+        "https://telegra.ph/file/a5ab00834e159f3bf25bd.jpg"
+    ]
+};

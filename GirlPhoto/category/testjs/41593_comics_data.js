@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41593,
+    "title": "Queenie - Magia Baiser / Utena (Mahou Shoujo ni Akogarete)",
+    "sourceUrl": "https://telegra.ph/Queenie---Magia-Baiser--Utena-Mahou-Shoujo-ni-Akogarete-06-14",
+    "images": [
+        "https://telegra.ph/file/a2f1d968319141bf248f7.jpg",
+        "https://telegra.ph/file/44df7368157f0fedacccd.jpg",
+        "https://telegra.ph/file/e4d8f4ca952ff97c45c17.jpg",
+        "https://telegra.ph/file/44bb4ebc90a0a89e39314.jpg",
+        "https://telegra.ph/file/47e05eac498bba4225342.jpg",
+        "https://telegra.ph/file/bf15ce59fe047ee6e82a7.jpg",
+        "https://telegra.ph/file/4068b21c2d9b3e235d6b7.jpg",
+        "https://telegra.ph/file/e826c6700eacb5a433608.jpg",
+        "https://telegra.ph/file/3f33be0973254891a3e56.jpg",
+        "https://telegra.ph/file/40e2ece239b50f6d5074e.jpg",
+        "https://telegra.ph/file/b37537b0fd81414f96ae7.jpg",
+        "https://telegra.ph/file/30351243652020c2f2684.jpg",
+        "https://telegra.ph/file/93dab01620e4868d399ee.jpg",
+        "https://telegra.ph/file/426df4cd20ef94edf2cf7.jpg",
+        "https://telegra.ph/file/a523cc08ead4027b43062.jpg",
+        "https://telegra.ph/file/9a225931d8a0c79849ef0.jpg",
+        "https://telegra.ph/file/0eff38add1ca283493daf.jpg",
+        "https://telegra.ph/file/f91062647e361ff7c3a62.jpg",
+        "https://telegra.ph/file/54c282d87f3960a6693a9.jpg",
+        "https://telegra.ph/file/91380241059cbff5ee633.jpg",
+        "https://telegra.ph/file/865b251b4dec8a95ee3cf.jpg",
+        "https://telegra.ph/file/bc9678b3059e4c136baa1.jpg",
+        "https://telegra.ph/file/fadde84100cffb8d4290b.jpg",
+        "https://telegra.ph/file/28f86532e964d7db0ddf3.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22944,
+    "title": "Natsuko夏夏子 - NO.010 喜多川海梦小恶魔[25P-188MB]",
+    "sourceUrl": "https://telegra.ph/Natsuko%E5%A4%8F%E5%A4%8F%E5%AD%90---NO010-%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%B5%B7%E6%A2%A6%E5%B0%8F%E6%81%B6%E9%AD%9425P-188MB-12-29",
+    "images": [
+        "https://telegra.ph/file/53a9abe48762d57f9a35a.jpg",
+        "https://telegra.ph/file/912b8ed5926b9259724c6.jpg",
+        "https://telegra.ph/file/7d87a374d4c58f21309a0.jpg",
+        "https://telegra.ph/file/1b8ee644311a4c0d2a472.jpg",
+        "https://telegra.ph/file/b225c362ee8240a13a61c.jpg",
+        "https://telegra.ph/file/90efc15855eb0bbaaba83.jpg",
+        "https://telegra.ph/file/ad6ce2bde60b703714174.jpg",
+        "https://telegra.ph/file/f5a11e9dbc6549e365449.jpg",
+        "https://telegra.ph/file/e3f8900032d867ea3fffa.jpg",
+        "https://telegra.ph/file/327ad8553c5beca6c2fdc.jpg",
+        "https://telegra.ph/file/704f4695d39bd89ffc515.jpg",
+        "https://telegra.ph/file/8ecec4f5684a43752f158.jpg",
+        "https://telegra.ph/file/a730d71fdf71221458aa7.jpg",
+        "https://telegra.ph/file/a1b98c0183ccd445afae0.jpg",
+        "https://telegra.ph/file/7132477e2e8da9894386c.jpg",
+        "https://telegra.ph/file/496959c87261467435a16.jpg",
+        "https://telegra.ph/file/e67c9d49f2b56ca9d6dee.jpg",
+        "https://telegra.ph/file/eccfdb79ab8d2be2d6d00.jpg",
+        "https://telegra.ph/file/36689d43d0772f820e1b9.jpg",
+        "https://telegra.ph/file/b3a46dd90bd5a95f7f584.jpg",
+        "https://telegra.ph/file/87f230d34bcee6c1e09cf.jpg",
+        "https://telegra.ph/file/73e57deb5746d49b3e968.jpg",
+        "https://telegra.ph/file/31549828e7449ae0bd643.jpg",
+        "https://telegra.ph/file/cfb60093729e8f16d8c22.jpg",
+        "https://telegra.ph/file/82e2475ef8b1304b4b235.jpg"
+    ]
+};

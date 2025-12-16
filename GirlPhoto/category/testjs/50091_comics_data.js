@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50091,
+    "title": "Sally Dorasnow - Clay - Page 1",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Clay---Page-1-03-11",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1Znz49VoPXXReTeEEkkE7xTaubn7wAC6hMAAsPUgFaCiIhRwyoIzDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1dnz49YjlsDI2nu0YTdYM9ZVonqsQAC6xMAAsPUgFZRkqR_HaFqKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1hnz49ZC8kGk9uTjLxhLFscTz9u9QAC7BMAAsPUgFYEJmiBaHOEyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1lnz49b7KwF_UAjfBan_WRxDDltewAC7RMAAsPUgFa102v4w1DfOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1pnz49c5wg3qDm99u3Fwq6P-QWBvgAC7hMAAsPUgFYV6sl6y3zeqzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1tnz49dc5ulUqfu2BabiiVy9m0HeAAC7xMAAsPUgFbjLuGsNc8t_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj1xnz49fasPJ7e88ImcLOQgNmk6c_gAC8BMAAsPUgFY9F4QalmLMrDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj11nz49greMlptQ7tX6inpoyvtg_BgAC8RMAAsPUgFbTDXTugezUBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj15nz49hhximFwS6042PIfCvEYFwRAAC8hMAAsPUgFaHst52Yf83_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj19nz49jZrIK_lW75cq_gpN9jENeowAC8xMAAsPUgFbfFmSIwDNiQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Bnz49lsEyZQY5w67Fh93A-srWvQgAC9BMAAsPUgFbYsC2QiKs3IzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Fnz49mtggwMz9HC3LknWRHuDVM-wAC9RMAAsPUgFZuiugvDM2CEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Jnz49nfG0HhccGb8YQ-cogByVaOwAC9hMAAsPUgFYpeW1BOBLoJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Nnz49otzj4VR6TysVIMA3FgOrqKQAC9xMAAsPUgFaPw0gsk3Y-lDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Rnz4-oztDpvIeJwND_B4v5dFDSewAC-BMAAsPUgFaqOT9e65gyBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Vnz4-qiU3ZPj-pvxWYTTMg6MV1tgAC-RMAAsPUgFYsPQioNH2EgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2Znz4-rhbfO3Lgo_14ZW1HW4pjEmgAC-hMAAsPUgFafHFetCPIVkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2dnz4-te87CfmXqEWki7Z9mxa6roAAC-xMAAsPUgFb7y6p3MamsTTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2hnz4-uOL7sc0P5C-OguB5SSai5ywAC_BMAAsPUgFbnsHi_QoX_nTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2lnz4-vGSajfdSdQ7FUCuPhvAQY9QAC_RMAAsPUgFYIgkSWVvfmDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2pnz4-xWxXMGY_wQYt7M0jSVqp0zAAC_hMAAsPUgFaqowd86GVD1TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2tnz4-yloOv6KfIgXFztXTfky5VzgAC_xMAAsPUgFbEpYr5f0zMQzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHj2xnz4-0Xpdh5j-DVwp4UJ98DYM9sQADFAACw9SAVj6YPb1keTMpNgQ"
+    ]
+};

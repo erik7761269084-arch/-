@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 28836,
+    "title": "Hodori - Casual Night Selfie - 23P",
+    "sourceUrl": "https://telegra.ph/Hodori---Casual-Night-Selfie---23P-09-28",
+    "images": [
+        "https://telegra.ph/file/6e6ea84c83f057933299d.png",
+        "https://telegra.ph/file/5a82d1a4abc014ff09567.png",
+        "https://telegra.ph/file/63a5f3d141e2b751842fb.png",
+        "https://telegra.ph/file/37a6048fa54f4ea4ad7cd.png",
+        "https://telegra.ph/file/b1982b2f821a1b112e7fc.png",
+        "https://telegra.ph/file/453297bfe8333e4310b0d.png",
+        "https://telegra.ph/file/7d271428a97e2163ed52d.png",
+        "https://telegra.ph/file/630d10380a7539b960808.png",
+        "https://telegra.ph/file/8e35665aa3896aa6a6315.png",
+        "https://telegra.ph/file/c4acc86c2554532c77f95.png",
+        "https://telegra.ph/file/2b813cf3d2807031cf776.png",
+        "https://telegra.ph/file/dc813cd2eb10887be4c1a.png",
+        "https://telegra.ph/file/1e6e93ef844eb7a732e24.png",
+        "https://telegra.ph/file/6bcebe843b6d70731aa8f.png",
+        "https://telegra.ph/file/03ea7bdcdcf1515b271a7.png",
+        "https://telegra.ph/file/ad9786f07886c5555046f.png",
+        "https://telegra.ph/file/47acaa16cd24b2ea6aa85.png",
+        "https://telegra.ph/file/ed5495684ee0f9907e160.png",
+        "https://telegra.ph/file/5ece6ac0af8424046c100.png",
+        "https://telegra.ph/file/5224d102144e7dc8d4b79.png",
+        "https://telegra.ph/file/06cdf08febb097c25ecda.png",
+        "https://telegra.ph/file/b48aeedad36becc1a3776.png",
+        "https://telegra.ph/file/3cc9ca15b2996b26f7f9a.png"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43700,
+    "title": "NAGISA魔物喵 - きょうの外出着 [27P+3V／691MB]",
+    "sourceUrl": "https://telegra.ph/NAGISA%E9%AD%94%E7%89%A9%E5%96%B5---%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E5%A4%96%E5%87%BA%E7%9D%80-27P3V691MB-06-08",
+    "images": [
+        "https://telegra.ph/file/9c697cdccf7a956e87619.jpg",
+        "https://telegra.ph/file/c236e1e8ee92d115a59bb.jpg",
+        "https://telegra.ph/file/8ddc6331abcfd99f64409.jpg",
+        "https://telegra.ph/file/ad5e8df6719f11c462fc5.jpg",
+        "https://telegra.ph/file/7e6009e16bbd4087e3a11.jpg",
+        "https://telegra.ph/file/864ba7525925903ad7662.jpg",
+        "https://telegra.ph/file/4bd32e1ee3307def5c430.jpg",
+        "https://telegra.ph/file/fae987274d959a0b45d03.jpg",
+        "https://telegra.ph/file/ccfdbc5b77d70446598c3.jpg",
+        "https://telegra.ph/file/f484bed8b7e3bcf9c9bb1.jpg",
+        "https://telegra.ph/file/e7343843971597da341af.jpg",
+        "https://telegra.ph/file/5e263b430247ae97d1f50.jpg",
+        "https://telegra.ph/file/273b2f3e6a1c65565577a.jpg",
+        "https://telegra.ph/file/101026c69ef5ffc1100d4.jpg",
+        "https://telegra.ph/file/02511d1de1187ecf28df1.jpg",
+        "https://telegra.ph/file/7f4854c0ddafca436fe4b.jpg",
+        "https://telegra.ph/file/7f9815e7be6e686ec2c6d.jpg",
+        "https://telegra.ph/file/6f9ecf2bdd3114e54bc3d.jpg",
+        "https://telegra.ph/file/19eb644bd2a1985b71279.jpg",
+        "https://telegra.ph/file/49712e36e02c3fc6afd4b.jpg",
+        "https://telegra.ph/file/a40ea844cc802f3849f48.jpg",
+        "https://telegra.ph/file/2bd33331828a4b1fef18f.jpg",
+        "https://telegra.ph/file/1f6e4af7135b6c15c34fb.jpg",
+        "https://telegra.ph/file/8d8dbb1266c5358b6ac7b.gif"
+    ]
+};

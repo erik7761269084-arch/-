@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40076,
+    "title": "Minichu - Ganyu (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Minichu---Ganyu-Genshin-Impact-01-03",
+    "images": [
+        "https://telegra.ph/file/fd71d556cc2d9026dd94e.jpg",
+        "https://telegra.ph/file/5c46ee75afa967081b8c7.jpg",
+        "https://telegra.ph/file/0109d5a783b8b68a5b0a8.jpg",
+        "https://telegra.ph/file/9edd53d01e19566a6548f.jpg",
+        "https://telegra.ph/file/fbcc8c53b057444263f4d.jpg",
+        "https://telegra.ph/file/b0071b517f1dba2c0ac86.jpg",
+        "https://telegra.ph/file/dd756a9f2aa48dcc52bb1.jpg",
+        "https://telegra.ph/file/ce61e5cd4118d6536e4a4.jpg",
+        "https://telegra.ph/file/c2f2351b79b9bb9b14e96.jpg",
+        "https://telegra.ph/file/ee2f0904dba693787346c.jpg",
+        "https://telegra.ph/file/801e050efc0a95a024f26.jpg",
+        "https://telegra.ph/file/348e66f2c40386aac6412.jpg",
+        "https://telegra.ph/file/1fbadb7563294ccb6b9b1.jpg",
+        "https://telegra.ph/file/913dc604ead94dced7252.jpg",
+        "https://telegra.ph/file/8b202bed26f64b2dba81c.jpg",
+        "https://telegra.ph/file/fa4e3be31ccdae1bea4a1.jpg",
+        "https://telegra.ph/file/c61f474845ea7b72dc0d8.jpg",
+        "https://telegra.ph/file/cbdf6d677cb881a049667.jpg",
+        "https://telegra.ph/file/c272840d95560c1ca4002.jpg",
+        "https://telegra.ph/file/dab979718664ddd038e4f.jpg",
+        "https://telegra.ph/file/5ff84a132a52d62c4de0d.jpg",
+        "https://telegra.ph/file/ae15d770e8cb9c4734778.jpg",
+        "https://telegra.ph/file/620b9966a59e92a948891.jpg",
+        "https://telegra.ph/file/7c40b7197c5acfa548622.jpg",
+        "https://telegra.ph/file/659d5d576854925cda949.jpg",
+        "https://telegra.ph/file/81607bbf697bca7358c8b.jpg"
+    ]
+};

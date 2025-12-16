@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43036,
+    "title": "Shika小鹿鹿 - K2",
+    "sourceUrl": "https://telegra.ph/Shika%E5%B0%8F%E9%B9%BF%E9%B9%BF---K2-07-29",
+    "images": [
+        "https://telegra.ph/file/ff50bc55d85ebdda74245.jpg",
+        "https://telegra.ph/file/6b28190d0cfe7dcdb2679.jpg",
+        "https://telegra.ph/file/440b746048e16adccaa5a.png",
+        "https://telegra.ph/file/a67b18d007eaa2832c6ab.jpg",
+        "https://telegra.ph/file/ed875fc449784499455ab.jpg",
+        "https://telegra.ph/file/c234208de11c31a839685.jpg",
+        "https://telegra.ph/file/57a1fdb3a8c6253a339eb.jpg",
+        "https://telegra.ph/file/34cc81eaa0f4bd9c1cf0b.jpg",
+        "https://telegra.ph/file/8b5a83d2b48f685bdd7a7.jpg",
+        "https://telegra.ph/file/2c5c765ca1f19f27f074b.jpg",
+        "https://telegra.ph/file/4d7d40cbd0fcc8ec7a013.jpg",
+        "https://telegra.ph/file/940188fb488cdc2a38a60.jpg",
+        "https://telegra.ph/file/ceb04b493ba190a76d5d9.jpg",
+        "https://telegra.ph/file/3c5013115d065c75fda3c.jpg",
+        "https://telegra.ph/file/0291ba8c5b73e6c774724.jpg",
+        "https://telegra.ph/file/f1197c38a4c86f6766b39.jpg",
+        "https://telegra.ph/file/10383547f456ce25e9108.jpg",
+        "https://telegra.ph/file/a70fc027de98fd63fe6d8.jpg",
+        "https://telegra.ph/file/67d14d04347166819528e.jpg",
+        "https://telegra.ph/file/e675569bb586d4cc28361.jpg",
+        "https://telegra.ph/file/14648d9199882525e4b73.jpg",
+        "https://telegra.ph/file/45380b21e873d39b852b3.jpg",
+        "https://telegra.ph/file/27739c37339720c2be8c4.jpg",
+        "https://telegra.ph/file/d84f6f489c87a63c89b28.jpg",
+        "https://telegra.ph/file/0ba1980848f328c5d5d17.jpg",
+        "https://telegra.ph/file/6ad66b8d8cf2d5c4427eb.jpg"
+    ]
+};

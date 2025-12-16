@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 28905,
+    "title": "双飞女儿和她的闺蜜 26P",
+    "sourceUrl": "https://telegra.ph/%E5%8F%8C%E9%A3%9E%E5%A5%B3%E5%84%BF%E5%92%8C%E5%A5%B9%E7%9A%84%E9%97%BA%E8%9C%9C-26P-12-07",
+    "images": [
+        "https://telegra.ph/file/ffe832614b70bf555a300.jpg",
+        "https://telegra.ph/file/bce84b83f04a4eb307f3a.jpg",
+        "https://telegra.ph/file/ca113dfa9d1f3074bffd1.jpg",
+        "https://telegra.ph/file/d2dd8652a410a26dfbd7c.jpg",
+        "https://telegra.ph/file/40458566270fa54bd0f8d.jpg",
+        "https://telegra.ph/file/96b7439eacda9270fe57e.jpg",
+        "https://telegra.ph/file/fe691397238014d2fd21a.jpg",
+        "https://telegra.ph/file/010940ffa02aec3144e94.jpg",
+        "https://telegra.ph/file/238063c022843692e80e4.jpg",
+        "https://telegra.ph/file/503cbc58313fd9397e20c.jpg",
+        "https://telegra.ph/file/ec94c0542984ba4c2ad29.jpg",
+        "https://telegra.ph/file/f2af2c6be5fe26cfe76a1.jpg",
+        "https://telegra.ph/file/c84168db03ee220f5b9e9.jpg",
+        "https://telegra.ph/file/a1db632dd68b49698a9e1.jpg",
+        "https://telegra.ph/file/c75924360b05cb6241a16.jpg",
+        "https://telegra.ph/file/12dc722b2fbd0f9a97784.jpg",
+        "https://telegra.ph/file/90a4bcf5bddad7112b88c.jpg",
+        "https://telegra.ph/file/13c149c2d687c5785f02d.jpg",
+        "https://telegra.ph/file/c52786b348225cff6243f.jpg",
+        "https://telegra.ph/file/8502fac218b9492564ce1.jpg",
+        "https://telegra.ph/file/4724789322f881a994a11.jpg",
+        "https://telegra.ph/file/68c0c06fdd46209f8b8d5.jpg",
+        "https://telegra.ph/file/100c41a324bc8887d69ef.jpg",
+        "https://telegra.ph/file/2ecaaaa7f21a5b489836b.jpg",
+        "https://telegra.ph/file/8a99fb34277f4a6950b6c.jpg",
+        "https://telegra.ph/file/87123421845174755f8f4.jpg"
+    ]
+};

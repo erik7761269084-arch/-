@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38366,
+    "title": "Neppu - 細胞cell (Hataraku Saibou)",
+    "sourceUrl": "https://telegra.ph/Neppu---細胞cell-Hataraku-Saibou-10-18",
+    "images": [
+        "https://telegra.ph/file/a731628b0ed51728de02c.jpg",
+        "https://telegra.ph/file/dfae50cbac3d9632d7716.jpg",
+        "https://telegra.ph/file/e1e5895b615b32851ac6a.jpg",
+        "https://telegra.ph/file/976d943e34cc10b49a52a.jpg",
+        "https://telegra.ph/file/222b16b761a823d6761aa.jpg",
+        "https://telegra.ph/file/c5e566bf2dcc31b1786b4.jpg",
+        "https://telegra.ph/file/cf5339d326ef7527033eb.jpg",
+        "https://telegra.ph/file/f83758298e15118227c40.jpg",
+        "https://telegra.ph/file/3c4e8f17ff6f5d052798a.jpg",
+        "https://telegra.ph/file/12e8a3d6b837e40d7965d.jpg",
+        "https://telegra.ph/file/6a55b331b87e9964c36d4.jpg",
+        "https://telegra.ph/file/ce3bfeb53de411e078c56.jpg",
+        "https://telegra.ph/file/fea252ad962349ff7dfbc.jpg",
+        "https://telegra.ph/file/20f7a8ee7e996439057fc.jpg",
+        "https://telegra.ph/file/79dc042ae40ba9e7428a2.jpg",
+        "https://telegra.ph/file/1d3bea8634c2045471dfa.jpg",
+        "https://telegra.ph/file/46178191c8aea74d38a18.jpg",
+        "https://telegra.ph/file/64400f453caaf103b8a5a.jpg",
+        "https://telegra.ph/file/1fe58ae9d1bbe732c7341.jpg",
+        "https://telegra.ph/file/8eda42437c8b5d48056f2.jpg",
+        "https://telegra.ph/file/1dab961781da352fb9f9c.jpg",
+        "https://telegra.ph/file/cce47f8969e94bd6ab89d.jpg",
+        "https://telegra.ph/file/cae641187462bbcfa4b9b.jpg"
+    ]
+};

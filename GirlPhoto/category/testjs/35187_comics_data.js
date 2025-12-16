@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 35187,
+    "title": "Kim Woo Hyeon 김우현, LEEHEE EXPRESS Woo-001A Set.02",
+    "sourceUrl": "https://telegra.ph/Kim-Woo-Hyeon-김우현-LEEHEE-EXPRESS-Woo-001A-Set02-08-29",
+    "images": [
+        "https://telegra.ph/file/3405f2ff11fb57466abf9.jpg",
+        "https://telegra.ph/file/004d4510db81b14355d56.jpg",
+        "https://telegra.ph/file/619aaaf47d6f013a7ce33.jpg",
+        "https://telegra.ph/file/a65a2ff15dfe54bc2887e.jpg",
+        "https://telegra.ph/file/537ecdb935b187f52553f.jpg",
+        "https://telegra.ph/file/3d13309f41a2312f9009e.jpg",
+        "https://telegra.ph/file/90c57ac68772588a2ca2f.jpg",
+        "https://telegra.ph/file/e9a59cef2e48cb2153598.jpg",
+        "https://telegra.ph/file/ae5d91f092faefd4209d9.jpg",
+        "https://telegra.ph/file/97b5fcd70e3c455d290f2.jpg",
+        "https://telegra.ph/file/f8dcfdd908a09030bc1ad.jpg",
+        "https://telegra.ph/file/84783bd18ebc01636d6a0.jpg",
+        "https://telegra.ph/file/44dc2cf4c4281696a2878.jpg",
+        "https://telegra.ph/file/6e766954ea0525096446b.jpg",
+        "https://telegra.ph/file/d64e5426ebc982b1a750f.jpg",
+        "https://telegra.ph/file/d4bb6392933d14d02386d.jpg",
+        "https://telegra.ph/file/455c666808dc4f593298a.jpg",
+        "https://telegra.ph/file/12c57283d8d9836979d42.jpg",
+        "https://telegra.ph/file/8a26e2572be448922cfd4.jpg",
+        "https://telegra.ph/file/32768fffd18e68befd17c.jpg",
+        "https://telegra.ph/file/fd26e6ba28f891881b624.jpg",
+        "https://telegra.ph/file/bce80fb7f5850f81f1e8f.jpg",
+        "https://telegra.ph/file/b50a26eeb97534209e4bc.jpg",
+        "https://telegra.ph/file/51c368da8f7cbca061f12.jpg"
+    ]
+};

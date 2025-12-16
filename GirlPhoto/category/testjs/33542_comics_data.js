@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 33542,
+    "title": "Pia 피아, [DJAWA] Cat girl does not take classes",
+    "sourceUrl": "https://telegra.ph/Pia-피아-DJAWA-Cat-girl-does-not-take-classes-03-15",
+    "images": [
+        "https://telegra.ph/file/a6a2af29bc0e1f8ede668.jpg",
+        "https://telegra.ph/file/d3e69d4f30c4838bdd366.jpg",
+        "https://telegra.ph/file/6c7881d448d8d0e5d87da.jpg",
+        "https://telegra.ph/file/d6016e8a4ac2780cb6e63.jpg",
+        "https://telegra.ph/file/e308386a2636fd2e041f9.jpg",
+        "https://telegra.ph/file/df0046b0dbfa52c0eda94.jpg",
+        "https://telegra.ph/file/efe243cf3e86ad3d844a8.jpg",
+        "https://telegra.ph/file/59a3a68bcbb0b2ce75581.jpg",
+        "https://telegra.ph/file/7692e7afd06a6d5382ea7.jpg",
+        "https://telegra.ph/file/b3fcfd768dba926ad159f.jpg",
+        "https://telegra.ph/file/addad2dfad992be8108ea.jpg",
+        "https://telegra.ph/file/d241e3aec7b66ac00b313.jpg",
+        "https://telegra.ph/file/9aad6611a39bcdb5e4853.jpg",
+        "https://telegra.ph/file/cb9f9b34a347b3b940c8d.jpg",
+        "https://telegra.ph/file/4c6cf7e04be5912f12126.jpg",
+        "https://telegra.ph/file/9497c8578239421d649c6.jpg",
+        "https://telegra.ph/file/434fbc865abbff68dea22.jpg",
+        "https://telegra.ph/file/dee97d79c5ca22fe18db7.jpg",
+        "https://telegra.ph/file/0fed66188e207dba49163.jpg",
+        "https://telegra.ph/file/a4da561b7ffbc59098945.jpg",
+        "https://telegra.ph/file/fe2f9a6d98458631a2393.jpg",
+        "https://telegra.ph/file/5391de3acdc168a7999e4.jpg",
+        "https://telegra.ph/file/ebadb60c01aac80fbdd23.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

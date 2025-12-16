@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41870,
+    "title": "Potato Godzilla - Black Swan (Honkai Star Rail)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-08-25-5",
+    "images": [
+        "https://i.ibb.co/ZpJhtkD2/01-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-1-compress17.jpg",
+        "https://i.ibb.co/DP9J2zTY/02-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-2-compress5.jpg",
+        "https://i.ibb.co/LzbjDqnc/03-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-3-compress50.jpg",
+        "https://i.ibb.co/ymTgHRgT/04-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-4-compress15.jpg",
+        "https://i.ibb.co/PGP2F35R/05-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-5-compress28.jpg",
+        "https://i.ibb.co/NgBrzvRK/06-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-6-compress67.jpg",
+        "https://i.ibb.co/233smzcK/07-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-7-compress7.jpg",
+        "https://i.ibb.co/rKDTCxd0/08-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-8-compress76.jpg",
+        "https://i.ibb.co/YghBdmz/09-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-9-compress26.jpg",
+        "https://i.ibb.co/G4P148bt/10-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-10-compress24.jpg",
+        "https://i.ibb.co/5WBXJWpw/11-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-11-compress51.jpg",
+        "https://i.ibb.co/NgCLSp43/12-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-12-compress66.jpg",
+        "https://i.ibb.co/x8C0gF3X/13-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-13-compress17.jpg",
+        "https://i.ibb.co/fdLSNG73/14-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-14-compress19.jpg",
+        "https://i.ibb.co/3YhGRxS4/15-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-15-compress0.jpg",
+        "https://i.ibb.co/bjvGXBmV/16-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-16-compress47.jpg",
+        "https://i.ibb.co/0y43JNmP/17-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-17-compress88.jpg",
+        "https://i.ibb.co/M59cqPMf/18-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-18-compress68.jpg",
+        "https://i.ibb.co/1t420wXx/19-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-19-compress69.jpg",
+        "https://i.ibb.co/hxygmsqs/20-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-20-compress79.jpg",
+        "https://i.ibb.co/pj9CtSWH/21-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-21-compress30.jpg",
+        "https://i.ibb.co/mQtjMyW/22-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-22-compress65.jpg",
+        "https://i.ibb.co/hxBsy2rX/23-Potato-Godzilla-Black-Swan-Honkai-Star-Rail-23-compress67.jpg"
+    ]
+};

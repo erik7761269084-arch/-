@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50892,
+    "title": "核酸酱 (Asai chan)  Shang Xin Ci - Reverend Insanity - Page 1",
+    "sourceUrl": "https://telegra.ph/核酸酱-Asai-chan-Shang-Xin-Ci---Reverend-Insanity---Page-1-08-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxw5opaxiAaBgLMUQ25fD709qPiHP_gACMhcAApgrMVWPw3sGsZGOHDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxw9opaxjEbMd8AItU62wFpBIEtk9gwACMxcAApgrMVUjj0UYLz5BCTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxBopaxkefSLMBRaSv7c9E5ZrRfRVQACNBcAApgrMVX4vyytVWKInTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxFopaxm4vyDjiC_RI_5CR7fE2BdigACNRcAApgrMVX5ohqbEZoX5zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxJopaxoBlEe82-16NFjlDqmt_iRAAM2FwACmCsxVSbJEZVxJVeXNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxNopaxpdxC43nF5Q1jEL06BqQ1vXgACNxcAApgrMVWZ4CvPDE-kpDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxRopaxrRZOlDr8C1Ri0D2PNmzrV9QACOBcAApgrMVX_0WXNGaM78TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxVopaxs0NmL4VpwGMMTTnhSKvL4pwACORcAApgrMVW2LWQqOw1SHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxZopaxtk5beWki50U7MVKRRIYXFQAACOhcAApgrMVWYSvwQOHAObjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxdopaxviFTLsuZ-EICF0DHqNXa4ogACOxcAApgrMVXjWSEy9nFePzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxhopaxwUpiHmD6nKy47R1FCBi3O1wACPBcAApgrMVWrFZZ7sWqmQzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxlopaxxkRogi5OeqQjnVuHljs47OgACPRcAApgrMVVNgo_Dg18mITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxpopaxzYg_WWymeDL2SpeOI7ziTiAACPhcAApgrMVXFjdvDnHn6IzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxtopax06Vx-lB3FMSqRdgJHmxxqUAACPxcAApgrMVVGkJmjNH3iwDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxxxopax2aHsSmsHiuggKow5eb8v-fQACQBcAApgrMVXKlIErbcMQczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxx1opax3wRS7jg9dLaaUnpeJtT_gAwACQRcAApgrMVU7vy01ILifGDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxx5opax4Ae_g_AwPT_Zdu904p2gqRwACQhcAApgrMVWGqQWpW-dXFjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxx9opax69MJmj02V40BhQ-sI0vZ72AACQxcAApgrMVXu0Y1rtafwnzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyBopax799YWSA4S6jabGq3-mkvqiAACRBcAApgrMVXoQtayoyIxNzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyFopay66EFRpFTbtWioVFUKawGNxwACRhcAApgrMVXU8tKNwa48CTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyJopay7lqS9iySoKEG976y49SQgrgACRxcAApgrMVWpwMHC3xpE3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyNopay9UWI8aTe0KRKjr4Tld1STSAACSBcAApgrMVVYvDDa4KpGSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyRopay-fecyPhCBG5OjCOEmq0GGgAACSRcAApgrMVVDjM0E7oiRlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyVopazAUWRooQzCAu9jJp2BulFuigACShcAApgrMVVKxH6O8BiLtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxyZopazBDvrSOInIcoD8SP9eO4bl5wACSxcAApgrMVVgUh_k3UGySTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxydopazDVgqdncj3-8XLbyFBTA8bKgACTBcAApgrMVWKYQ7QRsWhfjYE"
+    ]
+};

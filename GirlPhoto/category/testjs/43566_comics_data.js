@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43566,
+    "title": "兔子Zzz不吃胡萝卜 - 杀机 [23P-265MB]",
+    "sourceUrl": "https://telegra.ph/%E5%85%94%E5%AD%90Zzz%E4%B8%8D%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C---%E6%9D%80%E6%9C%BA-23P-265MB-02-20",
+    "images": [
+        "https://telegra.ph/file/f6aa2ca46183c2dc43c7c.jpg",
+        "https://telegra.ph/file/4a24b6a1dd75bccfbb18a.jpg",
+        "https://telegra.ph/file/717f62069b39217483a79.jpg",
+        "https://telegra.ph/file/a22976637227d4f2a70f2.jpg",
+        "https://telegra.ph/file/f31939921903cb07108b6.jpg",
+        "https://telegra.ph/file/c8ad7a8d28eed95e8b6e6.jpg",
+        "https://telegra.ph/file/9ceea08e7f11c5b6fd607.jpg",
+        "https://telegra.ph/file/4a0286e974596c92bb6fa.jpg",
+        "https://telegra.ph/file/a3ef56961c0453df55611.jpg",
+        "https://telegra.ph/file/972c9913f754930ff147f.jpg",
+        "https://telegra.ph/file/d281011cea8fb17c97a46.jpg",
+        "https://telegra.ph/file/6989f4b69a83ecb3b91b9.jpg",
+        "https://telegra.ph/file/8fdd0bf15500f965a4d38.jpg",
+        "https://telegra.ph/file/5c21e3e891be1e6929046.jpg",
+        "https://telegra.ph/file/f7bb1282fc3c6a50d188b.jpg",
+        "https://telegra.ph/file/aa3025d529feb604fc6fe.jpg",
+        "https://telegra.ph/file/dd6a7ae2c2c25a7dc847c.jpg",
+        "https://telegra.ph/file/e1db0fc36f7ba7db77f1e.jpg",
+        "https://telegra.ph/file/9ec5963f18da5e4d61d80.jpg",
+        "https://telegra.ph/file/23944d1347d45aa1bb5cb.jpg",
+        "https://telegra.ph/file/9726cf977eb7aa8fcc713.jpg",
+        "https://telegra.ph/file/2baa826dfd136c57891e1.jpg",
+        "https://telegra.ph/file/cd06a7a806d44bcc4ca1a.jpg"
+    ]
+};

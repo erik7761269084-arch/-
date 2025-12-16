@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38582,
+    "title": "Helly Valentine - Golden",
+    "sourceUrl": "https://telegra.ph/Helly-Valentine---Golden-12-08",
+    "images": [
+        "https://telegra.ph/file/59bbb4d1ab6c8db4f4687.jpg",
+        "https://telegra.ph/file/e13572b02824a4f40694c.jpg",
+        "https://telegra.ph/file/238aa6cc867dd898bed53.jpg",
+        "https://telegra.ph/file/002b2cf5e46f35653ee52.jpg",
+        "https://telegra.ph/file/40dfd92c9610a0718068d.jpg",
+        "https://telegra.ph/file/f004c9bc1e6d7ffda8919.jpg",
+        "https://telegra.ph/file/79b7d85ea0bb9e4b513a7.jpg",
+        "https://telegra.ph/file/3908d0bb72a6a90451fdf.jpg",
+        "https://telegra.ph/file/cd0471b49909f1220354f.jpg",
+        "https://telegra.ph/file/480cac995271909eb532a.jpg",
+        "https://telegra.ph/file/91d388a054e596f98269d.jpg",
+        "https://telegra.ph/file/57fe4fb801adee6abff5b.jpg",
+        "https://telegra.ph/file/1550af394ebeb636ec85f.jpg",
+        "https://telegra.ph/file/515b5aacc926b8f5c9fed.jpg",
+        "https://telegra.ph/file/e60e6620388f8ffe4a7a3.jpg",
+        "https://telegra.ph/file/57bffbc8bdd0b53b5289c.jpg",
+        "https://telegra.ph/file/83484c360fc86613fb5e4.jpg",
+        "https://telegra.ph/file/8f2ecfc93c41e335fe266.jpg",
+        "https://telegra.ph/file/f1bfe4d69da6021d5b2f4.jpg",
+        "https://telegra.ph/file/ca7ec1c2a3fea3d4363d7.jpg",
+        "https://telegra.ph/file/5897a1a691b8b8227d97b.jpg",
+        "https://telegra.ph/file/daccb1c110da00bfc39d5.jpg",
+        "https://telegra.ph/file/fa4141b8f4090b36ab5fd.jpg",
+        "https://telegra.ph/file/f636882015d5fa93ae003.jpg"
+    ]
+};

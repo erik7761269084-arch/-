@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 43584,
+    "title": "布丁大法 - 黑色毛衣23P1V-143M]",
+    "sourceUrl": "https://telegra.ph/%E5%B8%83%E4%B8%81%E5%A4%A7%E6%B3%95---%E9%BB%91%E8%89%B2%E6%AF%9B%E8%A1%A323P1V-143M-02-26",
+    "images": [
+        "https://telegra.ph/file/c3c25113d50d2dab7f9d7.jpg",
+        "https://telegra.ph/file/2cabe129a5ac8af0f883e.jpg",
+        "https://telegra.ph/file/a1a8dd1268a060d07f5f5.jpg",
+        "https://telegra.ph/file/04ff78e331508fe467932.jpg",
+        "https://telegra.ph/file/240f380b593eb9053769c.jpg",
+        "https://telegra.ph/file/c55cd49fd4378bb239191.jpg",
+        "https://telegra.ph/file/7304899fbe036a3f98c88.jpg",
+        "https://telegra.ph/file/612bdba42d440f8c7c5e3.jpg",
+        "https://telegra.ph/file/6e6af78830fcb244f7f24.jpg",
+        "https://telegra.ph/file/f1e40bc9e04471c9b0777.jpg",
+        "https://telegra.ph/file/c2f21b4dd9ca792f7474f.jpg",
+        "https://telegra.ph/file/ad73899269e037289b5c9.jpg",
+        "https://telegra.ph/file/cc272a4367b5db2add64b.jpg",
+        "https://telegra.ph/file/1b8095f4c8b07d73d19cc.jpg",
+        "https://telegra.ph/file/462759d83594c789c73e3.jpg",
+        "https://telegra.ph/file/349b18185a7317c00bdec.jpg",
+        "https://telegra.ph/file/dd5723c7a7bc9277dec98.jpg",
+        "https://telegra.ph/file/4dd585488bc629681a39a.jpg",
+        "https://telegra.ph/file/6ba87e0e1f7a375e75c11.jpg",
+        "https://telegra.ph/file/25162cd0877104a8e97aa.jpg",
+        "https://telegra.ph/file/7552b60e8d705a1a93a5e.jpg",
+        "https://telegra.ph/file/918dcfed28f5c10f8358e.jpg",
+        "https://telegra.ph/file/845437c10593e224503f4.jpg"
+    ]
+};

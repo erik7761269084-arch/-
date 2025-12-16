@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47189,
+    "title": "Azami - Bremerton - Page 1",
+    "sourceUrl": "https://telegra.ph/Azami---Bremerton---Page-1-03-09",
+    "images": [
+        "https://telegra.ph/file/e0609ee8b88cb0106ab1d.jpg",
+        "https://telegra.ph/file/6d4fc26d0cef43bc4b440.jpg",
+        "https://telegra.ph/file/5c9dfa5e3cfd28b3cccf7.jpg",
+        "https://telegra.ph/file/38535a61a77eb09b1b60e.jpg",
+        "https://telegra.ph/file/85d1fb80e2866e827bd60.jpg",
+        "https://telegra.ph/file/fc43481787015a133610c.jpg",
+        "https://telegra.ph/file/31955ea53ebb08861cd90.jpg",
+        "https://telegra.ph/file/04b5b6be310a9a4d25a56.jpg",
+        "https://telegra.ph/file/e1661bddab2a4637ccbb0.jpg",
+        "https://telegra.ph/file/79c1ff1c7483e9f87d98a.jpg",
+        "https://telegra.ph/file/7098e9d5006dbb9280d71.jpg",
+        "https://telegra.ph/file/edc1925a1795ef617ee62.jpg",
+        "https://telegra.ph/file/fe1c5265f496e37fdbc17.jpg",
+        "https://telegra.ph/file/175f141e2960f0c9d0ecb.jpg",
+        "https://telegra.ph/file/1c2efd30b685a77a6ca31.jpg",
+        "https://telegra.ph/file/6d3b19a38e6518c7c04b6.jpg",
+        "https://telegra.ph/file/6cb96bd944646e23789d9.jpg",
+        "https://telegra.ph/file/7d68203939e261b133947.jpg",
+        "https://telegra.ph/file/0b93999320146e35ed0c2.jpg",
+        "https://telegra.ph/file/dcf4e161743b523dae548.jpg",
+        "https://telegra.ph/file/702dd028ff13fdf75702b.jpg",
+        "https://telegra.ph/file/7525bdf7c222b15de32b7.jpg",
+        "https://telegra.ph/file/652138f49ed6ca9b157ff.jpg"
+    ]
+};

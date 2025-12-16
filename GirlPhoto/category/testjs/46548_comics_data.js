@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46548,
+    "title": "Sayathefox Ice princess - Page 1",
+    "sourceUrl": "https://telegra.ph/Sayathefox-Ice-princess---Page-1-01-12",
+    "images": [
+        "https://telegra.ph/file/0be520d85308f6ead1280.jpg",
+        "https://telegra.ph/file/0b1d907cea819504dc53b.jpg",
+        "https://telegra.ph/file/e176287d1707b65973d84.jpg",
+        "https://telegra.ph/file/70024578424a8c55435b7.jpg",
+        "https://telegra.ph/file/d82252bd5862fbeb85a77.jpg",
+        "https://telegra.ph/file/e767941eac4f8c21a62a8.jpg",
+        "https://telegra.ph/file/cff1e954985505f9910a2.jpg",
+        "https://telegra.ph/file/6b714ec8ce3540c0c0cd1.jpg",
+        "https://telegra.ph/file/357ae8762e4db31f57185.jpg",
+        "https://telegra.ph/file/201c4ebe9a6a0832974f8.jpg",
+        "https://telegra.ph/file/490cd3228854ba08bb559.jpg",
+        "https://telegra.ph/file/7880e70848424b191013f.jpg",
+        "https://telegra.ph/file/94169ba1f3a812c8c13f3.jpg",
+        "https://telegra.ph/file/30e8fa1d7351cde5fa033.jpg",
+        "https://telegra.ph/file/5449d958e98088191e434.jpg",
+        "https://telegra.ph/file/c99440b208bd10535f543.jpg",
+        "https://telegra.ph/file/007f34d42d76e880a42d2.jpg",
+        "https://telegra.ph/file/fd37fbb5dd75cc5af6aa0.jpg",
+        "https://telegra.ph/file/d2bb2578b4a7293f4857b.jpg",
+        "https://telegra.ph/file/3ee58599cfe501ed1948a.jpg",
+        "https://telegra.ph/file/3b4655c5d91390237b504.jpg",
+        "https://telegra.ph/file/de74df7508a6ae773d5c7.jpg",
+        "https://telegra.ph/file/875a3d3d60baed44a4a98.jpg",
+        "https://telegra.ph/file/dc2fa6ad27dbf9d53be15.jpg",
+        "https://telegra.ph/file/47c21d8d73c43bb917d94.jpg"
+    ]
+};

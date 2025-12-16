@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24383,
+    "title": "白袜袜格罗丫-浅蓝色长裙奶牛丝袜[25P]",
+    "sourceUrl": "https://telegra.ph/%E7%99%BD%E8%A2%9C%E8%A2%9C%E6%A0%BC%E7%BD%97%E4%B8%AB-%E6%B5%85%E8%93%9D%E8%89%B2%E9%95%BF%E8%A3%99%E5%A5%B6%E7%89%9B%E4%B8%9D%E8%A2%9C25P-08-13",
+    "images": [
+        "https://telegra.ph/file/b52148874c549b0c871f1.jpg",
+        "https://telegra.ph/file/9bdcfad875bdf55c8c32c.jpg",
+        "https://telegra.ph/file/a37931d31e47e8f1bfd53.jpg",
+        "https://telegra.ph/file/9f9ccdd41abb1dd693236.jpg",
+        "https://telegra.ph/file/c516e6c6399acd66dee6f.png",
+        "https://telegra.ph/file/af76079b5730d64537aa9.jpg",
+        "https://telegra.ph/file/2c60711a9ca9197be5a14.jpg",
+        "https://telegra.ph/file/3eb12612c1d01c7436e94.jpg",
+        "https://telegra.ph/file/e94e1de1ed5c0ec8cde8f.jpg",
+        "https://telegra.ph/file/d3b8c7eb801251ad0c500.jpg",
+        "https://telegra.ph/file/880ff88f8b82cb10fd19f.jpg",
+        "https://telegra.ph/file/23cb25df26b6030e4ae34.jpg",
+        "https://telegra.ph/file/564c970543fb10e1ee845.jpg",
+        "https://telegra.ph/file/8f7e1147c083d58743d78.jpg",
+        "https://telegra.ph/file/62dc0d3b8f5ce82cb4b92.jpg",
+        "https://telegra.ph/file/675335d1415f8d84b5146.jpg",
+        "https://telegra.ph/file/1a58ecad73b518d7ee4a4.jpg",
+        "https://telegra.ph/file/ee24bcd185f841bad8b39.jpg",
+        "https://telegra.ph/file/70d6a46d204e7e582ae89.jpg",
+        "https://telegra.ph/file/3451963ee58b2e798befd.jpg",
+        "https://telegra.ph/file/43bade3c28ea1f473dbc4.jpg",
+        "https://telegra.ph/file/1dca138a17724f4d25afd.jpg",
+        "https://telegra.ph/file/b9b3c9cdd2389e30f4860.jpg",
+        "https://telegra.ph/file/b97a1e23b0e2726b6b21f.jpg",
+        "https://telegra.ph/file/bd5ea43ab7263ca8e66c9.jpg"
+    ]
+};

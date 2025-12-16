@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27655,
+    "title": "紫姝Murasaki - NO.002 潤羽るしあ [24P-177MB]",
+    "sourceUrl": "https://telegra.ph/%E7%B4%AB%E5%A7%9DMurasaki---NO002-%E6%BD%A4%E7%BE%BD%E3%82%8B%E3%81%97%E3%81%82-24P-177MB-04-05",
+    "images": [
+        "https://telegra.ph/file/bcd9103c4968734c730d2.jpg",
+        "https://telegra.ph/file/198292f500fb3f928c256.jpg",
+        "https://telegra.ph/file/e09cd4097beee8bef9f44.jpg",
+        "https://telegra.ph/file/6fbdc86169100896cc88f.jpg",
+        "https://telegra.ph/file/4870c8f7395c3514c53c2.jpg",
+        "https://telegra.ph/file/3f9377d313d58d2fbe285.jpg",
+        "https://telegra.ph/file/57009672cc3e06bba3d0a.jpg",
+        "https://telegra.ph/file/3041ed836a73531b85120.jpg",
+        "https://telegra.ph/file/ada559ec8843a2767db77.jpg",
+        "https://telegra.ph/file/e607aab562d76dbd2ca6a.jpg",
+        "https://telegra.ph/file/dbc0b073c1f248035fa22.jpg",
+        "https://telegra.ph/file/fc4bfb402c606a5ad7f2a.jpg",
+        "https://telegra.ph/file/ce519a465427cadcabcbd.jpg",
+        "https://telegra.ph/file/cc0dc6f83cf2fea011e70.jpg",
+        "https://telegra.ph/file/004efc9f21e62a73fafd0.jpg",
+        "https://telegra.ph/file/d8b961c2cb6fc59e3e1af.jpg",
+        "https://telegra.ph/file/a8e227e6e594eeee44607.jpg",
+        "https://telegra.ph/file/1aab6fd190a499c2861cb.jpg",
+        "https://telegra.ph/file/e880dd2e291de68e87a08.jpg",
+        "https://telegra.ph/file/8d6e4ef7ac0eb46882688.jpg",
+        "https://telegra.ph/file/4037956a74d8e9b6363b1.jpg",
+        "https://telegra.ph/file/0b2ff1cce5b4f0eae4227.jpg",
+        "https://telegra.ph/file/d5e4d2facac9651b698d3.jpg",
+        "https://telegra.ph/file/d987338320b16d93a7c23.jpg"
+    ]
+};

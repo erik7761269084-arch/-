@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44906,
+    "title": "2545005",
+    "sourceUrl": "https://telegra.ph/2545005-03-27",
+    "images": [
+        "https://telegra.ph/file/97a1c8f6f9a5f7e005184.jpg",
+        "https://telegra.ph/file/a214d23a1a25a4227a9db.jpg",
+        "https://telegra.ph/file/43f3c1fcfc27457341919.jpg",
+        "https://telegra.ph/file/f3b9290ca5edebd8715e3.jpg",
+        "https://telegra.ph/file/6c3f926ea512a79fd05db.jpg",
+        "https://telegra.ph/file/31919a4e8e09ab487b100.jpg",
+        "https://telegra.ph/file/18e9d4bfc93e279959dce.jpg",
+        "https://telegra.ph/file/fc503d1c67f570aedcb97.jpg",
+        "https://telegra.ph/file/ffd9c7a1dfec7f4c25ad8.jpg",
+        "https://telegra.ph/file/fd2dae8216c78f818a0d9.jpg",
+        "https://telegra.ph/file/850fe9a8ba891c7a1ddef.jpg",
+        "https://telegra.ph/file/78ebb23b7eda0ceb9ae89.jpg",
+        "https://telegra.ph/file/9d3712530977efdaf7816.jpg",
+        "https://telegra.ph/file/17b8077ca9e3b2e2b22b1.jpg",
+        "https://telegra.ph/file/8aafa9fdcedcf1d1a000a.jpg",
+        "https://telegra.ph/file/70d4d08191162e438fd74.jpg",
+        "https://telegra.ph/file/98521dec86f72d0324731.jpg",
+        "https://telegra.ph/file/eab9b09aa567fce0d761b.jpg",
+        "https://telegra.ph/file/ec2c83b6b763e45dd25df.jpg",
+        "https://telegra.ph/file/12d9547468aa7a81e9ea3.jpg",
+        "https://telegra.ph/file/5cb114873154fc74f1d9a.jpg",
+        "https://telegra.ph/file/1a99c58fd5fc0164eb807.jpg",
+        "https://telegra.ph/file/3063ebaa9c541b441e354.jpg"
+    ]
+};

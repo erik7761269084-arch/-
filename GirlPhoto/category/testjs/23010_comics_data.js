@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23010,
+    "title": "w百合欧皇子w-美甘妮露 [26P]",
+    "sourceUrl": "https://telegra.ph/w%E7%99%BE%E5%90%88%E6%AC%A7%E7%9A%87%E5%AD%90w-%E7%BE%8E%E7%94%98%E5%A6%AE%E9%9C%B2-26P-01-08",
+    "images": [
+        "https://telegra.ph/file/b9911bd6a27be26003c4e.jpg",
+        "https://telegra.ph/file/63b0b158cca3410b1a3d8.jpg",
+        "https://telegra.ph/file/6e04799316ab12a6e31a6.jpg",
+        "https://telegra.ph/file/24a5008f286c524c26577.jpg",
+        "https://telegra.ph/file/161ae153acb1042847984.jpg",
+        "https://telegra.ph/file/05ede421fcc84e0d7aad7.jpg",
+        "https://telegra.ph/file/a72b3bb95757c328f2b7c.jpg",
+        "https://telegra.ph/file/bfb7f5db683dace2d6432.jpg",
+        "https://telegra.ph/file/8ebc59f161460436ba3c6.jpg",
+        "https://telegra.ph/file/d8ccd0f18bad13cfa8533.jpg",
+        "https://telegra.ph/file/c2463ec9dd74653ce88a3.jpg",
+        "https://telegra.ph/file/4a3613fd94baec19d4ee7.jpg",
+        "https://telegra.ph/file/ec28abf9f940dad6ed9d0.jpg",
+        "https://telegra.ph/file/248a7708be3376ce461e3.jpg",
+        "https://telegra.ph/file/6150a68c0b541b8b8a1ee.jpg",
+        "https://telegra.ph/file/839314a797f1b4807f702.jpg",
+        "https://telegra.ph/file/5dafc9b0b1d484a7831f6.jpg",
+        "https://telegra.ph/file/3b9d0e941109cc83338f3.jpg",
+        "https://telegra.ph/file/1411d2df7ccc9390c2f00.jpg",
+        "https://telegra.ph/file/2d9213e82f990eaa90543.jpg",
+        "https://telegra.ph/file/afc8cb977bf7a36a10971.jpg",
+        "https://telegra.ph/file/666d6fb4484fbcea3e861.jpg",
+        "https://telegra.ph/file/f2aabc29b58cbe9596be9.jpg",
+        "https://telegra.ph/file/6cdea32f3fc03e014e498.jpg",
+        "https://telegra.ph/file/9fe70dba9534ca8cf14a3.jpg",
+        "https://telegra.ph/file/7b674796b171151271389.jpg"
+    ]
+};

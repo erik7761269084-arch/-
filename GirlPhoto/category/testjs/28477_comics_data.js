@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 28477,
+    "title": "TITI-杨玉环古风[23P]",
+    "sourceUrl": "https://telegra.ph/TITI-%E6%9D%A8%E7%8E%89%E7%8E%AF%E5%8F%A4%E9%A3%8E23P-10-11",
+    "images": [
+        "https://telegra.ph/file/af881825578137d0beb58.jpg",
+        "https://telegra.ph/file/b28014adb6e167ba1ae9b.jpg",
+        "https://telegra.ph/file/baad365c1173e4b94e730.jpg",
+        "https://telegra.ph/file/44b74c6f45f236accd0e5.jpg",
+        "https://telegra.ph/file/46443f980b85c7ecda5c0.jpg",
+        "https://telegra.ph/file/0901c70f2879b6bf2698b.jpg",
+        "https://telegra.ph/file/586efccabcc3cd441633e.jpg",
+        "https://telegra.ph/file/80e4399bbac4497c513af.jpg",
+        "https://telegra.ph/file/32b5943ab446175b47eb3.jpg",
+        "https://telegra.ph/file/4cdcb57b70577c7e36e0f.jpg",
+        "https://telegra.ph/file/b40a897d9aae3e428827e.jpg",
+        "https://telegra.ph/file/bd9141a348dfea2a7619e.jpg",
+        "https://telegra.ph/file/dc162dc015f896e57bcbc.jpg",
+        "https://telegra.ph/file/e69248af9d9ce29ae4d76.jpg",
+        "https://telegra.ph/file/6610c2cbe18cf02d877f6.jpg",
+        "https://telegra.ph/file/6d0abd92549bce38872a2.jpg",
+        "https://telegra.ph/file/f77d6b5b47b691a161d8c.jpg",
+        "https://telegra.ph/file/6e89d12e2f42ef3e34c06.jpg",
+        "https://telegra.ph/file/c0cc54a3374c6f9ab0e74.jpg",
+        "https://telegra.ph/file/6d217e02a8806ab705e71.jpg",
+        "https://telegra.ph/file/ee47f4dbd6f59c2cf0d5d.jpg",
+        "https://telegra.ph/file/3d1d6c4822e6a487c10d4.jpg",
+        "https://telegra.ph/file/75dd07f607ab6ab3f023c.jpg"
+    ]
+};

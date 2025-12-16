@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40335,
+    "title": "Hane Ame - Bunny Altoria 白槍呆 (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Bunny-Altoria-白槍呆-Fate-Grand-Order-05-16",
+    "images": [
+        "https://telegra.ph/file/06c8f280ed0327d8b2af3.jpg",
+        "https://telegra.ph/file/4b339df29cce020e328c4.jpg",
+        "https://telegra.ph/file/9c431783d99a78a2f1cee.jpg",
+        "https://telegra.ph/file/39bad9c14a983539ac33c.jpg",
+        "https://telegra.ph/file/b48bc2ef50b828ef134a0.jpg",
+        "https://telegra.ph/file/3ad58f1b3f484d7d16463.jpg",
+        "https://telegra.ph/file/a619b528606b857ae8140.jpg",
+        "https://telegra.ph/file/9920a12472358df190368.jpg",
+        "https://telegra.ph/file/adc0a66c184c0ef9cfcd9.jpg",
+        "https://telegra.ph/file/b983c4b845c67b1bcc96f.jpg",
+        "https://telegra.ph/file/a6973e73362b8619af993.jpg",
+        "https://telegra.ph/file/8b69aa1494e9e5024adf5.jpg",
+        "https://telegra.ph/file/44e7458435e945d21deb5.jpg",
+        "https://telegra.ph/file/c372d3d5d0ef4f1093af4.jpg",
+        "https://telegra.ph/file/20acc50008d8589de5f50.jpg",
+        "https://telegra.ph/file/9b2f9702dca1ae326007b.jpg",
+        "https://telegra.ph/file/0a7033111fe66305f558b.jpg",
+        "https://telegra.ph/file/02614635ce43c6c36959c.jpg",
+        "https://telegra.ph/file/6f1fa8ad23462876555b3.jpg",
+        "https://telegra.ph/file/292f7b4f494b8574407af.jpg",
+        "https://telegra.ph/file/ce1876117273d9ac95a2a.jpg",
+        "https://telegra.ph/file/1ccc207b649c1c75c5dde.jpg",
+        "https://telegra.ph/file/bc4748908746b1f78a4c4.jpg",
+        "https://telegra.ph/file/7e2dc952c4dca67750c1e.jpg"
+    ]
+};

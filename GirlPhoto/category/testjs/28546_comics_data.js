@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28546,
+    "title": "[Cos]Yu Miaoyi - Maid[25P]",
+    "sourceUrl": "https://telegra.ph/CosYu-Miaoyi---Maid25P-09-30",
+    "images": [
+        "https://telegra.ph/file/ed27817671e55bd6221f0.jpg",
+        "https://telegra.ph/file/dceb5131eb3aff8523eaa.jpg",
+        "https://telegra.ph/file/b4016e8f7a0107db05363.jpg",
+        "https://telegra.ph/file/6efda24145ab616af7909.jpg",
+        "https://telegra.ph/file/47f7aa7c93896b04f3882.jpg",
+        "https://telegra.ph/file/e4867104c040ea487fc1a.jpg",
+        "https://telegra.ph/file/9626623f3bebe2cc3fc24.jpg",
+        "https://telegra.ph/file/42f1d51c80b286974745f.jpg",
+        "https://telegra.ph/file/bc026e2ebe2e550f17390.jpg",
+        "https://telegra.ph/file/1df01db51fc6e1a6c1bd7.jpg",
+        "https://telegra.ph/file/383d8e7e7c11a58dd23a0.jpg",
+        "https://telegra.ph/file/e6abd71de036a4245556d.jpg",
+        "https://telegra.ph/file/fae179cc3ee016c16e3ab.jpg",
+        "https://telegra.ph/file/c3407d28db0c4957161d2.jpg",
+        "https://telegra.ph/file/8fea8086ddfa2855a0bed.jpg",
+        "https://telegra.ph/file/251d42ca96420bb543051.jpg",
+        "https://telegra.ph/file/c66943b28c08a895a2575.jpg",
+        "https://telegra.ph/file/eda5f72e6256d535e5801.jpg",
+        "https://telegra.ph/file/f62392a47ecca98d7c511.jpg",
+        "https://telegra.ph/file/cbbfb641a01bf14089b54.jpg",
+        "https://telegra.ph/file/cde68f737c36f81cf229a.jpg",
+        "https://telegra.ph/file/69ec470620da5d5c5f352.jpg",
+        "https://telegra.ph/file/2fd19541802b43f0560f3.jpg",
+        "https://telegra.ph/file/f4f4ff6fcd50c1005dd30.jpg",
+        "https://telegra.ph/file/8f000439709e9e9a8f872.jpg"
+    ]
+};

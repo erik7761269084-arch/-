@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50370,
+    "title": "[Xidaidai 习呆呆] Wakaba Mutsumi with GIF (BanG Dream!) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Wakaba-Mutsumi-with-GIF-BanG-Dream-Decensored---Page-1-05-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiJoE2diaKpxAo8EAQKCSSD8PZBU_AACRCUAAo7gmVS5ApN_PykChDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiNoE2dkDoPyoVvXW1hV_bGUJWjvEQACRSUAAo7gmVR0G9dCfs0D3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiRoE2dlxfNyrfbKlrd4MMJQBApCDgACRiUAAo7gmVQINm8k-wQGzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiVoE2dnWqK0DHNVtC8SU1tmft0SGQACRyUAAo7gmVRvERL0zvYtoDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiZoE2dp-05bug2c3LFNwkwQ4RaQggACSCUAAo7gmVQQ8FLib5twPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFidoE2drEX-M8-iKgBfDOpAGO-n7zgACSSUAAo7gmVQ4eWQ3x8VyzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFihoE2dthBnDFhhE2hcJnUnpS5gblQACSiUAAo7gmVQ1NPskwE4U3zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFiloE2duDRPZLlHEFjlu6ywtxM2yVwACSyUAAo7gmVQQBRMHeggV7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFipoE2dwNW6aD3TWNGi4mg65UYBb7gACTCUAAo7gmVQHoGx7MekV4DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFitoE2dyQGTtq8vuFLItmFWrkAqYrwACTSUAAo7gmVSPusAcJNkx7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFixoE2dzqiwJxEDQHuf9DmvBGldygQACTiUAAo7gmVQvedQ4MH3WezYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFi1oE2d1I4Ny4VojCBi44xW-AAGOnRYAAk8lAAKO4JlUN7LKyTpLdfI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFi5oE2d34jlrmt0mKfziLARfsPESTAACUCUAAo7gmVTSQcJJ6DVDYTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFi9oE2d4NyrAWYuuSIKRN72hkfSDhgACUSUAAo7gmVSRLc452eHkrDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjBoE2d6VDOnMmEUVEytGAtMO23dBQACUyUAAo7gmVRCEBYQdwYRMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjFoE2d8ltnTWEsEJ4MqImlqp7wUAgACVCUAAo7gmVRM04suoOUr4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjJoE2d9HNeXtwnPOhgppEbJG4KFvgACVSUAAo7gmVQei_tvKHuW9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjNoE2d_iOIAARYlLKhcLOjxZU3hGPQAAlYlAAKO4JlUpvMwuAZKNCg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjRoE2eCAAFqBiMf4JTDXadq9ZzPSy0AAlclAAKO4JlUTCypxq0kEBw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjVoE2eFtKrutF2qW8RG3tBfVWWfEwACWCUAAo7gmVQj9Ig3tUXv9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjZoE2fIrVPFYlyiw4LmdVkwJhX28QACWyUAAo7gmVSJRj4n9lx8CTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjdoE2fLdv75NIeHokyKwAkXdgKfNAACXSUAAo7gmVTc9WMs18YnITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKFjhoE2fOywU76Uy6VwtywuQitxP6qQACXiUAAo7gmVSu-VYnq2TraTYE"
+    ]
+};

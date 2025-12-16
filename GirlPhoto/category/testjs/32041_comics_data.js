@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32041,
+    "title": "NinJA阿寨寨写真 Cosplay 生徒会长",
+    "sourceUrl": "https://telegra.ph/NinJA阿寨寨写真-Cosplay-生徒会长-10-11",
+    "images": [
+        "https://telegra.ph/file/ec60b3dd2105c28487dee.jpg",
+        "https://telegra.ph/file/f8e1b8881fa7ec324efb6.jpg",
+        "https://telegra.ph/file/f25a408cb8859ebf3220c.jpg",
+        "https://telegra.ph/file/2a4c23db764f481b1fbcd.jpg",
+        "https://telegra.ph/file/1b5cc505572b17b103f08.jpg",
+        "https://telegra.ph/file/c07d8bf16f550172be56e.jpg",
+        "https://telegra.ph/file/8308e208bcddf827756aa.jpg",
+        "https://telegra.ph/file/d192f9ed40beb77d538fc.jpg",
+        "https://telegra.ph/file/17f9c5482fe05ee3ed199.jpg",
+        "https://telegra.ph/file/be48111214e4c8dec51ac.jpg",
+        "https://telegra.ph/file/97a50fb7e7a3adeaba41c.jpg",
+        "https://telegra.ph/file/ac5ce005cc03cfb61abb5.jpg",
+        "https://telegra.ph/file/c98159d3343e260f236f4.jpg",
+        "https://telegra.ph/file/28cbd1213805fce6e4b91.jpg",
+        "https://telegra.ph/file/d42ff7f989eac4916cd27.jpg",
+        "https://telegra.ph/file/c12ae05e9640732de3395.jpg",
+        "https://telegra.ph/file/d2f62db9d9253b865be19.jpg",
+        "https://telegra.ph/file/7a5e739f8ffc0c144dfc1.jpg",
+        "https://telegra.ph/file/e6bb0dc14a15faef6d4a7.jpg",
+        "https://telegra.ph/file/9151f29a7e953c9abbbd0.jpg",
+        "https://telegra.ph/file/1f07a13212764b92e3ba2.jpg",
+        "https://telegra.ph/file/68a13d12eb801e4adf769.jpg",
+        "https://telegra.ph/file/82eb591c6b1ef60c4a060.jpg",
+        "https://telegra.ph/file/d3f64cb8d64ec1b4516be.jpg",
+        "https://telegra.ph/file/7efb809fb331966a2380e.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

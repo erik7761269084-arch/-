@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22748,
+    "title": "雨波_HaneAme 角盾華凜寫真書 JK",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme-%E8%A7%92%E7%9B%BE%E8%8F%AF%E5%87%9C%E5%AF%AB%E7%9C%9F%E6%9B%B8-JK-12-10",
+    "images": [
+        "https://telegra.ph/file/6fe1047a2bc959a331b01.jpg",
+        "https://telegra.ph/file/44fe4f135cebd8ed2dc9a.jpg",
+        "https://telegra.ph/file/73ae0686d5c758f814db3.jpg",
+        "https://telegra.ph/file/52957b26abeb258fa2af0.jpg",
+        "https://telegra.ph/file/cbd6d1baeda891fadcbdd.jpg",
+        "https://telegra.ph/file/6a0a2d0d2638fab3d550a.jpg",
+        "https://telegra.ph/file/80629c33b949efd0c4097.jpg",
+        "https://telegra.ph/file/a31403092995a6529ff53.jpg",
+        "https://telegra.ph/file/201a15d37e3e1fd5749de.jpg",
+        "https://telegra.ph/file/b393dd04e16f7eaa67e6d.jpg",
+        "https://telegra.ph/file/0384ec11a150a81dd5fe2.jpg",
+        "https://telegra.ph/file/1207ca7f8669f2fc4e5b6.jpg",
+        "https://telegra.ph/file/c2e386bdb4416035a9709.jpg",
+        "https://telegra.ph/file/9c68f8de0c5bff7603816.jpg",
+        "https://telegra.ph/file/e2ed91a81a52d1b554a56.jpg",
+        "https://telegra.ph/file/ae6ea7306215ceac94603.jpg",
+        "https://telegra.ph/file/33d4743cf5f34beb4350d.jpg",
+        "https://telegra.ph/file/521cf7c539c2136a38372.jpg",
+        "https://telegra.ph/file/5efd203df40ceac7bcbe4.jpg",
+        "https://telegra.ph/file/b315d56d36153982f68bf.jpg",
+        "https://telegra.ph/file/154af7d1581a559450bb0.jpg",
+        "https://telegra.ph/file/ad101dbabdeb808bf9c10.jpg",
+        "https://telegra.ph/file/2f3f08eeb15ad9afaa5da.jpg",
+        "https://telegra.ph/file/2ef39bb76600e2ce01c8f.jpg",
+        "https://telegra.ph/file/e1305fc62bec23d8b159a.jpg"
+    ]
+};

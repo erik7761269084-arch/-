@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42028,
+    "title": "Win Winry - Frieren (Sou Sou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-30-4",
+    "images": [
+        "https://i.ibb.co/8DXVMP77/01-Frieren-1.jpg",
+        "https://i.ibb.co/mVDx8KCk/02-Frieren-2.jpg",
+        "https://i.ibb.co/C5NB1css/03-Frieren-3.jpg",
+        "https://i.ibb.co/ccr70Sk6/04-Frieren-4.jpg",
+        "https://i.ibb.co/1fW54B8N/05-Frieren-5.jpg",
+        "https://i.ibb.co/xtjk7k8D/06-Frieren-6.jpg",
+        "https://i.ibb.co/tTMVqHSf/07-Frieren-7.jpg",
+        "https://i.ibb.co/cS76mdmq/08-Frieren-8.jpg",
+        "https://i.ibb.co/Fkkv1q0Z/09-Frieren-9.jpg",
+        "https://i.ibb.co/yFqPn2Y3/10-Frieren-10.jpg",
+        "https://i.ibb.co/qFJ9fg4d/11-Frieren-11.jpg",
+        "https://i.ibb.co/20k07xvb/12-Frieren-12.jpg",
+        "https://i.ibb.co/YFRXdwRQ/13-Frieren-13.jpg",
+        "https://i.ibb.co/TDDcRhr5/14-Frieren-14.jpg",
+        "https://i.ibb.co/ZppGWgJp/15-Frieren-15.jpg",
+        "https://i.ibb.co/PGtMCyZD/16-Frieren-16.jpg",
+        "https://i.ibb.co/HL4VRZcg/17-Frieren-17.jpg",
+        "https://i.ibb.co/JRdq6tdT/18-Frieren-18.jpg",
+        "https://i.ibb.co/XZbGR4Pw/19-Frieren-19.jpg",
+        "https://i.ibb.co/R4PYkT2p/20-Frieren-20.jpg",
+        "https://i.ibb.co/0VpYfgKh/21-Frieren-21.jpg",
+        "https://i.ibb.co/v4mTDrt9/22-Frieren-22.jpg",
+        "https://i.ibb.co/4BrbG2S/23-Frieren-23.jpg",
+        "https://i.ibb.co/qL8ZfWJS/24-Frieren-24.jpg",
+        "https://i.ibb.co/xPmKhMQ/25-Frieren-25.jpg"
+    ]
+};

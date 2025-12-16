@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41109,
+    "title": "Xidaidai - Frieren (Sousou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Frieren-Sousou-No-Frieren-01-31",
+    "images": [
+        "https://telegra.ph/file/1a2877ab15d8a3acf4da6.jpg",
+        "https://telegra.ph/file/29062f69ce88ba735844d.jpg",
+        "https://telegra.ph/file/1c6f1a865d679b633801a.jpg",
+        "https://telegra.ph/file/d0449fbf4b47441ca5c2e.jpg",
+        "https://telegra.ph/file/f85c2a2188c958bf7e3cf.jpg",
+        "https://telegra.ph/file/cab8586fc22c2d327a28f.jpg",
+        "https://telegra.ph/file/9208b9028bef1bdf770eb.jpg",
+        "https://telegra.ph/file/57772a951649b6ceb7d41.jpg",
+        "https://telegra.ph/file/52ff6f2d819af62868c55.jpg",
+        "https://telegra.ph/file/8a82d15b53cad35fb2973.jpg",
+        "https://telegra.ph/file/30f9380aa91af1395264c.jpg",
+        "https://telegra.ph/file/ca33ab9aefd37e7e5b550.jpg",
+        "https://telegra.ph/file/0d794f94319f6929a0de3.jpg",
+        "https://telegra.ph/file/9ec897b69804849f13529.jpg",
+        "https://telegra.ph/file/789cfa5907906dc7b223c.jpg",
+        "https://telegra.ph/file/33a701df63b4684195786.jpg",
+        "https://telegra.ph/file/9a7df7923283654195811.jpg",
+        "https://telegra.ph/file/47902fedaf55614096d32.jpg",
+        "https://telegra.ph/file/78521dc63a443ffe444c1.jpg",
+        "https://telegra.ph/file/956c68a70adca0a0ce13f.jpg",
+        "https://telegra.ph/file/ad8caeff798fdce78c0e6.jpg",
+        "https://telegra.ph/file/51110713926681cb99d0f.jpg",
+        "https://telegra.ph/file/dd0590f2a138c23828244.jpg"
+    ]
+};

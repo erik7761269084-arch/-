@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42808,
+    "title": "雾枝姬 - 剑道套装[23p1v880mb]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%BE%E6%9E%9D%E5%A7%AC---%E5%89%91%E9%81%93%E5%A5%97%E8%A3%8523p1v880mb-06-30",
+    "images": [
+        "https://telegra.ph/file/cca9f5a8f96ea1dd3f9e3.jpg",
+        "https://telegra.ph/file/67f6122dd49b8409cd653.jpg",
+        "https://telegra.ph/file/df382738816614e4418c6.jpg",
+        "https://telegra.ph/file/dc2a03b0b44bfdeecf271.jpg",
+        "https://telegra.ph/file/1516cc55f90a703b3f4c0.jpg",
+        "https://telegra.ph/file/13940abe136efbfe555b7.jpg",
+        "https://telegra.ph/file/6173f7eb6198dd16dbce8.jpg",
+        "https://telegra.ph/file/43ac8d9ffec957e6fc250.jpg",
+        "https://telegra.ph/file/a2e5c2aa4f00f1c38f280.jpg",
+        "https://telegra.ph/file/fafe95c77663d6a41db77.jpg",
+        "https://telegra.ph/file/810be5aa592284f4b2508.jpg",
+        "https://telegra.ph/file/f262984880c8f683f590e.jpg",
+        "https://telegra.ph/file/c1c2b1cb2a34b7a139d91.jpg",
+        "https://telegra.ph/file/e0ce570e00a3569a48b08.jpg",
+        "https://telegra.ph/file/2e614e3b21a2d02be7de2.jpg",
+        "https://telegra.ph/file/1d95e0296ce47466650b1.jpg",
+        "https://telegra.ph/file/504478ef05e3923732d6f.jpg",
+        "https://telegra.ph/file/39db4055ce157ef9eed83.jpg",
+        "https://telegra.ph/file/a25367b5f214a8cdc2aca.jpg",
+        "https://telegra.ph/file/db358bd9f8082db585410.jpg",
+        "https://telegra.ph/file/3b8d1c85d0c9400f52d0e.jpg",
+        "https://telegra.ph/file/72be0f6f93fc735c024a8.jpg",
+        "https://telegra.ph/file/21a64cb25f5438dac8690.jpg"
+    ]
+};

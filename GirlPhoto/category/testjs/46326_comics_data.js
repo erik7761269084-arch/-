@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46326,
+    "title": "Asagiriai（愛ちゃん）- 吉他妹妹 - Page 1",
+    "sourceUrl": "https://telegra.ph/Asagiriai愛ちゃん--吉他妹妹---Page-1-12-18",
+    "images": [
+        "https://telegra.ph/file/c9d4132719b7b28466516.jpg",
+        "https://telegra.ph/file/e003db381d35f1ecfc16d.jpg",
+        "https://telegra.ph/file/c07837d79ddef18edeaf8.jpg",
+        "https://telegra.ph/file/f47df4f29a14196e67716.jpg",
+        "https://telegra.ph/file/2b43e57b4efbd3016dddf.jpg",
+        "https://telegra.ph/file/11156c79c3415301cad1b.jpg",
+        "https://telegra.ph/file/e9bf1b3f9af3452d6c9c5.jpg",
+        "https://telegra.ph/file/eca7cc7386fbcf1d093b6.jpg",
+        "https://telegra.ph/file/05125b7380043b2c08210.jpg",
+        "https://telegra.ph/file/59b8ebbaf4cd9641ca7ef.jpg",
+        "https://telegra.ph/file/10e59b344113d4551942d.jpg",
+        "https://telegra.ph/file/a805d5caea2d24b4f3bf7.jpg",
+        "https://telegra.ph/file/c0e0d7c8cdc9b8f5ec450.jpg",
+        "https://telegra.ph/file/2deff38c8989f1f2717ad.jpg",
+        "https://telegra.ph/file/a6b55ebbadefe7b98fd03.jpg",
+        "https://telegra.ph/file/307c12dc0faa01efd5109.jpg",
+        "https://telegra.ph/file/2c62a27406abbae2d1f78.jpg",
+        "https://telegra.ph/file/e7c0bcb381df0ee629453.jpg",
+        "https://telegra.ph/file/6c3ae970c29f854268b89.jpg",
+        "https://telegra.ph/file/71d9bfe055522c5333146.jpg",
+        "https://telegra.ph/file/b1156504304ecd3e127dd.jpg",
+        "https://telegra.ph/file/2ffa474f3655eceee809d.jpg",
+        "https://telegra.ph/file/ed10c310d5f34493817c6.jpg",
+        "https://telegra.ph/file/01307db241d464a02588d.jpg",
+        "https://telegra.ph/file/c13f36c475fb14f83962e.jpg",
+        "https://telegra.ph/file/0be483754995e8cbfc882.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42258,
+    "title": "Velvet Valerina - Sonic",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-12-12-6",
+    "images": [
+        "https://i.ibb.co/sp3RzB53/01-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-13.jpg",
+        "https://i.ibb.co/Q39MBD9C/02-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-24.jpg",
+        "https://i.ibb.co/yc0xDm1w/03-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-2-1.jpg",
+        "https://i.ibb.co/G3s4YxTP/04-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-20-1.jpg",
+        "https://i.ibb.co/bg6YDCQK/05-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-22-1.jpg",
+        "https://i.ibb.co/20jwr034/06-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-10.jpg",
+        "https://i.ibb.co/nMhFGP1p/07-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-17.jpg",
+        "https://i.ibb.co/wFgLLT2R/08-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-8.jpg",
+        "https://i.ibb.co/kYhL8Rt/09-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-6.jpg",
+        "https://i.ibb.co/sJK7jr9T/10-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-21-1.jpg",
+        "https://i.ibb.co/XfMrvsTw/11-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-9.jpg",
+        "https://i.ibb.co/DcdYHQF/12-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-19-1.jpg",
+        "https://i.ibb.co/S4HLHG08/14-1609729156649.jpg",
+        "https://i.ibb.co/6cjtsxWn/15-1609729248575.jpg",
+        "https://i.ibb.co/WN6j86PB/16-9-Cloud-us-0224-Creampuff-21.jpg",
+        "https://i.ibb.co/DfPhPcW4/17-9-Cloud-us-0242-Creampuff-91.jpg",
+        "https://i.ibb.co/23t6D1dS/18-9-Cloud-us-0239-Creampuff-81.jpg",
+        "https://i.ibb.co/0p8q6x0z/19-9-Cloud-us-0221-Creampuff-11.jpg",
+        "https://i.ibb.co/MxRNKszD/20-1609729070234.jpg",
+        "https://i.ibb.co/wZVxWhtW/21-Velvetvalerina-Patreon-Cupcake-Sonic-Photos-1.jpg",
+        "https://i.ibb.co/XxfSH56Q/22-9-Cloud-us-0228-Creampuff-41.jpg",
+        "https://i.ibb.co/nMcnPnYd/24-9-Cloud-us-0234-Creampuff-61.jpg",
+        "https://i.ibb.co/HfbTmz0T/26-9-Cloud-us-0237-Creampuff-71.jpg",
+        "https://i.ibb.co/PsqxKRyd/27-9-Cloud-us-0226-Creampuff-31.jpg",
+        "https://i.ibb.co/p6gm3TTb/28-9-Cloud-us-0231-Creampuff-51.jpg",
+        "https://i.ibb.co/ccBXSGVP/29-9-Cloud-us-0247-Creampuff-111.jpg"
+    ]
+};

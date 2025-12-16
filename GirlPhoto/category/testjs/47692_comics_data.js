@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47692,
+    "title": "【私人玩物】d.va（2） - Page 1",
+    "sourceUrl": "https://telegra.ph/私人玩物dva2---Page-1-04-24",
+    "images": [
+        "https://telegra.ph/file/44c6f735d6fa444958a08.jpg",
+        "https://telegra.ph/file/07be3c89dada143b95dad.jpg",
+        "https://telegra.ph/file/f45163684ef5ec8cb40e3.jpg",
+        "https://telegra.ph/file/3e217dcde66e290f68264.jpg",
+        "https://telegra.ph/file/4b5ad410716e4d0de51c1.jpg",
+        "https://telegra.ph/file/084b174166e0c73f99c5d.jpg",
+        "https://telegra.ph/file/cc9fdfa892710e9c92755.jpg",
+        "https://telegra.ph/file/73f79dae6bc48959a4ae3.jpg",
+        "https://telegra.ph/file/250de21e5a554d4eb7e43.jpg",
+        "https://telegra.ph/file/64fec77a2b317b8192db0.jpg",
+        "https://telegra.ph/file/f57840521af34f7bd9d00.jpg",
+        "https://telegra.ph/file/5a714a7f7cf5c6cf9bfa2.jpg",
+        "https://telegra.ph/file/2f9d9261a53b20144f312.jpg",
+        "https://telegra.ph/file/66fa91cdb8f37494f665f.jpg",
+        "https://telegra.ph/file/4ffeb8e32ef48c296da73.jpg",
+        "https://telegra.ph/file/f55b9727569c2b009f811.jpg",
+        "https://telegra.ph/file/9bf1c150cbe8d76ddd5a6.jpg",
+        "https://telegra.ph/file/be67d79a16954679df1ad.jpg",
+        "https://telegra.ph/file/45bd359f94b13dee83431.jpg",
+        "https://telegra.ph/file/13e26d67f0a9be17cb38e.jpg",
+        "https://telegra.ph/file/84aa190676c4547728c72.jpg",
+        "https://telegra.ph/file/c4ae29d4948e8c70709f0.jpg",
+        "https://telegra.ph/file/8e0d442bc05fc158bde55.jpg",
+        "https://telegra.ph/file/44a08c13af4f56b2192c4.jpg",
+        "https://telegra.ph/file/0c0e63e9ee9a37dad24bf.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28694,
+    "title": "南桃Momoko-爱宕制服、爱礼服[24P]",
+    "sourceUrl": "https://telegra.ph/%E5%8D%97%E6%A1%83Momoko-%E7%88%B1%E5%AE%95%E5%88%B6%E6%9C%8D%E7%88%B1%E7%A4%BC%E6%9C%8D24P-09-08",
+    "images": [
+        "https://telegra.ph/file/e4f8cbfe02162ccbba5dc.jpg",
+        "https://telegra.ph/file/eaf4261653cb8d1e0b65c.jpg",
+        "https://telegra.ph/file/ff335c8fc77eefbfbd09a.jpg",
+        "https://telegra.ph/file/fd4419f21a5bd4bd8ed55.jpg",
+        "https://telegra.ph/file/6ac470fb7645e1a21c223.jpg",
+        "https://telegra.ph/file/5540faf93954c7dbe5689.jpg",
+        "https://telegra.ph/file/8a0094010bb40ffa5c24c.jpg",
+        "https://telegra.ph/file/a4cbd79480ffbe07a2b2b.jpg",
+        "https://telegra.ph/file/39ffdc5c65c8611c544a0.jpg",
+        "https://telegra.ph/file/29fc3ca15325e4fa06f76.jpg",
+        "https://telegra.ph/file/8eb3b04c9a23971959a0e.jpg",
+        "https://telegra.ph/file/b9d457fc3fc093b5a89c4.jpg",
+        "https://telegra.ph/file/cb051771d9215ca0e8794.jpg",
+        "https://telegra.ph/file/26ba58ef144f948b3a927.jpg",
+        "https://telegra.ph/file/90f71c2276580a124d694.jpg",
+        "https://telegra.ph/file/1f3343fc15d636009fa1c.jpg",
+        "https://telegra.ph/file/98f86072e406771553565.jpg",
+        "https://telegra.ph/file/7fbfff290efedf0c793b6.jpg",
+        "https://telegra.ph/file/616ca0f13460c6402f774.jpg",
+        "https://telegra.ph/file/6d08ab74a61f25f6c7b57.jpg",
+        "https://telegra.ph/file/eb4a7de35d37b883d63b8.jpg",
+        "https://telegra.ph/file/0d7427e849978611c7896.jpg",
+        "https://telegra.ph/file/a974f11d29e1dda8c4a8a.jpg",
+        "https://telegra.ph/file/88b0a44dfb7f03b533624.jpg"
+    ]
+};

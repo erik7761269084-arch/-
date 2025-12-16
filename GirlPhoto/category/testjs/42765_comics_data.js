@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42765,
+    "title": "白桃露露-绛珠仙草[25p1v300mb]",
+    "sourceUrl": "https://telegra.ph/%E7%99%BD%E6%A1%83%E9%9C%B2%E9%9C%B2-%E7%BB%9B%E7%8F%A0%E4%BB%99%E8%8D%8925p1v300mb-06-17",
+    "images": [
+        "https://telegra.ph/file/1e735d1a2b9492118f986.jpg",
+        "https://telegra.ph/file/08ea924d418b1dc9f81d6.jpg",
+        "https://telegra.ph/file/9eadaeff61f32b540dd79.jpg",
+        "https://telegra.ph/file/f7e1e6f858ef87fe23ef6.jpg",
+        "https://telegra.ph/file/6e823344ceff00f00b46c.jpg",
+        "https://telegra.ph/file/66ccb0ce97edf8a08172d.jpg",
+        "https://telegra.ph/file/83d1845f21287ce577b35.jpg",
+        "https://telegra.ph/file/7f874723ee902091efc6c.jpg",
+        "https://telegra.ph/file/2b71f76cab9f073650bd8.jpg",
+        "https://telegra.ph/file/80c9c81b64d2e226366e1.jpg",
+        "https://telegra.ph/file/ef3921f803f03bc31a1e0.jpg",
+        "https://telegra.ph/file/5eb17de472211066dd605.jpg",
+        "https://telegra.ph/file/f7970e3a17333b6d9efab.jpg",
+        "https://telegra.ph/file/06e426610affda3ea0b73.jpg",
+        "https://telegra.ph/file/10d3e58e79cf29ffb2688.jpg",
+        "https://telegra.ph/file/b9c20aeb29661a4f5f299.jpg",
+        "https://telegra.ph/file/b895d38526f01ec73424a.jpg",
+        "https://telegra.ph/file/71201ecd0a15d3ada4105.jpg",
+        "https://telegra.ph/file/04059ed462b10b760adf7.jpg",
+        "https://telegra.ph/file/4b94540f941d5954c0371.jpg",
+        "https://telegra.ph/file/4e9e01dd43bc56f9fb7dd.jpg",
+        "https://telegra.ph/file/3238cd8b005a1ecaad032.jpg",
+        "https://telegra.ph/file/ec16aabcb2f2b8320250c.jpg",
+        "https://telegra.ph/file/b0fb865929b6abbf14bc8.jpg",
+        "https://telegra.ph/file/e5c46de0b3a2ebf8d4567.jpg"
+    ]
+};

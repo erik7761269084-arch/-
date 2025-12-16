@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39230,
+    "title": "一笑芳香沁 - Olga 黑兽 (Kuroinu)",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁---Olga-黑兽-Kuroinu-06-08",
+    "images": [
+        "https://telegra.ph/file/87d397e6134afc643f90d.jpg",
+        "https://telegra.ph/file/df1a2b8e1f2f9589a7c6b.jpg",
+        "https://telegra.ph/file/3c14a6b892aa41bb8b9bc.jpg",
+        "https://telegra.ph/file/e57f99c4b570ff6e92141.jpg",
+        "https://telegra.ph/file/44106104c368cd1b8eb9e.jpg",
+        "https://telegra.ph/file/f0e5f2437f70d810f568a.jpg",
+        "https://telegra.ph/file/f7798c1b7e7b779f0b978.jpg",
+        "https://telegra.ph/file/aa807de424daaabece8da.jpg",
+        "https://telegra.ph/file/198c8d94c85cfcc48613b.jpg",
+        "https://telegra.ph/file/95fb513e66a0c656ffaee.jpg",
+        "https://telegra.ph/file/1bfa0799923b735f0b50d.jpg",
+        "https://telegra.ph/file/34369a18e477fc8c457c5.jpg",
+        "https://telegra.ph/file/25108c809305f78869f12.jpg",
+        "https://telegra.ph/file/850b08b02a8e21061d978.jpg",
+        "https://telegra.ph/file/9fac7287831f5c6ce3173.jpg",
+        "https://telegra.ph/file/17277d61e146f6649d391.jpg",
+        "https://telegra.ph/file/7bd80581180b7c3eccbca.jpg",
+        "https://telegra.ph/file/06d6cede364bc55cef0e1.jpg",
+        "https://telegra.ph/file/3e01abc3075b4ecef66c5.jpg",
+        "https://telegra.ph/file/772ec660f22a12492afd3.jpg",
+        "https://telegra.ph/file/e84ac20cb56341fd7e918.jpg",
+        "https://telegra.ph/file/798f5f701dd953d998274.jpg",
+        "https://telegra.ph/file/1dc5e46def23234260fb0.jpg"
+    ]
+};

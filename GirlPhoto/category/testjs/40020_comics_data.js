@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40020,
+    "title": "Minichu - Freya (Kaifuku)",
+    "sourceUrl": "https://telegra.ph/Minichu---Freya-Kaifuku-12-20",
+    "images": [
+        "https://telegra.ph/file/42aceceea9674e287e31c.jpg",
+        "https://telegra.ph/file/304357b952f848b0a1ef2.jpg",
+        "https://telegra.ph/file/20e2677e77fad27ae250d.jpg",
+        "https://telegra.ph/file/df53eb8710a7ccf80804d.jpg",
+        "https://telegra.ph/file/43a78814feee8767ce100.jpg",
+        "https://telegra.ph/file/614928224e8abec64e00f.jpg",
+        "https://telegra.ph/file/7ab47ee68285ac9c53bff.jpg",
+        "https://telegra.ph/file/1ad34135c424fbd7b0527.jpg",
+        "https://telegra.ph/file/4f9f087b8ed12c2208b17.jpg",
+        "https://telegra.ph/file/273485402fc1ed71f342f.jpg",
+        "https://telegra.ph/file/f8ccceb9d6f5b85af3c0c.jpg",
+        "https://telegra.ph/file/1f459ece253e966b45972.jpg",
+        "https://telegra.ph/file/8e0171ed364c5148db3a6.jpg",
+        "https://telegra.ph/file/285971b04c8a6f3c7a6f5.jpg",
+        "https://telegra.ph/file/24306b97ec90acb17b702.jpg",
+        "https://telegra.ph/file/5abdc9f928f98e893c96d.jpg",
+        "https://telegra.ph/file/c87b095fd127e0f76ae44.jpg",
+        "https://telegra.ph/file/dd2465c9b567f2e69c493.jpg",
+        "https://telegra.ph/file/b862fc64b7f280a248f25.jpg",
+        "https://telegra.ph/file/a8e7bb76c6ff4d52c9b21.jpg",
+        "https://telegra.ph/file/1cc88f308089b56e56027.jpg",
+        "https://telegra.ph/file/b0898fb98d764e465d026.jpg",
+        "https://telegra.ph/file/2ce8f5323c8af96c4beaa.jpg"
+    ]
+};

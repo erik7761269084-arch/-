@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31377,
+    "title": "Cosplay Hachi小芭 灶门祢豆子 Nezuko Apron",
+    "sourceUrl": "https://telegra.ph/Cosplay-Hachi小芭-灶门祢豆子-Nezuko-Apron-08-16",
+    "images": [
+        "https://telegra.ph/file/d390c1dcfed1751ba154b.jpg",
+        "https://telegra.ph/file/65b11154150679d133370.jpg",
+        "https://telegra.ph/file/3bc6120bfb708744e1a95.jpg",
+        "https://telegra.ph/file/ee824b7734518bc29a544.jpg",
+        "https://telegra.ph/file/3e33d189a8c8c84713377.jpg",
+        "https://telegra.ph/file/1b15c1bbcc0f556beaf22.jpg",
+        "https://telegra.ph/file/eb88d47b6f8b33d3aa1bf.jpg",
+        "https://telegra.ph/file/a848076cf85c17d579d41.jpg",
+        "https://telegra.ph/file/9705c4ad92ea4d8f8b3ef.jpg",
+        "https://telegra.ph/file/cf12a2c85a7f4a33a29fc.jpg",
+        "https://telegra.ph/file/76db936d54105d377c3ea.jpg",
+        "https://telegra.ph/file/9ba909ed5454d82f724d5.jpg",
+        "https://telegra.ph/file/c93326ff7bd418d9fb6ca.jpg",
+        "https://telegra.ph/file/7b9f26643dc3eb4d181ac.jpg",
+        "https://telegra.ph/file/e330fdf262d72c9586b4d.jpg",
+        "https://telegra.ph/file/7c218aba9082fe769cfc8.jpg",
+        "https://telegra.ph/file/bd7fb55ebe95326aa471e.jpg",
+        "https://telegra.ph/file/6ad0a675ad23ff47e51d0.jpg",
+        "https://telegra.ph/file/59e20bbfa097ae7e98d7c.jpg",
+        "https://telegra.ph/file/577bebda3e5f23616ac52.jpg",
+        "https://telegra.ph/file/0efc1ea4235ee43e7628a.jpg",
+        "https://telegra.ph/file/da85c4e2f8cff082dc3cf.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

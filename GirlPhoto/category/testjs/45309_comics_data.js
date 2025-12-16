@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45309,
+    "title": "铃木美咲 - 想成为你的偶像（刻晴霓裾翩跹篇） - Page 1",
+    "sourceUrl": "https://telegra.ph/铃木美咲---想成为你的偶像刻晴霓裾翩跹篇---Page-1-08-10",
+    "images": [
+        "https://telegra.ph/file/de3c3fc5f9f7a3c7eab06.jpg",
+        "https://telegra.ph/file/983f08ca84e4a465430b0.jpg",
+        "https://telegra.ph/file/e82f80ae002b05da5bb2f.jpg",
+        "https://telegra.ph/file/45b5c68a854dfca3c33da.jpg",
+        "https://telegra.ph/file/bf02c81f6fdb2d94abd4d.jpg",
+        "https://telegra.ph/file/592fe0578b33bbbf17526.jpg",
+        "https://telegra.ph/file/8155fe571ebe91ce1ac0e.jpg",
+        "https://telegra.ph/file/70fe536bbede061d79ac5.jpg",
+        "https://telegra.ph/file/5dad19e1493a6e8821166.jpg",
+        "https://telegra.ph/file/00310417a6f992e24e8f0.jpg",
+        "https://telegra.ph/file/272c126992e689705287c.jpg",
+        "https://telegra.ph/file/aebcdc55f3bc4fd89edb5.jpg",
+        "https://telegra.ph/file/52729ed0d5ea526d3d0f6.jpg",
+        "https://telegra.ph/file/91eccc0a5395e33487715.jpg",
+        "https://telegra.ph/file/66f23d52a22dd2e09f11c.jpg",
+        "https://telegra.ph/file/0919ca6f7612d20af9b2f.jpg",
+        "https://telegra.ph/file/dfd275633dcdd04a0f60b.jpg",
+        "https://telegra.ph/file/8cff575d2d5764acf6531.jpg",
+        "https://telegra.ph/file/35e64040eae712b3020d2.jpg",
+        "https://telegra.ph/file/4ecec3108c5795ed51e6d.jpg",
+        "https://telegra.ph/file/4f9fb982ef5375ef57056.jpg",
+        "https://telegra.ph/file/fbd903f8d67b5191f3e46.jpg",
+        "https://telegra.ph/file/f1e3534fc99e0ef1714ca.jpg",
+        "https://telegra.ph/file/8afeb41865fdc4c8e94e1.jpg",
+        "https://telegra.ph/file/55752a62f1a1682c7275c.jpg"
+    ]
+};

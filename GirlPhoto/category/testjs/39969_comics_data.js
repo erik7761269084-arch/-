@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39969,
+    "title": "Byoru - Lucy (Cyberpunk)",
+    "sourceUrl": "https://telegra.ph/Byoru---Lucy-Cyberpunk-12-07",
+    "images": [
+        "https://telegra.ph/file/c9d383e1643a22820def5.jpg",
+        "https://telegra.ph/file/0864c40f3579b26b89993.jpg",
+        "https://telegra.ph/file/aa3b57477ca3075a08b65.jpg",
+        "https://telegra.ph/file/b8e7eaf7cb053cd43474c.jpg",
+        "https://telegra.ph/file/1e452960b4095bba62946.jpg",
+        "https://telegra.ph/file/cad02bbb0acf2a8aa8795.jpg",
+        "https://telegra.ph/file/f9d81f5e9fe298d8f345d.jpg",
+        "https://telegra.ph/file/b6e843d2b5bc8ffe6a19e.jpg",
+        "https://telegra.ph/file/06d615397977fafa0a1e0.jpg",
+        "https://telegra.ph/file/0fd1556e1a18d31ac2ec2.jpg",
+        "https://telegra.ph/file/88aca229d9585b8ecb3bb.jpg",
+        "https://telegra.ph/file/5fda37b08ded17208f49d.jpg",
+        "https://telegra.ph/file/aeb125eb2ae6cdc7f1df3.jpg",
+        "https://telegra.ph/file/8ded83c25bde6e9e3d7ba.jpg",
+        "https://telegra.ph/file/01d806298a0061bf38f60.jpg",
+        "https://telegra.ph/file/5126ddd7b65027c0f72fd.jpg",
+        "https://telegra.ph/file/60451581c6037fdbcfa76.jpg",
+        "https://telegra.ph/file/cdf70076f24dc8ecee938.jpg",
+        "https://telegra.ph/file/4885b2d21d69a11f6ff57.jpg",
+        "https://telegra.ph/file/8ef09bce04a303a0a52db.jpg",
+        "https://telegra.ph/file/7968fab9ab3ebcd7455e5.jpg",
+        "https://telegra.ph/file/dd85ea6c9643a053dd132.jpg",
+        "https://telegra.ph/file/23e98e49dc9d6e82fc892.jpg",
+        "https://telegra.ph/file/f646f598c7f33e0a1bb57.jpg",
+        "https://telegra.ph/file/48aed78f9b189e17834a3.jpg"
+    ]
+};

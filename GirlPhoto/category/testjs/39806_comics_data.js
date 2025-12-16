@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39806,
+    "title": "Choi Ji Yun - Shego (Kim Possible)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Shego-Kim-Possible-10-14",
+    "images": [
+        "https://telegra.ph/file/cc8a85d47ce52c11b95df.jpg",
+        "https://telegra.ph/file/f6a071a4e0b9b13e9fc8b.jpg",
+        "https://telegra.ph/file/41f15159478c7eae79adf.jpg",
+        "https://telegra.ph/file/f0aa452dc4489112564d3.jpg",
+        "https://telegra.ph/file/71e7d09aeebeab5caf322.jpg",
+        "https://telegra.ph/file/f0a1fe04ad217947bcb5b.jpg",
+        "https://telegra.ph/file/93cc81afb6579dea2491b.jpg",
+        "https://telegra.ph/file/d6cb1d0ef1a8d2c52979c.jpg",
+        "https://telegra.ph/file/c6c8095581577c99af8de.jpg",
+        "https://telegra.ph/file/3c2d47b11f82f5770e698.jpg",
+        "https://telegra.ph/file/36b5265f0778601899067.jpg",
+        "https://telegra.ph/file/c789c36d6c0ec750ff15c.jpg",
+        "https://telegra.ph/file/8cbce97127203bc6170ec.jpg",
+        "https://telegra.ph/file/893759520fe5fba5199b5.jpg",
+        "https://telegra.ph/file/b48e386ebf11e25326cab.jpg",
+        "https://telegra.ph/file/c2dee4e7b6a4ddf94050f.jpg",
+        "https://telegra.ph/file/42caeb5316a56564115eb.jpg",
+        "https://telegra.ph/file/f71d41ffe73fb3affa2c8.jpg",
+        "https://telegra.ph/file/29fca81aca0d554487517.jpg",
+        "https://telegra.ph/file/056ab745dc1ab5b8a8fb7.jpg",
+        "https://telegra.ph/file/edb24ae3157e9368548b5.jpg",
+        "https://telegra.ph/file/9e267f7729405ba787bdc.jpg",
+        "https://telegra.ph/file/8593d8640c9fe5f95f90e.jpg",
+        "https://telegra.ph/file/7d62a715649d8a7d8e333.jpg",
+        "https://telegra.ph/file/5c49e98e3b215b96c5cfe.jpg"
+    ]
+};

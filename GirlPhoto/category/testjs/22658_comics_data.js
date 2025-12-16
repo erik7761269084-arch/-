@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22658,
+    "title": "宮本桜(宫本樱) 003 - 加藤惠浴室",
+    "sourceUrl": "https://telegra.ph/%E5%AE%AE%E6%9C%AC%E6%A1%9C%E5%AE%AB%E6%9C%AC%E6%A8%B1-003---%E5%8A%A0%E8%97%A4%E6%83%A0%E6%B5%B4%E5%AE%A4-12-03",
+    "images": [
+        "https://telegra.ph/file/719071133c1d56de65d78.jpg",
+        "https://telegra.ph/file/d0f47a1d57fdb2aa71b1d.jpg",
+        "https://telegra.ph/file/1784847087483309e7da8.jpg",
+        "https://telegra.ph/file/f34bb45218cd43490e4af.jpg",
+        "https://telegra.ph/file/05bddc4cfe051b68d57de.jpg",
+        "https://telegra.ph/file/7ce0633fea62041cad464.jpg",
+        "https://telegra.ph/file/908cf1fad493739459f25.jpg",
+        "https://telegra.ph/file/0c6a63004f4e7e086e891.jpg",
+        "https://telegra.ph/file/0846aa717d2f21cb68af7.jpg",
+        "https://telegra.ph/file/bfc76f24170affdbb028f.jpg",
+        "https://telegra.ph/file/56e8fbbc3c900079ed8fa.jpg",
+        "https://telegra.ph/file/c63a1fe0d126338810bd7.jpg",
+        "https://telegra.ph/file/74921ddf481b0b3205dfb.jpg",
+        "https://telegra.ph/file/e35af2715159ec6a1c095.jpg",
+        "https://telegra.ph/file/53886111242592264fbd3.jpg",
+        "https://telegra.ph/file/92d08926df2e586130142.jpg",
+        "https://telegra.ph/file/e53c583f12829d1e533b5.jpg",
+        "https://telegra.ph/file/662bafbb1aa696b6469e8.jpg",
+        "https://telegra.ph/file/40686ae484b068ec11c3f.jpg",
+        "https://telegra.ph/file/1ca1f4708ed94cede44a9.jpg",
+        "https://telegra.ph/file/7e522ba8975de51a9af24.jpg",
+        "https://telegra.ph/file/896944c156f107f0edeae.jpg",
+        "https://telegra.ph/file/a45e16241b3b28909085f.jpg",
+        "https://telegra.ph/file/eedaa628f9f16ad1fcd0a.jpg",
+        "https://telegra.ph/file/d0d60f372bc8a82d5923c.jpg"
+    ]
+};

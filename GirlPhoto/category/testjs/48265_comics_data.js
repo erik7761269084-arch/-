@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48265,
+    "title": "Meenfox – Ayaka - Page 1",
+    "sourceUrl": "https://telegra.ph/Meenfox--Ayaka---Page-1-06-15",
+    "images": [
+        "https://telegra.ph/file/c3ab9d5c7ac2de73d3074.jpg",
+        "https://telegra.ph/file/8456499a01d0fa4040d2f.jpg",
+        "https://telegra.ph/file/c6ee8ec3ed44acef970f3.jpg",
+        "https://telegra.ph/file/677b22f487312ad64cf99.jpg",
+        "https://telegra.ph/file/c53020fbc25708e9704d2.jpg",
+        "https://telegra.ph/file/1bf0a7c079cc685e2f777.jpg",
+        "https://telegra.ph/file/10cdc0e0ff2088dde7a35.jpg",
+        "https://telegra.ph/file/a73bb3cff17a1d1368ca0.jpg",
+        "https://telegra.ph/file/c8b62704d3985a6ab8223.jpg",
+        "https://telegra.ph/file/8dd1d1e5d7dc9682f6fd7.jpg",
+        "https://telegra.ph/file/866f48a86b208646fade6.jpg",
+        "https://telegra.ph/file/8b3d7e8aae4c530e4a788.jpg",
+        "https://telegra.ph/file/6f5cc309e76847333b76a.jpg",
+        "https://telegra.ph/file/f7a4cf9930a934764426f.jpg",
+        "https://telegra.ph/file/d4158ff41450501155890.jpg",
+        "https://telegra.ph/file/47633df595cb45f757fd0.jpg",
+        "https://telegra.ph/file/c8a6bc291f3f5e782f227.jpg",
+        "https://telegra.ph/file/1bb19a68e90dc107cf8c3.jpg",
+        "https://telegra.ph/file/c5a22c42b4a7eb0d591b1.jpg",
+        "https://telegra.ph/file/44778c41860eb09d82782.jpg",
+        "https://telegra.ph/file/3677b4d85024529dfddc1.jpg",
+        "https://telegra.ph/file/f7153dee3a8311fd5b45b.jpg",
+        "https://telegra.ph/file/761ba9e1045f38afe59f8.jpg",
+        "https://telegra.ph/file/2f0a41aa9536a20aba39c.jpg",
+        "https://telegra.ph/file/ca4c3398e620fd420736d.jpg"
+    ]
+};

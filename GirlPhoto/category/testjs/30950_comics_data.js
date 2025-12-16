@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 30950,
+    "title": "Cosplay 小仓千代w 南丁女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-小仓千代w-南丁女仆-07-29",
+    "images": [
+        "https://telegra.ph/file/70c5a3b4d2ef6aa339330.jpg",
+        "https://telegra.ph/file/286629da77fd8a505949d.jpg",
+        "https://telegra.ph/file/a7213469deeeac582f3a8.jpg",
+        "https://telegra.ph/file/3b72e80b2123245bd1111.jpg",
+        "https://telegra.ph/file/f5126264ba30fc65a217d.jpg",
+        "https://telegra.ph/file/a3e21f6707d28658b1ff8.jpg",
+        "https://telegra.ph/file/3f95896192383bf16c024.jpg",
+        "https://telegra.ph/file/a98310ec3da3ccd08bbf0.jpg",
+        "https://telegra.ph/file/51a8a33fd19b167f3017c.jpg",
+        "https://telegra.ph/file/dc6238b80ebe15a67b72a.jpg",
+        "https://telegra.ph/file/1003306f8514bd5cb865a.jpg",
+        "https://telegra.ph/file/90c9246abe209302b8f8a.jpg",
+        "https://telegra.ph/file/27f504c65e9b46d7c7543.jpg",
+        "https://telegra.ph/file/d99b666ce49214c5706de.jpg",
+        "https://telegra.ph/file/7c375f4c58d0f49e416e4.jpg",
+        "https://telegra.ph/file/d348f43b97c1394a0e7bb.jpg",
+        "https://telegra.ph/file/f1631b360808ba3add148.jpg",
+        "https://telegra.ph/file/3bdc3218e737b6b5bf7e7.jpg",
+        "https://telegra.ph/file/bd8968fff79fb1e916477.jpg",
+        "https://telegra.ph/file/cc966092243eb7c738127.jpg",
+        "https://telegra.ph/file/22a4b986db833cd518ef6.jpg",
+        "https://telegra.ph/file/321a8a22b050a0e9f3b7b.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 45780,
+    "title": "小悪魔ミク写真26枚 - Page 1",
+    "sourceUrl": "https://telegra.ph/小悪魔ミク写真26枚---Page-1-10-25",
+    "images": [
+        "https://telegra.ph/file/012058d545185afc81431.jpg",
+        "https://telegra.ph/file/c1328ad09e8c9db66475a.jpg",
+        "https://telegra.ph/file/9e79551053def3309722e.jpg",
+        "https://telegra.ph/file/581b389c655afe46c8890.jpg",
+        "https://telegra.ph/file/92b8f30ab0568ab9b1f0d.jpg",
+        "https://telegra.ph/file/2d330c25877d9389e052d.jpg",
+        "https://telegra.ph/file/63eb442b8ea6f00142e6c.jpg",
+        "https://telegra.ph/file/74433a063228bca249afb.jpg",
+        "https://telegra.ph/file/961de9fd1eccae5d98170.jpg",
+        "https://telegra.ph/file/ad215560cc80b53c7dbc3.jpg",
+        "https://telegra.ph/file/668431517ce9bd50801b6.jpg",
+        "https://telegra.ph/file/d2ba36316a4846d095420.jpg",
+        "https://telegra.ph/file/aa75007b2dbbae7f74b66.jpg",
+        "https://telegra.ph/file/44822a2e80c237a9ceafd.jpg",
+        "https://telegra.ph/file/d231799a63a8740f52005.jpg",
+        "https://telegra.ph/file/02eafbc4c7d45efd990f5.jpg",
+        "https://telegra.ph/file/65b70f0507683d8e1a35d.jpg",
+        "https://telegra.ph/file/7c580ec33e54d7e6ac46d.jpg",
+        "https://telegra.ph/file/ca02d2cae96c1da2a7701.jpg",
+        "https://telegra.ph/file/d6790f151d08c750d444d.jpg",
+        "https://telegra.ph/file/ca2c125263b3cc610b3e5.jpg",
+        "https://telegra.ph/file/79e5ed8dbef55134c9ae6.jpg",
+        "https://telegra.ph/file/5823e74d31d2410e4a98a.jpg",
+        "https://telegra.ph/file/2b7c086d9c698288b53aa.jpg",
+        "https://telegra.ph/file/086bff520f405ca7a361c.jpg",
+        "https://telegra.ph/file/df6a589848f12753f16ba.jpg"
+    ]
+};

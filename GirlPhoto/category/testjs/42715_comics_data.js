@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42715,
+    "title": "Tsubaki Album Vol 032 Red sexy nightdress",
+    "sourceUrl": "https://telegra.ph/Tsubaki-Album-Vol-032-Red-sexy-nightdress-06-15",
+    "images": [
+        "https://telegra.ph/file/a00a15f81237d71e76c1b.jpg",
+        "https://telegra.ph/file/aae9929d53247d3338cbc.jpg",
+        "https://telegra.ph/file/31e791e653fdf886b8bfd.jpg",
+        "https://telegra.ph/file/d344f66e05919cce67dbb.jpg",
+        "https://telegra.ph/file/a03e7b4cc5a06d1abd531.jpg",
+        "https://telegra.ph/file/2d9a71666d2921471cac9.jpg",
+        "https://telegra.ph/file/2dd7aea9415f8a038f1ff.jpg",
+        "https://telegra.ph/file/d73665903d5664e516c9a.jpg",
+        "https://telegra.ph/file/b6fdb38f6698dadc8d9e9.jpg",
+        "https://telegra.ph/file/b648579666fb501590028.jpg",
+        "https://telegra.ph/file/3f4f9ccbf1cf4dc4a51f9.jpg",
+        "https://telegra.ph/file/21e7508173113032c70dc.jpg",
+        "https://telegra.ph/file/697207f38a057683f82ae.jpg",
+        "https://telegra.ph/file/36dcbdb865915f185e107.jpg",
+        "https://telegra.ph/file/ff2ef181e87ef83a11b73.jpg",
+        "https://telegra.ph/file/f45729b120f93966746e6.jpg",
+        "https://telegra.ph/file/95971a0c40e227cf95227.jpg",
+        "https://telegra.ph/file/18391ab34df7d311c6a15.jpg",
+        "https://telegra.ph/file/6212025d9226dcb0e6c9d.jpg",
+        "https://telegra.ph/file/3789bfb059d128b0f4005.jpg",
+        "https://telegra.ph/file/936feb15b12dcc94cfa9f.jpg",
+        "https://telegra.ph/file/938a1a7a1012459674881.jpg",
+        "https://telegra.ph/file/ff8d5f1fde32ba87e7af9.jpg",
+        "https://telegra.ph/file/00c69bc423319332df86b.jpg",
+        "https://telegra.ph/file/190e84fac33fd4a846fa7.jpg"
+    ]
+};

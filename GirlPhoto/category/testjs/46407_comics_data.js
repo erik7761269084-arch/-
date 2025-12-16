@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46407,
+    "title": "Hana Bunny - Shizuku-tan - Page 1",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Shizuku-tan---Page-1-12-27",
+    "images": [
+        "https://telegra.ph/file/46929698d8082b317df5e.jpg",
+        "https://telegra.ph/file/4084e87e66397448230d7.jpg",
+        "https://telegra.ph/file/b6c7cfec0f2a99d43c037.jpg",
+        "https://telegra.ph/file/fabb121c427f3248c9b3e.jpg",
+        "https://telegra.ph/file/4e447179a2e3a2705859b.jpg",
+        "https://telegra.ph/file/b20c996e979bd569d3f22.jpg",
+        "https://telegra.ph/file/3ca80b9b33999fa095aef.jpg",
+        "https://telegra.ph/file/41fa40cd2df49ef41490c.jpg",
+        "https://telegra.ph/file/b64bc8736018fb7a573da.jpg",
+        "https://telegra.ph/file/69aa80a30514bde565714.jpg",
+        "https://telegra.ph/file/c59073deb405edc0aeb39.jpg",
+        "https://telegra.ph/file/7bef10076ab8bcb5d8efd.jpg",
+        "https://telegra.ph/file/1e282ebe47ba56ce54806.jpg",
+        "https://telegra.ph/file/255f8a2c2e258a1bf9036.jpg",
+        "https://telegra.ph/file/d3e0e3c349dba35a74f8b.jpg",
+        "https://telegra.ph/file/481b3000c8c83b518cb55.jpg",
+        "https://telegra.ph/file/8953d4673a766e4eb67ae.jpg",
+        "https://telegra.ph/file/d26a421fc9aab26abc59e.jpg",
+        "https://telegra.ph/file/79137a5ba9ca71444ed5c.jpg",
+        "https://telegra.ph/file/8d4987ee194ce0d2eee53.jpg",
+        "https://telegra.ph/file/5726041ff2479f80d183b.jpg",
+        "https://telegra.ph/file/ca94118bb4da11250c3af.jpg",
+        "https://telegra.ph/file/fd8e156afaff3d9365550.jpg",
+        "https://telegra.ph/file/ce8f597448d04cd13db21.jpg",
+        "https://telegra.ph/file/fad8ef41c6b7a150f2470.jpg"
+    ]
+};

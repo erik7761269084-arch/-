@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 36543,
+    "title": "PIA 피아, LEEHEE EXPRESS LEBE-181B Set.02",
+    "sourceUrl": "https://telegra.ph/PIA-피아-LEEHEE-EXPRESS-LEBE-181B-Set02-01-13",
+    "images": [
+        "https://telegra.ph/file/50c90b50eaf5f0d4010ce.jpg",
+        "https://telegra.ph/file/6b6a3b4a1ac30641597a4.jpg",
+        "https://telegra.ph/file/be186998177bf9bf12e08.jpg",
+        "https://telegra.ph/file/6033d23708fa06a77af1a.jpg",
+        "https://telegra.ph/file/a570bfef42c65e5d2ddb2.jpg",
+        "https://telegra.ph/file/94dcf210e19ed74912a60.jpg",
+        "https://telegra.ph/file/ec0d1e60e899f0388eea5.jpg",
+        "https://telegra.ph/file/9063275effd928bbdffad.jpg",
+        "https://telegra.ph/file/b79a2e662e651b628b879.jpg",
+        "https://telegra.ph/file/eed170914ec8858ca478b.jpg",
+        "https://telegra.ph/file/a762a75f0fc754d63b187.jpg",
+        "https://telegra.ph/file/3a6038a4f7f5c886b200a.jpg",
+        "https://telegra.ph/file/7b5e99dfa39f3a6181878.jpg",
+        "https://telegra.ph/file/4fc7328a7499aff15ca1d.jpg",
+        "https://telegra.ph/file/105c8a0bb7839b7783d64.jpg",
+        "https://telegra.ph/file/dca67f1752ffb44230c29.jpg",
+        "https://telegra.ph/file/bb2cadd5f9c61158904f0.jpg",
+        "https://telegra.ph/file/de77c6a0ab4f84f15d747.jpg",
+        "https://telegra.ph/file/618cf7a2c423eb2bba9ea.jpg",
+        "https://telegra.ph/file/f54f9103e0562565206d5.jpg",
+        "https://telegra.ph/file/5cc5ed55706a7ca3bedb4.jpg",
+        "https://telegra.ph/file/fe5fea2a1e0fef7f3e5ef.jpg",
+        "https://telegra.ph/file/9fc9f7e7729c5bc0b29a6.jpg"
+    ]
+};

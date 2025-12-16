@@ -1,0 +1,25 @@
+const comicData = {
+    "IDcode": 51331,
+    "title": "Ayame - 托帕 - Page 1",
+    "sourceUrl": "https://telegra.ph/Ayame---托帕---Page-1-12-02",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGVpLp-5Y8liZBRVhwmOu5mFDgesPAACLyQAAvWIcVX6cmCjf_RAojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGZpLp-9t-3heGmvnAgQGF5Vixny_AACMCQAAvWIcVXlUIASI2ZpUTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGdpLp--_fKDG5EBkTE4zztBZ7p4oAACMSQAAvWIcVWfqLFj70wjSjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGhpLp_A56LC-H2W4XdUj1RDuWE3egACMiQAAvWIcVXK-6ujgpsAAek2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGlpLp_BiH1yt3dxQgsoqHp6THDFowACMyQAAvWIcVVLCtMGUvWEujYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGppLp_CpL4n4bj-EfEdTNmaHxnC6gACNCQAAvWIcVU6qf_u_aT4BjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGtpLp_DVwV7F3Xe8kmf_mW92Si0_wACNSQAAvWIcVWLKrwYWGxJdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOGxpLp_FBFfRD_OaL6KtUkY5uTadTwACNiQAAvWIcVUo5BoVEEm2nTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOG5pLqAIiq9wHHxfskepJtI7yihKIAACOCQAAvWIcVVcogX1ySyGMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOG9pLqAK3ZGVVsPcX2HYezv6lUHywAACOSQAAvWIcVUllGT-yc_D0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHBpLqALKGtJi2MNxgABVrvIen1PC2kAAjokAAL1iHFVfhxoR7hCBdg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHFpLqAMxh4yGyoJ1_MVfCipLzA2ngACOyQAAvWIcVVFRKB9hqbhJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHJpLqAOS1ImiAzDJT0VhjhCDxKM1QACPCQAAvWIcVWHKrXlIzX2ZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHNpLqAPgnSbp6UP8HF_ZQ0T9WHbIwACPSQAAvWIcVXBBXPWkIBOpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHRpLqAQhAU6WNX-HGqZptKpev3EAQACPiQAAvWIcVX6R5LvfCun2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHVpLqARaqM8tVG5OIVEhsPXW7meXwACPyQAAvWIcVU_qHNmRhNE3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHZpLqAT7NtADVW6hozmo_Ng_mD-FwACQCQAAvWIcVX7CGNdJkeDlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVOHdpLqAUUgGHxLpAaqE9k0SKv43OdwACQSQAAvWIcVVSrflY3wK0RTYE"
+    ]
+};

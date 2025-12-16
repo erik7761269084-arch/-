@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40376,
+    "title": "美美丘比酱 - 黑猫教师 / 白色小猫咪",
+    "sourceUrl": "https://telegra.ph/美美丘比酱---黑猫教师--白色小猫咪-06-03",
+    "images": [
+        "https://telegra.ph/file/49984c249bd6475c81aa7.jpg",
+        "https://telegra.ph/file/32cfd0fb7e03a574c4fb5.jpg",
+        "https://telegra.ph/file/c246a085d4f0d142cda91.jpg",
+        "https://telegra.ph/file/38cf5f4947f6f9e9e6983.jpg",
+        "https://telegra.ph/file/4de534368feff0a1a9af5.jpg",
+        "https://telegra.ph/file/300a238d864215080fe0d.jpg",
+        "https://telegra.ph/file/154857a9f173fa8a7c6ba.jpg",
+        "https://telegra.ph/file/6bb3048358dbe64efa87b.jpg",
+        "https://telegra.ph/file/a4afb9838664c6db02b3a.jpg",
+        "https://telegra.ph/file/e20fbf0eb26ca49ad9e17.jpg",
+        "https://telegra.ph/file/cce1b842e4cf07f214588.jpg",
+        "https://telegra.ph/file/ec30d2071ac014b8a6e81.jpg",
+        "https://telegra.ph/file/15df80255f62fc6f95b5e.jpg",
+        "https://telegra.ph/file/95e3463120a911f81d3d7.jpg",
+        "https://telegra.ph/file/1047d80111068b30ace4d.jpg",
+        "https://telegra.ph/file/28e978cd4ba345344d94f.jpg",
+        "https://telegra.ph/file/ebac0045aaed54eaea90f.jpg",
+        "https://telegra.ph/file/9a8feab4ae003064969f8.jpg",
+        "https://telegra.ph/file/b412ac57facc81b6138d3.jpg",
+        "https://telegra.ph/file/aeadeba2d9f28047ee939.jpg",
+        "https://telegra.ph/file/9b2c706440ea39ea22171.jpg",
+        "https://telegra.ph/file/9f002c5b6ff7b5c84e609.jpg",
+        "https://telegra.ph/file/38dbf4e2a74e5f59cfeb4.jpg",
+        "https://telegra.ph/file/18cb90823c8533af6128a.jpg",
+        "https://telegra.ph/file/99aa6774db48fb193f747.jpg",
+        "https://telegra.ph/file/34c75e2e35a2ad7c3adcf.jpg"
+    ]
+};

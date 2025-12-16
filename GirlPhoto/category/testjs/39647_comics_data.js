@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39647,
+    "title": "Azami - Yor Forger (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Azami---Yor-Forger-Spy-x-Family-09-09",
+    "images": [
+        "https://telegra.ph/file/76cc1251b3088d8dc4931.jpg",
+        "https://telegra.ph/file/cbc28ad2d0aebcee8499a.jpg",
+        "https://telegra.ph/file/baa5505259bff3f61461f.jpg",
+        "https://telegra.ph/file/2775eaf3dba192608a24f.jpg",
+        "https://telegra.ph/file/3fed8f607b6b3692508b2.jpg",
+        "https://telegra.ph/file/52a0ca7a4d10bf43d8f8c.jpg",
+        "https://telegra.ph/file/17b91c71a767a70e85591.jpg",
+        "https://telegra.ph/file/e42e2c4dbd64a3c78488a.jpg",
+        "https://telegra.ph/file/d04f12f98d0380f6b910d.jpg",
+        "https://telegra.ph/file/b56d4fb09ec25cfad21c0.jpg",
+        "https://telegra.ph/file/fe5e637c312fe84cf5e82.jpg",
+        "https://telegra.ph/file/52600b59399c5fb45242a.jpg",
+        "https://telegra.ph/file/738d6d140625a568786e1.jpg",
+        "https://telegra.ph/file/5d4e67a2c02e0b79383c2.jpg",
+        "https://telegra.ph/file/94bcc1f24bd8bb8558960.jpg",
+        "https://telegra.ph/file/2d5b43f7bbf1033a10e77.jpg",
+        "https://telegra.ph/file/0ba24cd606a988c44fb73.jpg",
+        "https://telegra.ph/file/e5886c95b13f7dae6f5bc.jpg",
+        "https://telegra.ph/file/4e51a7432448649fb2f80.jpg",
+        "https://telegra.ph/file/9316f1c66257172c81998.jpg",
+        "https://telegra.ph/file/b958b55f2adba676f99b5.jpg",
+        "https://telegra.ph/file/85e2d9f42e2c8be3e938f.jpg",
+        "https://telegra.ph/file/0e1110c898e111386114c.jpg",
+        "https://telegra.ph/file/38239836749bef7a85bc0.jpg",
+        "https://telegra.ph/file/c384a791bfdab31abc5e7.jpg",
+        "https://telegra.ph/file/d2498dacd8bfa3c85a861.jpg"
+    ]
+};

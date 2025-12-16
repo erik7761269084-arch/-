@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49378,
+    "title": "Whimpercat - Gura - Page 1",
+    "sourceUrl": "https://telegra.ph/Whimpercat---Gura---Page-1-01-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zVnjaoReJnWFLw0CoOZGjuEmh53ggAC8xkAAkwIcVQRS8Tle542LTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zZnjaoVq_39Pa3cj6VTLYpOH1N8wQAC9BkAAkwIcVQNq9PmlLLGGjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zdnjaoYapGbOy_tPgYFIQzy72VnjwAC9RkAAkwIcVQVQqnUVot_ETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zhnjaocG1EV0PmNq9edCmHvUyXI1AAC9hkAAkwIcVSzMnaHFK0QkDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zlnjaofzorvkuFUHCiEcWnTZvy9NAAC9xkAAkwIcVR_YThG3pwvejYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zpnjaohTfzxUVzGbIUTYy1IiPw4hAAC-BkAAkwIcVTYH0yvM4nR5jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4ztnjaokg8_2i1o_0e7KXmq73iUj5AAC-RkAAkwIcVSju-w6tj3vsjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zxnjao01PgqZ5g4CAw7zyw8JNdbuAAC-hkAAkwIcVThWEsnL-MUITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4z1njao7Ub5R6WH9vk9Y4CyUaUQ5cAAC-xkAAkwIcVQMjP9NW1FBazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4z5njao-dEVWbC4meCEgbPD1PFeotAAC_BkAAkwIcVTnZyZc8rSZIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4z9njapCgLIQVBlYK85I4BVDOD5cCgAC_RkAAkwIcVQ9CTC2-HUhLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40BnjapJgH18mz8WHJl4-rVdfCWJhQAC_hkAAkwIcVSfVDhUn8oC_TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40FnjapLf87Hrar-nAxPS-dJBkr-kwAC_xkAAkwIcVRqDU05xwL8ATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40JnjapOTE-x_CAMFyB2RlvDWlpRQgADGgACTAhxVGDM6NIH6joENgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40NnjapR8hlsGu8DbWKlKijaHom5oQACARoAAkwIcVRbxGbGD6G9hzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40RnjapTEGYf0mkeEdBsTrNjzlGSBgACAhoAAkwIcVRZxAbp4DCOJzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40VnjapWoEwa5PGKcRida1tCtHP_IwACAxoAAkwIcVRItb6ZjYWk6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40ZnjapYvxhPLvLT5TjfmC6YxwABEzcAAgQaAAJMCHFUDu1IfGo5Y982BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40dnjapfjxLIReEXk5F5DvLYxIj8eAACBRoAAkwIcVQVZ9dG5Aj6jTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40hnjapi6ueG6DiX0M2gitauhrZ5_AACBhoAAkwIcVTa8B8WtEK8-TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40lnjapky40BzWu9jRepISm94Ztt4gACBxoAAkwIcVTbpcA7i-6jXDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40pnjapnfDTn7xpFbl67jP6nMRPu3AACCBoAAkwIcVSt98nru_OK6zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40tnjapq5Y2EDts0PF8IDjnH4-xQbAACCRoAAkwIcVSCZdZwtBslJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED40xnjaptvnIsUnCJRo_YGWERYuEGkgACChoAAkwIcVSIbYWjI1-LSzYE"
+    ]
+};

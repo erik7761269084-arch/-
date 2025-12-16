@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47820,
+    "title": "Invadernoodles ー Hinata - Page 1",
+    "sourceUrl": "https://telegra.ph/Invadernoodles-ー-Hinata---Page-1-05-06",
+    "images": [
+        "https://telegra.ph/file/ba04fea80d47fe3e4f1fa.jpg",
+        "https://telegra.ph/file/f420ee229a5e853aee802.jpg",
+        "https://telegra.ph/file/f34bdbddbc637e4207461.jpg",
+        "https://telegra.ph/file/b301420175de61f10bf83.jpg",
+        "https://telegra.ph/file/29db16d9d32553c0dd993.jpg",
+        "https://telegra.ph/file/abbd548bfd2a9015b2fd4.jpg",
+        "https://telegra.ph/file/a5fa33160212ab143a3cb.jpg",
+        "https://telegra.ph/file/2ec5be2bccc57f9999e92.jpg",
+        "https://telegra.ph/file/97bbb83e315a7dd88f20d.jpg",
+        "https://telegra.ph/file/f991f513f541b1822f8bf.jpg",
+        "https://telegra.ph/file/747bbda9de4d582ca15bb.jpg",
+        "https://telegra.ph/file/741057f132759bf2846e3.jpg",
+        "https://telegra.ph/file/511b9ee7f4ced276e5635.jpg",
+        "https://telegra.ph/file/68739b74c473554cda572.jpg",
+        "https://telegra.ph/file/d5e5a23be510e66e43dd3.jpg",
+        "https://telegra.ph/file/6bc6f44cea7ee3a94df81.jpg",
+        "https://telegra.ph/file/a16274b0d2394ce3c0496.jpg",
+        "https://telegra.ph/file/ef5f83ea04d76d9ae38ec.jpg",
+        "https://telegra.ph/file/52aded900250a3597d8f3.jpg",
+        "https://telegra.ph/file/b9cc76cf1640abc8e6186.jpg",
+        "https://telegra.ph/file/3f31b8e26bf1936c706a3.jpg",
+        "https://telegra.ph/file/c2557839c4e57d214ca3e.jpg",
+        "https://telegra.ph/file/b4241f8769695f1a52e28.jpg",
+        "https://telegra.ph/file/20215ed18d88ffb7dc5c9.jpg"
+    ]
+};

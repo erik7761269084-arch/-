@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39870,
+    "title": "Potato Godzilla - KAmiw",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---KAmiw-11-12",
+    "images": [
+        "https://telegra.ph/file/2485568ffcca8b22f3a6d.jpg",
+        "https://telegra.ph/file/f271ad8815663c403350a.jpg",
+        "https://telegra.ph/file/46262063b2bb5fe292b8b.jpg",
+        "https://telegra.ph/file/0bdee598b1b038f3b1a8d.jpg",
+        "https://telegra.ph/file/f7ccd7c75d6fb402204f9.jpg",
+        "https://telegra.ph/file/54a69dbaf0103264f2b66.jpg",
+        "https://telegra.ph/file/baaa104e5a3e01094cf23.jpg",
+        "https://telegra.ph/file/6aa82bb95c5b4c8393328.jpg",
+        "https://telegra.ph/file/1f40831a8abb70ce38d14.jpg",
+        "https://telegra.ph/file/8c9b963e2d6e073cffc1b.jpg",
+        "https://telegra.ph/file/bcaa5c615acbf6bac1a41.jpg",
+        "https://telegra.ph/file/eb7908b92efc5345dc2ae.jpg",
+        "https://telegra.ph/file/b232305d04b59237647d2.jpg",
+        "https://telegra.ph/file/3c5cf4c7a4727d16ace85.jpg",
+        "https://telegra.ph/file/e091beee0802b5d06efb3.jpg",
+        "https://telegra.ph/file/bc190d6e05112f49486fc.jpg",
+        "https://telegra.ph/file/4587c363365047ffb3765.jpg",
+        "https://telegra.ph/file/5b1036ade70050d453b7d.jpg",
+        "https://telegra.ph/file/d396b8b88985526a82284.jpg",
+        "https://telegra.ph/file/5d6e7b9fdba70e20fab16.jpg",
+        "https://telegra.ph/file/4df5cdce6256fa2b7a0ae.jpg",
+        "https://telegra.ph/file/2ffa0780c11ab73ffb442.jpg",
+        "https://telegra.ph/file/0abb6f7c5edd13d39bf0e.jpg",
+        "https://telegra.ph/file/e8a4767af72d62e126e5e.jpg"
+    ]
+};

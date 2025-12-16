@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 45690,
+    "title": "QUEENIE CHUPPY - Tsunade - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---Tsunade---Page-1-10-17",
+    "images": [
+        "https://telegra.ph/file/eb9cb055c916a7241da86.jpg",
+        "https://telegra.ph/file/c2a9fa00f6423525c40ba.jpg",
+        "https://telegra.ph/file/0880edd8e367b2054100e.jpg",
+        "https://telegra.ph/file/2d909084d0986c96b1bbc.jpg",
+        "https://telegra.ph/file/1abd68a5830bf73d5d453.jpg",
+        "https://telegra.ph/file/236b9031a91e12caa98b9.jpg",
+        "https://telegra.ph/file/8146e313027e3abf1c689.jpg",
+        "https://telegra.ph/file/52559c072476cc97a75c3.jpg",
+        "https://telegra.ph/file/0a1141e10815dae0510ad.jpg",
+        "https://telegra.ph/file/72861d8397f68e6c4e5c2.jpg",
+        "https://telegra.ph/file/065bd4c1d114fbdc292f0.jpg",
+        "https://telegra.ph/file/1815eaf44c109a7b5423d.jpg",
+        "https://telegra.ph/file/afcb7272a0a13be4febb0.jpg",
+        "https://telegra.ph/file/0404335517d494c72ca37.jpg",
+        "https://telegra.ph/file/fd7b426676782b50eae29.jpg",
+        "https://telegra.ph/file/3ea918f34d93d4b28125d.jpg",
+        "https://telegra.ph/file/da1e48c42b6cef7712989.jpg",
+        "https://telegra.ph/file/5a38587cdad0000de008c.jpg",
+        "https://telegra.ph/file/236c20ee2c672036ebb08.jpg",
+        "https://telegra.ph/file/c079d3ea72587ee08cffe.jpg",
+        "https://telegra.ph/file/5993d1cd0094e07bcffc5.jpg",
+        "https://telegra.ph/file/bcfcd25edb47d0ad14883.jpg",
+        "https://telegra.ph/file/e2bd17d3558197e9dd407.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37987,
+    "title": "Rioko - Gneisenau (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Rioko---Gneisenau-Azur-Lane-07-01",
+    "images": [
+        "https://telegra.ph/file/c0fb0227b573fda34d37b.jpg",
+        "https://telegra.ph/file/877dc521bf67d2fddbb38.jpg",
+        "https://telegra.ph/file/f452b64bdd9910e9b52e0.jpg",
+        "https://telegra.ph/file/6ce80ee07581ad9b30d9f.jpg",
+        "https://telegra.ph/file/442b2e39cd424be74b35c.jpg",
+        "https://telegra.ph/file/850c6c3e02f653561013d.jpg",
+        "https://telegra.ph/file/bce9cfbd53e32f0af48b7.jpg",
+        "https://telegra.ph/file/24c0b3c1e5924ddc3a5f0.jpg",
+        "https://telegra.ph/file/4b855bfdd937cbf95b548.jpg",
+        "https://telegra.ph/file/500055ee950bea343ea58.jpg",
+        "https://telegra.ph/file/60a45608e0a5a992f4d16.jpg",
+        "https://telegra.ph/file/10be0facaf2370237b9c8.jpg",
+        "https://telegra.ph/file/edb671567a91838c80272.jpg",
+        "https://telegra.ph/file/d72ab8eb4eb87aafb6ebc.jpg",
+        "https://telegra.ph/file/dab5145af69cc16733faa.jpg",
+        "https://telegra.ph/file/085e4eaaa08d53b9714be.jpg",
+        "https://telegra.ph/file/79daaa4707001570f3d19.jpg",
+        "https://telegra.ph/file/e28af15c29f3298f3a8f3.jpg",
+        "https://telegra.ph/file/26defdd93676529e12f1b.jpg",
+        "https://telegra.ph/file/d7eb2aa6464b54f00ad50.jpg",
+        "https://telegra.ph/file/5b77d3027e630fa95ee80.jpg",
+        "https://telegra.ph/file/998b7d792c931841ab864.jpg",
+        "https://telegra.ph/file/f03c6fc622e08b36114d6.jpg",
+        "https://telegra.ph/file/2a10307fb3ef3b8a8964d.jpg",
+        "https://telegra.ph/file/ac167fd01f19ef9b70428.jpg"
+    ]
+};

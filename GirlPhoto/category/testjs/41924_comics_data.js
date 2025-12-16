@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41924,
+    "title": "霜月shimo - Fern Nun (Sou Sou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-05",
+    "images": [
+        "https://i.ibb.co/sdYBcSSZ/01-1-compress64.jpg",
+        "https://i.ibb.co/23VqsZXG/02-2-compress94.jpg",
+        "https://i.ibb.co/Kx4LKjQF/03-3-compress54.jpg",
+        "https://i.ibb.co/HpkjFHJq/04-4-compress22.jpg",
+        "https://i.ibb.co/8D426WfR/05-5-compress7.jpg",
+        "https://i.ibb.co/N8nDtV7/06-6-compress49.jpg",
+        "https://i.ibb.co/wF2p96sQ/07-7-compress88.jpg",
+        "https://i.ibb.co/C5bcQT08/08-8-compress73.jpg",
+        "https://i.ibb.co/ds6QhYh3/09-9-compress67.jpg",
+        "https://i.ibb.co/rGpHznCn/10-10-compress94.jpg",
+        "https://i.ibb.co/ksyqVSGz/11-11-compress7.jpg",
+        "https://i.ibb.co/ycHzq3VF/12-12-compress93.jpg",
+        "https://i.ibb.co/4ZMs5nKt/13-13-compress5.jpg",
+        "https://i.ibb.co/dsKfCQhp/14-14-compress65.jpg",
+        "https://i.ibb.co/Zp0rP0DD/15-15-compress44.jpg",
+        "https://i.ibb.co/zV0XLBwM/16-16-compress91.jpg",
+        "https://i.ibb.co/SwmZBYbx/17-17-compress55.jpg",
+        "https://i.ibb.co/fVbbXNGm/18-18-compress75.jpg",
+        "https://i.ibb.co/FLv3gKYc/19-19-compress16.jpg",
+        "https://i.ibb.co/tj8ZwJV/20-20-compress43.jpg",
+        "https://i.ibb.co/ycsMywZj/21-21-compress54.jpg",
+        "https://i.ibb.co/RkNB4rjb/22-22-compress35.jpg",
+        "https://i.ibb.co/8gBhys5D/23-23-compress46.jpg",
+        "https://i.ibb.co/sv2dF7x2/24-24-compress31.jpg"
+    ]
+};

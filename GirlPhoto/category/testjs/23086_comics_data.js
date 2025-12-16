@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23086,
+    "title": "倦倦喵 - 白睡衣",
+    "sourceUrl": "https://telegra.ph/%E5%80%A6%E5%80%A6%E5%96%B5---%E7%99%BD%E7%9D%A1%E8%A1%A3-01-16",
+    "images": [
+        "https://telegra.ph/file/06fcb2b7232888f77c590.jpg",
+        "https://telegra.ph/file/0097d510073c6fc9ac855.jpg",
+        "https://telegra.ph/file/2972775a79ea2dc52291a.jpg",
+        "https://telegra.ph/file/2a31e93a2d933582f9002.jpg",
+        "https://telegra.ph/file/1dc29bd1b8f38fe5ce3e5.jpg",
+        "https://telegra.ph/file/69681d079fac8da0aeffb.jpg",
+        "https://telegra.ph/file/a42ddaf272196baed9063.jpg",
+        "https://telegra.ph/file/55634041003d8e5e4c8a6.jpg",
+        "https://telegra.ph/file/db79f2825a9821627bc15.jpg",
+        "https://telegra.ph/file/64a049f535bf3ac94fec2.jpg",
+        "https://telegra.ph/file/70e161adb55e2417a3804.jpg",
+        "https://telegra.ph/file/65e696e89f10a103cff65.jpg",
+        "https://telegra.ph/file/cf2d57133ad414189c209.jpg",
+        "https://telegra.ph/file/99546f69dbb04347487e0.jpg",
+        "https://telegra.ph/file/f3566476303073bb3f097.jpg",
+        "https://telegra.ph/file/17f8ed641135dd648180f.jpg",
+        "https://telegra.ph/file/40134c0e74117cd3b06ef.jpg",
+        "https://telegra.ph/file/9c3cfb7a7a4a2b53bc74e.jpg",
+        "https://telegra.ph/file/59de4521004be262d734e.jpg",
+        "https://telegra.ph/file/a9e5259868298468c764e.jpg",
+        "https://telegra.ph/file/7cd65c0fc35f9011b69c5.jpg",
+        "https://telegra.ph/file/9835d9b2dd5e5d37f6d67.jpg",
+        "https://telegra.ph/file/603c79deba7aca23cdcf6.jpg",
+        "https://telegra.ph/file/1cc97f0f8fe43afbc9373.jpg",
+        "https://telegra.ph/file/8aa9a951153f38fac76bb.jpg"
+    ]
+};

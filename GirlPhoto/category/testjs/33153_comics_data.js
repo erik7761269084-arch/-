@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33153,
+    "title": "Ran.G [LEEHEE EXPRESS] LEHF-023 Set.01",
+    "sourceUrl": "https://telegra.ph/RanG-LEEHEE-EXPRESS-LEHF-023-Set01-02-05",
+    "images": [
+        "https://telegra.ph/file/2a5c626e20a3ef6120f6a.jpg",
+        "https://telegra.ph/file/3bcefb8d641ed70f171a8.jpg",
+        "https://telegra.ph/file/7c234c0c5419cd370a264.jpg",
+        "https://telegra.ph/file/e02b4b3257c5e79e8ad0b.jpg",
+        "https://telegra.ph/file/322e7bb61a347ecaa2a78.jpg",
+        "https://telegra.ph/file/b0c5075756ed00f76c568.jpg",
+        "https://telegra.ph/file/1c97be4a8b1e2b303b270.jpg",
+        "https://telegra.ph/file/303db71dd137b20690789.jpg",
+        "https://telegra.ph/file/9f75a68079fc6b3ab211d.jpg",
+        "https://telegra.ph/file/4e11afa5432ecbddd09e4.jpg",
+        "https://telegra.ph/file/c54b3ac08116143bef540.jpg",
+        "https://telegra.ph/file/26612ccd24ac113b7f223.jpg",
+        "https://telegra.ph/file/927d219e9c29b41562513.jpg",
+        "https://telegra.ph/file/c9e1563c5c17cd70e6fa0.jpg",
+        "https://telegra.ph/file/c1fcb6b46299f387911fb.jpg",
+        "https://telegra.ph/file/db1455ed58d07c6b425f2.jpg",
+        "https://telegra.ph/file/bad6cf671c2e9cce8b367.jpg",
+        "https://telegra.ph/file/2864ef9b910ff8aadd8e2.jpg",
+        "https://telegra.ph/file/a78559e9e14214272f542.jpg",
+        "https://telegra.ph/file/f17517bf17d1bea2e559d.jpg",
+        "https://telegra.ph/file/08284f7ecc079a4cad73f.jpg",
+        "https://telegra.ph/file/95d93e451afb5e03a25bb.jpg",
+        "https://telegra.ph/file/6eb2c7aba11a959f08c79.jpg",
+        "https://telegra.ph/file/ae8b737d728fc289af3ce.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

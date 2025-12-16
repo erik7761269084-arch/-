@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46845,
+    "title": "[沖田凜花Rinka] HMS Cheshire (アズールレーン) - Page 1",
+    "sourceUrl": "https://telegra.ph/沖田凜花Rinka-HMS-Cheshire-アズールレーン---Page-1-02-07",
+    "images": [
+        "https://telegra.ph/file/666d071a8249ce1b0347b.jpg",
+        "https://telegra.ph/file/5db8a2bb83482698c1acd.jpg",
+        "https://telegra.ph/file/84173c635a8ed858e1a86.jpg",
+        "https://telegra.ph/file/163ce31b669e6ff8f6816.jpg",
+        "https://telegra.ph/file/ae961db56bba24fc9723a.jpg",
+        "https://telegra.ph/file/41dae5ed3f9b6444a36b2.jpg",
+        "https://telegra.ph/file/ca3754131cdb47a2a23f5.jpg",
+        "https://telegra.ph/file/74b3b80db487bfdaa0a9a.jpg",
+        "https://telegra.ph/file/d7a97722005550bd8f1d2.jpg",
+        "https://telegra.ph/file/4e937982941b41bf4dedb.jpg",
+        "https://telegra.ph/file/41c5678767e42a08c6165.jpg",
+        "https://telegra.ph/file/2c9efc2b67cef4e4ab0ad.jpg",
+        "https://telegra.ph/file/e676ead7e785202f7d875.jpg",
+        "https://telegra.ph/file/de207606283f2cb1f252a.jpg",
+        "https://telegra.ph/file/2cc4913d65a474f6294ba.jpg",
+        "https://telegra.ph/file/de572b83644003632bfad.jpg",
+        "https://telegra.ph/file/1f8b012df51269fd9f96e.jpg",
+        "https://telegra.ph/file/6013670aa3a5b1e9c474f.jpg",
+        "https://telegra.ph/file/f46481246188722534e0b.jpg",
+        "https://telegra.ph/file/8c853d27fc7ffefb9e36e.jpg",
+        "https://telegra.ph/file/901c86e60e1032acb48c1.jpg",
+        "https://telegra.ph/file/da45395085540cb3c6542.jpg",
+        "https://telegra.ph/file/93ec6562d48ddd3ba580f.jpg",
+        "https://telegra.ph/file/5f2d15cc3f71594123600.jpg"
+    ]
+};

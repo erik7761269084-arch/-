@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27017,
+    "title": "小野寺地瓜 - NO.02 玛丽萝丝 sakimichan [25P-317MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E9%87%8E%E5%AF%BA%E5%9C%B0%E7%93%9C---NO02-%E7%8E%9B%E4%B8%BD%E8%90%9D%E4%B8%9D-sakimichan-25P-317MB-02-14",
+    "images": [
+        "https://telegra.ph/file/a78863960709bb4538dca.jpg",
+        "https://telegra.ph/file/7b704600c8e5f04ef1fb6.jpg",
+        "https://telegra.ph/file/b4b1e61ad44648463c999.jpg",
+        "https://telegra.ph/file/6630bc215a5c0a219660f.jpg",
+        "https://telegra.ph/file/84a974c0d983bde378cd1.jpg",
+        "https://telegra.ph/file/9b244322a9f11248b15c3.jpg",
+        "https://telegra.ph/file/ebb09194dc17c9b031de6.jpg",
+        "https://telegra.ph/file/926fc9effc676300ff0b8.jpg",
+        "https://telegra.ph/file/782a06e7a536309954bb2.jpg",
+        "https://telegra.ph/file/0c935615e2836b48869c6.jpg",
+        "https://telegra.ph/file/10fa682cba2d1cba79652.jpg",
+        "https://telegra.ph/file/65d45fe7f41d2d60350a6.jpg",
+        "https://telegra.ph/file/f828605635c9f508de0f7.jpg",
+        "https://telegra.ph/file/7977ff0d6e67b4c900a9c.jpg",
+        "https://telegra.ph/file/43546b5846df8d2798c4f.jpg",
+        "https://telegra.ph/file/3aea9876fb6f2042e7819.jpg",
+        "https://telegra.ph/file/1c909d99bfa0c810afe5f.jpg",
+        "https://telegra.ph/file/5bda4533eafdb257fd8d2.jpg",
+        "https://telegra.ph/file/19dc43a1610d021b80605.jpg",
+        "https://telegra.ph/file/150382203a70014afaa90.jpg",
+        "https://telegra.ph/file/bbc383561426d3530c031.jpg",
+        "https://telegra.ph/file/a9b800dc2b56eb2e1b681.jpg",
+        "https://telegra.ph/file/fb8300be84dbc92e0d9e6.jpg",
+        "https://telegra.ph/file/4dd1e1a6ee39132e2c2a9.jpg",
+        "https://telegra.ph/file/c4b08bb9bca6bf819a0de.jpg",
+        "https://telegra.ph/file/e66aae9b888a0ca3f8d8a.jpg"
+    ]
+};

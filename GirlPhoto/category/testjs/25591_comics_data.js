@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25591,
+    "title": "迷之呆梨 あの、どこが具合が悪いですか💊[25P+1V]",
+    "sourceUrl": "https://telegra.ph/%E8%BF%B7%E4%B9%8B%E5%91%86%E6%A2%A8-%E3%81%82%E3%81%AE%E3%81%A9%E3%81%93%E3%81%8C%E5%85%B7%E5%90%88%E3%81%8C%E6%82%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B25P1V-09-04",
+    "images": [
+        "https://telegra.ph/file/9b987301bb41439e99964.jpg",
+        "https://telegra.ph/file/63e823027915f2d9e4511.jpg",
+        "https://telegra.ph/file/c7523b70f0043f5196cd9.jpg",
+        "https://telegra.ph/file/71428bd0c7bec241da26e.jpg",
+        "https://telegra.ph/file/da8404a1fd03507180c24.jpg",
+        "https://telegra.ph/file/c4aff25f1cb20ef50d6df.jpg",
+        "https://telegra.ph/file/976b59f7dd3d13a261c6e.jpg",
+        "https://telegra.ph/file/fd60f71bbc2da74609205.jpg",
+        "https://telegra.ph/file/bccf73056c9dd370f81d1.jpg",
+        "https://telegra.ph/file/109df297d28ba5f42724b.jpg",
+        "https://telegra.ph/file/212d2d0f8904bf847da9c.jpg",
+        "https://telegra.ph/file/72dc8462219710e25d92d.jpg",
+        "https://telegra.ph/file/cc24da4827c58ac2c5a23.jpg",
+        "https://telegra.ph/file/4d6b53030db09375649ca.jpg",
+        "https://telegra.ph/file/3525e97225e1deec54171.jpg",
+        "https://telegra.ph/file/41364f1e9f2c116e98573.jpg",
+        "https://telegra.ph/file/3a671f0a047c135fae905.jpg",
+        "https://telegra.ph/file/2bc71a78539a06d377b33.jpg",
+        "https://telegra.ph/file/3585eea3166e0fcd23f0c.jpg",
+        "https://telegra.ph/file/6be9ede88e6de1df5bf63.jpg",
+        "https://telegra.ph/file/2f1d9cd8159430acdfb77.jpg",
+        "https://telegra.ph/file/7efe190b1cebdebd8ec1d.jpg",
+        "https://telegra.ph/file/eb6bc82d7b1ca4bc619a2.jpg",
+        "https://telegra.ph/file/4350ccc72641a9c747c43.jpg",
+        "https://telegra.ph/file/adb6f2300a0bc93198785.jpg"
+    ]
+};

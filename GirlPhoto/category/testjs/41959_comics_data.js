@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 41959,
+    "title": "Hane Ame - Grok AI Ani",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-12",
+    "images": [
+        "https://i.ibb.co/SwK4BJ4R/01-A-2-compress14.jpg",
+        "https://i.ibb.co/4nKXjDZc/02-A-1-compress67.jpg",
+        "https://i.ibb.co/rfcN9n5V/03-A-3-compress88.jpg",
+        "https://i.ibb.co/Lz55xC00/04-A-4-compress38.jpg",
+        "https://i.ibb.co/F4BjTM39/05-A-5-compress55.jpg",
+        "https://i.ibb.co/Hfz21GkR/06-A-6-compress63.jpg",
+        "https://i.ibb.co/D6gHVGD/07-A-7-compress19.jpg",
+        "https://i.ibb.co/d03FPvDD/08-A-8-compress52.jpg",
+        "https://i.ibb.co/fVPjHH58/09-A-9-compress65.jpg",
+        "https://i.ibb.co/C5DtdpHR/10-A-10-compress51.jpg",
+        "https://i.ibb.co/JwnP1Cm1/11-A-11-compress41.jpg",
+        "https://i.ibb.co/FkDQhJ8J/12-A-12-compress98.jpg",
+        "https://i.ibb.co/Z6fBN8HD/13-A-13-compress57.jpg",
+        "https://i.ibb.co/0jR6S9X2/14-A-14-compress79.jpg",
+        "https://i.ibb.co/TMRRp9yh/15-A-15-compress81.jpg",
+        "https://i.ibb.co/ynGhM7Dq/16-A-16-compress62.jpg",
+        "https://i.ibb.co/LXrfvSw7/17-A-17-compress51.jpg",
+        "https://i.ibb.co/Q789DNDv/18-A-18-compress76.jpg",
+        "https://i.ibb.co/q38JqNk3/19-A-19-compress42.jpg",
+        "https://i.ibb.co/9k0Ny95W/20-A-20-compress31.jpg",
+        "https://i.ibb.co/d4wwLDzd/21-A-21-compress88.jpg",
+        "https://i.ibb.co/svFqp6Kc/22-A-22-compress73.jpg",
+        "https://i.ibb.co/1GtwVfJX/23-A-23-compress78.jpg"
+    ]
+};

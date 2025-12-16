@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37248,
+    "title": "[Hoshilily 星之迟迟] Perseus Azur Lane",
+    "sourceUrl": "https://telegra.ph/Hoshilily-星之迟迟-Perseus-Azur-Lane-03-26",
+    "images": [
+        "https://telegra.ph/file/143ab5ab436e9ca38eda2.jpg",
+        "https://telegra.ph/file/0f55c1ff60894d0db9e22.jpg",
+        "https://telegra.ph/file/cceaab04b21da64490fa5.jpg",
+        "https://telegra.ph/file/38c8b98aeb1a0d088df25.jpg",
+        "https://telegra.ph/file/98daa55b9a0b58efd8c81.jpg",
+        "https://telegra.ph/file/dc81063c8302b9fc8da5f.jpg",
+        "https://telegra.ph/file/1c54bbfbcd351d7407cc1.jpg",
+        "https://telegra.ph/file/2200ef8f2f82099cac031.jpg",
+        "https://telegra.ph/file/1d23f610c41f08e024f2d.jpg",
+        "https://telegra.ph/file/8775e01efe6f890a4a1f9.jpg",
+        "https://telegra.ph/file/f825fadf644ed0bdbd576.jpg",
+        "https://telegra.ph/file/31136ff472f0d85fa301b.jpg",
+        "https://telegra.ph/file/1c45a538c64b7ec71d9ce.jpg",
+        "https://telegra.ph/file/eb9ea2b06b9a7c98f6d2b.jpg",
+        "https://telegra.ph/file/334ada8c5d03817beb8a0.jpg",
+        "https://telegra.ph/file/bef0d2c8256f17ba87375.jpg",
+        "https://telegra.ph/file/247afecb48c34a0b87175.jpg",
+        "https://telegra.ph/file/5dd64a2bd3262e803e1d3.jpg",
+        "https://telegra.ph/file/9bab37b135e6edfb16784.jpg",
+        "https://telegra.ph/file/6bdd1196a470ab6f06cea.jpg",
+        "https://telegra.ph/file/1750cd663503739e48d4e.jpg",
+        "https://telegra.ph/file/c352b20bd1212b3b02094.jpg",
+        "https://telegra.ph/file/6dd6315869317be2eee99.jpg",
+        "https://telegra.ph/file/86334e68f33e82a91f668.jpg",
+        "https://telegra.ph/file/4ab3b9593448bb8d5c134.jpg"
+    ]
+};

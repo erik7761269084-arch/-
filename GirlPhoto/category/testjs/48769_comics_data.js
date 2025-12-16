@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 48769,
+    "title": "Alice Bong - Mikasa - Page 1",
+    "sourceUrl": "https://telegra.ph/Alice-Bong---Mikasa---Page-1-08-28",
+    "images": [
+        "https://telegra.ph/file/34ecb627607c22db8e409.jpg",
+        "https://telegra.ph/file/1a6648b23c70e21084ef0.jpg",
+        "https://telegra.ph/file/6ba01745272fe17f8a3cc.jpg",
+        "https://telegra.ph/file/bcea7cbc0af64e2506d15.jpg",
+        "https://telegra.ph/file/b4ce6706ebfd421149a77.jpg",
+        "https://telegra.ph/file/32fdff0b31b5bdf307e87.jpg",
+        "https://telegra.ph/file/af2717123ea1ee85c37a0.jpg",
+        "https://telegra.ph/file/2376cd4dc781dcdd21642.jpg",
+        "https://telegra.ph/file/789fbd29d06e2c7b1be8c.jpg",
+        "https://telegra.ph/file/1cb263d44747230e55b93.jpg",
+        "https://telegra.ph/file/4cbf68d7bc8183d34496f.jpg",
+        "https://telegra.ph/file/c491995a64ab70cb6b0b2.jpg",
+        "https://telegra.ph/file/37f2dde1dd9cbf4a312c4.jpg",
+        "https://telegra.ph/file/1e6900c04bf44e88ed793.jpg",
+        "https://telegra.ph/file/592876b0ea4e546c8f1fd.jpg",
+        "https://telegra.ph/file/32cbd6d8b3844562a7945.jpg",
+        "https://telegra.ph/file/fb9fd03c2f7db27bb98aa.jpg",
+        "https://telegra.ph/file/e8ee20a4a17a1e5f131d5.jpg",
+        "https://telegra.ph/file/498d61d4912628398a082.jpg",
+        "https://telegra.ph/file/99a8da588b9cc32b87aab.jpg",
+        "https://telegra.ph/file/7504cdcf417c4563639e9.jpg",
+        "https://telegra.ph/file/7bdbe4285a1c3533e9253.jpg",
+        "https://telegra.ph/file/5cf806f53c71ae3b2dd8c.jpg",
+        "https://telegra.ph/file/450653cd40e5468d5b0c1.jpg"
+    ]
+};

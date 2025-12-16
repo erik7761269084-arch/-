@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41516,
+    "title": "Cmiiu - Chun Li (Street Fighter)",
+    "sourceUrl": "https://telegra.ph/Cmiiu---Chun-Li-Street-Fighter-05-22",
+    "images": [
+        "https://telegra.ph/file/4832147fe3c2a84ddb99b.jpg",
+        "https://telegra.ph/file/9ff1566f44faac05e1300.jpg",
+        "https://telegra.ph/file/fca7837f644239d057899.jpg",
+        "https://telegra.ph/file/a1f93509894cbb98fdedc.jpg",
+        "https://telegra.ph/file/d4b5b4e878ffae5cbd5bd.jpg",
+        "https://telegra.ph/file/ef3f2cb052568b767a375.jpg",
+        "https://telegra.ph/file/475b560590e1cc13e892b.jpg",
+        "https://telegra.ph/file/4134a9ce7ea2795056cb3.jpg",
+        "https://telegra.ph/file/456747a7ebfd1e76e588a.jpg",
+        "https://telegra.ph/file/1a0e085e9e646911779db.jpg",
+        "https://telegra.ph/file/eefe85da99603369c2e19.jpg",
+        "https://telegra.ph/file/76f929c7c2306b46aa977.jpg",
+        "https://telegra.ph/file/f899731ec81b9fc1a769b.jpg",
+        "https://telegra.ph/file/d6a2eeb236eadce54230d.jpg",
+        "https://telegra.ph/file/fb086e807c1afa4813054.jpg",
+        "https://telegra.ph/file/5acb1f896516e44d2b29e.jpg",
+        "https://telegra.ph/file/d6106f6c0d68b601ed45e.jpg",
+        "https://telegra.ph/file/b6f1fcb2c4c1d13577205.jpg",
+        "https://telegra.ph/file/9d3a49f979bdf9063b398.jpg",
+        "https://telegra.ph/file/81672495f22efa3d87887.jpg",
+        "https://telegra.ph/file/4e2742efee70ac5c86194.jpg",
+        "https://telegra.ph/file/fe4e702ff097868bc3370.jpg",
+        "https://telegra.ph/file/438a89e856f2f91eeaf62.jpg",
+        "https://telegra.ph/file/e44a1079eef860054f49c.jpg"
+    ]
+};

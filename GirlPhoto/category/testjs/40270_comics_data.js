@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40270,
+    "title": "Alina Becker - Albedo (Overlord)",
+    "sourceUrl": "https://telegra.ph/Alina-Becker---Albedo-Overlord-04-17",
+    "images": [
+        "https://telegra.ph/file/bfd2fc4fa7fea4c18ec59.jpg",
+        "https://telegra.ph/file/091915f2f3cd49d680633.jpg",
+        "https://telegra.ph/file/33cbef1124d2e61f71bdc.jpg",
+        "https://telegra.ph/file/0f7b9e2a0adbad133522c.jpg",
+        "https://telegra.ph/file/2c1b460333c1ae428374e.jpg",
+        "https://telegra.ph/file/afc18c3f60450215f920d.jpg",
+        "https://telegra.ph/file/780a8a1b272cdc2b4e378.jpg",
+        "https://telegra.ph/file/04329be7f6a5e228ccef0.jpg",
+        "https://telegra.ph/file/443a197cec924ea1d75b0.jpg",
+        "https://telegra.ph/file/505cf7c26a5bbbdeb6ab4.jpg",
+        "https://telegra.ph/file/470537f24dc0cca06fd28.jpg",
+        "https://telegra.ph/file/8fee2712122f348100404.jpg",
+        "https://telegra.ph/file/408cbee1861ebb594f28b.jpg",
+        "https://telegra.ph/file/d0145996fa1bd336f7b1f.jpg",
+        "https://telegra.ph/file/94f88bbbb5f7945628f2b.jpg",
+        "https://telegra.ph/file/bc34d74450604dccab836.jpg",
+        "https://telegra.ph/file/dafcd52e4dac6d2ac862b.jpg",
+        "https://telegra.ph/file/540e7064a3455cc5e9916.jpg",
+        "https://telegra.ph/file/af6588e66a78e6c232e9a.jpg",
+        "https://telegra.ph/file/d058e25144325670e76a0.jpg",
+        "https://telegra.ph/file/7f4c8600621509813f47f.jpg",
+        "https://telegra.ph/file/d850d385768961289593c.jpg",
+        "https://telegra.ph/file/50175bf904ee3ad4bdef1.jpg",
+        "https://telegra.ph/file/ff350a59c052aac9d6c8b.jpg",
+        "https://telegra.ph/file/d5284159b29726bd42555.jpg",
+        "https://telegra.ph/file/b9ce4754e1e8fa33c3716.jpg"
+    ]
+};

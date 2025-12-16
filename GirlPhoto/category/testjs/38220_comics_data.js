@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38220,
+    "title": "Hane Ame - Esdeath (Akame Ga Kill)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Esdeath-Akame-Ga-Kill-09-05",
+    "images": [
+        "https://telegra.ph/file/dd0c62a8aa71112d990cb.jpg",
+        "https://telegra.ph/file/20dc8f003486cc9bece25.jpg",
+        "https://telegra.ph/file/c1e81d300402bcde4c42e.jpg",
+        "https://telegra.ph/file/ed6400a08e1b723910b1a.jpg",
+        "https://telegra.ph/file/1afb5e3991d6144a36bca.jpg",
+        "https://telegra.ph/file/474e40af5a602c520db28.jpg",
+        "https://telegra.ph/file/afb6fee441db130fb3a2a.jpg",
+        "https://telegra.ph/file/89e26807c4c798cbd17bf.jpg",
+        "https://telegra.ph/file/8a410fdd4d69921a1bbc7.jpg",
+        "https://telegra.ph/file/ad4025a3424365881c34f.jpg",
+        "https://telegra.ph/file/a2ca92485dc014fd36fcf.jpg",
+        "https://telegra.ph/file/f78648667b44286c69ec3.jpg",
+        "https://telegra.ph/file/18d3eb0819d6a4bf8584d.jpg",
+        "https://telegra.ph/file/93de9ced41eadf69e07a3.jpg",
+        "https://telegra.ph/file/03e5799d48e56b7449435.jpg",
+        "https://telegra.ph/file/82b6d3752dd9eb81ec8e9.jpg",
+        "https://telegra.ph/file/a5b2f8931198440ef4b6c.jpg",
+        "https://telegra.ph/file/1465a74ccbcf82f1fa64b.jpg",
+        "https://telegra.ph/file/9a2dd218af02f486d9087.jpg",
+        "https://telegra.ph/file/a59f27bb214784ba1333d.jpg",
+        "https://telegra.ph/file/deaafcab855fe29adda4c.jpg",
+        "https://telegra.ph/file/18f8437c9c107fe82ae60.jpg",
+        "https://telegra.ph/file/cdb3a6524041c391fb049.jpg",
+        "https://telegra.ph/file/3a106c532a5dfd6da1928.jpg",
+        "https://telegra.ph/file/83a0b450dc4939583f875.jpg"
+    ]
+};

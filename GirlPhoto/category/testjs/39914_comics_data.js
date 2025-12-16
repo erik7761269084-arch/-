@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39914,
+    "title": "Queenie - Ino Yamanaka Bikini (Naruto Shippuden)",
+    "sourceUrl": "https://telegra.ph/Queenie---Ino-Yamanaka-Bikini-Naruto-Shippuden-11-24",
+    "images": [
+        "https://telegra.ph/file/22246805a520480d7a4f4.jpg",
+        "https://telegra.ph/file/dbbdf2629b1c0f5ca2929.jpg",
+        "https://telegra.ph/file/f7bf91a4219d225a1bedf.jpg",
+        "https://telegra.ph/file/9d12b1f4706f905bcc219.jpg",
+        "https://telegra.ph/file/de25e106ad19f73e2a9e3.jpg",
+        "https://telegra.ph/file/d0f6278715f62db9fe8bb.jpg",
+        "https://telegra.ph/file/1fcf98401bfbef0d33964.jpg",
+        "https://telegra.ph/file/443be7f06b0656fea0579.jpg",
+        "https://telegra.ph/file/801ff2c1014a8bcbd49ce.jpg",
+        "https://telegra.ph/file/89e89ab67085de2c09249.jpg",
+        "https://telegra.ph/file/60d2eb6a84e7b5b67ace8.jpg",
+        "https://telegra.ph/file/8ea8ad4a5e93a0177ac1c.jpg",
+        "https://telegra.ph/file/f293bc05b4b711699e269.jpg",
+        "https://telegra.ph/file/f0482af49c07d9615e3d4.jpg",
+        "https://telegra.ph/file/ad446e5276df47c4c46ca.jpg",
+        "https://telegra.ph/file/61ff1ae7b68e0f7f5d337.jpg",
+        "https://telegra.ph/file/e9515ab36cdbe4fe00165.jpg",
+        "https://telegra.ph/file/5520cbdcc6770b784ffd1.jpg",
+        "https://telegra.ph/file/cd0716277907dd2ffb6f4.jpg",
+        "https://telegra.ph/file/a01ad169c3eaaf690e5ff.jpg",
+        "https://telegra.ph/file/531d8adf44670bf80ad3a.jpg",
+        "https://telegra.ph/file/29a4fa1fa65cd827c9b79.jpg",
+        "https://telegra.ph/file/54262b4b3ad23fe99fcd8.jpg",
+        "https://telegra.ph/file/c0abebf968274aea92bf3.jpg",
+        "https://telegra.ph/file/9bc533c410ce81bed8dd5.jpg"
+    ]
+};

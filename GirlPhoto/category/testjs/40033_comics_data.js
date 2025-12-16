@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40033,
+    "title": "KuukoW - Elf Kuuko",
+    "sourceUrl": "https://telegra.ph/KuukoW---Elf-Kuuko-12-23",
+    "images": [
+        "https://telegra.ph/file/feadf4b4f87996f728cdc.jpg",
+        "https://telegra.ph/file/4f8ad25780234b658c2ff.jpg",
+        "https://telegra.ph/file/6c7910e6f23b088668f23.jpg",
+        "https://telegra.ph/file/fe14f21ed82e4ca2ef997.jpg",
+        "https://telegra.ph/file/2b294f94d336f7e927cbb.jpg",
+        "https://telegra.ph/file/4ac34b053f99f82215650.jpg",
+        "https://telegra.ph/file/0b8c697b61f23b99ec820.jpg",
+        "https://telegra.ph/file/e5da2556c3e81b31f306a.jpg",
+        "https://telegra.ph/file/2d0ec93455762a029ae84.jpg",
+        "https://telegra.ph/file/a870bbedcdb75bbf5c7b1.jpg",
+        "https://telegra.ph/file/ff2bbc67522b416b0d35f.jpg",
+        "https://telegra.ph/file/493294fcae8fe33b86ecf.jpg",
+        "https://telegra.ph/file/4e91869d03cfb0aab2257.jpg",
+        "https://telegra.ph/file/d24025a9b8f00c6f32ea9.jpg",
+        "https://telegra.ph/file/08cb487971f04c9e3ab72.jpg",
+        "https://telegra.ph/file/73f9e7a9192b004a9167d.jpg",
+        "https://telegra.ph/file/d59c6f8db9d6bd7b0690c.jpg",
+        "https://telegra.ph/file/8046609ff1e5d4c9db1e9.jpg",
+        "https://telegra.ph/file/dedb9de228236b3a1a71e.jpg",
+        "https://telegra.ph/file/762de1c29b10ae7974770.jpg",
+        "https://telegra.ph/file/9562d99d01ff7e9beb3b7.jpg",
+        "https://telegra.ph/file/88c9a6fc8b7632e3cdc2d.jpg",
+        "https://telegra.ph/file/f4109252fce87fa50d213.jpg",
+        "https://telegra.ph/file/6324240d3f17d65a63010.jpg",
+        "https://telegra.ph/file/078f643e1ade56dddee8a.jpg"
+    ]
+};

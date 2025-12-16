@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 34875,
+    "title": "Hendoong 혠둥이, ArtGravia Vol.363 Photobook Set.01",
+    "sourceUrl": "https://telegra.ph/Hendoong-혠둥이-ArtGravia-Vol363-Photobook-Set01-07-29",
+    "images": [
+        "https://telegra.ph/file/b731c994843b771721d87.jpg",
+        "https://telegra.ph/file/7f5805dc1e627132724c3.jpg",
+        "https://telegra.ph/file/d4940fc052d7796509b78.jpg",
+        "https://telegra.ph/file/ed3dbb60448ea6781e002.jpg",
+        "https://telegra.ph/file/09ffad28787e3684c782f.jpg",
+        "https://telegra.ph/file/0b6e024b041187adb105f.jpg",
+        "https://telegra.ph/file/afac5bad8e547969c68ef.jpg",
+        "https://telegra.ph/file/cb126ffdea2e5d011eea8.jpg",
+        "https://telegra.ph/file/ca1f0a45eb22442a7a326.jpg",
+        "https://telegra.ph/file/02f61126ccc84ec7859e9.jpg",
+        "https://telegra.ph/file/2be86339cc7e30a1f84b6.jpg",
+        "https://telegra.ph/file/ecfa8e2ed46a56207a870.jpg",
+        "https://telegra.ph/file/ab0db0259eb6312235d82.jpg",
+        "https://telegra.ph/file/9d7a7fbf3e60fc1ec3bba.jpg",
+        "https://telegra.ph/file/84c3f4ca20d41ea480506.jpg",
+        "https://telegra.ph/file/c28b54fe1026d96fbed6d.jpg",
+        "https://telegra.ph/file/de815e0fad0e99c9b930b.jpg",
+        "https://telegra.ph/file/e3e29ff6eb9186c6fd6c8.jpg",
+        "https://telegra.ph/file/0897182c4e5bea28e93fb.jpg",
+        "https://telegra.ph/file/1c5593aa8fa56c04fcd60.jpg",
+        "https://telegra.ph/file/576ceb88c658b4e3c4393.jpg",
+        "https://telegra.ph/file/65d61ef70978a12fb9503.jpg",
+        "https://telegra.ph/file/b4714f5f90168cc0d0fbb.jpg",
+        "https://telegra.ph/file/c89942fbb5ca833e89145.jpg"
+    ]
+};

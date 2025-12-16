@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40850,
+    "title": "Angel chan - Maid Ichinose Asuna (Blue Archive)",
+    "sourceUrl": "https://telegra.ph/Angel-chan---Maid-Ichinose-Asuna-Blue-Archive-10-26",
+    "images": [
+        "https://telegra.ph/file/902f92ee1146cf248f351.jpg",
+        "https://telegra.ph/file/88ad3e7575640dc618df5.jpg",
+        "https://telegra.ph/file/f84a6dc6f13d510cdbc13.jpg",
+        "https://telegra.ph/file/2161e7377bb56c7e4e19a.jpg",
+        "https://telegra.ph/file/b935c5ee1c13c32dddbcc.jpg",
+        "https://telegra.ph/file/dc2085d68ce54b7f46390.jpg",
+        "https://telegra.ph/file/1fe58fa1421969fd3ff41.jpg",
+        "https://telegra.ph/file/bf33159fce0b2f98d9be8.jpg",
+        "https://telegra.ph/file/fde3f5aa8337c71391b75.jpg",
+        "https://telegra.ph/file/ab90983f9f5cdd9889a7b.jpg",
+        "https://telegra.ph/file/4a99bfa583fe470977bac.jpg",
+        "https://telegra.ph/file/5d7d3fd92bdac7b6ca8e6.jpg",
+        "https://telegra.ph/file/ec5e6672ca4dff0a963b5.jpg",
+        "https://telegra.ph/file/75b3e1384ec72707321d6.jpg",
+        "https://telegra.ph/file/49809f80cc43ddb3d002a.jpg",
+        "https://telegra.ph/file/230cc94d87d79e581b7de.jpg",
+        "https://telegra.ph/file/a16d344c126a4448b6271.jpg",
+        "https://telegra.ph/file/5bef4484fb132fed9d91b.jpg",
+        "https://telegra.ph/file/886321cc675479581f1b1.jpg",
+        "https://telegra.ph/file/8d61eb029d5f336a00f77.jpg",
+        "https://telegra.ph/file/faf8914136004b2adca73.jpg",
+        "https://telegra.ph/file/20cba93358e5dc803c96b.jpg",
+        "https://telegra.ph/file/c2cf25a9bf3086dd4c7fc.jpg",
+        "https://telegra.ph/file/43ff6dccccb017fcab401.jpg",
+        "https://telegra.ph/file/61e6a522567d83dccdfe9.jpg"
+    ]
+};

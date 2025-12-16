@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42120,
+    "title": "Misaki Sai - Cammy (Street Fighter)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-22-5",
+    "images": [
+        "https://i.ibb.co/WvhbMqML/01-Cammy-25.jpg",
+        "https://i.ibb.co/B5f37gkC/02-Cammy-24.jpg",
+        "https://i.ibb.co/602qpTVB/03-Cammy-23.jpg",
+        "https://i.ibb.co/Mkbvh4VL/04-Cammy-22.jpg",
+        "https://i.ibb.co/k24HwLsb/05-Cammy-21.jpg",
+        "https://i.ibb.co/39mgfYtB/06-Cammy-20.jpg",
+        "https://i.ibb.co/0jkrmQ1L/07-Cammy-19.jpg",
+        "https://i.ibb.co/VY74GZ2D/08-Cammy-18.jpg",
+        "https://i.ibb.co/Ndj1HbQX/09-Cammy-17.jpg",
+        "https://i.ibb.co/vxYt7hG6/10-Cammy-16.jpg",
+        "https://i.ibb.co/hRMNNQVz/11-Cammy-15.jpg",
+        "https://i.ibb.co/DfVmJ9ZY/12-Cammy-14.jpg",
+        "https://i.ibb.co/7xXv4281/13-Cammy-13.jpg",
+        "https://i.ibb.co/sdjLkjJq/14-Cammy-12.jpg",
+        "https://i.ibb.co/Xrr4jYbw/15-Cammy-11.jpg",
+        "https://i.ibb.co/939txsdL/16-Cammy-10.jpg",
+        "https://i.ibb.co/gM1YfpTK/17-Cammy-9.jpg",
+        "https://i.ibb.co/QFwXcLcq/18-Cammy-8.jpg",
+        "https://i.ibb.co/RmRXw8Z/19-Cammy-7.jpg",
+        "https://i.ibb.co/WNP313F7/20-Cammy-6.jpg",
+        "https://i.ibb.co/XxLdPqLT/21-Cammy-5.jpg",
+        "https://i.ibb.co/kgV0xWLx/22-Cammy-4.jpg",
+        "https://i.ibb.co/WpY9DqM7/23-Cammy-3.jpg",
+        "https://i.ibb.co/v4QP2dTv/24-Cammy-2.jpg",
+        "https://i.ibb.co/d4TSZLp1/25-Cammy-1.jpg"
+    ]
+};

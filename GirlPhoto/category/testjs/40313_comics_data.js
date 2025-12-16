@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40313,
+    "title": "Ping Ping - Nurse Marin (Sono Bisque Doll Wa Koi Wo Suru)",
+    "sourceUrl": "https://telegra.ph/Ping-Ping---Nurse-Marin-Sono-Bisque-Doll-Wa-Koi-Wo-Suru-05-10",
+    "images": [
+        "https://telegra.ph/file/481078ea1f770836407fa.jpg",
+        "https://telegra.ph/file/8a7b69877a5c0d1d97377.jpg",
+        "https://telegra.ph/file/14b6639af6c5a91ff170c.jpg",
+        "https://telegra.ph/file/0a7887ca76ed75158aef3.jpg",
+        "https://telegra.ph/file/d169968ed3efa4b58275d.jpg",
+        "https://telegra.ph/file/2faca28f23c8aaa6038f4.jpg",
+        "https://telegra.ph/file/3867965cfc13184e3f091.jpg",
+        "https://telegra.ph/file/fb1f6153ae8b3f524b80f.jpg",
+        "https://telegra.ph/file/bfccfd3767116f5f991d6.jpg",
+        "https://telegra.ph/file/983039ec6d8f5eb9e6499.jpg",
+        "https://telegra.ph/file/cbbff59eb090f18b7d371.jpg",
+        "https://telegra.ph/file/fba4524cbbf593084c354.jpg",
+        "https://telegra.ph/file/3259e87e5b70baee956f0.jpg",
+        "https://telegra.ph/file/a51d41424d23b42c4e09a.jpg",
+        "https://telegra.ph/file/8b7b4acb9daed69fc8731.jpg",
+        "https://telegra.ph/file/8ebe953479dea65d1c272.jpg",
+        "https://telegra.ph/file/00548a59c9a4d3c72c46b.jpg",
+        "https://telegra.ph/file/ceb19d7a19891e95119ad.jpg",
+        "https://telegra.ph/file/a08c253782d4702291e22.jpg",
+        "https://telegra.ph/file/bdc8dd55124600e207b1b.jpg",
+        "https://telegra.ph/file/fa1c4fd5cfe77c64252e4.jpg",
+        "https://telegra.ph/file/8f3c485612c052d55782b.jpg",
+        "https://telegra.ph/file/1c3b5061a91a5941ba4cd.jpg",
+        "https://telegra.ph/file/9c3543c8be28a038dfbdd.jpg",
+        "https://telegra.ph/file/46c82444d72578d51ee4d.jpg"
+    ]
+};

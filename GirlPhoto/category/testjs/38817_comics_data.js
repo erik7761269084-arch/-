@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38817,
+    "title": "Shirogane - 2B Black Bride (Nier Autómata)",
+    "sourceUrl": "https://telegra.ph/Shirogane---2B-Black-Bride-Nier-Autómata-02-07",
+    "images": [
+        "https://telegra.ph/file/4be08b084dc9a78dfdcd7.jpg",
+        "https://telegra.ph/file/f0ab08cfc489cbde43a53.jpg",
+        "https://telegra.ph/file/660d0ebec0b3140319cd3.jpg",
+        "https://telegra.ph/file/420c38c0c76aa9140e64c.jpg",
+        "https://telegra.ph/file/b74b0be0f6a80bd53ea16.jpg",
+        "https://telegra.ph/file/d6530a138f6ca7f6cf091.jpg",
+        "https://telegra.ph/file/f5571a5ab8b53561a6e9d.jpg",
+        "https://telegra.ph/file/50ee19ecedae2adf3b723.jpg",
+        "https://telegra.ph/file/95a94b561afbccf99ee9d.jpg",
+        "https://telegra.ph/file/8cb74d91f4e7bb2ba9d79.jpg",
+        "https://telegra.ph/file/ab94405922b58b63f3ba6.jpg",
+        "https://telegra.ph/file/04a4b244b5ca6108d7ae6.jpg",
+        "https://telegra.ph/file/55a3a3ddde6e98e3937ae.jpg",
+        "https://telegra.ph/file/1030bb5827c287a6d9985.jpg",
+        "https://telegra.ph/file/54fd550c64995b8b6187f.jpg",
+        "https://telegra.ph/file/71f93fdd00f4a50d319e8.jpg",
+        "https://telegra.ph/file/2cfc01412c279cd05fd72.jpg",
+        "https://telegra.ph/file/889e763ce3b613c8c4d87.jpg",
+        "https://telegra.ph/file/e582e29d805e747187bcd.jpg",
+        "https://telegra.ph/file/8e6225253a5d2af62c46a.jpg",
+        "https://telegra.ph/file/a40e64e545b652a35154c.jpg",
+        "https://telegra.ph/file/5574fc00ed1afb83a38a9.jpg",
+        "https://telegra.ph/file/f57897890b7bdc6fbc111.jpg",
+        "https://telegra.ph/file/13a47ce1dae4d896c41af.jpg"
+    ]
+};

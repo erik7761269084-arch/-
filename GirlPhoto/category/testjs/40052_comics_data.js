@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40052,
+    "title": "Fantasy Factory - 齐 OnlyFans",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---齐-OnlyFans-12-27",
+    "images": [
+        "https://telegra.ph/file/f8afec4178c18198c3a4a.jpg",
+        "https://telegra.ph/file/94eda11b0bace6241d502.jpg",
+        "https://telegra.ph/file/c6e01a94ae3fe5ed1363b.jpg",
+        "https://telegra.ph/file/78ecf14653f8e78659ef6.jpg",
+        "https://telegra.ph/file/8f01f9639a860d67d3311.jpg",
+        "https://telegra.ph/file/0bd61ab9804e0e2da54d3.jpg",
+        "https://telegra.ph/file/e67ff9b007343b59915db.jpg",
+        "https://telegra.ph/file/79bf3b319acea2ace758c.jpg",
+        "https://telegra.ph/file/76984325b757adec63658.jpg",
+        "https://telegra.ph/file/28f75afb5c7f2ff8b1d6c.jpg",
+        "https://telegra.ph/file/93112fc44389ab4c1b1fc.jpg",
+        "https://telegra.ph/file/c417348a5ab3e9dc84378.jpg",
+        "https://telegra.ph/file/1034e664202fc318e1c95.jpg",
+        "https://telegra.ph/file/12b42dad9bdcd181c4451.jpg",
+        "https://telegra.ph/file/255c5d8dc923a958009ab.jpg",
+        "https://telegra.ph/file/48bd98c1ec4287bd3f716.jpg",
+        "https://telegra.ph/file/fff104c4d6677f00277f4.jpg",
+        "https://telegra.ph/file/98f7b721ca4e8e3e71875.jpg",
+        "https://telegra.ph/file/35a486c0fe9b673bcd438.jpg",
+        "https://telegra.ph/file/8b9e6cc46388ce1a4a32f.jpg",
+        "https://telegra.ph/file/3219558bf2085c6294885.jpg",
+        "https://telegra.ph/file/212100620f785e0b3bfc9.jpg",
+        "https://telegra.ph/file/268c124d96244e1552913.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 36075,
+    "title": "Karen Kaede 楓カレン, 写真集 [Love Para らぶぱら] Set.01",
+    "sourceUrl": "https://telegra.ph/Karen-Kaede-楓カレン-写真集-Love-Para-らぶぱら-Set01-11-27",
+    "images": [
+        "https://telegra.ph/file/95f69989fe3063a8bba7b.jpg",
+        "https://telegra.ph/file/b328b78cd348bcf839e5a.jpg",
+        "https://telegra.ph/file/638a76723d1e89567fcff.jpg",
+        "https://telegra.ph/file/d25242077bd2d23d02125.jpg",
+        "https://telegra.ph/file/429965404e88b71753934.jpg",
+        "https://telegra.ph/file/6302b1e710044fab115b6.jpg",
+        "https://telegra.ph/file/7f31bf6bc0c0cadfe6ed2.jpg",
+        "https://telegra.ph/file/d2953ee2a0adac50b0459.jpg",
+        "https://telegra.ph/file/41b528d4b13c302981b6a.jpg",
+        "https://telegra.ph/file/cbe9110713a802a283c2d.jpg",
+        "https://telegra.ph/file/91ab3806a0a12ea917a53.jpg",
+        "https://telegra.ph/file/5749766bed240fafff98f.jpg",
+        "https://telegra.ph/file/3ec4d13114e1bd2ec26fe.jpg",
+        "https://telegra.ph/file/3f065257c1cb7dd25a768.jpg",
+        "https://telegra.ph/file/9d4504aa359cff72b17ce.jpg",
+        "https://telegra.ph/file/f3a9f6c85ab1e9f9d66df.jpg",
+        "https://telegra.ph/file/73915c18f334dbace224f.jpg",
+        "https://telegra.ph/file/934e1fdd0ca941a42cf28.jpg",
+        "https://telegra.ph/file/ff2b707f239f44d6f8fe5.jpg",
+        "https://telegra.ph/file/6980cb54b7322a8db70d7.jpg",
+        "https://telegra.ph/file/d7dee1a14660fd8480d6c.jpg",
+        "https://telegra.ph/file/0e27b5b83537d5d390598.jpg",
+        "https://telegra.ph/file/8b89d33d14151070fa9e7.jpg",
+        "https://telegra.ph/file/231ffae2dfdbf9cec38ce.jpg",
+        "https://telegra.ph/file/487960b21c00060f7d648.jpg"
+    ]
+};

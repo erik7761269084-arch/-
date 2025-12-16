@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46601,
+    "title": "Octokuro - Samsung Sam - Page 1",
+    "sourceUrl": "https://telegra.ph/Octokuro---Samsung-Sam---Page-1-01-17",
+    "images": [
+        "https://telegra.ph/file/a32eb0b96294206bf15bf.jpg",
+        "https://telegra.ph/file/b503180a052ba865faaf9.jpg",
+        "https://telegra.ph/file/42c50b3e6c0f029b275dd.jpg",
+        "https://telegra.ph/file/4d17b18484f3577674c52.jpg",
+        "https://telegra.ph/file/62c30499b7e49cf78bb04.jpg",
+        "https://telegra.ph/file/a7fcd6608512f115168de.jpg",
+        "https://telegra.ph/file/d9fa89f5203e4abcd33a8.jpg",
+        "https://telegra.ph/file/e2c37ed2183aae9b5ba0d.jpg",
+        "https://telegra.ph/file/006c7a34d6b84e34e3b10.jpg",
+        "https://telegra.ph/file/bcc7acf494b8b9ae2997d.jpg",
+        "https://telegra.ph/file/f321cb6b34ecd689e6ddd.jpg",
+        "https://telegra.ph/file/8b9b372ef0787eea96ff4.jpg",
+        "https://telegra.ph/file/3388072f92d2ac42a075d.jpg",
+        "https://telegra.ph/file/fc801e1ed80b0d1bf8561.jpg",
+        "https://telegra.ph/file/a9f7e70f8a3d2d32c9fd5.jpg",
+        "https://telegra.ph/file/b3b6643fd77e924683b63.jpg",
+        "https://telegra.ph/file/5a6b2db362a1a968bf661.jpg",
+        "https://telegra.ph/file/4ade0d2fb78bfd33eed6a.jpg",
+        "https://telegra.ph/file/0b036c1289bdfef86ca5e.jpg",
+        "https://telegra.ph/file/d6b283ef04c0689c42c63.jpg",
+        "https://telegra.ph/file/cfe27673a8828a2da65a3.jpg",
+        "https://telegra.ph/file/55dee20452d84b221b995.jpg",
+        "https://telegra.ph/file/a12cf6a6c1a65f303308f.jpg",
+        "https://telegra.ph/file/570e496a228495a9a2d6f.jpg",
+        "https://telegra.ph/file/73c93189f1c70c490cfc4.jpg"
+    ]
+};

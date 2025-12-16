@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31071,
+    "title": "Cosplay 柒柒要乖哦 圣诞双兔",
+    "sourceUrl": "https://telegra.ph/Cosplay-柒柒要乖哦-圣诞双兔-08-11",
+    "images": [
+        "https://telegra.ph/file/b9e592044b730932472f7.jpg",
+        "https://telegra.ph/file/1d4d8c7672b9e5af6e154.jpg",
+        "https://telegra.ph/file/3adc41913ae2f908f436f.jpg",
+        "https://telegra.ph/file/27864b88074248cda21b5.jpg",
+        "https://telegra.ph/file/5f0f69f9a4292c4b7739e.jpg",
+        "https://telegra.ph/file/7b717991ca167e0979f20.jpg",
+        "https://telegra.ph/file/a6e2ac033d458227ae333.jpg",
+        "https://telegra.ph/file/5917c9f241e08f1ab763a.jpg",
+        "https://telegra.ph/file/f42a2f291732c605c230a.jpg",
+        "https://telegra.ph/file/0a9a2640b81a638e3ff39.jpg",
+        "https://telegra.ph/file/73ed34c140d63019071ad.jpg",
+        "https://telegra.ph/file/dcda1c859464ff8065aaf.jpg",
+        "https://telegra.ph/file/c1331d7a37a52b3fd5ddf.jpg",
+        "https://telegra.ph/file/509ea34aacc7191cd3cbc.jpg",
+        "https://telegra.ph/file/42f26f18dbcf630d9cc74.jpg",
+        "https://telegra.ph/file/f658e445c0ad5364dfef7.jpg",
+        "https://telegra.ph/file/e0110ad211a821ec04ad9.jpg",
+        "https://telegra.ph/file/71e012ff75a1997c7c5e6.jpg",
+        "https://telegra.ph/file/8303effeafb487d1a1ec9.jpg",
+        "https://telegra.ph/file/d99b5d0d66c8207454e0d.jpg",
+        "https://telegra.ph/file/f5c2d883aeb4117aa5330.jpg",
+        "https://telegra.ph/file/00a0c59d0c249c125a09c.jpg",
+        "https://telegra.ph/file/358addfd14687508dbff6.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

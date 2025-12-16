@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44482,
+    "title": "浅仓yokoo-碧蓝航线 奥古斯特女仆",
+    "sourceUrl": "https://telegra.ph/浅仓yokoo-碧蓝航线-奥古斯特女仆-11-28",
+    "images": [
+        "https://telegra.ph/file/38058cfdf295ae04b7e11.jpg",
+        "https://telegra.ph/file/b0cf18dcf1cbc1e8d13e4.jpg",
+        "https://telegra.ph/file/0f419f99cbd9d9b8f7316.jpg",
+        "https://telegra.ph/file/86d6222ea74759cae6026.jpg",
+        "https://telegra.ph/file/0a19bab0eafea4480562d.jpg",
+        "https://telegra.ph/file/7830190dc48d69f119c2e.jpg",
+        "https://telegra.ph/file/3d64f2fcfddc95f09bb16.jpg",
+        "https://telegra.ph/file/3c2d38bc09243347725c2.jpg",
+        "https://telegra.ph/file/8a0574715ebd9aac9671c.jpg",
+        "https://telegra.ph/file/c48f3ff36a8ee85ca7082.jpg",
+        "https://telegra.ph/file/0f83283b9f032b0a5a716.jpg",
+        "https://telegra.ph/file/56a1c09fffcc89c156796.jpg",
+        "https://telegra.ph/file/4deebb4b404499ce090d6.jpg",
+        "https://telegra.ph/file/9b44d613723bf03832237.jpg",
+        "https://telegra.ph/file/355080da79f63f449d0ae.jpg",
+        "https://telegra.ph/file/0897065e78ffe3d2603c5.jpg",
+        "https://telegra.ph/file/c23738265d02c34a0ec01.jpg",
+        "https://telegra.ph/file/fd0130ffb92e400eb21d3.jpg",
+        "https://telegra.ph/file/be16d1799f964a5b65e31.jpg",
+        "https://telegra.ph/file/59f6d3071122a03c9ecee.jpg",
+        "https://telegra.ph/file/9d92d373ae79bc78cdb4b.jpg",
+        "https://telegra.ph/file/02ed3f2775a16d92475ba.jpg",
+        "https://telegra.ph/file/787f0a48b64611becb33c.jpg",
+        "https://telegra.ph/file/568f1167f3f9c24afae42.jpg",
+        "https://telegra.ph/file/0e77bf89189dfadce9134.jpg"
+    ]
+};

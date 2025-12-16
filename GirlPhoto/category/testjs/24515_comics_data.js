@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 24515,
+    "title": "草莓味的奈奈兔 - 草莓味的居家少女 [23P+1V]",
+    "sourceUrl": "https://telegra.ph/%E8%8D%89%E8%8E%93%E5%91%B3%E7%9A%84%E5%A5%88%E5%A5%88%E5%85%94---%E8%8D%89%E8%8E%93%E5%91%B3%E7%9A%84%E5%B1%85%E5%AE%B6%E5%B0%91%E5%A5%B3-23P1V-05-10",
+    "images": [
+        "https://telegra.ph/file/e2fe77f7403aef5a2b167.jpg",
+        "https://telegra.ph/file/7c69d08a83258c61ed2e2.jpg",
+        "https://telegra.ph/file/8e378b100f750f2ec7039.jpg",
+        "https://telegra.ph/file/afde51777a6b489e18583.jpg",
+        "https://telegra.ph/file/efc91ccdb52f5c63f1a03.jpg",
+        "https://telegra.ph/file/abb72de6767cf0d00b2a6.jpg",
+        "https://telegra.ph/file/48efb25dcb31cc799d485.jpg",
+        "https://telegra.ph/file/4f41e4d07be4fcb336bae.jpg",
+        "https://telegra.ph/file/452a5e3493ae34ccb22a1.jpg",
+        "https://telegra.ph/file/0d96a64b07e66cd54babd.jpg",
+        "https://telegra.ph/file/33db42131fc493fa2baa2.jpg",
+        "https://telegra.ph/file/d9ba6a1fff28c13da5bd6.jpg",
+        "https://telegra.ph/file/5832e6cc41f9edefd844a.jpg",
+        "https://telegra.ph/file/3d6339fbcf5a7632f877e.jpg",
+        "https://telegra.ph/file/3a520170528e256ea1d4d.jpg",
+        "https://telegra.ph/file/bdb230a04ddff76dba35a.jpg",
+        "https://telegra.ph/file/91d6975907577e2adc0b5.jpg",
+        "https://telegra.ph/file/109f6193a6390847a7d64.jpg",
+        "https://telegra.ph/file/cb961cc568bc6de9d3d6d.jpg",
+        "https://telegra.ph/file/c80ecc3be48a0e058252d.jpg",
+        "https://telegra.ph/file/236b526bf18e2a2a8ceee.jpg",
+        "https://telegra.ph/file/ebfc17de344c4f20a5e4c.jpg",
+        "https://telegra.ph/file/21d77c2ee47de9662d7bc.jpg"
+    ]
+};

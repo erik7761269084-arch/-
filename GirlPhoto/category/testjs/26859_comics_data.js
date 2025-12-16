@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 26859,
+    "title": "习呆呆 - fantia2205订阅",
+    "sourceUrl": "https://telegra.ph/%E4%B9%A0%E5%91%86%E5%91%86---fantia2205%E8%AE%A2%E9%98%85-07-19",
+    "images": [
+        "https://telegra.ph/file/49d0bcac92f840c7a57d4.jpg",
+        "https://telegra.ph/file/26337a4c3705ae0fb81d7.jpg",
+        "https://telegra.ph/file/18140a69ea5275417e4f0.jpg",
+        "https://telegra.ph/file/adb9544853c2d0a1b2e9e.jpg",
+        "https://telegra.ph/file/057581f4b3723cea950c4.jpg",
+        "https://telegra.ph/file/dec44fa6316d2099442f7.jpg",
+        "https://telegra.ph/file/023354ec5b0eca3d96eca.jpg",
+        "https://telegra.ph/file/aa55d0a9c0405c31d7576.jpg",
+        "https://telegra.ph/file/c344e2a3bede6da620223.jpg",
+        "https://telegra.ph/file/f40acce98fdcf20a3ee1c.jpg",
+        "https://telegra.ph/file/e504b35685fe840843a57.jpg",
+        "https://telegra.ph/file/70befa37b56b89c23b758.jpg",
+        "https://telegra.ph/file/f244b33e0e1b8301e2d1a.jpg",
+        "https://telegra.ph/file/1be48c08d41b7fdc9f282.jpg",
+        "https://telegra.ph/file/785966a8ef46abda32236.jpg",
+        "https://telegra.ph/file/6df44251ea7ed13cdc9d0.jpg",
+        "https://telegra.ph/file/d0c3c8538001f93f75ebb.jpg",
+        "https://telegra.ph/file/9af2c789cec361ce03b8e.jpg",
+        "https://telegra.ph/file/9b4c3539872e2e0bf4124.jpg",
+        "https://telegra.ph/file/17256bd703a30f97bab4c.jpg",
+        "https://telegra.ph/file/63a62414c255f45fac73f.jpg",
+        "https://telegra.ph/file/ae8aa51bfb0b255dd0454.jpg",
+        "https://telegra.ph/file/ecfd685e7a84e64fb4c81.jpg",
+        "https://telegra.ph/file/ab4eb3d95fa3ae59aff3b.jpg"
+    ]
+};

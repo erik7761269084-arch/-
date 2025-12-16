@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40924,
+    "title": "Nookkiizz - Charlotte",
+    "sourceUrl": "https://telegra.ph/Nookkiizz---Charlotte-11-17",
+    "images": [
+        "https://telegra.ph/file/97e6b8a672ff0fd73b5fb.jpg",
+        "https://telegra.ph/file/e8746fcaad75d59178fd9.jpg",
+        "https://telegra.ph/file/01318ba1d41a3823bd210.jpg",
+        "https://telegra.ph/file/8b3f488dd4e95e8ca17eb.jpg",
+        "https://telegra.ph/file/02ac98cfbe15198a01544.jpg",
+        "https://telegra.ph/file/298dea0d3b81e9c279793.jpg",
+        "https://telegra.ph/file/70ea4f10cd5a840dac785.jpg",
+        "https://telegra.ph/file/5c2bb4a93df3db3aabc62.jpg",
+        "https://telegra.ph/file/b1c48317ba8012401a733.jpg",
+        "https://telegra.ph/file/89f3e3cdcb9c3c961208c.jpg",
+        "https://telegra.ph/file/fca8e686b4d09922833ca.jpg",
+        "https://telegra.ph/file/4ab17d50f1b6183915bc8.jpg",
+        "https://telegra.ph/file/0dfc9cf39b0bd64ec61d4.jpg",
+        "https://telegra.ph/file/0eec79c524cec6753d12d.jpg",
+        "https://telegra.ph/file/0ed7f4ed70c8c9543d2b4.jpg",
+        "https://telegra.ph/file/dd7b5e84790dd0e49e179.jpg",
+        "https://telegra.ph/file/f60d45d0790547871576d.jpg",
+        "https://telegra.ph/file/839d3c378aa86be9bc073.jpg",
+        "https://telegra.ph/file/af5f6f444ff33b77ee499.jpg",
+        "https://telegra.ph/file/01d600321b039e1534c99.jpg",
+        "https://telegra.ph/file/528a592e23da4c1bae97d.jpg",
+        "https://telegra.ph/file/a6f57ce228bbb9ace3891.jpg",
+        "https://telegra.ph/file/22cd2d2f4a0b29b0344e7.jpg",
+        "https://telegra.ph/file/5690b491051d0d47a666d.jpg",
+        "https://telegra.ph/file/9b00e7ab4c826ee68e307.jpg",
+        "https://telegra.ph/file/6d67b40df2b97e2823ca5.jpg"
+    ]
+};

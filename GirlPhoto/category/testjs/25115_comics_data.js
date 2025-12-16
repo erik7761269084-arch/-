@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 25115,
+    "title": "过期米线线喵 -  阳台 黑丝猫娘[24P]",
+    "sourceUrl": "https://telegra.ph/%E8%BF%87%E6%9C%9F%E7%B1%B3%E7%BA%BF%E7%BA%BF%E5%96%B5---%E9%98%B3%E5%8F%B0-%E9%BB%91%E4%B8%9D%E7%8C%AB%E5%A8%9824P-12-26",
+    "images": [
+        "https://telegra.ph/file/14018ecac73439579e6c1.jpg",
+        "https://telegra.ph/file/31bd121175bbcb6fcb00f.jpg",
+        "https://telegra.ph/file/4fb46bdf7ce2c56b2a1bc.jpg",
+        "https://telegra.ph/file/dc1392255ba9da565187b.jpg",
+        "https://telegra.ph/file/b5c7f53fe56ed17b1aec1.jpg",
+        "https://telegra.ph/file/2d46fc36fdb3a8837a641.jpg",
+        "https://telegra.ph/file/b9f27a6c9f0a04f45f5f3.jpg",
+        "https://telegra.ph/file/8e93a723433a42446d796.jpg",
+        "https://telegra.ph/file/eb037c03e5878bbd8326d.jpg",
+        "https://telegra.ph/file/835509e94c98e1b5c20f8.jpg",
+        "https://telegra.ph/file/cd0b9a2a3d5dccea333c8.jpg",
+        "https://telegra.ph/file/d341966f9f85864cb9d29.jpg",
+        "https://telegra.ph/file/c5134b55aa56ff3c58763.jpg",
+        "https://telegra.ph/file/fd154c710dd5d65abf07d.jpg",
+        "https://telegra.ph/file/1c8062b85f311e517eec8.jpg",
+        "https://telegra.ph/file/0137bce05aa998e55423f.jpg",
+        "https://telegra.ph/file/3c41d75880c4527b9d3f8.jpg",
+        "https://telegra.ph/file/1a1eb805982bac4e4584b.jpg",
+        "https://telegra.ph/file/6a87ebf2d52ec826dfa12.jpg",
+        "https://telegra.ph/file/9ccaf4d99ad4b14533e0e.jpg",
+        "https://telegra.ph/file/85b58a6882bbb7605f497.jpg",
+        "https://telegra.ph/file/26a66ea066dbb2391716f.jpg",
+        "https://telegra.ph/file/7df186cb4fd93605cead5.jpg",
+        "https://telegra.ph/file/1dfe27cf14bfefa065efd.jpg"
+    ]
+};

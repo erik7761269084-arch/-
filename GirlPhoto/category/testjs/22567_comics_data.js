@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 22567,
+    "title": "Original_2023 Birthday",
+    "sourceUrl": "https://telegra.ph/Original-2023-Birthday-11-20",
+    "images": [
+        "https://telegra.ph/file/50a47f74cc5b28796cb6d.jpg",
+        "https://telegra.ph/file/24f249774d480cf108abf.jpg",
+        "https://telegra.ph/file/7289b79385f397b87de80.jpg",
+        "https://telegra.ph/file/730500da5aae805e8d2f3.jpg",
+        "https://telegra.ph/file/a070acd3811500a3623a7.jpg",
+        "https://telegra.ph/file/6f7ca34b6f452c5b22926.jpg",
+        "https://telegra.ph/file/902b0dbf21f9a885c7e9c.jpg",
+        "https://telegra.ph/file/e4e9125f6e06778ee09e9.jpg",
+        "https://telegra.ph/file/dba3c798d601b2a74bd58.jpg",
+        "https://telegra.ph/file/141af1c7a515e4324dc94.jpg",
+        "https://telegra.ph/file/9c7cc176c8458d5639fc0.jpg",
+        "https://telegra.ph/file/d51e01fdd810d5d517454.jpg",
+        "https://telegra.ph/file/6a2824c6ce1854e463e40.jpg",
+        "https://telegra.ph/file/3f2b668b7c886edad368a.jpg",
+        "https://telegra.ph/file/7427d75b67b6e4138033e.jpg",
+        "https://telegra.ph/file/e879aaea2e1f7ee68a2e9.jpg",
+        "https://telegra.ph/file/5c01e17478bc1a138b824.jpg",
+        "https://telegra.ph/file/efe88e48b92bdc27089aa.jpg",
+        "https://telegra.ph/file/28958c097bae35eae8663.jpg",
+        "https://telegra.ph/file/124e78927dd1e44a0ffb6.jpg",
+        "https://telegra.ph/file/3ff1fc0796392efa7b14f.jpg",
+        "https://telegra.ph/file/77639f7497927757dda25.jpg",
+        "https://telegra.ph/file/6e8b43a1c5f9620f18042.jpg",
+        "https://telegra.ph/file/583b705c227c84cf107a7.jpg",
+        "https://telegra.ph/file/531726e57bae293539638.jpg"
+    ]
+};

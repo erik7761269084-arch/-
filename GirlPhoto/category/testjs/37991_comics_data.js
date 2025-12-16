@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37991,
+    "title": "MissWarmJ - Asuka (Neon Génesis Evangelion)",
+    "sourceUrl": "https://telegra.ph/MissWarmJ---Asuka-Neon-Génesis-Evangelion-07-03",
+    "images": [
+        "https://telegra.ph/file/d3ef7646c0f35458df7e9.jpg",
+        "https://telegra.ph/file/513c347fafcc72c1f0f6e.jpg",
+        "https://telegra.ph/file/8467bca72d8478682507b.jpg",
+        "https://telegra.ph/file/0dc2feba9ab011d28b783.jpg",
+        "https://telegra.ph/file/b23711f2b4bee2d36af56.jpg",
+        "https://telegra.ph/file/a270f32f4b3dec4ae81fc.jpg",
+        "https://telegra.ph/file/b418ef4c97d48d578100d.jpg",
+        "https://telegra.ph/file/82b8d368c18aa3acf2839.jpg",
+        "https://telegra.ph/file/cc3979f6ec069b884d0c7.jpg",
+        "https://telegra.ph/file/f41dc377eab0e613342d1.jpg",
+        "https://telegra.ph/file/943edb19df832c38f79ae.jpg",
+        "https://telegra.ph/file/8e46eb68ebbb6f077044a.jpg",
+        "https://telegra.ph/file/609fb760d311a0e93b46c.jpg",
+        "https://telegra.ph/file/f8499f18cecea8440f6e3.jpg",
+        "https://telegra.ph/file/ba0e418e08a4406fe600a.jpg",
+        "https://telegra.ph/file/2162a3f5d8e2610d40a1f.jpg",
+        "https://telegra.ph/file/413f08f2c88f568d45e7f.jpg",
+        "https://telegra.ph/file/c0c5de3a41a251a8ba785.jpg",
+        "https://telegra.ph/file/45d46bb5fda087dc415cf.jpg",
+        "https://telegra.ph/file/03690bccaf733ade1d050.jpg",
+        "https://telegra.ph/file/87fe21586a062ede1b2af.jpg",
+        "https://telegra.ph/file/1dad331c53ee18eda7db6.jpg",
+        "https://telegra.ph/file/e7060fe5f4c5afd361869.jpg",
+        "https://telegra.ph/file/8206a4f24180d217d7a92.jpg"
+    ]
+};

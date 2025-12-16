@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 44048,
+    "title": "橙子喵酱 - 雷神 [26P]",
+    "sourceUrl": "https://telegra.ph/橙子喵酱---雷神-26P-09-27",
+    "images": [
+        "https://telegra.ph/file/baeaebda7efa7f7458ba5.jpg",
+        "https://telegra.ph/file/814dd665c4f173c387f80.jpg",
+        "https://telegra.ph/file/d7a7c4cb915396e62c30c.jpg",
+        "https://telegra.ph/file/e82839cbfde28794bcb73.jpg",
+        "https://telegra.ph/file/508cfad004cb3e8f2c933.jpg",
+        "https://telegra.ph/file/79ba7f79df7e34fa0ee93.jpg",
+        "https://telegra.ph/file/d4f5952407df4dc780b75.jpg",
+        "https://telegra.ph/file/0539003518118a85ddf7f.jpg",
+        "https://telegra.ph/file/e2013dd4e62205235481d.jpg",
+        "https://telegra.ph/file/76a09871221d727a19b56.jpg",
+        "https://telegra.ph/file/976e170ce3073285a5c11.jpg",
+        "https://telegra.ph/file/41cd0db2de5d705c86198.jpg",
+        "https://telegra.ph/file/806d78b1afd55a4b4d238.jpg",
+        "https://telegra.ph/file/eaab9a24ea6de8073b01d.jpg",
+        "https://telegra.ph/file/80c733bc1bd0b31c83e7a.jpg",
+        "https://telegra.ph/file/482d538af9d840d813a0e.jpg",
+        "https://telegra.ph/file/ca152e542029251ecbe36.jpg",
+        "https://telegra.ph/file/304d257509a94c4d4b2e5.jpg",
+        "https://telegra.ph/file/2f9278ee92682f215015c.jpg",
+        "https://telegra.ph/file/e1c36ab6dcd46bfc3edaa.jpg",
+        "https://telegra.ph/file/3be8194d8b2781c732f9c.jpg",
+        "https://telegra.ph/file/eafdc20556f52f40588c4.jpg",
+        "https://telegra.ph/file/7f72327e751f2f5761a12.jpg",
+        "https://telegra.ph/file/f8a2fb0469d0a6e88ee81.jpg",
+        "https://telegra.ph/file/96288aa8fc3c5fd14ffc8.jpg",
+        "https://telegra.ph/file/572dc319621d7ae0db552.jpg"
+    ]
+};

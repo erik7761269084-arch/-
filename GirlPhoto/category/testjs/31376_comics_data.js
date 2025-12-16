@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31376,
+    "title": "[Riribonniリリボン] Hutao 胡桃 Genshin Impact",
+    "sourceUrl": "https://telegra.ph/Riribonniリリボン-Hutao-胡桃-Genshin-Impact-08-16",
+    "images": [
+        "https://telegra.ph/file/1d741e156425c4040f07a.jpg",
+        "https://telegra.ph/file/e42d57c2691a032b82d51.jpg",
+        "https://telegra.ph/file/de91a626ba86f2a651cc1.jpg",
+        "https://telegra.ph/file/ca55b49c57062ca24e211.jpg",
+        "https://telegra.ph/file/5dfddc98d216cf2512274.jpg",
+        "https://telegra.ph/file/3b6ad66bcc848637461e3.jpg",
+        "https://telegra.ph/file/79c9d80fee136b94ab266.jpg",
+        "https://telegra.ph/file/55ef2c3fe79eaee7e5802.jpg",
+        "https://telegra.ph/file/bb5f67ca2d2052ee26d5b.jpg",
+        "https://telegra.ph/file/50c4dbe0e28ca0cd0d6b1.jpg",
+        "https://telegra.ph/file/88a5328646f88e1189559.jpg",
+        "https://telegra.ph/file/9288067e6211cebe80c71.jpg",
+        "https://telegra.ph/file/8c7b9f6848f8e4d8110d8.jpg",
+        "https://telegra.ph/file/8193f80a7d11fa7abd777.jpg",
+        "https://telegra.ph/file/e53b6b4afe5fa32c82bca.jpg",
+        "https://telegra.ph/file/916daedaa5326134d5abc.jpg",
+        "https://telegra.ph/file/065cc959a6c77e693c4a8.jpg",
+        "https://telegra.ph/file/a3ce43eee9ff3c73f0c36.jpg",
+        "https://telegra.ph/file/97bfde981c5b7bef8c845.jpg",
+        "https://telegra.ph/file/173625cdaf22325cf1b64.jpg",
+        "https://telegra.ph/file/8191f82d1217ae2ff24d4.jpg",
+        "https://telegra.ph/file/95e56b3e5624629c6e965.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

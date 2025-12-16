@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25810,
+    "title": "[Cos]木绵绵 - 贝斯妹妹 下 [28P]",
+    "sourceUrl": "https://telegra.ph/Cos%E6%9C%A8%E7%BB%B5%E7%BB%B5---%E8%B4%9D%E6%96%AF%E5%A6%B9%E5%A6%B9-%E4%B8%8B-28P-10-09",
+    "images": [
+        "https://telegra.ph/file/b550eeafd5540b3bc06cb.jpg",
+        "https://telegra.ph/file/ba2e1834e89040d7e35a3.jpg",
+        "https://telegra.ph/file/5656fd136e55c4b51cc4d.jpg",
+        "https://telegra.ph/file/e95c4caa5972bce56a508.jpg",
+        "https://telegra.ph/file/23adc267c2caae60f835b.jpg",
+        "https://telegra.ph/file/9866e351e7b294cc079e3.jpg",
+        "https://telegra.ph/file/eb37b53de44b6a97989ce.jpg",
+        "https://telegra.ph/file/ad7bda61d9cc1e2f7badf.jpg",
+        "https://telegra.ph/file/2336e400ccdee08964adc.jpg",
+        "https://telegra.ph/file/962b6265956c839587250.jpg",
+        "https://telegra.ph/file/22ea7c8331704b9605d5f.jpg",
+        "https://telegra.ph/file/520eb3edc49edec84fde1.jpg",
+        "https://telegra.ph/file/ccae7df4e1bfb25ac1f1a.jpg",
+        "https://telegra.ph/file/65026095ff369d8e66855.jpg",
+        "https://telegra.ph/file/fdb49708869af02720b26.jpg",
+        "https://telegra.ph/file/fa08cd7aa167bfb32feb0.jpg",
+        "https://telegra.ph/file/0a3709eb5f5ee770f4b01.jpg",
+        "https://telegra.ph/file/6b0e2bede5ad8c7f86997.jpg",
+        "https://telegra.ph/file/34fe0dc71df112820a810.jpg",
+        "https://telegra.ph/file/7cacc7389ef5528f4c356.jpg",
+        "https://telegra.ph/file/79ca6d4139525058b7c64.jpg",
+        "https://telegra.ph/file/b905f345d5f0cd997e3b2.jpg",
+        "https://telegra.ph/file/2355a0dea7402b1834cd6.jpg"
+    ]
+};

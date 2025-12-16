@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31383,
+    "title": "[阿包也是兔娘] NO.032 蒂法 Tifa Lockhart ティファ・ロックハート",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-NO032-蒂法-Tifa-Lockhart-ティファロックハート-08-16",
+    "images": [
+        "https://telegra.ph/file/a4737787a4f8bba997316.jpg",
+        "https://telegra.ph/file/d7dd8b03222a83de0fb36.jpg",
+        "https://telegra.ph/file/a04a0e43b70bb362d1400.jpg",
+        "https://telegra.ph/file/44335297a872d873df197.jpg",
+        "https://telegra.ph/file/627fbe5f2b81db127f66c.jpg",
+        "https://telegra.ph/file/477b7e2c8a25fd6f75117.jpg",
+        "https://telegra.ph/file/40ef72d5067c656c53388.jpg",
+        "https://telegra.ph/file/4c222fd02906360a5a2b8.jpg",
+        "https://telegra.ph/file/b4714000e56875d277f22.jpg",
+        "https://telegra.ph/file/502eb8e38e6882a767793.jpg",
+        "https://telegra.ph/file/bde3c8c5d381d34295cc7.jpg",
+        "https://telegra.ph/file/76ec06ecd914d6aea2ce2.jpg",
+        "https://telegra.ph/file/9f36fcd786552ae6a4acf.jpg",
+        "https://telegra.ph/file/1835c58b58d06c1d25af8.jpg",
+        "https://telegra.ph/file/77d6edb48800c4bbb4e34.jpg",
+        "https://telegra.ph/file/2952b4be2014de098b1f3.jpg",
+        "https://telegra.ph/file/5f6d6aa1ed7987b20eae7.jpg",
+        "https://telegra.ph/file/489466c3924065f7ebef9.jpg",
+        "https://telegra.ph/file/79e7451469da3c0468cec.jpg",
+        "https://telegra.ph/file/18743c42ffd5adaecda1c.jpg",
+        "https://telegra.ph/file/7ae8349771ee5170c37d4.jpg",
+        "https://telegra.ph/file/2463283dddf34238a905d.jpg",
+        "https://telegra.ph/file/0313ef6643d348612dcab.jpg",
+        "https://telegra.ph/file/e0c0fd9b795c1dc189082.jpg",
+        "https://telegra.ph/file/f19f66a21dc0cec359acb.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

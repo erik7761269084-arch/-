@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 22669,
+    "title": "宮本桜(宫本樱)014 - 德克萨斯同人礼服",
+    "sourceUrl": "https://telegra.ph/%E5%AE%AE%E6%9C%AC%E6%A1%9C%E5%AE%AB%E6%9C%AC%E6%A8%B1014---%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%90%8C%E4%BA%BA%E7%A4%BC%E6%9C%8D-12-03",
+    "images": [
+        "https://telegra.ph/file/5b197d2fa9b44e02f8d68.jpg",
+        "https://telegra.ph/file/5005acc37746715946030.jpg",
+        "https://telegra.ph/file/89b33bff737a318e7e1f3.jpg",
+        "https://telegra.ph/file/4bede94d1c54ae500a170.jpg",
+        "https://telegra.ph/file/d5bd0e5b4d7cc56888018.jpg",
+        "https://telegra.ph/file/6616c96b3c432035b2615.jpg",
+        "https://telegra.ph/file/7e31c7b1f6a80f1395faa.jpg",
+        "https://telegra.ph/file/1f1d14bac9ef1f86c4356.jpg",
+        "https://telegra.ph/file/76dfd6c8ebb99b062edb2.jpg",
+        "https://telegra.ph/file/7a565f83e19d0fab99f33.jpg",
+        "https://telegra.ph/file/b67c48d57f9cfe1d2d707.jpg",
+        "https://telegra.ph/file/5239f6f34faaf3ac2bc93.jpg",
+        "https://telegra.ph/file/28a31b42fd074708b69c3.jpg",
+        "https://telegra.ph/file/abda3e69cbe69ee3b3214.jpg",
+        "https://telegra.ph/file/8349ed5909fb21ec783d4.jpg",
+        "https://telegra.ph/file/826b91ad046c5a7a7619c.jpg",
+        "https://telegra.ph/file/7d43ad0ded0724c50cc4b.jpg",
+        "https://telegra.ph/file/a5b24f690d0923839bd04.jpg",
+        "https://telegra.ph/file/1341f7caf78fc3676bd33.jpg",
+        "https://telegra.ph/file/2ba11c72fa4a0b75d7f0d.jpg",
+        "https://telegra.ph/file/aa48d7545e6012a043eaa.jpg",
+        "https://telegra.ph/file/e3d4b01142040051bbf29.jpg",
+        "https://telegra.ph/file/8590db5d62c54b48bcd1f.jpg"
+    ]
+};

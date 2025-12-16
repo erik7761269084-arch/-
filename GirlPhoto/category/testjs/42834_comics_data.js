@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42834,
+    "title": "喵喵呜 - 樱花JK#无水印[25p12v1.2g]",
+    "sourceUrl": "https://telegra.ph/%E5%96%B5%E5%96%B5%E5%91%9C---%E6%A8%B1%E8%8A%B1JK%E6%97%A0%E6%B0%B4%E5%8D%B025p12v12g-07-02",
+    "images": [
+        "https://telegra.ph/file/f6be74060b6879034cf26.jpg",
+        "https://telegra.ph/file/9be94d6c87cc1eccfdb76.jpg",
+        "https://telegra.ph/file/ac1d04c619be07268ec41.jpg",
+        "https://telegra.ph/file/e2fc97e8fb7eecbeb7cd0.jpg",
+        "https://telegra.ph/file/b8a2c10986b4dbdabf3e2.jpg",
+        "https://telegra.ph/file/a3b1d3ad4f5f367dcbbee.jpg",
+        "https://telegra.ph/file/6118c5bbb6ae1a270b41e.jpg",
+        "https://telegra.ph/file/3260133de5ccf45f76937.jpg",
+        "https://telegra.ph/file/11dfe5e25fc53b9ba6820.jpg",
+        "https://telegra.ph/file/9da7c43aa646aa976e25e.jpg",
+        "https://telegra.ph/file/7733df63cc7a69893ef4b.jpg",
+        "https://telegra.ph/file/427c037f3c6cc5c054b90.jpg",
+        "https://telegra.ph/file/e436fdfdba2d9051cf185.jpg",
+        "https://telegra.ph/file/c4c7d252aba6540cbcd0c.jpg",
+        "https://telegra.ph/file/1a93ede559f9f1d2dc166.jpg",
+        "https://telegra.ph/file/f7c426bfc68af1faacda7.jpg",
+        "https://telegra.ph/file/fa35c20d44405876c5b7c.jpg",
+        "https://telegra.ph/file/6c74c1c938e037f884e45.jpg",
+        "https://telegra.ph/file/f33eb7d15f048cc69624f.jpg",
+        "https://telegra.ph/file/bb946d7981effffd4fcbc.jpg",
+        "https://telegra.ph/file/72fbd1396333e406037ca.jpg",
+        "https://telegra.ph/file/75fda91d8c8c25b0ca1f7.jpg",
+        "https://telegra.ph/file/ac5c31c77a6e92a3e3744.jpg",
+        "https://telegra.ph/file/9e7604a78e54b2b6ef303.jpg",
+        "https://telegra.ph/file/f4f0b60952825c6368090.jpg",
+        "https://telegra.ph/file/2c8a77ab56adb1eacf725.jpg"
+    ]
+};

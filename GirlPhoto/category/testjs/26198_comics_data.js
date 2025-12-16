@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 26198,
+    "title": "秋和柯基 - 莎拉 伊甸园的骄傲 [48P+12V]",
+    "sourceUrl": "https://telegra.ph/%E7%A7%8B%E5%92%8C%E6%9F%AF%E5%9F%BA---%E8%8E%8E%E6%8B%89-%E4%BC%8A%E7%94%B8%E5%9B%AD%E7%9A%84%E9%AA%84%E5%82%B2-48P12V-12-13-2",
+    "images": [
+        "https://telegra.ph/file/f7e642c6cca902476a471.jpg",
+        "https://telegra.ph/file/4314e2b11a6071e2a327d.jpg",
+        "https://telegra.ph/file/477f907f7daa6db0ac88d.jpg",
+        "https://telegra.ph/file/c93e7c32fe9d24be3d21e.jpg",
+        "https://telegra.ph/file/d22fc3301775ebbb78bea.jpg",
+        "https://telegra.ph/file/1ec7aee9f8bf78b6e6d42.jpg",
+        "https://telegra.ph/file/265414e342f4c94e22ff6.jpg",
+        "https://telegra.ph/file/b58ab7bb67d3865ba5acc.jpg",
+        "https://telegra.ph/file/edc7588869a40a275bffe.jpg",
+        "https://telegra.ph/file/16fa751c0948a8cac0e87.jpg",
+        "https://telegra.ph/file/d9a312246818d2d87d148.jpg",
+        "https://telegra.ph/file/9d4f711d9f439bedb6030.jpg",
+        "https://telegra.ph/file/3fccf6050619ccd4d3e35.jpg",
+        "https://telegra.ph/file/98ac00cbc92875f12a481.jpg",
+        "https://telegra.ph/file/b1e4180c198a20b4f93de.jpg",
+        "https://telegra.ph/file/ddc11de991fa280ee5a77.jpg",
+        "https://telegra.ph/file/91f8e7ef6bdc78fa05463.jpg",
+        "https://telegra.ph/file/9709429c228c38cdacb95.jpg",
+        "https://telegra.ph/file/eba7cf8b746cf5b2ccb69.jpg",
+        "https://telegra.ph/file/b51651d0526b433bc5af4.jpg",
+        "https://telegra.ph/file/144898352841884fba6ab.jpg",
+        "https://telegra.ph/file/5701bf9835f7222881d9f.jpg",
+        "https://telegra.ph/file/d5dd2c26865decb2d62bb.jpg"
+    ]
+};

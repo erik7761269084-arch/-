@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32751,
+    "title": "[果咩酱] Inori Yuzuriha 楪祈 (Guilty Crown)",
+    "sourceUrl": "https://telegra.ph/果咩酱-Inori-Yuzuriha-楪祈-Guilty-Crown-12-27",
+    "images": [
+        "https://telegra.ph/file/502f906e6b002f2ec93ae.jpg",
+        "https://telegra.ph/file/fbae1f8c44e17a6cc7ebd.jpg",
+        "https://telegra.ph/file/4807b946acc54b961cf37.jpg",
+        "https://telegra.ph/file/6a29203d19861e4d15573.jpg",
+        "https://telegra.ph/file/85bc7229f3084fafca032.jpg",
+        "https://telegra.ph/file/95a8cf03677f0266d6319.jpg",
+        "https://telegra.ph/file/2bb69fcf599b5c1ad650f.jpg",
+        "https://telegra.ph/file/4e483182ed2271b9c0a22.jpg",
+        "https://telegra.ph/file/b4a9f082800d73ab97459.jpg",
+        "https://telegra.ph/file/81de7ee6be08f7dfafa07.jpg",
+        "https://telegra.ph/file/10f0f3d536965676c8f0d.jpg",
+        "https://telegra.ph/file/1c5cb65b687fe40190220.jpg",
+        "https://telegra.ph/file/9be785f11b286a1b7f08c.jpg",
+        "https://telegra.ph/file/9a681afdb141b34ad3bd0.jpg",
+        "https://telegra.ph/file/aa58727faa9cebe66555a.jpg",
+        "https://telegra.ph/file/c0160ab3e72acb85b6534.jpg",
+        "https://telegra.ph/file/01994aa30fa43f4bc81ec.jpg",
+        "https://telegra.ph/file/fe57356a2c4affd595555.jpg",
+        "https://telegra.ph/file/4f9f24ffc7e5b10c53cf8.jpg",
+        "https://telegra.ph/file/5c5cf525dc9603164bbe1.jpg",
+        "https://telegra.ph/file/cd66dd28b9b714062e2de.jpg",
+        "https://telegra.ph/file/6a99882986924755f07be.jpg",
+        "https://telegra.ph/file/b3d5df9518dd8f8ccebbb.jpg",
+        "https://telegra.ph/file/0550f58f9a31aa014555c.jpg",
+        "https://telegra.ph/file/42f8da5b544efe9304c63.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

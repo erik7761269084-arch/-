@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42173,
+    "title": "Lada Lyumos - Princess Peach (Mario Bros)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-04-5",
+    "images": [
+        "https://i.ibb.co/spJjM9tj/01-DSC01841450c334366aa432e-compress23.jpg",
+        "https://i.ibb.co/6cbqtKGQ/02-DSC01830b9d94d82cabb13da-compress67.jpg",
+        "https://i.ibb.co/LD3xsrLR/03-DSC01865b94df415f66305a1-compress44.jpg",
+        "https://i.ibb.co/670bK2Jz/04-DSC01893c3b4bfa7b345eb02-compress31.jpg",
+        "https://i.ibb.co/DfLMnyKp/05-DSC01924a2055f37e71d71b9-compress26.jpg",
+        "https://i.ibb.co/Z17qWxxP/06-DSC019331581aaf11a08daa4-compress72.jpg",
+        "https://i.ibb.co/sSqYVMv/07-DSC0196376a366173c3a4b35-compress90.jpg",
+        "https://i.ibb.co/BVmd7sgK/08-DSC01985fe9ce79b7ab4323d-compress37.jpg",
+        "https://i.ibb.co/XfT91HHn/09-DSC02039971a2b6ed5edc5e1-compress95.jpg",
+        "https://i.ibb.co/g0RPRRp/10-DSC0213572e22dae5679f29b-compress18.jpg",
+        "https://i.ibb.co/0pTfYV5t/11-DSC02160dcd9282190c9aa0c-compress43.jpg",
+        "https://i.ibb.co/FbmSwtG6/12-DSC0219985230f1b9f038263-compress37.jpg",
+        "https://i.ibb.co/7NjGP5yY/13-DSC0232627124615f2f57d62-compress0.jpg",
+        "https://i.ibb.co/tMfBqd3V/14-DSC02355c9ab78b93d99a3df-compress69.jpg",
+        "https://i.ibb.co/zT05crjh/15-DSC023832b1d386fb8b0f4ab-compress97.jpg",
+        "https://i.ibb.co/CpQNhkrV/16-DSC024103bc9a08dfcf52ad9-compress28.jpg",
+        "https://i.ibb.co/ynGbKCqz/17-DSC024368d49e8bbaf43f667-compress5.jpg",
+        "https://i.ibb.co/zHPtbQrj/18-DSC02464da6ed39a66b61bde-compress3.jpg",
+        "https://i.ibb.co/KxqCCFhs/19-DSC02489282e9eaab4d733ed-compress97.jpg",
+        "https://i.ibb.co/DDgNsk90/20-DSC02533cfad796e19f72539-compress64.jpg",
+        "https://i.ibb.co/MD4xXmV2/21-DSC02553ghfdr25ed9ef3f045e965-compress77.jpg",
+        "https://i.ibb.co/XPG6nVm/22-DSC025664e2188740baee437-compress13.jpg",
+        "https://i.ibb.co/hx0cqTM1/23-DSC025771d90041f0a29eee9-compress74.jpg",
+        "https://i.ibb.co/DgMz0ZsG/24-DSC02592486cf864b37eecde-compress82.jpg",
+        "https://i.ibb.co/HLDGqTRg/25-DSC02625f3401ab33bed9625-compress24.jpg"
+    ]
+};

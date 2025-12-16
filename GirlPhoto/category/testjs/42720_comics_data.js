@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42720,
+    "title": "木绵绵OwO - 水波温柔 [24P-436MB]",
+    "sourceUrl": "https://telegra.ph/%E6%9C%A8%E7%BB%B5%E7%BB%B5OwO---%E6%B0%B4%E6%B3%A2%E6%B8%A9%E6%9F%94-24P-436MB-06-15",
+    "images": [
+        "https://telegra.ph/file/68276fa84e4e7b0bc5107.jpg",
+        "https://telegra.ph/file/b8d9104237bfcbbfc9460.jpg",
+        "https://telegra.ph/file/41d340dc565bc88113d8a.jpg",
+        "https://telegra.ph/file/195e6b821fe25d5d986fb.jpg",
+        "https://telegra.ph/file/dc5e4ca2753bc08e4c101.jpg",
+        "https://telegra.ph/file/0207dd346a3778d8714cd.jpg",
+        "https://telegra.ph/file/4dd74d5d093b71639da73.jpg",
+        "https://telegra.ph/file/252690a467cafe464bac4.jpg",
+        "https://telegra.ph/file/67f367a2d1d232dc2b202.jpg",
+        "https://telegra.ph/file/d49cefd1c562be0959cc7.jpg",
+        "https://telegra.ph/file/4eaf89c1e963f3930d5ee.jpg",
+        "https://telegra.ph/file/6a8c22b0fd53fc46c0781.jpg",
+        "https://telegra.ph/file/9300e7bf57675bc4d0572.jpg",
+        "https://telegra.ph/file/b9a8cb4b1ab86b5d64a8d.jpg",
+        "https://telegra.ph/file/544f5dd8c2f50ae4381c6.jpg",
+        "https://telegra.ph/file/00a978457a281ae90d3d4.jpg",
+        "https://telegra.ph/file/319e556931368e49fdaab.jpg",
+        "https://telegra.ph/file/d1c9a3efc58f770cf79be.jpg",
+        "https://telegra.ph/file/90abfac730fe8cdd43540.jpg",
+        "https://telegra.ph/file/20467b20328a0c7f10341.jpg",
+        "https://telegra.ph/file/75478c49e49eca384dff8.jpg",
+        "https://telegra.ph/file/9df25198b67d3739ca2f7.jpg",
+        "https://telegra.ph/file/6bc4d3439f8f5a432e3b3.jpg",
+        "https://telegra.ph/file/0c84d76fa9d36ff16fb70.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25537,
+    "title": "焖焖碳 - 绫波改 [25P-237MB]",
+    "sourceUrl": "https://telegra.ph/%E7%84%96%E7%84%96%E7%A2%B3---%E7%BB%AB%E6%B3%A2%E6%94%B9-25P-237MB-10-06",
+    "images": [
+        "https://telegra.ph/file/a58312e92eea6fbe03028.jpg",
+        "https://telegra.ph/file/33f68ecabc7c65f11974e.jpg",
+        "https://telegra.ph/file/371bc47b2bff54c85df09.jpg",
+        "https://telegra.ph/file/d6d6e48511d00fbeada65.jpg",
+        "https://telegra.ph/file/ab4e154ee9acaeef9785e.jpg",
+        "https://telegra.ph/file/bd86e3315a2cd68adc22f.jpg",
+        "https://telegra.ph/file/0ab941f90f111b7a7ca8e.jpg",
+        "https://telegra.ph/file/b0cd07055db72800d75f6.jpg",
+        "https://telegra.ph/file/c87d8748885388fe95f08.jpg",
+        "https://telegra.ph/file/a5bf51813b170b9bc42c7.jpg",
+        "https://telegra.ph/file/e0635c28b2e0ce0e56bcd.jpg",
+        "https://telegra.ph/file/5dab951491e387b835de3.jpg",
+        "https://telegra.ph/file/dafdb5d55857fdf386f5f.jpg",
+        "https://telegra.ph/file/219b6d4f102fc402e916f.jpg",
+        "https://telegra.ph/file/80e519fe83756e1271138.jpg",
+        "https://telegra.ph/file/6325ca17413348701aa65.jpg",
+        "https://telegra.ph/file/fbedd63a3508fdb034d58.jpg",
+        "https://telegra.ph/file/4e8022619fdee08d0ffbb.jpg",
+        "https://telegra.ph/file/9f9c355dc0f462cc5e7ab.jpg",
+        "https://telegra.ph/file/8a453635669aa4770a70e.jpg",
+        "https://telegra.ph/file/8b27e99633339b3fa2699.jpg",
+        "https://telegra.ph/file/c77dc6626ac8b0578bb26.jpg",
+        "https://telegra.ph/file/d834fc434bc9d5ce4a1ed.jpg",
+        "https://telegra.ph/file/8283136249ae9ef5b0d53.jpg",
+        "https://telegra.ph/file/d69a5ab615cdbfb76922e.jpg"
+    ]
+};

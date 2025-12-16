@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43435,
+    "title": "小仓千代w - 猫毛毯[26P-45MB]",
+    "sourceUrl": "https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w---%E7%8C%AB%E6%AF%9B%E6%AF%AF26P-45MB-11-21",
+    "images": [
+        "https://telegra.ph/file/19b49b64466dd868b207b.jpg",
+        "https://telegra.ph/file/79f2f5af673d0b8886f82.jpg",
+        "https://telegra.ph/file/f480a7758a513b9b2017b.jpg",
+        "https://telegra.ph/file/b4b765ee80e145450ab81.jpg",
+        "https://telegra.ph/file/3bb63e9b1a82e3c158b78.jpg",
+        "https://telegra.ph/file/af5ea45e84c6c1d0ab302.jpg",
+        "https://telegra.ph/file/1abab7fd4bb1f874aec75.jpg",
+        "https://telegra.ph/file/cf2a950dc6fb5ce56ad3e.jpg",
+        "https://telegra.ph/file/27c043462fe0906ceb5d7.jpg",
+        "https://telegra.ph/file/40b7fd6f56230a2644dff.jpg",
+        "https://telegra.ph/file/d967570ae79005aa8ca11.jpg",
+        "https://telegra.ph/file/f8ebc27eb57cc27b737b8.jpg",
+        "https://telegra.ph/file/9d5fa63eee9b66ee2c3bb.jpg",
+        "https://telegra.ph/file/7988d90bc12b459d4103f.jpg",
+        "https://telegra.ph/file/a3193e0b2a355f96f3599.jpg",
+        "https://telegra.ph/file/824ab853891bb5aa41ff2.jpg",
+        "https://telegra.ph/file/eed99003704f287a608da.jpg",
+        "https://telegra.ph/file/52197c02d461bc8f8a7fc.jpg",
+        "https://telegra.ph/file/c4d4009d65b041efc48e8.jpg",
+        "https://telegra.ph/file/3e9a01cde499f938a9a56.jpg",
+        "https://telegra.ph/file/17c734794bba009d32e08.jpg",
+        "https://telegra.ph/file/6852b083fcd3f4d313cfa.jpg",
+        "https://telegra.ph/file/e5ba3ca08e2e5fc33818e.jpg",
+        "https://telegra.ph/file/49e19a73d7bea2310e083.jpg",
+        "https://telegra.ph/file/f1e9aa3d5b5216d606d3d.jpg",
+        "https://telegra.ph/file/38c61c8c2a4e4c78fa9d2.jpg"
+    ]
+};

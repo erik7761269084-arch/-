@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46020,
+    "title": "[PingPing] Kuroinu Mistioria Arte - Page 1",
+    "sourceUrl": "https://telegra.ph/PingPing-Kuroinu-Mistioria-Arte---Page-1-11-18",
+    "images": [
+        "https://telegra.ph/file/b0c1c9aa6da377b612b3b.jpg",
+        "https://telegra.ph/file/7ec7d74e3d8ef8958c620.jpg",
+        "https://telegra.ph/file/4c3b75ad1bf4e556a1b74.jpg",
+        "https://telegra.ph/file/e26c95f645e3e12d983ef.jpg",
+        "https://telegra.ph/file/f203dae32d8cded24c477.jpg",
+        "https://telegra.ph/file/086510c2eb25e9bd1d11d.jpg",
+        "https://telegra.ph/file/32e2e87046984418378b3.jpg",
+        "https://telegra.ph/file/4c61f147f822c025ea515.jpg",
+        "https://telegra.ph/file/45d20075cce28c598f41d.jpg",
+        "https://telegra.ph/file/8bca774fa3927e367dd19.jpg",
+        "https://telegra.ph/file/2ceb76b922b83d59630d8.jpg",
+        "https://telegra.ph/file/e088e2c9fbc6ac48e6081.jpg",
+        "https://telegra.ph/file/65f0f383c826122bc0966.jpg",
+        "https://telegra.ph/file/8a0659d5b1bfcee54fba2.jpg",
+        "https://telegra.ph/file/a0f08560e1f58ebbd6cf3.jpg",
+        "https://telegra.ph/file/758178cfd48d516c3ac57.jpg",
+        "https://telegra.ph/file/bd6a3238a63371c224d7f.jpg",
+        "https://telegra.ph/file/9d311c234221322ceb384.jpg",
+        "https://telegra.ph/file/2cf548817bdb7247cdc17.jpg",
+        "https://telegra.ph/file/f466265f73850a9ce0c4f.jpg",
+        "https://telegra.ph/file/a3fb155214d9ab23bf8f0.jpg",
+        "https://telegra.ph/file/d9ddb234a5766793c2a7b.jpg",
+        "https://telegra.ph/file/8ca62298830cc71c2cbe6.jpg",
+        "https://telegra.ph/file/62663531749e2cd411623.jpg",
+        "https://telegra.ph/file/d602bae57995866914b7d.jpg"
+    ]
+};

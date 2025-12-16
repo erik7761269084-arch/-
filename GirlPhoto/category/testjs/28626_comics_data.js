@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 28626,
+    "title": "爆机少女喵小吉 绮怀",
+    "sourceUrl": "https://telegra.ph/%E7%88%86%E6%9C%BA%E5%B0%91%E5%A5%B3%E5%96%B5%E5%B0%8F%E5%90%89-%E7%BB%AE%E6%80%80-09-06",
+    "images": [
+        "https://telegra.ph/file/9f499207327e40acbfe16.jpg",
+        "https://telegra.ph/file/bdfba958eacf84c380ad2.jpg",
+        "https://telegra.ph/file/c41fc2535e10a0408d10f.jpg",
+        "https://telegra.ph/file/1b76b141cf853313ae68a.jpg",
+        "https://telegra.ph/file/1daa5bf79fc2ce5c0eda5.jpg",
+        "https://telegra.ph/file/a75cdf23915f64a0c2460.jpg",
+        "https://telegra.ph/file/458c194f1fd093befbaf6.jpg",
+        "https://telegra.ph/file/5c7bab9861ca1f779aa17.jpg",
+        "https://telegra.ph/file/a360961f9cc59d6686dc8.jpg",
+        "https://telegra.ph/file/18e1f027bc47757853a96.jpg",
+        "https://telegra.ph/file/68bfa701909af23c9621f.jpg",
+        "https://telegra.ph/file/dfd6c7cfcba39137e0294.jpg",
+        "https://telegra.ph/file/255e9fd4613311ec407e5.jpg",
+        "https://telegra.ph/file/3d0c055ad844f3aa95509.jpg",
+        "https://telegra.ph/file/680f4a39804cff24a22a1.jpg",
+        "https://telegra.ph/file/fe970a071f9578fbea00c.jpg",
+        "https://telegra.ph/file/74ef5f251973e25e75920.jpg",
+        "https://telegra.ph/file/fff3586a00cab9830c052.jpg",
+        "https://telegra.ph/file/67ac7c671c17d63f21557.jpg",
+        "https://telegra.ph/file/8cbfaa204df8b0c22b7b8.jpg",
+        "https://telegra.ph/file/a0c4abf371b3f039a2dc9.jpg",
+        "https://telegra.ph/file/6a055e6d823bab357760f.jpg",
+        "https://telegra.ph/file/43c1b7f5d63b99b7da5b1.jpg",
+        "https://telegra.ph/file/e2708d0b1b8ae40b00880.jpg",
+        "https://telegra.ph/file/eae7751556caee315af7f.jpg"
+    ]
+};

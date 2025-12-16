@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 45608,
+    "title": "Octokuro - 2B - Page 1",
+    "sourceUrl": "https://telegra.ph/Octokuro---2B---Page-1-10-08",
+    "images": [
+        "https://telegra.ph/file/f7fd0c1cc0c646b8ae1ad.jpg",
+        "https://telegra.ph/file/0c397163ce34160d15150.jpg",
+        "https://telegra.ph/file/e89d8522d198aa05a6c93.jpg",
+        "https://telegra.ph/file/ea0d56b38239a80700754.jpg",
+        "https://telegra.ph/file/bd8f6270517fd0ff94e7c.jpg",
+        "https://telegra.ph/file/3dd49166e32e0d698f81a.jpg",
+        "https://telegra.ph/file/cbabd7aab46bf60e53d0d.jpg",
+        "https://telegra.ph/file/42703389f0ebda1333367.jpg",
+        "https://telegra.ph/file/bd292dd12fc43a23579ad.jpg",
+        "https://telegra.ph/file/83beee8c35d08c6ea3dfc.jpg",
+        "https://telegra.ph/file/9e8667e1532c9c32d5d97.jpg",
+        "https://telegra.ph/file/86b93c3a79893336efa48.jpg",
+        "https://telegra.ph/file/7c412448f96c8a3f01ac2.jpg",
+        "https://telegra.ph/file/23a1c18418c752822387b.jpg",
+        "https://telegra.ph/file/77e2c43703bc7d2cee967.jpg",
+        "https://telegra.ph/file/17ecc33b64810be5f02c6.jpg",
+        "https://telegra.ph/file/7687f9e0aeb2664e479d7.jpg",
+        "https://telegra.ph/file/5c87a110bfdd11eb035e0.jpg",
+        "https://telegra.ph/file/441eab0ab7e88ddb1614e.jpg",
+        "https://telegra.ph/file/9fa3e09a8e44a691d9cd3.jpg",
+        "https://telegra.ph/file/01aabc90b925ce04e0bba.jpg",
+        "https://telegra.ph/file/08fe6021e4c8bcf05909d.jpg",
+        "https://telegra.ph/file/da769cbc65b6ca441a53a.jpg",
+        "https://telegra.ph/file/5cff990432d45a03bf99a.jpg"
+    ]
+};

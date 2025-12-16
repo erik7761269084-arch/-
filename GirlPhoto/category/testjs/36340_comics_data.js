@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 36340,
+    "title": "Sooflower 수련수련, [CreamSoda] Sooflower Vol.01 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/Sooflower-수련수련-CreamSoda-Sooflower-Vol01-8211-Set02-12-23",
+    "images": [
+        "https://telegra.ph/file/670e526412d9e63f73775.jpg",
+        "https://telegra.ph/file/89ba2da0960387fdb360e.jpg",
+        "https://telegra.ph/file/3ab3381a5b02b77f6ec03.jpg",
+        "https://telegra.ph/file/49de20a045f4a83214c48.jpg",
+        "https://telegra.ph/file/a63af2da6df049ebd45c3.jpg",
+        "https://telegra.ph/file/cb5b9717d4211b4212b57.jpg",
+        "https://telegra.ph/file/714fbf6543aafd4bdc7a5.jpg",
+        "https://telegra.ph/file/c9456cac1ce5851f10a25.jpg",
+        "https://telegra.ph/file/1acd4aa84659f006b5dac.jpg",
+        "https://telegra.ph/file/ff852777768ad857f755b.jpg",
+        "https://telegra.ph/file/2d822b6cc548fafe0f915.jpg",
+        "https://telegra.ph/file/47e34140bcb482caa33cd.jpg",
+        "https://telegra.ph/file/731ac53c587638c3f2833.jpg",
+        "https://telegra.ph/file/0ff8910df1f239b9ebe9a.jpg",
+        "https://telegra.ph/file/74300303e03ef732038c5.jpg",
+        "https://telegra.ph/file/19ffd3651331996d562ef.jpg",
+        "https://telegra.ph/file/1a187c1fffce02337231d.jpg",
+        "https://telegra.ph/file/37c3b0ecfad9659150811.jpg",
+        "https://telegra.ph/file/8531e1f77fa7637c31981.jpg",
+        "https://telegra.ph/file/1051e04bb0cb64adcb9ab.jpg",
+        "https://telegra.ph/file/951118d586ad1f2e398a7.jpg",
+        "https://telegra.ph/file/95052c8b35aaaca15cded.jpg",
+        "https://telegra.ph/file/0578b6b27d9ef0780e7a3.jpg",
+        "https://telegra.ph/file/94fe571ba0137ea058165.jpg",
+        "https://telegra.ph/file/9ea30f96d5c600e60e660.jpg",
+        "https://telegra.ph/file/673723c05033064ef2f41.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27240,
+    "title": "一米八的大梨子-圣路易斯[24P]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%80%E7%B1%B3%E5%85%AB%E7%9A%84%E5%A4%A7%E6%A2%A8%E5%AD%90-%E5%9C%A3%E8%B7%AF%E6%98%93%E6%96%AF24P-07-26",
+    "images": [
+        "https://telegra.ph/file/e064adb20a453bf67252d.jpg",
+        "https://telegra.ph/file/1ec92f1c12dfaf42f974e.jpg",
+        "https://telegra.ph/file/1b0349e3e7486c98e9fea.jpg",
+        "https://telegra.ph/file/b096563213e08588bae32.jpg",
+        "https://telegra.ph/file/9320b7c8749dbd0378ae2.jpg",
+        "https://telegra.ph/file/815b6be0eee096d7fff5c.jpg",
+        "https://telegra.ph/file/fb87ec27636cc21cb08f5.jpg",
+        "https://telegra.ph/file/4f0179a8266ab67be759f.jpg",
+        "https://telegra.ph/file/3a00bb50a14f7e0597a21.jpg",
+        "https://telegra.ph/file/bb0e4100e6ca4a8a869c4.jpg",
+        "https://telegra.ph/file/3215245585c90a17f530b.jpg",
+        "https://telegra.ph/file/cea57098b378bb0d9d357.jpg",
+        "https://telegra.ph/file/fe3dd6269c97d22ac6410.jpg",
+        "https://telegra.ph/file/27723f8a21e35006dcb76.jpg",
+        "https://telegra.ph/file/3d01365844cd6064995ed.jpg",
+        "https://telegra.ph/file/905c29031ff537124d27c.jpg",
+        "https://telegra.ph/file/761bf7f471543adc91768.jpg",
+        "https://telegra.ph/file/b6cf04fd2b075af593db7.jpg",
+        "https://telegra.ph/file/28a4516eb01d03b21e97d.jpg",
+        "https://telegra.ph/file/8ef5287f78e6238c207df.jpg",
+        "https://telegra.ph/file/fa5c2a94d47ef3b4f096b.jpg",
+        "https://telegra.ph/file/0bfe2f56b36b25300c775.jpg",
+        "https://telegra.ph/file/182be9dbfc45458825f41.jpg",
+        "https://telegra.ph/file/c13070e4c882b3c20f53e.jpg"
+    ]
+};

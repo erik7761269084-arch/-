@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38998,
+    "title": "Nekokoyoshi - Succubus (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Nekokoyoshi---Succubus-Random-Cosplay-04-06",
+    "images": [
+        "https://telegra.ph/file/b19faf7bf11e31d959f33.jpg",
+        "https://telegra.ph/file/a096ecda8d4b6db3b4c54.jpg",
+        "https://telegra.ph/file/61d1ece504e216fd0abe7.jpg",
+        "https://telegra.ph/file/802beecf6c35006a3a735.jpg",
+        "https://telegra.ph/file/83259a020f786d824c1ab.jpg",
+        "https://telegra.ph/file/1eb699c1bc81081a50f31.jpg",
+        "https://telegra.ph/file/9c8e780b569b986e2fafc.jpg",
+        "https://telegra.ph/file/0c0d9fe931a415d96fe75.jpg",
+        "https://telegra.ph/file/d340ecd15e858ac3b5085.jpg",
+        "https://telegra.ph/file/33a3d46e3040ac96453fd.jpg",
+        "https://telegra.ph/file/203ce28d7fdf6fdb4be84.jpg",
+        "https://telegra.ph/file/02bce5220fdd7e10bd2b1.jpg",
+        "https://telegra.ph/file/e73bb23019e829eff70bb.jpg",
+        "https://telegra.ph/file/a033429d3120c9a6363f0.jpg",
+        "https://telegra.ph/file/fcbd350351b2cddb94e5c.jpg",
+        "https://telegra.ph/file/c8093ed8d759d231abc53.jpg",
+        "https://telegra.ph/file/b865a57b5aa63b2c489cf.jpg",
+        "https://telegra.ph/file/99bfdd09c31cc365f0267.jpg",
+        "https://telegra.ph/file/b1232a92af2a30fa45f77.jpg",
+        "https://telegra.ph/file/aa840935a5ef132295f26.jpg",
+        "https://telegra.ph/file/981979586574819229bd8.jpg",
+        "https://telegra.ph/file/95222822b5e5e6bf2ec23.jpg",
+        "https://telegra.ph/file/eee03cd7b759e1183e5c7.jpg",
+        "https://telegra.ph/file/bad514e00e6cfbfb7d9ee.jpg"
+    ]
+};

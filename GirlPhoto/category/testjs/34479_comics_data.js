@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 34479,
+    "title": "Cosplay 樱晚gigi 粉丝群收费写真10",
+    "sourceUrl": "https://telegra.ph/Cosplay-樱晚gigi-粉丝群收费写真10-06-18",
+    "images": [
+        "https://telegra.ph/file/b2e90e1c55d55c41d704b.jpg",
+        "https://telegra.ph/file/fcbcd05bad418a0c5df66.jpg",
+        "https://telegra.ph/file/fbceab2b94acfbf4be151.jpg",
+        "https://telegra.ph/file/eb90d82b088a00128e6a1.jpg",
+        "https://telegra.ph/file/100307a5bd791f92169af.jpg",
+        "https://telegra.ph/file/ef898dced4dc5dc06312e.jpg",
+        "https://telegra.ph/file/bab884ec2e6ab7dc0330c.jpg",
+        "https://telegra.ph/file/89f96139824928cd9ab2d.jpg",
+        "https://telegra.ph/file/bd4332a81eb61ae20bc04.jpg",
+        "https://telegra.ph/file/511321120527a0c62cd7b.jpg",
+        "https://telegra.ph/file/2c69f642f4cdf2f7015f0.jpg",
+        "https://telegra.ph/file/4f2bf5c86710c1dadd923.jpg",
+        "https://telegra.ph/file/95758908cb18c032f76ff.jpg",
+        "https://telegra.ph/file/6373811d966ca9d171a0e.jpg",
+        "https://telegra.ph/file/5959e27aaf05791c3da96.jpg",
+        "https://telegra.ph/file/099e215177668001121fa.jpg",
+        "https://telegra.ph/file/10016ac01d76b2bc1b159.jpg",
+        "https://telegra.ph/file/043fc6bb1ec04951b8b64.jpg",
+        "https://telegra.ph/file/3642ac91a275c55e42de8.jpg",
+        "https://telegra.ph/file/49baae8bc3f25d73d624d.jpg",
+        "https://telegra.ph/file/fad7a5109adc5d450ffa0.jpg",
+        "https://telegra.ph/file/cd4f79e39546801f2ba41.jpg",
+        "https://telegra.ph/file/6699dd562c707ad1ab874.jpg",
+        "https://telegra.ph/file/b501114c70d9179706e12.jpg",
+        "https://telegra.ph/file/db7d189a0370afc08bd18.jpg",
+        "https://telegra.ph/file/635bc1c09364da58be745.jpg"
+    ]
+};

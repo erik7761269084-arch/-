@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 39698,
+    "title": "Fantasy Factory - Christmas",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Christmas-09-21",
+    "images": [
+        "https://telegra.ph/file/4c57605ddafdfc80121bb.jpg",
+        "https://telegra.ph/file/2375932dc199cfecd613f.jpg",
+        "https://telegra.ph/file/2cc2b053adcf11b3cacb1.jpg",
+        "https://telegra.ph/file/963dbfd44d1d44b8ac446.jpg",
+        "https://telegra.ph/file/44e612749d1ed09676222.jpg",
+        "https://telegra.ph/file/9cb308fa945f1dcb3d07b.jpg",
+        "https://telegra.ph/file/7fac4ca4fd89c46b78d2a.jpg",
+        "https://telegra.ph/file/11bd3368a0b46b8717899.jpg",
+        "https://telegra.ph/file/75c21fc392e944f6a8631.jpg",
+        "https://telegra.ph/file/a26c8236f6bff15a4c236.jpg",
+        "https://telegra.ph/file/683a627578a4ca6e49f13.jpg",
+        "https://telegra.ph/file/4082af554b802542b646b.jpg",
+        "https://telegra.ph/file/80ed03099f7ea707a3f5c.jpg",
+        "https://telegra.ph/file/08e616c049307fab82c43.jpg",
+        "https://telegra.ph/file/0eb555048299e540f4a48.jpg",
+        "https://telegra.ph/file/7b113be76efea9c21b679.jpg",
+        "https://telegra.ph/file/dd145c0d4714eb8d177ec.jpg",
+        "https://telegra.ph/file/e03b148a3c53fb7e8eab1.jpg",
+        "https://telegra.ph/file/c7001fc63736aeaa167ed.jpg",
+        "https://telegra.ph/file/babb56c5d2709dc8516a8.jpg",
+        "https://telegra.ph/file/a693ab40c338f190b017e.jpg",
+        "https://telegra.ph/file/e3857c7a8173957b8cd0c.jpg",
+        "https://telegra.ph/file/82f9307dec442110c6316.jpg",
+        "https://telegra.ph/file/4135f1e3a6364b255dbb1.jpg",
+        "https://telegra.ph/file/480f46d9ed6d417d8d1cc.jpg",
+        "https://telegra.ph/file/1b931498f8329a7610f0a.jpg"
+    ]
+};

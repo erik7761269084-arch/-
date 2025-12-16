@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47205,
+    "title": "QQueen - Tifa Lockhart - Page 1",
+    "sourceUrl": "https://telegra.ph/QQueen---Tifa-Lockhart---Page-1-03-10",
+    "images": [
+        "https://telegra.ph/file/982814704dfb9926fa163.jpg",
+        "https://telegra.ph/file/c1026782edd95b9660bce.jpg",
+        "https://telegra.ph/file/63623b1dda71c4f31bf27.jpg",
+        "https://telegra.ph/file/bb5f0f08902add23f6469.jpg",
+        "https://telegra.ph/file/e22d6e01a95d3c549ea33.jpg",
+        "https://telegra.ph/file/ee63fa65de569ce49dd1c.jpg",
+        "https://telegra.ph/file/e2a1667dfff54eb3a1f1e.jpg",
+        "https://telegra.ph/file/ae950dd00049636fb39a4.jpg",
+        "https://telegra.ph/file/8475060745e4ad1d80fd0.jpg",
+        "https://telegra.ph/file/01384e19516fe610f8990.jpg",
+        "https://telegra.ph/file/f85af4064c82566368509.jpg",
+        "https://telegra.ph/file/c11d4a7cdb74c2cdd43fb.jpg",
+        "https://telegra.ph/file/b6fe2dfb15e51390d851d.jpg",
+        "https://telegra.ph/file/a963fc288e68f90fa0c7a.jpg",
+        "https://telegra.ph/file/3ef97e88fa11985c0c19a.jpg",
+        "https://telegra.ph/file/ac6fc4ae54072bf861899.jpg",
+        "https://telegra.ph/file/90f163c326b6a9fd7979b.jpg",
+        "https://telegra.ph/file/12dc47a805874077eb6ea.jpg",
+        "https://telegra.ph/file/07430a175bc5369f55804.jpg",
+        "https://telegra.ph/file/6ca21ddc5e757d2aed01a.jpg",
+        "https://telegra.ph/file/4e3b3177bfc72b3773e5d.jpg",
+        "https://telegra.ph/file/e282828d41f88b71ccc14.jpg",
+        "https://telegra.ph/file/be8fd780ec0d82fad502e.jpg",
+        "https://telegra.ph/file/0de3bd97906fa2644a30f.jpg",
+        "https://telegra.ph/file/3a3c38a0598ff14e59ed3.jpg",
+        "https://telegra.ph/file/774a4d826e6616a989d70.jpg"
+    ]
+};

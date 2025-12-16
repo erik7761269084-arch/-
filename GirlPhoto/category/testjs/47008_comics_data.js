@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47008,
+    "title": "Gumiho.arts - Rem (lingerie) - Page 1",
+    "sourceUrl": "https://telegra.ph/Gumihoarts---Rem-lingerie---Page-1-02-21",
+    "images": [
+        "https://telegra.ph/file/d0fed8d278f52f1c36be4.jpg",
+        "https://telegra.ph/file/ec90187ca0ad227e2e0f9.jpg",
+        "https://telegra.ph/file/a48d2f06a001e3ec72567.jpg",
+        "https://telegra.ph/file/44f06a91cd55f71fdc76b.jpg",
+        "https://telegra.ph/file/905bdcfbb47de85a009b7.jpg",
+        "https://telegra.ph/file/6660e9526c41dfea37ad0.jpg",
+        "https://telegra.ph/file/abe24dac31abb53ab22f3.jpg",
+        "https://telegra.ph/file/22440978d88ad43f10e69.jpg",
+        "https://telegra.ph/file/f4851a248772a0318ed9d.jpg",
+        "https://telegra.ph/file/dd31c21cb36d685687359.jpg",
+        "https://telegra.ph/file/bec3ebcbbfdf2c1f4e5c7.jpg",
+        "https://telegra.ph/file/6c750eb5c8a6601250c43.jpg",
+        "https://telegra.ph/file/1218a5700839196cf5393.jpg",
+        "https://telegra.ph/file/87efc50cff541cf0f0abb.jpg",
+        "https://telegra.ph/file/017df40593bce77c5c121.jpg",
+        "https://telegra.ph/file/0ed59e4821fd7558b0dfd.jpg",
+        "https://telegra.ph/file/bfb75a0378e8313d9724a.jpg",
+        "https://telegra.ph/file/ce36d4a0f2a74a124eabe.jpg",
+        "https://telegra.ph/file/a99f9ba4aee224680675a.jpg",
+        "https://telegra.ph/file/14db329dbe345005eec27.jpg",
+        "https://telegra.ph/file/9c4094e385d10f63dc80c.jpg",
+        "https://telegra.ph/file/83dcbb33e8684d0a440e4.jpg",
+        "https://telegra.ph/file/faac100a60b87d29408bf.jpg",
+        "https://telegra.ph/file/da57550f8041b4a2e1937.jpg",
+        "https://telegra.ph/file/fcd164482e33341a091a6.jpg"
+    ]
+};

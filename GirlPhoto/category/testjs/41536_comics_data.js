@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41536,
+    "title": "阿包也是兔娘 Abaoyeshituniang - 黑枪呆兔女郎 Artoria Pendragon Alter (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-Abaoyeshituniang---黑枪呆兔女郎-Artoria-Pendragon-Alter-Fate-Grand-Order-05-28",
+    "images": [
+        "https://telegra.ph/file/48e595fbf57e750dd624c.jpg",
+        "https://telegra.ph/file/ede59becfe6f57e8cd22c.jpg",
+        "https://telegra.ph/file/c247347c7c35508c3c638.jpg",
+        "https://telegra.ph/file/aea1f07835e3254e568b8.jpg",
+        "https://telegra.ph/file/64070bbb6fd30e1b925e1.jpg",
+        "https://telegra.ph/file/bca5be354b505753da76a.jpg",
+        "https://telegra.ph/file/0a229fe6124009a0a0f7a.jpg",
+        "https://telegra.ph/file/8762ccbe0b62951e512b9.jpg",
+        "https://telegra.ph/file/d5603432b54625899e7a7.jpg",
+        "https://telegra.ph/file/b0f8457b87030a480face.jpg",
+        "https://telegra.ph/file/ed74f26b62a54452e80ef.jpg",
+        "https://telegra.ph/file/1f46bb8096f5882e79994.jpg",
+        "https://telegra.ph/file/db8d1646d651a4beea849.jpg",
+        "https://telegra.ph/file/33d37bea11e9e1fdd5189.jpg",
+        "https://telegra.ph/file/458a36dfbb6d6d8a8dc4a.jpg",
+        "https://telegra.ph/file/f4508a72ae4f927e1c599.jpg",
+        "https://telegra.ph/file/d58b55b669b8da9135425.jpg",
+        "https://telegra.ph/file/570a7d0d024a8ef3c3f76.jpg",
+        "https://telegra.ph/file/fd22bb9184a7472387b5e.jpg",
+        "https://telegra.ph/file/ba5aa401f695c97f3f051.jpg",
+        "https://telegra.ph/file/3e977bf50ce5fdfbca8da.jpg",
+        "https://telegra.ph/file/d49cffddf81e1642fbfcb.jpg",
+        "https://telegra.ph/file/ee18aa9930e855b8decf1.jpg",
+        "https://telegra.ph/file/009e2384b0fed2a7cdb72.jpg",
+        "https://telegra.ph/file/42e85b8d80cc26b1f885e.jpg"
+    ]
+};

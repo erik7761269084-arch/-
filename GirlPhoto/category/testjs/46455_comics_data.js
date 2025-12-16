@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46455,
+    "title": "Kitkat Cosplay9 - Atago - Page 1",
+    "sourceUrl": "https://telegra.ph/Kitkat-Cosplay9---Atago---Page-1-01-01",
+    "images": [
+        "https://telegra.ph/file/931113978b999900fe5b9.jpg",
+        "https://telegra.ph/file/e4807f88bb0a7de572e6a.jpg",
+        "https://telegra.ph/file/734c59008b5373154dfbc.jpg",
+        "https://telegra.ph/file/da14411927893c3b43d70.jpg",
+        "https://telegra.ph/file/6c18ecea789ead2986fa0.jpg",
+        "https://telegra.ph/file/b010a29a02bf827ea5371.jpg",
+        "https://telegra.ph/file/617573800e1fb65575dfb.jpg",
+        "https://telegra.ph/file/592cb2d9794e7cd3f4782.jpg",
+        "https://telegra.ph/file/17003eba6b2d754e8fbd4.jpg",
+        "https://telegra.ph/file/529acc19cb24b90398dc4.jpg",
+        "https://telegra.ph/file/b1203c96c8e1d6d3c3d38.jpg",
+        "https://telegra.ph/file/293c74fe920533d641622.jpg",
+        "https://telegra.ph/file/3f5276ef8269c0b252d3b.jpg",
+        "https://telegra.ph/file/ee60a577cc07362e8cad5.jpg",
+        "https://telegra.ph/file/97e7773e3729d41063b0a.jpg",
+        "https://telegra.ph/file/aced38344d3dd5842353c.jpg",
+        "https://telegra.ph/file/8eff5fbdb6c28d3267654.jpg",
+        "https://telegra.ph/file/fb116e221ffb1c822681d.jpg",
+        "https://telegra.ph/file/546ff9658e7693a4a1c46.jpg",
+        "https://telegra.ph/file/b7d27a43871e8b8d1bdd3.jpg",
+        "https://telegra.ph/file/e09a654153732ed5eb096.jpg",
+        "https://telegra.ph/file/b2e0062c661347068246f.jpg",
+        "https://telegra.ph/file/80ee76f55004c0358905d.jpg",
+        "https://telegra.ph/file/4a0e5bd2201b81f593e35.jpg",
+        "https://telegra.ph/file/4990695a05aa2036b32b5.jpg"
+    ]
+};

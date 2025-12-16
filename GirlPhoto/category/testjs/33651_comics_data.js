@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 33651,
+    "title": "Potato Godzilla Cosplay マシュ・キリエライト Mashu",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla-Cosplay-マシュキリエライト-Mashu-03-26",
+    "images": [
+        "https://telegra.ph/file/b4fe7f7ab83a9763f6ee1.jpg",
+        "https://telegra.ph/file/6cc4a538f3de79b5213d8.jpg",
+        "https://telegra.ph/file/61a5ce645c118b5a9b001.jpg",
+        "https://telegra.ph/file/5fec8aa4ceaa27f0de6e8.jpg",
+        "https://telegra.ph/file/75fb768047791dba45e6b.jpg",
+        "https://telegra.ph/file/c546e8bd821543481d111.jpg",
+        "https://telegra.ph/file/7d313f268a370b5d50903.jpg",
+        "https://telegra.ph/file/22d48780b2bde40d18d52.jpg",
+        "https://telegra.ph/file/2e6842bbc45bc3221868c.jpg",
+        "https://telegra.ph/file/64971cca08ad23e37d0b0.jpg",
+        "https://telegra.ph/file/8a6fdb761a06127bf207a.jpg",
+        "https://telegra.ph/file/5769e9e948729ae8c23b8.jpg",
+        "https://telegra.ph/file/a7d5c5de08c7a9883153d.jpg",
+        "https://telegra.ph/file/5f35c1e980d2997bc816f.jpg",
+        "https://telegra.ph/file/d66fc2c05135dc8efd344.jpg",
+        "https://telegra.ph/file/0c96bb9124f0cce5b1f8c.jpg",
+        "https://telegra.ph/file/f0b348a1451ef7f9a58a5.jpg",
+        "https://telegra.ph/file/0af1b03ff020aec22979e.jpg",
+        "https://telegra.ph/file/b8f1e29f3b48d294f973e.jpg",
+        "https://telegra.ph/file/4f77a7f7769ea5be9c115.jpg",
+        "https://telegra.ph/file/1477d1ef11a9304f2ffc4.jpg",
+        "https://telegra.ph/file/87d6cb73a74aa48eda5ca.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

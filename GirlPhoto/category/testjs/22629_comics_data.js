@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 22629,
+    "title": "Asagiriai（愛ちゃん）- NO.014 裸体围裙 [23P-71MB]",
+    "sourceUrl": "https://telegra.ph/Asagiriai%E6%84%9B%E3%81%A1%E3%82%83%E3%82%93--NO014-%E8%A3%B8%E4%BD%93%E5%9B%B4%E8%A3%99-23P-71MB-11-30",
+    "images": [
+        "https://telegra.ph/file/7c27e5bb85ac1cf22b1d2.jpg",
+        "https://telegra.ph/file/c4d110bbe2d2e11337073.jpg",
+        "https://telegra.ph/file/83b2cb72dd4adb37a921b.jpg",
+        "https://telegra.ph/file/f49c209bd7675dc81d7ae.jpg",
+        "https://telegra.ph/file/1e312e62ca3ecd22f00dc.jpg",
+        "https://telegra.ph/file/4a13bbcfb4a48d309a8ec.jpg",
+        "https://telegra.ph/file/5796103285aeb3922bdd5.jpg",
+        "https://telegra.ph/file/0434e5a94533dd6dd9602.jpg",
+        "https://telegra.ph/file/7d77050b0fb52637ea1f8.jpg",
+        "https://telegra.ph/file/772aa395e2765f892b389.jpg",
+        "https://telegra.ph/file/b2be21bf5dd556ec699cb.jpg",
+        "https://telegra.ph/file/94f362216f719d84e861f.jpg",
+        "https://telegra.ph/file/8f57b0372521ca93f4dd2.jpg",
+        "https://telegra.ph/file/7099503cc889bcd0a3609.jpg",
+        "https://telegra.ph/file/a997d59582727b4a16d1a.jpg",
+        "https://telegra.ph/file/f0c1fdcbd29680fe99d7d.jpg",
+        "https://telegra.ph/file/53590d43e015cc8021661.jpg",
+        "https://telegra.ph/file/90fba457a213dd6838679.jpg",
+        "https://telegra.ph/file/a29d25f58c395de65ff97.jpg",
+        "https://telegra.ph/file/73594eff6f8abf4ca73c1.jpg",
+        "https://telegra.ph/file/8f86b95ebc342bdb0894c.jpg",
+        "https://telegra.ph/file/16758f83c1d27ebd2262f.jpg",
+        "https://telegra.ph/file/f1ed4341ce9366d2693ba.jpg"
+    ]
+};

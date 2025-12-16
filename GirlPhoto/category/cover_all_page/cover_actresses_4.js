@@ -1,10 +1,5 @@
 window.PAGE_DATA = [
   {
-    "title": "ElyEE子",
-    "cover_url": "https://telegra.ph/file/67a3ff15ae2505a4db478.jpg",
-    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ElyEE子.html"
-  },
-  {
     "title": "eloise软软",
     "cover_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
@@ -495,8 +490,13 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_神沢永莉.html"
   },
   {
-    "title": "木棉棉OwO",
-    "cover_url": "https://upload.xchina.io/default/model.jpg",
-    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_木棉棉OwO.html"
+    "title": "三刀刀Miido",
+    "cover_url": "https://telegra.ph/file/a4f04b133472e9399eb2a.jpg",
+    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三刀刀Miido.html"
+  },
+  {
+    "title": "是一只熊仔",
+    "cover_url": "https://image.acg.lol/file/2025/05/01/1-41.jpg",
+    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是一只熊仔.html"
   }
 ];

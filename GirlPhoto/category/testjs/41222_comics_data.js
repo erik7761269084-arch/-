@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41222,
+    "title": "Queenie - Mihara (Nikke)",
+    "sourceUrl": "https://telegra.ph/Queenie---Mihara-Nikke-03-05",
+    "images": [
+        "https://telegra.ph/file/1e8a4fe051cc72fc29604.jpg",
+        "https://telegra.ph/file/f6dc872524813e3e59b55.jpg",
+        "https://telegra.ph/file/4d57fe5058f2e62b92a31.jpg",
+        "https://telegra.ph/file/587d7108fc5bdce06a5ac.jpg",
+        "https://telegra.ph/file/1a9a964aab9b5d0f9e559.jpg",
+        "https://telegra.ph/file/e7388a4915a0fe21aa40a.jpg",
+        "https://telegra.ph/file/24d8b84eaf2a0465a88ec.jpg",
+        "https://telegra.ph/file/ce877922b51f382aeb594.jpg",
+        "https://telegra.ph/file/4803f9c74b2b363724282.jpg",
+        "https://telegra.ph/file/a63ee9232effc53c8cf5b.jpg",
+        "https://telegra.ph/file/a7400bb2ba9cabf836bfa.jpg",
+        "https://telegra.ph/file/f28cb949e1ce459382080.jpg",
+        "https://telegra.ph/file/e9be148d11e377c612ab3.jpg",
+        "https://telegra.ph/file/dfc7b87793c793f83bf24.jpg",
+        "https://telegra.ph/file/256fe97aeaa5fbd553a8c.jpg",
+        "https://telegra.ph/file/b0f4d1ed69ee5327ee203.jpg",
+        "https://telegra.ph/file/d03214215654eb5bdb2fb.jpg",
+        "https://telegra.ph/file/50c178f4aaf482ca61e60.jpg",
+        "https://telegra.ph/file/a19dd5df4a4ee8827b6bd.jpg",
+        "https://telegra.ph/file/1a818f2dad4457146c536.jpg",
+        "https://telegra.ph/file/7b73d55b673231b55dd53.jpg",
+        "https://telegra.ph/file/52192e5ea766484874924.jpg",
+        "https://telegra.ph/file/de288d8270dfbc238e494.jpg",
+        "https://telegra.ph/file/48d30130cb8bc977798b7.jpg",
+        "https://telegra.ph/file/cb8cb45fe57d6d350fd8b.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44520,
+    "title": "Pingping - Kama",
+    "sourceUrl": "https://telegra.ph/Pingping---Kama-12-08",
+    "images": [
+        "https://telegra.ph/file/32f7b94e387d528fa6c3a.jpg",
+        "https://telegra.ph/file/ec7ff1b548691e1c3b17e.jpg",
+        "https://telegra.ph/file/03cc9450b3eacb314982e.jpg",
+        "https://telegra.ph/file/5c9eb31aa98135aa88304.jpg",
+        "https://telegra.ph/file/96f55c4738d50d1798d70.jpg",
+        "https://telegra.ph/file/021a80d96b1891be78495.jpg",
+        "https://telegra.ph/file/ebaf6eb8503ffd7c94842.jpg",
+        "https://telegra.ph/file/1032a36368af13a2a7db5.jpg",
+        "https://telegra.ph/file/70034b103bfd973df55c1.jpg",
+        "https://telegra.ph/file/1a12a429763a1e20fe7b5.jpg",
+        "https://telegra.ph/file/3f888930cd93c5f4d0467.jpg",
+        "https://telegra.ph/file/7961dd42591a3564d3b66.jpg",
+        "https://telegra.ph/file/9d0f072e35a1c53fa56c6.jpg",
+        "https://telegra.ph/file/3d4403013640c81c50f79.jpg",
+        "https://telegra.ph/file/e3447391830986e9af4df.jpg",
+        "https://telegra.ph/file/042c96ca32a9a1ed92079.jpg",
+        "https://telegra.ph/file/4c6b70a189a174fd2a488.jpg",
+        "https://telegra.ph/file/b115cbbaae9932285f102.jpg",
+        "https://telegra.ph/file/928b76167a6b3009ccef2.jpg",
+        "https://telegra.ph/file/8c42ef4386d3f797c9e7a.jpg",
+        "https://telegra.ph/file/0077437eaa4cee6846b07.jpg",
+        "https://telegra.ph/file/52463f1a35b60a46fee98.jpg",
+        "https://telegra.ph/file/ce103460bec5330628aeb.jpg",
+        "https://telegra.ph/file/8d7295d299c9a7d7cb2cd.jpg"
+    ]
+};

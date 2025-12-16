@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42369,
+    "title": "仙仙桃 - 喜多川 [23P1V]",
+    "sourceUrl": "https://telegra.ph/%E4%BB%99%E4%BB%99%E6%A1%83---%E5%96%9C%E5%A4%9A%E5%B7%9D-23P1V-05-15",
+    "images": [
+        "https://telegra.ph/file/86124e56eaae4aa33c565.jpg",
+        "https://telegra.ph/file/cba8d9b571d2cb56e6230.jpg",
+        "https://telegra.ph/file/e67a4c70affb58ed860cb.jpg",
+        "https://telegra.ph/file/01e2f20f9435feddb05c4.jpg",
+        "https://telegra.ph/file/af1e2a7769c1d3c7a20f9.jpg",
+        "https://telegra.ph/file/791a82b439f7147358575.jpg",
+        "https://telegra.ph/file/55f62451daaa8e646776f.jpg",
+        "https://telegra.ph/file/54ed9cfc5b7f89b1cdee0.jpg",
+        "https://telegra.ph/file/047d81ca5831656d52f20.jpg",
+        "https://telegra.ph/file/fe8b0496270913a69964c.jpg",
+        "https://telegra.ph/file/0fc87cf17c64b6bf49ec5.jpg",
+        "https://telegra.ph/file/af7600eb97dd548ac9e05.jpg",
+        "https://telegra.ph/file/504a3743a620e45a40e6e.jpg",
+        "https://telegra.ph/file/cc1d23fc9d219258934ff.jpg",
+        "https://telegra.ph/file/e065552f5c5e75e7f1371.jpg",
+        "https://telegra.ph/file/602fa530e4379e08643bc.jpg",
+        "https://telegra.ph/file/945e9d524d06cdd7346f1.jpg",
+        "https://telegra.ph/file/a65736d22daa4eaa056c5.jpg",
+        "https://telegra.ph/file/663be0f75bbaeaac7ef03.jpg",
+        "https://telegra.ph/file/4af3b39713d2cdab6b2b4.jpg",
+        "https://telegra.ph/file/062772f570a6ac189224d.jpg",
+        "https://telegra.ph/file/5872b3de9bdbf159543c8.jpg",
+        "https://telegra.ph/file/ed6df4c05582963f8a6fc.jpg"
+    ]
+};

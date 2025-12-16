@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48403,
+    "title": "封疆疆v - 申鹤水着ver - Page 1",
+    "sourceUrl": "https://telegra.ph/封疆疆v---申鹤水着ver---Page-1-07-23",
+    "images": [
+        "https://telegra.ph/file/f6503b603f56b7631ad19.jpg",
+        "https://telegra.ph/file/a759583a4ae3223d1db1c.jpg",
+        "https://telegra.ph/file/f8b16d01264359e017e2f.jpg",
+        "https://telegra.ph/file/ceb9d8463b71cfd1e0abe.jpg",
+        "https://telegra.ph/file/bba11d56ff9ce54a89634.jpg",
+        "https://telegra.ph/file/918791ea315c517fd1aa6.jpg",
+        "https://telegra.ph/file/284315f20e80f63316bc5.jpg",
+        "https://telegra.ph/file/a2b03795a326803a63dca.jpg",
+        "https://telegra.ph/file/d77e0478b934217ed2d38.jpg",
+        "https://telegra.ph/file/9a6f010f2a7905a35f1db.jpg",
+        "https://telegra.ph/file/553c8b4f34aea5d4cd832.jpg",
+        "https://telegra.ph/file/7251949f68b204beaadaa.jpg",
+        "https://telegra.ph/file/b70d5d93f8f6a36962d27.jpg",
+        "https://telegra.ph/file/b8838a6f299218ee7bc66.jpg",
+        "https://telegra.ph/file/a47b6d1b6726ae9d764bf.jpg",
+        "https://telegra.ph/file/df9a226c0a8dd8238630f.jpg",
+        "https://telegra.ph/file/6bd8967b8bcda248bf1c0.jpg",
+        "https://telegra.ph/file/4fbb1b62fc3b6e1e03b54.jpg",
+        "https://telegra.ph/file/254e40be6d5e07d2bfa64.jpg",
+        "https://telegra.ph/file/d2930b108d9b62d0c393a.jpg",
+        "https://telegra.ph/file/890fa0ee04552610541f8.jpg",
+        "https://telegra.ph/file/751ece1e7ced42ddca820.jpg",
+        "https://telegra.ph/file/1bb26c252d307aae2ebf9.jpg",
+        "https://telegra.ph/file/508573a93cddf5acb37a4.jpg",
+        "https://telegra.ph/file/4717d35de5398c72915d5.jpg",
+        "https://telegra.ph/file/6f1ee1961b6d6c08b25c6.jpg"
+    ]
+};

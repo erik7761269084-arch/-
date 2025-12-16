@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39976,
+    "title": "桜井宁宁 Sakurai - Gawr Gura (Hololive)",
+    "sourceUrl": "https://telegra.ph/桜井宁宁-Sakurai---Gawr-Gura-Hololive-12-09",
+    "images": [
+        "https://telegra.ph/file/f5a986927c641fadf2b39.jpg",
+        "https://telegra.ph/file/0f92f2214763651a465ce.jpg",
+        "https://telegra.ph/file/110d7f7bca6ad03266708.jpg",
+        "https://telegra.ph/file/c9da9624c5368e1bbef3b.jpg",
+        "https://telegra.ph/file/bae1431f652bed0df9fcf.jpg",
+        "https://telegra.ph/file/1ce1eecf07bd45f0adf3e.jpg",
+        "https://telegra.ph/file/2708c46eca49e792b4a3c.jpg",
+        "https://telegra.ph/file/7c1230ae09ca4c905bbcd.jpg",
+        "https://telegra.ph/file/7d4af844db2cc64fcec41.jpg",
+        "https://telegra.ph/file/fe3e3721cd458d1430be7.jpg",
+        "https://telegra.ph/file/e943a4fb4c217920fc351.jpg",
+        "https://telegra.ph/file/c15f51249f2ff64151382.jpg",
+        "https://telegra.ph/file/2795dcd5056019d060c14.jpg",
+        "https://telegra.ph/file/b783ecabae9c7e95fa661.jpg",
+        "https://telegra.ph/file/c3c8743815f0618d55949.jpg",
+        "https://telegra.ph/file/0d4b1a1629a927a2e99ca.jpg",
+        "https://telegra.ph/file/27cba536f9db3d8c55d18.jpg",
+        "https://telegra.ph/file/6319c8328202aa971156c.jpg",
+        "https://telegra.ph/file/d0de6069c5bc187c20710.jpg",
+        "https://telegra.ph/file/807db3089578d75185d50.jpg",
+        "https://telegra.ph/file/1fe96336351bd86b059d2.jpg",
+        "https://telegra.ph/file/3219755e751496c022977.jpg",
+        "https://telegra.ph/file/3c8e77af0813324779e25.jpg"
+    ]
+};

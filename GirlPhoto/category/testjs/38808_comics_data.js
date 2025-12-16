@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38808,
+    "title": "Shirogane - Eula (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Shirogane---Eula-Genshin-Impact-02-04",
+    "images": [
+        "https://telegra.ph/file/1611aab199e25f20de26c.jpg",
+        "https://telegra.ph/file/0a00253de8b21f583f76d.jpg",
+        "https://telegra.ph/file/05e672d642adfd8a21cc3.jpg",
+        "https://telegra.ph/file/3c4e5d32e714f73c2b95f.jpg",
+        "https://telegra.ph/file/797ff787f2464d48b98ae.jpg",
+        "https://telegra.ph/file/2474ac5d5ee5dc019005c.jpg",
+        "https://telegra.ph/file/ee756556b569f011462d3.jpg",
+        "https://telegra.ph/file/96bd52b83c1443670daae.jpg",
+        "https://telegra.ph/file/ef937312143c32785a909.jpg",
+        "https://telegra.ph/file/c2bf98634e48c38accdb7.jpg",
+        "https://telegra.ph/file/885cdb8e0028801da1a5e.jpg",
+        "https://telegra.ph/file/6df9fb0f8a2bc3af02266.jpg",
+        "https://telegra.ph/file/f4057f8b3465c676d4f9f.jpg",
+        "https://telegra.ph/file/172ef35170861bec55d51.jpg",
+        "https://telegra.ph/file/45189a5c1b16eeba6f357.jpg",
+        "https://telegra.ph/file/531b04354baad08cb6341.jpg",
+        "https://telegra.ph/file/c5d4c8e1bc1f9106a4f92.jpg",
+        "https://telegra.ph/file/f21bc4e69734d637d42bb.jpg",
+        "https://telegra.ph/file/6221ee52dd290859175e4.jpg",
+        "https://telegra.ph/file/2b2887130d25ab643cad2.jpg",
+        "https://telegra.ph/file/1dc60aed68ecf77e57b97.jpg",
+        "https://telegra.ph/file/0b7e92b9a7ac69beb5834.jpg",
+        "https://telegra.ph/file/3ee8edf64424b1ffede95.jpg",
+        "https://telegra.ph/file/6180193049b6be17826a0.jpg",
+        "https://telegra.ph/file/d0a36dc72826b5e8bfcd7.jpg",
+        "https://telegra.ph/file/e87493838ce050768fb6e.jpg"
+    ]
+};

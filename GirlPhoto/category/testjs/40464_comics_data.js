@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40464,
+    "title": "Queenie - Nitocris (Fate Grand Order)",
+    "sourceUrl": "https://telegra.ph/Queenie---Nitocris-Fate-Grand-Order-06-30",
+    "images": [
+        "https://telegra.ph/file/214082fc41df2549b5a37.jpg",
+        "https://telegra.ph/file/0425a4e338d862f72e56e.jpg",
+        "https://telegra.ph/file/27f1b2dfe05ac55c2dca3.jpg",
+        "https://telegra.ph/file/23443d106c8c5f6234e12.jpg",
+        "https://telegra.ph/file/71467627767f21e83b460.jpg",
+        "https://telegra.ph/file/78e879a004d75529d55db.jpg",
+        "https://telegra.ph/file/e4e29c3c810ef9465d68e.jpg",
+        "https://telegra.ph/file/faf7fff15c4d6540b7763.jpg",
+        "https://telegra.ph/file/5a380d00900ecbced7158.jpg",
+        "https://telegra.ph/file/e34daaa8b6061cb4607e9.jpg",
+        "https://telegra.ph/file/f0d534f426d09a86ea50c.jpg",
+        "https://telegra.ph/file/6a1dd9f48bb6433b1187f.jpg",
+        "https://telegra.ph/file/6fc5cffaa2b24616c0b40.jpg",
+        "https://telegra.ph/file/79d4f1797f6423ebd559c.jpg",
+        "https://telegra.ph/file/1b8b324fa3d304be164ce.jpg",
+        "https://telegra.ph/file/488b8ad136e971be26ebd.jpg",
+        "https://telegra.ph/file/cfd3dbcdf082ae3a84677.jpg",
+        "https://telegra.ph/file/e639cf7cbf40725fa8392.jpg",
+        "https://telegra.ph/file/d82997b88ab7adfd86fe7.jpg",
+        "https://telegra.ph/file/b9b4ad580957dc5f60932.jpg",
+        "https://telegra.ph/file/3c2a050c27600f31b5281.jpg",
+        "https://telegra.ph/file/9982e805a3e7a7df28b01.jpg",
+        "https://telegra.ph/file/74de6e1103d1bfe1117e0.jpg",
+        "https://telegra.ph/file/2d42b7e6a3f6ce30252b2.jpg"
+    ]
+};

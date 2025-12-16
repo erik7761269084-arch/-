@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41975,
+    "title": "Saya the Fox - Queen Marika (Elden Ring)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-09-17-3",
+    "images": [
+        "https://i.ibb.co/mj4JvYV/01-compress73.jpg",
+        "https://i.ibb.co/j98VLNBj/02-compress11.jpg",
+        "https://i.ibb.co/0Rbb3bj1/03-compress87.jpg",
+        "https://i.ibb.co/Zp1Mx3DC/04-compress69.jpg",
+        "https://i.ibb.co/WWpNqJjw/05-compress13.jpg",
+        "https://i.ibb.co/BK2tnq3v/06-compress38.jpg",
+        "https://i.ibb.co/Jwzm9Zr3/07-compress42.jpg",
+        "https://i.ibb.co/nsqHnNt1/08-compress37.jpg",
+        "https://i.ibb.co/Vph3pWkB/09-compress76.jpg",
+        "https://i.ibb.co/Ldw6y6f1/10-compress17.jpg",
+        "https://i.ibb.co/tPqX07cL/11-compress10.jpg",
+        "https://i.ibb.co/0RYQhJgh/12-compress83.jpg",
+        "https://i.ibb.co/F49CZzMG/13-compress6.jpg",
+        "https://i.ibb.co/5xWWdMFc/14-compress15.jpg",
+        "https://i.ibb.co/rG7LZNVZ/15-compress89.jpg",
+        "https://i.ibb.co/YFp5vsh1/16-compress13.jpg",
+        "https://i.ibb.co/zHTWmn8Z/17-compress74.jpg",
+        "https://i.ibb.co/svyx5Ndj/18-compress84.jpg",
+        "https://i.ibb.co/nMWN5KKn/19-compress27.jpg",
+        "https://i.ibb.co/x8Fcq5Z9/20-compress76.jpg",
+        "https://i.ibb.co/nNm7MGZT/21-compress23.jpg",
+        "https://i.ibb.co/3Z8bMwQ/22-compress23.jpg",
+        "https://i.ibb.co/C3D7C9cb/23-compress69.jpg",
+        "https://i.ibb.co/Gf5JvjR5/24-compress29.jpg"
+    ]
+};

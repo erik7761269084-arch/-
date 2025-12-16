@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31160,
+    "title": "[Mon夢] Mash Kyrielight マシュ・キリエライト",
+    "sourceUrl": "https://telegra.ph/Mon夢-Mash-Kyrielight-マシュキリエライト-08-16",
+    "images": [
+        "https://telegra.ph/file/6350d5b76b452685aff56.jpg",
+        "https://telegra.ph/file/f0420f69a334fa7b600d6.jpg",
+        "https://telegra.ph/file/a7874b6e656a4b457236d.jpg",
+        "https://telegra.ph/file/82d437d33c2f104625470.jpg",
+        "https://telegra.ph/file/741ac5a0b8be6c5cba5e7.jpg",
+        "https://telegra.ph/file/bbd3bd9749f1e6b2126f4.jpg",
+        "https://telegra.ph/file/39690c1721bedbbb7e3c4.jpg",
+        "https://telegra.ph/file/85c17b6b495b4dce3acff.jpg",
+        "https://telegra.ph/file/56d6cc915b58995ce6ffc.jpg",
+        "https://telegra.ph/file/dcd2fb538d3a134e1a5ee.jpg",
+        "https://telegra.ph/file/68b1e63a4a1ee06eceb83.jpg",
+        "https://telegra.ph/file/3d52893578de8b2e76c6e.jpg",
+        "https://telegra.ph/file/4dd32e227aac6f822c3d2.jpg",
+        "https://telegra.ph/file/9b72be5e944329ec28934.jpg",
+        "https://telegra.ph/file/41e56c211df077db3e942.jpg",
+        "https://telegra.ph/file/8df1d042056013d60498d.jpg",
+        "https://telegra.ph/file/9e243e792685063065f59.jpg",
+        "https://telegra.ph/file/4c0a4452ba8e0119dded9.jpg",
+        "https://telegra.ph/file/d74b7be3a68682d80bf7b.jpg",
+        "https://telegra.ph/file/ae9166a0b0e25d4b1f30e.jpg",
+        "https://telegra.ph/file/079b2ec46d8b77711f1a8.jpg",
+        "https://telegra.ph/file/cba25ef8e92d4fbb8883d.jpg",
+        "https://telegra.ph/file/4098ce0f3291362571abb.jpg",
+        "https://telegra.ph/file/38a74dab0eb81f835787a.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41176,
+    "title": "BakaChi - Shadowheart (Baldurs Gate 3)",
+    "sourceUrl": "https://telegra.ph/BakaChi---Shadowheart-Baldurs-Gate-3-02-21",
+    "images": [
+        "https://telegra.ph/file/2a5a5cc33c4f3b9d634ad.jpg",
+        "https://telegra.ph/file/1f093c0815a7391cadc21.jpg",
+        "https://telegra.ph/file/78e9c2f33f8c6f8982cdb.jpg",
+        "https://telegra.ph/file/8fcae6c644eb6214aeb86.jpg",
+        "https://telegra.ph/file/524c645e5e5c3ada3e745.jpg",
+        "https://telegra.ph/file/691a569813df8286afb24.jpg",
+        "https://telegra.ph/file/6999479dbfff41c956cab.jpg",
+        "https://telegra.ph/file/18efc1db2c6d8b01d6786.jpg",
+        "https://telegra.ph/file/76928fb438a612fac412b.jpg",
+        "https://telegra.ph/file/7791dc4d4c2f2b1f1a7ce.jpg",
+        "https://telegra.ph/file/5a18f8e332811591c47f7.jpg",
+        "https://telegra.ph/file/61dc08a16c7474d748b93.jpg",
+        "https://telegra.ph/file/c3fb1c0827212e9c55306.jpg",
+        "https://telegra.ph/file/44874117fbc6d7021fd56.jpg",
+        "https://telegra.ph/file/8ea1a29ba8b6ee7882cb5.jpg",
+        "https://telegra.ph/file/39d2b78401c4ed5f56684.jpg",
+        "https://telegra.ph/file/531434f55d6040445299c.jpg",
+        "https://telegra.ph/file/d95f575fb7d2060032606.jpg",
+        "https://telegra.ph/file/7bb6fe17b2d49ee65ac66.jpg",
+        "https://telegra.ph/file/d2212f22f89345d233133.jpg",
+        "https://telegra.ph/file/61aff844b5bd7f28a3e98.jpg",
+        "https://telegra.ph/file/5820bbd8ed6e203d34ae0.jpg",
+        "https://telegra.ph/file/86283aa4a84c1ab6c269b.jpg",
+        "https://telegra.ph/file/997c765fea7ca427449a0.jpg"
+    ]
+};

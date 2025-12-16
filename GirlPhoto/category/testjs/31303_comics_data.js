@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31303,
+    "title": "阿包也是兔娘 Cosplay 月舰长 能代女仆",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-Cosplay-月舰长-能代女仆-08-16",
+    "images": [
+        "https://telegra.ph/file/47e14009d322eb13b5327.jpg",
+        "https://telegra.ph/file/fe3e5843f7e93bee32050.jpg",
+        "https://telegra.ph/file/b899bfdfc5123aa655906.jpg",
+        "https://telegra.ph/file/2f9ab3f3096020c447527.jpg",
+        "https://telegra.ph/file/bc7e58663c7eb507b8361.jpg",
+        "https://telegra.ph/file/728e066e876b404ede066.jpg",
+        "https://telegra.ph/file/a163b4732b826699349a7.jpg",
+        "https://telegra.ph/file/c8c4db7860ee1b8680562.jpg",
+        "https://telegra.ph/file/a534ac648390af8c17659.jpg",
+        "https://telegra.ph/file/361ea4673b19b54ab4f9a.jpg",
+        "https://telegra.ph/file/e6af94df78c980f790344.jpg",
+        "https://telegra.ph/file/e7d54035d1bf99659bf06.jpg",
+        "https://telegra.ph/file/8a36e8debaf790103878e.jpg",
+        "https://telegra.ph/file/2505922f3cdc30c53691c.jpg",
+        "https://telegra.ph/file/d436f0b744ba6290530a5.jpg",
+        "https://telegra.ph/file/599753fbc9d8a987b4851.jpg",
+        "https://telegra.ph/file/2bc6dbfb921fc4565e333.jpg",
+        "https://telegra.ph/file/e5e2ae485ea53b07fab90.jpg",
+        "https://telegra.ph/file/6734de9cf19b1e96e1dc6.jpg",
+        "https://telegra.ph/file/9452aed7e5aa2aadeda0b.jpg",
+        "https://telegra.ph/file/cae1924fd0a38b0507ee9.jpg",
+        "https://telegra.ph/file/0847070d02836209d645a.jpg",
+        "https://telegra.ph/file/9ae6391c6ac9c9d5ba431.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

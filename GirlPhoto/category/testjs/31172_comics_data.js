@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31172,
+    "title": "[水淼Aqua] 2B Dark Version NieR_Automata ニーア オートマタ",
+    "sourceUrl": "https://telegra.ph/水淼Aqua-2B-Dark-Version-NieR-Automata-ニーア-オートマタ-08-16",
+    "images": [
+        "https://telegra.ph/file/6b05d7448e0e7f699e167.jpg",
+        "https://telegra.ph/file/7821a1c176bbfe8afdf34.jpg",
+        "https://telegra.ph/file/6be825d89ec36d12ba6fb.jpg",
+        "https://telegra.ph/file/0e7ae7bc5cff5a49495af.jpg",
+        "https://telegra.ph/file/30bcb385ef85d541cf09a.jpg",
+        "https://telegra.ph/file/c4a1465a3c6ce36331a90.jpg",
+        "https://telegra.ph/file/d3099a52a30d1804ccd0f.jpg",
+        "https://telegra.ph/file/ff904664ba3347c676adf.jpg",
+        "https://telegra.ph/file/4333e3d8d15a61d34dd58.jpg",
+        "https://telegra.ph/file/9bb9a435d1754125e333d.jpg",
+        "https://telegra.ph/file/006dc162d1b499b170a13.jpg",
+        "https://telegra.ph/file/88f528f30ae3540884147.jpg",
+        "https://telegra.ph/file/38548eb9045fa61822484.jpg",
+        "https://telegra.ph/file/c9f70bc4acdef37721668.jpg",
+        "https://telegra.ph/file/10a176007da42fcc92c6d.jpg",
+        "https://telegra.ph/file/7e58b53b370989bcba760.jpg",
+        "https://telegra.ph/file/cecb485ab5c704d25a186.jpg",
+        "https://telegra.ph/file/39513151c30d41fb5787d.jpg",
+        "https://telegra.ph/file/f96145cc417aeba17ef76.jpg",
+        "https://telegra.ph/file/f8f094f2060f25fb80671.jpg",
+        "https://telegra.ph/file/77e2ca94804ca5e5ba2bb.jpg",
+        "https://telegra.ph/file/fb19d38235f5179760276.jpg",
+        "https://telegra.ph/file/b8369d42af6936f31ff05.jpg",
+        "https://telegra.ph/file/8d6df0abdbec4c440194e.jpg",
+        "https://telegra.ph/file/57cc64ab0d80ee1e859f5.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

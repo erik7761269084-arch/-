@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 37911,
+    "title": "Alina Becker - 2B (Nieraitomata)",
+    "sourceUrl": "https://telegra.ph/Alina-Becker---2B-Nieraitomata-06-22",
+    "images": [
+        "https://telegra.ph/file/e4847d6fb9a7cf4209608.jpg",
+        "https://telegra.ph/file/25c259138ecd980d16dcb.jpg",
+        "https://telegra.ph/file/4658cacfdd96c2a82da34.jpg",
+        "https://telegra.ph/file/ee779f9b371f4d27fbc44.jpg",
+        "https://telegra.ph/file/1335e0b5ccd0628c37043.jpg",
+        "https://telegra.ph/file/6a8884865923c185ac6ff.jpg",
+        "https://telegra.ph/file/7b02f18d8fd3a4ff43459.jpg",
+        "https://telegra.ph/file/c0d75687059fd1b670f0c.jpg",
+        "https://telegra.ph/file/874f2cc471da991581b96.jpg",
+        "https://telegra.ph/file/d8859da2683261f9112e8.jpg",
+        "https://telegra.ph/file/3dde906dc854c001d0934.jpg",
+        "https://telegra.ph/file/886af65a1f06d720cb18d.jpg",
+        "https://telegra.ph/file/009ed0ea36559793d4ed5.jpg",
+        "https://telegra.ph/file/e91086c08536df2080000.jpg",
+        "https://telegra.ph/file/1a95d7329426af4d86544.jpg",
+        "https://telegra.ph/file/ba4e88f8280283efb22ba.jpg",
+        "https://telegra.ph/file/54b796a79cadf7012f6a1.jpg",
+        "https://telegra.ph/file/477d65b20fc7b69b40ae6.jpg",
+        "https://telegra.ph/file/53a0c10eba1b57422b5cd.jpg",
+        "https://telegra.ph/file/16f9e3d6119365aef55f0.jpg",
+        "https://telegra.ph/file/b1d2d5cf0d79210c4f22d.jpg",
+        "https://telegra.ph/file/2109815f4251394bae5db.jpg",
+        "https://telegra.ph/file/c7b4da29cb3c205926667.jpg"
+    ]
+};

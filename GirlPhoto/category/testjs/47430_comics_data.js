@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47430,
+    "title": "[rioko凉凉子]格奈森瑙 - Page 1",
+    "sourceUrl": "https://telegra.ph/rioko凉凉子格奈森瑙---Page-1-03-31",
+    "images": [
+        "https://telegra.ph/file/39fd5aafb952fc3a8153c.jpg",
+        "https://telegra.ph/file/d449e35f6511f9c72c73d.jpg",
+        "https://telegra.ph/file/a00545dc23becd4ece771.jpg",
+        "https://telegra.ph/file/860b480a86cb1de7eca7c.jpg",
+        "https://telegra.ph/file/e4a2f45bc77b1fe0db518.jpg",
+        "https://telegra.ph/file/1f02af983e9c9bf0e1a0a.jpg",
+        "https://telegra.ph/file/01e5ba793f623b8673429.jpg",
+        "https://telegra.ph/file/a3f2279f1ea3c728f205d.jpg",
+        "https://telegra.ph/file/9dbd579babcf720c0407b.jpg",
+        "https://telegra.ph/file/16372740903b21c83580d.jpg",
+        "https://telegra.ph/file/30cbdbad8ec58f497f1ec.jpg",
+        "https://telegra.ph/file/11d60418f77d5d6109c13.jpg",
+        "https://telegra.ph/file/eb95d831b1a4237fbd429.jpg",
+        "https://telegra.ph/file/e9ffc318033dc2cc924a1.jpg",
+        "https://telegra.ph/file/1220a6bb21f7a52976c33.jpg",
+        "https://telegra.ph/file/8ebd8f98d0c6ef0dc5fe9.jpg",
+        "https://telegra.ph/file/fa015983b00298e22d187.jpg",
+        "https://telegra.ph/file/80fcd7c1dc12c229c2bf4.jpg",
+        "https://telegra.ph/file/17e0e6a0f44920941ad20.jpg",
+        "https://telegra.ph/file/e52755e553c82bf5c744e.jpg",
+        "https://telegra.ph/file/bc90d7e6a5dd58bfa1c06.jpg",
+        "https://telegra.ph/file/3f106436deb39c0324b4e.jpg",
+        "https://telegra.ph/file/13e5cb15e74f861969529.jpg",
+        "https://telegra.ph/file/078ad2cfac9a765404b9e.jpg",
+        "https://telegra.ph/file/90ff9058b18b7750895ba.jpg"
+    ]
+};

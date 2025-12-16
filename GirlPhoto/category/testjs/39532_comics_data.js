@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39532,
+    "title": "Fantasy Factory - Bremerton (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Bremerton-Azur-Lane-08-18",
+    "images": [
+        "https://telegra.ph/file/6ced42aaac78f2f8b9666.jpg",
+        "https://telegra.ph/file/dafc8e66be2d4aacffc79.jpg",
+        "https://telegra.ph/file/5bb10d40f072bf9e678a3.jpg",
+        "https://telegra.ph/file/b60c6e20bcfd016931fbb.jpg",
+        "https://telegra.ph/file/c6dc20a3f60461167cbd5.jpg",
+        "https://telegra.ph/file/845ae1a7a43a279c9ea7c.jpg",
+        "https://telegra.ph/file/f7de1dc24f5fdad93760c.jpg",
+        "https://telegra.ph/file/74dcdcaf363d5927cb13e.jpg",
+        "https://telegra.ph/file/15e3e84422f7167bde3cc.jpg",
+        "https://telegra.ph/file/8fafcd0dcff5de8bed347.jpg",
+        "https://telegra.ph/file/681f520e0ed84e64fa274.jpg",
+        "https://telegra.ph/file/e09e2bcc6534fc3b41465.jpg",
+        "https://telegra.ph/file/d3a1a65c0356412b9deac.jpg",
+        "https://telegra.ph/file/ad43aa4d3b85d9d592f1a.jpg",
+        "https://telegra.ph/file/e4d616bfec1b7ba8f99f6.jpg",
+        "https://telegra.ph/file/2cc8aca3f02eb529656ce.jpg",
+        "https://telegra.ph/file/71ac102667efe851f35ce.jpg",
+        "https://telegra.ph/file/3def6cf0f1c068b3451c9.jpg",
+        "https://telegra.ph/file/13bb07faa992cfe4a4031.jpg",
+        "https://telegra.ph/file/0aaed1a5489e7ace11bc1.jpg",
+        "https://telegra.ph/file/efffd362941a6d77f70a8.jpg",
+        "https://telegra.ph/file/9c71ebe1407b69b1a273f.jpg",
+        "https://telegra.ph/file/34f0f5cdd1665e3afd265.jpg",
+        "https://telegra.ph/file/a736c7ecba9a114bde6df.jpg"
+    ]
+};

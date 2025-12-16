@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 25573,
+    "title": "20220213 ピンクの着物👘 [22P1V-135MB]",
+    "sourceUrl": "https://telegra.ph/20220213-%E3%83%94%E3%83%B3%E3%82%AF%E3%81%AE%E7%9D%80%E7%89%A9-22P1V-135MB-03-03",
+    "images": [
+        "https://telegra.ph/file/287dae638204282750850.jpg",
+        "https://telegra.ph/file/c1966cb18885b0746b346.jpg",
+        "https://telegra.ph/file/4b469bb8892e44cbc0de6.jpg",
+        "https://telegra.ph/file/07ab800e93407908287fd.jpg",
+        "https://telegra.ph/file/720a213bf2c2732c8d8c6.jpg",
+        "https://telegra.ph/file/697f895df28eac73e4ea4.jpg",
+        "https://telegra.ph/file/1e1d5012c57aec260c7ea.jpg",
+        "https://telegra.ph/file/62459ab66440829adf5ed.jpg",
+        "https://telegra.ph/file/26f9ca207c5563cb55d1e.jpg",
+        "https://telegra.ph/file/7aafa53923a174c352fc6.jpg",
+        "https://telegra.ph/file/6f72e0e4053541e27c21c.jpg",
+        "https://telegra.ph/file/1b9a7c51b0212d5416293.jpg",
+        "https://telegra.ph/file/11b230b4220d080bfa1a4.jpg",
+        "https://telegra.ph/file/5684ddb4132ed093fa553.jpg",
+        "https://telegra.ph/file/58911bf9a6bfecf92ad2d.jpg",
+        "https://telegra.ph/file/eecd4d3ba9c1e4517dc80.jpg",
+        "https://telegra.ph/file/95a8abaf46b586278fe2a.jpg",
+        "https://telegra.ph/file/cb34eb6b9f6d2e7be7bdb.jpg",
+        "https://telegra.ph/file/d9278db6406490a62074e.jpg",
+        "https://telegra.ph/file/7a7b1d0368a2ad89484ec.jpg",
+        "https://telegra.ph/file/45dafedb8b0ad75a6902e.jpg",
+        "https://telegra.ph/file/fe874730f4f930c32be98.jpg",
+        "https://telegra.ph/file/f4031d30f7df5d7ea2117.jpg"
+    ]
+};

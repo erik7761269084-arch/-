@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39943,
+    "title": "Hana Bunny - Yor Forger Casual (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Yor-Forger-Casual-Spy-x-Family-12-01",
+    "images": [
+        "https://telegra.ph/file/b732352551e31aaff0209.jpg",
+        "https://telegra.ph/file/44737fb5bf5d4d3656a45.jpg",
+        "https://telegra.ph/file/2684f0166635eeca1f1e1.jpg",
+        "https://telegra.ph/file/a4a8b48c38d78f80a6853.jpg",
+        "https://telegra.ph/file/d9bd894376fde5d198b32.jpg",
+        "https://telegra.ph/file/a795a90e6470fa75966c0.jpg",
+        "https://telegra.ph/file/4a0b3487486161eb6fa3c.jpg",
+        "https://telegra.ph/file/8817b7ecce8dc2fa7c805.jpg",
+        "https://telegra.ph/file/b1713c7035ea7b0e20857.jpg",
+        "https://telegra.ph/file/431a07715b94eb6fe4c09.jpg",
+        "https://telegra.ph/file/51ca17b2f41e5bdec6149.jpg",
+        "https://telegra.ph/file/0d324421f50e0395040ac.jpg",
+        "https://telegra.ph/file/c0041ec681eecf9ae5a4a.jpg",
+        "https://telegra.ph/file/d8c392f295048d5b538e4.jpg",
+        "https://telegra.ph/file/9099e32669dbf4ad523bb.jpg",
+        "https://telegra.ph/file/c24fd4305567cdae941cd.jpg",
+        "https://telegra.ph/file/0c53b69c58b979a2d3116.jpg",
+        "https://telegra.ph/file/7bf23a302a49403b6bed5.jpg",
+        "https://telegra.ph/file/658e0ca6aa2a859c133f8.jpg",
+        "https://telegra.ph/file/6494e721c1c33bf7235d4.jpg",
+        "https://telegra.ph/file/a79f182f57471d29f76c4.jpg",
+        "https://telegra.ph/file/509220d86ecf0075889dd.jpg",
+        "https://telegra.ph/file/1014995d3aeb7356c0d5e.jpg",
+        "https://telegra.ph/file/390813374f52fe807ad0a.jpg",
+        "https://telegra.ph/file/bcc9f6f04ec8123bc3e1d.jpg"
+    ]
+};

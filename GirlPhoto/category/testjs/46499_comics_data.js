@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46499,
+    "title": "Choi Ji Yun - Mahito - Page 1",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Mahito---Page-1-01-05",
+    "images": [
+        "https://telegra.ph/file/c40145c7e07c0fd1b7fe8.jpg",
+        "https://telegra.ph/file/7d8927173d048fa01c391.jpg",
+        "https://telegra.ph/file/a030dbd2471948d9fcc4e.jpg",
+        "https://telegra.ph/file/f484fa11dae0eb286176c.jpg",
+        "https://telegra.ph/file/79223f97fb48b0de62164.jpg",
+        "https://telegra.ph/file/185a2092e5200cadf926b.jpg",
+        "https://telegra.ph/file/29f1b009efc961593fc30.jpg",
+        "https://telegra.ph/file/8cd11093b3956609f442c.jpg",
+        "https://telegra.ph/file/3ac832bf38a8ff26ac03a.jpg",
+        "https://telegra.ph/file/d8b15ebe957e1a9c72c75.jpg",
+        "https://telegra.ph/file/fe5b323be637435d51cc3.jpg",
+        "https://telegra.ph/file/a43c8f2cef99efb4e7227.jpg",
+        "https://telegra.ph/file/84852cbec767e152c75db.jpg",
+        "https://telegra.ph/file/1a80947d79bc90d91043e.jpg",
+        "https://telegra.ph/file/c355b9c8db4fe9a3daa43.jpg",
+        "https://telegra.ph/file/6990dc88ce4f222c2cd6d.jpg",
+        "https://telegra.ph/file/c163942d88f319eca80b0.jpg",
+        "https://telegra.ph/file/a13dfca3df8486c486def.jpg",
+        "https://telegra.ph/file/8ea07c74faf6eb5c72df5.jpg",
+        "https://telegra.ph/file/e952f783d655d9439bb11.jpg",
+        "https://telegra.ph/file/bccbbc791d1e622a13439.jpg",
+        "https://telegra.ph/file/b544612d85e0669e8b8d6.jpg",
+        "https://telegra.ph/file/a8c281645fcf87f23dc82.jpg",
+        "https://telegra.ph/file/3e02ce9edf25c33dcc73e.jpg",
+        "https://telegra.ph/file/b9e9b016d690351a92b88.jpg",
+        "https://telegra.ph/file/00a14a3fa3fba9133cdb8.jpg"
+    ]
+};

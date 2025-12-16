@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33652,
+    "title": "[HaneAme 雨波] Elsa Granhiert エルザ・グランヒルテ",
+    "sourceUrl": "https://telegra.ph/HaneAme-雨波-Elsa-Granhiert-エルザグランヒルテ-03-26",
+    "images": [
+        "https://telegra.ph/file/3c63bc929d26afa0fa75c.jpg",
+        "https://telegra.ph/file/497ff6191038be483465e.jpg",
+        "https://telegra.ph/file/0b0f44be849f3ceb6dbc1.jpg",
+        "https://telegra.ph/file/b2a20cae927a4ba7a97d9.jpg",
+        "https://telegra.ph/file/2e6e6ed1915abbe448102.jpg",
+        "https://telegra.ph/file/65e045e4a566a2df002df.jpg",
+        "https://telegra.ph/file/c85a92b2f1994e24245ec.jpg",
+        "https://telegra.ph/file/fbfbff32a172ba48c1b76.jpg",
+        "https://telegra.ph/file/9cf7b7b4b50a80622a4bf.jpg",
+        "https://telegra.ph/file/0840c9c0a89d1c956d778.jpg",
+        "https://telegra.ph/file/b98be6c56d1a0a0629e1d.jpg",
+        "https://telegra.ph/file/e8b4034d483a94a61a391.jpg",
+        "https://telegra.ph/file/57910afc9d981d33fbb95.jpg",
+        "https://telegra.ph/file/43e1c66bf963780a19d41.jpg",
+        "https://telegra.ph/file/4f0b62d487965c30c30b8.jpg",
+        "https://telegra.ph/file/75aad14878a39e9c7cd9d.jpg",
+        "https://telegra.ph/file/b7f5f39f75f7f85304559.jpg",
+        "https://telegra.ph/file/ebb2745a7bb07bc79f953.jpg",
+        "https://telegra.ph/file/f48e3bfda8614e8656783.jpg",
+        "https://telegra.ph/file/e2e54e85580392cb09142.jpg",
+        "https://telegra.ph/file/72eba1b7735946ccc37b5.jpg",
+        "https://telegra.ph/file/659d5be87b050b21e5137.jpg",
+        "https://telegra.ph/file/f91c94eb18c3938cbc90e.jpg",
+        "https://telegra.ph/file/25b926fa48f354f8bd6a4.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

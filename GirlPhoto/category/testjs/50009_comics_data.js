@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50009,
+    "title": "セイバー - Page 1",
+    "sourceUrl": "https://telegra.ph/セイバー---Page-1-03-06",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJZnyeC6AAHPc2oEGQSluRIw1TOqj-4AAkkdAAJXqFBWa5ZdiEWH6ug2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJdnyeC7aV7GQRywlmvmQacVrVw_oQACSh0AAleoUFYzl3GyRHuHlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJhnyeC9IHqX7CvbV8tNBUOU1OUm2QACSx0AAleoUFYuGDaXDLOhQDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJlnyeC-6-sqBANgivVhKyB_09uqRQACTB0AAleoUFZyXFIBSTQYhjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJpnyeDAjGm-bHh_G_r5hhBscbae-AACTR0AAleoUFY18DrtQ8-oljYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJtnyeDB_dmJdATrnDghAURu0qSbAwACTh0AAleoUFaNr2TM0ujNYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJxnyeDDF2IHL-gXrdloMftztWfsHAACTx0AAleoUFbA3GwPJsIT2jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJ1nyeDEs2joqf4Eb1GFBehGbJK98QACUB0AAleoUFYfZ0_JBoHICjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJ5nyeDFNcVa4zByKwnJ1JCvUG1wJQACUR0AAleoUFaAhRz8cnJ71zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKJ9nyeDHPD_Q1tmwN60_-40oGEo_NwACUh0AAleoUFZu8KkMrqJ89DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKBnyeDJ_JTnxx8IeaiEtoWxX4CQqAACUx0AAleoUFZ-OD2548-gsTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKFnyeDKRduUDdVme8JiQv5wuaWR_wACVB0AAleoUFbUGw5U2GvS0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKJnyeDLnMmrnYzeKUn9JzNhtcSp5AACVR0AAleoUFaKOL5SM0YbNjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKNnyeDMITTfFuQczvDOBvVkFoTQmQACVh0AAleoUFYpsWWmLmFs1TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKRnyeDO4vLaLqvMsdYYg_J-VtvbYwACVx0AAleoUFaBjyNUvaOHAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKVnyeDPF7XjVj7GfPsHlYWrYKZbAgACWB0AAleoUFa7edKK25DJSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKZnyeDRqWeprED9llQm8y05MxiNaAACWR0AAleoUFb_5WYJSjvMuDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKdnyeDSgt4qBr43FKRPzUgr4unFsAACWh0AAleoUFZfdBTMEdFl_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKhnyeDT-4oKBkbO992lLBV1RvnIzQACWx0AAleoUFaKv7F1LfgsETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKlnyeDVotCGsIQlAAHnKIXrV600KOsAAlwdAAJXqFBWuOpt62AP4J02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKpnyeEUZO6iDdvhMPIlORwWRExWDAACXR0AAleoUFY_JJlBnGt6jDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKtnyeEWKNPB-APCS_rsjtbXBTvg3QACXh0AAleoUFbjp942MUJdhzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKKxnyeEXCE0fNatNlWGiqB3hRjsIZAACXx0AAleoUFbKdosEU7Qb4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKK1nyeEZchxw-jOBpX_2iRMWyL9fzAACYB0AAleoUFYdwhjKXi6DAjYE"
+    ]
+};

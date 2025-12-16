@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47498,
+    "title": "[凉凉子][Cosplay][HMS Belfast]24P - Page 1",
+    "sourceUrl": "https://telegra.ph/凉凉子CosplayHMS-Belfast24P---Page-1-04-06",
+    "images": [
+        "https://telegra.ph/file/8ef1b7a44d2bcedaee51b.jpg",
+        "https://telegra.ph/file/063d0a324dcb8d2b0d11e.jpg",
+        "https://telegra.ph/file/2bf9817195298e17dc55f.jpg",
+        "https://telegra.ph/file/40d326122359b3b55cb96.jpg",
+        "https://telegra.ph/file/8d73ee0de5aea5736d7c0.jpg",
+        "https://telegra.ph/file/2ef6798524857002ea70e.jpg",
+        "https://telegra.ph/file/b68505d2e3ce75ec766ca.jpg",
+        "https://telegra.ph/file/a5e1932e3aea678a3c7fd.jpg",
+        "https://telegra.ph/file/7fb6a7c50d8a22aa30c91.jpg",
+        "https://telegra.ph/file/6414edf0b6bd153e1f00a.jpg",
+        "https://telegra.ph/file/553ff6fb326bf75145e0d.jpg",
+        "https://telegra.ph/file/dcddd80d63bef2ee0dc78.jpg",
+        "https://telegra.ph/file/746eba2e79bb934eeecde.jpg",
+        "https://telegra.ph/file/0443f02c6694d710ce434.jpg",
+        "https://telegra.ph/file/83e428c1d31ed8deddbc0.jpg",
+        "https://telegra.ph/file/f2741b85eafbe7b640a1b.jpg",
+        "https://telegra.ph/file/24a4a709e701691ac09e0.jpg",
+        "https://telegra.ph/file/37a18eecbd2052063a178.jpg",
+        "https://telegra.ph/file/18fc45e2ea3eb45988449.jpg",
+        "https://telegra.ph/file/40c3b8206e6e6ea4ad0b6.jpg",
+        "https://telegra.ph/file/582d97f645bf96b4864b8.jpg",
+        "https://telegra.ph/file/f34f3def1634ec2d6261e.jpg",
+        "https://telegra.ph/file/8a30c2249444e10d0f700.jpg",
+        "https://telegra.ph/file/e2eae3a5ff411a975b67a.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49301,
+    "title": "Arty Huang - Kancolle Shigure - Page 1",
+    "sourceUrl": "https://telegra.ph/Arty-Huang---Kancolle-Shigure---Page-1-01-17",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQVniahQxrOSzEUBHNPW0oAVdcQeqgACqhMAAiysUFTXVWsM8MBwBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQZniahTVws3GxnBmlsbhyjYY81vwAACqxMAAiysUFTeBvKR7oVbRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQdniahXh0ZgboymeikYwKQVWC36bgACrBMAAiysUFT8BU5nHM6fPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQhniahgh3u8UQTbT5qoBo0Sd-89UAACrRMAAiysUFTIRE6lt1j2pDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQlniahoEymUIvi9K9vEpZ0UG6VLvwACrhMAAiysUFQTpXpBmeBMRjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQpniahqxNl51YsIkIb1RxM9jcU7bwACrxMAAiysUFRapZY0AYAuIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQtniahtVJf3QG2iB0Rtb28ETjyb4AACsBMAAiysUFRfmyrAlooVKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQxniahwYqOYHL5o-rcJcuGS_GoYGQACsRMAAiysUFS4aDc2c7OT9DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQ1niahz0DgeBBqfFl9eXWGQvxdEnQACshMAAiysUFTiFo0vl4w8fTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQ5niah2-pLy7OcYFij9NJq3Phxi0AACsxMAAiysUFQQrrws3z55ODYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpQ9niah72V9eULvNEhjbLfTE__KfdQACtBMAAiysUFQIkODpKdCSMzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRBniah-RMuSdbJNKUOWpSOANH_UfQACtRMAAiysUFQlzPfmEKW-3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRFniaiBcGIPzvN9LSxBJeZSsGGb3AACthMAAiysUFRzWB-8-qffNTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRJniaiExbmichYVR_q4j3kHz8QY2gACtxMAAiysUFQgm__sZ4FxPzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRNniaiLYm-SvpZQj3LhepCUoluvAwACuBMAAiysUFRYvRH4wzd2rzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRRniaiO--heVehILwwzkOuo9nv58QACuRMAAiysUFRmxLSG4jEiLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRVniaiQW-MGseRgVo525ry1Tgk2qwACuhMAAiysUFQCSvOn2ta8cjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRZniaih6YDeqBoEnw_mJTxCC5FjowACuxMAAiysUFRu_47gB77FNjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRdniaiqY7uNKSxi_aRwaxoHdQwUTwACvBMAAiysUFTJZKyWQKTT_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRhniait6_7DYxJQn3VVfP5UQ-MDdgACvRMAAiysUFSOPE6gCpCtIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRlniai19sE0Z97MUS85EHM6UVXevwACvhMAAiysUFTt4AKZFPBviTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRpniai38g_UuEyQQCbvM2i-79XBIQACvxMAAiysUFTxX_8BvDu5EDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRtniai7-X_hXqrUjhMmNea7HzLFrQACwBMAAiysUFRlUaPhwOVrOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDpRxniai_4YwlWmrgCD8NwXVRjz411QACwRMAAiysUFQdKRT4dJnn6zYE"
+    ]
+};

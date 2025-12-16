@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39924,
+    "title": "阿包也是兔娘 OTS14 天意佳人 (Girls Frontline)",
+    "sourceUrl": "https://telegra.ph/阿包也是兔娘-OTS14-天意佳人-Girls-Frontline-11-26",
+    "images": [
+        "https://telegra.ph/file/8d08ad3303672bed2d88d.jpg",
+        "https://telegra.ph/file/cb3a51123dbb6f20945ff.jpg",
+        "https://telegra.ph/file/0f7ce0f91c17189fff72f.jpg",
+        "https://telegra.ph/file/0d4e8470d6b62b177fb59.jpg",
+        "https://telegra.ph/file/4bea0330f7a16923e876d.jpg",
+        "https://telegra.ph/file/93c24ecca3e0725c4167b.jpg",
+        "https://telegra.ph/file/cd1d2661930bcc9ba5219.jpg",
+        "https://telegra.ph/file/8c490824bc5f990ff728a.jpg",
+        "https://telegra.ph/file/3b4ea77e78b0ed70b4e89.jpg",
+        "https://telegra.ph/file/1aacd967db92da44b3b9c.jpg",
+        "https://telegra.ph/file/08a90ff46a0eeb60fc2a1.jpg",
+        "https://telegra.ph/file/63c647a975d16f6fc3fc6.jpg",
+        "https://telegra.ph/file/4cad8ef9015376cde1953.jpg",
+        "https://telegra.ph/file/557124810fc0cdf72ea20.jpg",
+        "https://telegra.ph/file/5a94b133cc551d39a76d3.jpg",
+        "https://telegra.ph/file/8c2e378a06420c1226f93.jpg",
+        "https://telegra.ph/file/4f04883eff89425fbe83b.jpg",
+        "https://telegra.ph/file/6373a06594dac4a485545.jpg",
+        "https://telegra.ph/file/197110a280d0fc09bdfc2.jpg",
+        "https://telegra.ph/file/8c9def5a8dc31132b1070.jpg",
+        "https://telegra.ph/file/7cf7235a0fa468d14b814.jpg",
+        "https://telegra.ph/file/3d59914d550bc250ca5e5.jpg",
+        "https://telegra.ph/file/1a6593ed8a1af3b2a9ed6.jpg"
+    ]
+};

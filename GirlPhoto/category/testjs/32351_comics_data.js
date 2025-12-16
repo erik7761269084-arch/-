@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 32351,
+    "title": "[Hoshilily 星之迟迟] Massachusetts マサチューセッツ (Azur Lane 碧蓝航线)",
+    "sourceUrl": "https://telegra.ph/Hoshilily-星之迟迟-Massachusetts-マサチューセッツ-Azur-Lane-碧蓝航线-11-12",
+    "images": [
+        "https://telegra.ph/file/088cb10b1c3dcd086e58d.jpg",
+        "https://telegra.ph/file/7ff55f06a82c6948938a4.jpg",
+        "https://telegra.ph/file/71020651ca4a327d43137.jpg",
+        "https://telegra.ph/file/b9caae257d801c99bc648.jpg",
+        "https://telegra.ph/file/ad7f09f73f29b5163b992.jpg",
+        "https://telegra.ph/file/dfadc32d636be7f55e5ff.jpg",
+        "https://telegra.ph/file/45abd9648bf035800d0e9.jpg",
+        "https://telegra.ph/file/e2f39106d3481663d9e57.jpg",
+        "https://telegra.ph/file/443dcb7d48a53a95478c9.jpg",
+        "https://telegra.ph/file/52e31dac8ce3ee07d558d.jpg",
+        "https://telegra.ph/file/4d91e0f6b420655ad128a.jpg",
+        "https://telegra.ph/file/1c8db9b6b2602137b3b62.jpg",
+        "https://telegra.ph/file/1254eecf9eb5eeffd5921.jpg",
+        "https://telegra.ph/file/8fecb169610b5662733ea.jpg",
+        "https://telegra.ph/file/6f36df0f970f5aa4956a7.jpg",
+        "https://telegra.ph/file/172fdd88931aa1405e911.jpg",
+        "https://telegra.ph/file/8fa79c4d73e7c6ae0f081.jpg",
+        "https://telegra.ph/file/73ffbaebf384d525f9097.jpg",
+        "https://telegra.ph/file/91f9625f4e0e9ec5c5eb9.jpg",
+        "https://telegra.ph/file/6d26ce89e45b8ae545adb.jpg",
+        "https://telegra.ph/file/9192c0a475578b4deb150.jpg",
+        "https://telegra.ph/file/d9dffe04c7891bdf89313.jpg",
+        "https://telegra.ph/file/feede401c8cfe367e5e89.jpg",
+        "https://telegra.ph/file/c911c75f15ec035abc14b.jpg",
+        "https://telegra.ph/file/6edf9e79f160da755c8c2.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

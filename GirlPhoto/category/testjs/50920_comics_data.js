@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 50920,
+    "title": "[Xidaidai 习呆呆] 风堇 with GIF (崩坏：星穹铁道) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-风堇-with-GIF-崩坏星穹铁道-Decensored---Page-1-08-30",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_dosstUnkZtIlX8AAFXrEt70AvzE_gAAscfAAJ_2ZlVfP5dVMzRmus2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_hosstWxKePgtI5KOLAyBwfy2I7NQACyB8AAn_ZmVWk7WEup6PU3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_losstXYZn3VaWaWihJObfm1fcfzAACyR8AAn_ZmVUTJdwfiPX-_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_posstZBS6djKKnvt9y34n4HvfbMgACyh8AAn_ZmVXUvCTgXeeITTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_tosstavuXFkIQc5H6wiDJRWRWZ_wACyx8AAn_ZmVVrtxzI2zGfRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_xosstcQQXu7kscse7GsrcMSMcIBQACzB8AAn_ZmVUjhgu_Ml6zijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_1osstd_fwgHtqP_SyUlesWA9VYZwACzR8AAn_ZmVWvTySR6W-2aDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_5osste8QWTm4j6l9Z1wKxhnNW6mAACzh8AAn_ZmVUUjNwDN7H6OjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQc_9osstgqqRxazjZZfp-P3F7WxpNtwACzx8AAn_ZmVVmKwIxLgRZFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAABaLLLYj86-pXhQRxbG-hZVcf1oEkAAtAfAAJ_2ZlVAelJXn3nDEo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAFosstj001Psym1EqAAAcISO21iFsYAAtEfAAJ_2ZlVdyZOAsH3GEs2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAJosstlph5T8C18D_sxvgFKiIz5tAAC0h8AAn_ZmVVOWaQkYwq4MjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdANosstmN40au9O2GL4dF9b8SiTUhAAC0x8AAn_ZmVU51fVORyj5HjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdARosstoL7hjj5t9DlarJyIUijAQSQAC1B8AAn_ZmVU8aUoZV_GxojYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAVosstpI-eH0BLE1OJVTpNM_flNmAAC1R8AAn_ZmVXVGmJOnWzzUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAZosstrnWFG6_bIWsUlEljunVj6SgAC1h8AAn_ZmVW7vXw5RNFPAAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAdosstsnONxMtmkxndCsuSGtrK_9wAC1x8AAn_ZmVXmICrwPzEEAzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAhosstuNujhyoSXGwtThkANaa3MRQAC2B8AAn_ZmVU4sgd7ECcRVTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAlosstv8sdXdWGAeW38M7y3WgxcxwAC2R8AAn_ZmVUQD6PUuWEIdzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAposstzpnZUXe8oJCt8vMeOPVJnHgAC2h8AAn_ZmVWI5iv62-t6CzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAtosst1TKmnAAHbYwn24wAB0L9zlTlwAALbHwACf9mZVWCQ57hpHQ0yNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdAxosst4nQswUoWpUWpD49evGJUbGAAC3B8AAn_ZmVX73m9ACPcWHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdA1ossu9soR5_43F3pWBIYS3l7L_mAAC3h8AAn_ZmVVR8h6Ch7zikTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdA5ossu_wjCOWyWL0wJUbGulxA5FegAC3x8AAn_ZmVXZ8OLXj5a4IzYE"
+    ]
+};

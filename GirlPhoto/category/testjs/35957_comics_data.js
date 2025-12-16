@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 35957,
+    "title": "Song Hana 송하나, [JOApictures] Song Hana (송하나) x JOA 20. APR Vol.1 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/Song-Hana-송하나-JOApictures-Song-Hana-송하나-x-JOA-20-APR-Vol1-8211-Set02-11-14",
+    "images": [
+        "https://telegra.ph/file/3a1ad26a33dac3b79623a.jpg",
+        "https://telegra.ph/file/bd3eb132a6fcb8d27bdc2.jpg",
+        "https://telegra.ph/file/0023e12dd069db0918e95.jpg",
+        "https://telegra.ph/file/12785809c9c6e516f8017.jpg",
+        "https://telegra.ph/file/a3a4d7b1089fca7e5ad40.jpg",
+        "https://telegra.ph/file/b47a42cf036d9c38f140d.jpg",
+        "https://telegra.ph/file/2d9797bf03707a270810d.jpg",
+        "https://telegra.ph/file/f21267c69e52bdd751489.jpg",
+        "https://telegra.ph/file/9c4f3dff603a595c65248.jpg",
+        "https://telegra.ph/file/57f1f6e317aabe923ea8d.jpg",
+        "https://telegra.ph/file/ee7b3959a4cc0e9350907.jpg",
+        "https://telegra.ph/file/4947ef1b980b6deacc621.jpg",
+        "https://telegra.ph/file/31c167a12098b24ef7e67.jpg",
+        "https://telegra.ph/file/88bfffc28aa62004e85aa.jpg",
+        "https://telegra.ph/file/de4efc77f234dc282005f.jpg",
+        "https://telegra.ph/file/c2cf0c38e553da2c31df5.jpg",
+        "https://telegra.ph/file/cae2c5bcbdcc226693408.jpg",
+        "https://telegra.ph/file/14ca32763cce3e2eb0c60.jpg",
+        "https://telegra.ph/file/dbb4fd967187077864849.jpg",
+        "https://telegra.ph/file/cc1ef38aa1e30d9ed9fd7.jpg",
+        "https://telegra.ph/file/31c2b0fa3e51a4590efcb.jpg",
+        "https://telegra.ph/file/3cd7fce7a7d01de4bbca5.jpg",
+        "https://telegra.ph/file/32de5a50123476ceef6a7.jpg"
+    ]
+};

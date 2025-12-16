@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 50831,
+    "title": "QUEENIE CHUPPY - Kitty 2B - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---Kitty-2B---Page-1-08-05",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVFokjFKhaNG0SqroecEJ_z-aplivQACNBwAAjd3kVQyHlMbvbTQEjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVJokjFL8cphsU6Bg4lOpqzL0TKNigACNRwAAjd3kVQZmKyw-guqyjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVNokjFNfiEPdJfJfR2NEZXjtDN3CQACNhwAAjd3kVTssiCdFY-CoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVRokjFOQgxjfd4mITFJTn4mEDHnfgACNxwAAjd3kVS9yhJVPkRTPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVVokjFR7nHiKSDGJ99DHkhXds4KCQACOBwAAjd3kVTMJW4YmNKn6TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVZokjFSqYjQMnnrljCgVMytcN3SxQACORwAAjd3kVTkouTsTYMyYTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVdokjFT8xnbss3FRue7uhoT-HmDGgACOhwAAjd3kVRh8qbxINMpSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVhokjFVfrqzTu1KraG83h0e1hilWQACOxwAAjd3kVSqJgwzqBF06DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVlokjFWTl6hNWdmc9boA52GJnk_hwACPBwAAjd3kVT_0So7sXvJKzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVpokjFXrUU9JNIVLQO1qYmp7YsRlwACPRwAAjd3kVRm20mRKX9DJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVtokjFZfpvHAfa7-wNhNSnLHPfnGgACPhwAAjd3kVQh6vF9yOwAAZU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMVxokjFaVuZ5cDYs0G0UJevDZNrqjgACPxwAAjd3kVSHcC9TAAEycFE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMV1okjFclgnwHgZ_l49AJUMKlRW96gACQBwAAjd3kVQR_DzandkalzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMV5okjFd4JpjE0QAAXLOL4ytdPBPo84AAkEcAAI3d5FUv02Y5F6pdjk2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMV9okjFfKyDHolmf5Wurriz4V6SHHAACQhwAAjd3kVQMKifBU4IHxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWBokjFh2f2mfZeO7sOzFFe2E-_25AACQxwAAjd3kVSFVvpTMcr_KTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWFokjFidc8Mgm_KcCaHyPDDpQIRtAACRBwAAjd3kVTJFXHDAm2nZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWJokjFkGYv4oz0VfpodkyF2-PqbPAACRRwAAjd3kVQbrYFuJ_UWijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWNokjFlOnV1UzlEaMbuKbBmpZLlOgACRhwAAjd3kVSetl1J_1AAAZo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWRokjFnUk8KCupL6qa4aK8vhHtHUwACRxwAAjd3kVRcZbvhiWkUyTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWVokjFoCYskQA5JZSGKvXUBClg-5wACSBwAAjd3kVSaOD_nEAng-DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWZokjFqOStXgY0uES9pc15cHo2vswACSRwAAjd3kVSCN6xqDcExEzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWdokjFr_2DiCcY2GUupXXRD70OoYgACShwAAjd3kVSLyAmcHzGJjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWhokjGqydkD7D3Gms7JARzdXpVwDQACTBwAAjd3kVQHJbrxdai2gTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPMWlokjGtDXfVHZI84eA1bKoAAZZnqHMAAk0cAAI3d5FUGgET7Lq8_Wo2BA"
+    ]
+};

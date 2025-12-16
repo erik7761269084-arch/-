@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 36107,
+    "title": "Cosplay 九言 停云 Tingyun Set.02",
+    "sourceUrl": "https://telegra.ph/Cosplay-九言-停云-Tingyun-Set02-11-29",
+    "images": [
+        "https://telegra.ph/file/ad229bb6bb0c5fc4b9664.jpg",
+        "https://telegra.ph/file/16279af16582e7f0f3921.jpg",
+        "https://telegra.ph/file/3701544e999395638806d.jpg",
+        "https://telegra.ph/file/838db4644d9e22a04125c.jpg",
+        "https://telegra.ph/file/d53795ff95a6e92439cd6.jpg",
+        "https://telegra.ph/file/03afa5e162d1a1a33f3b0.jpg",
+        "https://telegra.ph/file/e25e611c856fce1cfeb87.jpg",
+        "https://telegra.ph/file/3e340a3d47f88342cf0ce.jpg",
+        "https://telegra.ph/file/7d266313fc1a87fccc62b.jpg",
+        "https://telegra.ph/file/ea42ff44995c31ab71391.jpg",
+        "https://telegra.ph/file/52fd9a4cf15632f4a4647.jpg",
+        "https://telegra.ph/file/72745b5b6ffeeec5f4d02.jpg",
+        "https://telegra.ph/file/130e777a83a3c6b519c09.jpg",
+        "https://telegra.ph/file/f5f28947a834eedb0cd28.jpg",
+        "https://telegra.ph/file/6138ff254e6bfcea3c948.jpg",
+        "https://telegra.ph/file/d81997f9fc6b588fe0000.jpg",
+        "https://telegra.ph/file/d6db6f5067b7096489dcc.jpg",
+        "https://telegra.ph/file/e792b38b28374c67fb8a1.jpg",
+        "https://telegra.ph/file/28e8404641d2d9adc98e9.jpg",
+        "https://telegra.ph/file/18183b4df0fba68f33a42.jpg",
+        "https://telegra.ph/file/c0b08b99a88f9f78e6e06.jpg",
+        "https://telegra.ph/file/5cb0bd6e4517b7fd94a70.jpg",
+        "https://telegra.ph/file/832abafc87feaa0f80e79.jpg",
+        "https://telegra.ph/file/56cf5dae74b3182b388a0.jpg"
+    ]
+};

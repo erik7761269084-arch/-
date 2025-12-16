@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 26293,
+    "title": "三上悠亚-[Graphis] 《Rainy Special 2019!》[25P]",
+    "sourceUrl": "https://telegra.ph/%E4%B8%89%E4%B8%8A%E6%82%A0%E4%BA%9A-Graphis-Rainy-Special-201925P-12-30",
+    "images": [
+        "https://telegra.ph/file/03e4c5865d60924d5fa16.jpg",
+        "https://telegra.ph/file/9c9fdf890e28ceddf4123.jpg",
+        "https://telegra.ph/file/9547ea43186f438661ca8.jpg",
+        "https://telegra.ph/file/951f6009482472eaf903f.jpg",
+        "https://telegra.ph/file/1cc85b1b6d75a7248cda0.jpg",
+        "https://telegra.ph/file/1e3d56d484f408edee26f.jpg",
+        "https://telegra.ph/file/e0e7a41ee0c2f51512d38.jpg",
+        "https://telegra.ph/file/0a7d7ad9bdb43b8d855bc.jpg",
+        "https://telegra.ph/file/37afb52b2f641e9b0ff49.jpg",
+        "https://telegra.ph/file/cdceea2b367dd2cd7ea38.jpg",
+        "https://telegra.ph/file/9dc7a8760ef9e3979039b.jpg",
+        "https://telegra.ph/file/162a239b39dd48f3d9262.jpg",
+        "https://telegra.ph/file/d1c95881ce2ad435d4aa8.jpg",
+        "https://telegra.ph/file/8b9e1852a6afb2b4a4df1.jpg",
+        "https://telegra.ph/file/396ca5482619f80733988.jpg",
+        "https://telegra.ph/file/b0151239310c40347e5c4.jpg",
+        "https://telegra.ph/file/281e6dd8ac03e6b032d0f.jpg",
+        "https://telegra.ph/file/b05162cbc66f5d3c90e96.jpg",
+        "https://telegra.ph/file/73ebdcc5ff1b367c16798.jpg",
+        "https://telegra.ph/file/30a152abdbde092dc5594.jpg",
+        "https://telegra.ph/file/3b96b7143302f2dcf7718.jpg",
+        "https://telegra.ph/file/c04c3e982a98e96d82115.jpg",
+        "https://telegra.ph/file/cd1d9295ab2ca208722a2.jpg",
+        "https://telegra.ph/file/a2c9cfb89da3abe1ca7e0.jpg",
+        "https://telegra.ph/file/67efa1feca60d5db0d146.jpg"
+    ]
+};

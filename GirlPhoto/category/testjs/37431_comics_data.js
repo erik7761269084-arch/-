@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 37431,
+    "title": "Son.J [LEEHEE EXPRESS] LEHF-027A Set.01",
+    "sourceUrl": "https://telegra.ph/SonJ-LEEHEE-EXPRESS-LEHF-027A-Set01-04-13",
+    "images": [
+        "https://telegra.ph/file/212ed97e6bf02aae4327c.jpg",
+        "https://telegra.ph/file/add296e7c78a2490eef66.jpg",
+        "https://telegra.ph/file/3e7c701727d1c51f0551e.jpg",
+        "https://telegra.ph/file/dc059d02f9d67309a847b.jpg",
+        "https://telegra.ph/file/e4433ae9a4d70112e7fce.jpg",
+        "https://telegra.ph/file/eff8366777e4b7d9e0c75.jpg",
+        "https://telegra.ph/file/78f7db9d8a3cb5e485389.jpg",
+        "https://telegra.ph/file/9ed7c25be6480b1e2f966.jpg",
+        "https://telegra.ph/file/78fef146d3a16d97498df.jpg",
+        "https://telegra.ph/file/61f284a25cce4347a45be.jpg",
+        "https://telegra.ph/file/0943ebd9a1a65b8003aaa.jpg",
+        "https://telegra.ph/file/d8f80f8feff55729d0f00.jpg",
+        "https://telegra.ph/file/6024c5fac553dda1d1230.jpg",
+        "https://telegra.ph/file/d5f4001dea9f472299114.jpg",
+        "https://telegra.ph/file/01a20762c19ea051bf760.jpg",
+        "https://telegra.ph/file/d9b1ca8527891a84937d0.jpg",
+        "https://telegra.ph/file/aec3f3509f2a413332244.jpg",
+        "https://telegra.ph/file/7670258d53dca75e70938.jpg",
+        "https://telegra.ph/file/7bb818471b8dd927adfba.jpg",
+        "https://telegra.ph/file/1e4a2c5f1e2b68b5fedc9.jpg",
+        "https://telegra.ph/file/ef9f1f4c4e582261299bc.jpg",
+        "https://telegra.ph/file/be49d9504c27650152323.jpg",
+        "https://telegra.ph/file/2390d7a013fa3ac7e8d89.jpg",
+        "https://telegra.ph/file/d0c6804017c4e6f3ee923.jpg",
+        "https://telegra.ph/file/85b1d27a57cd2bbb78532.jpg"
+    ]
+};

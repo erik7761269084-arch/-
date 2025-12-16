@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42463,
+    "title": "rioko凉凉子 -《年上の韵》奇怪的老师",
+    "sourceUrl": "https://telegra.ph/rioko%E5%87%89%E5%87%89%E5%AD%90--%E5%B9%B4%E4%B8%8A%E3%81%AE%E9%9F%B5%E5%A5%87%E6%80%AA%E7%9A%84%E8%80%81%E5%B8%88-05-22",
+    "images": [
+        "https://telegra.ph/file/2e60b9191dd43e76e8b69.jpg",
+        "https://telegra.ph/file/2d6e97a0a5571af2ab874.jpg",
+        "https://telegra.ph/file/3cd2a5d490f4369ff7814.jpg",
+        "https://telegra.ph/file/1ec0afd78b0dc165c4948.jpg",
+        "https://telegra.ph/file/455c26a90ac582cc6bcaf.jpg",
+        "https://telegra.ph/file/9797078f7621530a0a216.jpg",
+        "https://telegra.ph/file/d4a04e5d97fb2a2909c19.jpg",
+        "https://telegra.ph/file/5d42f2ba6787965bbd1c3.jpg",
+        "https://telegra.ph/file/efc662fc113ba8212c852.jpg",
+        "https://telegra.ph/file/55dafc72e5c942555db91.jpg",
+        "https://telegra.ph/file/09bad902ea27582154755.jpg",
+        "https://telegra.ph/file/ca27cbc0f4ff2137a3153.jpg",
+        "https://telegra.ph/file/c7c603653e3bae4a46d42.jpg",
+        "https://telegra.ph/file/cdb131126bd780cf3e15e.jpg",
+        "https://telegra.ph/file/41aafd63cc57c7e000bae.jpg",
+        "https://telegra.ph/file/36f7665f9fb99ca47b732.jpg",
+        "https://telegra.ph/file/9e708c7aa9faf0eed0e01.jpg",
+        "https://telegra.ph/file/620e0328898471db28a3e.jpg",
+        "https://telegra.ph/file/b9688dddc0bb05820d369.jpg",
+        "https://telegra.ph/file/dbdf59b2c188842bdaa7f.jpg",
+        "https://telegra.ph/file/0f4605e9d738c79e3bb93.jpg",
+        "https://telegra.ph/file/76312bb76f5eb0f2d14ef.jpg",
+        "https://telegra.ph/file/023d67f48c9d8cd945480.jpg",
+        "https://telegra.ph/file/cde22f25d6eaebea7a154.jpg",
+        "https://telegra.ph/file/98ec1464b092082778dde.jpg"
+    ]
+};

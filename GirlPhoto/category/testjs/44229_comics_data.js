@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44229,
+    "title": "Chengzimiaoj - Raiden Shogun",
+    "sourceUrl": "https://telegra.ph/Chengzimiaoj---Raiden-Shogun-09-28-2",
+    "images": [
+        "https://telegra.ph/file/42da15ba350953d2b8fa3.jpg",
+        "https://telegra.ph/file/26d43ef756261be3290b7.jpg",
+        "https://telegra.ph/file/c9b8fef2f356c548cd8de.jpg",
+        "https://telegra.ph/file/df82f8138aeed42d1935a.jpg",
+        "https://telegra.ph/file/9ef42cdab18130531a4dc.jpg",
+        "https://telegra.ph/file/6d810e6776e4fc3c2d64a.jpg",
+        "https://telegra.ph/file/cab5bab058f9d4a817c1e.jpg",
+        "https://telegra.ph/file/8f4e9f0b7e1ea52966b10.jpg",
+        "https://telegra.ph/file/83e7d72bf993373b052ce.jpg",
+        "https://telegra.ph/file/93b5c234c4543e46a749d.jpg",
+        "https://telegra.ph/file/1bd838824296eadb5e5b7.jpg",
+        "https://telegra.ph/file/73c11ffa7e5650b672333.jpg",
+        "https://telegra.ph/file/c7f7aed3a3b9e757bc557.jpg",
+        "https://telegra.ph/file/e1dac9ddbbef2e67f897e.jpg",
+        "https://telegra.ph/file/1b56a2a834fc088d34e49.jpg",
+        "https://telegra.ph/file/db4da0e90faca3cf9961d.jpg",
+        "https://telegra.ph/file/9742b097319176ae71e17.jpg",
+        "https://telegra.ph/file/e6905584c844bca6d76b8.jpg",
+        "https://telegra.ph/file/111b6c3c4c1b5ac90f95b.jpg",
+        "https://telegra.ph/file/29a8330eb20168d51a922.jpg",
+        "https://telegra.ph/file/a9a2a7056042d302294e1.jpg",
+        "https://telegra.ph/file/d03846eb2b99f7a95dc63.jpg",
+        "https://telegra.ph/file/162e879ca901e86da08ae.jpg",
+        "https://telegra.ph/file/e3a9828364cd2b405558a.jpg",
+        "https://telegra.ph/file/6f01d5cd9c830c8537cef.jpg"
+    ]
+};

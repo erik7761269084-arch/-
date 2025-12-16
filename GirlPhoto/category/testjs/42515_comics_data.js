@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42515,
+    "title": "萌芽儿o0 - 透明女仆自拍 [26P-100MB]",
+    "sourceUrl": "https://telegra.ph/%E8%90%8C%E8%8A%BD%E5%84%BFo0---%E9%80%8F%E6%98%8E%E5%A5%B3%E4%BB%86%E8%87%AA%E6%8B%8D-26P-100MB-05-25",
+    "images": [
+        "https://telegra.ph/file/5c3e84d6cc5d718a4b724.jpg",
+        "https://telegra.ph/file/b27050a31c05dd5a233a9.jpg",
+        "https://telegra.ph/file/07631bd869b2071847903.jpg",
+        "https://telegra.ph/file/72cd8eb321a2a9da5b3aa.jpg",
+        "https://telegra.ph/file/f93e07202c8a3f2653838.jpg",
+        "https://telegra.ph/file/3197ef1b9f1f650c44e64.jpg",
+        "https://telegra.ph/file/b8859346a335be1a015e8.jpg",
+        "https://telegra.ph/file/b021aa30f255135c3b31b.jpg",
+        "https://telegra.ph/file/5497828c417c3588faafd.jpg",
+        "https://telegra.ph/file/33f819202b9702386052a.jpg",
+        "https://telegra.ph/file/7b9f685449216db7bd960.jpg",
+        "https://telegra.ph/file/cc279f2bc75a35e2b4931.jpg",
+        "https://telegra.ph/file/85b0635e678882c453c69.jpg",
+        "https://telegra.ph/file/af7de2739a96d13e5f1ee.jpg",
+        "https://telegra.ph/file/96bb2b69b62e41b94ffc7.jpg",
+        "https://telegra.ph/file/aeb5ae5b30039275a6629.jpg",
+        "https://telegra.ph/file/cc46cede6b64e58ca54ef.jpg",
+        "https://telegra.ph/file/de2d6378cb162cd66769f.jpg",
+        "https://telegra.ph/file/17415514a8c209285f6ad.jpg",
+        "https://telegra.ph/file/93e954bcbee561bcd0b6a.jpg",
+        "https://telegra.ph/file/c07956aa3bb2a90836c4b.jpg",
+        "https://telegra.ph/file/c20fb88f0fe3d2b02afde.jpg",
+        "https://telegra.ph/file/991a93fa03c7d99391e56.jpg",
+        "https://telegra.ph/file/3a5b02a68edf69095498e.jpg",
+        "https://telegra.ph/file/c73783f735bdd3f269845.jpg",
+        "https://telegra.ph/file/fc5e92888c3cf9ed1b593.jpg"
+    ]
+};

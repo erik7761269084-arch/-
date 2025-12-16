@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 37071,
+    "title": "Hanna 한나, WXY ENT 3rd Photobook Set.02",
+    "sourceUrl": "https://telegra.ph/Hanna-한나-WXY-ENT-3rd-Photobook-Set02-03-07",
+    "images": [
+        "https://telegra.ph/file/7477443b8db3e0cee9e54.jpg",
+        "https://telegra.ph/file/dbf08be9900b091599eb0.jpg",
+        "https://telegra.ph/file/e1be53a61ceb0d7e6506c.jpg",
+        "https://telegra.ph/file/47b9ee93876e48cf16577.jpg",
+        "https://telegra.ph/file/cd4260488e23a0d79ca0f.jpg",
+        "https://telegra.ph/file/0f53fc137b85d2fa7f983.jpg",
+        "https://telegra.ph/file/d7ba7cb6282ec5de55ce7.jpg",
+        "https://telegra.ph/file/2cb49d3733e2e7555a9b9.jpg",
+        "https://telegra.ph/file/12af54cd808c4b7089584.jpg",
+        "https://telegra.ph/file/c4adb616192a3804c176e.jpg",
+        "https://telegra.ph/file/de03f0fd73d00f0cd5489.jpg",
+        "https://telegra.ph/file/d600674607816653634b7.jpg",
+        "https://telegra.ph/file/730e1b55016aad7cec7b4.jpg",
+        "https://telegra.ph/file/171d094f05788a59963b3.jpg",
+        "https://telegra.ph/file/65904ffd4e331e05b3d53.jpg",
+        "https://telegra.ph/file/ddd6e8d754ba59cc8a896.jpg",
+        "https://telegra.ph/file/a7b2e85961420c65efc31.jpg",
+        "https://telegra.ph/file/d5ac375441a5cdf7c0892.jpg",
+        "https://telegra.ph/file/e56e71e25368b32c98352.jpg",
+        "https://telegra.ph/file/c9d92d949458ccaf7961e.jpg",
+        "https://telegra.ph/file/75b802be943b3da964a25.jpg",
+        "https://telegra.ph/file/ca82c2f5abb6d7a249f50.jpg",
+        "https://telegra.ph/file/4d3351ae2a941e0b75b86.jpg",
+        "https://telegra.ph/file/59a02723f547c2400de35.jpg"
+    ]
+};

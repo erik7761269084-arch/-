@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48586,
+    "title": "Pyoncos - Eula - Genshin Impact - Page 1",
+    "sourceUrl": "https://telegra.ph/Pyoncos---Eula---Genshin-Impact---Page-1-08-10",
+    "images": [
+        "https://telegra.ph/file/f9be90808df0768b0a2cf.jpg",
+        "https://telegra.ph/file/844034a94f35df452519d.jpg",
+        "https://telegra.ph/file/44429720be5fa0536de90.jpg",
+        "https://telegra.ph/file/e5136d04b797e0de354d1.jpg",
+        "https://telegra.ph/file/2e78851cacac2859d2cd6.jpg",
+        "https://telegra.ph/file/eec6d433d6fbfbc119660.jpg",
+        "https://telegra.ph/file/a5de11ad4bd5b2403b2b2.jpg",
+        "https://telegra.ph/file/726540f1ad9d69edaa3ac.jpg",
+        "https://telegra.ph/file/a69f8d8bbf4ab22841d36.jpg",
+        "https://telegra.ph/file/48c6514c03513dca38469.jpg",
+        "https://telegra.ph/file/a0e2d7a51f7dd6159e25f.jpg",
+        "https://telegra.ph/file/dfe5e4356ad3bc33d4850.jpg",
+        "https://telegra.ph/file/50664958bd76f20ab366f.jpg",
+        "https://telegra.ph/file/c6fd17d93c5a27c119def.jpg",
+        "https://telegra.ph/file/79d72cf989cabc0cb9d1c.jpg",
+        "https://telegra.ph/file/f7f8d2f143c37c61b2043.jpg",
+        "https://telegra.ph/file/c6cae731716234bbe17cc.jpg",
+        "https://telegra.ph/file/4ad75fb3b082673dbadab.jpg",
+        "https://telegra.ph/file/cc809a6c6ca32e05d7fad.jpg",
+        "https://telegra.ph/file/b65a9f18d008a2ba80681.jpg",
+        "https://telegra.ph/file/77b589d70804c8b8a11e2.jpg",
+        "https://telegra.ph/file/91c319eeab9314e1b45ad.jpg",
+        "https://telegra.ph/file/f9a8bed9a35551322e55e.jpg",
+        "https://telegra.ph/file/a3efe44483e2ab4720a12.jpg",
+        "https://telegra.ph/file/085c8ea9694eb7ff7effc.jpg"
+    ]
+};

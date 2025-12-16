@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 25041,
+    "title": "果咩酱w - NO.07 豹女姐姐 [25P]",
+    "sourceUrl": "https://telegra.ph/%E6%9E%9C%E5%92%A9%E9%85%B1w---NO07-%E8%B1%B9%E5%A5%B3%E5%A7%90%E5%A7%90-25P-01-17",
+    "images": [
+        "https://telegra.ph/file/99f8c7854ef386805cd7f.jpg",
+        "https://telegra.ph/file/c9ae53a3f855c234800e5.jpg",
+        "https://telegra.ph/file/ed10fe9f866d498579076.jpg",
+        "https://telegra.ph/file/6fc507e4a1c1dca0c2818.jpg",
+        "https://telegra.ph/file/f1edba05a0afefa0d01b8.jpg",
+        "https://telegra.ph/file/30b41e305dea100e20bc8.jpg",
+        "https://telegra.ph/file/32df6dc23804fb3b93e75.jpg",
+        "https://telegra.ph/file/4011a7455b23df9ef186a.jpg",
+        "https://telegra.ph/file/eebfba9ac34481e869376.jpg",
+        "https://telegra.ph/file/fadf4b2581ca45abb905b.jpg",
+        "https://telegra.ph/file/8d87b5a75dc13fe9a1a79.jpg",
+        "https://telegra.ph/file/eafca56aaba6419c59053.jpg",
+        "https://telegra.ph/file/9439b9be2e445ddce4c0d.jpg",
+        "https://telegra.ph/file/67ee2e7cff4c798623cd4.jpg",
+        "https://telegra.ph/file/a3248263d6d63eb11c7f4.jpg",
+        "https://telegra.ph/file/74401a7cbac3a359be481.jpg",
+        "https://telegra.ph/file/dc22df7ddb396114f2fe8.jpg",
+        "https://telegra.ph/file/52f1021480d4915b96238.jpg",
+        "https://telegra.ph/file/e966ae1be5c8744c97152.jpg",
+        "https://telegra.ph/file/32005ca09d16412e37590.jpg",
+        "https://telegra.ph/file/205ef8a628c55d2f53787.jpg",
+        "https://telegra.ph/file/c7b24fc1b632e534b93ba.jpg",
+        "https://telegra.ph/file/1dae9fbb1d25c4472f9cf.jpg",
+        "https://telegra.ph/file/ffe0369856038465465c0.jpg",
+        "https://telegra.ph/file/75e75bc7cc5db2470f452.jpg"
+    ]
+};

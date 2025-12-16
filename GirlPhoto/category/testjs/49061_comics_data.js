@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49061,
+    "title": "[Xidaidai 习呆呆] Ayaka Kamisato with GIF (Genshin Impact) [Decensored] - Page 1",
+    "sourceUrl": "https://telegra.ph/Xidaidai-习呆呆-Ayaka-Kamisato-with-GIF-Genshin-Impact-Decensored---Page-1-01-09",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCSFnfyl45bKty0mABuud2QRH6plT2wACaBkAAkQv-Ve3JJxEhCewozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCSNnfyl7XlLQPqYoygPi_-S72VMC3wACahkAAkQv-VdwLuVCCu-pkjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCSVnfyl-FEd_aa-Ou1t8hsSmgvZCLwACbBkAAkQv-Vcl94yCTsOy2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCShnfymBoaSjO5zUZTfLtNVwitdrggACbxkAAkQv-VdtMLRNjpDONTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCSpnfymEXlo6o-PdVlokm9uyyPpvFAACcRkAAkQv-VcmCpL0vVb5YTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCSxnfymMRE0h-n1t8_AZk3UtUALxOQACcxkAAkQv-Vfzo-LdcTIKBjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCS5nfymOB7RyogdxO72Z9_HsOzb-8AACdRkAAkQv-VcM0tzgC0cgaTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCUdnfyoq5MRj2JTtmiagjObu18povwACjxkAAkQv-Ve989k9HSY0czYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCUlnfyo18_HZ1rvsvp7UpwqbMEwSpAACkRkAAkQv-VeZAs5ybyh4DTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCUtnfyo6hltrs1zFH1hly9GFPGWgZwACkxkAAkQv-Veut7WkgIcx6DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCU5nfyo9Y2wqCV8CzDczq42xU0m_WgAClxkAAkQv-VeL01R80p86FzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVBnfypGTXnPGq6ll1cjByuvanK-RgACmRkAAkQv-VdYNrFkc27U4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVJnfypIBfT_928vmCUgB8zGIagZoAACmxkAAkQv-Vd8ZpRfoGorajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVRnfyqQz9mNIuEprvSQ-haeTgQzFAACnxkAAkQv-VcE0MpHw0V5yTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVZnfyqUYe0w-JHMZNu7rzFSB30hKQACohkAAkQv-VccvVlfkBs7WjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVhnfyqWm-bzn64BE9vpO093lroiIAACpBkAAkQv-Vd9Qz8L9Jzv6jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCVpnfyqhs5v9XF-Y8O7jbULZ08qGcgACpxkAAkQv-VfhudAjLh58LTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCV1nfyqnVHf43LrELqGq8-UlmK_MlAACqhkAAkQv-VdtG6qhZmqmSzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCV9nfyqpzB6fAAGdRNACTOu_YMAHRvYAAqwZAAJEL_lXMM9dPhYsl6s2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCWFnfyqutjydBE9JA9MmCcwaIma28QACrhkAAkQv-VckevQWpRaKljYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCWRnfyqztAwqJJdnFcCglrjTwYzlFAACsRkAAkQv-VeXar2bXpi_4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCWdnfyq473nkx61tOPKcFcGN3tcniQACtRkAAkQv-Veo2tNR8h4gJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCWtnfyr-_Q92csHpD8fegRN9pc0zNwACwRkAAkQv-VfpvIStXMI-2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCW5nfysDsz-JdX66e4CCFbpyWgu3NQACxBkAAkQv-Vfj4hXRM2dSHjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDCXBnfysGCBg5mfUp9kdBDM8l8UHtrAACxhkAAkQv-Vdu3xHelVGNYzYE"
+    ]
+};

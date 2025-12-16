@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 31970,
+    "title": "Xero 유제로, [PURE MEDIA] Vol.043 누드 디지털화보 Set.02",
+    "sourceUrl": "https://telegra.ph/Xero-유제로-PURE-MEDIA-Vol043-누드-디지털화보-Set02-10-02",
+    "images": [
+        "https://telegra.ph/file/f87c61401a4f42269e58b.jpg",
+        "https://telegra.ph/file/4694a378e8106cac9da04.jpg",
+        "https://telegra.ph/file/1545c4fec46427f5612c3.jpg",
+        "https://telegra.ph/file/0ea3e09f431b2320bc76f.jpg",
+        "https://telegra.ph/file/a205b7c15de77db3e1d10.jpg",
+        "https://telegra.ph/file/ba10cbf5c54fdb72152b8.jpg",
+        "https://telegra.ph/file/89275bf04b3823dd35bf6.jpg",
+        "https://telegra.ph/file/efe9bb456fef35c837d91.jpg",
+        "https://telegra.ph/file/643d9b64410277101372f.jpg",
+        "https://telegra.ph/file/a9a5bfba9a76c223278cb.jpg",
+        "https://telegra.ph/file/d9eded965d3ba7ebfc39f.jpg",
+        "https://telegra.ph/file/d3079591178a5fbfde0ff.jpg",
+        "https://telegra.ph/file/04f35ccb23d595c9b989f.jpg",
+        "https://telegra.ph/file/ce33519672fa4c1795a6d.jpg",
+        "https://telegra.ph/file/c3b9a6e15d6d7b3421830.jpg",
+        "https://telegra.ph/file/c75122c73fbebd819f173.jpg",
+        "https://telegra.ph/file/5c6058d0d82b531edefe8.jpg",
+        "https://telegra.ph/file/38a6cf6fa3ff5647cc7a2.jpg",
+        "https://telegra.ph/file/6f93e71328c53fb4fbc46.jpg",
+        "https://telegra.ph/file/5ff8dfd3369d418511aa4.jpg",
+        "https://telegra.ph/file/455030e9bcc6aefbb95d1.jpg",
+        "https://telegra.ph/file/e8d542990004bc4501b55.jpg",
+        "https://telegra.ph/file/4bb0f981ccc06cc005a90.jpg",
+        "https://telegra.ph/file/bbf3962be0f3deceb9c1a.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

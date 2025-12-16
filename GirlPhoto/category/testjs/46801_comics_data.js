@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46801,
+    "title": "Csoer @柚木 [Vol16 しまかぜ] - Page 1",
+    "sourceUrl": "https://telegra.ph/Csoer-柚木-Vol16-しまかぜ---Page-1-02-03",
+    "images": [
+        "https://telegra.ph/file/dcc8dce9f7afc166f6db0.jpg",
+        "https://telegra.ph/file/9ff9b6a933a4387b09c29.jpg",
+        "https://telegra.ph/file/ad2cfbbd3b4ed042f9c51.jpg",
+        "https://telegra.ph/file/79fd29cf593042b51d419.jpg",
+        "https://telegra.ph/file/27c85de95f564546a6127.jpg",
+        "https://telegra.ph/file/8d45e4059a28f82955dd8.jpg",
+        "https://telegra.ph/file/73db64b4790d3c9053d59.jpg",
+        "https://telegra.ph/file/df44ffe30a3f07cae5e64.jpg",
+        "https://telegra.ph/file/14325d5a7baf8daf3d932.jpg",
+        "https://telegra.ph/file/01eb3c9c1a05c2d14b17c.jpg",
+        "https://telegra.ph/file/7236d6d14f47b72adc0c1.jpg",
+        "https://telegra.ph/file/965d5187d0a9aee69f4aa.jpg",
+        "https://telegra.ph/file/50e1b99715374c71e72d9.jpg",
+        "https://telegra.ph/file/e33958956763e6e63ec4f.jpg",
+        "https://telegra.ph/file/5705104a85bdc65f897ac.jpg",
+        "https://telegra.ph/file/b29896ff862f0dabf0eba.jpg",
+        "https://telegra.ph/file/6245a364d65939afa7835.jpg",
+        "https://telegra.ph/file/a6e0bff8b4fb10f640d3e.jpg",
+        "https://telegra.ph/file/1cdc3a05a147f5b41b8c9.jpg",
+        "https://telegra.ph/file/92f25387e6a6afd4fe30d.jpg",
+        "https://telegra.ph/file/045b86174089575ad3b77.jpg",
+        "https://telegra.ph/file/66427c960f3d228761674.jpg",
+        "https://telegra.ph/file/3296c1bb9f11d9c96b249.jpg",
+        "https://telegra.ph/file/dc363320753e4e33d995f.jpg"
+    ]
+};

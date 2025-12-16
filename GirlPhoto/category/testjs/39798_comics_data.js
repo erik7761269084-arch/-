@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39798,
+    "title": "一北亦北 - Zb-26 (Girls Frontline)",
+    "sourceUrl": "https://telegra.ph/一北亦北---Zb-26-Girls-Frontline-10-12",
+    "images": [
+        "https://telegra.ph/file/e445bc2d6bd261b4adc90.jpg",
+        "https://telegra.ph/file/55ec77f962b4dc2984250.jpg",
+        "https://telegra.ph/file/b37423af16210c84b3b68.jpg",
+        "https://telegra.ph/file/09d8edf083e3f878d97c1.jpg",
+        "https://telegra.ph/file/ed53b0d9a7543c6031b70.jpg",
+        "https://telegra.ph/file/4fc371c1ca557347bf7fa.jpg",
+        "https://telegra.ph/file/ae8e72e4c02f114128b46.jpg",
+        "https://telegra.ph/file/4ecd13e4e04761798055e.jpg",
+        "https://telegra.ph/file/d1aaf2dfa95d914babe84.jpg",
+        "https://telegra.ph/file/bc71aa472a9598f579e77.jpg",
+        "https://telegra.ph/file/10fc06ed157c9b87b0c41.jpg",
+        "https://telegra.ph/file/ff2b070ccff19421c6c9c.jpg",
+        "https://telegra.ph/file/207e05e667473302fbbd0.jpg",
+        "https://telegra.ph/file/c1eb4cf32d8c5c8d2c02e.jpg",
+        "https://telegra.ph/file/ae6bb38179f1ad9617e45.jpg",
+        "https://telegra.ph/file/41b010c2bb8cfda9608bc.jpg",
+        "https://telegra.ph/file/4bebc161e98b88a8d40b7.jpg",
+        "https://telegra.ph/file/9710001661e3ec59861f6.jpg",
+        "https://telegra.ph/file/36839ecd5f34203739f61.jpg",
+        "https://telegra.ph/file/c6b4c4fec831039e7c686.jpg",
+        "https://telegra.ph/file/f93b439e27c7295cdc8c3.jpg",
+        "https://telegra.ph/file/3116f9cfb62f019563c84.jpg",
+        "https://telegra.ph/file/4cb37e6db9b21aeb2261c.jpg",
+        "https://telegra.ph/file/5be731665db0263039850.jpg",
+        "https://telegra.ph/file/cc61a2d8e25b02a7fedc2.jpg"
+    ]
+};

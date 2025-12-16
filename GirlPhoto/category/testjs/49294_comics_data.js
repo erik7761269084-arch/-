@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 49294,
+    "title": "封疆疆 原神 久岐忍 - Page 1",
+    "sourceUrl": "https://telegra.ph/封疆疆-原神-久岐忍---Page-1-01-16",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoU9niVzFicj5Y3F1Z1893AJS-gUXKAAC-hsAAiysSFSzZEt5WnyNFDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVBniVzNl0UUZ1q_LFe-A_WOve_gywAC-xsAAiysSFRpymm_KohBvjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVFniVzRgyjOKBzOJIcRDuhemYQh1QAC_BsAAiysSFQvfkhX_aBZcjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVJniVzUegABhivx8ROLtsiVaN3Bq2EAAv0bAAIsrEhULDaCtTuE-ps2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVNniVzXdBZzs2Qlw45wYIqkLWeAyQAC_hsAAiysSFSNfbFFL8YLdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVRniVza4qrAec2VF0njaQvXIZX-jgAC_xsAAiysSFSBLBjPf1yNVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVVniVzdv8dkwR1saQ6tuFISGVHoJQADHAACLKxIVIkJ1HPhCFXONgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVZniVzhRjVJCdKYNS6aTd2SlKihZAACARwAAiysSFQ4DO-kKJV5jjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVdniVzkV7q4Jrt3E5g_ih3juuDnqAACAhwAAiysSFTzliEzvIg5WjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVhniVznWWw4KeDb-Si0PnmhcZL7ewACAxwAAiysSFSRQa58xZoUKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVlniVzpKNxFHJxIld3f2Zcpyw1zrQACBBwAAiysSFTwFBxqZsh2_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVpniVzy43jdrYL1DXbQx5ItRbCLjQACBRwAAiysSFSaOWdbJRlarzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVtniVz94y25MQuK20hgyHjxujcf1gACBhwAAiysSFRkwGFYPpX4iTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoVxniV0GuRWp25VOM5PfZ0ni0tXvLwACBxwAAiysSFTy1V_WdT9sIjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoV1niV0Wlf5HdA2rO1GTnS5jLJWaBgACCBwAAiysSFQXKax2KY6ZqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoV5niV0jUF3LRGTMWHP34qKkWicVzgACCRwAAiysSFRlp1zkLYPE4zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoV9niV0lVLpLffaka9MRbx16PQXD5QACChwAAiysSFQwtTgcyaNOPzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWBniV0nfXLUdBO3Nw3ZH6Am5B_D8AACCxwAAiysSFR9LaK4fxouIDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWFniV0rJOHw9Qiwp3YKNWW7Obnw9wACDBwAAiysSFR-iYqcaw2PpzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWJniV0udgFXGFgTsgyh-O9muR5uEwACDRwAAiysSFQGXHxDHlZUgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWNniV00n3fQ8D_gP6-M1hKEzyeCrAACDhwAAiysSFS7UU7D_xwkdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWRniV05PURNVWwb4OjdAAHa_LAxvgUAAg8cAAIsrEhUmpV7FQ-8vXE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWVniV08L0QeLOmEQ0QSTAj4QXHlMgACEBwAAiysSFTjaOi_2d8gmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWZniV0-uvpZa6wi3-iZrcyQtDCUGgACERwAAiysSFRV_sEfrzDIBDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWdniV1AffB73eBDyS3bHuP5MBq4ZgACEhwAAiysSFQh2H0wnGF5KTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDoWhniV1HjquGrPCbtKmAHLqvmrzt0QACExwAAiysSFQGs1vdI5N2ljYE"
+    ]
+};

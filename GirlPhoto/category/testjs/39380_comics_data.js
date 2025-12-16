@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39380,
+    "title": "Hane Ame - Kiara Vikini (Vtuber/Hololive)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Kiara-Vikini-VtuberHololive-07-15",
+    "images": [
+        "https://telegra.ph/file/412c63ff949bec6fca686.jpg",
+        "https://telegra.ph/file/ea5cbaf33dd3f057b1b57.jpg",
+        "https://telegra.ph/file/7b07444f374fa37eea87f.jpg",
+        "https://telegra.ph/file/d0f9414c359e47163ec97.jpg",
+        "https://telegra.ph/file/76e0e61a0e20e608c369b.jpg",
+        "https://telegra.ph/file/b94d9600bbd3b3756ba07.jpg",
+        "https://telegra.ph/file/44966a2be73cbcfc00ead.jpg",
+        "https://telegra.ph/file/65978c7d3d6dac2648435.jpg",
+        "https://telegra.ph/file/34b49d69f4b072d65a7f6.jpg",
+        "https://telegra.ph/file/24a1a733f3b1824010e19.jpg",
+        "https://telegra.ph/file/d0cef822de3175386be40.jpg",
+        "https://telegra.ph/file/1cd7b95a447288dcffb9c.jpg",
+        "https://telegra.ph/file/196be4ec8aa2d7ea0557d.jpg",
+        "https://telegra.ph/file/fcbf4685be4e674c02d11.jpg",
+        "https://telegra.ph/file/c9b26f3535a58ccdc7427.jpg",
+        "https://telegra.ph/file/27df9ab5a32ed875d2421.jpg",
+        "https://telegra.ph/file/a594963ab2f0a6d06b256.jpg",
+        "https://telegra.ph/file/9d6afcfab1b34bb8de7b6.jpg",
+        "https://telegra.ph/file/71c9dee636d6f281cb2c3.jpg",
+        "https://telegra.ph/file/176a6e12c04fb59099fd6.jpg",
+        "https://telegra.ph/file/4a9ea2b25270eb255aebf.jpg",
+        "https://telegra.ph/file/93f13e2ab117c4b7d35bb.jpg",
+        "https://telegra.ph/file/97a4ff6cc709dfe95b9d9.jpg",
+        "https://telegra.ph/file/3fdb5df9dfa99445c2100.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 40509,
+    "title": "PingPing - Tifa Dark Nurse (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/PingPing---Tifa-Dark-Nurse-Final-Fantasy-07-17",
+    "images": [
+        "https://telegra.ph/file/3f82f83c86b0730111660.jpg",
+        "https://telegra.ph/file/c0462dc3eefcf40a7303b.jpg",
+        "https://telegra.ph/file/232a4469dbdae2f832aaa.jpg",
+        "https://telegra.ph/file/ccad689c4ff59dce3db53.jpg",
+        "https://telegra.ph/file/80a0b06dbf339465423a8.jpg",
+        "https://telegra.ph/file/197f3fe394c2bf8d702fb.jpg",
+        "https://telegra.ph/file/69ad209709319816b83b1.jpg",
+        "https://telegra.ph/file/1be2b946a73e6d672f2f2.jpg",
+        "https://telegra.ph/file/86439c6c7648640e39216.jpg",
+        "https://telegra.ph/file/3f7bcdec6126aed6a040b.jpg",
+        "https://telegra.ph/file/d662e762ffa0745e5e3b3.jpg",
+        "https://telegra.ph/file/302ac11a3a962292049fa.jpg",
+        "https://telegra.ph/file/e973ad429402a94b821d5.jpg",
+        "https://telegra.ph/file/63040ac5582707c201871.jpg",
+        "https://telegra.ph/file/aed0774a96bf50c557849.jpg",
+        "https://telegra.ph/file/a158456e0b04b8ff106d3.jpg",
+        "https://telegra.ph/file/2110558db3a8d0c174259.jpg",
+        "https://telegra.ph/file/6f17fc408cf47ca957d57.jpg",
+        "https://telegra.ph/file/a7f212db94cd903abd11f.jpg",
+        "https://telegra.ph/file/1cc3e7b332c27071b4475.jpg",
+        "https://telegra.ph/file/194b88f0418df929734f3.jpg",
+        "https://telegra.ph/file/f29ffc1792a506785e8e2.jpg",
+        "https://telegra.ph/file/57762acbfda6819d89744.jpg"
+    ]
+};

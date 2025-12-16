@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 35761,
+    "title": "Remu Suzumori 涼森れむ, ヌード写真集 プレステージ出版 優艶Romantic Set.04",
+    "sourceUrl": "https://telegra.ph/Remu-Suzumori-涼森れむ-ヌード写真集-プレステージ出版-優艶Romantic-Set04-10-26",
+    "images": [
+        "https://telegra.ph/file/badc1241d07dce6794c00.jpg",
+        "https://telegra.ph/file/ea91d8819cc11452ac005.jpg",
+        "https://telegra.ph/file/5a5ca092797334c3f1300.jpg",
+        "https://telegra.ph/file/d18088d313c9872efa39e.jpg",
+        "https://telegra.ph/file/76e1b405e3756d1c4d1c7.jpg",
+        "https://telegra.ph/file/05ff177423c4c73851bfc.jpg",
+        "https://telegra.ph/file/342adc383962ff7457840.jpg",
+        "https://telegra.ph/file/249a63d8bc49389af9c89.jpg",
+        "https://telegra.ph/file/cefc049e3366afc9709b6.jpg",
+        "https://telegra.ph/file/f573d68bcb8913e989336.jpg",
+        "https://telegra.ph/file/67a9e22d267209866748b.jpg",
+        "https://telegra.ph/file/cfe0af42e6d8d996cc484.jpg",
+        "https://telegra.ph/file/37e4b77847bd4df414ea8.jpg",
+        "https://telegra.ph/file/0e13623a1aa59895c1c9e.jpg",
+        "https://telegra.ph/file/4444bc95d69706d31e6f1.jpg",
+        "https://telegra.ph/file/f9513b86bb7633876b141.jpg",
+        "https://telegra.ph/file/a1cbc38b883c355ba27e4.jpg",
+        "https://telegra.ph/file/0704c82f3b8da537822ba.jpg",
+        "https://telegra.ph/file/7d91ab1d4ec7da4ea8a2b.jpg",
+        "https://telegra.ph/file/a20c4396c50ffd737bc23.jpg",
+        "https://telegra.ph/file/f6f26083ac7ec11160264.jpg",
+        "https://telegra.ph/file/4cc393e082938a5cfb8ef.jpg",
+        "https://telegra.ph/file/8fddeaaae37ab176d9950.jpg"
+    ]
+};

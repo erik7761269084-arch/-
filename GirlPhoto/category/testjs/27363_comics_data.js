@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 27363,
+    "title": "[Cos]桜桃喵 - 海盐 [23P]",
+    "sourceUrl": "https://telegra.ph/Cos%E6%A1%9C%E6%A1%83%E5%96%B5---%E6%B5%B7%E7%9B%90-23P-11-11",
+    "images": [
+        "https://telegra.ph/file/22ce4a08d79ef6cd4a3d6.jpg",
+        "https://telegra.ph/file/06b34d6d3a885276d9280.jpg",
+        "https://telegra.ph/file/fd16bdfcd9227f3932e6f.jpg",
+        "https://telegra.ph/file/29451321d3f48317255a9.jpg",
+        "https://telegra.ph/file/72836ce61677ae09df83f.jpg",
+        "https://telegra.ph/file/7c19ce539f4a0e306751e.jpg",
+        "https://telegra.ph/file/74b7f5b8c94bc592baba5.jpg",
+        "https://telegra.ph/file/30275ab43ca1a4fa64b32.jpg",
+        "https://telegra.ph/file/b5606f40e181aaed8501b.jpg",
+        "https://telegra.ph/file/6740d57e89f346cc91e2b.jpg",
+        "https://telegra.ph/file/d280e7bab8cb5b9772316.jpg",
+        "https://telegra.ph/file/052d9575a60ba7a6d24e8.jpg",
+        "https://telegra.ph/file/16d52ca9a492feab56618.jpg",
+        "https://telegra.ph/file/ea60285307db7e7ec5e1d.jpg",
+        "https://telegra.ph/file/48601a73c7514028f021b.jpg",
+        "https://telegra.ph/file/1dc2e3ead3da80c13da67.jpg",
+        "https://telegra.ph/file/ee3a77fee1577f10f12c8.jpg",
+        "https://telegra.ph/file/3cf43ad93ae53bc49a79d.jpg",
+        "https://telegra.ph/file/2cef5b6197c745e3cecb8.jpg",
+        "https://telegra.ph/file/c531a0f2cbce01c465db2.jpg",
+        "https://telegra.ph/file/00236e063022044b1fb35.jpg",
+        "https://telegra.ph/file/1288537ff49cf5a109ddc.jpg",
+        "https://telegra.ph/file/d47a778377afce7debb8d.jpg"
+    ]
+};

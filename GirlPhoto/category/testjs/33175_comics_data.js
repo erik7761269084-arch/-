@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 33175,
+    "title": "Cosplay 星之迟迟 FGO 狮子王",
+    "sourceUrl": "https://telegra.ph/Cosplay-星之迟迟-FGO-狮子王-02-08",
+    "images": [
+        "https://telegra.ph/file/9a029b54edc18f6238731.jpg",
+        "https://telegra.ph/file/8813381c0196608b95ba8.jpg",
+        "https://telegra.ph/file/2eb31fa0ba2eefa3d59db.jpg",
+        "https://telegra.ph/file/e426da8b7bf7aab967c3d.jpg",
+        "https://telegra.ph/file/438017f847490c5cbb1b1.jpg",
+        "https://telegra.ph/file/3bddf671121484e673a79.jpg",
+        "https://telegra.ph/file/e92d7518e47de8457856b.jpg",
+        "https://telegra.ph/file/72ce0df0746615197ba98.jpg",
+        "https://telegra.ph/file/1315e23cd970c2ddc6e64.jpg",
+        "https://telegra.ph/file/b1a47e7aa4cd85f661c31.jpg",
+        "https://telegra.ph/file/70a5767c757bf2485dd1b.jpg",
+        "https://telegra.ph/file/e45fd44b4eba3bf320c7e.jpg",
+        "https://telegra.ph/file/1a1a144e856963de85e5a.jpg",
+        "https://telegra.ph/file/4a1e99f56d9c0410b8e61.jpg",
+        "https://telegra.ph/file/e17ec2fb50bbd010d7912.jpg",
+        "https://telegra.ph/file/eaf51167b561259cf2b79.jpg",
+        "https://telegra.ph/file/e54a9db4728f36b4cfcc5.jpg",
+        "https://telegra.ph/file/c236ee21825330be84e9a.jpg",
+        "https://telegra.ph/file/06666e29591fe40e9e1e8.jpg",
+        "https://telegra.ph/file/67dd48e7d1a653a617da3.jpg",
+        "https://telegra.ph/file/e6ce455a5e7812976b7d6.jpg",
+        "https://telegra.ph/file/a281eee4e86b706422665.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

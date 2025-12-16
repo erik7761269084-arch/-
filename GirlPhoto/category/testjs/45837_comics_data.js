@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45837,
+    "title": "【念念_D】叛逆的鲁鲁修 CC兔女郎+白精灵 - Page 1",
+    "sourceUrl": "https://telegra.ph/念念-D叛逆的鲁鲁修-CC兔女郎白精灵---Page-1-10-31",
+    "images": [
+        "https://telegra.ph/file/d58534cd747478f5328c2.jpg",
+        "https://telegra.ph/file/59aa90554d44ff1dba6a1.jpg",
+        "https://telegra.ph/file/1de053b29c459ee5ee936.jpg",
+        "https://telegra.ph/file/dba9180eebc2eab34e310.jpg",
+        "https://telegra.ph/file/696ff676ccbaddd058c21.jpg",
+        "https://telegra.ph/file/500c0ddb7c77de340ea33.jpg",
+        "https://telegra.ph/file/9cef2a2e9954a71c2485d.jpg",
+        "https://telegra.ph/file/61e49583826bbd4e02850.jpg",
+        "https://telegra.ph/file/38e90b47fbc6e988c1984.jpg",
+        "https://telegra.ph/file/c6a4e775b9caf0a6f0870.jpg",
+        "https://telegra.ph/file/6f02a7cd80058b2dfbede.jpg",
+        "https://telegra.ph/file/4ed91e063868e1a13027b.jpg",
+        "https://telegra.ph/file/8272368ce9ff8f59f0846.jpg",
+        "https://telegra.ph/file/3d275977d082bde104460.jpg",
+        "https://telegra.ph/file/2797c8beffd7e4dd1ba91.jpg",
+        "https://telegra.ph/file/fceec24de0ac28931de2b.jpg",
+        "https://telegra.ph/file/973a351278a22bd4cdaec.jpg",
+        "https://telegra.ph/file/123ab70c46bad07f6e857.jpg",
+        "https://telegra.ph/file/2ec2c019dfaf4ac4a2bed.jpg",
+        "https://telegra.ph/file/a84b94a24e9cdec42bf22.jpg",
+        "https://telegra.ph/file/364d0678f6e4967263d7f.jpg",
+        "https://telegra.ph/file/47698eb41c2617205e934.jpg",
+        "https://telegra.ph/file/c52f9698b2088378889a2.jpg",
+        "https://telegra.ph/file/627be86bcdc9ef7473fe3.jpg",
+        "https://telegra.ph/file/5432c1026052238e149c1.jpg"
+    ]
+};

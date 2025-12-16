@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 31574,
+    "title": "Cosplay 水淼Aqua 牛仔裤",
+    "sourceUrl": "https://telegra.ph/Cosplay-水淼Aqua-牛仔裤-08-16",
+    "images": [
+        "https://telegra.ph/file/a08671d78cec868fec98e.jpg",
+        "https://telegra.ph/file/32656923bc449f53c9358.jpg",
+        "https://telegra.ph/file/37e894da016289e296c24.jpg",
+        "https://telegra.ph/file/badc68919cf114193fbb2.jpg",
+        "https://telegra.ph/file/e927cb7c10d4a7080a7a5.jpg",
+        "https://telegra.ph/file/f2d44f0d73e066d887230.jpg",
+        "https://telegra.ph/file/e8ee00bf1dc73af9bb322.jpg",
+        "https://telegra.ph/file/0148eac2570d480f21d7a.jpg",
+        "https://telegra.ph/file/af119fed7883ce849f39c.jpg",
+        "https://telegra.ph/file/4255f3d1c23bf19c7eb7f.jpg",
+        "https://telegra.ph/file/c212aa6dfa1f74aabeda6.jpg",
+        "https://telegra.ph/file/11fbdb129c733985455d9.jpg",
+        "https://telegra.ph/file/75d87b5ebeae61984bc28.jpg",
+        "https://telegra.ph/file/ca476719fe8dfc311b454.jpg",
+        "https://telegra.ph/file/0ff6ae2915b6a84fb7438.jpg",
+        "https://telegra.ph/file/246f5b6f2b70c98d05fa9.jpg",
+        "https://telegra.ph/file/0e14a6c9af32565f5a311.jpg",
+        "https://telegra.ph/file/f3b6e934017ee5e1222f5.jpg",
+        "https://telegra.ph/file/e272b21870905f6571005.jpg",
+        "https://telegra.ph/file/e21df546f3ecda33704c4.jpg",
+        "https://telegra.ph/file/251f07a26a40bf3af003d.jpg",
+        "https://telegra.ph/file/ebe06ec531ab09cba5f2b.jpg",
+        "https://telegra.ph/file/19df99da1abcc3288c4f8.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 40773,
+    "title": "Neyrodesu - Kokomi (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Neyrodesu---Kokomi-Genshin-Impact-10-03",
+    "images": [
+        "https://telegra.ph/file/caefe019d03c9d81da61b.jpg",
+        "https://telegra.ph/file/09d1535bd5bebab402778.jpg",
+        "https://telegra.ph/file/d425f9d245559532283ea.jpg",
+        "https://telegra.ph/file/0ac9dadb9d67d93d71f3f.jpg",
+        "https://telegra.ph/file/e230c4df1564670e01aa8.jpg",
+        "https://telegra.ph/file/bea115c7be8dea5b21655.jpg",
+        "https://telegra.ph/file/6532c83574264b0996be7.jpg",
+        "https://telegra.ph/file/77dd0fe143ff2cb8a4b6d.jpg",
+        "https://telegra.ph/file/116751bfe56c75b9b7cc7.jpg",
+        "https://telegra.ph/file/c0b4cde4290a62fe77226.jpg",
+        "https://telegra.ph/file/985a36a088054df42e879.jpg",
+        "https://telegra.ph/file/1acf20a219762c13b2dce.jpg",
+        "https://telegra.ph/file/73b8db6edd144e043c012.jpg",
+        "https://telegra.ph/file/17598a44865d2d44b07ec.jpg",
+        "https://telegra.ph/file/dba0877168e7d46cd9296.jpg",
+        "https://telegra.ph/file/323b7b5cda88e1fddbe62.jpg",
+        "https://telegra.ph/file/d6403548687b2cd812bda.jpg",
+        "https://telegra.ph/file/a2abe22e028419c0422a5.jpg",
+        "https://telegra.ph/file/caf1ab44bad88b75aadde.jpg",
+        "https://telegra.ph/file/5714acb9220260e2c6cbd.jpg",
+        "https://telegra.ph/file/c0f294f2a366370512591.jpg",
+        "https://telegra.ph/file/66bf9ec3778a29e67bb51.jpg",
+        "https://telegra.ph/file/87e97c3b815cda8b986c7.jpg",
+        "https://telegra.ph/file/c62115f900ae9cc8b44f4.jpg"
+    ]
+};

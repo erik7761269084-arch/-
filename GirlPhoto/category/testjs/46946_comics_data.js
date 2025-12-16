@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46946,
+    "title": "Kitkat Cosplay 9 - Ahri - Page 1",
+    "sourceUrl": "https://telegra.ph/Kitkat-Cosplay-9---Ahri---Page-1-02-16",
+    "images": [
+        "https://telegra.ph/file/6cb9c8c7e5c31fecfed75.jpg",
+        "https://telegra.ph/file/f75251bc9866bf540f509.jpg",
+        "https://telegra.ph/file/3d0fa2778e5463f5b2291.jpg",
+        "https://telegra.ph/file/1ddcf2d412c609d3cd500.jpg",
+        "https://telegra.ph/file/f6cee3682bf7150995cda.jpg",
+        "https://telegra.ph/file/faa391baac87c85f4cd59.jpg",
+        "https://telegra.ph/file/b706e488b06518e485044.jpg",
+        "https://telegra.ph/file/9a32b9c03509bcee5ef63.jpg",
+        "https://telegra.ph/file/8f6e255fe4e1b471af401.jpg",
+        "https://telegra.ph/file/4380bd84858f4197c11c6.jpg",
+        "https://telegra.ph/file/f3e4da5ead1c5b128febc.jpg",
+        "https://telegra.ph/file/b2dde081d64b3f2bd704a.jpg",
+        "https://telegra.ph/file/9987e6dc78c9f6f63133b.jpg",
+        "https://telegra.ph/file/7d4dbd73cc4e1f26b4af1.jpg",
+        "https://telegra.ph/file/f28e2e073b941c49a4d96.jpg",
+        "https://telegra.ph/file/ea4138b85e8fb900f59cc.jpg",
+        "https://telegra.ph/file/6d6fe441942510475e940.jpg",
+        "https://telegra.ph/file/17b9de6751c76ba262b4b.jpg",
+        "https://telegra.ph/file/450fea3a54a916025e011.jpg",
+        "https://telegra.ph/file/699b6af0a99a697b70f39.jpg",
+        "https://telegra.ph/file/6ab1a77caf33422f067ad.jpg",
+        "https://telegra.ph/file/d8a0e78e21253f007634d.jpg",
+        "https://telegra.ph/file/8649df8ae72a3c827e47d.jpg",
+        "https://telegra.ph/file/45e1e96083e9648702d3e.jpg"
+    ]
+};

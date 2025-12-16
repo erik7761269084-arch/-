@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40136,
+    "title": "Queenie - Vermeil (Kinsou no Vermeil)",
+    "sourceUrl": "https://telegra.ph/Queenie---Vermeil-Kinsou-no-Vermeil-01-19",
+    "images": [
+        "https://telegra.ph/file/4fe60b873ea284836c191.jpg",
+        "https://telegra.ph/file/21d3f8062f1e0df62a8b5.jpg",
+        "https://telegra.ph/file/a4ea8fbc5c81a329270ed.jpg",
+        "https://telegra.ph/file/1d65a532d583e556da251.jpg",
+        "https://telegra.ph/file/fb40b28979031fb642a4e.jpg",
+        "https://telegra.ph/file/183b30100c1801e502532.jpg",
+        "https://telegra.ph/file/38918cdcb84023fe618cf.jpg",
+        "https://telegra.ph/file/64ee8ed5af4fa5d8e1fb0.jpg",
+        "https://telegra.ph/file/168938bbab02b18d6491c.jpg",
+        "https://telegra.ph/file/2733117f4ab4e76d5489d.jpg",
+        "https://telegra.ph/file/0e4f3c869633ef114dc79.jpg",
+        "https://telegra.ph/file/3802b2943a905a68b0b3d.jpg",
+        "https://telegra.ph/file/225518a4a61e8eb69911d.jpg",
+        "https://telegra.ph/file/ba1ab39e1533cd018a2c2.jpg",
+        "https://telegra.ph/file/d99a3e9398fbb9f3330ea.jpg",
+        "https://telegra.ph/file/67e42f5fbe090fbd091ec.jpg",
+        "https://telegra.ph/file/7c01e7f93ff875050780c.jpg",
+        "https://telegra.ph/file/430f66c5be80b08d995fe.jpg",
+        "https://telegra.ph/file/a187112b2b26a1fcdffb9.jpg",
+        "https://telegra.ph/file/919b34e34f7242e751b9e.jpg",
+        "https://telegra.ph/file/9763a1cb1fec43804351c.jpg",
+        "https://telegra.ph/file/10cfc461a018fdf2184ca.jpg",
+        "https://telegra.ph/file/701f7f60dfa6291ac7e0f.jpg",
+        "https://telegra.ph/file/8f6e47057e3e44a2944a2.jpg",
+        "https://telegra.ph/file/e24ed33cc260dade95565.jpg",
+        "https://telegra.ph/file/1441456646da3e16c5f70.jpg"
+    ]
+};

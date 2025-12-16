@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24485,
+    "title": "布丁大法-蜜桃、水着白丝、草莓和服[25P]",
+    "sourceUrl": "https://telegra.ph/%E5%B8%83%E4%B8%81%E5%A4%A7%E6%B3%95-%E8%9C%9C%E6%A1%83%E6%B0%B4%E7%9D%80%E7%99%BD%E4%B8%9D%E8%8D%89%E8%8E%93%E5%92%8C%E6%9C%8D-07-12",
+    "images": [
+        "https://telegra.ph/file/48da430084eb0b78572e2.jpg",
+        "https://telegra.ph/file/7dc0f2d6adacb40569a53.jpg",
+        "https://telegra.ph/file/ecae2e873e7473a5c3058.jpg",
+        "https://telegra.ph/file/cfa0f50b3129be5371ffb.jpg",
+        "https://telegra.ph/file/496f4360b81939eba6e1e.jpg",
+        "https://telegra.ph/file/5caf5bc576ea2b7a5af3b.jpg",
+        "https://telegra.ph/file/be5b118bbf9425b326ad9.jpg",
+        "https://telegra.ph/file/e04c8b6793bda326fb9d4.jpg",
+        "https://telegra.ph/file/9d811f928bfba6182ef17.jpg",
+        "https://telegra.ph/file/b20ebefa2c1ceccb1aef6.jpg",
+        "https://telegra.ph/file/d63c638cff8e2be0f277e.jpg",
+        "https://telegra.ph/file/32f3c325602c229da6257.jpg",
+        "https://telegra.ph/file/af95b06ad37c19b423538.jpg",
+        "https://telegra.ph/file/ae79fbd75107d2e212073.jpg",
+        "https://telegra.ph/file/06de8d9cd56b31fbd3e26.jpg",
+        "https://telegra.ph/file/51e2e4f3ddd5310016195.jpg",
+        "https://telegra.ph/file/764b3a86a1066dfcd3b5e.jpg",
+        "https://telegra.ph/file/e45894c6e58124a207aae.jpg",
+        "https://telegra.ph/file/5c7384e8fe98b6a4a9ea7.jpg",
+        "https://telegra.ph/file/ead3915a8ae6386606645.jpg",
+        "https://telegra.ph/file/d7fd4dd49f16b9bad02f2.jpg",
+        "https://telegra.ph/file/d864caa2c565f0c13684c.jpg",
+        "https://telegra.ph/file/da01a62a755c4d35fe37b.jpg",
+        "https://telegra.ph/file/103065eb31e9e19971f97.jpg",
+        "https://telegra.ph/file/ead7538dc3c4cf1e37fb5.jpg"
+    ]
+};

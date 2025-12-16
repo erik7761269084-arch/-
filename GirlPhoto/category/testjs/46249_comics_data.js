@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46249,
+    "title": "Kitkat Cosplay9 - Honoka - Page 1",
+    "sourceUrl": "https://telegra.ph/Kitkat-Cosplay9---Honoka---Page-1-12-10",
+    "images": [
+        "https://telegra.ph/file/eb7e93beb10b373a15ce2.jpg",
+        "https://telegra.ph/file/11b17842ef36afc774b7e.jpg",
+        "https://telegra.ph/file/bcbccade1ac9283e169ad.jpg",
+        "https://telegra.ph/file/2351c78005ff804917b6a.jpg",
+        "https://telegra.ph/file/44416233488bd5aae7dba.jpg",
+        "https://telegra.ph/file/53b83169d6ecbd0a1ff53.jpg",
+        "https://telegra.ph/file/682a5a9a4f6131ef3ca00.jpg",
+        "https://telegra.ph/file/5fd2eea55d8d5642cfb21.jpg",
+        "https://telegra.ph/file/1ee03bdafbe99a9ba6eb3.jpg",
+        "https://telegra.ph/file/33a374caf8f486286c1b5.jpg",
+        "https://telegra.ph/file/99821850c02e10b5aa9cd.jpg",
+        "https://telegra.ph/file/49dab8d5f32ef0b8770c3.jpg",
+        "https://telegra.ph/file/8bb617f28dc040246ad8f.jpg",
+        "https://telegra.ph/file/367defbd2eb1c96c61ae6.jpg",
+        "https://telegra.ph/file/74f69b9cec4107c1e0c78.jpg",
+        "https://telegra.ph/file/f696c31c12e04edc9f63a.jpg",
+        "https://telegra.ph/file/d10715bc35e60fd9a01ac.jpg",
+        "https://telegra.ph/file/821540924a904b5b43b97.jpg",
+        "https://telegra.ph/file/c754f8f55d5acd59d2b3b.jpg",
+        "https://telegra.ph/file/a0a3885c1f9a7aaa1887a.jpg",
+        "https://telegra.ph/file/5c4e5f1e15c68a4e4169c.jpg",
+        "https://telegra.ph/file/b27588c5ed651be548b5f.jpg",
+        "https://telegra.ph/file/fd8296a7537df29315177.jpg",
+        "https://telegra.ph/file/a1c9b77a92ce07b79ff12.jpg",
+        "https://telegra.ph/file/a1eb829815b1ddd72364a.jpg"
+    ]
+};

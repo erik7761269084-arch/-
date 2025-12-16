@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 27991,
+    "title": "雨波_HaneAme - NO.133 墨狄斯（Modeus）[26P-49MB]",
+    "sourceUrl": "https://telegra.ph/%E9%9B%A8%E6%B3%A2-HaneAme---NO133-%E5%A2%A8%E7%8B%84%E6%96%AFModeus26P-49MB-01-13",
+    "images": [
+        "https://telegra.ph/file/45bfcb3ecf010970016df.jpg",
+        "https://telegra.ph/file/6cc391a4aa090105ccd39.jpg",
+        "https://telegra.ph/file/3354d357d6003f3f9ffcf.jpg",
+        "https://telegra.ph/file/a81ca0f0196f142216bd8.jpg",
+        "https://telegra.ph/file/f6285d1a122b5e3b2462b.jpg",
+        "https://telegra.ph/file/f10a6803f233d7d2586dd.jpg",
+        "https://telegra.ph/file/1945ef26ade60bb5ff591.jpg",
+        "https://telegra.ph/file/04b90c7521b9ccfa05a50.jpg",
+        "https://telegra.ph/file/88a9878be6285bb81f522.jpg",
+        "https://telegra.ph/file/631b608b5e905d40fa493.jpg",
+        "https://telegra.ph/file/e74a9a18df6774082a629.jpg",
+        "https://telegra.ph/file/b9eaa1f7709999abb9255.jpg",
+        "https://telegra.ph/file/82776920c0c2aed1dd3ba.jpg",
+        "https://telegra.ph/file/d5b859ed7f27fcca257bd.jpg",
+        "https://telegra.ph/file/71a9258893bd3350789a8.jpg",
+        "https://telegra.ph/file/226f4dc3631e4ac105092.jpg",
+        "https://telegra.ph/file/2eeb9cc8db1d7dba5e2a4.jpg",
+        "https://telegra.ph/file/06983df4cea41209100db.jpg",
+        "https://telegra.ph/file/09352d95d172be327e8e9.jpg",
+        "https://telegra.ph/file/5a25030f23218b6f1825f.jpg",
+        "https://telegra.ph/file/07e10b7fcaa7e871848fd.jpg",
+        "https://telegra.ph/file/2e946cbbfe3ae35eeb07d.jpg",
+        "https://telegra.ph/file/d4a7c711671033177fa98.jpg",
+        "https://telegra.ph/file/3ef6b978a27f01adfb115.jpg",
+        "https://telegra.ph/file/13740fcb42c0898399339.jpg",
+        "https://telegra.ph/file/6e1f175982ab2cd7ad6b8.jpg"
+    ]
+};

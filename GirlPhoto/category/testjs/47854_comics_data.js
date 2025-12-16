@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47854,
+    "title": "Hana Bunny – Jeanne Alter - Page 1",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny--Jeanne-Alter---Page-1-05-09",
+    "images": [
+        "https://telegra.ph/file/96657b6a59ebb0e7cc3db.jpg",
+        "https://telegra.ph/file/fa7ae094c248f75710ada.jpg",
+        "https://telegra.ph/file/0069411e649ec69c77351.jpg",
+        "https://telegra.ph/file/77ba2b266e4c15f75f1d4.jpg",
+        "https://telegra.ph/file/fe8c8d9405d44430c1729.jpg",
+        "https://telegra.ph/file/5bc5e3d3b0a708ab22f76.jpg",
+        "https://telegra.ph/file/6ccce1618cf9fdad6e577.jpg",
+        "https://telegra.ph/file/f2119f8928a6ce4b1f314.jpg",
+        "https://telegra.ph/file/882dc759e9db7d5ea0c02.jpg",
+        "https://telegra.ph/file/477fec440bf4ff244b7d1.jpg",
+        "https://telegra.ph/file/187c81e3faac408f03685.jpg",
+        "https://telegra.ph/file/7afa21841634a291fa243.jpg",
+        "https://telegra.ph/file/e5711edebf5cb7db23d47.jpg",
+        "https://telegra.ph/file/9c85c5e658ccda4afaad2.jpg",
+        "https://telegra.ph/file/b2dd0f357b37b8968ea5d.jpg",
+        "https://telegra.ph/file/9ab3059aee7279d153c35.jpg",
+        "https://telegra.ph/file/299781671e4f9d363a0d3.jpg",
+        "https://telegra.ph/file/4dbb9f7e210dc951e3cdf.jpg",
+        "https://telegra.ph/file/9e560ca6ced8d1f25928f.jpg",
+        "https://telegra.ph/file/5111bb19f182114fbe712.jpg",
+        "https://telegra.ph/file/9677c4fccbeea33fbb3a0.jpg",
+        "https://telegra.ph/file/bfb3ed6b075cced826fc8.jpg",
+        "https://telegra.ph/file/bf85ec401a5ade507c47d.jpg",
+        "https://telegra.ph/file/70f4249e048d8ad7dc1c1.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 50143,
+    "title": "Potato Godzilla - Peach Bunny Girl - Page 1",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Peach-Bunny-Girl---Page-1-03-12",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-Nn0YCGb01229dL0a_yRoPSwS4ByAACjhYAAuYJkVanzJEiqwfY_zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-Rn0YCI8Kxp0vhHG5Lur_y1wPP5swACjxYAAuYJkVaNkJhSEJT0BjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-Vn0YCKUixQ5pXQOp2EO6nn1YcVUgACkBYAAuYJkVbjrvdSHXNi2TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-Zn0YCMUZGmBY8Xlvog2iBbMMKfGgACkRYAAuYJkVaH2xmxTjs1lDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-dn0YCO_SwO-eXaoBI0v0Ry16_yqQACkhYAAuYJkVbcoUdXYiDAzzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-hn0YCQLuH1JBJzV1UdrSG6zcpO-gACkxYAAuYJkVYQEgmpuAJhtjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-ln0YCRSGWzeFdZXRljZX_ng3yvjgAClBYAAuYJkVbps597GaaBQDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-pn0YCT4Rb-cY4eZnc429S2mq014QAClRYAAuYJkVbEJ_aVeWjS2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-tn0YCUlsDgbXJZkRmZ-ImruB_MxQAClhYAAuYJkVZ-dr13Dtn-HjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-xn0YCW8vfqoHjvedudo3FqfE4gMAAClxYAAuYJkVZegCSveAE6hzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-1n0YCYT3M1VWV3u45ezLRgdyvJHAACmBYAAuYJkVbYPOrLUHlD6TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-5n0YCaEonQX2ux0f9y6fE5H3G_2AACmRYAAuYJkVbmvKNvj5OYzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq-9n0YCcA_-O-eUxo5ELMOI0tP9wVgACmhYAAuYJkVZKmPBC6nDTvzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Bn0YCdEAaAV4sau8gk5fewYtI4WQACmxYAAuYJkVZfSq5cQ-wDXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Fn0YCfC58yDhASI2isKRtn04qongACnBYAAuYJkVacHmyvklG2UjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Jn0YChk8KEcySdLaTqVF6UkrB1dQACnRYAAuYJkVbdO6rnB_5GUDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Nn0YCiMNKJd3vC5pwEmRMUEYd1UgACnhYAAuYJkVaF81wQp47miTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Rn0YCknOlUiohPaFHwZ87NoUiu7AACnxYAAuYJkVYr7bSZObTlwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Vn0YClXLx6BcIk98tsanxwj_qMDQACoBYAAuYJkVYieAq2a6CV0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_Zn0YCnpPhOEZQ_y78RF0DnJWrZDwACoRYAAuYJkVZ68UPE14owmTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_dn0YDmYWQCIC1_Vp31AAHlOJ4KqPoAAqUWAALmCZFWCUSH4Z7DzcM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_hn0YDoOp3Sp2zmBBgPLFiDTTrwzAACphYAAuYJkVasLuQbrk4UZTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_ln0YDp85wvDfXzvC7c4WhZOQehmQACpxYAAuYJkVbjTruIZwET0zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_pn0YDrBsLdHms3OLzUjwnXSQd_zAACqBYAAuYJkVa158KvZ05FQTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHq_tn0YDtF9s0l7tuy2TGLeSKwCs6-wACqhYAAuYJkVYy_fl_lTEwOzYE"
+    ]
+};

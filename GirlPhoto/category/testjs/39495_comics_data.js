@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39495,
+    "title": "Choi Ji Yun - Ada Wong (Resident Evil)",
+    "sourceUrl": "https://telegra.ph/Choi-Ji-Yun---Ada-Wong-Resident-Evil-08-11",
+    "images": [
+        "https://telegra.ph/file/c6d3cb804146a6c9a771b.jpg",
+        "https://telegra.ph/file/c3e46c413111aaa4b1ab3.jpg",
+        "https://telegra.ph/file/26480f7972bf824ece244.jpg",
+        "https://telegra.ph/file/9272dc133f6112ffcf5ca.jpg",
+        "https://telegra.ph/file/cdc52a19e74750dd93393.jpg",
+        "https://telegra.ph/file/c01384dc3bb15c75cc725.jpg",
+        "https://telegra.ph/file/8200573b4b9e0b52781b7.jpg",
+        "https://telegra.ph/file/c578d37b398dcce3acf6d.jpg",
+        "https://telegra.ph/file/4dc5954418718946f201c.jpg",
+        "https://telegra.ph/file/b2ad9e8f6de13895feb51.jpg",
+        "https://telegra.ph/file/6f2fd670352916d28ac86.jpg",
+        "https://telegra.ph/file/1f75947a4e243d9a8190f.jpg",
+        "https://telegra.ph/file/de62275eac8a8b0287b8f.jpg",
+        "https://telegra.ph/file/fbe460e69c12c9dbd05a6.jpg",
+        "https://telegra.ph/file/37024cbb5b63da0523e2e.jpg",
+        "https://telegra.ph/file/6e900e4a3b1d2be9c9540.jpg",
+        "https://telegra.ph/file/6d143e79da551e5bd5618.jpg",
+        "https://telegra.ph/file/623dc1ebf0f55001b966a.jpg",
+        "https://telegra.ph/file/5dee77cd3ed2a6d219592.jpg",
+        "https://telegra.ph/file/534354d642df046f94610.jpg",
+        "https://telegra.ph/file/41ccb7322af8128d5d19f.jpg",
+        "https://telegra.ph/file/2eddc7686277866ccf104.jpg",
+        "https://telegra.ph/file/009d654efc2bad307e689.jpg",
+        "https://telegra.ph/file/e8f6a411ae00a03dabc5d.jpg"
+    ]
+};

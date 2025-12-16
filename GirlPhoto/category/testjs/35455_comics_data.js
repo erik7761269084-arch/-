@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 35455,
+    "title": "Leeesovely 쏘블리, Photobook &#8216;Alluring Lingerie&#8217;",
+    "sourceUrl": "https://telegra.ph/Leeesovely-쏘블리-Photobook-8216Alluring-Lingerie8217-09-25",
+    "images": [
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBv2fvaicyRy4UfOG6Lv2m2pIAAl3KMRtme4FT8E8LUYbJqDABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBlaCmXQS9AiqU5Qcqo4pxv3cAAlrKMRtme4FTbfjvWFAeyXABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBv97P03M2m094nLC7LfrXQakAAl7KMRtme4FTIqZvgljA6wABAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBvz0kzpxNvSuYyHhWqO9K1E0AAmHKMRtme4FT1deVrHEC_qQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBlYPcU6Oy-VRavkb4inUdtdwAAlvKMRtme4FTFa5zJSk4GDYBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBv2Grb5iR-bZAlQUb23DrPTIAAl_KMRtme4FTpYUjs46c1bQBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBlThOM-wZJudHBOjtXZgqHjwAAljKMRtme4FTujfOu4SQz0YBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBlYnekiY43uz56d6p5WM5514AAlzKMRtme4FTrUcvyBwLJZUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBldAncZNuOWzbufGNuv0-T8AAAlnKMRtme4FTB05FwgjDWYABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCBv7kNbu32f-m2UrKsnhM3vmwAAmDKMRtme4FTA4B5SRdUrCgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB07vhMDGKJ9N34YA5lgIhUIgAAmnKMRtme4FT2J1-kc_E9EABAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB07fIHciUQg2_OPlab7PKIpUAAmbKMRtme4FTwD5q8BxDEtgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB0xS5D5L0PWmBM1wdOEvgKLQAAmPKMRtme4FTp8NmMUGMlqgBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB0_XR0wb98M0fvxzdUK6QnyAAAmfKMRtme4FTqQrgXA8mnfoBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB2OwOWpGoU3iZQIHe_I59lDIAAmXKMRtme4FToeXQ_mQdUagBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB2A3epXZyKI6a7iSLJzDBjKgAAmvKMRtme4FTv6BXwKbNNo0BAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB0xcfjc-_jbk77xR8hRmPTTAAAmjKMRtme4FT0pEss3hHH0gBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB2AldzO-zKvqXz9Ekfu5HvxcAAmrKMRtme4FTLfnttm9hm5wBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB2Lzz2RFFxBVhE1JW16zfKRoAAmLKMRtme4FTApWNmrJ2DAEBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCB2ORh85LcRg92bd_K5tKlJ5cAAmTKMRtme4FTBmCyn3BqQ4kBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCAVpUxfGMLkre8qAoLV5V24IAAm7KMRtme4FTeMrycFZej1EBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCARXMHmC9JU9mdULobE0Kk5AAAnDKMRtme4FTXAMV4sBnhdUBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCAShhLq6Ar5KkWBYDz-aTab8AAnLKMRtme4FTMgMDnY2Jt-sBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCAa041sz8AAGQOI8FSW02dmJ2AAJxyjEbZnuBU_L9WjShSmyPAQADAgADdwADNgQ.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCBvd7S11GbRmZfC8uGajwk3IAAnPKMRtme4FTNqip4gmMj4EBAAMCAAN3AAM2BA.jpg",
+        "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvCCAXu0b914zXVLVJwOsGiFwWIAAm_KMRtme4FTvMZir3n9dTEBAAMCAAN3AAM2BA.jpg"
+    ]
+};

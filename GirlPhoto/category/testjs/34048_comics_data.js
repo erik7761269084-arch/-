@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34048,
+    "title": "Cosplay 萝莉Byoru Lucyna Kushinada",
+    "sourceUrl": "https://telegra.ph/Cosplay-萝莉Byoru-Lucyna-Kushinada-05-05",
+    "images": [
+        "https://telegra.ph/file/222affce3560eba1a3736.jpg",
+        "https://telegra.ph/file/8b57bd67494300c615432.jpg",
+        "https://telegra.ph/file/9824ba4542ba8f9fbc999.jpg",
+        "https://telegra.ph/file/2ceaec5ef02e1607f3a3a.jpg",
+        "https://telegra.ph/file/f11123c0bb33eba0f9dc3.jpg",
+        "https://telegra.ph/file/30a41bbe96ccd2a1656fb.jpg",
+        "https://telegra.ph/file/f6fa9b68c30906adfe399.jpg",
+        "https://telegra.ph/file/3a96d287981bd5f130c67.jpg",
+        "https://telegra.ph/file/cb899f1136315a5705c5c.jpg",
+        "https://telegra.ph/file/ecb3b9d3b8b5b6a64f0ba.jpg",
+        "https://telegra.ph/file/b45cd8d4c0d718b403a17.jpg",
+        "https://telegra.ph/file/6fde146117d8161fb3cc3.jpg",
+        "https://telegra.ph/file/2087ffc88cb3f75a713bf.jpg",
+        "https://telegra.ph/file/cbee1305959aee432607b.jpg",
+        "https://telegra.ph/file/151ddaf6799565f3f4140.jpg",
+        "https://telegra.ph/file/976f04d0b2a5257b8276d.jpg",
+        "https://telegra.ph/file/33c50176149520cc73f97.jpg",
+        "https://telegra.ph/file/a4305bfec7162368943db.jpg",
+        "https://telegra.ph/file/82cbc35f48324d8aca523.jpg",
+        "https://telegra.ph/file/b2e5be1733a284ddafc19.jpg",
+        "https://telegra.ph/file/c194d11b441f679ce17f4.jpg",
+        "https://telegra.ph/file/8f9db1147b8ceaec3d057.jpg",
+        "https://telegra.ph/file/5015074f75211883af502.jpg",
+        "https://telegra.ph/file/638142cc7fead3e2e5857.jpg",
+        "https://telegra.ph/file/7dcbeaac534a80b38886a.jpg"
+    ]
+};

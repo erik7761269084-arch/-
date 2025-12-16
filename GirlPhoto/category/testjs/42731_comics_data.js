@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42731,
+    "title": "是暖暖呀 NO.001 JK粉格 [25P-196MB]",
+    "sourceUrl": "https://telegra.ph/%E6%98%AF%E6%9A%96%E6%9A%96%E5%91%80-NO001-JK%E7%B2%89%E6%A0%BC-25P-196MB-06-15",
+    "images": [
+        "https://telegra.ph/file/b32c4e36b029259106826.jpg",
+        "https://telegra.ph/file/479530aefc13a10ada1be.jpg",
+        "https://telegra.ph/file/ea7c50c1ef48f72f058ae.jpg",
+        "https://telegra.ph/file/413e6f49e7204f45e974a.jpg",
+        "https://telegra.ph/file/0059dddce9455a00f995f.jpg",
+        "https://telegra.ph/file/bf88324b781982b9b0146.jpg",
+        "https://telegra.ph/file/0e563e695440ba319b36a.jpg",
+        "https://telegra.ph/file/6d63d698089626dd75acc.jpg",
+        "https://telegra.ph/file/dba31967f662a2feaaa92.jpg",
+        "https://telegra.ph/file/ca7e3d598dd6a78c13838.jpg",
+        "https://telegra.ph/file/06c99425143f571c83405.jpg",
+        "https://telegra.ph/file/a9d66ff174655abaa1c4d.jpg",
+        "https://telegra.ph/file/f1b420e9ec14b24ffdbab.jpg",
+        "https://telegra.ph/file/0caf89c6d14c998d9cf8d.jpg",
+        "https://telegra.ph/file/0a142e6048ed9275681f5.jpg",
+        "https://telegra.ph/file/e4be8ba76c46704d6bb12.jpg",
+        "https://telegra.ph/file/9fd73abfb05eee31745e8.jpg",
+        "https://telegra.ph/file/01610d2746bb0b6e0ddce.jpg",
+        "https://telegra.ph/file/39db048b0896528b145be.jpg",
+        "https://telegra.ph/file/ea1e500bbde0af7c9a5e0.jpg",
+        "https://telegra.ph/file/384552b000b14f8161f33.jpg",
+        "https://telegra.ph/file/dc8fc6845dce6d445f0ec.jpg",
+        "https://telegra.ph/file/7f9d6ec8c9aa381009269.jpg",
+        "https://telegra.ph/file/8bf4e8baf359b750e76b2.jpg",
+        "https://telegra.ph/file/a14ef5e67b76cc5deaf5c.jpg"
+    ]
+};

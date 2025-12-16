@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33716,
+    "title": "Aya 아야, [DJAWA] Tamed Wolfgirl 2nd Photobook",
+    "sourceUrl": "https://telegra.ph/Aya-아야-DJAWA-Tamed-Wolfgirl-2nd-Photobook-04-02",
+    "images": [
+        "https://telegra.ph/file/daba7410af000db0712f2.jpg",
+        "https://telegra.ph/file/cfaed75c7728232544f71.jpg",
+        "https://telegra.ph/file/142e4d11fb292c0baf9ef.jpg",
+        "https://telegra.ph/file/b230de86e1d1fdb52c896.jpg",
+        "https://telegra.ph/file/c3f4eb6da22e0dd379a7a.jpg",
+        "https://telegra.ph/file/5df95f242e8af05fd66e8.jpg",
+        "https://telegra.ph/file/8f23add37f009e9c54c62.jpg",
+        "https://telegra.ph/file/9de93f60a9be9245266b3.jpg",
+        "https://telegra.ph/file/fdb1024484015b6bb70c9.jpg",
+        "https://telegra.ph/file/ada562aa9f6b081332d3f.jpg",
+        "https://telegra.ph/file/2aedfc38afce5d9bd4d49.jpg",
+        "https://telegra.ph/file/e2de2a3f216438f006045.jpg",
+        "https://telegra.ph/file/7dfbe2c4db85844e303b3.jpg",
+        "https://telegra.ph/file/e6de6e18e7f3337d0d43e.jpg",
+        "https://telegra.ph/file/7ec8383832a89cb63f653.jpg",
+        "https://telegra.ph/file/af60a184c20adc13b12f5.jpg",
+        "https://telegra.ph/file/36a02456a476c3ec5137d.jpg",
+        "https://telegra.ph/file/77810bd2800953028864b.jpg",
+        "https://telegra.ph/file/af1a2e00e6126b8e6fb2e.jpg",
+        "https://telegra.ph/file/966b1da9eed9c14e36613.jpg",
+        "https://telegra.ph/file/4a633692c4274a2550724.jpg",
+        "https://telegra.ph/file/e8f7f0ff9f6a49ea540d8.jpg",
+        "https://telegra.ph/file/0050680e4597b92ab25a5.jpg",
+        "https://telegra.ph/file/139f0a47505383b62fb77.jpg",
+        "https://telegra.ph/file/ec07fa04295bafeb00d7d.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

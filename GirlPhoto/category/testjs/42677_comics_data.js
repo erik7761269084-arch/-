@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 42677,
+    "title": "玩具娜美妖姬-女警妹妹[26p2v1.9g]",
+    "sourceUrl": "https://telegra.ph/%E7%8E%A9%E5%85%B7%E5%A8%9C%E7%BE%8E%E5%A6%96%E5%A7%AC-%E5%A5%B3%E8%AD%A6%E5%A6%B9%E5%A6%B926p2v19g-06-11",
+    "images": [
+        "https://telegra.ph/file/bdb08577282e68891c8f0.jpg",
+        "https://telegra.ph/file/cadf9a6791644031e2af2.jpg",
+        "https://telegra.ph/file/6ae0ca167cdd5aee9a9b8.jpg",
+        "https://telegra.ph/file/98572a90c6c0f9f2076c1.jpg",
+        "https://telegra.ph/file/df6e20551475eef912177.jpg",
+        "https://telegra.ph/file/d361e1ce0c71b5deb25bd.jpg",
+        "https://telegra.ph/file/a269cedbfec71b58a2415.jpg",
+        "https://telegra.ph/file/f878ef20f9d160a01df5c.jpg",
+        "https://telegra.ph/file/0ee3d31ee200c20de232c.jpg",
+        "https://telegra.ph/file/c1f83a1f131c6fe9087e7.jpg",
+        "https://telegra.ph/file/71466a3ed2b2d94cf8824.jpg",
+        "https://telegra.ph/file/3817995f2add436f919bc.jpg",
+        "https://telegra.ph/file/e94a73274a36856a48aa2.jpg",
+        "https://telegra.ph/file/b96b3cd9cdd737b611b1e.jpg",
+        "https://telegra.ph/file/2d5e8be967e799bf0c7f5.jpg",
+        "https://telegra.ph/file/b356912c98bee6c612583.jpg",
+        "https://telegra.ph/file/19e95d2d168e1018f445a.jpg",
+        "https://telegra.ph/file/67b1356e0b33c78440fee.jpg",
+        "https://telegra.ph/file/5779bca1d30455b03dc6f.jpg",
+        "https://telegra.ph/file/9e86ad2bd2ef3a6440d62.jpg",
+        "https://telegra.ph/file/624ae6a61866f3898152c.jpg",
+        "https://telegra.ph/file/3c36cbd128bd47ebe1d08.jpg",
+        "https://telegra.ph/file/346d7ffc8b35578186e45.jpg",
+        "https://telegra.ph/file/34b44ed4eb0b960118594.jpg",
+        "https://telegra.ph/file/e2c2a780f08d3e16d4f7b.jpg",
+        "https://telegra.ph/file/09b4513b4e8ed8188ddd3.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 32369,
+    "title": "[一北亦北] Mash Kyrielight 玛修泳装",
+    "sourceUrl": "https://telegra.ph/一北亦北-Mash-Kyrielight-玛修泳装-11-14",
+    "images": [
+        "https://telegra.ph/file/6d55d657d4c67c6871022.jpg",
+        "https://telegra.ph/file/76d1ca33c04dd195e9e35.jpg",
+        "https://telegra.ph/file/bd7e87b57d35d58c5899a.jpg",
+        "https://telegra.ph/file/6b299b2f5ca57bab76cb6.jpg",
+        "https://telegra.ph/file/e714c0412cc2047020958.jpg",
+        "https://telegra.ph/file/4fc2b31f7e05252c07596.jpg",
+        "https://telegra.ph/file/d44edb236e14efea669b8.jpg",
+        "https://telegra.ph/file/427aa1ef192e96eb8bf48.jpg",
+        "https://telegra.ph/file/6a4e3bb234d4decabc809.jpg",
+        "https://telegra.ph/file/9dce1a57271ca4b2a8c2a.jpg",
+        "https://telegra.ph/file/0e00110fef2af8c3760ed.jpg",
+        "https://telegra.ph/file/141fa0cf440086ab39113.jpg",
+        "https://telegra.ph/file/1c4adae8fe71329a5dd59.jpg",
+        "https://telegra.ph/file/1bed2ca7504545e38d389.jpg",
+        "https://telegra.ph/file/2ee6432c51330a9a3ccbd.jpg",
+        "https://telegra.ph/file/d7af54552cdeaf64d453a.jpg",
+        "https://telegra.ph/file/89b8998d5b503238a34b3.jpg",
+        "https://telegra.ph/file/b26228defb7fe215509e7.jpg",
+        "https://telegra.ph/file/59bc9cb7a059ef947a81d.jpg",
+        "https://telegra.ph/file/f25dbb28399ce3f7b86e4.jpg",
+        "https://telegra.ph/file/5e5caab13de395645c0b6.jpg",
+        "https://telegra.ph/file/35c60bd7cf738a383e4cb.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

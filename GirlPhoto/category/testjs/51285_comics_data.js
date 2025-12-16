@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 51285,
+    "title": "布丁大法 - Page 1",
+    "sourceUrl": "https://telegra.ph/布丁大法---Page-1-11-21",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmZpIKgHtkEbmuryCdw1rbmm9i2ingAC_hsAAuAXCVWlARMVcmaq3jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmdpIKgK8FZBCbdN7y9S9gN9TDpvXAAC_xsAAuAXCVVXf2birt12uDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmhpIKgM1atokbxGs1_Sbd3IfDUqPAADHAAC4BcJVdD_jDzqKCXBNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmlpIKgOqBCuSotIiBxrZBQ3na58owACARwAAuAXCVWVvwzoXoAPxDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmppIKgQUr7NbJF2YH3sELIPbaSeOgACAhwAAuAXCVXJrIh3hCS6GzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmtpIKgRaUMfATv2PapqxbKJkkDZeQACAxwAAuAXCVXcpjWCrM7UgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxmxpIKgTXVkNeKaL6bBKWJNfwc5YGAACBBwAAuAXCVWQuStblYkpPzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxm1pIKgVpaChv_gh67sHjsv-zb-4JgACBRwAAuAXCVWkeuqLgymFRDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxm5pIKgXXo2-wFKrKfQKQLvCGBG5cAACBhwAAuAXCVXzdkr3vvWA7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxm9pIKgZapSN7sAlokT6QzHVcdCtfwACBxwAAuAXCVUOLqIx49luijYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnBpIKgbs3lmIqIyTJPdtyE_bTsanQACCBwAAuAXCVWlojP62vYQjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnFpIKgcTYJ32muikpo_XDpX9HZbBwACCRwAAuAXCVVJXSJNDefmDzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnJpIKgd36wNysUtu_Su9JZcEiGgMwACChwAAuAXCVU8eyOQzXTngjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnNpIKgfj-10fQe8PzqYhr9lyirf_AACCxwAAuAXCVWSsHK7lCdv0zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnRpIKghTQABoVao9FsNpVDx8kEYBzQAAgwcAALgFwlVDnGIix1jvX02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnVpIKgjb9fILoEu34TcbgV9-iY8HwACDRwAAuAXCVVX2wePxvPWqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnZpIKglxucBieZfgtS1HbeQ1ia90AACDhwAAuAXCVWWhiE23TXDXzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxndpIKgnxFDvwYIfIYYYjHPzTiaWjQACDxwAAuAXCVUWxMg2YqPLWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnhpIKgqUYqeIPIwocS2YPYiGhxKVAACEBwAAuAXCVUh8FdXAzyajzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnlpIKgs_9ai6dLyliLmTFJGRV-yigACERwAAuAXCVXHhXYG6HnDATYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnppIKguorWQBzSvsRlBKacwsjGYHAACEhwAAuAXCVVKnIC8JYMz0jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxntpIKgw1n_NmjbkUqYp9kEDcvvTuwACExwAAuAXCVUh1ByNqAjjXDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxnxpIKgx9ZHH5cJ2cTvCNCh7_K8M0AACFBwAAuAXCVWGrVQ4FSDcDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUxn5pIKh1R03TlZar9n_-C-LdPjUOvQACFxwAAuAXCVWewO8r8G0MMzYE"
+    ]
+};

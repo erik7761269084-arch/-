@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39911,
+    "title": "Fantasy Factory - Boobs Guardian",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory---Boobs-Guardian-11-22",
+    "images": [
+        "https://telegra.ph/file/9a0c6828bc65f13656811.jpg",
+        "https://telegra.ph/file/c62ec367d3949aa1b3f9d.jpg",
+        "https://telegra.ph/file/acb686ee8f2ea153eb945.jpg",
+        "https://telegra.ph/file/c17587a5d88cc30ffa443.jpg",
+        "https://telegra.ph/file/da1e8ed7bd00efb737a1e.jpg",
+        "https://telegra.ph/file/1c89954232e153106199d.jpg",
+        "https://telegra.ph/file/cece6f801a114b6524c35.jpg",
+        "https://telegra.ph/file/48243d27fc8f91f463457.jpg",
+        "https://telegra.ph/file/7c48575c67837bbd29b68.jpg",
+        "https://telegra.ph/file/fb71fbd58a3465e91dbce.jpg",
+        "https://telegra.ph/file/de718c7d092f575544639.jpg",
+        "https://telegra.ph/file/8926a0fbb6d87851fa487.jpg",
+        "https://telegra.ph/file/7227e767ed5b0860fdc5a.jpg",
+        "https://telegra.ph/file/25728820ba6e3f935dc99.jpg",
+        "https://telegra.ph/file/d68c7f5f1676bf9b303ab.jpg",
+        "https://telegra.ph/file/4c08bbc7f4314ad603c8a.jpg",
+        "https://telegra.ph/file/21c7bfbaa47d425dd1a9c.jpg",
+        "https://telegra.ph/file/0fc17ec6f33b704be7387.jpg",
+        "https://telegra.ph/file/35b7eb0a03993159d2344.jpg",
+        "https://telegra.ph/file/fd29b39ac41278a468ccd.jpg",
+        "https://telegra.ph/file/7cd9591e1dcc0ab387f6f.jpg",
+        "https://telegra.ph/file/f49a18506075c6e6d2175.jpg",
+        "https://telegra.ph/file/ebf0eb5c1f732be6e5a48.jpg"
+    ]
+};

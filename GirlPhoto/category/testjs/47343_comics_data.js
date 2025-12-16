@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 47343,
+    "title": "ShiroKitsune - Bunny 2B - Page 1",
+    "sourceUrl": "https://telegra.ph/ShiroKitsune---Bunny-2B---Page-1-03-23",
+    "images": [
+        "https://telegra.ph/file/fb2177541e8099a0aea18.jpg",
+        "https://telegra.ph/file/89ac473cf5014fde4edd8.jpg",
+        "https://telegra.ph/file/798492d270af76be43ab5.jpg",
+        "https://telegra.ph/file/1ecfb38cdabf3f9cd6d5b.jpg",
+        "https://telegra.ph/file/941c9f54e7a444112d6d5.jpg",
+        "https://telegra.ph/file/693d484e1129befa81c77.jpg",
+        "https://telegra.ph/file/d07614b40fc0872657133.jpg",
+        "https://telegra.ph/file/43729232f41fd9188bd0c.jpg",
+        "https://telegra.ph/file/008b30f6e7107665d75a4.jpg",
+        "https://telegra.ph/file/6a4eb4999f1819b9ea945.jpg",
+        "https://telegra.ph/file/1aec0a24646b55f712411.jpg",
+        "https://telegra.ph/file/19096bfc0d81227d7bfcb.jpg",
+        "https://telegra.ph/file/1cfc593df8de91dc10aed.jpg",
+        "https://telegra.ph/file/1e9d1a633855680ba4916.jpg",
+        "https://telegra.ph/file/46e25400e83a7ed5b5444.jpg",
+        "https://telegra.ph/file/d7f74cc7642ce205d189c.jpg",
+        "https://telegra.ph/file/1735bf9a6e0a7f4dd32a0.jpg",
+        "https://telegra.ph/file/52f3b045554e4e9cbf1b5.jpg",
+        "https://telegra.ph/file/7d2cec2b54da3cd29ff31.jpg",
+        "https://telegra.ph/file/12cb35daa0a56b18c01b3.jpg",
+        "https://telegra.ph/file/0af4f1776456d6c27ae0d.jpg",
+        "https://telegra.ph/file/a2468e80048a06afe48f1.jpg",
+        "https://telegra.ph/file/68aae1464227324c32067.jpg",
+        "https://telegra.ph/file/8076a8bbfa8da629e31ff.jpg",
+        "https://telegra.ph/file/f252ae07768e1a75c35a3.jpg",
+        "https://telegra.ph/file/99aa7042e8bd2c336c48f.jpg"
+    ]
+};

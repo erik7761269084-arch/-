@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 30969,
+    "title": "Cosplay G44不会受伤 碧蓝档案 美甘尼禄",
+    "sourceUrl": "https://telegra.ph/Cosplay-G44不会受伤-碧蓝档案-美甘尼禄-07-31",
+    "images": [
+        "https://telegra.ph/file/abec5747e92f9405af4b9.jpg",
+        "https://telegra.ph/file/425c284d46496cf18c5a5.jpg",
+        "https://telegra.ph/file/268f3abb538b8eaf54358.jpg",
+        "https://telegra.ph/file/1dec7217dd50c586b4a00.jpg",
+        "https://telegra.ph/file/0c183adcccac0772fc10f.jpg",
+        "https://telegra.ph/file/9f5fc39b4ee5ae0d5670c.jpg",
+        "https://telegra.ph/file/8aed00afc493c130580e6.jpg",
+        "https://telegra.ph/file/e9c258c37a83b9732a628.jpg",
+        "https://telegra.ph/file/a46968ab3bc5d47437a4f.jpg",
+        "https://telegra.ph/file/6b9f8bc0db7eb413ab71a.jpg",
+        "https://telegra.ph/file/79250f2787d29cd65bfb5.jpg",
+        "https://telegra.ph/file/bbc0821eec07f65bb3777.jpg",
+        "https://telegra.ph/file/fe97c4ac68d91449bbc50.jpg",
+        "https://telegra.ph/file/b6f5c09b75e7cc0632055.jpg",
+        "https://telegra.ph/file/e250c50bc7ab241bd9bba.jpg",
+        "https://telegra.ph/file/ed1a241962ffb0ded7690.jpg",
+        "https://telegra.ph/file/bcf9340ca213f0d265536.jpg",
+        "https://telegra.ph/file/1f0ef95d3fd0d32e79dac.jpg",
+        "https://telegra.ph/file/50409c456c7aced88320f.jpg",
+        "https://telegra.ph/file/62e1c78bbf837dcb25d6c.jpg",
+        "https://telegra.ph/file/92916699a238623b955dc.jpg",
+        "https://telegra.ph/file/c1f880d5846115957b695.jpg",
+        "https://telegra.ph/file/e48c543af47885222e159.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

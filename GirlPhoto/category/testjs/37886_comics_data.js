@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 37886,
+    "title": "Mikomin Hokina & Gumiho Arts - 2B Bunny (Nierautomata)",
+    "sourceUrl": "https://telegra.ph/Mikomin-Hokina--Gumiho-Arts---2B-Bunny-Nierautomata-06-18",
+    "images": [
+        "https://telegra.ph/file/726fb8d040111ec6463f5.jpg",
+        "https://telegra.ph/file/c7ef43952c0608a0c80f7.jpg",
+        "https://telegra.ph/file/bdac418909bdd7f48c662.jpg",
+        "https://telegra.ph/file/6524869e856a3458a198a.jpg",
+        "https://telegra.ph/file/10936c83f028ef0136fc7.jpg",
+        "https://telegra.ph/file/9451d0768e809109f9662.jpg",
+        "https://telegra.ph/file/5955165bc8d3d8720e42a.jpg",
+        "https://telegra.ph/file/6ed8146e264f94528afea.jpg",
+        "https://telegra.ph/file/5a8b5cc37243ecce332a8.jpg",
+        "https://telegra.ph/file/9d0975967be927b737fea.jpg",
+        "https://telegra.ph/file/35fd893438070442864f8.jpg",
+        "https://telegra.ph/file/2b1b600f615e4f2ba7f84.jpg",
+        "https://telegra.ph/file/7ed63af6439d0e37f8dd1.jpg",
+        "https://telegra.ph/file/b39b3e33cd47d22600780.jpg",
+        "https://telegra.ph/file/2c129408ef9b46e5f50c8.jpg",
+        "https://telegra.ph/file/f91e5ab39ec3c8f237986.jpg",
+        "https://telegra.ph/file/359c197bfc9d5686c4781.jpg",
+        "https://telegra.ph/file/bb84b4f1e2a410c53b9b6.jpg",
+        "https://telegra.ph/file/c759293741b04c9a10886.jpg",
+        "https://telegra.ph/file/ca3ce2a67c8caaa4fc126.jpg",
+        "https://telegra.ph/file/feee2110dcef8a6c4336e.jpg",
+        "https://telegra.ph/file/dc9f904894b46cd192858.jpg",
+        "https://telegra.ph/file/1d8e0bc25ffb0bd90b7b2.jpg",
+        "https://telegra.ph/file/2c0c9b3abc90f4bea8026.jpg",
+        "https://telegra.ph/file/b993269bddf95fd2de486.jpg",
+        "https://telegra.ph/file/28f791af165f2e8792112.jpg"
+    ]
+};

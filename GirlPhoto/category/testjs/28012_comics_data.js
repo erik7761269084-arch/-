@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 28012,
+    "title": "Cygnet Azur Lane cosplay by Hidori Rose",
+    "sourceUrl": "https://telegra.ph/Cygnet-Azur-Lane-cosplay-by-Hidori-Rose-06-05",
+    "images": [
+        "https://telegra.ph/file/38c079d3f49c1797723e8.jpg",
+        "https://telegra.ph/file/b704e15fb84fa9904c267.jpg",
+        "https://telegra.ph/file/b8d9bac2fe4117ac83010.jpg",
+        "https://telegra.ph/file/65bda7fa77806ba2bba54.jpg",
+        "https://telegra.ph/file/c3abfdc2a8bba21579b3c.jpg",
+        "https://telegra.ph/file/4d65bf9d2b746e4fe3632.jpg",
+        "https://telegra.ph/file/4d758bd507a8161545fe3.jpg",
+        "https://telegra.ph/file/ed308fcdee9d7675b428e.jpg",
+        "https://telegra.ph/file/c0f79c5c35487da71bdc4.jpg",
+        "https://telegra.ph/file/52a1d7ce9e25d82046e0d.jpg",
+        "https://telegra.ph/file/ee6a9eaa801b923f87ba4.jpg",
+        "https://telegra.ph/file/fd8d8fc8cabb9c3a0c5aa.jpg",
+        "https://telegra.ph/file/8e02ac6af80cf175ab031.jpg",
+        "https://telegra.ph/file/d6d25bd192b1454cc4e52.jpg",
+        "https://telegra.ph/file/00edf778aa6bb87a7b0ab.jpg",
+        "https://telegra.ph/file/1b511af3abdc08eb06965.jpg",
+        "https://telegra.ph/file/e03294141aa8046238905.jpg",
+        "https://telegra.ph/file/9c3b10beab564e9077a03.jpg",
+        "https://telegra.ph/file/8e9c64f3f3da0717675a2.jpg",
+        "https://telegra.ph/file/a2aa7691cbd6e9fe2fe50.jpg",
+        "https://telegra.ph/file/0d7810298f334826aeb09.jpg",
+        "https://telegra.ph/file/254f264ed6e395ad01d99.jpg",
+        "https://telegra.ph/file/a1b2e20b12b7242fbd774.jpg",
+        "https://telegra.ph/file/a64f1ac434cae5ceeb489.jpg"
+    ]
+};

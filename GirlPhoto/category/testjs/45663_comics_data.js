@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 45663,
+    "title": "Vinnegal Shuten - Page 1",
+    "sourceUrl": "https://telegra.ph/Vinnegal-Shuten---Page-1-10-14",
+    "images": [
+        "https://telegra.ph/file/1f765f366f0b667ad67b0.jpg",
+        "https://telegra.ph/file/7d9b8f543a613970cbc83.jpg",
+        "https://telegra.ph/file/7b7e44cc438147612af45.jpg",
+        "https://telegra.ph/file/5eaf22845ce79b996b456.jpg",
+        "https://telegra.ph/file/c6680dc0f8fc770a627ae.jpg",
+        "https://telegra.ph/file/ae17dd9a3ead18b50afc5.jpg",
+        "https://telegra.ph/file/fe602b17f8b9306c6f2f5.jpg",
+        "https://telegra.ph/file/a800d1f8581be4c4404c8.jpg",
+        "https://telegra.ph/file/e3a973d1db41a621e3e4a.jpg",
+        "https://telegra.ph/file/a22753728029d31b3ec1d.jpg",
+        "https://telegra.ph/file/e062d16ae76f98d84f50f.jpg",
+        "https://telegra.ph/file/9bae10e522c4a0b1a02df.jpg",
+        "https://telegra.ph/file/8541dafb42ed8663ea509.jpg",
+        "https://telegra.ph/file/ae837edfb3940def290cc.jpg",
+        "https://telegra.ph/file/722eb77fe8c8d687a2e48.jpg",
+        "https://telegra.ph/file/5e45c514d78a115f36b69.jpg",
+        "https://telegra.ph/file/4feeef79e7f22490ed546.jpg",
+        "https://telegra.ph/file/5b00ff1c67e0a7c1e34f2.jpg",
+        "https://telegra.ph/file/fcc1e9a4e7966069d7aed.jpg",
+        "https://telegra.ph/file/094d6aca15665f77bd8cf.jpg",
+        "https://telegra.ph/file/c93d26d7b7ae6f996aa0b.jpg",
+        "https://telegra.ph/file/45b9de298c4ba63fa0edf.jpg",
+        "https://telegra.ph/file/e939e2bc5aac86cdf7038.jpg",
+        "https://telegra.ph/file/0e44f85387fbe6153a01b.jpg",
+        "https://telegra.ph/file/f5235b888bb2d1bedf0f1.jpg"
+    ]
+};

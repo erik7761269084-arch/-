@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 43186,
+    "title": "喵小吉 - 曙光爵银龙 拟人",
+    "sourceUrl": "https://telegra.ph/%E5%96%B5%E5%B0%8F%E5%90%89---%E6%9B%99%E5%85%89%E7%88%B5%E9%93%B6%E9%BE%99-%E6%8B%9F%E4%BA%BA-09-01",
+    "images": [
+        "https://telegra.ph/file/6e5b3f3bcfaef9ba1ff7e.jpg",
+        "https://telegra.ph/file/196f1d371588d5363d9a4.jpg",
+        "https://telegra.ph/file/54020ec0c22c0ca0ef9d6.jpg",
+        "https://telegra.ph/file/12d7b67d199b244555392.jpg",
+        "https://telegra.ph/file/7b969ea0aa0e69a58e3d3.jpg",
+        "https://telegra.ph/file/e491387e6398e1823bf56.jpg",
+        "https://telegra.ph/file/9c852bcdf4a39d864863a.jpg",
+        "https://telegra.ph/file/b8c38eab254424d170639.jpg",
+        "https://telegra.ph/file/e8fd6da4c5787d4202223.jpg",
+        "https://telegra.ph/file/31f1e1cf0240b1471cc58.jpg",
+        "https://telegra.ph/file/23c57b0f80e238f8377ce.jpg",
+        "https://telegra.ph/file/ddaccb717134bf3ee4c21.jpg",
+        "https://telegra.ph/file/4cbb9f7d84802e75c9dfb.jpg",
+        "https://telegra.ph/file/7b942029acef6091ca3a4.jpg",
+        "https://telegra.ph/file/482025a4bc35aee06b810.jpg",
+        "https://telegra.ph/file/e056d4e1327fa8bec8963.jpg",
+        "https://telegra.ph/file/71f2de1fe6b37b88212ce.jpg",
+        "https://telegra.ph/file/cbb2efc3fd8809476487a.jpg",
+        "https://telegra.ph/file/268378b000b3acabd85af.jpg",
+        "https://telegra.ph/file/7639eb23abb01ffb4b5cc.jpg",
+        "https://telegra.ph/file/d37e08d1196bf3f5f624f.jpg",
+        "https://telegra.ph/file/fb743332ff7b51d3657e7.jpg",
+        "https://telegra.ph/file/2e713931ae59463be3c20.jpg",
+        "https://telegra.ph/file/0ae4e6a91a1ee368b6f86.jpg"
+    ]
+};

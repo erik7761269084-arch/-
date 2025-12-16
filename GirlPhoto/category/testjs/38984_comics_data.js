@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38984,
+    "title": "Azami - Noelle (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Azami---Noelle-Genshin-Impact-04-01",
+    "images": [
+        "https://telegra.ph/file/4a468fe93df5af0bd2ff1.jpg",
+        "https://telegra.ph/file/39542f06b307bc747c41d.jpg",
+        "https://telegra.ph/file/2e94cd0285c10ce11668d.jpg",
+        "https://telegra.ph/file/4885403f764266f77cb7e.jpg",
+        "https://telegra.ph/file/22827b24ec9f1228b6308.jpg",
+        "https://telegra.ph/file/9252fa8200879edfa4dad.jpg",
+        "https://telegra.ph/file/f2654bd1af9d6f6236690.jpg",
+        "https://telegra.ph/file/a96a3136f947b0cd354ec.jpg",
+        "https://telegra.ph/file/182558b0585bb23027d47.jpg",
+        "https://telegra.ph/file/74e409335c8dbb30dcaa4.jpg",
+        "https://telegra.ph/file/5651236c4013df6838de1.jpg",
+        "https://telegra.ph/file/07be09f4bc91838c8016c.jpg",
+        "https://telegra.ph/file/26c29a7e98fc0a01a203a.jpg",
+        "https://telegra.ph/file/278a7dca07880d96e8f26.jpg",
+        "https://telegra.ph/file/b53766e09bbc7c72d2e18.jpg",
+        "https://telegra.ph/file/086de289562292890fb89.jpg",
+        "https://telegra.ph/file/6c08e56072ce1a2af84c1.jpg",
+        "https://telegra.ph/file/dedc2933d0670d712c6e2.jpg",
+        "https://telegra.ph/file/d976ff940f5e736b528b4.jpg",
+        "https://telegra.ph/file/b320879832371dd069713.jpg",
+        "https://telegra.ph/file/9a1c55bdc3cff3cbe4ee3.jpg",
+        "https://telegra.ph/file/b979c3e063c44603a2f9f.jpg",
+        "https://telegra.ph/file/aca85bd15b3e9cb8bee38.jpg",
+        "https://telegra.ph/file/2b345c6291ae073f5ee42.jpg",
+        "https://telegra.ph/file/ddc065052a37f145d9e3d.jpg",
+        "https://telegra.ph/file/73ba5f901750bf74be031.jpg"
+    ]
+};

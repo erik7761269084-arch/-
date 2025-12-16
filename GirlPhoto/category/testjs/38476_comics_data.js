@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38476,
+    "title": "Hane Ame - Modeus (Random Cosplay)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Modeus-Random-Cosplay-11-13",
+    "images": [
+        "https://telegra.ph/file/18671a6705fc4aa3c4e08.jpg",
+        "https://telegra.ph/file/93d57d18977f990e37ab2.jpg",
+        "https://telegra.ph/file/2ef16ef9a0b36a1fe431d.jpg",
+        "https://telegra.ph/file/aaa2f5d7b605659e46a9e.jpg",
+        "https://telegra.ph/file/c30402aee70f993c77afb.jpg",
+        "https://telegra.ph/file/3a2c5c3c73378a590a811.jpg",
+        "https://telegra.ph/file/5b6790064648554eabf90.jpg",
+        "https://telegra.ph/file/2c622732346ecd321830d.jpg",
+        "https://telegra.ph/file/6fb44447076b34b919a9a.jpg",
+        "https://telegra.ph/file/565bb551e26485778a7c0.jpg",
+        "https://telegra.ph/file/1d67ef93cb39065152704.jpg",
+        "https://telegra.ph/file/5e5aa1a8bf5720fd49c11.jpg",
+        "https://telegra.ph/file/c46feddf4702377950eff.jpg",
+        "https://telegra.ph/file/f5f16f177e396fba92d23.jpg",
+        "https://telegra.ph/file/cd99306ad4667d4d64490.jpg",
+        "https://telegra.ph/file/6c5aebcd7fe9ca1da4a36.jpg",
+        "https://telegra.ph/file/59d72c96b2958c15f5890.jpg",
+        "https://telegra.ph/file/6fd35f0a050bcabb33854.jpg",
+        "https://telegra.ph/file/d388b88d61cee824ad14d.jpg",
+        "https://telegra.ph/file/6ac32f4e79f327594a5bd.jpg",
+        "https://telegra.ph/file/a8c89a8b5410ed35f147e.jpg",
+        "https://telegra.ph/file/9fa93141a905e8712bbef.jpg",
+        "https://telegra.ph/file/32a429aa85186aba60b38.jpg",
+        "https://telegra.ph/file/3f7c5318cbab854439f82.jpg",
+        "https://telegra.ph/file/ac4f7789a73565e820f6d.jpg",
+        "https://telegra.ph/file/20a62728cb6899975d43c.jpg"
+    ]
+};

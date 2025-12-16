@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49855,
+    "title": "[半半子] ヨルハ二号B型 Cosplay (ニーア オートマタ) - Page 1",
+    "sourceUrl": "https://telegra.ph/半半子-ヨルハ二号B型-Cosplay-ニーア-オートマタ---Page-1-03-01",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkcVnwxz6Lc5nnmhvidjycEflYiVr8gACQhkAAkKvGFZZNrRdzdmr4TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkcZnwxz9wSLNn0evcanaCuIOlymmQwACQxkAAkKvGFaI1hf07jXEyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkcdnwx0H-eLGthtr4f3Q2I344nvxVwACRBkAAkKvGFbGB36JYiMrtDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkchnwx0JdqnJXVfQuPuaUej1KWODmAACRRkAAkKvGFYrBRzS3ioNXjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkclnwx0L9WGTVLincP8k0gR6kCrhowACRhkAAkKvGFbnrrW4Krs3szYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkcpnwx0NaVEVR3sfqggUzLx70OUENgACRxkAAkKvGFZ4aO-Ilqj1djYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkctnwx0QGXRKrBO4pOij00j4rdlYcAACSBkAAkKvGFbXmMyzWeMMLzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkcxnwx0SKokUKS1vCD0_Q95dNz96fgACSRkAAkKvGFYbEFO9BwZiMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkc1nwx0UW8oAAalw2el8Hk9yxcRv2ioAAkoZAAJCrxhWi1rV-_27pFQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkc5nwx0WHwtxCwzy2n4Ey_aCnVFqTwACSxkAAkKvGFYhlyN_6XSqLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkc9nwx0ZnjK05il2eP-7lB73xcyXuQACTBkAAkKvGFYdPG5Kp6fsYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdBnwx0aTlj8RjG_o_zBkT9LdJxBOAACTRkAAkKvGFZWsictMHJTETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdFnwx0cvm9flHRV8_ZlGVZG1rBRBgACThkAAkKvGFY-gXoVXJHEazYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdJnwx0eoNRy4v9HGwrgT_HlRT6JxQACTxkAAkKvGFbrxrxrvXOUHjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdNnwx0g-l3AAVK1GOL8Z1u7C_RMjgACUBkAAkKvGFaFvUhwM7Ux9zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdRnwx0i0M4DS5CIOYSpnwphEnYoKQACURkAAkKvGFZ7URpQELFM1zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdVnwx0kLFeSzvKBVeb72SQoAXjKbwACUhkAAkKvGFZzgRTJnQaIdjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdZnwx0lhGZcCjr_m4nJNWlPSIAfJwACUxkAAkKvGFZIDDzvdrzIWzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkddnwx0nwG0WuNA1D_2p4M5P-F5TSgACVBkAAkKvGFZfSgeFWtzWxjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdhnwx0pg_qBM6TFu8Yov-O17is6twACVRkAAkKvGFa42p46zKyBjDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdlnwx1oIw9V5-qHhkyUCq5-0mRUjQACVxkAAkKvGFZcqXq1a_BpmjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdpnwx1qLxuoIW7DsPgm8Ht2DJb-iAACWBkAAkKvGFYnGxIXAAGxruQ2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdtnwx1roDCxzKVe0QHikgg_kQ2heQACWRkAAkKvGFayCZclt_97cDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkdxnwx1tWBRdFT3zbu754uIQp8XflAACWhkAAkKvGFZxuExFZIzuCjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGkd1nwx1w7aoNczyANek408aQzepqwQACWxkAAkKvGFbEVnzjqE-dvDYE"
+    ]
+};

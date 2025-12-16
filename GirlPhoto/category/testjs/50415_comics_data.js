@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50415,
+    "title": "月色 (Yue Se)  Marie Rose - Dead or Alive - Page 1",
+    "sourceUrl": "https://telegra.ph/月色-Yue-Se-Marie-Rose---Dead-or-Alive---Page-1-05-11",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl7doIBpfn9O_s9NtLrDUm4rJldUL-AACGSAAAsoyAAFV_LZLU6prs4M2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl7loIBphUDyA5H0j0UCa06NsRKrLHgACGyAAAsoyAAFVOSXPs8lGjns2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl7toIBpjVwWhrr75IrdvTo249TlrMAACHSAAAsoyAAFVuUNcPkyHKK02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl71oIBpnE8ZRwQm_doUtjSs80bVcawACHyAAAsoyAAFV3NkoA9a9w-42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl79oIBppjg25ec9GswSOJraj8uHVVQACISAAAsoyAAFVaLMC5h3RR5Y2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8FoIBqncco2zBFBsdM_JEOjfU6pAQACIyAAAsoyAAFVJEEwxhKe_fA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8NoIBqpR2BOoFlfbne-IcZzOo9FEwACJSAAAsoyAAFVdNA2Mlb39hE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8RoIBqsFekKCqdgQtass0sbehid-gACJiAAAsoyAAFVZINPZPQIpog2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8ZoIBqtNWmob4BotBv2oPLWDXAnqAACKCAAAsoyAAFVUjsgU4MppRo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8hoIBqvFLLZRhIrNbq0zo0mIGO2wwACKiAAAsoyAAFVkkK9JmCaATM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8poIBqy26nl6Vzc_-6lj8cHBWwGDQACLCAAAsoyAAFVrC4dUtv37Hw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl8xoIBq0LUT0-zHOFA_tn6eIEM5jjgACLiAAAsoyAAFV12BKaXvUlu82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl85oIBq40f6YiqzLNLPg3h63hVYNaQACMCAAAsoyAAFV8rMjMlmGKbE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9BoIBq9dhQmNzu46IWTUEPpzf9LcQACMiAAAsoyAAFVFJ3k0RVg2nI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9JoIBq_m1WX8dfPzK2iDFJlbRgAAcgAAjQgAALKMgABVcifFI-P-vt6NgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9RoIBrA8k-4goFfDQgKn9Kj7P_gAwACNiAAAsoyAAFVdQgUfBppmxo2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9ZoIBr_mgU3EibTeEGVrTwFDjJV8gACOCAAAsoyAAFVyJJyekG1jVc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9doIBsAAQQJbkihuXmP7GVVFbnmb5MAAjkgAALKMgABVX6DSHapaxBGNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9loIBsCOBkTCSrH1F8efxkP9hacPAACOyAAAsoyAAFVRnzA3_RN8Lg2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl9toIBsGxMYsYnruVbi2W6Pq-IFs_QACPSAAAsoyAAFVfUVntFo3ksM2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl91oIBsHIzdHN6IBc1Vghp4Sl658dgACPyAAAsoyAAFV3bI8-LCJ_S42BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl99oIBsM7nM9f5yLdCGBUdnpEKSh-wACQSAAAsoyAAFV4aomVP_9fYc2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl-FoIBsOvlTP9r4FbDqWgR-Kt9u5gwACQyAAAsoyAAFV7oD-Owxssuw2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl-NoIBsPFNsIbSTW58GhDkBKPicLBwACRSAAAsoyAAFVIwuy88t1NRU2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl-VoIBsT4syRkVpp9kXv-iA5NlUPdQACRyAAAsoyAAFVRtBInKarCrI2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKl-doIBsVvMpyyGB-kXSc2QHukf116QACSSAAAsoyAAFVipHMn1skX4g2BA"
+    ]
+};

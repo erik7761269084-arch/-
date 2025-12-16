@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27257,
+    "title": "[Cos]一笑芳香沁 -忍者2B[25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E4%B8%80%E7%AC%91%E8%8A%B3%E9%A6%99%E6%B2%81--%E5%BF%8D%E8%80%852B25P-04-23",
+    "images": [
+        "https://telegra.ph/file/adfe9f5069124961c51b9.jpg",
+        "https://telegra.ph/file/2e235523499fbb40301aa.jpg",
+        "https://telegra.ph/file/6da61f78d7352a76cf354.jpg",
+        "https://telegra.ph/file/10c8c85ad1c1b97516a6a.jpg",
+        "https://telegra.ph/file/b31e405a6b63945fb180f.jpg",
+        "https://telegra.ph/file/c3c41d706ce3bdb667466.jpg",
+        "https://telegra.ph/file/d07964ad21b92f3630bde.jpg",
+        "https://telegra.ph/file/331d2b16ce70e8936d4b3.jpg",
+        "https://telegra.ph/file/00bfc9678cd324df72305.jpg",
+        "https://telegra.ph/file/125297cf2d08fe0543b8d.jpg",
+        "https://telegra.ph/file/96e65db6fa62414abdeb1.jpg",
+        "https://telegra.ph/file/b9279fc52bdaedef519d2.jpg",
+        "https://telegra.ph/file/fb582f47ed7151c744d8f.jpg",
+        "https://telegra.ph/file/ed5310e832088e1c5ce30.jpg",
+        "https://telegra.ph/file/21e0fe8e010d2eb8c4d42.jpg",
+        "https://telegra.ph/file/6dd7bc2f9c0955dbb2fc3.jpg",
+        "https://telegra.ph/file/e14fefd8a7accbaaa0eca.jpg",
+        "https://telegra.ph/file/16a8e59501e16492d78b0.jpg",
+        "https://telegra.ph/file/a71887f0c8e85ed79d5d8.jpg",
+        "https://telegra.ph/file/7ac495cc8bc97be5963eb.jpg",
+        "https://telegra.ph/file/8890c5f2fc2dc8e20ceca.jpg",
+        "https://telegra.ph/file/b1c1657124a6142eee90e.jpg",
+        "https://telegra.ph/file/e7eddc7f13fb2461faa37.jpg",
+        "https://telegra.ph/file/6aeab4e48fe245f987d8d.jpg",
+        "https://telegra.ph/file/619ce2e9f45fc284bdec1.jpg"
+    ]
+};

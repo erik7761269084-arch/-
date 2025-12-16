@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 42766,
+    "title": "玩具娜美-仓库偷窥女同事自慰[24p1v735mb]",
+    "sourceUrl": "https://telegra.ph/%E7%8E%A9%E5%85%B7%E5%A8%9C%E7%BE%8E-%E4%BB%93%E5%BA%93%E5%81%B7%E7%AA%A5%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%87%AA%E6%85%B024p1v735mb-06-17",
+    "images": [
+        "https://telegra.ph/file/a669a7a62a4c0400c80cb.jpg",
+        "https://telegra.ph/file/18c5a6d0b1a3cf1f1430c.jpg",
+        "https://telegra.ph/file/ae698784b873a0883e09e.jpg",
+        "https://telegra.ph/file/f1a16bdc9ece2a2408d95.jpg",
+        "https://telegra.ph/file/dacc9c81fb846c65d1447.jpg",
+        "https://telegra.ph/file/76df3e6f891d178a5cf39.jpg",
+        "https://telegra.ph/file/e4b9de5a12231efa5f8c5.jpg",
+        "https://telegra.ph/file/dd3065da6aa54187de7d8.jpg",
+        "https://telegra.ph/file/7416852687a377605ffb6.jpg",
+        "https://telegra.ph/file/399fe9236d8f42e4ba3d7.jpg",
+        "https://telegra.ph/file/6bb989521e4f590a6955f.jpg",
+        "https://telegra.ph/file/07bb5b6c9f317882aa02b.jpg",
+        "https://telegra.ph/file/0a9105d849268a173ad34.jpg",
+        "https://telegra.ph/file/dc829dc1e1c69156ccb44.jpg",
+        "https://telegra.ph/file/43e71d83b9be21380756c.jpg",
+        "https://telegra.ph/file/a27a121ca4a221edba561.jpg",
+        "https://telegra.ph/file/83abc2f435747a91b2f8f.jpg",
+        "https://telegra.ph/file/2136950effff2de401333.jpg",
+        "https://telegra.ph/file/5896199345685d9740c3d.jpg",
+        "https://telegra.ph/file/8efa3cc66fbb84ea329ad.jpg",
+        "https://telegra.ph/file/3271b9130d6bbec047937.jpg",
+        "https://telegra.ph/file/865b390f259b37e528aa1.jpg",
+        "https://telegra.ph/file/1b8131bb569576b6a8b5f.jpg",
+        "https://telegra.ph/file/64c2af5f8e5331a40eac7.jpg"
+    ]
+};

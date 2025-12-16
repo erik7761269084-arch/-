@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44491,
+    "title": "阿包 明日方舟 伊内斯芭蕾",
+    "sourceUrl": "https://telegra.ph/阿包-明日方舟-伊内斯芭蕾-11-28",
+    "images": [
+        "https://telegra.ph/file/0dc86dc1ba7bd88aa9f15.jpg",
+        "https://telegra.ph/file/2d45c101b940054b6c6df.jpg",
+        "https://telegra.ph/file/485f57c255b4b4e15a6d0.jpg",
+        "https://telegra.ph/file/22cd8ccbca08baeb00099.jpg",
+        "https://telegra.ph/file/2c4c90db335f0ef70e9ae.jpg",
+        "https://telegra.ph/file/d522f47ced1caa7e2604d.jpg",
+        "https://telegra.ph/file/737d86838aa111dcc9c16.jpg",
+        "https://telegra.ph/file/f64028ee8ed0a37852512.jpg",
+        "https://telegra.ph/file/76fddfdc1e3bac59a8fb8.jpg",
+        "https://telegra.ph/file/8b6c2960b14426458f9dc.jpg",
+        "https://telegra.ph/file/2020cf399a86c4e8ce8c4.jpg",
+        "https://telegra.ph/file/2793c8d3f02b7dae0b2df.jpg",
+        "https://telegra.ph/file/afb2fb2d499faadd235c7.jpg",
+        "https://telegra.ph/file/7f07c0b6fed6b78cd5700.jpg",
+        "https://telegra.ph/file/0cc3d89a4f82e30895ad3.jpg",
+        "https://telegra.ph/file/516a1d6fa3434bb6b3f0a.jpg",
+        "https://telegra.ph/file/cc35013fbf78cc699a4db.jpg",
+        "https://telegra.ph/file/81166db49230f998cb60c.jpg",
+        "https://telegra.ph/file/c9bb4a6ed5849986f2cd2.jpg",
+        "https://telegra.ph/file/4a1d1f3178aaac6517580.jpg",
+        "https://telegra.ph/file/b23b59967866d8c265bc5.jpg",
+        "https://telegra.ph/file/1772b84bb5605113f149d.jpg",
+        "https://telegra.ph/file/4e3e0148f457a7114951b.jpg",
+        "https://telegra.ph/file/8eedb41f27d2632831365.jpg",
+        "https://telegra.ph/file/dcbb9366c1c070be9ca04.jpg"
+    ]
+};

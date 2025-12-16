@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 38054,
+    "title": "Hana Bunny - Boa Hancock Lencery (One Piece)",
+    "sourceUrl": "https://telegra.ph/Hana-Bunny---Boa-Hancock-Lencery-One-Piece-07-17",
+    "images": [
+        "https://telegra.ph/file/5606fc934541974242e00.jpg",
+        "https://telegra.ph/file/9a1512b5f276c1c4915d6.jpg",
+        "https://telegra.ph/file/b7a058f2c06f89749cca4.jpg",
+        "https://telegra.ph/file/7d445945279811259f826.jpg",
+        "https://telegra.ph/file/a63c001e804bf809316a4.jpg",
+        "https://telegra.ph/file/afa5f38a495e5ccc809bc.jpg",
+        "https://telegra.ph/file/8d0dd85345da41746ecf5.jpg",
+        "https://telegra.ph/file/4717481e712a5ea4c9466.jpg",
+        "https://telegra.ph/file/f63bdcf7fac822dda52d7.jpg",
+        "https://telegra.ph/file/06f11c1d8a590af8b1eb6.jpg",
+        "https://telegra.ph/file/bd57bd523ca9f81cdd10f.jpg",
+        "https://telegra.ph/file/c8faa256ffae45e5638ee.jpg",
+        "https://telegra.ph/file/6b27c3ebb85664d8d0c1a.jpg",
+        "https://telegra.ph/file/c5c6fa37bf81163477405.jpg",
+        "https://telegra.ph/file/e148e93e235b4c1d8ca15.jpg",
+        "https://telegra.ph/file/2f94c6179d0fa0f419098.jpg",
+        "https://telegra.ph/file/3404c046fd44c04f8aa6f.jpg",
+        "https://telegra.ph/file/b1cb95b1efd601aa20e8b.jpg",
+        "https://telegra.ph/file/fe64e2ca4aa8598e7b50d.jpg",
+        "https://telegra.ph/file/cb6757307e8dfee2be0f9.jpg",
+        "https://telegra.ph/file/1cb282b1cc37b345824e2.jpg",
+        "https://telegra.ph/file/8db783d3c06e23d53a795.jpg",
+        "https://telegra.ph/file/f06362a681e0500d6ae74.jpg",
+        "https://telegra.ph/file/7d15c1ca60e3a99dbddae.jpg"
+    ]
+};

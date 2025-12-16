@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38424,
+    "title": "Queenie Chuppy - Hatsune Miku Lingerie (Vocaloid)",
+    "sourceUrl": "https://telegra.ph/Queenie-Chuppy---Hatsune-Miku-Lingerie-Vocaloid-11-02",
+    "images": [
+        "https://telegra.ph/file/f6924eb5bc5e51aaca396.jpg",
+        "https://telegra.ph/file/ff62111f837c406929383.jpg",
+        "https://telegra.ph/file/a357b8d5c794895fb55ca.jpg",
+        "https://telegra.ph/file/2d29622ede4a5661bb52a.jpg",
+        "https://telegra.ph/file/aadb3ea5c0dfea005d3c1.jpg",
+        "https://telegra.ph/file/108177a13ece51b4fecc9.jpg",
+        "https://telegra.ph/file/cf710f79220c41a95af7c.jpg",
+        "https://telegra.ph/file/c768641013fe78b7b64f1.jpg",
+        "https://telegra.ph/file/08a6031c71c3ab61315ee.jpg",
+        "https://telegra.ph/file/1b2f544e6df03e1b85488.jpg",
+        "https://telegra.ph/file/da217f9f123fec45b3c9a.jpg",
+        "https://telegra.ph/file/9e4ddad49df6d59cd7900.jpg",
+        "https://telegra.ph/file/dc6b65fd666a9306b93de.jpg",
+        "https://telegra.ph/file/2e0cfee59a19d09e6a6e5.jpg",
+        "https://telegra.ph/file/7771add9741e1425042d8.jpg",
+        "https://telegra.ph/file/b8219bc95308f962aa78e.jpg",
+        "https://telegra.ph/file/4da034de28768613925e7.jpg",
+        "https://telegra.ph/file/c7b8a6e601b0dcbb661c3.jpg",
+        "https://telegra.ph/file/6b6c78e2391c2abe12448.jpg",
+        "https://telegra.ph/file/808acbebaaeb50542f7ad.jpg",
+        "https://telegra.ph/file/0a07487e0e045f4b1a925.jpg",
+        "https://telegra.ph/file/880a40abbdbcf6b753513.jpg",
+        "https://telegra.ph/file/7f347f14c428921a8eaef.jpg",
+        "https://telegra.ph/file/b67dfd968be2c1ea92a52.jpg",
+        "https://telegra.ph/file/f61f34646f6ffa74a394a.jpg"
+    ]
+};

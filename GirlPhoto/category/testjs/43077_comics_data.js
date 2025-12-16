@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 43077,
+    "title": "KuukoW - Kobeni",
+    "sourceUrl": "https://telegra.ph/KuukoW---Kobeni-08-03",
+    "images": [
+        "https://telegra.ph/file/40cffe9367d9bec9cf809.jpg",
+        "https://telegra.ph/file/6f049b2bc2eb716941425.jpg",
+        "https://telegra.ph/file/09c3d104c97d4106a39b4.jpg",
+        "https://telegra.ph/file/9debd92ac28e829d4abf1.jpg",
+        "https://telegra.ph/file/6bb87a2721ad85ec154cf.jpg",
+        "https://telegra.ph/file/d74870f2cb5568b307b67.jpg",
+        "https://telegra.ph/file/e1b12f1513223d335dfdc.jpg",
+        "https://telegra.ph/file/4871b457e6e14871ae50b.jpg",
+        "https://telegra.ph/file/8eb340299d47554111957.jpg",
+        "https://telegra.ph/file/c7d2fe0256cbaee97b2e2.jpg",
+        "https://telegra.ph/file/b71cb0366ef42c3967631.jpg",
+        "https://telegra.ph/file/2b50a34d0601dcf206aac.jpg",
+        "https://telegra.ph/file/8b5a7a065fe46313a5d5a.jpg",
+        "https://telegra.ph/file/7fdb26ceb7b9afeed6d4c.jpg",
+        "https://telegra.ph/file/296d1fa996a8bd3ca3751.jpg",
+        "https://telegra.ph/file/cae39a98f72dbcec8d0da.jpg",
+        "https://telegra.ph/file/7c34e8de8a292e6c1eabc.jpg",
+        "https://telegra.ph/file/62b29bd90dfc2bc9726c8.jpg",
+        "https://telegra.ph/file/45379b99248d52a623d70.jpg",
+        "https://telegra.ph/file/f8846ef29da8e4d60b85e.jpg",
+        "https://telegra.ph/file/f91eb4371bcb3f7235369.jpg",
+        "https://telegra.ph/file/d9ab286f869acd93e5eff.jpg",
+        "https://telegra.ph/file/b2e6b68f030a2b5a786bb.jpg",
+        "https://telegra.ph/file/fdf0d28326d40e46304e4.jpg",
+        "https://telegra.ph/file/6d4424af1b3881bd04628.jpg",
+        "https://telegra.ph/file/00b5d74154386daf9549b.jpg"
+    ]
+};

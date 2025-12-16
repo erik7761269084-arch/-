@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44624,
+    "title": "Letícia Shirayuki - 雏田",
+    "sourceUrl": "https://telegra.ph/Letícia-Shirayuki---雏田-01-08",
+    "images": [
+        "https://telegra.ph/file/4f21ff653fa6b9fdf0106.jpg",
+        "https://telegra.ph/file/56219cd7d4b53625ba7e4.jpg",
+        "https://telegra.ph/file/c54b15e7790c573213659.jpg",
+        "https://telegra.ph/file/f42d33e15a6a228c014ae.jpg",
+        "https://telegra.ph/file/93014cf47f75fe4dcd207.jpg",
+        "https://telegra.ph/file/6c0758bfb34fc4b0d9768.jpg",
+        "https://telegra.ph/file/9c43e4b3321744475048c.jpg",
+        "https://telegra.ph/file/74fce1bb28c84e6c00401.jpg",
+        "https://telegra.ph/file/316f3879a7a7d1bf9af13.jpg",
+        "https://telegra.ph/file/554d53d2173d93513c041.jpg",
+        "https://telegra.ph/file/685a9adadab330da7d7fe.jpg",
+        "https://telegra.ph/file/aa77fefc5f319262bada5.jpg",
+        "https://telegra.ph/file/931fb4900b99fa6ca1b41.jpg",
+        "https://telegra.ph/file/d7f3b57aa18566f350f07.jpg",
+        "https://telegra.ph/file/3d4929031e20b70faf62d.jpg",
+        "https://telegra.ph/file/5aaa3a60ee869e7b07476.jpg",
+        "https://telegra.ph/file/a7d36cb80e41124f04bde.jpg",
+        "https://telegra.ph/file/6ae82ea00ebe5c72011f5.jpg",
+        "https://telegra.ph/file/b81048782d67c1e4cba93.jpg",
+        "https://telegra.ph/file/19da2e76cbae1b4971aaf.jpg",
+        "https://telegra.ph/file/3a859e8a783808978720f.jpg",
+        "https://telegra.ph/file/d53de4f6ce09ffe091bb1.jpg",
+        "https://telegra.ph/file/8b5538b6fd58e0544708b.jpg",
+        "https://telegra.ph/file/a0c1d17e507cdf2bb143c.jpg"
+    ]
+};

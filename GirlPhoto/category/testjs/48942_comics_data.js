@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48942,
+    "title": "Sousou no Frieren - Page 1",
+    "sourceUrl": "https://telegra.ph/Sousou-no-Frieren---Page-1-01-05",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtxhnek_N8XaVWvnAyBeYomXNAyVN2QAC6hYAAk4h0FdB9xjYkt-A0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtxlnek_QNJ1afTz28C2SxgdmUAI77gAC6xYAAk4h0FfRjZSImMp9ETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtxpnek_UCXcIcqwgboYpIA096sMsrQAC7BYAAk4h0FfKGXVQrpVMdTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtxtnek_Y5MLKSwlmhr733uaTJEDaPQAC7RYAAk4h0FfxdQ9Zxr5VwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtxxnek_bCIkBLVOF0Gqwz-KuwD086wAC7hYAAk4h0FdThsUZUV24_TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtx1nek_fCmfLbMOZXJoLydL3J0WQYQAC7xYAAk4h0FeD-7OoTabwJDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtx5nek_ibzWL-qF79-XmMN8CNvUniwAC8BYAAk4h0Fe-WTIm1_bkvjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtx9nek_ka6gb8YNqKlcmGSnoY54z0gAC8RYAAk4h0FfZFpqKSqDJlzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyBnek_oW1Ct-GK1l7bNIpf054T4pwAC8hYAAk4h0Fc4Wu9riEh3AzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyFnek_sVEUuljS1ghR01gkEwzY0nwAC8xYAAk4h0FfoIvEstS0TCDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyJnek_vnE4u_i_FTJMwka1DfRVHjQAC9BYAAk4h0Fc4ezvtA9P5-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyNnelACEzc6JVu2b-3zMRUg_5vmAAP1FgACTiHQV2alijJV0AytNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyRnelAEU4FyJ1u6K58lcoqdRPx97gAC9hYAAk4h0FeUe9abfo7RkTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyVnelAGmoyohReeXC4rC35H9t2yHwAC9xYAAk4h0Fcgqz2yJjeiuDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyZnelAKmoHFr8wuXjc2h07iICE9xwAC-BYAAk4h0FfpmT3ruQeiZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtydnelANXa-auFWEF24DlxBYbMnsSAAC-RYAAk4h0Ffiz4KmQ462FjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyhnelAQD5U_S8nJQYD-7kO0Ht3SLAAC-hYAAk4h0FcuJF1UVva5XDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtylnelASVwt9umV4FXKmoqLltRMykQAC-xYAAk4h0Fe36906zaj03DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtypnelAUkXvUhFdZVdu4d06DeWoz7QAC_BYAAk4h0FeWAAEOTBq3dps2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtytnelAWTiq_xdeEJGAwW4IabYI1QAAC_RYAAk4h0FfV6gQxysEm1DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECtyxnelAZBZrhy6C-gu3KXfuJl8zH_QAC_hYAAk4h0FfNQkQ0yjxxBzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECty1nelAdqiyC1OF0p7VSmXehEsG5dwAC_xYAAk4h0Fdpq0TbjKrf7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECty5nelAf9vQdiCbRttDONVJtmZzUnwADFwACTiHQV0EAAYvEh9aeWDYE"
+    ]
+};

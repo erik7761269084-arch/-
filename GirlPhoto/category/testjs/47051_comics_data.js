@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 47051,
+    "title": "[izumi泉桃子] 靡烟旗袍2B - Page 1",
+    "sourceUrl": "https://telegra.ph/izumi泉桃子-靡烟旗袍2B---Page-1-02-25",
+    "images": [
+        "https://telegra.ph/file/854f716eb7315c3b34c1f.jpg",
+        "https://telegra.ph/file/5a3108c7a385b640b9e01.jpg",
+        "https://telegra.ph/file/61f6b718e7a4d55b4928b.jpg",
+        "https://telegra.ph/file/49c7d6217eeed18c32c89.jpg",
+        "https://telegra.ph/file/8482a161523ed48e2e69b.jpg",
+        "https://telegra.ph/file/73c6abfa5f7e88ab7f566.jpg",
+        "https://telegra.ph/file/71942fd491c8ba66ef865.jpg",
+        "https://telegra.ph/file/84dae90f4edaddfc47886.jpg",
+        "https://telegra.ph/file/076ec07f4bbda469dfb0d.jpg",
+        "https://telegra.ph/file/31010e6b0d02bcc4502c3.jpg",
+        "https://telegra.ph/file/5e8d15f132cc29e47a4b1.jpg",
+        "https://telegra.ph/file/e82ac3a8238ad24cf159b.jpg",
+        "https://telegra.ph/file/ee826f6d6c65fe69cc858.jpg",
+        "https://telegra.ph/file/e19b92dbd8cca2afa8397.jpg",
+        "https://telegra.ph/file/990ff5f2087cc602052a4.jpg",
+        "https://telegra.ph/file/794a7f9f9837b25f50d4d.jpg",
+        "https://telegra.ph/file/30cbf24c3e289a300e0de.jpg",
+        "https://telegra.ph/file/40d0012ebf0f85231e175.jpg",
+        "https://telegra.ph/file/fdd07417afac28d346dee.jpg",
+        "https://telegra.ph/file/30fa012d7d602a19ada3b.jpg",
+        "https://telegra.ph/file/f33c6e62f6998e0303d1e.jpg",
+        "https://telegra.ph/file/f6cf00299c2f3a64c243b.jpg",
+        "https://telegra.ph/file/8554ead3a10aeab6e56ce.jpg",
+        "https://telegra.ph/file/4eee2d40dd7d98e4b9166.jpg"
+    ]
+};

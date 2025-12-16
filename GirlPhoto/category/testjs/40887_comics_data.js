@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40887,
+    "title": "Asagiri Ai - Guitar Sister",
+    "sourceUrl": "https://telegra.ph/Asagiri-Ai---Guitar-Sister-11-06",
+    "images": [
+        "https://telegra.ph/file/78ed76286b23735575e5e.jpg",
+        "https://telegra.ph/file/cd8772b8a3c0de1255de8.jpg",
+        "https://telegra.ph/file/94c459af1e67133334f7c.jpg",
+        "https://telegra.ph/file/3d4e8ff61a75cf6e2d49a.jpg",
+        "https://telegra.ph/file/e791bad03a50a544ac46e.jpg",
+        "https://telegra.ph/file/10907ae466b4aa790a921.jpg",
+        "https://telegra.ph/file/161c693cf93df4e189366.jpg",
+        "https://telegra.ph/file/5ff9ca19d02d4963c05b4.jpg",
+        "https://telegra.ph/file/b357674d1bcba6f9b7ad6.jpg",
+        "https://telegra.ph/file/0f5cc5e1fd54fc54c2135.jpg",
+        "https://telegra.ph/file/9c27534ff8ae7dd07d6f1.jpg",
+        "https://telegra.ph/file/04b9d401c56c1290db61b.jpg",
+        "https://telegra.ph/file/3923180978c2ef4deee14.jpg",
+        "https://telegra.ph/file/2e3558fcbfcdf65ff2ce6.jpg",
+        "https://telegra.ph/file/e249b9e53d35c54e11d29.jpg",
+        "https://telegra.ph/file/a602533f20652b3f06b90.jpg",
+        "https://telegra.ph/file/e90ce944947728f014a6a.jpg",
+        "https://telegra.ph/file/cca5652d59b7bea1328f4.jpg",
+        "https://telegra.ph/file/ea32845893d9a76c58d92.jpg",
+        "https://telegra.ph/file/3d1f058c0c1710a765769.jpg",
+        "https://telegra.ph/file/e66304a5798cc2a9d0cbf.jpg",
+        "https://telegra.ph/file/59075e20faeae63204e78.jpg",
+        "https://telegra.ph/file/997b05f1c8b230a1c48f9.jpg",
+        "https://telegra.ph/file/c5d79893f0a56e6507ea3.jpg",
+        "https://telegra.ph/file/e940f758a05e16ae4065c.jpg",
+        "https://telegra.ph/file/28d276b63303c58629192.jpg"
+    ]
+};

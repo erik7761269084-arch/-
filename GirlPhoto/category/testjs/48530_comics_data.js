@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 48530,
+    "title": "Potato Godzilla - Kafka - Page 1",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla---Kafka---Page-1-08-04",
+    "images": [
+        "https://telegra.ph/file/3810371698bdc2e4d002d.jpg",
+        "https://telegra.ph/file/fa47088331b1f703ee43b.jpg",
+        "https://telegra.ph/file/e8675ab1e04569ee12442.jpg",
+        "https://telegra.ph/file/d24ece991ef48378a7d21.jpg",
+        "https://telegra.ph/file/42607fe4996d0aeb08b50.jpg",
+        "https://telegra.ph/file/7629314853d9dce0286b8.jpg",
+        "https://telegra.ph/file/4628afbb44a6fa23ef812.jpg",
+        "https://telegra.ph/file/6a0f02565815076f2a62d.jpg",
+        "https://telegra.ph/file/b0c068f98e815cdd6c8c8.jpg",
+        "https://telegra.ph/file/3c6480d7d6e02aae498fc.jpg",
+        "https://telegra.ph/file/60063486ca439c2842328.jpg",
+        "https://telegra.ph/file/f6caa1cd1449a5a69e2d8.jpg",
+        "https://telegra.ph/file/bd1c06e6519d02fc4d558.jpg",
+        "https://telegra.ph/file/8911c03fb2f7fa5f3d503.jpg",
+        "https://telegra.ph/file/e3a9511413ef0e02dcf09.jpg",
+        "https://telegra.ph/file/6497e2cff89efad925555.jpg",
+        "https://telegra.ph/file/9938a51c15b028ccb6530.jpg",
+        "https://telegra.ph/file/d9084dd5a3773d4b78151.jpg",
+        "https://telegra.ph/file/81b60c06ecede8c1d19b9.jpg",
+        "https://telegra.ph/file/0425178b48fc0cdff7c3d.jpg",
+        "https://telegra.ph/file/5cfceebadbdeed7bdff6f.jpg",
+        "https://telegra.ph/file/5b519aeb0fea749726fe9.jpg",
+        "https://telegra.ph/file/94be019ea0033818cb5b3.jpg",
+        "https://telegra.ph/file/cc26afb104f6020550a64.jpg",
+        "https://telegra.ph/file/ab6d5567d2ecea56b8ee3.jpg",
+        "https://telegra.ph/file/0ec20d9694998dde5b7e5.jpg"
+    ]
+};

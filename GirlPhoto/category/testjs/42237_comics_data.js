@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 42237,
+    "title": "Arty Huang - Firefly (HonkaiStar Rail)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-26-5",
+    "images": [
+        "https://i.ibb.co/Y7LMgNQb/Firefly-Honkai-Star-Rail-10-compress56.jpg",
+        "https://i.ibb.co/nsDkXNF0/Firefly-Honkai-Star-Rail-11-compress32.jpg",
+        "https://i.ibb.co/zDZRLqJ/Firefly-Honkai-Star-Rail-12-compress24.jpg",
+        "https://i.ibb.co/W43VYj17/Firefly-Honkai-Star-Rail-13-compress96.jpg",
+        "https://i.ibb.co/5xj9FQ9f/Firefly-Honkai-Star-Rail-14-compress72.jpg",
+        "https://i.ibb.co/G3tNfJBf/Firefly-Honkai-Star-Rail-15-compress90.jpg",
+        "https://i.ibb.co/sJCFt1DC/Firefly-Honkai-Star-Rail-16-compress66.jpg",
+        "https://i.ibb.co/C3LSNNSX/Firefly-Honkai-Star-Rail-17-compress54.jpg",
+        "https://i.ibb.co/gb3rwhCt/Firefly-Honkai-Star-Rail-18-compress65.jpg",
+        "https://i.ibb.co/b54WZTs1/Firefly-Honkai-Star-Rail-19-compress59.jpg",
+        "https://i.ibb.co/M5VY8BDN/Firefly-Honkai-Star-Rail-1-compress81.jpg",
+        "https://i.ibb.co/hJ869Q09/Firefly-Honkai-Star-Rail-20-compress94.jpg",
+        "https://i.ibb.co/bMs1H4BK/Firefly-Honkai-Star-Rail-21-compress19.jpg",
+        "https://i.ibb.co/Xf56Z2S0/Firefly-Honkai-Star-Rail-22-compress65.jpg",
+        "https://i.ibb.co/7tdSQwCS/Firefly-Honkai-Star-Rail-23-compress16.jpg",
+        "https://i.ibb.co/JgFgkyL/Firefly-Honkai-Star-Rail-2-compress79.jpg",
+        "https://i.ibb.co/xShxKHCz/Firefly-Honkai-Star-Rail-3-compress9.jpg",
+        "https://i.ibb.co/N23PXdr4/Firefly-Honkai-Star-Rail-4-compress46.jpg",
+        "https://i.ibb.co/60TNp9vD/Firefly-Honkai-Star-Rail-5-compress31.jpg",
+        "https://i.ibb.co/TBnrjkt9/Firefly-Honkai-Star-Rail-6-compress32.jpg",
+        "https://i.ibb.co/j9JQkXbm/Firefly-Honkai-Star-Rail-7-compress64.jpg",
+        "https://i.ibb.co/j9nH7Zq4/Firefly-Honkai-Star-Rail-8-compress80.jpg",
+        "https://i.ibb.co/N2Ym2yMR/Firefly-Honkai-Star-Rail-9-compress97.jpg"
+    ]
+};

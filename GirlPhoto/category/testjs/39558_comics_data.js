@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39558,
+    "title": "Byoru - Chiyo (Ane Naru Mono)",
+    "sourceUrl": "https://telegra.ph/Byoru---Chiyo-Ane-Naru-Mono-08-24",
+    "images": [
+        "https://telegra.ph/file/d506a3f1272dd50edef56.jpg",
+        "https://telegra.ph/file/a5b0670e2b6022957587a.jpg",
+        "https://telegra.ph/file/863e4179f9ee53bd541d0.jpg",
+        "https://telegra.ph/file/2a7390b3ba299a6ae0318.jpg",
+        "https://telegra.ph/file/3aae23ef8b4629e3cbaef.jpg",
+        "https://telegra.ph/file/52716d7ec589a46b3b2e9.jpg",
+        "https://telegra.ph/file/1ae6cfbb4cd2679584159.jpg",
+        "https://telegra.ph/file/ea11403749710bfe62a99.jpg",
+        "https://telegra.ph/file/5d221ec3c575ba6cd4a8d.jpg",
+        "https://telegra.ph/file/f83d5d02ff38dc4f26fd1.jpg",
+        "https://telegra.ph/file/be390842913d32fc0ad0f.jpg",
+        "https://telegra.ph/file/03305da956e904d81d914.jpg",
+        "https://telegra.ph/file/dc5d7e8283e1401a5ff02.jpg",
+        "https://telegra.ph/file/29a6ec4cf3bb621e6fec5.jpg",
+        "https://telegra.ph/file/05ccb1811f7394a78d17f.jpg",
+        "https://telegra.ph/file/45d3ad7cf856ef3117a65.jpg",
+        "https://telegra.ph/file/fe0e736d6444aa014fed8.jpg",
+        "https://telegra.ph/file/5bd0ab6b3b6640cc3c28f.jpg",
+        "https://telegra.ph/file/042fdd0b5e10cd73774fa.jpg",
+        "https://telegra.ph/file/93eb08849cd727a7567e4.jpg",
+        "https://telegra.ph/file/e63c672e9b0f97914b62f.jpg",
+        "https://telegra.ph/file/85960c990941f95288bd5.jpg",
+        "https://telegra.ph/file/8a280c2ae4feef483d355.jpg",
+        "https://telegra.ph/file/f618eb8d7780fd3c5a995.jpg",
+        "https://telegra.ph/file/4fc8e5d34354661c5e758.jpg"
+    ]
+};

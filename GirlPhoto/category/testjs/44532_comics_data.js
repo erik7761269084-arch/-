@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44532,
+    "title": "Byoru - Lucy",
+    "sourceUrl": "https://telegra.ph/Byoru---Lucy-12-09",
+    "images": [
+        "https://telegra.ph/file/ccfa236269ddc98bc0dc2.jpg",
+        "https://telegra.ph/file/4987769535a480bb4521e.jpg",
+        "https://telegra.ph/file/69da43dacf733bff76b39.jpg",
+        "https://telegra.ph/file/53fa465daac94d98bb533.jpg",
+        "https://telegra.ph/file/1c4be581d008726a57074.jpg",
+        "https://telegra.ph/file/ab062ccba78c6d1ceae0e.jpg",
+        "https://telegra.ph/file/bdfd5ba94e487975cb2d5.jpg",
+        "https://telegra.ph/file/009d596bf358ecb96c66b.jpg",
+        "https://telegra.ph/file/d52120bbb0893eed3b8e5.jpg",
+        "https://telegra.ph/file/4a424005693d2ec176b26.jpg",
+        "https://telegra.ph/file/f5b510bb18e84bb981429.jpg",
+        "https://telegra.ph/file/ffb9e2d78374192f49ed8.jpg",
+        "https://telegra.ph/file/c3a463c60cbbee2a1317a.jpg",
+        "https://telegra.ph/file/9ea2bb4e926662cda63a3.jpg",
+        "https://telegra.ph/file/ab20b2849df1b5c2156b7.jpg",
+        "https://telegra.ph/file/1633d64f1ac4c6c518920.jpg",
+        "https://telegra.ph/file/ea3d45ce2b4e7202b8a09.jpg",
+        "https://telegra.ph/file/587092f48b11eb4f28e4a.jpg",
+        "https://telegra.ph/file/c624923f0a0f3b9942df6.jpg",
+        "https://telegra.ph/file/bc1c3f4103290ca77e796.jpg",
+        "https://telegra.ph/file/752e170fd8e17821715f4.jpg",
+        "https://telegra.ph/file/78517207c881fed200194.jpg",
+        "https://telegra.ph/file/fcd98d414e9bb1549d2c7.jpg",
+        "https://telegra.ph/file/d9761f6ed539977ec3d21.jpg",
+        "https://telegra.ph/file/3e9676c5f8cc2d8c6c476.jpg"
+    ]
+};

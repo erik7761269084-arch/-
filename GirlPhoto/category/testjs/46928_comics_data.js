@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46928,
+    "title": "星之迟迟-马萨诸塞 - Page 1",
+    "sourceUrl": "https://telegra.ph/星之迟迟-马萨诸塞---Page-1-02-14",
+    "images": [
+        "https://telegra.ph/file/08ac95be572bc743e3f63.jpg",
+        "https://telegra.ph/file/e0fc6d095cc988bbedf85.jpg",
+        "https://telegra.ph/file/f6ad67c007d06bb07b25a.jpg",
+        "https://telegra.ph/file/f3b5c7af908f0051a8a16.jpg",
+        "https://telegra.ph/file/b5953e4e99c9a6567cb7b.jpg",
+        "https://telegra.ph/file/a32cc54086ca49f3ebd25.jpg",
+        "https://telegra.ph/file/030888143f4660828e007.jpg",
+        "https://telegra.ph/file/ccbb7df0e481528d772f0.jpg",
+        "https://telegra.ph/file/527d97aa3613213a8fbaa.jpg",
+        "https://telegra.ph/file/31572756ad99f01d007a1.jpg",
+        "https://telegra.ph/file/447a3ea5b3616219fce9a.jpg",
+        "https://telegra.ph/file/c34f2ed5f3c914014c749.jpg",
+        "https://telegra.ph/file/4b67a6d2cd4482a0c8c75.jpg",
+        "https://telegra.ph/file/ade79da1d9c0f438a2c80.jpg",
+        "https://telegra.ph/file/3e5e9744a0bfcb21baf5e.jpg",
+        "https://telegra.ph/file/f5e13d855e52d2074036e.jpg",
+        "https://telegra.ph/file/a7deb38c67102e1d503e4.jpg",
+        "https://telegra.ph/file/488c103f2d4ea500f1e36.jpg",
+        "https://telegra.ph/file/df1181bffe7b00b791e00.jpg",
+        "https://telegra.ph/file/2929b7c4a04883ae4f01c.jpg",
+        "https://telegra.ph/file/ffedd37019234d171f4b1.jpg",
+        "https://telegra.ph/file/f3441be132633a2664575.jpg",
+        "https://telegra.ph/file/045b6da764cd845a0fa45.jpg",
+        "https://telegra.ph/file/d5205d55852a744470c7c.jpg",
+        "https://telegra.ph/file/9b6a8ad091474dadece0a.jpg"
+    ]
+};

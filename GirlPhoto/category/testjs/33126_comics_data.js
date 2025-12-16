@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 33126,
+    "title": "[周叽是可爱兔兔] 玛修情人节 Shielder Mash Kyrielight",
+    "sourceUrl": "https://telegra.ph/周叽是可爱兔兔-玛修情人节-Shielder-Mash-Kyrielight-02-03",
+    "images": [
+        "https://telegra.ph/file/658a4480e0bd2fa1a5dd2.jpg",
+        "https://telegra.ph/file/b779e2b63c341013ff5a7.jpg",
+        "https://telegra.ph/file/3aede055847a8947035cf.jpg",
+        "https://telegra.ph/file/2f556c3bdca40389507fb.jpg",
+        "https://telegra.ph/file/de44ee959fdb3b905b764.jpg",
+        "https://telegra.ph/file/76b2aecd30a0bafc1f906.jpg",
+        "https://telegra.ph/file/d7feb2491ca39bef66046.jpg",
+        "https://telegra.ph/file/c1b97fe4cf70c7ff95f71.jpg",
+        "https://telegra.ph/file/be6284dbf0949ba8e3c5d.jpg",
+        "https://telegra.ph/file/97804bc1b00433e5ca3b5.jpg",
+        "https://telegra.ph/file/d57ca73c38165d926127a.jpg",
+        "https://telegra.ph/file/f9a454014889bcf2b73ce.jpg",
+        "https://telegra.ph/file/901c23c62f13c5f44498c.jpg",
+        "https://telegra.ph/file/ff52d982ecc6db481d482.jpg",
+        "https://telegra.ph/file/b00642529f54efd719d59.jpg",
+        "https://telegra.ph/file/2c8bb583ad859690b65f4.jpg",
+        "https://telegra.ph/file/3570827226a5fea50b50b.jpg",
+        "https://telegra.ph/file/5a2197351a22cfb994a44.jpg",
+        "https://telegra.ph/file/d67bca57dae76c4eb9e30.jpg",
+        "https://telegra.ph/file/ec3a77c676a21e871882b.jpg",
+        "https://telegra.ph/file/2d70b535cc4ffc4b0dd89.jpg",
+        "https://telegra.ph/file/dabc1709589061a7f9e83.jpg",
+        "https://telegra.ph/file/0866b8c9541eb0dbe42db.jpg",
+        "https://telegra.ph/file/066f3f36473c12af524df.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

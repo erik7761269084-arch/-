@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38703,
+    "title": "KuukoW - Eve Love Call (Original Character)",
+    "sourceUrl": "https://telegra.ph/KuukoW---Eve-Love-Call-Original-Character-01-07",
+    "images": [
+        "https://telegra.ph/file/bbe9c475341318a8fc924.jpg",
+        "https://telegra.ph/file/c3e64018ef1778f541052.jpg",
+        "https://telegra.ph/file/fc40d5ee047288e708a41.jpg",
+        "https://telegra.ph/file/135ed6187bf17966327bf.jpg",
+        "https://telegra.ph/file/3e29af438365d4b4cba8d.jpg",
+        "https://telegra.ph/file/ccb772a0d0300de152f3a.jpg",
+        "https://telegra.ph/file/ead3e18a0d34f44721253.jpg",
+        "https://telegra.ph/file/37a607a9f10dcc88d5dbd.jpg",
+        "https://telegra.ph/file/d441f765ed800d1a41266.jpg",
+        "https://telegra.ph/file/48bbd1540ca201fe01f94.jpg",
+        "https://telegra.ph/file/9df862b6d0a72a9373cb1.jpg",
+        "https://telegra.ph/file/85be61755c7bfcec224f9.jpg",
+        "https://telegra.ph/file/eb1a34e14661d8d95a912.jpg",
+        "https://telegra.ph/file/031f2500b2132188c98ec.jpg",
+        "https://telegra.ph/file/3907d2b16d02e557e4aad.jpg",
+        "https://telegra.ph/file/c2eb5de87e182d920a260.jpg",
+        "https://telegra.ph/file/509bf7290d9c0d1388686.jpg",
+        "https://telegra.ph/file/2793cde81643c53fbb102.jpg",
+        "https://telegra.ph/file/0707261ec127a07a1caa1.jpg",
+        "https://telegra.ph/file/1b8f12dfbcd0dc154c90b.jpg",
+        "https://telegra.ph/file/7a39f282c754e228986cd.jpg",
+        "https://telegra.ph/file/98d7e286cce54fccd503c.jpg",
+        "https://telegra.ph/file/8856ea2ed635c7c36203b.jpg",
+        "https://telegra.ph/file/5e2f15d94d1bcac552ed5.jpg",
+        "https://telegra.ph/file/a231a963e8bc70f189a45.jpg",
+        "https://telegra.ph/file/7fd60bad2d51b459e31f5.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 26852,
+    "title": "习呆呆-兔女郎[23P]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%A0%E5%91%86%E5%91%86-%E5%85%94%E5%A5%B3%E9%83%8E23P-09-20",
+    "images": [
+        "https://telegra.ph/file/23ce80acc48e098933f64.jpg",
+        "https://telegra.ph/file/802b8a8a9b02a69f44657.jpg",
+        "https://telegra.ph/file/92d405e1766ad97d03dda.jpg",
+        "https://telegra.ph/file/6c196c028c5ee9582ab34.jpg",
+        "https://telegra.ph/file/67159deeb3db974794159.jpg",
+        "https://telegra.ph/file/d9854fe88673c8ffd13e1.jpg",
+        "https://telegra.ph/file/328f350394fd93b8c6e6d.jpg",
+        "https://telegra.ph/file/7002a0dabcc925f3a33e6.jpg",
+        "https://telegra.ph/file/ab8542435acdc49c54fd4.jpg",
+        "https://telegra.ph/file/4cdca94f8e760174c2619.jpg",
+        "https://telegra.ph/file/446035e83d7442d1dddd2.jpg",
+        "https://telegra.ph/file/65108457218cd02b1549e.jpg",
+        "https://telegra.ph/file/be788282a1f5ec0979aec.jpg",
+        "https://telegra.ph/file/75d0906f7ab3b9ec2373e.jpg",
+        "https://telegra.ph/file/bb250dac47ff696662f5f.jpg",
+        "https://telegra.ph/file/ba3c7b5ec608f96e655ae.jpg",
+        "https://telegra.ph/file/b9b2b499a50286a198dec.jpg",
+        "https://telegra.ph/file/f9875280fe21e32802986.jpg",
+        "https://telegra.ph/file/e7090b622ff5ce10873bc.jpg",
+        "https://telegra.ph/file/8db3228cf48937d396348.jpg",
+        "https://telegra.ph/file/ff997cac54b2dbf50afa3.jpg",
+        "https://telegra.ph/file/9cdb68e44caa96a65a2b6.jpg",
+        "https://telegra.ph/file/36ff000ee54ea373e0e14.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 24756,
+    "title": "台湾JVID大尺度写真 掉掉vs蒂蒂の变态PARTY!!! 双头龙の插入!!!",
+    "sourceUrl": "https://telegra.ph/%E5%8F%B0%E6%B9%BEJVID%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%86%99%E7%9C%9F-%E6%8E%89%E6%8E%89vs%E8%92%82%E8%92%82%E3%81%AE%E5%8F%98%E6%80%81PARTY-%E5%8F%8C%E5%A4%B4%E9%BE%99%E3%81%AE%E6%8F%92%E5%85%A5-06-10",
+    "images": [
+        "https://telegra.ph/file/418a9273c35ae3c4a62dc.jpg",
+        "https://telegra.ph/file/422db8ce0f878ef929bf3.jpg",
+        "https://telegra.ph/file/1d1eef0441f236f60d822.jpg",
+        "https://telegra.ph/file/7f510656cccf407c6a292.jpg",
+        "https://telegra.ph/file/d4cf72f764913008fadec.jpg",
+        "https://telegra.ph/file/d87072bb76bf992ffd204.jpg",
+        "https://telegra.ph/file/56341beb43c63a8036330.jpg",
+        "https://telegra.ph/file/936c550c7b16c8ded2467.jpg",
+        "https://telegra.ph/file/bb880fe7f9bbfdca665a2.jpg",
+        "https://telegra.ph/file/73cab7e2c0b2d262821f0.jpg",
+        "https://telegra.ph/file/8fbf5ac01620fb991870a.jpg",
+        "https://telegra.ph/file/bb8866f329b5721f32609.jpg",
+        "https://telegra.ph/file/d8adc14040c97dff9aa30.jpg",
+        "https://telegra.ph/file/8bdca51bd3c614d86072c.jpg",
+        "https://telegra.ph/file/7abb9c1cab3e1ff2547b7.jpg",
+        "https://telegra.ph/file/011a28b31e6da2ccfe1ce.jpg",
+        "https://telegra.ph/file/4482f5dddb4c4e8317168.jpg",
+        "https://telegra.ph/file/ea215eb26be117e4ced3e.jpg",
+        "https://telegra.ph/file/4496e813cb417ec36d426.jpg",
+        "https://telegra.ph/file/c49dfab15b2249a144c03.jpg",
+        "https://telegra.ph/file/1998fb220e33789daeb4b.jpg",
+        "https://telegra.ph/file/13b8163779a000bb818f3.jpg",
+        "https://telegra.ph/file/94ebb758106ace83e8340.jpg",
+        "https://telegra.ph/file/182343660550fbf7b6d78.jpg",
+        "https://telegra.ph/file/4db306a343dc0af4ee09b.jpg"
+    ]
+};

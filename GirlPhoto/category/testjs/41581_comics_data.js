@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41581,
+    "title": "Hidori Rose - Uruha Rushia (Hololive)",
+    "sourceUrl": "https://telegra.ph/Hidori-Rose---Uruha-Rushia-Hololive-06-08",
+    "images": [
+        "https://telegra.ph/file/479e28d81fa79b80da8e7.jpg",
+        "https://telegra.ph/file/309d10b676291f5ff8c10.jpg",
+        "https://telegra.ph/file/deb8fe15b847f403300b6.jpg",
+        "https://telegra.ph/file/b22650df0f18e15abc214.jpg",
+        "https://telegra.ph/file/0f345fd87e99c3d1afa70.jpg",
+        "https://telegra.ph/file/7f265cae6ab3a374a09fd.jpg",
+        "https://telegra.ph/file/4762e1f5d260f9f02cc54.jpg",
+        "https://telegra.ph/file/776c92edb8358aea94193.jpg",
+        "https://telegra.ph/file/b270f31bb0aaa080ce034.jpg",
+        "https://telegra.ph/file/a09e54fe440c4e4222a27.jpg",
+        "https://telegra.ph/file/4ea4a1fa0d857d1571d77.jpg",
+        "https://telegra.ph/file/028282ce0a4c1d1d9c138.jpg",
+        "https://telegra.ph/file/cf67c5b16d79f99e028ed.jpg",
+        "https://telegra.ph/file/281c9b0dae34ec9b6bcc4.jpg",
+        "https://telegra.ph/file/6a61834ebcbd60884f5ba.jpg",
+        "https://telegra.ph/file/ca80cea899628e9060e38.jpg",
+        "https://telegra.ph/file/5b4f3e843d48bd6eea4fa.jpg",
+        "https://telegra.ph/file/3ce5a42e427f34c725046.jpg",
+        "https://telegra.ph/file/30af5431e75ed356acf1b.jpg",
+        "https://telegra.ph/file/be2cba730e12b6a02df1b.jpg",
+        "https://telegra.ph/file/a2ed91f5297076b0acd67.jpg",
+        "https://telegra.ph/file/7eb5245d2d21cec31d82e.jpg",
+        "https://telegra.ph/file/d527194b3367751adc605.jpg",
+        "https://telegra.ph/file/82b71786f40f340510a43.jpg",
+        "https://telegra.ph/file/6d40dfbad1b545fa8c719.jpg"
+    ]
+};

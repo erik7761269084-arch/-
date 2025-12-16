@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 50429,
+    "title": "Fantastic Nami - Soi Fon - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantastic-Nami---Soi-Fon---Page-1-05-11",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn21oINwPAqvpQv5TI_Tx7NbgyTOEewAC3BwAAsoyCFUp0d0zX1mL5jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn25oINwRYQwQC7GS6MB-h-BVVZmcQgAC3RwAAsoyCFVtyRUj4gdIlDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn29oINwS-JuWjz-T9DW08LlBTqB4gQAC3hwAAsoyCFXw56Op5qs4ETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3BoINwUlDe6SRKbBpg0h-MTBEkSQQAC3xwAAsoyCFXM3Gz5e15O-jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3FoINwV_hGBA1CLxxaMq7Ut1X5JHAAC4BwAAsoyCFXZtExV1GBMzTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3JoINwX80yQnhIjUP1vPzYrBlyZzAAC4RwAAsoyCFXS7DOaWbhREDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3NoINwYdKxqvQid9mJoBFNdARZnVQAC4hwAAsoyCFVYyxZZZHIjYDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3RoINwaU95OoXYJl0oT2iVeDYMdTQAC4xwAAsoyCFX7kjQbE6eOdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3VoINwcDeclEa8-20zxVPdC5x-78gAC5BwAAsoyCFUUcrQarHMAAU82BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3ZoINwd8qIPv_lYC3GuTUZJ-4_ghQAC5RwAAsoyCFVYs48s77spMDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3doINwfY9iE43fd_rzxtViHLc_mYAAC5hwAAsoyCFU8GexGohuHiDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3hoINwgiraOmDuRSLUR2cCg0bkD9gAC5xwAAsoyCFVRVkDU-coRajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3loINwiaI1ihcZb4WLSiMUyEb9ZLwAC6BwAAsoyCFWiVBh1PrWkFjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3poINwj9nOPm-zbns82V6D04BgV4AAC6RwAAsoyCFUcWmE8VNKekjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3toINxjcXlpWeaDpjlliqy35oh_iAAC6hwAAsoyCFXxKkG0osOThDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn3xoINxloIRF3nHvdi1FQYe8x-yfpwAC6xwAAsoyCFVOnhC1jvdnHjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn31oINxnEW3RHZHd1Rd1D7RtX6ZjfgAC7BwAAsoyCFWhSDjiq_7YtTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn35oINxpY1zAAtN9zi09Abh5RZzPHgAC7RwAAsoyCFXwSErSvrbQczYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn39oINxrCwK3wg0JQUCTp95Gupv7KAAC7hwAAsoyCFXx0TdTwGczZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4BoINxt6Cg6FhkVzPU7pejC9_Fi6QAC7xwAAsoyCFXLdJSZr4qTwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4FoINxuLw56C9MTlvZCc34K1SS3TwAC8BwAAsoyCFWxLmCGvbE1GjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4JoINxwcVsTkCnT-kEftwN5X83FSwAC8RwAAsoyCFXODaUaNiuXPTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4NoINxx0mUjlVsDOcO9QBtq7qztqgAC8hwAAsoyCFVRl8aVLF9W7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4RoINxzAgvnngPdoPR8LcF_SZpdGwAC8xwAAsoyCFU4iTO5HeJADDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4VoINx1tYevpPsoc8E1bRO7bf9YQQAC9BwAAsoyCFXCM8yhSWudwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKn4ZoINx38tXInR5bedfIsWlGaXFVsQAC9RwAAsoyCFW5MlF3T2UeUzYE"
+    ]
+};

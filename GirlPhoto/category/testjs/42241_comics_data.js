@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42241,
+    "title": "Yoshinobi - Mitsuri (Kimetsu No Yaiba)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-11-28-3",
+    "images": [
+        "https://i.ibb.co/QFX4c3Cc/01-1.jpg",
+        "https://i.ibb.co/pBKGLsh6/02-2.jpg",
+        "https://i.ibb.co/DfB0VNXR/03-3.jpg",
+        "https://i.ibb.co/6RWRZ6xV/04-4.jpg",
+        "https://i.ibb.co/QFkG9BRr/05-5.jpg",
+        "https://i.ibb.co/wrbsqdyV/06-6.jpg",
+        "https://i.ibb.co/ynv3Z7xY/07-7.jpg",
+        "https://i.ibb.co/G3pzLZq7/08-8.jpg",
+        "https://i.ibb.co/tMTrFL7g/09-9.jpg",
+        "https://i.ibb.co/zTR7rG52/10-10.jpg",
+        "https://i.ibb.co/S4KC8rnN/11-11.jpg",
+        "https://i.ibb.co/gMqgNFwg/12-12.jpg",
+        "https://i.ibb.co/tMGx5Q2s/13-13.jpg",
+        "https://i.ibb.co/Q51YXhY/14-14.jpg",
+        "https://i.ibb.co/qM40Gy7T/15-15.jpg",
+        "https://i.ibb.co/67FjMdrQ/16-16.jpg",
+        "https://i.ibb.co/V0qnCCt1/17-17.jpg",
+        "https://i.ibb.co/twRZ2VJ4/18-18.jpg",
+        "https://i.ibb.co/Zzxp57J1/19-19.jpg",
+        "https://i.ibb.co/SDLXVL5b/20-20.jpg",
+        "https://i.ibb.co/Z6qXQzSV/21-21.jpg",
+        "https://i.ibb.co/DPHM8zMx/22-22.jpg",
+        "https://i.ibb.co/0ynvwmWJ/23-23.jpg",
+        "https://i.ibb.co/CspvJ43S/24-24.jpg",
+        "https://i.ibb.co/fddwNg2N/25-25.jpg"
+    ]
+};

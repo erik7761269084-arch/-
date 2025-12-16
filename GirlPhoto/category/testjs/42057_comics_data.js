@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 42057,
+    "title": "Potato Godzilla - Pure and Innocent (Sep 2025)",
+    "sourceUrl": "https://telegra.ph/Galería-de-imágenes-10-07-2",
+    "images": [
+        "https://i.ibb.co/r2MLrK5y/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-1.jpg",
+        "https://i.ibb.co/SDh8zvwR/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-10.jpg",
+        "https://i.ibb.co/qMTyMnVM/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-11.jpg",
+        "https://i.ibb.co/0jd7v7KH/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-12.jpg",
+        "https://i.ibb.co/vxjYq6pZ/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-13.jpg",
+        "https://i.ibb.co/d07wnGTs/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-14.jpg",
+        "https://i.ibb.co/chmvwjTQ/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-15.jpg",
+        "https://i.ibb.co/m5JW0k62/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-16.jpg",
+        "https://i.ibb.co/b5d7tnTt/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-17.jpg",
+        "https://i.ibb.co/cKSBnDBg/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-18.jpg",
+        "https://i.ibb.co/JFWD48DD/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-19.jpg",
+        "https://i.ibb.co/TBb8Y7mG/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-2.jpg",
+        "https://i.ibb.co/39s53k6K/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-20.jpg",
+        "https://i.ibb.co/1f3fCmVY/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-21.jpg",
+        "https://i.ibb.co/yBGZxdxj/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-22.jpg",
+        "https://i.ibb.co/TBkH47Jw/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-23.jpg",
+        "https://i.ibb.co/LXzhFwPm/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-24.jpg",
+        "https://i.ibb.co/Xr0j0Y9J/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-25.jpg",
+        "https://i.ibb.co/hJ2c5nBn/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-3.jpg",
+        "https://i.ibb.co/hJ2t7phd/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-4.jpg",
+        "https://i.ibb.co/XxkbCyhW/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-5.jpg",
+        "https://i.ibb.co/zpNd8P9/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-6.jpg",
+        "https://i.ibb.co/RkMPsytw/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-7.jpg",
+        "https://i.ibb.co/4gR0t5v3/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-8.jpg",
+        "https://i.ibb.co/ch7JdXVq/Potato-Godzilla-Pure-and-Innocent-Only-Fans-Nude-Sep-2025-9.jpg"
+    ]
+};

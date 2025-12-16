@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 35279,
+    "title": "Cosplay G44不会受伤 桑德枫X小天使",
+    "sourceUrl": "https://telegra.ph/Cosplay-G44不会受伤-桑德枫X小天使-09-07",
+    "images": [
+        "https://telegra.ph/file/c2efaac544e70b3b69af3.jpg",
+        "https://telegra.ph/file/276f954664c98ce465ba5.jpg",
+        "https://telegra.ph/file/1d8ce000c2a0ae78c7ac3.jpg",
+        "https://telegra.ph/file/4ee97ce3e13d586f8ba88.jpg",
+        "https://telegra.ph/file/0eaba17a1129d3ca5b917.jpg",
+        "https://telegra.ph/file/04502cae7b5a7447d6cda.jpg",
+        "https://telegra.ph/file/0d66c4e595110cb2c6930.jpg",
+        "https://telegra.ph/file/f30d2a8c922df49b59698.jpg",
+        "https://telegra.ph/file/267a776bb73f96b29ecad.jpg",
+        "https://telegra.ph/file/176ee5e0861b60a323d54.jpg",
+        "https://telegra.ph/file/1bfe3d3995b2843a4dc0b.jpg",
+        "https://telegra.ph/file/0f8f62d83c0135033469b.jpg",
+        "https://telegra.ph/file/793443c08c0cd3e6a0798.jpg",
+        "https://telegra.ph/file/96370425cba19ef5b45b2.jpg",
+        "https://telegra.ph/file/52213cd5d62b748460f7c.jpg",
+        "https://telegra.ph/file/73abc2e8da2c9f5d2c952.jpg",
+        "https://telegra.ph/file/25741cb47d2bd3c9a6a4c.jpg",
+        "https://telegra.ph/file/a27f8db46abc6dc3892ff.jpg",
+        "https://telegra.ph/file/5132a784b77f5e1a3b746.jpg",
+        "https://telegra.ph/file/14ac1760f537dfec9b9cf.jpg",
+        "https://telegra.ph/file/44013396589ea11f2c031.jpg",
+        "https://telegra.ph/file/4be865c96bb096f0a6812.jpg",
+        "https://telegra.ph/file/40a0cc06f33668299ed94.jpg"
+    ]
+};

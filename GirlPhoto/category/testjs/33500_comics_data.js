@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 33500,
+    "title": "Cosplay 三刀刀Miido 拳皇安琪儿",
+    "sourceUrl": "https://telegra.ph/Cosplay-三刀刀Miido-拳皇安琪儿-03-11",
+    "images": [
+        "https://telegra.ph/file/86dbf563555d24351ffd6.jpg",
+        "https://telegra.ph/file/7b9532101a75f24da32f4.jpg",
+        "https://telegra.ph/file/64896d75921b1d3f8cf78.jpg",
+        "https://telegra.ph/file/6537bc5e330c2cf779758.jpg",
+        "https://telegra.ph/file/13e6b7ae2086d9980c133.jpg",
+        "https://telegra.ph/file/3e0f9e57b15cf4856e341.jpg",
+        "https://telegra.ph/file/0e33899932f188610a696.jpg",
+        "https://telegra.ph/file/1662e0ec02d783837629e.jpg",
+        "https://telegra.ph/file/3860bf63b619f2e8fe4c3.jpg",
+        "https://telegra.ph/file/f48c40d0a00991fb76660.jpg",
+        "https://telegra.ph/file/03eafb8c34a0b95a51089.jpg",
+        "https://telegra.ph/file/fb2d73ace9d42d807dee1.jpg",
+        "https://telegra.ph/file/e39759f65abc0826bdf0e.jpg",
+        "https://telegra.ph/file/dea9a71245c6b928aff12.jpg",
+        "https://telegra.ph/file/08fef2b668c5410cd25d4.jpg",
+        "https://telegra.ph/file/ad7ebb6e6b2108ede5741.jpg",
+        "https://telegra.ph/file/da1dcb7f6bb959df840d1.jpg",
+        "https://telegra.ph/file/3df90a472cf12df617743.jpg",
+        "https://telegra.ph/file/d5b18be97158255c27f79.jpg",
+        "https://telegra.ph/file/8caef418dc2b339486b97.jpg",
+        "https://telegra.ph/file/e6ec1da4eab28cabe2783.jpg",
+        "https://telegra.ph/file/5d0a2ccc495d6ff245a33.jpg",
+        "https://telegra.ph/file/66d6f7694712201f6158b.jpg",
+        "https://telegra.ph/file/c4674c803fe36a32b0579.jpg",
+        "https://telegra.ph/file/8419b8fea7e8ed01a20eb.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

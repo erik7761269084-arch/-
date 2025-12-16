@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39227,
+    "title": "Sally Dorasnow - Mikoto Misaka (Toaru Project)",
+    "sourceUrl": "https://telegra.ph/Sally-Dorasnow---Mikoto-Misaka-Toaru-Project-06-07",
+    "images": [
+        "https://telegra.ph/file/0bc74bdc025988af12352.jpg",
+        "https://telegra.ph/file/498348540615357cf7545.jpg",
+        "https://telegra.ph/file/ac0a2783a3854003c3bf9.jpg",
+        "https://telegra.ph/file/22d791488d7422956abbe.jpg",
+        "https://telegra.ph/file/c2201e2a8321fea649d1c.jpg",
+        "https://telegra.ph/file/3a448f7d98f9484152066.jpg",
+        "https://telegra.ph/file/eb250e8d8292f067b42ac.jpg",
+        "https://telegra.ph/file/76ef0a5abb2a3023dcaf8.jpg",
+        "https://telegra.ph/file/fc52ed0d61f15c4a545f3.jpg",
+        "https://telegra.ph/file/03b6583818815d58ec696.jpg",
+        "https://telegra.ph/file/0d9170ed525e3a207b2ab.jpg",
+        "https://telegra.ph/file/931dd1ee86a780335763c.jpg",
+        "https://telegra.ph/file/150d764f5c691c1b679be.jpg",
+        "https://telegra.ph/file/c7892d57861b6c447ed0f.jpg",
+        "https://telegra.ph/file/57764016f941afb1bd15f.jpg",
+        "https://telegra.ph/file/5323d2fc82d6c17523020.jpg",
+        "https://telegra.ph/file/24de3d32015ae03e20718.jpg",
+        "https://telegra.ph/file/5f4d89dbf2ad21622251a.jpg",
+        "https://telegra.ph/file/6e5813c50f00f4c16d77f.jpg",
+        "https://telegra.ph/file/69d66f860b752f03c5a1c.jpg",
+        "https://telegra.ph/file/1dfa10f33036a66aadefd.jpg",
+        "https://telegra.ph/file/2178240e529a34489463c.jpg",
+        "https://telegra.ph/file/49057756af8833a8e1540.jpg"
+    ]
+};

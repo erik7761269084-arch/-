@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35655,
+    "title": "Cosplay Money冷冷 高叉女仆",
+    "sourceUrl": "https://telegra.ph/Cosplay-Money冷冷-高叉女仆-10-15",
+    "images": [
+        "https://telegra.ph/file/6a5ba6a8ce1a9a53d76c5.jpg",
+        "https://telegra.ph/file/57f5aed463e59b61a5d07.jpg",
+        "https://telegra.ph/file/cdc2c7f889d3c402aa443.jpg",
+        "https://telegra.ph/file/adb5deb9a02ea2c9624a2.jpg",
+        "https://telegra.ph/file/f7e1393d1516e6f2797cd.jpg",
+        "https://telegra.ph/file/a9a722e66506cdef526b7.jpg",
+        "https://telegra.ph/file/eaf609b3f27c166b4b0bf.jpg",
+        "https://telegra.ph/file/8dbabb90c3f26ff71f424.jpg",
+        "https://telegra.ph/file/d28b0b29d6586cbbc3e2f.jpg",
+        "https://telegra.ph/file/889175dddd8610e2e1d87.jpg",
+        "https://telegra.ph/file/9755bd4a09562306e1544.jpg",
+        "https://telegra.ph/file/e901320196b0418d541ab.jpg",
+        "https://telegra.ph/file/750b236567a4879b72cc5.jpg",
+        "https://telegra.ph/file/c0b7ad2d8665991c493a0.jpg",
+        "https://telegra.ph/file/c83a142ff5561291f8544.jpg",
+        "https://telegra.ph/file/24e47dcff7881015ebc03.jpg",
+        "https://telegra.ph/file/5077c1503fd75323c1d79.jpg",
+        "https://telegra.ph/file/3c72cabdb9f3dd215b8df.jpg",
+        "https://telegra.ph/file/4529ddc98ea93b72b2e2a.jpg",
+        "https://telegra.ph/file/4255a4edd655b2d4103f9.jpg",
+        "https://telegra.ph/file/8716a8c529002f24e42c4.jpg",
+        "https://telegra.ph/file/af15df07961806c896cba.jpg",
+        "https://telegra.ph/file/6a9f50d9676458ebdf903.jpg",
+        "https://telegra.ph/file/42edfcf659512f8cc5817.jpg",
+        "https://telegra.ph/file/128ab24f4a466dbd005e9.jpg"
+    ]
+};

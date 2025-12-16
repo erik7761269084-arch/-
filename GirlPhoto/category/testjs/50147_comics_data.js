@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 50147,
+    "title": "[テ-レ-ビ] 山城恋 - Page 1",
+    "sourceUrl": "https://telegra.ph/テ-レ-ビ-山城恋---Page-1-03-12",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYNn0b-4ATjGOrevVSOtpOru3huVZQACvBgAAuYJkVYTz2cXspHfiTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYRn0b-6sGrAMbBtx8a9VPv2pl7NJQACvRgAAuYJkVZQfPa7LoTsszYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYVn0b-80WmdZRwOBFAUznsPSqs_qwACvhgAAuYJkVbNs8wXNtT9XDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYZn0b--xLIVJ2w5QfY1uy9kg_EpiAACvxgAAuYJkVZuJr-Tmf07UzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYdn0b_Afo_B37VlU8sfRtFWTjC-ZAACwBgAAuYJkVZakXRzAvum_DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYhn0b_CsA_WJX8GNSJIgf6BlSeGiQACwRgAAuYJkVYVCQzT2zQzqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYln0b_EFyCnOFdl4VfsYHmu_QAB8pgAAsIYAALmCZFWTrXZvH9Xq402BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYpn0b_F3zP18HEfxjQ7NYqkRvtocgACwxgAAuYJkVYUfNXNNu5EHzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYtn0b_IkEbd3_Hlnn3HpvpoQ1xDswACxBgAAuYJkVYb3BUyplSoEjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrYxn0b_KVEpvwoao8S3nK2orm8JWyQACxRgAAuYJkVa1Vxhk_5s2nzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrY1n0b_LwsMz8nNF-EkSrrgZt_5nBwACxhgAAuYJkVaVF5OVjHtY5TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrY5n0b_NbIJBjx-jZJiv5LYy8WrHdQACxxgAAuYJkVY5wMbkExb1ozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrY9n0b_PC-7NQh-iJie3fusgtUMGgAACyBgAAuYJkVbaJlcu8sR0CTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZBn0b_RquHwl69un6fXGYQSUVwiuAACyRgAAuYJkVaUiC0WgZmADTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZFn0b_SenTS5F0C1aqJcdzAtnAtiAACyhgAAuYJkVYuUuEjTmkIjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZJn0b_UXnsQAfJEJumExv5d0F-GFgACyxgAAuYJkVbCVwI_90zsgjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZNn0b_WVzD3vLsUhxalRK4eNCqGZwACzBgAAuYJkVZwUz0iKVYVOjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZRn0b_YQQQ36KVwxajas9ETpp0sxQACzRgAAuYJkVbfcPGqcDfRgDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZVn0b_ZoUo5PiaY44Uyo4AOymMUZwACzhgAAuYJkVYfWBKbSuzyVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZZn0b_bkBnd7RwcASj5JI6Y_Jmv0AACzxgAAuYJkVYh6zPsM5VOZDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZdn0cAbwt54cYGor_R3cmD49T4FYwAC0BgAAuYJkVaULki0DaTSYjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZhn0cAdN_lgD-bOZgqeGaXQOnvlIgAC0RgAAuYJkVYw6dYbXzCv3TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHrZln0cAfAnoAAdauQvHrjAyWcXi1acwAAtIYAALmCZFWc3vtmPdClic2BA"
+    ]
+};

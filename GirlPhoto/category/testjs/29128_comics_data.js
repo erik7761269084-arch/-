@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 29128,
+    "title": "绿洲舞娘 26P",
+    "sourceUrl": "https://telegra.ph/%E7%BB%BF%E6%B4%B2%E8%88%9E%E5%A8%98-26P-07-22",
+    "images": [
+        "https://telegra.ph/file/0c5944f5f1df14efdfe8a.jpg",
+        "https://telegra.ph/file/29922effaf569d6a4067c.jpg",
+        "https://telegra.ph/file/abae513d73fc50c24a2a8.jpg",
+        "https://telegra.ph/file/7a710c61ad1184a8cd77a.jpg",
+        "https://telegra.ph/file/7040313f2e7de716859ad.jpg",
+        "https://telegra.ph/file/bfba86adc749fd353d92a.jpg",
+        "https://telegra.ph/file/edb11d1fe1bda86d8c493.jpg",
+        "https://telegra.ph/file/bd4deb452bc2da915660b.jpg",
+        "https://telegra.ph/file/7311360c14f418d47f958.jpg",
+        "https://telegra.ph/file/5e9ea2b6219e28218225c.jpg",
+        "https://telegra.ph/file/6c5e4fbd90bacd833de74.jpg",
+        "https://telegra.ph/file/6a422f1050611bfb05e73.jpg",
+        "https://telegra.ph/file/e9f5062fb0ea681f663f5.jpg",
+        "https://telegra.ph/file/542f3d7b71378b9e03806.jpg",
+        "https://telegra.ph/file/7839df43b4e845386fe80.jpg",
+        "https://telegra.ph/file/8250c27bf20fdbc00b5ee.jpg",
+        "https://telegra.ph/file/4d93ebac33f35a87f58e8.jpg",
+        "https://telegra.ph/file/3ec61034e9b22c30fe148.jpg",
+        "https://telegra.ph/file/e4fdc0bfaf81edf36f299.jpg",
+        "https://telegra.ph/file/537b34b39cf34102bfb4a.jpg",
+        "https://telegra.ph/file/2f5ff02e53a0e018a88d5.jpg",
+        "https://telegra.ph/file/20ce130727b359f3eb86c.jpg",
+        "https://telegra.ph/file/6d4c77a4d880f6acd1319.jpg",
+        "https://telegra.ph/file/76552dd206a86ad152b0b.jpg",
+        "https://telegra.ph/file/c200dcfb35c98b8b03abe.jpg",
+        "https://telegra.ph/file/26b8ed0508f14417e9af6.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 40839,
+    "title": "小仓千代w Yummichiyo - Yuzuriha (Jigokuraku)",
+    "sourceUrl": "https://telegra.ph/小仓千代w-Yummichiyo---Yuzuriha-Jigokuraku-10-21",
+    "images": [
+        "https://telegra.ph/file/4b83bfd0cc360df9ff08e.jpg",
+        "https://telegra.ph/file/c034618dcb07c00cfbee4.jpg",
+        "https://telegra.ph/file/0b2dab9c45e926f335775.jpg",
+        "https://telegra.ph/file/5b1c057204ca29eec95e3.jpg",
+        "https://telegra.ph/file/6d8688d243ed225cfe3b1.jpg",
+        "https://telegra.ph/file/cd6629b169e58f2247e99.jpg",
+        "https://telegra.ph/file/481a1f6b5f7c5c4befdcc.jpg",
+        "https://telegra.ph/file/e53748f0d871c38ed4d23.jpg",
+        "https://telegra.ph/file/98f2690c01d59dc5d06da.jpg",
+        "https://telegra.ph/file/f4e8bc8589ebb4903e2f3.jpg",
+        "https://telegra.ph/file/93c4f3784ab4e29f6dafa.jpg",
+        "https://telegra.ph/file/a66b7d06ba374339d576e.jpg",
+        "https://telegra.ph/file/6050fcb781278b51b227f.jpg",
+        "https://telegra.ph/file/a80751fa80a6d2cce2c02.jpg",
+        "https://telegra.ph/file/65113797967929cce8c2e.jpg",
+        "https://telegra.ph/file/dfad4c5841929567090a5.jpg",
+        "https://telegra.ph/file/363f2204f3bd2178fcd7d.jpg",
+        "https://telegra.ph/file/73c09ca27126f45e5a712.jpg",
+        "https://telegra.ph/file/9527466f2c9b0aa5887d9.jpg",
+        "https://telegra.ph/file/4ddaa37b7047d899e0dc7.jpg",
+        "https://telegra.ph/file/f43e15b8ca4fb39d770c9.jpg",
+        "https://telegra.ph/file/d55b930b86c3abebdf33d.jpg",
+        "https://telegra.ph/file/ea68cc9b7fae82cb91603.jpg",
+        "https://telegra.ph/file/204693c1875009f2b6ef9.jpg",
+        "https://telegra.ph/file/96ba2167987d4a0caf58e.jpg",
+        "https://telegra.ph/file/4abef969050e175e14502.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38791,
+    "title": "Hane Ame - Ina (Hololive)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Ina-Hololive-01-31",
+    "images": [
+        "https://telegra.ph/file/af9c0bb15b1c62236f19f.jpg",
+        "https://telegra.ph/file/f44691323aa8100ff3d1a.jpg",
+        "https://telegra.ph/file/9be99aa8864300aadd511.jpg",
+        "https://telegra.ph/file/f20c53c012e331fddb7ff.jpg",
+        "https://telegra.ph/file/5147096c8eae3faae0c72.jpg",
+        "https://telegra.ph/file/11d14380cd948ed88c225.jpg",
+        "https://telegra.ph/file/3d0dcbafe4bfdac23c4c1.jpg",
+        "https://telegra.ph/file/f4a8ea8f11debdb7bff94.jpg",
+        "https://telegra.ph/file/5ebb9757035763aa6da65.jpg",
+        "https://telegra.ph/file/8595f4e120bf27aaaa6f0.jpg",
+        "https://telegra.ph/file/6bae28b5b40290f7f5f5b.jpg",
+        "https://telegra.ph/file/36fb3a519f35281347b71.jpg",
+        "https://telegra.ph/file/b5df50a933925c155f56d.jpg",
+        "https://telegra.ph/file/e27f4051fe9603199cc23.jpg",
+        "https://telegra.ph/file/b34b6c6ba6e4065f3f8e3.jpg",
+        "https://telegra.ph/file/578e51b02f26372ea564f.jpg",
+        "https://telegra.ph/file/0a1c294a576e605089e9a.jpg",
+        "https://telegra.ph/file/3b9c464b1571bd42842e7.jpg",
+        "https://telegra.ph/file/ae410c688670a0810dc68.jpg",
+        "https://telegra.ph/file/2e0a923610a8431e93ca4.jpg",
+        "https://telegra.ph/file/6d4c44042108f9ba1fa8d.jpg",
+        "https://telegra.ph/file/277a7179ed5bc7afe94f8.jpg",
+        "https://telegra.ph/file/16176ad94f3b62d802774.jpg",
+        "https://telegra.ph/file/b025d02c0d66d4661c497.jpg",
+        "https://telegra.ph/file/0609602a09e0a49c25d5a.jpg",
+        "https://telegra.ph/file/7863813ee7b8250d0755e.jpg"
+    ]
+};

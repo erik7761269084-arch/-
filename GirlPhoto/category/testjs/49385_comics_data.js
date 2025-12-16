@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 49385,
+    "title": "Sweetie Fox - Elastigirl - Page 1",
+    "sourceUrl": "https://telegra.ph/Sweetie-Fox---Elastigirl---Page-1-01-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6ytnjfbtgZW-PjembpLwxidh2M0QjAACniIAAkwIcVTfmUPn2EKVKjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6yxnjfbxld9Pk3ssrk8LeHp_M-BeRwACnyIAAkwIcVQBoCzwM_bAjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6y1njfb0XVlMMN4RdzH5kwg6deo6YQACoCIAAkwIcVSrsssz6xoZgTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6y5njfb5cR88AV7_s3ayhvNdq8fxuAACoSIAAkwIcVSKWa5Nuhk8tjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6y9njfb9VRA971axjlM-3ZNoBzUm0QACoiIAAkwIcVQxh2exT4adjjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zBnjfcByhQko0L7On7pma-qGX-I8QACoyIAAkwIcVSozYQIny15ajYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zFnjfcEHTuChmwjucclXqEu1boy9QACpCIAAkwIcVTaq2iFaak-ITYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zJnjfcH5eombOQhNXOil7ZkkJnRFQACpSIAAkwIcVSQhaL5QOtBsTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zNnjfcKJWjezbQRa3olZmhaa_uTdwACpiIAAkwIcVR19QABHaZkA7I2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zRnjfcMn7XSbRPIdeSWwiTT4RJmVwACpyIAAkwIcVQ6xH8SUgGfwTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zVnjfcPuIxPNE2WRi_r1SnIh7uESwACqCIAAkwIcVQRS56rdwlQEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zZnjfcTWChDDAgRpx7ejBWhjRW8BAACqSIAAkwIcVSpJInaEuesrDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zdnjfdcJydx1jWUN2P6-wb8p1ghNwACqiIAAkwIcVTLiWLv-8-FrzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zhnjfdftV2Hztbdv9zolOqkWo8xdwACqyIAAkwIcVQbFNaMrPjLdDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zlnjfdlCv8p_tddEMLjK_FqEwG-hgACrCIAAkwIcVQ-ljGSLQ64XTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zpnjfdoQHtGjVovpd5DbzcaJiC5tAACrSIAAkwIcVS8_kngKVMFmTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6ztnjfdsJftX2Y_vmgpQxdVdlqyyNAACriIAAkwIcVQrbuiIGTbTHTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6zxnjfdv7PBEPcNwOktjXLdKdlRm-gACryIAAkwIcVQhpe6s0lPezjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6z1njfd0k0DmgkKeTFiI8cAPyToqCgACsCIAAkwIcVQKmjLDkJ9CQjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6z5njfd4HPs2fJ980hsFDPoMIiCeoAACsSIAAkwIcVRnZYTs_eUQjzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED6z9njfd7lct-DCXF9eaImNKcAZNFGAACsiIAAkwIcVQMvad8x_3G7DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED60Bnjfd-ifPVTwrVec1e29c1TRflNAACsyIAAkwIcVQ1uL5LYy-y3DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED60FnjfeCTBcTeJ2u5n1T27oqUu-ZBgACtCIAAkwIcVQnsVTbp4lRVDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED60JnjfeGLQYFtESxh_bgr0pDj3HPywACtSIAAkwIcVTIEbitLwTDQDYE"
+    ]
+};

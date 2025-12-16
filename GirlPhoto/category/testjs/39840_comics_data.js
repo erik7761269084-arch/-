@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39840,
+    "title": "Chameleahn - Kaisa (KDA / League Of Legends)",
+    "sourceUrl": "https://telegra.ph/Chameleahn---Kaisa-KDA--League-Of-Legends-11-05",
+    "images": [
+        "https://telegra.ph/file/88655ee7988aa2de5c47b.jpg",
+        "https://telegra.ph/file/244715176daf0c3bd9461.jpg",
+        "https://telegra.ph/file/62bfbd0f8ff94dee15ce9.jpg",
+        "https://telegra.ph/file/bd5d68332681c9f6c1d98.jpg",
+        "https://telegra.ph/file/56ceb5f020df6b38df284.jpg",
+        "https://telegra.ph/file/bfa7e21584e58550c09ad.jpg",
+        "https://telegra.ph/file/083115c89f5b252cc739b.jpg",
+        "https://telegra.ph/file/3d59319e9a986ed8c8d38.jpg",
+        "https://telegra.ph/file/19b7e8c9a2fc444fd1381.jpg",
+        "https://telegra.ph/file/56c1b5145bbdd1425f75d.jpg",
+        "https://telegra.ph/file/4e72c59f3666dee2a4996.jpg",
+        "https://telegra.ph/file/9c6e9d9a4309609d51146.jpg",
+        "https://telegra.ph/file/76b7f36d4decd8967df28.jpg",
+        "https://telegra.ph/file/fd6056b91c24bc56e5303.jpg",
+        "https://telegra.ph/file/10fb34e644e18347b0d0d.jpg",
+        "https://telegra.ph/file/9c54a03525959c2a7c8fa.jpg",
+        "https://telegra.ph/file/edfafca7906e1df95bc7c.jpg",
+        "https://telegra.ph/file/62bbdf1425c4537a55736.jpg",
+        "https://telegra.ph/file/d0cc67d3fd425f0e32330.jpg",
+        "https://telegra.ph/file/334ac2dbdbd32cb0d5ba8.jpg",
+        "https://telegra.ph/file/f0f200e5d49a39c8697a7.jpg",
+        "https://telegra.ph/file/ab39a5dc1d04397ec69d2.jpg",
+        "https://telegra.ph/file/db4bc712410e066457edd.jpg",
+        "https://telegra.ph/file/8b3b602b74275f8c21b05.jpg",
+        "https://telegra.ph/file/0a528d6e1d47866d455e1.jpg"
+    ]
+};

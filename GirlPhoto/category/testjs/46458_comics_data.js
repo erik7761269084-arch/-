@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46458,
+    "title": "【小仓千代w】樱岛麻衣 兔女郎 - Page 1",
+    "sourceUrl": "https://telegra.ph/小仓千代w樱岛麻衣-兔女郎---Page-1-01-02",
+    "images": [
+        "https://telegra.ph/file/88232c242ae4d7a9f5216.jpg",
+        "https://telegra.ph/file/76b0be27c81ca1b260f2e.jpg",
+        "https://telegra.ph/file/4ad94151059dc340dfccb.jpg",
+        "https://telegra.ph/file/3065584edd5d805f138af.jpg",
+        "https://telegra.ph/file/01bab6fb9f29fa02ac8fb.jpg",
+        "https://telegra.ph/file/62eb0c279747ce03203ba.jpg",
+        "https://telegra.ph/file/4834a009a517774ecd9f7.jpg",
+        "https://telegra.ph/file/4c84512965a03454343de.jpg",
+        "https://telegra.ph/file/32f0657f563759703b6be.jpg",
+        "https://telegra.ph/file/64e84fe9fd05fb164daff.jpg",
+        "https://telegra.ph/file/6fff80a3c152b78d9c4a6.jpg",
+        "https://telegra.ph/file/a79685029d5ecdf921c98.jpg",
+        "https://telegra.ph/file/d15ab0c429ab005c20631.jpg",
+        "https://telegra.ph/file/981cd0bce9c47e67205f6.jpg",
+        "https://telegra.ph/file/1636d157a07bb9491174a.jpg",
+        "https://telegra.ph/file/7ce152a9a6ecd65f7cd7d.jpg",
+        "https://telegra.ph/file/163658fcb9b6660d80646.jpg",
+        "https://telegra.ph/file/d734b30f35f9a171b08d8.jpg",
+        "https://telegra.ph/file/9c39800b161eaa72c5e6e.jpg",
+        "https://telegra.ph/file/c337fc57f5867028ec712.jpg",
+        "https://telegra.ph/file/bf04d8771d71805cd6f97.jpg",
+        "https://telegra.ph/file/8cb75ed765e6e0a7a4f00.jpg",
+        "https://telegra.ph/file/470b2ae5aa1334a4b97e0.jpg",
+        "https://telegra.ph/file/b810ab13e534895c006f9.jpg"
+    ]
+};

@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 38539,
+    "title": "Vinnegal - Faye Valentine (Cowboy Bepop)",
+    "sourceUrl": "https://telegra.ph/Vinnegal---Faye-Valentine-Cowboy-Bepop-11-27",
+    "images": [
+        "https://telegra.ph/file/a02254e1deb50b7e300e8.jpg",
+        "https://telegra.ph/file/80b252a18c65c12e98fac.jpg",
+        "https://telegra.ph/file/995f4e879bf79dfe0b6d6.jpg",
+        "https://telegra.ph/file/ca891505aa203d1ac85b8.jpg",
+        "https://telegra.ph/file/1118d8cf2ce4d7b37ab24.jpg",
+        "https://telegra.ph/file/17d211da967585359627e.jpg",
+        "https://telegra.ph/file/f2a86310f8de52e547f0e.jpg",
+        "https://telegra.ph/file/07d666a4a6373a6218518.jpg",
+        "https://telegra.ph/file/d0d544342cbb17b0cab05.jpg",
+        "https://telegra.ph/file/23355eb99af6c116a35eb.jpg",
+        "https://telegra.ph/file/265700aea9d52b6064182.jpg",
+        "https://telegra.ph/file/b85b1972a1a4ec784975d.jpg",
+        "https://telegra.ph/file/f01c0a57349c04b376912.jpg",
+        "https://telegra.ph/file/cccc7e7f3dba46be80572.jpg",
+        "https://telegra.ph/file/484691175822da4932ab0.jpg",
+        "https://telegra.ph/file/dcaa36e9030a6030aba4a.jpg",
+        "https://telegra.ph/file/c0af784931dd03f247a34.jpg",
+        "https://telegra.ph/file/f790bada541bdba1761de.jpg",
+        "https://telegra.ph/file/dfb57413441d22c5e2f3e.jpg",
+        "https://telegra.ph/file/9e7e3c97b3a2dfb180a82.jpg",
+        "https://telegra.ph/file/4b243c0f422337052db20.jpg",
+        "https://telegra.ph/file/d720755161c0b990059c0.jpg",
+        "https://telegra.ph/file/53eca4358944c1522adf9.jpg",
+        "https://telegra.ph/file/f3f4ff30c66d035cdc72a.jpg",
+        "https://telegra.ph/file/5664f9ca7627d0171d058.jpg",
+        "https://telegra.ph/file/ec118eaf889e275b31d30.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 29011,
+    "title": "露西宝贝 - 破洞牛仔裤 24P",
+    "sourceUrl": "https://telegra.ph/%E9%9C%B2%E8%A5%BF%E5%AE%9D%E8%B4%9D---%E7%A0%B4%E6%B4%9E%E7%89%9B%E4%BB%94%E8%A3%A4-24P-03-22",
+    "images": [
+        "https://telegra.ph/file/4292af7ec99d1d2a2a22b.jpg",
+        "https://telegra.ph/file/d10feffe735b525adc6e4.jpg",
+        "https://telegra.ph/file/73edb21c491f393a85fd5.jpg",
+        "https://telegra.ph/file/9367fddf6369edf4fba18.jpg",
+        "https://telegra.ph/file/bc5435d44e46d563003df.jpg",
+        "https://telegra.ph/file/9ab0ab672af5690d3a3f7.jpg",
+        "https://telegra.ph/file/e345f1b16769e23d7e3ac.jpg",
+        "https://telegra.ph/file/4b11f74cba87deebf3bee.jpg",
+        "https://telegra.ph/file/50496e12df751960b1171.jpg",
+        "https://telegra.ph/file/a36b5adbec1f141b16681.jpg",
+        "https://telegra.ph/file/45bd91405279daecdb547.jpg",
+        "https://telegra.ph/file/41a393077c95f5694ed55.jpg",
+        "https://telegra.ph/file/6cd1c31c9f433d2bd5fa7.jpg",
+        "https://telegra.ph/file/ff623add632e8cedbc920.jpg",
+        "https://telegra.ph/file/5a0f562fa2cbdd242c14b.jpg",
+        "https://telegra.ph/file/ac8cd9dc3231663924229.jpg",
+        "https://telegra.ph/file/7979d20638b9ff25c1f3e.jpg",
+        "https://telegra.ph/file/2e7a5ca6aaac3b135f0be.jpg",
+        "https://telegra.ph/file/70f4c217588b6e41b766c.jpg",
+        "https://telegra.ph/file/f031a24cb4364b6e0baee.jpg",
+        "https://telegra.ph/file/5ceccb44abc29febd4c69.jpg",
+        "https://telegra.ph/file/123c8c02faf85bcbb7cc3.jpg",
+        "https://telegra.ph/file/bb10de2575e392471e27d.jpg",
+        "https://telegra.ph/file/abb62f75fa11cb015eb3c.jpg"
+    ]
+};

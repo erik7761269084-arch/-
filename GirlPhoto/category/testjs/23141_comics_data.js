@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 23141,
+    "title": "年年 - 炽天使[23P-1年年1M]",
+    "sourceUrl": "https://telegra.ph/%E5%B9%B4%E5%B9%B4---%E7%82%BD%E5%A4%A9%E4%BD%BF23P-1%E5%B9%B4%E5%B9%B41M-01-23",
+    "images": [
+        "https://telegra.ph/file/df91fe666f0ee139eaa40.jpg",
+        "https://telegra.ph/file/9245aac88b3e03fa30d53.jpg",
+        "https://telegra.ph/file/c2178fdb5c75bec273f6f.jpg",
+        "https://telegra.ph/file/879fac12c4e20b91b6c5b.jpg",
+        "https://telegra.ph/file/4fd42df47c05161680e6a.jpg",
+        "https://telegra.ph/file/eb50f679adf8d7fde2659.jpg",
+        "https://telegra.ph/file/c8ef1cd455c91742fa22b.jpg",
+        "https://telegra.ph/file/eced936f9cd08fe1cdf72.jpg",
+        "https://telegra.ph/file/81b9660d750716efe6aaf.jpg",
+        "https://telegra.ph/file/a0ee0639169d9bf891c7b.jpg",
+        "https://telegra.ph/file/b00a45c758e5163e1d5d0.jpg",
+        "https://telegra.ph/file/6fe859f15c46437b6632d.jpg",
+        "https://telegra.ph/file/05253ae19bc5b132434ae.jpg",
+        "https://telegra.ph/file/7ad8ccd44fc83626771c1.jpg",
+        "https://telegra.ph/file/aa4543f24e6369e28a483.jpg",
+        "https://telegra.ph/file/c7f8ab10820e0336a80ce.jpg",
+        "https://telegra.ph/file/19b04d9da86e2c2652aa4.jpg",
+        "https://telegra.ph/file/9d4d843b7ac6d6e402c1e.jpg",
+        "https://telegra.ph/file/c72a4b41448fabccec9ad.jpg",
+        "https://telegra.ph/file/b0d8822fb5072d3798fd6.jpg",
+        "https://telegra.ph/file/e2cca8728c2c0982ae30c.jpg",
+        "https://telegra.ph/file/fb295b96b90cecc60f356.jpg",
+        "https://telegra.ph/file/ccdc836f97ded7da75e2c.jpg"
+    ]
+};

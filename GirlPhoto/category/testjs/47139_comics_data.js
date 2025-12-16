@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47139,
+    "title": "[水淼aqua] 蒂法泳装 - Page 1",
+    "sourceUrl": "https://telegra.ph/水淼aqua-蒂法泳装---Page-1-03-04",
+    "images": [
+        "https://telegra.ph/file/792025707aeccdb290da3.jpg",
+        "https://telegra.ph/file/a01abd61ca4cd34f4f149.jpg",
+        "https://telegra.ph/file/5b5b0dc4d96355bcd9d6a.jpg",
+        "https://telegra.ph/file/782988ce6cc733bb00189.jpg",
+        "https://telegra.ph/file/ba3f40dd18bac9ae5c603.jpg",
+        "https://telegra.ph/file/b6a1a71de52d9f270380e.jpg",
+        "https://telegra.ph/file/6134c75a55d62a1475e26.jpg",
+        "https://telegra.ph/file/709ba18bf9f059082cdf6.jpg",
+        "https://telegra.ph/file/6eed1d8dba91d2811534a.jpg",
+        "https://telegra.ph/file/d6e7cc99109e14b1340fa.jpg",
+        "https://telegra.ph/file/88ba3b69c0105d86b3fa8.jpg",
+        "https://telegra.ph/file/86d2e8e3caebcddc590a2.jpg",
+        "https://telegra.ph/file/d473dd39fbb78cb295490.jpg",
+        "https://telegra.ph/file/b08796de1170ea5aee990.jpg",
+        "https://telegra.ph/file/5c2e6bd8620cba1d5ddc3.jpg",
+        "https://telegra.ph/file/00d636e58d555f637f1fb.jpg",
+        "https://telegra.ph/file/7e67ecd0a84cbd093db2c.jpg",
+        "https://telegra.ph/file/d2ad91683476392ab006c.jpg",
+        "https://telegra.ph/file/a52640781bb9408386cc9.jpg",
+        "https://telegra.ph/file/ed7848116a6dc9d7784ad.jpg",
+        "https://telegra.ph/file/5a198392c0e2f1269e779.jpg",
+        "https://telegra.ph/file/1ecf891f5f1aaf1e3aca8.jpg",
+        "https://telegra.ph/file/8de5d061b93dababd8020.jpg",
+        "https://telegra.ph/file/12ab886be698f92169bce.jpg",
+        "https://telegra.ph/file/d39c381612b19b61f78fe.jpg"
+    ]
+};

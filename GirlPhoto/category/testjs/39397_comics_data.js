@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 39397,
+    "title": "Alice - Yor Forger (Spy x Family)",
+    "sourceUrl": "https://telegra.ph/Alice---Yor-Forger-Spy-x-Family-07-20",
+    "images": [
+        "https://telegra.ph/file/0d829fe800d798481e841.jpg",
+        "https://telegra.ph/file/564dddb68fb82c2e3b526.jpg",
+        "https://telegra.ph/file/b904040afcb1952f89a0d.jpg",
+        "https://telegra.ph/file/33001e88f566c8ab039ee.jpg",
+        "https://telegra.ph/file/012d10ac6006230077de8.jpg",
+        "https://telegra.ph/file/74973c654b2fbbf35fab8.jpg",
+        "https://telegra.ph/file/5e69519e5e596dcf84d27.jpg",
+        "https://telegra.ph/file/7846c721b87c373f3e2cc.jpg",
+        "https://telegra.ph/file/ee1af03f61d7c97a48529.jpg",
+        "https://telegra.ph/file/2acd8b612a548f001c6e4.jpg",
+        "https://telegra.ph/file/bca866c4c34f97fce7842.jpg",
+        "https://telegra.ph/file/15214bfa5939049c78e7b.jpg",
+        "https://telegra.ph/file/9f219c063ab946f92580c.jpg",
+        "https://telegra.ph/file/cab0328138022539ce453.jpg",
+        "https://telegra.ph/file/65127e15bf7a9b110963b.jpg",
+        "https://telegra.ph/file/c679e157033dfa4ebe353.jpg",
+        "https://telegra.ph/file/ed3c82fc53f7d6ea6ef62.jpg",
+        "https://telegra.ph/file/716fa0963d7a4c9a18ad7.jpg",
+        "https://telegra.ph/file/42806cae5aff0f6bba57a.jpg",
+        "https://telegra.ph/file/864d33e9d2e837e39951c.jpg",
+        "https://telegra.ph/file/91ee0f708ac8dd9caae60.jpg",
+        "https://telegra.ph/file/86f4f95af657e79203779.jpg",
+        "https://telegra.ph/file/1ffb6ad6273457bb3f72c.jpg"
+    ]
+};

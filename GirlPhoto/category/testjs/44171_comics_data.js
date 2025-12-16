@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44171,
+    "title": "fantasy factory Porn Little Red Riding Hood Sexy ver",
+    "sourceUrl": "https://telegra.ph/fantasy-factory-Porn-Little-Red-Riding-Hood-Sexy-ver-09-28",
+    "images": [
+        "https://telegra.ph/file/d9db6f618166cd3b491f8.jpg",
+        "https://telegra.ph/file/943541917fbda1a14f169.jpg",
+        "https://telegra.ph/file/7ee321b239b9eb4cc028b.jpg",
+        "https://telegra.ph/file/852032cd75847ae4ef59d.jpg",
+        "https://telegra.ph/file/dcdf593f54b0d84d4fc97.jpg",
+        "https://telegra.ph/file/9b7124883e81a54007aef.jpg",
+        "https://telegra.ph/file/ece4da885939323caa93e.jpg",
+        "https://telegra.ph/file/0b8dd359d46a0ab05c559.jpg",
+        "https://telegra.ph/file/a9c6fa65c18434939023c.jpg",
+        "https://telegra.ph/file/38b2f5779cc4d1fac2e58.jpg",
+        "https://telegra.ph/file/eff39b3a23131d7c36e7b.jpg",
+        "https://telegra.ph/file/cca56dd6c61ff8ea278e4.jpg",
+        "https://telegra.ph/file/acf1aaa72f7540aca2d1e.jpg",
+        "https://telegra.ph/file/b4e2be0ab0249e1f34241.jpg",
+        "https://telegra.ph/file/d56ed7f1b8593555a50d1.jpg",
+        "https://telegra.ph/file/70a89b808bebf233df222.jpg",
+        "https://telegra.ph/file/cf873a10b5f004a845c8d.jpg",
+        "https://telegra.ph/file/062244cafb1ac14374bec.jpg",
+        "https://telegra.ph/file/ab4f458836c15f458de68.jpg",
+        "https://telegra.ph/file/60cf425cb2911b11f0d38.jpg",
+        "https://telegra.ph/file/6d5d2c97bf53512261f8a.jpg",
+        "https://telegra.ph/file/b64450d57c699bad8e076.jpg",
+        "https://telegra.ph/file/125ff4fd4fe4d2f72e7c1.jpg",
+        "https://telegra.ph/file/81b4ea095e4731cbc1631.jpg"
+    ]
+};

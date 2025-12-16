@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 48667,
+    "title": "Comonun - Nazuna - Page 1",
+    "sourceUrl": "https://telegra.ph/Comonun---Nazuna---Page-1-08-18",
+    "images": [
+        "https://telegra.ph/file/3e77a3fca20b09c1502c2.jpg",
+        "https://telegra.ph/file/b31d7b4c77483f48692f5.jpg",
+        "https://telegra.ph/file/8774721b9cf6cecc47696.jpg",
+        "https://telegra.ph/file/2eb635108569fe6e7e63f.jpg",
+        "https://telegra.ph/file/4f7acc56aa2e416101396.jpg",
+        "https://telegra.ph/file/b18893d5c6600a5c218db.jpg",
+        "https://telegra.ph/file/cf626f7b0c9b8edaa4c1c.jpg",
+        "https://telegra.ph/file/1b69ffe9c7b75c4debf5a.jpg",
+        "https://telegra.ph/file/d525ee98f602906e3ee07.jpg",
+        "https://telegra.ph/file/b85dac29533c99fe7604c.jpg",
+        "https://telegra.ph/file/d85c74ed0b3b1a1448d92.jpg",
+        "https://telegra.ph/file/9808ffbf6e245d72c562e.jpg",
+        "https://telegra.ph/file/771906248e8a2d5970a8d.jpg",
+        "https://telegra.ph/file/5c45a72c24124fe9913a0.jpg",
+        "https://telegra.ph/file/2ebdb5a34e574b90cbeb0.jpg",
+        "https://telegra.ph/file/2e0cdc3b1c19e080a93de.jpg",
+        "https://telegra.ph/file/c3db5bdea686fe556e0df.jpg",
+        "https://telegra.ph/file/ae75b664ef8fe195d6ab8.jpg",
+        "https://telegra.ph/file/82b0526cb693af87287be.jpg",
+        "https://telegra.ph/file/b2588db6735125fd33da0.jpg",
+        "https://telegra.ph/file/c11abd17172537f657473.jpg",
+        "https://telegra.ph/file/dcb0df7dbbd6a1088ff53.jpg",
+        "https://telegra.ph/file/4d385306468b420fc03ad.jpg"
+    ]
+};

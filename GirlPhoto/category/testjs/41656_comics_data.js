@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41656,
+    "title": "Xidaidai - Shigure Ui (Vtuber)",
+    "sourceUrl": "https://telegra.ph/Xidaidai---Shigure-Ui-Vtuber-07-01",
+    "images": [
+        "https://telegra.ph/file/04f943543bcd33aba8a16.jpg",
+        "https://telegra.ph/file/2034b034d23c4a22d266d.jpg",
+        "https://telegra.ph/file/8d1b980f5bdcf12d29a69.jpg",
+        "https://telegra.ph/file/4f6a1f1d2094a2f4546c0.jpg",
+        "https://telegra.ph/file/f118d8e3080c8cb651da1.jpg",
+        "https://telegra.ph/file/5444bbf26f8356c7cff17.jpg",
+        "https://telegra.ph/file/60158af32ad14ab99015d.jpg",
+        "https://telegra.ph/file/ff51c2bd8cc38059ac5e1.jpg",
+        "https://telegra.ph/file/bad40ec6e82850f0737f6.jpg",
+        "https://telegra.ph/file/225a6637e4fde7af07550.jpg",
+        "https://telegra.ph/file/7f5e02f1ca9882d0dbaf2.jpg",
+        "https://telegra.ph/file/34c3273e9de97fa639014.jpg",
+        "https://telegra.ph/file/baffdec6514361c7870c3.jpg",
+        "https://telegra.ph/file/540e124215d0661b01489.jpg",
+        "https://telegra.ph/file/d76c21b2131c1a4ecf46b.jpg",
+        "https://telegra.ph/file/ffa87bf3c38c4e5a68b1b.jpg",
+        "https://telegra.ph/file/6626f5c42aa970cae8257.jpg",
+        "https://telegra.ph/file/f21a9d76c7af224b9a144.jpg",
+        "https://telegra.ph/file/1bfefcdf26068013a1330.jpg",
+        "https://telegra.ph/file/19cd03f38727cbc10bc2d.jpg",
+        "https://telegra.ph/file/bde50a182299943e99dd0.jpg",
+        "https://telegra.ph/file/d69967b9bf02833cc3d11.jpg",
+        "https://telegra.ph/file/8c0801f8b08226935fa0b.jpg",
+        "https://telegra.ph/file/c288227865fe305524cd6.jpg",
+        "https://telegra.ph/file/85920de75191adb2ad350.jpg"
+    ]
+};

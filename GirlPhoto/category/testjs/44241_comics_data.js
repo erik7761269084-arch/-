@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 44241,
+    "title": "Azami - Yelan",
+    "sourceUrl": "https://telegra.ph/Azami---Yelan-09-29",
+    "images": [
+        "https://telegra.ph/file/698307d82a36ea99b22b3.jpg",
+        "https://telegra.ph/file/d50ff13cf0ab9570986df.jpg",
+        "https://telegra.ph/file/323a73f2130b541b44652.jpg",
+        "https://telegra.ph/file/50980ea6a6d52d216f75f.jpg",
+        "https://telegra.ph/file/40c7d4f7424103656997c.jpg",
+        "https://telegra.ph/file/40c3c71c4e5f0a3db5520.jpg",
+        "https://telegra.ph/file/1af1456df6adf7d290b4b.jpg",
+        "https://telegra.ph/file/1eb10c23f7896d3738bb0.jpg",
+        "https://telegra.ph/file/aeccdcd8d3adb6d0f0775.jpg",
+        "https://telegra.ph/file/de279fe02c719117b68a8.jpg",
+        "https://telegra.ph/file/ba19fb5e27c0fb3bf87ad.jpg",
+        "https://telegra.ph/file/4e09977717f7a341d9716.jpg",
+        "https://telegra.ph/file/28fa331ac55baa981ff20.jpg",
+        "https://telegra.ph/file/c49af0c21dfbcb5b143ab.jpg",
+        "https://telegra.ph/file/22180dc7813fb01b3e146.jpg",
+        "https://telegra.ph/file/f86cb5ab5acea583e9969.jpg",
+        "https://telegra.ph/file/b46153b66713a6fc5f898.jpg",
+        "https://telegra.ph/file/ae3d295929464fd2438dd.jpg",
+        "https://telegra.ph/file/2718e17e15fc1aeecc7ed.jpg",
+        "https://telegra.ph/file/e025c718d2e68d987f4db.jpg",
+        "https://telegra.ph/file/7b22acebd9acf090ddf73.jpg",
+        "https://telegra.ph/file/12760774834fecf244866.jpg",
+        "https://telegra.ph/file/723cb62f99d1e8a930a6e.jpg"
+    ]
+};

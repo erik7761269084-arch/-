@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 46069,
+    "title": "KaYa 萱 - 阿尔托莉雅女仆 - Page 1",
+    "sourceUrl": "https://telegra.ph/KaYa-萱---阿尔托莉雅女仆---Page-1-11-23",
+    "images": [
+        "https://telegra.ph/file/09402f857d24f6cc6a089.jpg",
+        "https://telegra.ph/file/b9b5ef3eaa5abc7482b44.jpg",
+        "https://telegra.ph/file/47a446209fe309bac95bf.jpg",
+        "https://telegra.ph/file/6599b6b0577ac35e65934.jpg",
+        "https://telegra.ph/file/28039a62b4d0466414ca7.jpg",
+        "https://telegra.ph/file/3e6c914f8d89f92147af3.jpg",
+        "https://telegra.ph/file/fb08cf2e4e832b4b63733.jpg",
+        "https://telegra.ph/file/57509c3834e1388f0390d.jpg",
+        "https://telegra.ph/file/1d022bed71b93e7b9aa0f.jpg",
+        "https://telegra.ph/file/97209789912b0deac5c7f.jpg",
+        "https://telegra.ph/file/ed9b900e3af3000a05978.jpg",
+        "https://telegra.ph/file/533ecd62ec2a898fd64aa.jpg",
+        "https://telegra.ph/file/62f84af2c1ec5b22a6af6.jpg",
+        "https://telegra.ph/file/1cbc4c83533bb687b9f6c.jpg",
+        "https://telegra.ph/file/69995aabeaf3c13687c55.jpg",
+        "https://telegra.ph/file/27c6cf851d8872790651d.jpg",
+        "https://telegra.ph/file/b9fd8aadb2cfeee0ed216.jpg",
+        "https://telegra.ph/file/954e3c2bca1d9b4ecb314.jpg",
+        "https://telegra.ph/file/63717c0c29df01b969637.jpg",
+        "https://telegra.ph/file/ad3a8bd59e00dbc46271a.jpg",
+        "https://telegra.ph/file/c55f842878af83f40b1ca.jpg",
+        "https://telegra.ph/file/fdc5875f2d2ba866d6a37.jpg",
+        "https://telegra.ph/file/7380c0b73f870f67c126e.jpg",
+        "https://telegra.ph/file/c3d4546c5e7a4f1714e00.jpg"
+    ]
+};

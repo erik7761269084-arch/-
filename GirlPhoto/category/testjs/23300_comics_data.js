@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 23300,
+    "title": "麻花麻花酱 - 特典旗袍",
+    "sourceUrl": "https://telegra.ph/%E9%BA%BB%E8%8A%B1%E9%BA%BB%E8%8A%B1%E9%85%B1---%E7%89%B9%E5%85%B8%E6%97%97%E8%A2%8D-02-12",
+    "images": [
+        "https://telegra.ph/file/44eb8681e3cb02af8cb91.jpg",
+        "https://telegra.ph/file/22738d4e0a4c97e6a1a03.jpg",
+        "https://telegra.ph/file/06cfed2eba3d9e40d9bd0.jpg",
+        "https://telegra.ph/file/b7c215493d0cce8d96a41.jpg",
+        "https://telegra.ph/file/e344a7955e24416fc55aa.jpg",
+        "https://telegra.ph/file/a63285887862e5b25ef2a.jpg",
+        "https://telegra.ph/file/8d640b404d88ba812b80e.jpg",
+        "https://telegra.ph/file/ad7e3fadcfaf642842c9e.jpg",
+        "https://telegra.ph/file/82c1bacb58873afc2e3b5.jpg",
+        "https://telegra.ph/file/83b67fb75b10180f01b98.jpg",
+        "https://telegra.ph/file/23c9a4f24512a50c6d5a4.jpg",
+        "https://telegra.ph/file/255c4c9e1cb42552927fd.jpg",
+        "https://telegra.ph/file/52380ecbce065ba160c44.jpg",
+        "https://telegra.ph/file/d5ec00e4d96ef4558e1b1.jpg",
+        "https://telegra.ph/file/aa78965ef9d6ea2e0c5fd.jpg",
+        "https://telegra.ph/file/5dc7aafd0dd82adcc0991.jpg",
+        "https://telegra.ph/file/c283f38166046982fb0e3.jpg",
+        "https://telegra.ph/file/96ae760d3af5e2fe083c7.jpg",
+        "https://telegra.ph/file/c60659b138cb46b71167d.jpg",
+        "https://telegra.ph/file/6c4e5b3bd0fa82e067a16.jpg",
+        "https://telegra.ph/file/47890295d6e823c0dba01.jpg",
+        "https://telegra.ph/file/4b337115b0c7e4a7eae3e.jpg",
+        "https://telegra.ph/file/69d7d2776dc94f93f8185.jpg",
+        "https://telegra.ph/file/93825890fcaa6dc5001a2.jpg",
+        "https://telegra.ph/file/b6323bd62f7ecd169710d.jpg"
+    ]
+};

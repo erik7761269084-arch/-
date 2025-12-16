@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 22821,
+    "title": "羽生三未 - NO.004 精灵花嫁 [26P220MB]",
+    "sourceUrl": "https://telegra.ph/%E7%BE%BD%E7%94%9F%E4%B8%89%E6%9C%AA---NO004-%E7%B2%BE%E7%81%B5%E8%8A%B1%E5%AB%81-26P220MB-12-15",
+    "images": [
+        "https://telegra.ph/file/41d4d1713e2c49488de9e.jpg",
+        "https://telegra.ph/file/7671cddd8caa7a6052f8d.jpg",
+        "https://telegra.ph/file/120d0cfb8b5497f5618fd.jpg",
+        "https://telegra.ph/file/8dc7330fe34c39acca908.jpg",
+        "https://telegra.ph/file/e3f2fa3839760fed7ca19.jpg",
+        "https://telegra.ph/file/658dcd6f7bcbba2408037.jpg",
+        "https://telegra.ph/file/66f59c2e3cb15cf2d103f.jpg",
+        "https://telegra.ph/file/df4da65eecff665174287.jpg",
+        "https://telegra.ph/file/889dba91a722dfe07dfb8.jpg",
+        "https://telegra.ph/file/01189992a77e6b5fbec51.jpg",
+        "https://telegra.ph/file/2bff0003fe0b940f537cc.jpg",
+        "https://telegra.ph/file/e224557200784d9819396.jpg",
+        "https://telegra.ph/file/1b137845d8ca30335ca90.jpg",
+        "https://telegra.ph/file/ead597026d0007a32f04f.jpg",
+        "https://telegra.ph/file/0d03e77abf48250bebd9e.jpg",
+        "https://telegra.ph/file/a9318e0ec9823bda757e5.jpg",
+        "https://telegra.ph/file/36b8caa05589c7a90e20d.jpg",
+        "https://telegra.ph/file/289acf14e552ee39a0fb9.jpg",
+        "https://telegra.ph/file/5343ac1560e8650d1d34b.jpg",
+        "https://telegra.ph/file/5a5df3a5d19bc5f0e2e8b.jpg",
+        "https://telegra.ph/file/1f9c923c555b8fce03ce5.jpg",
+        "https://telegra.ph/file/b31d7c300b5339e8e71d7.jpg",
+        "https://telegra.ph/file/26363f61f5978e05b6ac1.jpg",
+        "https://telegra.ph/file/7143a512c7ab039755b22.jpg",
+        "https://telegra.ph/file/7b3993c038783d19f61fa.jpg",
+        "https://telegra.ph/file/797f4adf4c1f09c1a7bc3.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 38414,
+    "title": "Lady Oichi - Tifa Halloween (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/Lady-Oichi---Tifa-Halloween-Final-Fantasy-10-30",
+    "images": [
+        "https://telegra.ph/file/514c06da793a0d988632d.jpg",
+        "https://telegra.ph/file/ee13046d1e64d0e66434d.jpg",
+        "https://telegra.ph/file/b4a1248b2c1ebb9a82c72.jpg",
+        "https://telegra.ph/file/6aa1df107d54d5874e91a.jpg",
+        "https://telegra.ph/file/a3a805caef177e1757f46.jpg",
+        "https://telegra.ph/file/99d283600b7f80695befe.jpg",
+        "https://telegra.ph/file/791b3a0cbdc3b2fac4d12.jpg",
+        "https://telegra.ph/file/6e4a22ed74ea94665ce26.jpg",
+        "https://telegra.ph/file/3f5a8d07f5e61f9675443.jpg",
+        "https://telegra.ph/file/50ae1a72820daded3170f.jpg",
+        "https://telegra.ph/file/f5ea27cd701de833d7a24.jpg",
+        "https://telegra.ph/file/2cacd735a3d0ba29a3980.jpg",
+        "https://telegra.ph/file/0d5da816a1cd74d553266.jpg",
+        "https://telegra.ph/file/0d0486417bd531f1b7f78.jpg",
+        "https://telegra.ph/file/a3ca0daf7f7f1e4429f47.jpg",
+        "https://telegra.ph/file/f613ab1da955ffcb4cc33.jpg",
+        "https://telegra.ph/file/875cde80b518afd4a86f4.jpg",
+        "https://telegra.ph/file/fea2c7efa4be37dcd96c8.jpg",
+        "https://telegra.ph/file/4ca9670c3ed20323970a5.jpg",
+        "https://telegra.ph/file/255d8a94ebf39bda07bfb.jpg",
+        "https://telegra.ph/file/88dcea3c754974e7adcd2.jpg",
+        "https://telegra.ph/file/2f0b7be5f047e3be4e07a.jpg",
+        "https://telegra.ph/file/15a8babb0e0cd38547e5b.jpg",
+        "https://telegra.ph/file/7de7b20c8018c9e8853b2.jpg",
+        "https://telegra.ph/file/ca8ce85047b18803ef3be.jpg"
+    ]
+};

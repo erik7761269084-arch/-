@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31343,
+    "title": "Potato Godzilla Cosplay Rizu-kyun",
+    "sourceUrl": "https://telegra.ph/Potato-Godzilla-Cosplay-Rizu-kyun-08-16",
+    "images": [
+        "https://telegra.ph/file/fafa380a3625b953d565f.jpg",
+        "https://telegra.ph/file/ad3e84bc939d176085f2e.jpg",
+        "https://telegra.ph/file/57a123b12bbb4d727eb0a.jpg",
+        "https://telegra.ph/file/b9ab5e94de98b2c69025e.jpg",
+        "https://telegra.ph/file/5943d1fc01d56695a25bf.jpg",
+        "https://telegra.ph/file/911accaa36afaca74d424.jpg",
+        "https://telegra.ph/file/4b9eef05012bd922a828e.jpg",
+        "https://telegra.ph/file/f030a5c4e254551e829f1.jpg",
+        "https://telegra.ph/file/b069baa78265d8908569c.jpg",
+        "https://telegra.ph/file/1a370742c4dfe4a1fd2cb.jpg",
+        "https://telegra.ph/file/a5c097c2506564fef51df.jpg",
+        "https://telegra.ph/file/f3e9090b801059947ea22.jpg",
+        "https://telegra.ph/file/50bdf8babebc39dd916b7.jpg",
+        "https://telegra.ph/file/4f38b561533f0e6bd8278.jpg",
+        "https://telegra.ph/file/31cbd1bd291f0a2b62d71.jpg",
+        "https://telegra.ph/file/22284373d7f3ad23d6610.jpg",
+        "https://telegra.ph/file/ee1a65ebfaa08a6b48dbc.jpg",
+        "https://telegra.ph/file/3cccdf1ec63fc45bcebab.jpg",
+        "https://telegra.ph/file/a29da7002e2f95a06b82c.jpg",
+        "https://telegra.ph/file/4cafcc815fd5f6ebbe3bd.jpg",
+        "https://telegra.ph/file/5007bb77fadd7e52c2dc5.jpg",
+        "https://telegra.ph/file/68a7b0c02cd75c2531095.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 32241,
+    "title": "HARU, [Moon Night Snap] A day for you Vol.01 &#8211; Set.02",
+    "sourceUrl": "https://telegra.ph/HARU-Moon-Night-Snap-A-day-for-you-Vol01-8211-Set02-10-31",
+    "images": [
+        "https://telegra.ph/file/1e2d1831dd297bc5a5872.jpg",
+        "https://telegra.ph/file/6286f3515a0b5682e687f.jpg",
+        "https://telegra.ph/file/60b50d61905901646bb63.jpg",
+        "https://telegra.ph/file/eeb0400e0866c3b981084.jpg",
+        "https://telegra.ph/file/daf05d0fa0bad3b560410.jpg",
+        "https://telegra.ph/file/6ec2a139569922180cf59.jpg",
+        "https://telegra.ph/file/dde3afa5fa558d31eb9e6.jpg",
+        "https://telegra.ph/file/0d24166fea57d0cf0c593.jpg",
+        "https://telegra.ph/file/1bbf505f602e91c25278b.jpg",
+        "https://telegra.ph/file/a3a5c9c39ea78f3ab4b95.jpg",
+        "https://telegra.ph/file/8f0700df19d840408a66f.jpg",
+        "https://telegra.ph/file/fa454424f7790ed4d7839.jpg",
+        "https://telegra.ph/file/e2c3d6022352874cecf89.jpg",
+        "https://telegra.ph/file/3769c1f690e58de187c80.jpg",
+        "https://telegra.ph/file/66d764a2e9aea2f41c3a4.jpg",
+        "https://telegra.ph/file/2f6171cb1a83daac2cbd7.jpg",
+        "https://telegra.ph/file/99964c5926e3bbde04689.jpg",
+        "https://telegra.ph/file/8f899c332113083b28167.jpg",
+        "https://telegra.ph/file/d6f7e51ef0aba01dd5460.jpg",
+        "https://telegra.ph/file/54b2c68d9a84607c4017d.jpg",
+        "https://telegra.ph/file/464a22be6e3c192ec7166.jpg",
+        "https://telegra.ph/file/20f20fbdd9c131618c338.jpg",
+        "https://telegra.ph/file/8be62500c50eb22c546b9.jpg",
+        "https://telegra.ph/file/0ebc598815b63464c5ec1.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

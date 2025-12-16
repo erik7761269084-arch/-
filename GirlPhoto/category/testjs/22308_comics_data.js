@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 22308,
+    "title": "51酱 - 恶毒 碧蓝航线",
+    "sourceUrl": "https://telegra.ph/51%E9%85%B1---%E6%81%B6%E6%AF%92-%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-08-29",
+    "images": [
+        "https://image.acg.lol/file/2025/08/29/1-1681050ee4c3487f6.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-21079edbedd43a23c.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-3ad243ccc03dea283.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-47f340e91967cbad4.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-56f955084a742ce94.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-62192eed1a0681f50.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-76762dc576f612440.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-894bcb1023d5e0ba2.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-9f65c0e528109aedb.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-10a76dc0fa1b3be840.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-1187239e7736693fa6.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-12035e55b0680f1606.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-13364c182d3fd0e90c.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-14f5045d7b3bd90c38.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-15ac069f96b36a03f8.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-1665fb75070cb3e0ff.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-179f6248e5223619a6.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-182a10e75d57fbf445.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-197d93cb5f4d1907a5.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-2023c01765d70e00a4.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-21c6c7bcea6c6ec3cc.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-22dc5a0797bf800258.jpg",
+        "https://image.acg.lol/file/2025/08/29/1-23724d37785db206ee.jpg"
+    ]
+};

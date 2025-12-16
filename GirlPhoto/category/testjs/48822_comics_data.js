@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 48822,
+    "title": "QUEENIE CHUPPY - St. Louis - Page 1",
+    "sourceUrl": "https://telegra.ph/QUEENIE-CHUPPY---St-Louis---Page-1-09-03",
+    "images": [
+        "https://telegra.ph/file/a21ea2f17cfe80b3038da.jpg",
+        "https://telegra.ph/file/0fab463a5dfbbde0e311a.jpg",
+        "https://telegra.ph/file/c3e00f95076413b5b1fbd.jpg",
+        "https://telegra.ph/file/eec21de71c6a0572d1104.jpg",
+        "https://telegra.ph/file/a3d25c6e90a9506c1faad.jpg",
+        "https://telegra.ph/file/a2247bdcf3491fba87ed4.jpg",
+        "https://telegra.ph/file/f99716e31e99f9baf37f5.jpg",
+        "https://telegra.ph/file/ae45300638d37a5a5eddc.jpg",
+        "https://telegra.ph/file/40347d2472bf11c78f4fd.jpg",
+        "https://telegra.ph/file/2d211ff464e79b45c81bf.jpg",
+        "https://telegra.ph/file/fe7e06b9f7b09a080ed6f.jpg",
+        "https://telegra.ph/file/95145369ddb03b8303c3c.jpg",
+        "https://telegra.ph/file/6b262fe98a6c5683f35f9.jpg",
+        "https://telegra.ph/file/2bcf85efdcbd1c0781f89.jpg",
+        "https://telegra.ph/file/0f8a67f099e8160cae6aa.jpg",
+        "https://telegra.ph/file/86f7a6e550b2afed05e19.jpg",
+        "https://telegra.ph/file/5aada176bf355d69bf89e.jpg",
+        "https://telegra.ph/file/c02ee0357265b2aa1c155.jpg",
+        "https://telegra.ph/file/21b44a30ca0de7f7b6499.jpg",
+        "https://telegra.ph/file/78051349082514fc2981a.jpg",
+        "https://telegra.ph/file/5d070621ce63e736e9b52.jpg",
+        "https://telegra.ph/file/eb760f26db675af09d1a0.jpg",
+        "https://telegra.ph/file/cfbcd7eac43c40a26f415.jpg",
+        "https://telegra.ph/file/5d59d555b55ca670e9205.jpg",
+        "https://telegra.ph/file/34fa45001dbe9ee7fae4f.jpg"
+    ]
+};

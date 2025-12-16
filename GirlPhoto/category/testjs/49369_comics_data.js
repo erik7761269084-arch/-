@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 49369,
+    "title": "钛合金TiTi - 风玲公主 - Page 1",
+    "sourceUrl": "https://telegra.ph/钛合金TiTi---风玲公主---Page-1-01-19",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3XhnjR_T80uTyrem-QU_uUoEcuOL9QACfh0AAkwIaVQS-8q8EYmzZzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3XlnjR_XdPudkJQUFdwMyY4AAd9gtUcAAn8dAAJMCGlUeEf38ihoy9o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3XpnjR_aEWx78vFpegR5Ytoe-ZEYhQACgB0AAkwIaVRG652BJhPmDTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3XtnjR_cGoWTAAEQ5-hn8M5fW2_ur6MAAoEdAAJMCGlUcjLK4iG8cCA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3XxnjR_e9-9RM1dGF5JoLN7Hq9BRiQACgh0AAkwIaVTk6V4xAclpFjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3X1njR_jD63MopSf94S65J2XAQUJZwACgx0AAkwIaVTNNUhcJhrjqDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3X5njR_mw-bVHWGqGruENi1q5io95AAChB0AAkwIaVRLl70K_khWWjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3X9njR_pkSHWT1CzhPqKPAOqU6hHqAAChR0AAkwIaVSzyT26wlacfjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YBnjR_toj4zEN4N158ZjEc3NE4nSgAChh0AAkwIaVRQR831qQE5tzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YFnjR_wUrwUaWAm3gABt-jFuLmWaRcAAocdAAJMCGlUeGv1-jdXyo02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YJnjR_yw8d1fEc4pIUMqOIs3POroAACiB0AAkwIaVQJ2nS5-4I8AAE2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YNnjR_07Y0G-dZwyvjaE-xuGFkj8AACiR0AAkwIaVRaseQx7NOGYDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YVnjSAD4nTlAAHdD3U1xmVq7URqrYkAAosdAAJMCGlUBGjZPxGk7e02BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3YlnjSC2koicDhEpJClvTOtGYl0d3AACjx0AAkwIaVR9bbtNQ28QHjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3ZZnjSGdHPIRB0TZeiJXkYYXQ4hPaQACnh0AAkwIaVTtlPB_uYGEFzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3ZdnjSGn8RhPxHSlo14Eb2Rt6ImW-QACnx0AAkwIaVTkrXFler4LLzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3ZhnjSHByomac7058IHSdw-tV9fTWAACoB0AAkwIaVQYUE9g9lNdRTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3ZlnjSHFDJxkVqaYJtBArhYXvJnoBAACoR0AAkwIaVRsjy9cikMDNzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3ZpnjSHINdstp7odQi3Na_Q5kBh5mgACoh0AAkwIaVT0_hyn63iK1zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3Z5njSINQJvcuR5mhuECz9DYK1-AEAACpx0AAkwIaVTryzQUgSAlyzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3aBnjSIPSq244Xb2YE44fsZQpvhrPQACqR0AAkwIaVTP7i333YSBOTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3aJnjSIT8O0GbpKZGtEPjN3Y1UUnlAACqx0AAkwIaVR8WfYiEPI4JzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED3aNnjSIVzXl9dKsPPmBgkEDmbSH9LQACrB0AAkwIaVTxjjpd_8eDeTYE"
+    ]
+};

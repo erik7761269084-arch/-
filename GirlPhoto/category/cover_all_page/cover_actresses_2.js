@@ -365,11 +365,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉.html"
   },
   {
-    "title": "白莉爱吃巧克力",
-    "cover_url": "https://telegra.ph/file/5b72ef645934ddd105b81.png",
-    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白莉爱吃巧克力.html"
-  },
-  {
     "title": "安曜曜",
     "cover_url": "https://telegra.ph/file/f79f72266a165ec361461.png",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_安曜曜.html"
@@ -498,5 +493,10 @@ window.PAGE_DATA = [
     "title": "w百合欧皇子w",
     "cover_url": "https://telegra.ph/file/c57a8648eb2fd95ebbbf2.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_w百合欧皇子w.html"
+  },
+  {
+    "title": "wendydydydy_酱油",
+    "cover_url": "https://telegra.ph/file/5e69506f13428fe1611fb.png",
+    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_wendydydydy_酱油.html"
   }
 ];

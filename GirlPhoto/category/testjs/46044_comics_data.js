@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46044,
+    "title": "[Fantasy Factory 小丁] - Shuten Douji - Page 1",
+    "sourceUrl": "https://telegra.ph/Fantasy-Factory-小丁---Shuten-Douji---Page-1-11-21",
+    "images": [
+        "https://telegra.ph/file/d4343c983ecae60e49378.jpg",
+        "https://telegra.ph/file/4f2edd365c1405242829b.jpg",
+        "https://telegra.ph/file/20e8bc404bc04af80bcf1.jpg",
+        "https://telegra.ph/file/2b285a2755b52fb888fad.jpg",
+        "https://telegra.ph/file/d816210eb5b7f8938bd72.jpg",
+        "https://telegra.ph/file/a8ad06165f3632a2eba9f.jpg",
+        "https://telegra.ph/file/a011e59bf0bf0a7846c3a.jpg",
+        "https://telegra.ph/file/f2add092741243ababdfd.jpg",
+        "https://telegra.ph/file/d9218d143659cb43b1176.jpg",
+        "https://telegra.ph/file/bc9782b9ad89bab050e10.jpg",
+        "https://telegra.ph/file/c4a2a6da73cd9b2e1fc0b.jpg",
+        "https://telegra.ph/file/b47b5bea274ddadd13104.jpg",
+        "https://telegra.ph/file/c08be718faceea27c9061.jpg",
+        "https://telegra.ph/file/fa6e116d51f59f82be800.jpg",
+        "https://telegra.ph/file/8183d35fabb26309e32e3.jpg",
+        "https://telegra.ph/file/25745279bfdea2c252ea3.jpg",
+        "https://telegra.ph/file/a92f5bf87835a7592c7cc.jpg",
+        "https://telegra.ph/file/6b7aa267be9d0b0d40fb1.jpg",
+        "https://telegra.ph/file/2c39c902a53f57ab94e5c.jpg",
+        "https://telegra.ph/file/7e58ba1c2881315fa8043.jpg",
+        "https://telegra.ph/file/288a846c7b16890bb9140.jpg",
+        "https://telegra.ph/file/9aefb611b0a0d9396ce85.jpg",
+        "https://telegra.ph/file/d386a785bdc668d43ef0f.jpg",
+        "https://telegra.ph/file/4485b78086d60468329e7.jpg",
+        "https://telegra.ph/file/1af8368f31bce3a6b03dd.jpg"
+    ]
+};

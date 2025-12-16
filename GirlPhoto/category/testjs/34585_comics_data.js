@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 34585,
+    "title": "Yua Mikami 三上悠亜, 写真集 「399DAYS」 3部作 VOL.3 涅槃 Set.01",
+    "sourceUrl": "https://telegra.ph/Yua-Mikami-三上悠亜-写真集-399DAYS-3部作-VOL3-涅槃-Set01-06-28",
+    "images": [
+        "https://telegra.ph/file/85736983cbae6fbab7ad0.jpg",
+        "https://telegra.ph/file/57641fe1a8e50fc7e4ab7.jpg",
+        "https://telegra.ph/file/84c158f593451fa6faa04.jpg",
+        "https://telegra.ph/file/bdf1717fb074d4c6f9ae1.jpg",
+        "https://telegra.ph/file/76b36a9b5c2f3fd0d026a.jpg",
+        "https://telegra.ph/file/fab9fc5aadcc4430462f0.jpg",
+        "https://telegra.ph/file/eb9d5c40634c3ab547050.jpg",
+        "https://telegra.ph/file/c994c12ee71f809c3bbf6.jpg",
+        "https://telegra.ph/file/662970aca0a3d51f92667.jpg",
+        "https://telegra.ph/file/56c722868b37a581b73a7.jpg",
+        "https://telegra.ph/file/0b0e989d8e8b55dc5cebd.jpg",
+        "https://telegra.ph/file/70e27c76b4d0e6da56def.jpg",
+        "https://telegra.ph/file/0b9e5b5b2d30ebdecd41f.jpg",
+        "https://telegra.ph/file/a77a85b000ab3959de4e2.jpg",
+        "https://telegra.ph/file/5cf6084b655bd18e684f4.jpg",
+        "https://telegra.ph/file/90e8b10c57b051ff62c3b.jpg",
+        "https://telegra.ph/file/8654adefd57d0a3020e5e.jpg",
+        "https://telegra.ph/file/a9055ece93a51ae1583a4.jpg",
+        "https://telegra.ph/file/652141f4750abadc76c56.jpg",
+        "https://telegra.ph/file/9ed3cbdf8a6b738f215f8.jpg",
+        "https://telegra.ph/file/dee2ade7c278cdee3f465.jpg",
+        "https://telegra.ph/file/5f427e120d8d10d6eb856.jpg",
+        "https://telegra.ph/file/9ff56c8f46ab83fc93457.jpg",
+        "https://telegra.ph/file/20fa7d182cfcba542c6ac.jpg",
+        "https://telegra.ph/file/6c5c44a9e5b92aa94fea9.jpg"
+    ]
+};

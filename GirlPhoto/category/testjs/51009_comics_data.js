@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 51009,
+    "title": "NENE - 轟 はじめ - Page 1",
+    "sourceUrl": "https://telegra.ph/NENE---轟-はじめ---Page-1-09-20",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHa5oziGj04I7QKlu2GM88ekZVgoTVwAC4SMAAo8icFYxZ8T7lbMl0DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHa9oziGmySHTA7AadjTATsgLZHPwnAAC4iMAAo8icFZ5-wGtaTe5AjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbBoziGnLPQaN6jx-3ze95999I8jqAAC4yMAAo8icFZz8Ab5iC75xTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbFoziGo_cY3Di2hnnpDEcMpaVI4CgAC5CMAAo8icFZwWkIOhPDfWDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbJoziGqr7_GiC2eijGKQ0z1lfQwGgAC5SMAAo8icFY82o3kfdoVbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbNoziGsF6yecuyB3tQHPRMujwr8WgAC5iMAAo8icFYIMSs3ygMQZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbRoziGtmmfnDD0cwMw1DCgJDXzkIgAC5yMAAo8icFZ6LZfXVkHL9jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbVoziGv8pAaqNjrGPTX1X0C_rwyjgAC6CMAAo8icFYUTY9vfEqrBDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbZoziGw4di4QXHgURiusNOEe4OlOwAC6SMAAo8icFZRDgjBLn89vDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbdoziGxAXVY8J4RFOt56nO96icMTwAC6iMAAo8icFYte6AefgE62DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbhoziGy7DydsGyaPq99n5lvBoJyBAAC6yMAAo8icFa3j9V4gb1bFzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbloziGzKp369yJb2FRmyAYlhEmj0gAC7CMAAo8icFZ5d-Hwe05IRTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbpoziG1Jm7fsVGOG-69qcn44OTXjQAC7SMAAo8icFaWN9gwYm12mDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbtoziG2gpXbBRmrXV_BL8jknHQEHgAC7iMAAo8icFbMgiy6Eka3jDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHbxoziG4G38Hi5SQVZuEKfSWockzZgAC7yMAAo8icFY97ifBHYGTujYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHb1oziG5n_Ejki_HPzfraOmM4z9X8wAC8CMAAo8icFZF1t98AqociDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHb5oziG6neUyQYP2coG91ojtjfYOMgAC8SMAAo8icFas1PaHK833nDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHb9oziG7-TEW5ozsyONviM0CMRnqTgAC8iMAAo8icFbcmQo2z2jxUjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcBoziG8OOnWP8ggtHyV_l4CK-wJcwAC8yMAAo8icFYjxiVXW8FznDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcFoziG9qcJyf3dMDEIpGj6CgtUuuAAC9CMAAo8icFaWp0lXJNgnvTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcJoziH75OlSgeJisisxwBe8GfwMaAAC9SMAAo8icFYoIQ6O_4v1ozYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcNoziH8qUMG7heE7-b7ln_1W6X5jwAC9iMAAo8icFbZU1oGOT-A1jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcRoziH-i5KJG0yOHOnn021vJAJAzwAC9yMAAo8icFa4w876XU33zjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcVoziH_y9bONpUn60QxUxk4WMDB_gAC-CMAAo8icFYj8oMKVGQ_2DYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcZoziIAAeTe96JHF8zzSVnr16uovkQAAvkjAAKPInBWoTtq28qNi9E2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERHcdoziIBsvY6UmFqfEcTaMAUfQHlNQAC-iMAAo8icFasLNdGy8LeEjYE"
+    ]
+};

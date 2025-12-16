@@ -1,10 +1,5 @@
 window.PAGE_DATA = [
   {
-    "title": "wendydydydy_酱油",
-    "cover_url": "https://telegra.ph/file/5e69506f13428fe1611fb.png",
-    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_wendydydydy_酱油.html"
-  },
-  {
     "title": "Uy Uy(uyuy)",
     "cover_url": "https://telegra.ph/file/2c06bb65d4041e1aff1a5.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Uy Uy(uyuy).html"
@@ -498,5 +493,10 @@ window.PAGE_DATA = [
     "title": "Espacia Korea",
     "cover_url": "https://telegra.ph/file/4bd9cbbf91c1192b3ce1c.jpg",
     "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Espacia Korea.html"
+  },
+  {
+    "title": "ElyEE子",
+    "cover_url": "https://telegra.ph/file/67a3ff15ae2505a4db478.jpg",
+    "title_play_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ElyEE子.html"
   }
 ];

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 22492,
+    "title": "上杉绘梨落 柴郡同人 24P377MB",
+    "sourceUrl": "https://telegra.ph/%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%90%BD-%E6%9F%B4%E9%83%A1%E5%90%8C%E4%BA%BA-24P377MB-11-21",
+    "images": [
+        "https://image.acg.lol/file/2025/11/21/1-1ac3fcc7985f00f15.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-2327bf6b103c23cb6.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-3262ce8fc9ed40d2d.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-41d9b44b799954880.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-54fb5e0e8396ade6a.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-6943da9bb885a1e83.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-7f374d2697b8fb386.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-81f52c34fc59d77aa.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-9d94e0d1ffee1ae6b.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-1000c8e107af9ea993.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-11e19957d0f3858106.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-12d92af5460d9e8c9b.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-13aeda2821c20ce34f.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-14aa6c2e5592215ef5.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-15cd8610ab20224ae3.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-1690a48433581479b4.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-1747ec19564e22983e.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-183649c34c33e9ca72.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-1961ed15cc6ae095ae.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-203443548fe24c4e1e.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-2132638dc9f20bc2cd.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-22a2360736b489e72e.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-23310f157a773434a6.jpg",
+        "https://image.acg.lol/file/2025/11/21/1-2491fb08af41a361e3.jpg"
+    ]
+};

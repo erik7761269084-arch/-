@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 32797,
+    "title": "[小仓千代] Atago 爱宕热带鱼",
+    "sourceUrl": "https://telegra.ph/小仓千代-Atago-爱宕热带鱼-01-01",
+    "images": [
+        "https://telegra.ph/file/b2866a962355dccaf6883.jpg",
+        "https://telegra.ph/file/3754a422883a1a3b3c412.jpg",
+        "https://telegra.ph/file/d8a5802e6225a69a8724e.jpg",
+        "https://telegra.ph/file/5bd384b99b1f6f59f29cc.jpg",
+        "https://telegra.ph/file/8297f8485c82a2f9c2529.jpg",
+        "https://telegra.ph/file/ce55e66c67c3f45fcb50b.jpg",
+        "https://telegra.ph/file/41e6322393b2e494a8d5f.jpg",
+        "https://telegra.ph/file/a8c9fa43af13d5152159f.jpg",
+        "https://telegra.ph/file/32cf3c02a50de996b2578.jpg",
+        "https://telegra.ph/file/fe768df3259d9866f4297.jpg",
+        "https://telegra.ph/file/1c3e4e440b96af579b4d5.jpg",
+        "https://telegra.ph/file/d1371b946f4736fbd8ccd.jpg",
+        "https://telegra.ph/file/a8bd3735873ad421bb5f7.jpg",
+        "https://telegra.ph/file/967e44b28dde07b55019c.jpg",
+        "https://telegra.ph/file/9f9362f9c336df53bebb9.jpg",
+        "https://telegra.ph/file/06656aceb630744d0e3c4.jpg",
+        "https://telegra.ph/file/dfc7ebc5e83e61f335aa8.jpg",
+        "https://telegra.ph/file/7c8241f83c33947d0720f.jpg",
+        "https://telegra.ph/file/8cc6839c3391c2e22aa7a.jpg",
+        "https://telegra.ph/file/07bcdea7abc7d8cd3dba3.jpg",
+        "https://telegra.ph/file/ea1373be62be25f7c467d.jpg",
+        "https://telegra.ph/file/e386233014045db4ff327.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

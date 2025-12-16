@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 23119,
+    "title": "PAKI酱 镂空新娘 [42P7V-91MB]",
+    "sourceUrl": "https://telegra.ph/PAKI%E9%85%B1-%E9%95%82%E7%A9%BA%E6%96%B0%E5%A8%98-42P7V-91MB-01-22",
+    "images": [
+        "https://telegra.ph/file/a1d9591cf8fb05a28b3f0.jpg",
+        "https://telegra.ph/file/992d2cfa9d93743d33c10.jpg",
+        "https://telegra.ph/file/c543505cf9df056e56a5f.jpg",
+        "https://telegra.ph/file/4907120672a7bfb65b53b.jpg",
+        "https://telegra.ph/file/e1ff6309a59be3a40990c.jpg",
+        "https://telegra.ph/file/5f60fd23e848e2b776740.jpg",
+        "https://telegra.ph/file/d3368fc27b7173635ba06.jpg",
+        "https://telegra.ph/file/f0418f4574f275ff3ce90.jpg",
+        "https://telegra.ph/file/8be697c41d36a87c2b8b8.jpg",
+        "https://telegra.ph/file/f726748919be376fb0198.jpg",
+        "https://telegra.ph/file/6f1cf59b46a3dbf1a1df8.jpg",
+        "https://telegra.ph/file/b2deaa04d65bce704d0b4.jpg",
+        "https://telegra.ph/file/3a4975d9e78337df31988.jpg",
+        "https://telegra.ph/file/9c54643de25a21b5df680.jpg",
+        "https://telegra.ph/file/b4cae71988b6252d55d56.jpg",
+        "https://telegra.ph/file/809b31c4763c84179583f.jpg",
+        "https://telegra.ph/file/dd9a394bf1dc5d611bb1a.jpg",
+        "https://telegra.ph/file/4f942011342508fa63b95.jpg",
+        "https://telegra.ph/file/1d2eb24d533034c6ed710.jpg",
+        "https://telegra.ph/file/dc55c517f2dd2c4b81264.jpg",
+        "https://telegra.ph/file/ffe648b9d2653a0f2d3c8.jpg",
+        "https://telegra.ph/file/24e70b2e418f72677a142.jpg",
+        "https://telegra.ph/file/b19bcb03afddd7d8c6ab9.jpg",
+        "https://telegra.ph/file/91dcc68753ddfaced7165.jpg"
+    ]
+};

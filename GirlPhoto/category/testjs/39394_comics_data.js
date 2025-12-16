@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39394,
+    "title": "Fe Galvāo - Toga Himiko (Boku No Hero Academia)",
+    "sourceUrl": "https://telegra.ph/Fe-Galvāo---Toga-Himiko-Boku-No-Hero-Academia-07-19",
+    "images": [
+        "https://telegra.ph/file/a0d42a7f69a262100f744.jpg",
+        "https://telegra.ph/file/bcaec55839e83c3e9c23e.jpg",
+        "https://telegra.ph/file/e9810bd06a2c56bab8bcd.jpg",
+        "https://telegra.ph/file/bc6109c197ab8269c8b6d.jpg",
+        "https://telegra.ph/file/0f1f8404bd0baee9456ac.jpg",
+        "https://telegra.ph/file/07aa39ae78d674c5ee1d9.jpg",
+        "https://telegra.ph/file/b3c78a4b7201f552d3f23.jpg",
+        "https://telegra.ph/file/fe667ca3f9f7874e22ff4.jpg",
+        "https://telegra.ph/file/19987bfbcda7b5fc63d15.jpg",
+        "https://telegra.ph/file/6969012d373499ea10cfa.jpg",
+        "https://telegra.ph/file/1177352ef55c81edb26a7.jpg",
+        "https://telegra.ph/file/00248ae7e47b4183b3e68.jpg",
+        "https://telegra.ph/file/17fddbe0a97c289ae1432.jpg",
+        "https://telegra.ph/file/65828cb1343c1ab27374d.jpg",
+        "https://telegra.ph/file/92cefeae7bb4a72238c94.jpg",
+        "https://telegra.ph/file/8a0982277ef3268c985b5.jpg",
+        "https://telegra.ph/file/69e6c1cf886c548a690ee.jpg",
+        "https://telegra.ph/file/16189a190fd2c43695cf5.jpg",
+        "https://telegra.ph/file/216d5949276bf78a5b974.jpg",
+        "https://telegra.ph/file/e37243a35e4bee8b25b75.jpg",
+        "https://telegra.ph/file/4d53a607cc38816bb06bd.jpg",
+        "https://telegra.ph/file/861549edfde1e9d84b875.jpg",
+        "https://telegra.ph/file/c71107878d37fd038f2c5.jpg",
+        "https://telegra.ph/file/ddeab014698a6cd60f427.jpg"
+    ]
+};

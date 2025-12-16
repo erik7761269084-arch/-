@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 39810,
+    "title": "Joyce - Bunny Lumine (Genshin Impact)",
+    "sourceUrl": "https://telegra.ph/Joyce---Bunny-Lumine-Genshin-Impact-10-31",
+    "images": [
+        "https://telegra.ph/file/889e364fa1ea60f90b9c2.jpg",
+        "https://telegra.ph/file/cb1a1312d1c944d91c886.jpg",
+        "https://telegra.ph/file/355638ee92cb84d34622e.jpg",
+        "https://telegra.ph/file/26690c5aa9f361a89f2d1.jpg",
+        "https://telegra.ph/file/c19253f583ce2785e6dd8.jpg",
+        "https://telegra.ph/file/379ea4e75db19ee7f6eb0.jpg",
+        "https://telegra.ph/file/37c23b24b03b4fab2d149.jpg",
+        "https://telegra.ph/file/c9f80dbadf3d67484efe6.jpg",
+        "https://telegra.ph/file/9e529b082e0224330f925.jpg",
+        "https://telegra.ph/file/8391a4c4ea6fab50059f2.jpg",
+        "https://telegra.ph/file/4ebbbd3b87f3de44eee46.jpg",
+        "https://telegra.ph/file/51a2e2dfd9d9ef1d4351c.jpg",
+        "https://telegra.ph/file/80e724817c2fd1303b089.jpg",
+        "https://telegra.ph/file/bbd81fa01194998d2e541.jpg",
+        "https://telegra.ph/file/fd4cdec59ad6a5af7c06e.jpg",
+        "https://telegra.ph/file/d39bb32d40f6f72df3ef9.jpg",
+        "https://telegra.ph/file/d6ee1249ec7516a0d763a.jpg",
+        "https://telegra.ph/file/d56e2967ec9ed5cbbe40b.jpg",
+        "https://telegra.ph/file/251d4f36f432a753a4f86.jpg",
+        "https://telegra.ph/file/c4f1cf7384eb24d6582c1.jpg",
+        "https://telegra.ph/file/9b6429409bcb4f04ce17e.jpg",
+        "https://telegra.ph/file/aa516f39c17d657400995.jpg",
+        "https://telegra.ph/file/5ee6ef5689ba37d2b99ce.jpg",
+        "https://telegra.ph/file/1b2e3c3e24c6b210d5129.jpg"
+    ]
+};

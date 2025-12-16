@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 27616,
+    "title": "[Cos]宅夏 - 白丝[25P]",
+    "sourceUrl": "https://telegra.ph/Cos%E5%AE%85%E5%A4%8F---%E7%99%BD%E4%B8%9D25P-05-30",
+    "images": [
+        "https://telegra.ph/file/d13432490f8d3f83ce88f.jpg",
+        "https://telegra.ph/file/189d5fa19f30c748e270e.jpg",
+        "https://telegra.ph/file/0fbd137f463cf21f917ac.jpg",
+        "https://telegra.ph/file/7f26b3bef4ca9077b8ef3.jpg",
+        "https://telegra.ph/file/d7f3e961b89c667ae8b20.jpg",
+        "https://telegra.ph/file/b1fcf95417d55236f3541.jpg",
+        "https://telegra.ph/file/41cdf9304d6ee9f2bf554.jpg",
+        "https://telegra.ph/file/b6b24d7074ac4ffb3ed27.jpg",
+        "https://telegra.ph/file/57aa5fc76ba7d043fa662.jpg",
+        "https://telegra.ph/file/d485586f66dc4c208d550.jpg",
+        "https://telegra.ph/file/e6db4c15f9f2f7b982562.jpg",
+        "https://telegra.ph/file/0e651414364e895853a3f.jpg",
+        "https://telegra.ph/file/939df360db702d6c94575.jpg",
+        "https://telegra.ph/file/0774b0cbaf13dae1c4759.jpg",
+        "https://telegra.ph/file/a8e0cce8cdcbcb5b693e6.jpg",
+        "https://telegra.ph/file/0ddd28731df3ed194279c.jpg",
+        "https://telegra.ph/file/e8890903bcf017b656557.jpg",
+        "https://telegra.ph/file/af566da8c48a7106ad1d8.jpg",
+        "https://telegra.ph/file/b3914a84cc6c1742153ab.jpg",
+        "https://telegra.ph/file/22fc80988daac74eeb880.jpg",
+        "https://telegra.ph/file/ffe7e510804d08c5f308d.jpg",
+        "https://telegra.ph/file/c2d025af241f3d28348cf.jpg",
+        "https://telegra.ph/file/e7d158b722d4385f6322a.jpg",
+        "https://telegra.ph/file/e023851939eadb216f647.jpg",
+        "https://telegra.ph/file/8cd0757abc820fedaf999.jpg"
+    ]
+};

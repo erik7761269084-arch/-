@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44284,
+    "title": "Pingping - Ada Wong Nurse",
+    "sourceUrl": "https://telegra.ph/Pingping---Ada-Wong-Nurse-10-23",
+    "images": [
+        "https://telegra.ph/file/87878d91fccb750a89ad4.jpg",
+        "https://telegra.ph/file/d4625274c189420694467.jpg",
+        "https://telegra.ph/file/4fb939aa5f02ee71f1d4d.jpg",
+        "https://telegra.ph/file/fc35ec6d03bffbca3b556.jpg",
+        "https://telegra.ph/file/638cc0778438effed1c56.jpg",
+        "https://telegra.ph/file/dd0a6f9bdb675625c2393.jpg",
+        "https://telegra.ph/file/c84bdf755bfef3f1a9560.jpg",
+        "https://telegra.ph/file/ccf79a0c5d29a4853de42.jpg",
+        "https://telegra.ph/file/0efcb0d5c522892f9030a.jpg",
+        "https://telegra.ph/file/6f35f1e197c000e2b906b.jpg",
+        "https://telegra.ph/file/8f7ba5bc552e20cc4e7a8.jpg",
+        "https://telegra.ph/file/fff3c20f57a3f977bcb75.jpg",
+        "https://telegra.ph/file/c400d25c236a140e92e54.jpg",
+        "https://telegra.ph/file/f243c8ebe5b396c8f0b94.jpg",
+        "https://telegra.ph/file/9f106b3b170f303105987.jpg",
+        "https://telegra.ph/file/62f5fc14da47d61d1ef46.jpg",
+        "https://telegra.ph/file/297f2f7638e5ffc0406d9.jpg",
+        "https://telegra.ph/file/897736815bd415e545d83.jpg",
+        "https://telegra.ph/file/839066cd701c7ac0c8b0e.jpg",
+        "https://telegra.ph/file/91ce4ea0b7715f9036a99.jpg",
+        "https://telegra.ph/file/21ecf7983bc54777e96b3.jpg",
+        "https://telegra.ph/file/1d5c3fdb3afe1273d0d9f.jpg",
+        "https://telegra.ph/file/7b304499211df96a7e629.jpg",
+        "https://telegra.ph/file/7027e144148a7d42caa6f.jpg"
+    ]
+};

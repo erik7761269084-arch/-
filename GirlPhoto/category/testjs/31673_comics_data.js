@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 31673,
+    "title": "[Momoko葵葵] 柴郡 Cheshire Maid",
+    "sourceUrl": "https://telegra.ph/Momoko葵葵-柴郡-Cheshire-Maid-08-26",
+    "images": [
+        "https://telegra.ph/file/57088ce0b2347516f290c.jpg",
+        "https://telegra.ph/file/0ae0ef397bb9921746c5c.jpg",
+        "https://telegra.ph/file/240dc5f265b2a4ffab487.jpg",
+        "https://telegra.ph/file/66baf12f1c9c7caff4747.jpg",
+        "https://telegra.ph/file/76dfcabec9da8f5264d01.jpg",
+        "https://telegra.ph/file/b423c20498a1bbd3dcf02.jpg",
+        "https://telegra.ph/file/019745e9383fa2dbea720.jpg",
+        "https://telegra.ph/file/f095f84a2e967d6dcca81.jpg",
+        "https://telegra.ph/file/e8aa043debbbbf49594b1.jpg",
+        "https://telegra.ph/file/04e8607e4f53cd900efb7.jpg",
+        "https://telegra.ph/file/2a1c15d34d895269857c3.jpg",
+        "https://telegra.ph/file/7c92f78602e036f4438be.jpg",
+        "https://telegra.ph/file/690690512a7debea7df6d.jpg",
+        "https://telegra.ph/file/80475664c3ab41913f07b.jpg",
+        "https://telegra.ph/file/d6d01e1776b7fd38ab512.jpg",
+        "https://telegra.ph/file/a00b96ceef80b9462d531.jpg",
+        "https://telegra.ph/file/22bc7751c299fb0eab262.jpg",
+        "https://telegra.ph/file/52faeee57d77dcad3ddc9.jpg",
+        "https://telegra.ph/file/3a7d4e82b00dcbcc719a6.jpg",
+        "https://telegra.ph/file/07834ace773b8514662fb.jpg",
+        "https://telegra.ph/file/f9779c81e81c4d7915877.jpg",
+        "https://telegra.ph/file/4478b406cc32a7ee38fcd.jpg",
+        "https://telegra.ph/file/909ab73edd02c8c9ca5df.jpg",
+        "https://telegra.ph/file/9724a24314532ff898609.jpg",
+        "https://telegra.ph/file/1cbbd45ace9752b7c2a77.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

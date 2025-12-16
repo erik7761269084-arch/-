@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41643,
+    "title": "Queenie - Tifa Bikini (Final Fantasy)",
+    "sourceUrl": "https://telegra.ph/Queenie---Tifa-Bikini-Final-Fantasy-06-27",
+    "images": [
+        "https://telegra.ph/file/059bef175134d19cc8a0e.jpg",
+        "https://telegra.ph/file/6de8807f3d0d052204f97.jpg",
+        "https://telegra.ph/file/a44b359d60d99c9c61113.jpg",
+        "https://telegra.ph/file/067e70653e2216a2a84c8.jpg",
+        "https://telegra.ph/file/5413c2be8257cafe0f684.jpg",
+        "https://telegra.ph/file/bc6d55ff3c6660f43e013.jpg",
+        "https://telegra.ph/file/77e57956f4c78b71f54ac.jpg",
+        "https://telegra.ph/file/d19741cda9f2668d07d7a.jpg",
+        "https://telegra.ph/file/84bd0feb9981e09501cac.jpg",
+        "https://telegra.ph/file/329183d2cbf2edf1ca011.jpg",
+        "https://telegra.ph/file/622b9c1982a0c5a4ad8ac.jpg",
+        "https://telegra.ph/file/1708b6078d01392d49f7b.jpg",
+        "https://telegra.ph/file/0b535d6b0ef9ebbb1cd05.jpg",
+        "https://telegra.ph/file/22af875c25f3490d6a6cf.jpg",
+        "https://telegra.ph/file/d32028bc1c685b798ad01.jpg",
+        "https://telegra.ph/file/e8c99ff417cd0af64a224.jpg",
+        "https://telegra.ph/file/5ded9ff460b31f0a7a20c.jpg",
+        "https://telegra.ph/file/977286e506a39c7465392.jpg",
+        "https://telegra.ph/file/ac156e2a0ca534a0e30fa.jpg",
+        "https://telegra.ph/file/140e6570195455f68ddcb.jpg",
+        "https://telegra.ph/file/df56c17f6027844701ec8.jpg",
+        "https://telegra.ph/file/48b70695c1d4acaed9251.jpg",
+        "https://telegra.ph/file/4176c69a95dbed3172aa7.jpg",
+        "https://telegra.ph/file/20986f2773cb317fdae84.jpg",
+        "https://telegra.ph/file/a0e9e517a19cd3d6bd324.jpg"
+    ]
+};

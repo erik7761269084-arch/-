@@ -1,0 +1,29 @@
+const comicData = {
+    "IDcode": 51170,
+    "title": "日奈娇 – 原神 申鹤 - Page 1",
+    "sourceUrl": "https://telegra.ph/日奈娇--原神-申鹤---Page-1-10-25",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCNo_PRxb65DQ5zpXBjbXnKjq7CwfwACISIAArHC6Vft7zNl0kHuVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCRo_PR1wK27G6HFb4zvLwGDVdNDugACIiIAArHC6VfyPesM7Oqd7zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCVo_PR3a3nTdG1aWs6oa0uS6pMaFQACIyIAArHC6VcacVAAAb73S6s2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCZo_PR5xah7b6cL5X1tg5DW2yK0SAACJCIAArHC6VfZxleOdCpzaTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCdo_PR7RORc6bJke7L3XfQMUJbueAACJSIAArHC6VcX4EyhsphmkDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCho_PR9axVpRW6vSkgDW_tR3t4r9wACJiIAArHC6VeofY0oXXEFMzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMClo_PR_zXYGm2N1yecfPya36X7UEgACJyIAArHC6VeHsUG9sR6PoTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCpo_PSCzfpqXipKhec70mLVqTSAWAACKCIAArHC6VdDc4kbW0VbRTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCto_PSEXk6cc58BqBq1Yr7ZlZFnrgACKSIAArHC6Ve6xKj8T-j1pzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMCxo_PSGVif98XXyDnCHKZmqiuJ8VAACKiIAArHC6VfVNMz2xwPcLDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMC1o_PSIqeBCG6Ont1OBPpGhKGHtQQACKyIAArHC6VcIZZyj9LuJKDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMC5o_PSJBcZA6z-1mgABBAh7gU_MRnUAAiwiAAKxwulXXMHWG6Amw5o2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMC9o_PSLwdRRGYM79JdTq2ybujB0WQACLSIAArHC6VdY9dhrkhA4vDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDBo_PSN_uC4tI8wO63Rodzw1AABix4AAi4iAAKxwulXGJClHewcFxA2BA",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDFo_PSPqhF99VcvbINhcXzFiwbLyQACLyIAArHC6VekeCQWJCcfETYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDJo_PSRGoZiCkv6h1rZxn9howy--AACMCIAArHC6VdanCFKGz0S_jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDNo_PSTwhSysAWNpPKgDizeoniuGQACMSIAArHC6Ve1zZIeFvqtZjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDRo_PSUaitGp5MpLVovwWOG_Vgx3gACMyIAArHC6Vc02Qlp1LVRLTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDVo_PSV5D7AA-emlrqSiRhGi2bJOQACNCIAArHC6Vch0CwJUD-2XDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDZo_PSXXOtapZjA_rvasXqy6VOtoAACNSIAArHC6Vce-r0l4sgqSDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDdo_PTX9rm7qsFf0uLF5uPtgdl1qAACOCIAArHC6Vd-XauFdCj2KzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETMDho_PTbG4chlY206riXIYypUf4zZAACOSIAArHC6Vf-kWQzRzwlrjYE"
+    ]
+};

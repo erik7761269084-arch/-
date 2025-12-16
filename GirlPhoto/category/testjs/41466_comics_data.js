@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 41466,
+    "title": "Neyrodesu & Caticornplay - Fern & Frieren (Sousou No Frieren)",
+    "sourceUrl": "https://telegra.ph/Neyrodesu--Caticornplay---Fern--Frieren-Sousou-No-Frieren-05-09",
+    "images": [
+        "https://telegra.ph/file/e21212eb3c206ca59800c.jpg",
+        "https://telegra.ph/file/b66b640891cdb819271be.jpg",
+        "https://telegra.ph/file/9c6edcf4b69f15cb2a526.jpg",
+        "https://telegra.ph/file/4dfd9999829476dd5c72c.jpg",
+        "https://telegra.ph/file/04a02f90e4de63688b3d8.jpg",
+        "https://telegra.ph/file/714d088b30d68c565e129.jpg",
+        "https://telegra.ph/file/56ffc6438d55e8a7116d2.jpg",
+        "https://telegra.ph/file/726f4d159e4ffe2037fbe.jpg",
+        "https://telegra.ph/file/eb9f6a374a6b78a44c9db.jpg",
+        "https://telegra.ph/file/3859c5105d03526de9139.jpg",
+        "https://telegra.ph/file/cd251675eecd1c30e09b6.jpg",
+        "https://telegra.ph/file/a42918e2a64cbbf02a284.jpg",
+        "https://telegra.ph/file/8dfbdbb7d9682cfa67cf4.jpg",
+        "https://telegra.ph/file/58b4fa285de217c10d4d6.jpg",
+        "https://telegra.ph/file/1d4de0ea02b7cd844f2b4.jpg",
+        "https://telegra.ph/file/6ae6a580ed67196ea84c1.jpg",
+        "https://telegra.ph/file/6b7cf62d01de830ecaf73.jpg",
+        "https://telegra.ph/file/3278a4caf6a58eb18bdec.jpg",
+        "https://telegra.ph/file/a167558f084c9703de803.jpg",
+        "https://telegra.ph/file/788a10ca2b7e2d05ce0c9.jpg",
+        "https://telegra.ph/file/d92ec8f9e144117d8f8e8.jpg",
+        "https://telegra.ph/file/743c41be47bacba6344c9.jpg",
+        "https://telegra.ph/file/f0265997f38cb4a9d07f3.jpg",
+        "https://telegra.ph/file/5c8af9bcd922e4995794a.jpg"
+    ]
+};

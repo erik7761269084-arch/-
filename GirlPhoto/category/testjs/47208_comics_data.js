@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47208,
+    "title": "QQueen - Bremerton - Page 1",
+    "sourceUrl": "https://telegra.ph/QQueen---Bremerton---Page-1-03-10",
+    "images": [
+        "https://telegra.ph/file/8ef5eab25864f60645ea4.jpg",
+        "https://telegra.ph/file/d9401b42d16ee9c82c32a.jpg",
+        "https://telegra.ph/file/ac752456dc8f133f17119.jpg",
+        "https://telegra.ph/file/31073ba7291271dfdb145.jpg",
+        "https://telegra.ph/file/c2c7408af23514f8db6f5.jpg",
+        "https://telegra.ph/file/68f223481d8f13a86d74c.jpg",
+        "https://telegra.ph/file/4af1f1e43044d12b44e43.jpg",
+        "https://telegra.ph/file/6b2f8a4afa4b61af0508f.jpg",
+        "https://telegra.ph/file/5bf2744e3bdecac5a600c.jpg",
+        "https://telegra.ph/file/311e4bacbb927527edb98.jpg",
+        "https://telegra.ph/file/33059567b5992b9b949b3.jpg",
+        "https://telegra.ph/file/b8bbbad081bbfdc7d5f27.jpg",
+        "https://telegra.ph/file/c5bc34e80c32e78888b4e.jpg",
+        "https://telegra.ph/file/fbe36c31042f26b898698.jpg",
+        "https://telegra.ph/file/d353a91bd9dfebbe42e44.jpg",
+        "https://telegra.ph/file/4ebf6fbd35c4160d3c6f9.jpg",
+        "https://telegra.ph/file/4019e076961ac9d96116b.jpg",
+        "https://telegra.ph/file/70737cff64475e80580f6.jpg",
+        "https://telegra.ph/file/9cf41abcac10a822f80e2.jpg",
+        "https://telegra.ph/file/86167105b3d2a3b852a53.jpg",
+        "https://telegra.ph/file/95ec26171f9fac9eed0c8.jpg",
+        "https://telegra.ph/file/bc4c1d38752d7655ca870.jpg",
+        "https://telegra.ph/file/43abbc73af9e76ec69793.jpg",
+        "https://telegra.ph/file/3649ce835860b0647dec0.jpg",
+        "https://telegra.ph/file/7bf1e0ee87253a6361879.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 46250,
+    "title": "Kitkat Cosplay9 - Misaki - Page 1",
+    "sourceUrl": "https://telegra.ph/Kitkat-Cosplay9---Misaki---Page-1-12-10",
+    "images": [
+        "https://telegra.ph/file/624679ae2fcb05c060984.jpg",
+        "https://telegra.ph/file/459bddcafb8294bde2806.jpg",
+        "https://telegra.ph/file/92012af66b9b8bc90f3a7.jpg",
+        "https://telegra.ph/file/6ee1c8f6b6209f712f9cf.jpg",
+        "https://telegra.ph/file/f37702b96211e378220f4.jpg",
+        "https://telegra.ph/file/140800fd1fbd5fa3717b1.jpg",
+        "https://telegra.ph/file/424f5a85a35c11c5b8d83.jpg",
+        "https://telegra.ph/file/67be0393b39c71ad11e95.jpg",
+        "https://telegra.ph/file/a2e80dc6b73bb2cd5421a.jpg",
+        "https://telegra.ph/file/617191d1f27e4f820c5af.jpg",
+        "https://telegra.ph/file/4ecbf809ddf295628eeaa.jpg",
+        "https://telegra.ph/file/6afcd885e5eb350c1de2a.jpg",
+        "https://telegra.ph/file/5799e7958c6675eb7e9c6.jpg",
+        "https://telegra.ph/file/8636d1474adbe18a7b492.jpg",
+        "https://telegra.ph/file/a0ea44131431f876f69eb.jpg",
+        "https://telegra.ph/file/068a7d967425d65fd9bcd.jpg",
+        "https://telegra.ph/file/cc538156aa12577cea5e5.jpg",
+        "https://telegra.ph/file/7683903ceb4b69dbb3419.jpg",
+        "https://telegra.ph/file/bdbbbaec71fa52b77c01e.jpg",
+        "https://telegra.ph/file/417bb19a3ecf563235498.jpg",
+        "https://telegra.ph/file/0936e04f85ef3a2b9630a.jpg",
+        "https://telegra.ph/file/eb5d88ab2484bfe0c75e4.jpg",
+        "https://telegra.ph/file/356314bca27ccfd6edce5.jpg",
+        "https://telegra.ph/file/e8c8c6edee83630b93618.jpg",
+        "https://telegra.ph/file/8c18ac20b938bf22b4ee4.jpg"
+    ]
+};

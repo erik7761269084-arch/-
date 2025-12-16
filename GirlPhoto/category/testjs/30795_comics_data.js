@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 30795,
+    "title": "Hikari Azusa 梓ヒカリ, デジタル写真集 「Clarity」 Set.01",
+    "sourceUrl": "https://telegra.ph/Hikari-Azusa-梓ヒカリ-デジタル写真集-Clarity-Set01-07-14",
+    "images": [
+        "https://telegra.ph/file/e44c2cd30406cd9396b09.jpg",
+        "https://telegra.ph/file/a58a37ddc06d452b53d3f.jpg",
+        "https://telegra.ph/file/fe6617a301ba1a4e97995.jpg",
+        "https://telegra.ph/file/5a8b70045853947c4a27e.jpg",
+        "https://telegra.ph/file/4f6832164e9f0a48937e7.jpg",
+        "https://telegra.ph/file/05932cbdeb7b564c46bc5.jpg",
+        "https://telegra.ph/file/f41d43853bab62c6249e1.jpg",
+        "https://telegra.ph/file/022eb469dbabfdab7a336.jpg",
+        "https://telegra.ph/file/0dd506cf3fd37660b6415.jpg",
+        "https://telegra.ph/file/5a37b87052fe7ff6cd001.jpg",
+        "https://telegra.ph/file/39227b5586d7d96efaeda.jpg",
+        "https://telegra.ph/file/55f000ce9b4b54530a73b.jpg",
+        "https://telegra.ph/file/3a1441af64a2cac1ef584.jpg",
+        "https://telegra.ph/file/2098f94e48b70568f4cc6.jpg",
+        "https://telegra.ph/file/22fcbfaac136ef73a0bf3.jpg",
+        "https://telegra.ph/file/2ff51d8e55191b4ba851e.jpg",
+        "https://telegra.ph/file/f40f71790d46656831cfd.jpg",
+        "https://telegra.ph/file/c08159ea09d842b961bf8.jpg",
+        "https://telegra.ph/file/381d8a99104adf2684d41.jpg",
+        "https://telegra.ph/file/4e045a88c3f8dcc83ce61.jpg",
+        "https://telegra.ph/file/7b7ab1ea29dc5f5ed0094.jpg",
+        "https://telegra.ph/file/bb922c522ea6fb347f5fb.jpg",
+        "https://telegra.ph/file/a31d300d9aa16fda1abda.jpg",
+        "https://telegra.ph/file/3ab3b9dba3e38254a0739.jpg",
+        "https://telegra.ph/file/1860a9bea0b9e6c86659f.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

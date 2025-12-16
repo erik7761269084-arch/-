@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 40821,
+    "title": "Hane Ame - Home Fubuki (One Punch Man)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Home-Fubuki-One-Punch-Man-10-17",
+    "images": [
+        "https://telegra.ph/file/fd99205323eede7d6b0cc.jpg",
+        "https://telegra.ph/file/cfc889e11e1a010198e77.jpg",
+        "https://telegra.ph/file/04767f3f8f79c923598fd.jpg",
+        "https://telegra.ph/file/6cd61ad31a80bf42638ec.jpg",
+        "https://telegra.ph/file/5d6cd346f77393f74e9fc.jpg",
+        "https://telegra.ph/file/b6e64489f7c3978646958.jpg",
+        "https://telegra.ph/file/0c0f42f3346b493c3d3a6.jpg",
+        "https://telegra.ph/file/a40cb7b4805aae512bb37.jpg",
+        "https://telegra.ph/file/67f2f672753294488d8c1.jpg",
+        "https://telegra.ph/file/b7f9b1d37fdbcac2a6250.jpg",
+        "https://telegra.ph/file/3de6a30ca1ac2fd298c75.jpg",
+        "https://telegra.ph/file/afcbe848280370ac289c6.jpg",
+        "https://telegra.ph/file/8fb50b526e9e02e9ee037.jpg",
+        "https://telegra.ph/file/a11aeeff15a4f9bab4bec.jpg",
+        "https://telegra.ph/file/d18f1c59c6ad350a8a621.jpg",
+        "https://telegra.ph/file/e887cf96db7118b6100d3.jpg",
+        "https://telegra.ph/file/99c645421e84c806fd967.jpg",
+        "https://telegra.ph/file/c60410c93d0493f8bd836.jpg",
+        "https://telegra.ph/file/4d83d0cae94964cef7573.jpg",
+        "https://telegra.ph/file/c8f149b67de735ce8b736.jpg",
+        "https://telegra.ph/file/3ec0e8da76a5e33f286b6.jpg",
+        "https://telegra.ph/file/ad8f4e27e0b9f8ca1b538.jpg",
+        "https://telegra.ph/file/fb6eb092941d20f0da48b.jpg",
+        "https://telegra.ph/file/3ef72ebbdf6423482f3d3.jpg",
+        "https://telegra.ph/file/3d66e841bb081d0eede86.jpg"
+    ]
+};

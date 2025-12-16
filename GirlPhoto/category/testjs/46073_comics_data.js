@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 46073,
+    "title": "Ely - Rikka Takarada Swimsuit - Page 1",
+    "sourceUrl": "https://telegra.ph/Ely---Rikka-Takarada-Swimsuit---Page-1-11-23",
+    "images": [
+        "https://telegra.ph/file/5d7921d583432e8c36f00.jpg",
+        "https://telegra.ph/file/9f8c65894d78a5c9520f9.jpg",
+        "https://telegra.ph/file/d4c1f490805d205569a33.jpg",
+        "https://telegra.ph/file/905259176f7a63f0f830e.jpg",
+        "https://telegra.ph/file/02ba8a168cf0d2f8e5639.jpg",
+        "https://telegra.ph/file/6069b3d3fb921bc09da20.jpg",
+        "https://telegra.ph/file/9d2a6f52ea33196875f24.jpg",
+        "https://telegra.ph/file/d3c5507483bfffc52cdca.jpg",
+        "https://telegra.ph/file/a7f86c2c43cefba6ff65a.jpg",
+        "https://telegra.ph/file/eee3462d25ec2d9ddbb04.jpg",
+        "https://telegra.ph/file/67916c62f0affef614fa8.jpg",
+        "https://telegra.ph/file/d1bae1c0e1b7f9baa0580.jpg",
+        "https://telegra.ph/file/40de85bf4b90bab0bc086.jpg",
+        "https://telegra.ph/file/65c5dc4b0242ec702d988.jpg",
+        "https://telegra.ph/file/49e4cf4522e820cfcda1a.jpg",
+        "https://telegra.ph/file/083cb51b8505ec45b0d69.jpg",
+        "https://telegra.ph/file/a9ad360aff79dff08e468.jpg",
+        "https://telegra.ph/file/cf73e4e6c363043457852.jpg",
+        "https://telegra.ph/file/8afd4b383bbd045187c8f.jpg",
+        "https://telegra.ph/file/b0b72e708e9921e086820.jpg",
+        "https://telegra.ph/file/8ca26b84f7218527b57ef.jpg",
+        "https://telegra.ph/file/ad25eb31d9be593c1dda2.jpg",
+        "https://telegra.ph/file/9eff0ac5b9f9431fa410f.jpg",
+        "https://telegra.ph/file/88e9fe826557600b116e2.jpg",
+        "https://telegra.ph/file/377ddd6e9dd95e4a04140.jpg",
+        "https://telegra.ph/file/09a354e08b8b497174309.jpg"
+    ]
+};

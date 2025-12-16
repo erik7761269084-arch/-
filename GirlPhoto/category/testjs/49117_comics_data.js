@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 49117,
+    "title": "Peachuu - Mary (Nikke) - Page 1",
+    "sourceUrl": "https://telegra.ph/Peachuu---Mary-Nikke---Page-1-01-10",
+    "images": [
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKihngXxeyQ5gOqNIL8yly54qhgfZ1wACFBgAAmTKEVTohTOfBG7SbjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKilngXxhpG-tokRF90hTUdVJSUnO-wACFRgAAmTKEVS_9nsDwvIqqTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKipngXxm0-7aJAfztuCPedZuEfHg0QACFhgAAmTKEVQ9KDPVQ07U0TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKitngXxp7PfUPiQx43rZIEI6TN6kSgACFxgAAmTKEVSDVbm_r2BP-zYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKixngXxtplFlr6s4UIx69Qd24T4guwACGBgAAmTKEVSeaHG-gp9MGzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKi1ngXxxaZo4CoU2vqqqa7pAmZTPewACGRgAAmTKEVSR_2PrHmiUIzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKi5ngXx6NlAmpZJdD3HINZ-lVkS2QgACGhgAAmTKEVR66SgTrW2jMjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKi9ngXx9YmdcUD1zeGX9onVYQFcjiAACGxgAAmTKEVQ3Dm8hQl0FVzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjBngXx-YAvlPxF9ID-rTO2HumNQggACHBgAAmTKEVSE7CtlYlHumzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjFngXyBXpSs6jzpaWtsrNakrKadIwACHRgAAmTKEVSI91bd9HZNwjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjJngXyEFJZg8rJOSRKZVFAotCdJZAACHhgAAmTKEVRtCj9vCHPOmDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjNngXyH0nq_JfZ0ZoeylkFtGb13_QACHxgAAmTKEVS2RFWvs0tVLzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjRngXyJlN4JDk8Yp9K20zd4Qp9gtAACIBgAAmTKEVSYCiTNnyAmDjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjVngXyLoikWHUVy51FHLagYg52agwACIRgAAmTKEVTnfJDBRa5lfTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjZngXyPvCWsrOqIXYq2iXEH5NV6iwACIhgAAmTKEVRJLUiX384rlTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjdngXyR5ximYTI0lyBxHz8DBBv87QACIxgAAmTKEVSxppPaE3tuSjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjhngXyZQPAhG-T9coIfOtx0NTNVHwACJBgAAmTKEVSg8mf333PeFTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjlngXylaMonMM7tP3_bLgZAYnpzDgACJRgAAmTKEVSVFN-JrBoQGTYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjpngXysQK34mIzoZO-U2O6XXxmmRgACJhgAAmTKEVQahJ6Uy5f71jYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjtngXywBfKx4GgtPiUIQnkEVoPjGgACJxgAAmTKEVR_F8jBEvblEDYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKjxngXyzUrQAAUu5qUb0y1v3tBYeqT0AAigYAAJkyhFUAAE_7ui_142cNgQ",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKj1ngXy1nouwNkGL26RMkNmfDExXCgACKRgAAmTKEVRcleFFexeT-TYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKj5ngXy49FWX6hdXIUdtoUpjUpMLdwACKhgAAmTKEVSeQ92bPBAwhzYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKj9ngXy7jJj99vsILhHTHyXPXesbjQACKxgAAmTKEVS187nlGj9bNjYE",
+        "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDKkBngXy9ymDIp1WBHJiv4ftLHS3eOAACLBgAAmTKEVQWcAk0Zo4ZZzYE"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41175,
+    "title": "Virtual Geisha - Rizu-Kyun (Sono Bisque Doll Wa Koi Wo Suru)",
+    "sourceUrl": "https://telegra.ph/Virtual-Geisha---Rizu-Kyun-Sono-Bisque-Doll-Wa-Koi-Wo-Suru-02-21",
+    "images": [
+        "https://telegra.ph/file/df0eb3bd8455f27edce65.jpg",
+        "https://telegra.ph/file/65e65563f4fbcb918b91f.jpg",
+        "https://telegra.ph/file/c07f15be2272a03a355c2.jpg",
+        "https://telegra.ph/file/a1eda68fd066346293607.jpg",
+        "https://telegra.ph/file/d76187c4746a97feec842.jpg",
+        "https://telegra.ph/file/1a3f90a8426a80a124618.jpg",
+        "https://telegra.ph/file/e42ebd8c9a82e336c14e2.jpg",
+        "https://telegra.ph/file/6d218be5501a6038ad105.jpg",
+        "https://telegra.ph/file/7d954ac97278f0b74f962.jpg",
+        "https://telegra.ph/file/d833a502ff0652e823eeb.jpg",
+        "https://telegra.ph/file/153c1149c713df6a23f8f.jpg",
+        "https://telegra.ph/file/ee19b304bc8dfcf5c8889.jpg",
+        "https://telegra.ph/file/75823c6520cdb0dcf2fb8.jpg",
+        "https://telegra.ph/file/2d78e3481cd3a1a36462e.jpg",
+        "https://telegra.ph/file/83b3b66f3b6ba06d5c0a3.jpg",
+        "https://telegra.ph/file/ed24574f69e52f59d8bcc.jpg",
+        "https://telegra.ph/file/4dc5a8ac24b69fa1e5fa2.jpg",
+        "https://telegra.ph/file/2af99d9faf817d1dcef85.jpg",
+        "https://telegra.ph/file/41f4a2dd4134220257413.jpg",
+        "https://telegra.ph/file/9e4201572bc25ce7cce4a.jpg",
+        "https://telegra.ph/file/2c92999d847dea689e06d.jpg",
+        "https://telegra.ph/file/adf836e9b16b50a4b758b.jpg",
+        "https://telegra.ph/file/048fb5f1ce5ca466c20fc.jpg",
+        "https://telegra.ph/file/8cc9a023ea499ededae26.jpg",
+        "https://telegra.ph/file/40e8d0f262ed7d6acb79a.jpg"
+    ]
+};

@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 31494,
+    "title": "[亞緹Arty KaYa萱] Sasha Necron サーシャ・ネクロン &#038; Misha Necron ミーシャ・ネクロン",
+    "sourceUrl": "https://telegra.ph/亞緹Arty-KaYa萱-Sasha-Necron-サーシャネクロン-038-Misha-Necron-ミーシャネクロン-08-16",
+    "images": [
+        "https://telegra.ph/file/7e4081338848f0567ccfa.jpg",
+        "https://telegra.ph/file/a6faea4a39e8a137335cd.jpg",
+        "https://telegra.ph/file/ad0908d4122a2574047ab.jpg",
+        "https://telegra.ph/file/389a93429276465f6748f.jpg",
+        "https://telegra.ph/file/9540f02a6d58d8a158929.jpg",
+        "https://telegra.ph/file/027762a38595d0bee46ef.jpg",
+        "https://telegra.ph/file/0870e0b826def9d59a57f.jpg",
+        "https://telegra.ph/file/eba5af4f3d8584722b151.jpg",
+        "https://telegra.ph/file/6dcd97d6c1cfb0a241f9b.jpg",
+        "https://telegra.ph/file/419798b1d70be456cdd0f.jpg",
+        "https://telegra.ph/file/07b5f8ad29b154e9d0e49.jpg",
+        "https://telegra.ph/file/d804909e1e99c8c9587a8.jpg",
+        "https://telegra.ph/file/1981d40a04bffd924a065.jpg",
+        "https://telegra.ph/file/042d3dafee90a09f85afc.jpg",
+        "https://telegra.ph/file/c59366756c2d15d9e0b39.jpg",
+        "https://telegra.ph/file/4367106f38496db0b5e44.jpg",
+        "https://telegra.ph/file/6ce3ffafc3ed16a82e5e1.jpg",
+        "https://telegra.ph/file/5d9c20cd485347b229453.jpg",
+        "https://telegra.ph/file/760380f382d4365ce9e1f.jpg",
+        "https://telegra.ph/file/bc536f9d5f6eb3766b3ed.jpg",
+        "https://telegra.ph/file/8009c7727573e510730d8.jpg",
+        "https://telegra.ph/file/042616fb4136bd50ad980.jpg",
+        "https://telegra.ph/file/4d0e39c586abcfb4217ae.jpg"
+    ]
+};

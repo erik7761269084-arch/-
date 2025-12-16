@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 47262,
+    "title": "[水淼aqua] 斯卡哈 - Page 1",
+    "sourceUrl": "https://telegra.ph/水淼aqua-斯卡哈---Page-1-03-16",
+    "images": [
+        "https://telegra.ph/file/e519503c23ff797b95539.jpg",
+        "https://telegra.ph/file/54f9bc39b75ed6ec31076.jpg",
+        "https://telegra.ph/file/4d123f8d60ed53988f9a2.jpg",
+        "https://telegra.ph/file/71791d21eba5e7c01702e.jpg",
+        "https://telegra.ph/file/2c874c75c3341f47e4f79.jpg",
+        "https://telegra.ph/file/c4db55cbd54b8cc169426.jpg",
+        "https://telegra.ph/file/fc715a46cb5548ad4ad6d.jpg",
+        "https://telegra.ph/file/b197bda651ff9f9faa02c.jpg",
+        "https://telegra.ph/file/ab8e0db958e418e07da06.jpg",
+        "https://telegra.ph/file/f89ae7c2423dfa09ccd12.jpg",
+        "https://telegra.ph/file/ac5290bef34cf76ef0423.jpg",
+        "https://telegra.ph/file/31716f465752d456160bc.jpg",
+        "https://telegra.ph/file/4471f86711959f62771c6.jpg",
+        "https://telegra.ph/file/db8dbe4a100e0c24a760d.jpg",
+        "https://telegra.ph/file/9801136a1c0b87adb5fa2.jpg",
+        "https://telegra.ph/file/688cf1c92084584b0e217.jpg",
+        "https://telegra.ph/file/7b0090fa18d9bb69b29c1.jpg",
+        "https://telegra.ph/file/24afdc5f9647d408682bc.jpg",
+        "https://telegra.ph/file/4e6031ef625122225689e.jpg",
+        "https://telegra.ph/file/87e72677a00ec02aa964f.jpg",
+        "https://telegra.ph/file/26706e7adcca7478a093b.jpg",
+        "https://telegra.ph/file/c551424d140e91646dcd5.jpg",
+        "https://telegra.ph/file/d93fb28708a1d2c19f8e0.jpg",
+        "https://telegra.ph/file/bf766ef23ff6e20bb7261.jpg",
+        "https://telegra.ph/file/3ceafbfc8a5ec110a8b46.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 43821,
+    "title": "Arty亚缇 - Chen Hai (Azur Lane)",
+    "sourceUrl": "https://telegra.ph/Arty%E4%BA%9A%E7%BC%87---Chen-Hai-Azur-Lane-10-25",
+    "images": [
+        "https://telegra.ph/file/4f8365e9068111cf6a806.jpg",
+        "https://telegra.ph/file/4028a7df5c9ae31ec4a16.jpg",
+        "https://telegra.ph/file/2ebbe9b1887fb75e61684.jpg",
+        "https://telegra.ph/file/f615b416aa7858a26b13f.jpg",
+        "https://telegra.ph/file/35fcdab52cd6bc12e5ff6.jpg",
+        "https://telegra.ph/file/9ceece6b51c9955240220.jpg",
+        "https://telegra.ph/file/ab1ec17fa7998249cc68f.jpg",
+        "https://telegra.ph/file/46c73c8ba19705dcc3bf6.jpg",
+        "https://telegra.ph/file/267153d71f6fe16deb769.jpg",
+        "https://telegra.ph/file/b8dc715a0ba13ff6baaf4.jpg",
+        "https://telegra.ph/file/b9ba0d4ae2d8ce56dbce7.jpg",
+        "https://telegra.ph/file/b6158181d6f5fdab27eac.jpg",
+        "https://telegra.ph/file/db7d7f4d6a9d04b23075d.jpg",
+        "https://telegra.ph/file/3c4993bf28d60ee29dda6.jpg",
+        "https://telegra.ph/file/29760b4f1ffb8e6ebb774.jpg",
+        "https://telegra.ph/file/cb2d63b6f44f7d6408d9b.jpg",
+        "https://telegra.ph/file/4a8c80002b6a21f39fe43.jpg",
+        "https://telegra.ph/file/421d3991e8b450af19536.jpg",
+        "https://telegra.ph/file/ce3c6c1adc02bd0ceaa49.jpg",
+        "https://telegra.ph/file/b75e975f5436ee1af1da1.jpg",
+        "https://telegra.ph/file/9daf1ed243360ec281b9a.jpg",
+        "https://telegra.ph/file/2dbf2b5ff57f734caffa6.jpg",
+        "https://telegra.ph/file/5fa6f748c9a9df268772f.jpg",
+        "https://telegra.ph/file/a854207163795362b6875.jpg",
+        "https://telegra.ph/file/2f663a71fcb573781c134.jpg"
+    ]
+};

@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 27059,
+    "title": "星之迟迟 - 豹纹泳衣 24P 91MB",
+    "sourceUrl": "https://telegra.ph/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F---%E8%B1%B9%E7%BA%B9%E6%B3%B3%E8%A1%A3-24P-91MB-06-25",
+    "images": [
+        "https://telegra.ph/file/7ae3e4473caa85f48c137.jpg",
+        "https://telegra.ph/file/4d69c6c86eff827dcb57e.jpg",
+        "https://telegra.ph/file/44a764297542894c8cce6.jpg",
+        "https://telegra.ph/file/a842e6fc4134031e959ee.jpg",
+        "https://telegra.ph/file/7eda26136a684bfdb29c8.jpg",
+        "https://telegra.ph/file/2cf8801634021dc1e6e56.jpg",
+        "https://telegra.ph/file/672d140d4ce1983a7d81f.jpg",
+        "https://telegra.ph/file/661af3d60ec28c37cdfa5.jpg",
+        "https://telegra.ph/file/0f700182c8317d1e9ba53.jpg",
+        "https://telegra.ph/file/f5cf01d799f66b91707f3.jpg",
+        "https://telegra.ph/file/ba8eb2b061b9ab240cf69.jpg",
+        "https://telegra.ph/file/43787ce98d8604945c535.jpg",
+        "https://telegra.ph/file/f6b956f554a13f096039a.jpg",
+        "https://telegra.ph/file/5a9efa3562ad51258a957.jpg",
+        "https://telegra.ph/file/f79d2f551d3753a87d3bb.jpg",
+        "https://telegra.ph/file/f8cc48f8f55c8db0a844b.jpg",
+        "https://telegra.ph/file/36c20bd4453381ce185a6.jpg",
+        "https://telegra.ph/file/23ed62ce048f60354b306.jpg",
+        "https://telegra.ph/file/ac5482baeeff77f64623b.jpg",
+        "https://telegra.ph/file/35acb12c43996faaa3630.jpg",
+        "https://telegra.ph/file/9861672220a9d306bec22.jpg",
+        "https://telegra.ph/file/0a47e1246b01863ed404f.jpg",
+        "https://telegra.ph/file/fe617db81d229e3926603.jpg",
+        "https://telegra.ph/file/72f9353c7d37f430fa611.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39973,
+    "title": "Byoru & Sally Dorasnow - Makima & Power (Chainsaw Man)",
+    "sourceUrl": "https://telegra.ph/Byoru--Sally-Dorasnow---Makima--Power-Chainsaw-Man-12-08",
+    "images": [
+        "https://telegra.ph/file/e18bd118f015e9acd5428.jpg",
+        "https://telegra.ph/file/807770c707db605e76707.jpg",
+        "https://telegra.ph/file/35656a7728b9c54e16cd7.jpg",
+        "https://telegra.ph/file/3edcc0782204a859672c5.jpg",
+        "https://telegra.ph/file/5fb795c959485605bfcda.jpg",
+        "https://telegra.ph/file/54ce82ac5fd5eb367c80f.jpg",
+        "https://telegra.ph/file/b711628671a20fe9f2278.jpg",
+        "https://telegra.ph/file/4cde9f2af147300415c92.jpg",
+        "https://telegra.ph/file/e0ddf6c10469020dbf2cd.jpg",
+        "https://telegra.ph/file/0aefd63f75822e9545886.jpg",
+        "https://telegra.ph/file/507bf98ed64989bdc88b9.jpg",
+        "https://telegra.ph/file/abce206d35733f66e1362.jpg",
+        "https://telegra.ph/file/44b398e4ef43090fe82af.jpg",
+        "https://telegra.ph/file/f7e8fe7014d4c9c33800c.jpg",
+        "https://telegra.ph/file/46b406dd45fcb601f7a3e.jpg",
+        "https://telegra.ph/file/ecd027809a69678d3846a.jpg",
+        "https://telegra.ph/file/9e53bcfc2b30d3b145257.jpg",
+        "https://telegra.ph/file/d3eb65cc6913c241a7fd0.jpg",
+        "https://telegra.ph/file/45aec1884e50cf2342960.jpg",
+        "https://telegra.ph/file/9b368ab8629dd70985ccc.jpg",
+        "https://telegra.ph/file/519f87f2fb28e1079d54d.jpg",
+        "https://telegra.ph/file/545244b2816226b8a8414.jpg",
+        "https://telegra.ph/file/e6151a6ae306bb3cf718a.jpg",
+        "https://telegra.ph/file/54081af2241132229d2db.jpg",
+        "https://telegra.ph/file/393b00d19ccf88bc1e9f8.jpg"
+    ]
+};

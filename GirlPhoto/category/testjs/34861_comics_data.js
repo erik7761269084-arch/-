@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 34861,
+    "title": "Ray 레이, LEEHEE EXPRESS LEHC-204B Set.01",
+    "sourceUrl": "https://telegra.ph/Ray-레이-LEEHEE-EXPRESS-LEHC-204B-Set01-07-28",
+    "images": [
+        "https://telegra.ph/file/732b1b8dcba630725f37d.jpg",
+        "https://telegra.ph/file/97febf745ae5a6f80e3ad.jpg",
+        "https://telegra.ph/file/1cfa47bd6a77077db6d84.jpg",
+        "https://telegra.ph/file/9d152cbaed8b62eedef39.jpg",
+        "https://telegra.ph/file/d5d359c6f57e27f46b496.jpg",
+        "https://telegra.ph/file/b56b62e9fd32cfd6708d7.jpg",
+        "https://telegra.ph/file/dbfcbbb870500e0b761e5.jpg",
+        "https://telegra.ph/file/fff2bfa76b9fbd47fe6a7.jpg",
+        "https://telegra.ph/file/de67f2bf744c0c7d94cc2.jpg",
+        "https://telegra.ph/file/c54952f00235cab9a2ce9.jpg",
+        "https://telegra.ph/file/5e6d9462d401f74e63186.jpg",
+        "https://telegra.ph/file/9ac15cb0bcfc07a77a343.jpg",
+        "https://telegra.ph/file/e455734fb9edc6f38fceb.jpg",
+        "https://telegra.ph/file/bb1a0fb229a7ed6b72c98.jpg",
+        "https://telegra.ph/file/87a6d514a035f923ccbd8.jpg",
+        "https://telegra.ph/file/90fd87462f18d4e9f1477.jpg",
+        "https://telegra.ph/file/4a89f65a99d615a4c6df4.jpg",
+        "https://telegra.ph/file/d196c8b774ff346fce256.jpg",
+        "https://telegra.ph/file/97f0516533f8bff251706.jpg",
+        "https://telegra.ph/file/529264db6564a7e6f381c.jpg",
+        "https://telegra.ph/file/2f7202002f31325cb378d.jpg",
+        "https://telegra.ph/file/6f745622c3bc2ae6b13e0.jpg",
+        "https://telegra.ph/file/d596f1a1e182a1250410d.jpg",
+        "https://telegra.ph/file/67a74c9091d49f4be9823.jpg"
+    ]
+};

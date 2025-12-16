@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 35705,
+    "title": "Cosplay 虎森森 Leather Queen",
+    "sourceUrl": "https://telegra.ph/Cosplay-虎森森-Leather-Queen-10-20",
+    "images": [
+        "https://telegra.ph/file/e9ab66f3472089f1d59dd.jpg",
+        "https://telegra.ph/file/914f6b5a7a96b970f8b9d.jpg",
+        "https://telegra.ph/file/7fc78365af114e593117d.jpg",
+        "https://telegra.ph/file/3bb666e5d6d9371bcfd66.jpg",
+        "https://telegra.ph/file/b87994c0bd54c35af7415.jpg",
+        "https://telegra.ph/file/2b925f86f136ad666e4c0.jpg",
+        "https://telegra.ph/file/e700113ecdbe2aba90ede.jpg",
+        "https://telegra.ph/file/32a670cdaf4b93a98f5f6.jpg",
+        "https://telegra.ph/file/4ceb48cf42dadc478f348.jpg",
+        "https://telegra.ph/file/4f48fffd8407eeac091bb.jpg",
+        "https://telegra.ph/file/5e56c5019397c7b83813c.jpg",
+        "https://telegra.ph/file/11a68a29b6e5cbacedcf4.jpg",
+        "https://telegra.ph/file/29164f8fc0d27d3346966.jpg",
+        "https://telegra.ph/file/02d0e9670ec55f0059350.jpg",
+        "https://telegra.ph/file/bbd8e6f0c81c4e3a7b543.jpg",
+        "https://telegra.ph/file/f8f3af5403c69a1b4f319.jpg",
+        "https://telegra.ph/file/2a9ef6d352d78c1090ce8.jpg",
+        "https://telegra.ph/file/691a1a86915ee144ac3f9.jpg",
+        "https://telegra.ph/file/3273fd06b750338275aaa.jpg",
+        "https://telegra.ph/file/6288b88a807e718398cf0.jpg",
+        "https://telegra.ph/file/dc5c22c23b0d2f79ac3b5.jpg",
+        "https://telegra.ph/file/0ed5bda6bbe7e88d081cc.jpg",
+        "https://telegra.ph/file/ed5476bb69800fb4f824e.jpg",
+        "https://telegra.ph/file/5b1015ab02d0a8ca1f2bc.jpg",
+        "https://telegra.ph/file/a6bd56fd442f64d81bd9c.jpg"
+    ]
+};

@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 41565,
+    "title": "Uri - 下乳褐色ヴァンパイア 🦇",
+    "sourceUrl": "https://telegra.ph/Uri---下乳褐色ヴァンパイア-06-05",
+    "images": [
+        "https://telegra.ph/file/aeb9df5e608d386808c67.jpg",
+        "https://telegra.ph/file/c6451a4a01b8d9b5a7db4.jpg",
+        "https://telegra.ph/file/22d2aa5b70776eccb393d.jpg",
+        "https://telegra.ph/file/501291f068e6356ca1ec2.jpg",
+        "https://telegra.ph/file/c18ec6bd09dc10f618b9f.jpg",
+        "https://telegra.ph/file/c878c773680be8d1f1789.jpg",
+        "https://telegra.ph/file/833b4c1b837b319021187.jpg",
+        "https://telegra.ph/file/cbfd9bdd657372943a2f5.jpg",
+        "https://telegra.ph/file/8443c5972413772fbb79b.jpg",
+        "https://telegra.ph/file/0235d9fc6667f8045d703.jpg",
+        "https://telegra.ph/file/e3ffc300c0bebdf7ca4a7.jpg",
+        "https://telegra.ph/file/1abcac620350e2efba684.jpg",
+        "https://telegra.ph/file/bdb5d63ebf2f340fe2a3e.jpg",
+        "https://telegra.ph/file/7e4b6019da22766a04d0e.jpg",
+        "https://telegra.ph/file/4fb7a6a268ca6dfd2a52e.jpg",
+        "https://telegra.ph/file/5507a9617e36de20d5a10.jpg",
+        "https://telegra.ph/file/7853c7149cfeb41a76896.jpg",
+        "https://telegra.ph/file/380114613f2a40cb6f6bb.jpg",
+        "https://telegra.ph/file/aada78c0bb6a7410d80dc.jpg",
+        "https://telegra.ph/file/368816f9af56435a029be.jpg",
+        "https://telegra.ph/file/8532964756da80b80dfe9.jpg",
+        "https://telegra.ph/file/a3e449a92cc9ef435f0e5.jpg",
+        "https://telegra.ph/file/39a369910badbf3be81d3.jpg",
+        "https://telegra.ph/file/4ff0b88744b3f6e78be44.jpg",
+        "https://telegra.ph/file/af4e5c698c462a775c254.jpg"
+    ]
+};

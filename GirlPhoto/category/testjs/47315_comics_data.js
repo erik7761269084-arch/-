@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 47315,
+    "title": "一笑芳香沁 - 黑兽 - Page 1",
+    "sourceUrl": "https://telegra.ph/一笑芳香沁---黑兽---Page-1-03-21",
+    "images": [
+        "https://telegra.ph/file/0f8c01300a505c7e836eb.jpg",
+        "https://telegra.ph/file/415694d0b4947590485ba.jpg",
+        "https://telegra.ph/file/40aee5048d88ffb50b8cf.jpg",
+        "https://telegra.ph/file/49c2ddabef9328e86b4c3.jpg",
+        "https://telegra.ph/file/a6aab7fc4fe81d91af304.jpg",
+        "https://telegra.ph/file/3dfc750917bb98ab289bb.jpg",
+        "https://telegra.ph/file/99b39ddf8b47a91fb589d.jpg",
+        "https://telegra.ph/file/535668658e180eb53b06c.jpg",
+        "https://telegra.ph/file/4de498c5609467c72b839.jpg",
+        "https://telegra.ph/file/fc3c5fd093a17354eb282.jpg",
+        "https://telegra.ph/file/bac8d8376cf4a9e50babc.jpg",
+        "https://telegra.ph/file/f9a21460f20fc0cd62841.jpg",
+        "https://telegra.ph/file/6ae959fe1f819b6efa6a9.jpg",
+        "https://telegra.ph/file/64df52a362c1f7b30da6b.jpg",
+        "https://telegra.ph/file/ef7f3cf73725f38a9d901.jpg",
+        "https://telegra.ph/file/16a7da6e028efb56436c3.jpg",
+        "https://telegra.ph/file/a3e31cc6a97e828485a4f.jpg",
+        "https://telegra.ph/file/de3793b6d1659fc212736.jpg",
+        "https://telegra.ph/file/0d05ba2ed465b7f944af5.jpg",
+        "https://telegra.ph/file/c20dbb9ef0a40f9059a7b.jpg",
+        "https://telegra.ph/file/4d652146c291727a97029.jpg",
+        "https://telegra.ph/file/4ce15a13b4dbfe182cbda.jpg",
+        "https://telegra.ph/file/673462341ac12fbde6bb6.jpg"
+    ]
+};

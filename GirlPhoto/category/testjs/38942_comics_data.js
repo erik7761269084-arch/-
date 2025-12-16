@@ -1,0 +1,30 @@
+const comicData = {
+    "IDcode": 38942,
+    "title": "Nekokoyoshi - Alice Cartelet (Kiniro Mosaic)",
+    "sourceUrl": "https://telegra.ph/Nekokoyoshi---Alice-Cartelet-Kiniro-Mosaic-03-08",
+    "images": [
+        "https://telegra.ph/file/731e3c7dde5eed2738b13.jpg",
+        "https://telegra.ph/file/980b3111c9c628f1d695d.jpg",
+        "https://telegra.ph/file/9d23ba1f031573508e934.jpg",
+        "https://telegra.ph/file/a2da9cc6c3e26ec418284.jpg",
+        "https://telegra.ph/file/c03a78abf67ebc55f3721.jpg",
+        "https://telegra.ph/file/ea495f08453168d906d1f.jpg",
+        "https://telegra.ph/file/583e464770d8de612c503.jpg",
+        "https://telegra.ph/file/dd172ed851c4c6d95f3b6.jpg",
+        "https://telegra.ph/file/7e18ec60aec057604b75a.jpg",
+        "https://telegra.ph/file/3600d67c1e95cc8d7b3e8.jpg",
+        "https://telegra.ph/file/0615b8fa3715bf128039e.jpg",
+        "https://telegra.ph/file/667a91e82a9fb67269f59.jpg",
+        "https://telegra.ph/file/71d7e80d1a967578ca9f8.jpg",
+        "https://telegra.ph/file/55b8ba5e9d52b64df3eca.jpg",
+        "https://telegra.ph/file/7cc59293966e304e2e97b.jpg",
+        "https://telegra.ph/file/0c63fe5fec2d4fed3a0c9.jpg",
+        "https://telegra.ph/file/2bbb16bf287212271feb5.jpg",
+        "https://telegra.ph/file/a5b7c8d80533242befd99.jpg",
+        "https://telegra.ph/file/aa66518dbcfd17ac2caa3.jpg",
+        "https://telegra.ph/file/db19ca5cc5b09bc6294f8.jpg",
+        "https://telegra.ph/file/633bccb3c8e549a635af5.jpg",
+        "https://telegra.ph/file/0ac224888fa94be00fa99.jpg",
+        "https://telegra.ph/file/f1f0298a47efdd4ac8c74.jpg"
+    ]
+};

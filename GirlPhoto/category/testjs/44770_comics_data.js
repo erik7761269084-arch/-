@@ -1,0 +1,31 @@
+const comicData = {
+    "IDcode": 44770,
+    "title": "ヤマト",
+    "sourceUrl": "https://telegra.ph/ヤマト-02-14",
+    "images": [
+        "https://telegra.ph/file/ba548ea9781d14b855571.jpg",
+        "https://telegra.ph/file/920605938c8358a23a9aa.jpg",
+        "https://telegra.ph/file/7b0ff95ff1425b63c8b89.jpg",
+        "https://telegra.ph/file/60426e8469c3c236745e3.jpg",
+        "https://telegra.ph/file/02628cbd231ea6488e314.jpg",
+        "https://telegra.ph/file/a7b6928e8b938fcff5d81.jpg",
+        "https://telegra.ph/file/834d92c07e99ed05d9805.jpg",
+        "https://telegra.ph/file/eda38b49c8620cea12559.jpg",
+        "https://telegra.ph/file/23deb52e3e394ae65c1a6.jpg",
+        "https://telegra.ph/file/b7f322644ee7951a5e890.jpg",
+        "https://telegra.ph/file/6e260bf286b835e9735ef.jpg",
+        "https://telegra.ph/file/7c39b1ddb2aba858881c4.jpg",
+        "https://telegra.ph/file/5c005fd989c30fa64cdb9.jpg",
+        "https://telegra.ph/file/bf72fa6e447c1a2b87bac.jpg",
+        "https://telegra.ph/file/0b180b0d6863c0f08c61f.jpg",
+        "https://telegra.ph/file/34027c0c97d74f2dbd1ea.jpg",
+        "https://telegra.ph/file/49426ab1d9f164361a3e7.jpg",
+        "https://telegra.ph/file/2832e6cf99028e744daa3.jpg",
+        "https://telegra.ph/file/bbf7e77f06477b115d213.jpg",
+        "https://telegra.ph/file/016865b2c1f746c4622bd.jpg",
+        "https://telegra.ph/file/2cda9c3bd7c8695e5a006.jpg",
+        "https://telegra.ph/file/7602e4d531204775f0de5.jpg",
+        "https://telegra.ph/file/fe29053891557c8b32243.jpg",
+        "https://telegra.ph/file/6beb644733f8a205758ea.jpg"
+    ]
+};

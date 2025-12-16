@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 39775,
+    "title": "Hane Ame - Aponia (Honkai Impact)",
+    "sourceUrl": "https://telegra.ph/Hane-Ame---Aponia-Honkai-Impact-10-07",
+    "images": [
+        "https://telegra.ph/file/889b5e70fb655bcced006.jpg",
+        "https://telegra.ph/file/05ced9ff5e6688fb7b88b.jpg",
+        "https://telegra.ph/file/ee674176e8696eff63fc8.jpg",
+        "https://telegra.ph/file/40cb8d5a00487774a998c.jpg",
+        "https://telegra.ph/file/c02cdf27091c90eba5741.jpg",
+        "https://telegra.ph/file/8e718df3e21db0b3bee55.jpg",
+        "https://telegra.ph/file/056d94dc78735b0eede4f.jpg",
+        "https://telegra.ph/file/b2a4dd0e72d76f9c41664.jpg",
+        "https://telegra.ph/file/6b6edbf6f573a1aba65c6.jpg",
+        "https://telegra.ph/file/0de353567a94d81290de1.jpg",
+        "https://telegra.ph/file/19ed3130047a2c45c9a01.jpg",
+        "https://telegra.ph/file/7f734d4c2c4e7dcdc28c8.jpg",
+        "https://telegra.ph/file/12223d3d654d91970087b.jpg",
+        "https://telegra.ph/file/5363871f769b9377d87a6.jpg",
+        "https://telegra.ph/file/643a07dc8dc10d1b2320b.jpg",
+        "https://telegra.ph/file/2230d8245922a16ecdc8a.jpg",
+        "https://telegra.ph/file/1e8c19b4eb9da618f3a6b.jpg",
+        "https://telegra.ph/file/f06643590ae6df7532954.jpg",
+        "https://telegra.ph/file/74f672663bfb61101621a.jpg",
+        "https://telegra.ph/file/800f499e4fd04538f5f19.jpg",
+        "https://telegra.ph/file/7cf5c35bdfdaf0a812288.jpg",
+        "https://telegra.ph/file/bb5442e80378494b05318.jpg",
+        "https://telegra.ph/file/2d69430569372909e4f88.jpg",
+        "https://telegra.ph/file/b9449ecc2c6618e36c305.jpg",
+        "https://telegra.ph/file/94e5558f34604930baf87.jpg"
+    ]
+};

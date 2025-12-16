@@ -1,0 +1,32 @@
+const comicData = {
+    "IDcode": 44773,
+    "title": "AT鲨 - gawr gura",
+    "sourceUrl": "https://telegra.ph/AT鲨---gawr-gura-02-15",
+    "images": [
+        "https://telegra.ph/file/e1c21b3ade463772665f8.jpg",
+        "https://telegra.ph/file/fa30153d40cc3d3a584b4.jpg",
+        "https://telegra.ph/file/2d62dceefa8843b164e04.jpg",
+        "https://telegra.ph/file/484539f5d1b3d06205093.jpg",
+        "https://telegra.ph/file/3e724e4c06e6c3e4cef09.jpg",
+        "https://telegra.ph/file/8d7f111259373a6ff8caf.jpg",
+        "https://telegra.ph/file/e008f6ec035bc42f89516.jpg",
+        "https://telegra.ph/file/71bc777ccf01dbedfb5c3.jpg",
+        "https://telegra.ph/file/be0235c256bb5dcd97c18.jpg",
+        "https://telegra.ph/file/eafd5deb8d9d870713d47.jpg",
+        "https://telegra.ph/file/b2fd6dac28e7d4c159fa9.jpg",
+        "https://telegra.ph/file/0c51038822910b7a74dfa.jpg",
+        "https://telegra.ph/file/bfc78eefddc71e0362379.jpg",
+        "https://telegra.ph/file/49fb134959679e10a68e6.jpg",
+        "https://telegra.ph/file/d0368277927774b9ccb63.jpg",
+        "https://telegra.ph/file/c57d8df0985e2b0aa2aba.jpg",
+        "https://telegra.ph/file/c703a680f036af57abaf1.jpg",
+        "https://telegra.ph/file/4458f6cc1521acaf45cbb.jpg",
+        "https://telegra.ph/file/b0090263262123df5e7e2.jpg",
+        "https://telegra.ph/file/c88f0492f22472a3814cf.jpg",
+        "https://telegra.ph/file/fee412a107f13907720e4.jpg",
+        "https://telegra.ph/file/a3089796f2cd90d9e5347.jpg",
+        "https://telegra.ph/file/098f52add9619e04a3ba7.jpg",
+        "https://telegra.ph/file/3547c39ee5f9dc1199191.jpg",
+        "https://telegra.ph/file/8fc8b8edbe32891667daf.jpg"
+    ]
+};

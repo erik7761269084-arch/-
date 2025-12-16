@@ -1,0 +1,33 @@
+const comicData = {
+    "IDcode": 23068,
+    "title": "九言 - 冰淇淋[26P4V]",
+    "sourceUrl": "https://telegra.ph/%E4%B9%9D%E8%A8%80---%E5%86%B0%E6%B7%87%E6%B7%8B26P4V-01-14",
+    "images": [
+        "https://telegra.ph/file/678daf31dfe3179530613.jpg",
+        "https://telegra.ph/file/bc884538aad7ce133667d.jpg",
+        "https://telegra.ph/file/743d2e8cb4206d4e7923b.jpg",
+        "https://telegra.ph/file/594e102a0d67a6b9b60b0.jpg",
+        "https://telegra.ph/file/1d9ee141a2c55b5def95e.jpg",
+        "https://telegra.ph/file/83ab771861c405357e095.jpg",
+        "https://telegra.ph/file/514775233358c5e6a1b6c.jpg",
+        "https://telegra.ph/file/d557ebd6b04fa75ad5304.jpg",
+        "https://telegra.ph/file/d2ef6aad1f9f9583f152c.jpg",
+        "https://telegra.ph/file/b1f7b3604a1d004c8b5fe.jpg",
+        "https://telegra.ph/file/d300d4e661502ecc50b1c.jpg",
+        "https://telegra.ph/file/0eac1a2881b2df2502088.jpg",
+        "https://telegra.ph/file/8d6fffe00091219a39bbb.jpg",
+        "https://telegra.ph/file/749ced93edf8242471cd7.jpg",
+        "https://telegra.ph/file/af72b5f27284150188f3a.jpg",
+        "https://telegra.ph/file/2bd07b5af98585c1f9e30.jpg",
+        "https://telegra.ph/file/3ca0e6231febaa8aaee33.jpg",
+        "https://telegra.ph/file/f24e7ea0a1839df2c42ff.jpg",
+        "https://telegra.ph/file/795966c61655ed8b0b34c.jpg",
+        "https://telegra.ph/file/20c801d6d7cef55c83216.jpg",
+        "https://telegra.ph/file/0a79a6ccf2cb09a733ec7.jpg",
+        "https://telegra.ph/file/6192167c98f99b9b1c97a.jpg",
+        "https://telegra.ph/file/3f226915297867ff4e766.jpg",
+        "https://telegra.ph/file/438b5c992633616a24b81.jpg",
+        "https://telegra.ph/file/84fe030bc3e429e54b0f5.jpg",
+        "https://telegra.ph/file/cf709bde1bb10ae773b5f.jpg"
+    ]
+};
