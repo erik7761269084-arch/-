@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFctRnqoeApkmbSqsOIGq66dPPt6-_4gAC5hgAAnAxUFUZZ9dCv8JslDYE",
     "actress": [
       {
         "name": "Smile Bibison",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/837dc122f64da8eb95aa4.jpg",
     "actress": [
       {
         "name": "Smile Bibison",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cfa03efe9f94f5fe4ca3a.jpg",
     "actress": [
       {
         "name": "Smile Bibison",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7d15b09e5b0f0576a9e4b.jpg",
     "actress": [
       {
         "name": "Smile Bibison",

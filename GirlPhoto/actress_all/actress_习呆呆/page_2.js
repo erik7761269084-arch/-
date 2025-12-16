@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"泳裝\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2da4f2c8ba66cce5df0b4.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c86f4e5b89ea8d65a73ff.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ee48f1844bd3cc0fb1c29.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://legra.ph/file/cebea3e521bed339083a4.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4a27e88be2d415e1b77ec.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8baa8efd2fd9d44f8758c.jpg",
     "actress": [
       {
         "name": "习呆呆",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cef341f47a6ecb5325014.jpg",
     "actress": [
       {
         "name": "习呆呆",

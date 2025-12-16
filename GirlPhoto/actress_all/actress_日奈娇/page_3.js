@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\", \"汉服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f497f9d8ddf4836c8ab2a.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/827d56eab2879daf5ac40.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\", \"汉服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/87c834a72fa7ad4e6a1ef.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/08461ee07620ab56b4c1a.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9490a166d6c9a5087924b.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a8c4bc8c11358f16c50af.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/030fd9c41da58e3d0087e.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dbd16a2272a64aef038fa.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/11/27/1-6f0ff3eabbc7514b0.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/23/1-1fde924cf9808b68c.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/23/1-1d7169864cbe5f4ee.jpg",
     "actress": [
       {
         "name": "日奈娇",

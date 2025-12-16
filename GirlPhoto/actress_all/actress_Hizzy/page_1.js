@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aba76c1a227d444b1678f.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -37,11 +37,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aaa2491ffeb28b04a3d23.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -68,11 +68,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/638f91635387a72b6dd84.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -99,11 +99,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/060848437e2b82eaebf22.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -130,11 +130,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/045151d0999d31482012a.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -161,11 +161,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9efcc38342e3ae2854e22.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -192,11 +192,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6554733ee814b1b94e559.jpg",
     "actress": [
       {
         "name": "Hizzy",
@@ -218,11 +218,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/646a8310eb89fd0c5d792.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -249,11 +249,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/494ea46abdc1f83467efd.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -280,11 +280,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b3fcd71176b912fa54bf4.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -311,11 +311,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/172822c204024fb3f9798.jpg",
     "actress": [
       {
         "name": "Hizzy",

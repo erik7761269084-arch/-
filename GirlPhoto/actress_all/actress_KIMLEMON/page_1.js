@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a0c416a4d11d4935bf1d0.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c0374781a07d922bf82fb.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -53,11 +53,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d2072116f57977e348b04.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -79,11 +79,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f98996c0c3aacc74db98b.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -105,11 +105,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8a75d61c78bf1de432195.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -131,11 +131,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5rYevTYVrcAAde4FKEG5Df7k7BIAAK-yDEbOeDZUEoz4S4ZYJkyAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -157,11 +157,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ebf4de9ad14f13861a725.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -183,11 +183,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0DnN3KVulw3TwxL21IjEOOA8EgAAuLHMRvVBQlSh2nXF67LXg0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -209,11 +209,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4mtlrkwyL5F1Pm2pleTZkt2U4AAAv3OMRt_oEhQuCWgOpJnO1UBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -230,11 +230,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4hcLgytVto5zmCH2LJWBiClRogAAsPOMRt_oEBQMyoVBthKwzcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -251,11 +251,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a1e6725bcde7afd265ce3.jpg",
     "actress": [
       {
         "name": "Minjung",
@@ -277,11 +277,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/89869d4c71f164e38cdfa.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -298,11 +298,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/842ab16305c85f0447bac.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -324,11 +324,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/da53d4a84c035abb62f8a.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -345,11 +345,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6780eef1536d379fcfb91.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -366,11 +366,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/284904e60dd2d45785f10.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -387,11 +387,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/27fcfe760dbe2de9c0736.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -408,11 +408,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1b93737ef45e7027dcc6f.jpg",
     "actress": [
       {
         "name": "RISA 리사",
@@ -434,11 +434,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwhDgAquRbVaGgprc6S1cjZHehUAAhfLMRuF1klQ_Z7Mc_dfvq4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -455,11 +455,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c3a0a47f20a784e0f6229.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -481,11 +481,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5522fe6cc365c0199fd05.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -502,11 +502,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/84ed07fbb211ea087674b.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -523,11 +523,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e4a4572692d2464b08d45.jpg",
     "actress": [
       {
         "name": "RISA 리사",
@@ -549,11 +549,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4623864e6c49b509866e0.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -570,11 +570,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/09e5cd2623f6352f818a8.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -591,11 +591,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e13391174573c2eaba5cd.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -617,11 +617,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e31c11644725cc4138a02.jpg",
     "actress": [
       {
         "name": "RISA 리사",
@@ -643,11 +643,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/83047ef2b4af6ac688067.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -669,11 +669,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0e745eb83cd69fc2ffb2d.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -695,11 +695,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c49147cdaa7e5c9f1cb98.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -716,11 +716,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/874e59f2dba14903d64f8.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -742,11 +742,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2107bc0dc25310296c7a4.jpg",
     "actress": [
       {
         "name": "Minjung",
@@ -768,11 +768,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/784ce2de1f90588a52e02.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -789,11 +789,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3eabfa6e183406c61a8b8.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -815,11 +815,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/47e42ab13a2fb92806a99.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -841,11 +841,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1e74a782cbe207a69664d.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -862,11 +862,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c72321d141ab4eba97b70.jpg",
     "actress": [
       {
         "name": "Siwon",
@@ -888,11 +888,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/849807d32452c81254f05.jpg",
     "actress": [
       {
         "name": "Minjung",
@@ -914,11 +914,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e46d5979299377ecf6208.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -935,11 +935,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c94bc733a919af73b3102.jpg",
     "actress": [
       {
         "name": "Minjung",
@@ -961,11 +961,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/29990a7120322ef3fc210.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -987,11 +987,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c7c5ae0087ae8a43c76b3.jpg",
     "actress": [
       {
         "name": "Hendoong",
@@ -1013,11 +1013,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0d09f0af8724157e4cf17.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -1039,11 +1039,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/21545837856a85e448459.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -1060,11 +1060,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/269a31a7028a9afaeb174.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -1081,11 +1081,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/73fae62f424f8612e8db3.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -1107,11 +1107,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d6b4db3d48050b8c94499.jpg",
     "actress": [
       {
         "name": "KIMLEMON",
@@ -1128,11 +1128,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b263e1c648adacbef7320.jpg",
     "actress": [
       {
         "name": "KIMLEMON",

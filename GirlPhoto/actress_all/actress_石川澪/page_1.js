@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ8ZbbUQVIYuyoRdG2J-FE7e3g9EAAtbLMRv_AjBSxXd8_wKTtE4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "石川澪",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3c1b08bf661db723a624e.jpg",
     "actress": [
       {
         "name": "石川澪",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e557a08bdbf7d96fb5ec0.jpg",
     "actress": [
       {
         "name": "石川澪",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/28d58a41e48ee638b7c60.jpg",
     "actress": [
       {
         "name": "石川澪",

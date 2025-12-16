@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ70fPYYng3C_IfUIgloNXPZS8j4AAlvJMRv1vOlRU-9fLO-55xkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7vRbNh0TMIzkRM7EPCQYZw16aUAAlfIMRuVVeFRDHJpFEms0fMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/160b5179ac9d6534df148.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9efd4757c3054cfe8bad1.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6725d62870a9577779b83.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"护士\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8ea801d75340ba275889d.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6365f7fa53cc09a89e4bf.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",

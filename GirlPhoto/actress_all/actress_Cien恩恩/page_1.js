@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEREXZow3AZR9yFTJRFXLozH3rLg86ItQACGRsAAuPZIVYltNNH_sCR0TYE",
     "actress": [
       {
         "name": "Cien恩恩",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ed5331c66e4590fb78e50.jpg",
     "actress": [
       {
         "name": "Cien恩恩",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"泳裝\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5a1a6f9c5913612b95b41.jpg",
     "actress": [
       {
         "name": "Cien恩恩",

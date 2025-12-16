@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/acca0813ec60ff1af7144.jpg",
     "actress": [
       {
         "name": "桃良阿宅",
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bb70c2cbac94c9badd31c.jpg",
     "actress": [
       {
         "name": "雯妹不讲道理",
@@ -162,7 +162,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://legra.ph/file/6efa2c3111a4010262c42.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28118"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/5a0f81bcc0a40b3bf0d35.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -202,7 +202,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6ca937a30bd5faaa08d03.jpg",
     "actress": [
       {
         "name": "JVID",

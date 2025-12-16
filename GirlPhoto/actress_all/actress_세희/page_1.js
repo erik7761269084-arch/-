@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e075cd3a81bd7321a1c07.jpg",
     "actress": [
       {
         "name": "세희",
@@ -32,11 +32,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5a79d407fc19e453ce128.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -58,11 +58,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2N0nQ4WZZaF8DUXP7epVDQRlUoAAurIMRvDUhlTqsDCFjRBO0cBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "세희",
@@ -79,11 +79,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1uK-DZcFoM3FOEKfhAYpXyKOrUAAlvMMRu7V9lSOFzNZgzeFAoBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "세희",
@@ -100,11 +100,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwGk5Pviw8Es3fL9p0Er1460OEIAAiLFMRtcoAhQBT5QkKYW_FQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -126,11 +126,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZt-y1D4oa89iWNtv-sPeESjmkPUAAiLcMRuNzvlStpzdVRC4jlsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -152,11 +152,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwGswnsgwaAQgPMPGlLuxuheS3wAAifHMRtcoAhQZTsityugeBABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -178,11 +178,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvHSCWsB2FnGXwlQxzYAAb7aIAhdAAKEyTEbZnuRU9wV-ql9anlRAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "세희",
@@ -199,11 +199,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4a174af4a990915696f46.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -225,11 +225,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZun19pd0TbJ-Mz_eld6Poj1EUoIAAhnIMRtyH1FTngatOUcMhgABAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Yeon Woo",
@@ -251,11 +251,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/852b0c0da44be0c511df1.jpg",
     "actress": [
       {
         "name": "세희",
@@ -272,11 +272,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aae07d01ec8233805b9b0.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -298,11 +298,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/949b810965160737696fc.jpg",
     "actress": [
       {
         "name": "세희",
@@ -324,11 +324,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fa26ba3b0887eb1db482c.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -350,11 +350,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3e7e623cfa329f6d6b2be.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -376,11 +376,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd20b510b3c81d5dbf2bc.jpg",
     "actress": [
       {
         "name": "세희",
@@ -397,11 +397,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c2fc84eb6816a06015ef7.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -423,11 +423,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/000b11f8c664d8f9eed02.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -449,11 +449,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1f7c877413325bc980c3c.jpg",
     "actress": [
       {
         "name": "세희",
@@ -470,11 +470,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2c005437417fe91eaddbe.jpg",
     "actress": [
       {
         "name": "Sehi",
@@ -496,11 +496,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/49534bd2e21760a89a46e.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",

@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVA7tpJ1D69tUpBibBS4WCwlOs5PsB4gACSRoAAs42QVWmElpOfLeUnzYE",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEwZZnnjwU5-p6DEywcces1Ki7CCOnvwAC-RYAAjHW8VRLvsIppnYLVDYE",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/079232232be2e5d61a356.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1891ecafbebddef240c8e.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b258b982331ebbd11786c.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8b4c71ebd586b1298e2d7.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a53439218f0bdcab02ebe.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/37e3b4fcc96f26b36b7d4.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2e4f0b25fd33956c4928f.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5436717efa33e11ccde08.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd108bbd7b4abf9a49f52.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -237,11 +237,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2bbe2646409f98fdf3313.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -258,11 +258,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/45b5b3eb4a1f71bfe8916.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -279,11 +279,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b4fd2d2c17034e62f2cbf.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -300,11 +300,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5318177f959d3378a0340.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -321,11 +321,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/559e8223bb346332bfeab.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -342,11 +342,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f30cbf8fc2fd04603bf37.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -363,11 +363,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/421e45d7fa5d225587ae4.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -384,11 +384,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/003132f06d5ed73d475b2.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -405,11 +405,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ce3f741f2154b6b511bf6.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -426,11 +426,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dbed3bc54f3c21b6058a2.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -447,11 +447,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/23eefc217767f30407c42.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -468,11 +468,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4187948cb551e9c381425.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -489,11 +489,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b71f76992502accb6bc27.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -510,11 +510,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c8687fcd44678d70fdfb1.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -531,11 +531,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e6a5679ca86cdae80ce29.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -552,11 +552,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3f2fe14008ef135d52045.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -573,11 +573,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/703343a9662b851ff58fe.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -594,11 +594,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4b56e73ae47594ac18ff3.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -615,11 +615,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a78e1357dbd954c1a3a05.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -636,11 +636,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9ac6c27cfbd7f634a1eee.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -657,11 +657,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bb0f8349d44b0d7a8ec80.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -678,11 +678,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f39049a5a5cc5cc53458.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -699,11 +699,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7678ee079f157c3dba65a.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -720,11 +720,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/79019b1361f1e6c8f3c2e.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -741,11 +741,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/433ed60a7b08cb489fc72.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -762,11 +762,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4976c4553aa1967e07b19.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -783,11 +783,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4e34f66ef3f6089dcab84.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -804,11 +804,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6fd0b409476563124ec19.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -825,11 +825,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f6158143c9643574d47fb.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -846,11 +846,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/83d344d5befc445f31042.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -867,11 +867,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/adf0e70a751bf25570d06.jpg",
     "actress": [
       {
         "name": "Sonson (손손)",
@@ -893,11 +893,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ef978ee5bfe272c80211a.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -914,11 +914,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1dc772fdc5be0c43522ad.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -940,11 +940,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ba902512a85635e38ccbd.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -966,11 +966,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4e7c06e3077acbc2de8d1.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -987,11 +987,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/45c2c717ca41feb413874.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1008,11 +1008,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/528603775c6c99dd7d2f8.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1029,11 +1029,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4effe24a4f4d2d0d3521e.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1050,11 +1050,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d5208022ea7f109b4ed5b.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1071,11 +1071,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/194b239ac132234c4edf7.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1092,11 +1092,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0c9411c42dd0cd7db2c9e.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1113,11 +1113,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/547b7785011ec22b4efd8.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1134,11 +1134,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fc6f0cc56ee78e5ef1045.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1155,11 +1155,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/082955a35219afef907b4.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1176,11 +1176,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/32d23aa70e6c383f86ebc.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1197,11 +1197,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1f4e2a6fc558e4817350b.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1218,11 +1218,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/67225c0390f38e051b2db.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1239,11 +1239,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/49e35dffc82d3907c631d.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1260,11 +1260,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/326590635b86621609871.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1281,11 +1281,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a73dc2dc92eeb33cd9990.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1302,11 +1302,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/806f7234d92d365f4ce34.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1323,11 +1323,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4948168a4a880cf5d7e60.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1344,11 +1344,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/04559c24233d54dd1e46c.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1365,11 +1365,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f923a61de33452e1caad0.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1386,11 +1386,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a4c0a72df58ca6a173c0f.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1407,11 +1407,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/793892ffdddbfbe7cbe42.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1428,11 +1428,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c062d9e6a4aa79a8ee980.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1449,11 +1449,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2438b7dc5e3c946d32144.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1470,11 +1470,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9bd2145037678c71c64e1.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1491,11 +1491,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/81ebc18a739036b3cf9b4.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1512,11 +1512,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/59759bcf46157b95380e2.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1533,11 +1533,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dc9b703e4a581728856a2.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1554,11 +1554,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a941eb976f0349d85372d.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1575,11 +1575,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/808205357555755e9e66f.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1596,11 +1596,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1OkuO6tMYisft0hnqAgWOyhoPEAAgTIMRvW25lSuFnMN8rV6r4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1622,11 +1622,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ66eSi889PZ9ji-9cL4kXqAlH-4AAnPKMRv8LHlRQzVe_SCmERgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1643,11 +1643,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7fZ8RgG8kMkkUJ2za3UAoQWHkkAAl7IMRs868FRLXU0COg3f7sBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1664,11 +1664,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c413fd430d315e3a70d0d.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1685,11 +1685,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7FFAvtngJxPxebShs3WZ_sgfbYAAgrLMRuDrIhRdDlyOSqdm-oBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1706,11 +1706,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyUopPUwLlVLTZZMJ48npilz4m4AAsrFMRu_rDFR_OscbRZa9IYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1727,11 +1727,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3CivuYQL3KjLfGw6YWTGFmioacAAt3KMRsn9IlTLoIzyrWOfCABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1748,11 +1748,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1482257f55322aa498421.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1769,11 +1769,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9123e487ae44a12968b3a.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -1795,11 +1795,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5mJCNpHV10ib0ssOhZw8ZQ4vbgAAoTIMRtkYdFQJwczhzyigVUBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1816,11 +1816,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bd5c5ae4a35fc3ec309ce.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1837,11 +1837,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1bf86f2b2c1b46e566151.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1858,11 +1858,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e5ebdcd8a2a64fa788a0c.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1879,11 +1879,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/90a5c49cc0c4f53a70e04.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1900,11 +1900,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/727afd1b64bf5c34d63f4.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1921,11 +1921,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/de0626dab78e63f9d4674.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1942,11 +1942,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyLvjjoI_ZsXNItq8VcjLESgZSAAAqvNMRumYxhRiqy8ZechztYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1963,11 +1963,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7b4036002f1c5d6e86980.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1984,11 +1984,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZxVzv4gDJlxJEM-eTb1EEcIt5dUAAjLLMRu-bqhQmy5v0YI_OVEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2005,11 +2005,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZxApzU6IGbNsPP6My6rpJ4l5g-gAAuLFMRvxJYFQHSXeG53rj1kBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2026,11 +2026,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ef6b608b2e5225657690e.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2047,11 +2047,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/df7fc6aa2f6d82d4f9e51.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2068,11 +2068,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/317436fa35a399a8c7a36.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2089,11 +2089,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/739ec86ac969f80bc8970.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -2110,11 +2110,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3891266ca24a74978f49c.jpg",
     "actress": [
       {
         "name": "Bambi밤비",

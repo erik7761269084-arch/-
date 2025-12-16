@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETEQ5o-f47R_j5l1f4ffe13K__d7eBnwACeRwAAk6d0FcbCvwfCHSmlTYE",
     "actress": [
       {
         "name": "悠酱",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMAqBoRyvL40IGrIrnG7tUdQy-g4Gg-QAC2xsAAqhJOVYm1szksApDpjYE",
     "actress": [
       {
         "name": "悠酱",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELORZoLIb60xdhQvcCCb1yJZd89vfVsQACuRsAAgeuaVX0SmfwxdLgIzYE",
     "actress": [
       {
         "name": "悠酱",

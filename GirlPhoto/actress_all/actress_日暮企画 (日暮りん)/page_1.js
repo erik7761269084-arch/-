@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHa4xnzU4gpxoBDXueFu0WfUZX5fZIMgAC0xsAAlBKaVYG4sX4LwsDBjYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHakJnzUgHrsLkF_itQi1WrzTTR3CnZAAChRoAAlBKaVZT6oiRkcNoCDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHaRZnzUJFBmD61iItr18HwH_xRhGwCQACURkAAlBKaVZL-HzHceUiTTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHZyxnzTkgsSGMXMjldU6ahW19Nx77kAACTxcAAlBKaVanDnZbVwvaUDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHVO9ny-_p8Gjg3VhT3A8dkCNNV2IEkwACNh0AAsz0YFaGcPFNA-MVPTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHU3lny-imiGM7q_Quen7hSy5MZGLiYwACoRsAAsz0YFYgmRWInOZKnTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHULBny78Bl_c0dqV_Gx_UXZiJnbAtSgACOxgAAsz0YFYSFat-PVWpSTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHT4Rny7mjfZMfdP_veuh-3_QQ0W20iAAC-hYAAsz0YFZA9HPbNjmZrjYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHTj9ny7PDdkTRr7HTD2d0UA-eCgvZ3wACmBUAAsz0YFbYhL5Hfs7k1DYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHSZdny3KJswNiFk-2t1j2c2k2AxFDegACByoAAsz0WFZm6ATjznaJWzYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHSFRny2zJxf-ODN474xSfc5PGnj9c3QACuigAAsz0WFZRuh9DsqjAkTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -237,11 +237,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHNm9nypWpO75InvVYGDG_HmjBvyPd3QACDRkAAsz0UFZiVlNZ-tkoUzYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -258,11 +258,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHNSpnyo_kZveqM49iNzbH6Ynkj9BEAwACqhcAAsz0UFYqylpEGCmjqDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -279,11 +279,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHNCVnymkQHYWNvZ5K4OVGS76NqhTrZAACghYAAsz0UFbGMfmPvZyFgTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -300,11 +300,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHMpNnymHtyOL2UtJUB8hBOfoES1NaQQAC4RQAAsz0UFZHcGF2tYIHjDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -321,11 +321,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHMQ1nyls0oVwHHK1C7M-apnafv1CevQACBiYAAleoUFYHXTXKhIE2UTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -342,11 +342,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHMJpnykwH4YowsTR79vjI5SKp9XVPOgACdyUAAleoUFY9xedBOKxmcTYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -363,11 +363,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHL05nykX1RmrF_UneRz8zTzbFBoPI5QACJyQAAleoUFaPEyaqBOwmjDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -384,11 +384,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHLg9nykBfUpvIJVVffW3TTjOZ6tXkoQAC3yIAAleoUFamYc4_-Ton3DYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -405,11 +405,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKjVnyfbUfrUc4mHG0UDuZLtmuPBimQAC9h4AAleoUFY4glSBFv6WRjYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -426,11 +426,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHKO1nyfD9u63R8sTGHePQ5zjJYiTDpQACpx0AAleoUFbZCrjOvyETRzYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -447,11 +447,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHAxVnx9osGmxe6MFhZks_IGRM5fwR1AAC3yMAAljaQVYRPwhRuhXHgDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -468,11 +468,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHAchnx9PThRHJFnljAyqRK9-zt9ruyAACfSIAAljaQVauAegKCRGdpDYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -489,11 +489,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEG6_xnxsyiYo2ToWv9bKzRp9N_GAb36gACUxoAAljaOVZZdnhbYk6c5jYE",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -510,11 +510,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4bfaa3d7274ba03e13d66.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -531,11 +531,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ed26d2dd5184beac3d25c.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -552,11 +552,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f4527928f886b208d4cf6.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -573,11 +573,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/42d1b830c5a1ca13d1dbf.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -594,11 +594,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a5476e08c0aa026ddb4a0.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -615,11 +615,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3a80e2d67f421838754a1.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -636,11 +636,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fb152d33d6f39c474d53c.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -657,11 +657,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ca7cb21819e24b92005d8.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -678,11 +678,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b9cc3ea907e17d934b1b2.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -699,11 +699,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b4d00022f54876e57ac6b.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -720,11 +720,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7023bdedacc33b3e1d603.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",
@@ -741,11 +741,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7f75cb0002fb9ffd96195.jpg",
     "actress": [
       {
         "name": "日暮企画 (日暮りん)",

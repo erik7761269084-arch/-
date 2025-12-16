@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f42b707d2341744c1c7f7.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -32,11 +32,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8afc7863ee98da5df743b.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -58,11 +58,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f533ebbc3e1af7ad0fc1c.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -84,11 +84,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b339f9b63d30b69a07380.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -110,11 +110,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0244e8e677d4e71e43411.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -136,11 +136,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bd7d974080a222296acf9.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -162,11 +162,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/sdYBcSSZ/01-1-compress64.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -188,11 +188,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7fda2694f673238978baa.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -214,11 +214,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e9f6ea5c6db26eab88b29.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -240,11 +240,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/279c78142a08ccedefae2.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -266,11 +266,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1Y7Dh8P5pDsfrEGzuNV8ahH54AAAm_GMRtiYrFS8nXMrbm0R64BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -292,11 +292,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1jj5CvA117PoWlrZiawYnYdtIIAAoHHMRtDJclSCkDk6f8tLSgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -318,11 +318,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ8j1PWtr1WFCyfxRNL9KO_v0B-wAAorHMRu3sEhSBKbZAAEwIyzhAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -344,11 +344,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1uBFkjaH-899tvF6caMN-_IlrcAAvPJMRu7V9lSXEFaJ-0rEpYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -370,11 +370,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7a7b3efbeeefd9b40aa7a.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -396,11 +396,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzuXcQk_q-5BF_TXPOjAHmNzIjMAAlTkMRs5feFRgM3WYi0uV8oBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -422,11 +422,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6ad00679ff9ee2224831f.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -448,11 +448,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f1f9893d27ba4abebf12e.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -474,11 +474,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f141f09ca51d7cdc88aff.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -500,11 +500,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f61beb06f5a275e4c018c.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -526,11 +526,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f4bf70aadf0abba5afced.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -552,11 +552,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ae822fafa58ed4a3af580.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -578,11 +578,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1427819574cc5ba2f69dc.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -604,11 +604,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/793d35bd3fadc68d631ca.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -630,11 +630,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bd89aeb80aca17427bc0e.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -656,11 +656,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ebb9e8de76a13cb0f2f97.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -682,11 +682,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"和服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5c2d0820bc0f6d6a798b0.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -708,11 +708,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/46ba531699044b92ac0dd.png",
     "actress": [
       {
         "name": "霜月shimo",
@@ -729,11 +729,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/eea863f440ef493cba871.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -750,11 +750,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/64e075197c9d981950714.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -776,11 +776,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8383b123229d60bcd1d32.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -802,11 +802,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4f29185e4147c68630231.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -828,11 +828,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f5573e85c47674bc62fdb.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -854,11 +854,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9c3a8988512b55f5e6514.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -875,11 +875,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"和服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fde1853006b9bdae55747.jpg",
     "actress": [
       {
         "name": "霜月shimo",
@@ -901,11 +901,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/810a5a49c59562afcfce7.jpg",
     "actress": [
       {
         "name": "霜月shimo",

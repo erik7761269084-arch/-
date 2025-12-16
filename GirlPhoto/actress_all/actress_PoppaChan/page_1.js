@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVrWFpPBLDQqSjLepOV8qnlYfQgIL8LwAChyEAAj2h4FX5S8zdz7wELzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVow1pO3xNBaxcZ0k2BuIuKN1uOhEzbgAC3RwAAuz12VVyzff7Cn_kMzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVonlpO3GdGgmB30wDd5MxkkLpA3CxQwACLhwAAuz12VXSCUz3jq4eDDYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVVdJpMUGXRKYN1xNnISAciiYmTpXHiAACqRwAAnWBkFXXYCwITSMqdzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVQp9pL0QDiZGEJ6wk3ztrbFrbmCDVSgACciUAAvWIeVW2YiuKM1VgKzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVN81pLo39IATNzDqzYjJjvc0CF6x71gACdiMAAvWIcVVTpiaB8uCsnjYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVNlVpLmKesSSZ5w90d-936no_oTLlzAACfSEAAvWIcVXE81PsbnXQuzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUzEFpIPiQiu4-L1eUY3-xLwIqPthbfAAC6CEAAuAXCVUB27gmSEOU1jYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEUvHVpIDR0_8WxmXgCMARlrFGj4Ro1vgACpR4AAuAXAVVY4Ji8Xc4OGjYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETNWRo_UiR1ZEPZAse6AK6F9h7KHKA6gAChicAArHC6VeKcZndjnrZEjYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAESdRZo7i7CYkRSOZ-eQfn6SIg6qU1MZAACXx0AAmiMeVfsZSA42WmyrTYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -237,11 +237,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEScb1o7gu-Jhx02r2hicDS1nGR4RvZkQACIyIAAmiMcVczjEovqqopazYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -263,11 +263,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAESUuJo67vNPtaDdccPuw7rXzS6KIlh5AACuRoAAp27YFftiB6WoHfxujYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -284,11 +284,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQgY5os3gka8mh9Lhiin1TDSi_1SNwMgAC_C4AAn_ZmVWE5Buscd9cbTYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -305,11 +305,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPxQdopY4lwEXkIBXF5wNAtO5Zf5j9qwACLiMAAi9jKVXHq1WCMv6HMzYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -326,11 +326,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPEDJojk7AWu3WGabjcAABigt1ufq38p8AAjEbAAIIVHBULD1kVEecpjA2BA",
     "actress": [
       {
         "name": "PoppaChan",
@@ -347,11 +347,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECsk1nefQRYdRx9jCe71K0wy12Y3yXvwACdhMAAnXo0FeEFovBwu6Q6DYE",
     "actress": [
       {
         "name": "PoppaChan",
@@ -368,11 +368,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e11b4f15fdc42d888a1dc.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -389,11 +389,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e44603deec726544506ba.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -410,11 +410,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d09c0ded753cffcda9c44.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -431,11 +431,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0eb79b74792186be11857.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -452,11 +452,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/142de354faccbe7541f5f.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -473,11 +473,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2c5deb9f76d6bf561db49.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -494,11 +494,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fa0c3b0a94c31531849ca.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -520,11 +520,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4964940f7fd37d81e93f8.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -541,11 +541,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aff37fc97a7fa40e01b14.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -562,11 +562,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ee244122a6c11700557a4.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -583,11 +583,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ddd9b456dce7e11160487.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -604,11 +604,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4f43d929fc25d842f403e.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -625,11 +625,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2067d6d68dfac90e2a790.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -646,11 +646,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/58c9d27d6f6013a6fc55c.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -667,11 +667,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7a6b4af784918552cf492.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -688,11 +688,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9cecfb717ec321267a7fb.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -709,11 +709,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/99917b0f617c27bf09926.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -730,11 +730,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0989c9a3bb36faa3c9bbd.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -751,11 +751,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4f008df6b3371b710c33a.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -772,11 +772,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/XfnWYnSd/001-Ubel-Poppa-Chan-1-compress47.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -793,11 +793,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/RkqrRdNk/001-1-compress13.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -814,11 +814,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/JRRFCZgm/001-Poppa-Chan-Ju-Fufu-1-compress69.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -835,11 +835,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/JRThX3dZ/001-Phoebe-Poppa-Chan-1-compress12.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -856,11 +856,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/1tvrMKTj/01-Nozoemon-Poppa-Chan1-compress38.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -877,11 +877,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/twvdcXjk/Poppa-Chan-cosplay-Kiryu-Coco-Hololive-1-compress19.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -898,11 +898,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/v4Fw9MNB/01-Poppa-Chan-cosplay-Tachibana-Hikari-and-Tachibana-Nozomi-Blue-Archive-1-compress35.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -919,11 +919,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/rGvhrJcV/file-5872.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -940,11 +940,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/n4gLmjy/file-4624.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -961,11 +961,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e7b30f697987f815cb510.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -982,11 +982,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1ab364efc1f77f9a1dcda.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1003,11 +1003,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7Z-YhQkpk29IVqsqyDoYRaMUqkAAg7FMRs867lRFzu3uaWExFIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1024,11 +1024,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ6lS-lDhkLYGxPk0YxLjJvLTVh0AAp_DMRtm0VFRXegQUbQ35v4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1045,11 +1045,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fbff39966be01cb3c7d0c.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1066,11 +1066,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1c0fedab682de2f664405.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1087,11 +1087,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/801d9aae7efbfb7b20cca.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1108,11 +1108,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8e6ed8ac1b3efe95541dc.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1129,11 +1129,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f138c014b288e8931376e.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1150,11 +1150,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f2760eb77cd772d479474.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1176,11 +1176,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/82e8c425d04f0bc9513b2.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1202,11 +1202,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/15/001_Phoebe_PoppaChan_159fccf78db06b771.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1223,11 +1223,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/11/1-1d4392ca02d306052.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1244,11 +1244,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/11/1-15a9860254898b6b6.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1265,11 +1265,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/11/1-7550b9c63f1f6ef941.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1286,11 +1286,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/11/1-105.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1307,11 +1307,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/08/1-12fdc0ae008cb9653.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1328,11 +1328,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/10/08/1-1.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1349,11 +1349,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/20/1-1.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1370,11 +1370,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/16/1-19a13f41f66cc54d7.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1391,11 +1391,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/15/1-1de9fd1776ad5b60a.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1412,11 +1412,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/13/1-179187be1d4af72a6.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1433,11 +1433,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/13/1-10a667ec87f8f41a5.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1454,11 +1454,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/13/1-15ab4bbe198e143d2.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1475,11 +1475,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/05/1-16844108314d72a48.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1496,11 +1496,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/05/1-138bd55d1dd0f9e80.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1517,11 +1517,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/05/1-1b74bcd2a6896c627.jpg",
     "actress": [
       {
         "name": "PoppaChan",
@@ -1538,11 +1538,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/03/1-1e46d237f318a3e48.jpg",
     "actress": [
       {
         "name": "PoppaChan",

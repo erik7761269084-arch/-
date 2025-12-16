@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dac86605a173135c3a9a1.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cec15d71edcba53f48fbd.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ8eqMjavXpDzShhVUD9SgHmJdg4AAiPTMRv_AkBSc_EIV7wjQTsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -74,11 +74,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7aFwCIY_StyPmjbOX0Wr7035SsAAs_GMRs867lRuhxM3Rde3o4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7U0ArDAuXBB0AiJ8F5EbF2PDaAAAt_IMRuT6LFRRjJlnS0Y_5sBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -116,11 +116,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZuSm0G5Xdf5rMEoMtaHWSsz8eegAAkfFMRsxLClTzES2svjMagwBAAMCAAN5AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -137,11 +137,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5mG8AOeKpHV_xtSF9teEzqoXdcAAhvIMRtkYdFQSkAS4Z7fmgEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -158,11 +158,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6a11a311ff0e2aff7eae8.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -179,11 +179,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5bk3_JamCM53mw4G5jSj9wQFg0AAqDGMRsrH7hQZOE3iAdti7oBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -200,11 +200,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bf5132843a3b231aa3917.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -226,11 +226,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fed1dcd5740649b7bf00b.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -247,11 +247,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2TCDcGcfB5hpxGVgQemm2bAx5gAAn7OMRsBbChTPevRZ55_DEgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -273,11 +273,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2Iey8E_gRzOH9FIbStiCpPmLjEAAg7KMRsN1RFThnPpqA-tpDsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -294,11 +294,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2DOFAW8-DXfSXg1j5uzo0iA9FgAAlzIMRsN1QFTVUhzNrCrzy0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -315,11 +315,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZuX3kZmv4r-11MZ1foIfSskBzmEAAnLDMRsxLDFTi16NgIzI4zQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -336,11 +336,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0I0vpGqAVEHsNyXB0zpaREK_3AAArLIMRu9-RFSK0iytTOAuu4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -357,11 +357,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Dmp2DHevfQZf7MzJMH9SkB-IEAArvHMRvVBQlS0apW8Ht0wQABAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -378,11 +378,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZz-SrqYfGXJoVMtSLFosYXcBB0cAAjDKMRvlN_lR4FknF-QAAd1QAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -399,11 +399,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3fe83f50e30cb4cd816b4.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -420,11 +420,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZy-7jeXXqqyuNZo5rUtPBEk2aEYAAunFMRuueXlRqPrMGsqUCw8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -441,11 +441,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZy5so4JH_YI7knpwCqFCRgHLGG4AAlLIMRuueXFR-f2Y27lb0pkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -462,11 +462,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/88cb7d5396526239000b7.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -483,11 +483,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a3a5837b739b5883acfa3.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -504,11 +504,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5c4985724c8f9da800bf2.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -525,11 +525,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/602e737a170673cd9a0cd.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -546,11 +546,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/86d22eed6a72a3282c23a.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -567,11 +567,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a1dca8e02551fa8120450.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -588,11 +588,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/18e968726917c7cb0bdde.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -609,11 +609,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/395b963605b4094c606f8.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -630,11 +630,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0bb9b9f74cb83719abbed.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -651,11 +651,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/df89ad19aa5fe44c7cd46.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -672,11 +672,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f06bc0fed4ecff79049c6.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -693,11 +693,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/075110886c7fc22add1f8.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -714,11 +714,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c3fd0423fbe8aabc1bba6.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -735,11 +735,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/546cee11abda0598e852a.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -756,11 +756,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ad3568b9155933caecaf2.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -777,11 +777,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c7448fdbbe2ea2f4f3b2a.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -798,11 +798,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9d6ac0ba0d7d00d12bcaa.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -819,11 +819,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/47e87f74752ecd7838e4f.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -840,11 +840,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5144cd3904dea3bc71244.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -861,11 +861,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/43ecc08466b32cdb3f7bb.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -882,11 +882,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8b03a2d251d2d652fb63a.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -903,11 +903,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6e45a4198433051715a15.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -924,11 +924,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7b65cd4bb2fa2017050a7.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -945,11 +945,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a1950fa1e630850ac702d.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -966,11 +966,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/444d08181882a80063aa2.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -987,11 +987,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4831a7143b957ba979a77.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1008,11 +1008,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a53cb8519ae7ba8906f31.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1029,11 +1029,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dc112a6314856d5b276ad.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1055,11 +1055,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/efc93403ebf6f4e84539e.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1076,11 +1076,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/657348525b97e2e0245e0.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1097,11 +1097,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f156fb6eb578fcca7afd.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1118,11 +1118,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f9746b8749df8cd33f4d3.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1139,11 +1139,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8a87ca1e3f0ecad4b376e.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1160,11 +1160,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a02c277bb1ee618164104.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1181,11 +1181,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d88bd527b28a0fbaeedd2.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1202,11 +1202,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5d28094fcda3bc834c3ab.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1223,11 +1223,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/09f56b78d4e674ced2b5d.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1244,11 +1244,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a583c65f30a5f051d94f9.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1265,11 +1265,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5c303dd2e65a6f916295c.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1291,11 +1291,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/853520fbe4c458611d164.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1312,11 +1312,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cce50c7bf52cf4fa80d27.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1333,11 +1333,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/780015e125b30c1baa1bc.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1354,11 +1354,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/76c7134d9ea96dc93cf4a.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",
@@ -1375,11 +1375,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cfec5b408886bcced558f.jpg",
     "actress": [
       {
         "name": "Yuna (윤아) ",

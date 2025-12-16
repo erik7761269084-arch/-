@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDrhn_xxpUhXg3WRvApKHz9TYRghegAAClxgAAmta-VeSFvxER-LkIjYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDYxn_xabTrqm7J2PrMehJkH5wpbTRAAC3BYAAmta-VcDksCyeqis5TYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJDFtn_xE9GflIsKAz57AeHEkvczKlcQACqxUAAmta-VdYXcEQ_hcnfDYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEQ9ZnlPy9VZZ-3cueZlfL3l9Uy0wDdgACuRgAAi8KqFR2K_4BTct17jYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEQllnlPYDa1HSDwUofiURdm9I5I9srwACMRcAAi8KqFTc5p5LKCESLDYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEQRxnlO6D3iiqN5Y08H5em7PahSwYqgACLEcAAi8KoFTlkXqEKRKbgDYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEP-FnlOfKWIw8BqCHQc8Hu6T1__j8owAC3EUAAi8KoFQ8qWQlbORxyzYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEPXNnlNbX-YlZevtp4F-edDBSCrPsPAACW0MAAi8KoFSo0S5GHpctJTYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEO4dnlM0qBi3EhNsyUoVHW4SYViKO1AACZUEAAi8KoFRbA0TWbnW9yDYE",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/895a4d13b5fec6ac62ed4.jpg",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8f2f1bc2b1004b45a6014.jpg",
     "actress": [
       {
         "name": "千阳(ちよ)",
@@ -1077,7 +1077,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"汉服\"]",
     "type": null,
     "company": null,
     "publish_date": null,

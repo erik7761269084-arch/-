@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPYV5ol_w2Yfh3bfc7NoY0IxjaWCnvmgACoSAAArrWwVRB5HJOezzU1DYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPYCFol_WYt_2gtRJ99zLDCfRKGlCstgACVR8AArrWwVSnvjddL3KzKTYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPXqlol-7DV7BvkBhdwDq7Ob1RhLvihgACzh0AArrWwVRSOTeqp_UxQDYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELQXFoLMOooRPaJIGuYnoFhRhoMhOjXQACWCUAAgeuaVXvU7gjudnHcjYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELPx9oLLmE4XooCARdZ-XWUNUQPjWagAAC1SIAAgeuaVUIb7Kr23cz9jYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJT0loBjfUIzRhumt_F4UsCheOeTe9VAAClyAAAth6MVQgn_Mb1kjhgjYE",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEJTRloBi5kA-Ox_Gzq9w9TeG95a9sLpwACUx4AAth6MVQMTwABh6oOpiA2BA",
     "actress": [
       {
         "name": "Chizu(ちず)",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHp75n0TH50Kr5lNohyfoDHvFKzgoIRwACICAAAuYJiVbVzOCnjBDkwTYE",
     "actress": [
       {
         "name": "Chizu(ちず)",

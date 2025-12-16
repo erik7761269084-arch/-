@@ -90,7 +90,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\", \"护士\"]",
+    "genres": "[\"护士\", \"原神\"]",
     "type": null,
     "company": null,
     "publish_date": null,

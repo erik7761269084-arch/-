@@ -110,7 +110,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\", \"内衣\"]",
+    "genres": "[\"内衣\", \"汉服\"]",
     "type": null,
     "company": null,
     "publish_date": null,

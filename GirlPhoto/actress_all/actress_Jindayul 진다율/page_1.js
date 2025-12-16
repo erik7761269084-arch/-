@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzufs02lr8930erF75qEdH-ZzZ8AAonmMRs5feFR8_ki0ww2BBEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3CjlSocu6L2XxItMhG9XW1HC80AAg7LMRsn9IlTewr7Sf79zR4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2oMUhlPMut3vhBiFa45nqT6R5EAAgvGMRt_4VBT56GjIiBo4v0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ29QFe7X72T2yc9OmeTeQDelzEYAAmbDMRsY1YBTtGB3Cov9yvABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZuILeHX0LNOa_KvKPH6l2b30wDQAAizLMRvY2RFTooX4ZoNHfV4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZt-x70wiYJoywnFY9FGMDfmzZnUAAuXbMRuNzvlSJZh82GuxC-8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Jindayul 진다율",

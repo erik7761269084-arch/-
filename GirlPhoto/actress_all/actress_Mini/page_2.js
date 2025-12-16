@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5941e9c80cd61d4f6cac1.jpg",
     "actress": [
       {
         "name": "糯美子Mini",
@@ -42,11 +42,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/acd1c5e1efd6c74002937.jpg",
     "actress": [
       {
         "name": "糯美子Mini",
@@ -78,11 +78,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://legra.ph/file/25205816b1d6c4bbf379f.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -114,11 +114,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8ed45c041e1a3a07017de.jpg",
     "actress": [
       {
         "name": "糯美子Mini",
@@ -150,11 +150,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dec0e88aa113f3c88ec5b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -186,11 +186,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f3b520adad1b945737749.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -222,11 +222,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f09f7631db751dbb12190.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -258,11 +258,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1d78d4275ea798db1d6d4.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -294,11 +294,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1d9397346df5036bef1ac.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -330,11 +330,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5d34a7b2b2d24956b75ec.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -366,11 +366,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2bed73159d93cb3010a09.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -402,11 +402,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b246e087fff289cedc81d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -438,11 +438,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2129783492eea88addae5.jpg",
     "actress": [
       {
         "name": "糯美子Mini",
@@ -474,11 +474,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/70376af4c831362c5a599.jpg",
     "actress": [
       {
         "name": "糯美子Mini",
@@ -510,11 +510,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bee941cfc9c9940f61968.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -546,11 +546,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/08/15/TGdouzi233233_bot-1.jpg",
     "actress": [
       {
         "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",

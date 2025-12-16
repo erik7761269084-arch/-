@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f60e657d07dd3f5937347.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9799f721dc6c80f86adcc.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/814f36b471286689a7f37.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -74,11 +74,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aec0fb0ce03f06fa8d322.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8bc4c86addef5eba7046a.jpg",
     "actress": [
       {
         "name": "Mikacho",
@@ -121,11 +121,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0971bad9171e2ba986fa3.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -142,11 +142,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/97170ca07a64cb13f1a27.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -168,11 +168,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e83e2834d67d0e7acb432.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -194,11 +194,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ6_0cCd34cVVvPecsIOtW_BpyeIAAm7MMRv8LIFRyiGqRCjmLU4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -215,11 +215,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ66b6rxTBkEiREiZ5sJbUOl-iSUAAtjJMRv8LHlR8tMeTAN7Ce4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -236,11 +236,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ada16c1fa569a1f6c9ec6.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -262,11 +262,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5Ly3m6Psq77lLu0AdIWEJejQuQAAn7JMRuLgplQWhSrDHaVst4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -283,11 +283,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5GgJsFla-Ez4Wp89aBdbRx8CmAAAlnHMRv5TIlQKERZfL-wG1wBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -304,11 +304,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7c8b8eb56d53b6c655b3d.jpg",
     "actress": [
       {
         "name": "Aram 아람",
@@ -330,11 +330,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4W-MQpVgEzXW_wXn-hgJY-QpeQAAoDLMRua5jFQfSMUNwfMRh8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -351,11 +351,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4RoT5eFAAHJLCCd30LESpZbO0YVAAIRyTEbmuYpUJEkI9dVNHXgAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -372,11 +372,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c22cb95801834195256ed.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -393,11 +393,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/26abb4eaf5e1cc7e7b96e.jpg",
     "actress": [
       {
         "name": "Aram 아람",
@@ -419,11 +419,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a656de1d1fa88b5c431ba.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -440,11 +440,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZu3fA2bNI5FKxEMtr6KlqnMqfdgAAgHOMRtyp3BTUZzxYZsxnKsBAAMCAAN5AAM2BA.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -461,11 +461,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/30688bd62a0e65a3fb27b.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -487,11 +487,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/659f5588b70b6e2dc2f4a.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -513,11 +513,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9e916a19d1fbf73f5c4fd.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -539,11 +539,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3ad013b25e17d8d3ef333.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -565,11 +565,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d15526f8d7646a3ca7e44.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -591,11 +591,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/de596e03742b1b6d5e748.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -617,11 +617,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e99ec895d9226873be5ef.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -643,11 +643,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/71e8b89766f3db777d96e.jpg",
     "actress": [
       {
         "name": "Baebae",
@@ -669,11 +669,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7c2faf5264b9663610d38.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -695,11 +695,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/84b50eb64383392db4992.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -716,11 +716,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5b4fb71c2d05e7b58b7d2.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -742,11 +742,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/754dc883c07279f717500.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -768,11 +768,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4a793132d4b3e96aee5d3.jpg",
     "actress": [
       {
         "name": "Aram 아람",
@@ -794,11 +794,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4057e9b57179cd9421677.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -820,11 +820,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8f0a09e406ebca7880343.jpg",
     "actress": [
       {
         "name": "Sia (시아)",
@@ -846,11 +846,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/41ba0f161cec2d4598d41.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -872,11 +872,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6e7766e8216ad4e6235f8.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -898,11 +898,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f4cb00048192bea494444.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -919,11 +919,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5795e5c3b8eb8b7d14286.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -940,11 +940,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/409f5a5ab2910332aba63.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -966,11 +966,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bec7630d3d957615f5e5e.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -987,11 +987,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e7add8bd87fcbbb4acef3.jpg",
     "actress": [
       {
         "name": "Shaany",
@@ -1018,11 +1018,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/976af13160bc2f1dfbf8b.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1044,11 +1044,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4b84d88223dcce5a7e4e2.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1065,11 +1065,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b32c21cfc76a69a78b049.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1086,11 +1086,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a68bae8b80ee5e698be73.jpg",
     "actress": [
       {
         "name": "Shaany",
@@ -1117,11 +1117,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2e80e4a25d5ca9bc0842e.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1143,11 +1143,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/50acb0fb33c38ae363402.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1164,11 +1164,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a4212cfa72013428a93c2.jpg",
     "actress": [
       {
         "name": "PhotoChips",
@@ -1185,11 +1185,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7151bf3498621e4c0205f.jpg",
     "actress": [
       {
         "name": "PhotoChips",

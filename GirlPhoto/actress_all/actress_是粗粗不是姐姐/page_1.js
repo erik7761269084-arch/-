@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGjJ9nwud2cggkmdv5DHNfls_Kq9rc5wACNCMAAjmoGFaY-MRklm94JTYE",
     "actress": [
       {
         "name": "是粗粗不是姐姐",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGi3RnwuGJpzyB_gHId0oBEp0AAWNfOmoAAuwhAAI5qBhWRzqQtKR2fRM2BA",
     "actress": [
       {
         "name": "是粗粗不是姐姐",

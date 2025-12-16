@@ -594,7 +594,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"汉服\"]",
     "type": null,
     "company": null,
     "publish_date": null,

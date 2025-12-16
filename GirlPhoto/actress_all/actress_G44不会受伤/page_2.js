@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/08/25/405A4204.jpg",
     "actress": [
       {
         "name": "G44不会受伤",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/08/23/1-1f8151c0c955a5aa9.jpg",
     "actress": [
       {
         "name": "G44不会受伤",
@@ -1476,7 +1476,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"女仆\"]",
     "type": null,
     "company": null,
     "publish_date": null,

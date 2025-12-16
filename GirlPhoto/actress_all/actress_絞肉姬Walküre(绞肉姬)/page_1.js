@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAET4Y1pC2YxrlZLYgQIK0_8dNoL1fOwjAACWBsAArcHYFSKJdC8lf4IETYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAERGnFozeOiFMOa8AlN9qtfKa1O0xUXVQACbyAAAo8icFY2lCgx9oDS2TYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEP3qpopyusA75jGPtThHG0BGyydhw_vAACVyIAApgrOVVmdtwb_5uWZDYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPc9domU8hZk3a5JDm5A82YF92uDvl_QAClxsAArrW0VRKHatW8-2MHTYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENTFpoZaU8349FhsB24cXAmBLVe8yi1AACaSAAAlzDKFe2cTCSlICLOjYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"校服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMppRoV6PFcTvjOK3nxX11yEB1ktzCvgACyBQAAv06wVYAAVZOr2yQL2s2BA",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELeZBoL68NbcF6SP0Ry-mVNzYl7saRoAACxBoAAj6keVUtEAh8HMaHfzYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFV6RnqBV5T-MqVjdZ8x1GNiFiz4RAhAACExcAAnreQFWRlzJrO583JjYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDeCpnhjDSI2nfusGLWVkAAWkHcNS16NMAAkYZAAIuJDFUapCxOvrUMH02BA",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDd1hnhifQ7_zOjM4qRwAB6vhMAr3ufF8AAloYAAIuJDFUB8q37n5-Zwg2BA",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -221,11 +221,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDAAEEZ36f159pAzikLTPNkSYcHLh_VgEAAisbAAINqvlX5d3FUW2cxcE2BA",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC1X1nfFonTC62m11fqrWgHPDoVtcgBAACPBcAAlPr6FdUWMIHs6spkjYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -263,11 +263,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECv-Jneu-Rbqx1F7XVQ6ecOB5w_matuAACpxcAAk4h2Fdad7RWL6RDSTYE",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -284,11 +284,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/pChSgb1/01-compress34.jpg",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -305,11 +305,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6a1db352b969ab02a9541.jpg",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -326,11 +326,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/11/04/01__19b02b3e99878ef11.jpg",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -347,11 +347,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/09/20/1-10697c8c7023a6c5b0.jpg",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",
@@ -368,11 +368,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://image.acg.lol/file/2025/08/25/1-1af15fbc8fe2f5bab.jpg",
     "actress": [
       {
         "name": "絞肉姬Walküre(绞肉姬)",

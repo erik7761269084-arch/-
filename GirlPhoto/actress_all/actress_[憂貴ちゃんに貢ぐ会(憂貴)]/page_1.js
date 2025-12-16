@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
     "actress": [
       {
         "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bd8fb83fa0ad7f1c7f592.jpg",
     "actress": [
       {
         "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"JK\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1799c08a58b1c493986fe.jpg",
     "actress": [
       {
         "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cb2d5d19bcdad0217c179.jpg",
     "actress": [
       {
         "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/49abfa0bc0de6fe96f0cc.jpg",
     "actress": [
       {
         "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",

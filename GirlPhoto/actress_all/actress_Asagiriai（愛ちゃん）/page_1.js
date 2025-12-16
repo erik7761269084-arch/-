@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED_PZnj6xwDXJaaof9xYtTCxCx0s3bmAACWhwAAmwceFSAkEeEFh4sTzYE",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC9lBnfgABZEoYjUoy_8MzD0yvDgGI7jsAApMiAAINqvFXDQiKoxPs1-c2BA",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/835ab4fc98a09515dd2cc.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c9d4132719b7b28466516.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/04d8603cb2c5c13a48e37.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ed613edcaae84f701bb14.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/18fa04ec4992f8145a276.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"和服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ea6d808c16a42cfb63aab.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4b74fdf977e4e2fca4dc7.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/35adbea90494840b97fb8.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -221,11 +221,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/466af5c9e9dee04c7cc6f.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/78ed76286b23735575e5e.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -263,11 +263,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/86f9e49097e4e95714407.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -289,11 +289,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/28991791052ba38cc08cc.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -315,11 +315,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f21508c68984d9c11670.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -336,11 +336,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/33aa0e9b8bb2763970eea.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -357,11 +357,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/35e259f90f604924fef8d.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -383,11 +383,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3c6a33e3aecbb90affbf6.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -404,11 +404,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/23b7da5cb62e1ae721e46.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -425,11 +425,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f33ed119b1b31ea749cf5.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -446,11 +446,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8a9d2d2af4a5db98bda7f.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -467,11 +467,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d7671776dc87baef00587.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -488,11 +488,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8f9f0af1146a7e4bd5f53.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -509,11 +509,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"和服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e6e400c9039b034ef5781.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -530,11 +530,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"和服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8996a0e2f36fd9af0a7b1.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -551,11 +551,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/16f7e498a7582d7c67e05.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -572,11 +572,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ef33f15aae7aab7b4fb20.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -593,11 +593,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7c27e5bb85ac1cf22b1d2.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -614,11 +614,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dc7e72fb633ef566b251a.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -635,11 +635,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c835f720b1a2b00f15df4.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -656,11 +656,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/27097ca1588d8611eee07.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -677,11 +677,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7bd585ffa8ad1f7b918d7.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -698,11 +698,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8606fdccfa88b21821c89.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -719,11 +719,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/15cc654b10c901dd96943.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -740,11 +740,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ed6483529364215385029.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -761,11 +761,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9c0a909c6046a3c58fe94.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -782,11 +782,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9c0a909c6046a3c58fe94.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -803,11 +803,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b854383060f6845c06677.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -824,11 +824,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b854383060f6845c06677.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -845,11 +845,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3c22534dc2372f1ff2256.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -866,11 +866,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3c22534dc2372f1ff2256.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -887,11 +887,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b07bf719172eab20ab80f.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",
@@ -908,11 +908,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b07bf719172eab20ab80f.jpg",
     "actress": [
       {
         "name": "Asagiriai（愛ちゃん）",

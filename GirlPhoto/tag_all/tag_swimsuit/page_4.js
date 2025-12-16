@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/63a394e07ca414dbca6d5.jpg",
     "actress": [
       {
         "name": "轩萧学姐",
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/234e93fd3c72f05d301d3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46763"
   },
@@ -169,7 +169,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/45c41a429b7c447a91483.jpg",
     "actress": [
       {
         "name": "念念",
@@ -193,7 +193,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/3b7638e3f61b16bd94307.jpg",
     "actress": [
       {
         "name": "清水由乃",
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9d24af4a86a3bb4662efa.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47309"
   },
@@ -464,7 +464,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDIplngPgyfUxOM_c2et7gS-q5p2VNkwACGhoAAmTKCVRQIQfbfM7XXzYE",
     "actress": [
       {
         "name": "凉凉子",
@@ -487,7 +487,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEIydnk03Zm4s-6dyahtG4FJwpEDyWFgACjyUAAmMSmFQkwI5elYKOeTYE",
     "actress": [
       {
         "name": "桜满三时",
@@ -511,7 +511,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEFUJBnpzVVK_LLtly8xbHha8RW5q0YsQACGB4AAlT9OVXig4HGjxcMJzYE",
     "actress": [
       {
         "name": "桜满三时",
@@ -534,7 +534,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEF9qJnuaByCg1PLirl5QibWAOoXePGJQAC-RgAAoOk0VU_fvWdOStk6jYE",
     "actress": [
       {
         "name": "封疆疆",
@@ -557,7 +557,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHncpn0LoJKFM7fnAol-AI93XpTEabwAAC8RQAAuYJiVYdv9eC-LAPwzYE",
     "actress": [
       {
         "name": "林檎蜜紀",

@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8f495755aee1d6b2f386c.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/aa6abbce5c86cd0c0659b.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b215560c5bb6e23fe033f.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -74,11 +74,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/68ae333bde59c5868afbc.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"护士\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e00f713a3a51018ebff51.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -121,11 +121,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f0407efd5a77ba5b689d4.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -142,11 +142,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5629cede8a5d27f23ca3b.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -163,11 +163,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/83c33b594e82746bdb946.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -184,11 +184,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e0c86cc22835b4a8fe61d.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -205,11 +205,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5ebf20f7bfbd07648e8c1.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -231,11 +231,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"护士\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f8bcdba959f177bf8d59.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -252,11 +252,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0d887dbfbf49fd5ed3168.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -278,11 +278,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/269b2e938e0ee7ffab849.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -304,11 +304,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b928d13fbeb35cf8e1036.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -325,11 +325,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a85fc0a3310065ff4cfb1.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -346,11 +346,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3576d328ef697889206fd.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -367,11 +367,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/740bd92ee64bf77dc5097.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -388,11 +388,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e3f97439063c21ec6e7ae.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -409,11 +409,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c0339e5cebbe2c6dcb11c.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -430,11 +430,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a46c0d9d5d78120db6553.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -456,11 +456,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c6f90e8e9a13e0ced46ad.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -482,11 +482,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b6d1b30feb9598fe318e8.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -508,11 +508,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/29b4b0178f4221142c2eb.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -529,11 +529,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaB7C2kFTc1q3r6LUzwABMmZFeTfvAAIzyzEbrKfxUCer9wT9egXoAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -555,11 +555,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBrP8eSII3px9aY-TVTx0ykFH44AAq_MMRu_59BQV_eo4ZZvcckBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -576,11 +576,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBglUFYg2JGtTrxhegj9mkgWDT0AArrEMRtpy8hQnut4-huu4S0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -602,11 +602,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBbZUYYAAY2duP8DQ9D3bmFyHpNVAAKY1DEbacu4UIQ5-Jx5tko4AQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -623,11 +623,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBQ0FoPTOAYSGPcJbUwAAbtey1AvAALHyTEbop2oUEkQ1lQzn5oIAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -644,11 +644,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBGPYU04re6sHsTvSXAusjGer5cAAvXKMRvDjohQR8OfD6pSNMYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -670,11 +670,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBGW5ZCM0AHB2bOj-S4JwEgMGIUAAtvMMRvDjohQXEMyj5JCwJ4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -696,11 +696,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBBED9hSkPyE9P7FHtASTAmWsEYAAjDJMRvDjoBQ0diR2sehvv0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -722,11 +722,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaA2iDWIu-Nh8k4YKGSztR75S-CQAAnvIMRsB3XFQc36aNLqDipgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -748,11 +748,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAxGNa_Ku0p8ugcgj2Igjp3t-wkAAkfJMRsB3WFQqY9wTIlyY7wBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -774,11 +774,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAr4UFy6rQv9iDTyidDIfZBL4CsAAnbKMRtlrVlQn0-2yMzOYLMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -800,11 +800,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAb9Zl_Hd9pqE_4O9udkC5DzDRYAAnnIMRvjlTlQUZLh9Sh_W50BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -821,11 +821,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAWxq1DJ7usM8mu4SXE1t0kzP_oAAvLMMRvydylQly8Rkpx8rwMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -847,11 +847,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaARaCW_4kpYh9JCYObTEr3WGlYQAAqDVMRvydyFQyNqZ6YdhnGEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -868,11 +868,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAMJ-ywIXWQDKgjfo6EmLUYivvYAAkXHMRtqHhhQQFM-AAESCA5XAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -889,11 +889,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaAG4Fn7JP6xsEVcviIq4lE10tpkAAuTNMRuk1xBQ2UpOSmbAAqkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -915,11 +915,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_sdSIiWjJHyYKB5mmzoNjZ_OwADDsUxG1l92VPALCRGZAW20QEAAwIAA3cAAzYE.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -941,11 +941,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_sdSIiWjJHyYKB5mmzoNjZ_OwADDsUxG1l92VPALCRGZAW20QEAAwIAA3cAAzYE.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -967,11 +967,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_skOJHPyQVh_hofaJjuSJL5K74AAtvGMRtZfdlTucv5zNbvvcoBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -988,11 +988,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_sotjn5GjL1KX1SKTmwKgYRs1MAAu7HMRtZfdlTv-n-qOC-jUABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1009,11 +1009,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_sdSIiWjJHyYKB5mmzoNjZ_OwADDsUxG1l92VPALCRGZAW20QEAAwIAA3cAAzYE.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1035,11 +1035,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_stUVW_yxCQWlcVs4lrVR035zwAAgfJMRtZfdlTJGivL579CK4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1061,11 +1061,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ_sdSIiWjJHyYKB5mmzoNjZ_OwADDsUxG1l92VPALCRGZAW20QEAAwIAA3cAAzYE.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1087,11 +1087,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3b142b3165322bbe78da9.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1108,11 +1108,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/685631623c0c20273c634.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1144,11 +1144,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/eaf65c4d50754b198e8ab.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1165,11 +1165,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ebeb62b9e85e399f3520e.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1186,11 +1186,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/328a23d8ed4e075264ce9.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1212,11 +1212,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bb5791faedf6340c22307.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1233,11 +1233,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b12c25b1474bbd2fb80f0.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1264,11 +1264,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5fe3328022dc19e035047.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1285,11 +1285,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3643b0a2dd7f9b573a022.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1306,11 +1306,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1513eaf1afd554377c2c5.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1327,11 +1327,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/780ccc96b78a73b1e10be.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1353,11 +1353,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bfd72626e6dd25ac5dae9.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1374,11 +1374,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/55b3f8962336b1a2552ba.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1400,11 +1400,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"内衣\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0d04ff54c8335c7f52e24.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1426,11 +1426,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e5ccf786377e4d7aa59d4.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1452,11 +1452,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c118769002c8eb02b56aa.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1478,11 +1478,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/54b2e1ca4a14854c5f378.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1504,11 +1504,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/790bd1e36d34cf09ae85d.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1530,11 +1530,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dabe4a422b36c67864dde.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1551,11 +1551,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f49538a97508877ea2215.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -1577,11 +1577,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0d90ca852612354fcd36f.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1598,11 +1598,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/78c89c929cf325e8dcbba.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1619,11 +1619,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fcb2c87eefb473457d964.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1640,11 +1640,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e6cd41958985ec6db55ab.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1661,11 +1661,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8b378141fa1ef27c76eab.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1687,11 +1687,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/900a6bb1e61b23abed08b.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1708,11 +1708,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3cab70bb99f5cc9ca1fd5.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1729,11 +1729,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/55d96ef6e1ea2de43c75c.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1750,11 +1750,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5ae44a951a94803d7fdc3.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1776,11 +1776,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/627f2e459b77c00bb3557.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -1802,11 +1802,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/73c539f8cabfacf8fefdf.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1828,11 +1828,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fd3d4eec31036eba039ca.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1854,11 +1854,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/07c388388e0c17b94bbbf.jpg",
     "actress": [
       {
         "name": "黎菲儿",
@@ -1880,11 +1880,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/eb2d21e0ac32bb4807a7b.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1901,11 +1901,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4e4db10102b1418db956f.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1922,11 +1922,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7a120a5f3c7df64c7591e.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1943,11 +1943,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"泳裝\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f328cdbaeb2c39a4fd2f.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1964,11 +1964,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7d9fa2c31f5c2303c4e68.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1985,11 +1985,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/962a329081864feb32fdb.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2011,11 +2011,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e1ff1b36a1bc66b041ba0.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2037,11 +2037,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0bf93a42bc5e51f06aeae.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2063,11 +2063,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/17ac31239d4723f907fb1.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2094,11 +2094,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/473dd467fde754c6da75e.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2115,11 +2115,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0a411180b8a248a069f1c.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2136,11 +2136,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/afd1b6d9b3fb31bd61d0c.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2162,11 +2162,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3bbe726b3f9eeab82da45.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2183,11 +2183,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0746dcfa0ee322ce4f623.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2204,11 +2204,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6afce01bf78eacba7e41d.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2225,11 +2225,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7dce995911b1f92e12880.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2246,11 +2246,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/980b1c4dcf333bfff3b2e.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2272,11 +2272,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/46a264f94c9c4959cc327.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2298,11 +2298,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1c962e4db95e9b6643e11.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2319,11 +2319,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/26aa1707b7524a59bf238.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -2345,11 +2345,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e3e95a7601e1cca6dfb31.jpg",
     "actress": [
       {
         "name": "JVID",

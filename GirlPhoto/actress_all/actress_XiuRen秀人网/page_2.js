@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bc0dbaeaeae79da791211.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bf6ae314d156fd09975c1.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/63ee08d76c6a6c381cb8d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/077dcd598786c6eb5ccba.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/65935c458bce5c4a67830.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a93b04abaf5addc125a52.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8462b40d349e2984e330d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1jphIhkATYB4vtvUlOjoV9YpGoAAqDIMRtDJclS7TWLtPHeKqcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/499fa1bae2aae190e2bd5.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -200,11 +200,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a5d5e7cf470d6b8fa241b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -221,11 +221,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4fa48a6dca1a993c2368f.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZw7mKXMcWCxwi_dJKgSwusPivB8AAi7KMRsJeHlQK_UcmUAsktYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -263,11 +263,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1ed2da7473e8948b3412e.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -284,11 +284,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8972e5b4e049dbf641790.jpg",
     "actress": [
       {
         "name": "就是阿朱啊",
@@ -310,11 +310,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/654d75a56c480f8b4a3b0.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -331,11 +331,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/acff93a5bd90f9247bf14.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -352,11 +352,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ-NVL4Bnnu5RA0i-8zmSCl6L1F8AAqzLMRsfBhhTBawW9GGaoVABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "鱼子酱Fish",
@@ -378,11 +378,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/88ba9dac6fccabcfaa0df.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -404,11 +404,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/00e327df33c84f07b7fa5.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -425,11 +425,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9de21f80dd3c4745694ca.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -451,11 +451,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e3b7ab48515379c961a00.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -472,11 +472,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0f6de1d068f30d7219fc4.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -493,11 +493,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ85DFXunw9PqroJ9hemKPGZiKIUAAqPHMRsHKHBSOcj0ZRawBgQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -519,11 +519,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fa00fc30eeb2be611941c.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -540,11 +540,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1Y-qnJVz2JbbWPB8S1flbht2dMAAi_HMRtiYrFSUuwm9yV-VW4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -566,11 +566,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/45a1424408a7dbf585c07.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -587,11 +587,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d46bf5ab4eb8d57a02a43.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -608,11 +608,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2c27c3292a8a84d7e1092.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -629,11 +629,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6cf90398e661e6ada3854.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -650,11 +650,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d46dd5ebb176ae9dee801.jpg",
     "actress": [
       {
         "name": "鱼子酱Fish",
@@ -676,11 +676,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/62d1f96444bfd146debbf.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -702,11 +702,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ42eN9nVkQKfa7kLXHKCARD7iLoAAi3HMRvNlWhQgykgtbdZSFYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -723,11 +723,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/202d1c47cb8ba970b15f7.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -749,11 +749,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/69f4599939a6567bc4a62.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -770,11 +770,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/911c9209abde0bcb99f8b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -791,11 +791,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f71c6a772113cee700806.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -812,11 +812,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fde295d22c74a3c719ee7.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -833,11 +833,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d25496f2e450141fa831b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -854,11 +854,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/075a897543a7c1825784a.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -875,11 +875,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4ab05a3afe4b5d90eda4d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -901,11 +901,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0c6fa066db00b8b11a1de.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -922,11 +922,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd38cdfdd71c9ffcfb82d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -948,11 +948,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0-oD8NaKNRsrEC1X8wkJOaTy-IAAszJMRtRHIFSqkR5et9kg5kBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -969,11 +969,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dcc3d191b73ce764ac081.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -990,11 +990,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/46e04f3f10a4421be1df3.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1011,11 +1011,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ff57ae7db22b278d82645.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1032,11 +1032,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/812409af42ae36b807a40.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1053,11 +1053,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/31ca39aa9b273395b3408.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1074,11 +1074,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cc6767fab041c293c8a22.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1095,11 +1095,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/73953fe1f638a72fc4d66.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1116,11 +1116,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7faff562f9a2e2cb02418.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1137,11 +1137,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4706a8756dc380faa5f00.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1163,11 +1163,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9627a90aa4597c8ac005c.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1184,11 +1184,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyRJUurWQvUfcfUnkkvz2PngNXQAAjLOMRu_rClReN3QAAG2UYEEAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1205,11 +1205,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/56c8f78f9698ca61028ae.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1226,11 +1226,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9b6d7f4fe3a52a42184e5.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1247,11 +1247,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d9307a78ece5388561862.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1268,11 +1268,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ66ZxoUCZ3s85_rC3UraTxGkw6AAAlHJMRv8LHlR-QtOfV1ObKMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1289,11 +1289,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/868f27a70314f7ebbca58.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1310,11 +1310,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b65a958eb830589f2f18a.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1331,11 +1331,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f604318cade3a54bcc37d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1352,11 +1352,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/55e0e30e31df56efbf245.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1373,11 +1373,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/58959d0b4dd791813c26d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1394,11 +1394,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fbb7f15f283eae18b4962.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1415,11 +1415,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5mDRQwqTYWqsRVSJU5thZlIF7kAAlXHMRtkYdFQUrdI4fz8_mMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1436,11 +1436,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8ae5298e47b9b66e60f9e.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1462,11 +1462,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3b4c3d7d24ffa4862ec5b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1488,11 +1488,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f9b77ae9f7617a0598034.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1509,11 +1509,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7b4a00529d9f15b6cfe0f.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1530,11 +1530,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyRLqKOo3Slwoi9ZPcmOC-vdw_MAAsrOMRu_rClRMhHbrUISpcUBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1551,11 +1551,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c070a7f463b3fbcbdda2b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1572,11 +1572,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/773dacacd6d0696b00e10.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1593,11 +1593,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f5906a2ad79d454ccef68.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1619,11 +1619,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/66d2407db2d2d86128e5d.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1645,11 +1645,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/820017ef801240640a19b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1666,11 +1666,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzO0Zai_cALPbVtYU_iPjNXHPgUAAqfFMRuioKBR8h-o2kXdyMkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1687,11 +1687,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ5Q9RwvgyKtKLh22bJCEyNljOtQAAjzMMRvG_qhQ6e6Hm82nI1wBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1708,11 +1708,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/65f71acae7777d9ce7238.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1729,11 +1729,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b9659a09b4dd026b3a99c.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1750,11 +1750,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/35642eeaf4018b9c42b2a.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1771,11 +1771,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3ca515e1b47f184134bb3.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1792,11 +1792,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4fd2b6618aa01d96fcb9b.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1813,11 +1813,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e40b41c290af20738d866.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1834,11 +1834,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5e134bab48d64fec58688.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1855,11 +1855,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0e56df270e7e2f03198fb.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1876,11 +1876,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e8a46ac0b3802bfb93fd7.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1897,11 +1897,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9049ea9508cfcfefd2d23.jpg",
     "actress": [
       {
         "name": "鱼子酱Fish",
@@ -1923,11 +1923,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/43e01e361cd7b543c673a.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1944,11 +1944,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bc1dda81a6181478f3846.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1965,11 +1965,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/66a5e7bc3d449f9a90fd1.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -1986,11 +1986,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/26ec50e22c36b7d759fe1.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2007,11 +2007,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5f0227534a50619ef7a68.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2028,11 +2028,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/39cf81a69c1d5275a8490.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2049,11 +2049,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/20f7f221ecaa4596dbb56.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2070,11 +2070,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b298fdeb38ee3e444ce7f.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2091,11 +2091,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7958521a072d58eeaa39e.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2112,11 +2112,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4d050708e0d5eb7ca9447.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2133,11 +2133,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2a559bb42f548dc667559.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",
@@ -2154,11 +2154,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3nVskDzxtRLidJstUO5LHDCvAIAAhvKMRsT3tBTXUddH21XoNcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "鱼子酱Fish",
@@ -2180,11 +2180,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"XIUREN\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c0ddd3e041858f7a69016.jpg",
     "actress": [
       {
         "name": "XiuRen秀人网",

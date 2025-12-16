@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDooNniXjwcH3_Npv2cQ7IISeDdPVdYAACHBEAAiysUFRelxvEODbieDYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDfrpnhrUb8k9efd7ffBG8Vo7-cppL2gAC8CAAAi4kMVQbso4H6GrsVjYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDcy1nhem29NYK9pbhC55vBIRVhxPJXQACLyYAAi4kKVSIUxCS_2HkKTYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDDDtnf2ZZlc1bAZ9BRS9DagyKh6UKDAACCx0AAkQv-VebNNC_w35gVjYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECjgJneCuQ1LnHo17pSgLY6yy4-51V5gAC_yEAAnXdwFfz_BOgjX6gNzYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECjJ9neCTOChXqk2iN9fLDUAEqowlfHAACkiAAAnXdwFfVDarB8eD6WzYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAECitNneAx7SFTyUurtKnxjdw8511yM0AACth4AAnXdwFdWSqChsEa5qzYE",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3bbdc16a88e2bf450196b.jpg",
     "actress": [
       {
         "name": "月刊ChuChu☆MAGIC",

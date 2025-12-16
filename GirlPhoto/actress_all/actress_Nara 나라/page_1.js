@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/72456660c52fc48a26e5e.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ea07fb4923ab007bfddf4.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3Hx_Ys0eOeT7FiDvS-CRy4IDsMAAsjJMRsn9JFTo_BgI9J3szIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -74,11 +74,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8efeafcd37556e96d3bf0.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3CiE5l9c79WKG0ZiJdhkVhN0r8AArvKMRsn9IlTH5Yf_Q_xaSwBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -121,11 +121,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ad1fb6bb1180367456859.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -142,11 +142,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/492857b083053aa7ffd68.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -163,11 +163,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZxVvWnej5VMxrqhFLUuFPa2PU88AAgbKMRu-bqhQs_QKbkSbLboBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -184,11 +184,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwg_EeCtn4x2YearTWojQK7NUd4AA8oxG4XWSVC2h5jAxOwslAEAAwIAA3cAAzYE.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -210,11 +210,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwhJJFEK9_DU-2ao-vexf6um6WIAApvMMRuF1klQrs1ZO8GBDcYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -236,11 +236,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvh036kGNnEDb3d8w24vaB9Lp-QAAvDMMRsHDMBT-qVejkIkEqcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -257,11 +257,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvXGrzL2AYsAAbvwfKoZ_IfEMj4jAAIfyjEb83WwU1GGJ_8R244CAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -278,11 +278,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d955ef2c7f3dd14370c69.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -304,11 +304,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7aa83ffc6659fd26ba139.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -325,11 +325,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/762b97d9372bfaa8e0679.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -346,11 +346,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/23b5a8a3a17a296decbca.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -367,11 +367,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd0344d0a97f1039711df.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -388,11 +388,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c2108147cf71f72cac08d.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -409,11 +409,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/92dbeaaadf7959e673d17.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -430,11 +430,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fb534212bc49cfd13be1b.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -451,11 +451,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/138fccc428fd4b9e14cfb.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -472,11 +472,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f7bd35530cbcbb2617b0e.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -493,11 +493,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9b873064678afcf08e847.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -514,11 +514,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/854d2e649f9e249a0240f.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -535,11 +535,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3f4f2e5406cf18a71d740.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -556,11 +556,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1753b821b467f7ad21931.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -577,11 +577,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/23c66e42356af5a09bb40.jpg",
     "actress": [
       {
         "name": "Nara 나라",
@@ -598,11 +598,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/60d9dc9245455efafaeb4.jpg",
     "actress": [
       {
         "name": "Nara 나라",

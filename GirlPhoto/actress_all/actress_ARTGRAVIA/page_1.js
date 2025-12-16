@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c3f6a5ddc6cfb5b46638b.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f2087b8fc60a1e3608429.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f22fc7c4bf6b21ef0f4c8.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/19e0a4b494948b8535de0.jpg",
     "actress": [
       {
         "name": "Mina (민아) ",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c3b0a5432f0a5f2571566.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -116,11 +116,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c0f4996c7fba7f501850e.jpg",
     "actress": [
       {
         "name": "Photobooks 姜仁卿 Valentine",
@@ -142,11 +142,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/16ba5ee72cc66b9abf53b.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -168,11 +168,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/186185255f895b49f5b53.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -194,11 +194,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/169ba5127f67b031e254e.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -220,11 +220,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2e0cdd636f7086029463e.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -241,11 +241,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/878cc7c97da42dc68f456.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -267,11 +267,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/982abe840a5b5ba1a4096.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -298,11 +298,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/46e2d2a09b2c40f084be7.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -329,11 +329,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwrl4jVebROo3wyisDbMOtvBRfQAAuLLMRv4XllQxaTSawhJUEkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -360,11 +360,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1f405876d1c83e7f5fa74.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -386,11 +386,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8bf7918157b92290e4c5c.jpg",
     "actress": [
       {
         "name": "Lee-Seol",
@@ -412,11 +412,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7db152a91db57333f1c96.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -443,11 +443,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/42f826fa83b9443426793.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -474,11 +474,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0u3L_2xybPlLa1zsPI7m_BeS7MAAtXdMRuayWBSxfOFXIJaPt0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -495,11 +495,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ac47b4ee1caa856922b50.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -526,11 +526,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ea2e96681aabbea80011b.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -552,11 +552,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2oKxYlkJ4znMW-vZsY9hR8RbP0AAqLFMRt_4VBTbXKz2QyDPRoBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -583,11 +583,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a9eb993774f04932b8d8b.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -604,11 +604,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4b02c0a13f697c7bb7b62.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -625,11 +625,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/27f7b5b90b4f1b4e83844.jpg",
     "actress": [
       {
         "name": "Mina (민아) ",
@@ -651,11 +651,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/88a8a4a49a3e7807950b6.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -682,11 +682,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZuiZJV_7r-UTUQQb4aKq9yRag9kAAgPJMRtyH0FTdxHYI-GL-ycBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -713,11 +713,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8923b5ab91fa6736069a7.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -744,11 +744,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8387baeb46ecb9d5737ac.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -775,11 +775,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f9e6a12c44e1205b516ae.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -801,11 +801,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/08dd7cf2614a13111d58b.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -832,11 +832,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8c22471bad1fca27a06c1.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -853,11 +853,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b27217c9dc419e913d826.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -874,11 +874,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyJ7kzfVrzXEVDntDJIky1as0lkAAvbSMRumYxBRD0RfHVIXYagBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -905,11 +905,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/428e8e359c9e3cd679ca3.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -926,11 +926,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/42239cfbfeefaf8952857.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -952,11 +952,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c15c81993c089ab70a4a1.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -983,11 +983,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8d51c0832cecd7cf9e946.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1014,11 +1014,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a40a6eb1a7b79d96b7fbe.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1035,11 +1035,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f894371047d9e1471097a.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1066,11 +1066,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8f88cf60658bf57383e27.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1087,11 +1087,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6273202a8e6cfbd67b835.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1118,11 +1118,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1OkuO6tMYisft0hnqAgWOyhoPEAAgTIMRvW25lSuFnMN8rV6r4BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1144,11 +1144,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/956a70e1055a3d1cced7d.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1165,11 +1165,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2DQfUz9avk84zJSxBwaDs5W63oAAvjIMRsN1QFTrFwiHoNCXAYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Maruemon",
@@ -1191,11 +1191,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzUB-0bHhF0J8BhgVEHXAAHOv7TiAAKAzDEbxSGoUdM2WWesfSe3AQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1212,11 +1212,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5aa07e9120e2ee9ca3748.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1243,11 +1243,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c6384f19c9915c2fdf0c3.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1264,11 +1264,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/39d9323c28505fb4ca5a3.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1285,11 +1285,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/143f9fbfb94e3cf3cf23e.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1306,11 +1306,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ec72073ffb1da82eb8f64.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1327,11 +1327,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4214d96451add0a2826cf.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1348,11 +1348,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5c506fd50416e2c73e641.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1369,11 +1369,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0pmWagojffrsaQc9d-SV11mQyEAAofHMRuayVhSTP85FKt6eqEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1390,11 +1390,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9da08576d32924a2ea1bc.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1411,11 +1411,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/69b996eee1aec94c5443a.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1437,11 +1437,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c17a926b19487bdef5688.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1458,11 +1458,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzZcL8zImP_VM54gKyLoitIYzpQAAoPEMRv3kLlRY2hNfPsqpRgBAAMCAAN5AAM2BA.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1479,11 +1479,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9ad52cefee74b2c902105.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1500,11 +1500,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/78df3a655308eea57704b.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1521,11 +1521,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/87266e407c033fad2c83e.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1542,11 +1542,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e46d8125a8241bd84e876.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1563,11 +1563,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvhsVoqiAAEOoF0eSPqZT0aphSn2AALIyjEbBwzAUwNcuROrGaKZAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1594,11 +1594,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8933903da578c6958e5f0.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1625,11 +1625,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6a09b9b129b067ccfee92.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1646,11 +1646,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/133445e689f1fc04ef451.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -1672,11 +1672,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/695bd3b857d650dccd318.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -1703,11 +1703,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/897aa43af5db48391ee98.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -1729,11 +1729,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2ff3acbbc575a291899e9.jpg",
     "actress": [
       {
         "name": "Lee-Seol",
@@ -1755,11 +1755,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9d731c4c75cf31cc200e0.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1776,11 +1776,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/55f81c6baa051d1068da9.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1797,11 +1797,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ad30e704c768c999078a7.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1818,11 +1818,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f3f5f4e9329e1eb539a73.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -1839,11 +1839,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ14wMH6rzSFn5zuIIzEgItBbAvIAAhTHMRvN4fBSNQqthsc-WuIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -1865,11 +1865,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1zakvBzsV-3uaSNmTmd4UN_YQwAAnLHMRs5-ehSd5VQryB-I-sBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -1891,11 +1891,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0fCzQj1kvFdeY9v7xHlfAjptzgAApPKMRvE_kFSVSVFSP-4xVEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Maruemon",
@@ -1917,11 +1917,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5bf4f4194850471f5f11c.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -1943,11 +1943,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e2ae8c856254d5a3a7b0f.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -1974,11 +1974,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/991e4f0381ea9b64443a6.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2000,11 +2000,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/935213dc460c4310ae845.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2026,11 +2026,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7c4dd3b5ad087c1a48adc.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -2057,11 +2057,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0fBr6eYy-cPjd5yuZhxH8CUhkYAAkvKMRvE_kFS_jO17kwIT44BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -2083,11 +2083,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c2e652dcebc269f3b2950.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2109,11 +2109,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0Z4_K51ZdeVQWAqUqODCkiW3ewAAvnFMRvE_jlSHOg8ZeX878cBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -2135,11 +2135,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZt-0P9Npt2_vjVWzGbe5NSDWBesAAnXcMRuNzvlS-j-WCLRuHd0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -2166,11 +2166,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3f7afeab7668cf9e35e08.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2187,11 +2187,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c3c5a08982e6d9465f6bf.jpg",
     "actress": [
       {
         "name": "Kang Inkyung",
@@ -2218,11 +2218,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyLvEW7j060iagABpoQBYEABxzp5AAKJzTEbpmMYUZTeYCUUJCBIAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2244,11 +2244,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzZaeBg-se2BlyqT5iR3KHOltNoAAiPEMRv3kLlRtbpjh_b0cPQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -2270,11 +2270,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/190b4d226f882e45f83fd.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2296,11 +2296,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/77752da3cbda7d10cd25a.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2317,11 +2317,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzUAAeHNjERZPQrzyMdMey-TkmGpAAItzDEbxSGoUe4KbkvxveFnAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "孙乐乐",
@@ -2343,11 +2343,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/029e98534088c1c62a0b4.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2364,11 +2364,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e8e8c0e34377f2b0e46db.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -2395,11 +2395,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9da508a01d385bd3d8099.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2416,11 +2416,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b765a632cc66277ed095b.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2437,11 +2437,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1e2e24584a001bf59892c.jpg",
     "actress": [
       {
         "name": "ARTGRAVIA",
@@ -2458,11 +2458,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1087610ae088868586975.jpg",
     "actress": [
       {
         "name": "ZIA.Kwon",
@@ -2484,11 +2484,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1000bdd129351f4554118.jpg",
     "actress": [
       {
         "name": "JangJoo 장주",
@@ -2510,11 +2510,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/390478a41bd6eb7db1700.jpg",
     "actress": [
       {
         "name": "孙乐乐",

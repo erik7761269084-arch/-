@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\", \"汉服\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAER4sFo36LR2KykN-nNFP3w3rf_A0YfigACCBkAAph7AAFXYyNmK_ygdq02BA",
     "actress": [
       {
         "name": "屑雪雪鸭",

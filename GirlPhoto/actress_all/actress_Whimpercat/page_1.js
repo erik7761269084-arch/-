@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKQI5oFtL5z6gxN6r8wYJXEMINLL0UYgAC1RcAAjhUsVTBJUFVHkJUBjYE",
     "actress": [
       {
         "name": "Whimpercat",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED7BhnjhXa5aiuzVUVK4eO8RfiF6ZtCgACyBMAAmwccFTbqRJCHdOtYzYE",
     "actress": [
       {
         "name": "Whimpercat",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED4zVnjaoReJnWFLw0CoOZGjuEmh53ggAC8xkAAkwIcVQRS8Tle542LTYE",
     "actress": [
       {
         "name": "Whimpercat",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_oFnfoGLH7FiC-KJXPQlWfNluHJdegACNBkAAg2q-VfE7ZW5vr3JDTYE",
     "actress": [
       {
         "name": "酒玖",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC_jNnfnh6xSf9X2yr_qzuC4FB4E5SIAACuRgAAg2q-VdEOgMLbrVHXDYE",
     "actress": [
       {
         "name": "酒玖",
@@ -121,11 +121,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3ef3064d9ade13424668a.jpg",
     "actress": [
       {
         "name": "Whimpercat",

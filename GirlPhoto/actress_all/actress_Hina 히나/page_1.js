@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ9d9I2xoIjX6Ld0hwvcatJ9rTTkAAmLGMRuAM8FSX88Rh1jHYugBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yeha",
@@ -47,11 +47,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ9TYw9AETJN88hz-INusRjF8D8EAAtnFMRv_GalSW9dcn_G1VAkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yeha",
@@ -88,11 +88,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ9YqZi8mN5Of29MR7bHhzAABwmg7AALOwjEbgDO5Ut9nsJEbimOvAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Yeha",
@@ -129,11 +129,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ9OKLI62x0maJsN2kSehQZDw8PAAApTHMRte76BSUWtSFszGgmwBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Yeha",
@@ -170,11 +170,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/18bc11795ff1ead1ff582.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -206,11 +206,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2f9ca9ba78b444ca49b13.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzT_7Tn9qAkwdyB4MVOXOn-yloMAAvbLMRvFIahRNLrngyoLwgYBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -278,11 +278,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzO4JONGmN443hUvzRQO7kaf4QoAAnvGMRuioKBRypzQh9mBZnIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -314,11 +314,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzZZwOOUhCeZYcTUSRedxyO7F7IAAvjDMRv3kLlRn6TcVJ0iVa0BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -350,11 +350,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzJmF5evLbp-sM5bD6jbWHaS1EwAAgrLMRuioJBRDk5jrrSDSBABAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -386,11 +386,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZzEMgnUThgGniaQmhCIELYA1YYwAAqnLMRvGnYlRo0qwHRO2ZE8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -422,11 +422,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/388f42efe137231cfb49e.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -458,11 +458,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6d34e542ffc8a4662958c.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -494,11 +494,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/716d3ed2b5e0f52f25ec7.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -530,11 +530,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/adee4735cf7564c0abae0.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -566,11 +566,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/93f978ce6ab3c67fbb9c7.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -602,11 +602,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0e2d9cb0dcb70f41bdd25.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -638,11 +638,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/016ca2d7cf46267a232d7.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -674,11 +674,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/52c1dea6357d9ff3c2abe.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -710,11 +710,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e274d8c20777cd39edfe5.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -746,11 +746,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5a74afdceddb9265e0851.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -782,11 +782,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b5332db845dc82557916d.jpg",
     "actress": [
       {
         "name": "Pure Media",
@@ -818,11 +818,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c6536b16e9c8c22285bf4.jpg",
     "actress": [
       {
         "name": "Pure Media",

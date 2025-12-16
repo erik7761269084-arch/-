@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ-s72YlpWk2JE0-fCAJVikxLKMgAAiHJMRuPBlhTtKJCz1U9lbsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "喜欢爱理吗",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9890d28d0ced8436b19cf.jpg",
     "actress": [
       {
         "name": "艾西aiwest",
@@ -53,11 +53,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ccb633ccf06a5cad3e4bd.jpg",
     "actress": [
       {
         "name": "喜欢爱理吗",
@@ -205,7 +205,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"汉服\"]",
     "type": null,
     "company": null,
     "publish_date": null,

@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVMuVpLg1D3qwXmJUOu51Cl_dGKLr-eQACkR0AAvWIcVVhYM_D-8yG8jYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELVTJoLZcLNdHG8EymM-ITf4YxPmwwIwACZhYAAgNEcFW6PSwE_Ew_oTYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHnTxn0KgaLJn5aLd-TOk8eFq6y3UESwACYhQAAuYJiVb95s2lsdUQyzYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHnOVn0J9Sz7R6sF2WkF9t3NMrMYxjTQACCRQAAuYJiVbMJVwa2JoQaTYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEGHBRnu2SqOzKbEAABu9e89B5fdTasvaAAAlInAAJ_oNlVOXzHKmLPBC82BA",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEE5vdnoCfdsV36TpnsIoL7ChXVnVCy-AACVhoAArJNAAFVIENGyzEit9g2BA",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED0RdnjD0_52xbyPPdLVFv1hiiQPjm8gAC_RYAAqjGaVRF2uauv3ipJDYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDRJxng1i0RiYZYHkxtdYYSfpZP6tZzAACKhMAAuOMIFRUz82Fc7jNNzYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDP8VngvRxkMrIxBoLsjBZvOfJYlzxYAACGhwAAuOMGFR9HBpnN0BB4jYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDPzJnguse6EKWRu9LK3Ttd_dU0bfMdwAChhsAAuOMGFQZZECRE07-fzYE",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/67599b024daf0fe2c069e.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -237,11 +237,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d5ba0dfa13db35310d792.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -258,11 +258,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4e836ceca8139f45b8a7d.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -279,11 +279,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bccd03aa9b27e00d8f1d8.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -300,11 +300,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/269fc65f6758de6a34ace.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -321,11 +321,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f210461bb393a00ac46c1.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -342,11 +342,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1a59e435a5de8d2e66ccf.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -363,11 +363,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5354595a9cbd7711889bf.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -384,11 +384,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/881d0a51d721c22351afb.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -405,11 +405,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d486d5511bc854db1e04c.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -426,11 +426,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/41e131ab2503db7a13dd0.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -447,11 +447,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/87a555b23d576285269f6.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -468,11 +468,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8d68b9b72f45f8e28bc3e.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -489,11 +489,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1c14cfc81042f3eb85594.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -510,11 +510,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d9801a391f2aa9f970f1c.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -531,11 +531,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/666d071a8249ce1b0347b.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -552,11 +552,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/eb42da390881948f21b5f.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -573,11 +573,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2334691d43625d1003864.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -594,11 +594,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ecb7ea8dd6d34bc974cd5.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -615,11 +615,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/be537d1bb52c2877c650a.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -636,11 +636,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ff8edde4d700c470b07c3.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -657,11 +657,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e75a9cf10bf20991ba106.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -678,11 +678,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a3f6b995292d158b3dc0a.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -699,11 +699,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4bbeaca4a3bbcdcdd8f7a.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -720,11 +720,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dd6c73f10a17fb2945fa0.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -741,11 +741,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cf48fe384ec1c186c77c5.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -762,11 +762,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/17c46b8d76bfa2fff9945.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -783,11 +783,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bcaa6b35a4e54b64b0924.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -804,11 +804,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3de77f97e17fccfdc8362.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -825,11 +825,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2d17df06b3ca86bff2b34.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -846,11 +846,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/36df506878a49cda9b924.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -867,11 +867,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ae93ec68e98c80aadbbae.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -888,11 +888,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d943154e51aec8d5e746d.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -914,11 +914,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"JK\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e10031533268d107ab121.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -940,11 +940,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/daef842dad35fe31f1473.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -961,11 +961,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6fceb4087a093e836bfe9.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -982,11 +982,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c69f9dc8b8199eb199c62.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1003,11 +1003,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e4c14483f5675df2e4aac.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1024,11 +1024,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/zVqYKgwY/Okita-Rinka-Rinka-Blue-Rabbit-1-compress9.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1050,11 +1050,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/JjJVBysk/01-003-compress73.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1076,11 +1076,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd291d8959baf589c6059.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1107,11 +1107,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/89ea933c7d846f0a4511e.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1133,11 +1133,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/de632079df4fcd3cf6dac.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1154,11 +1154,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/566a0f15b799a16691bac.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1180,11 +1180,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b03dc45b297b16bfcaf84.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1201,11 +1201,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/705095ad8d880f31887f3.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1222,11 +1222,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9e0bcd78a34a0c5e00ca7.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1243,11 +1243,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bf9fe9d77d35d5ef80786.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1264,11 +1264,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a60dcb718fab0ede91b73.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1285,11 +1285,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/244b1596cdd9012f2f972.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1306,11 +1306,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/89bed9d23d0ea676a4fa2.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1327,11 +1327,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/53010f238683a724ff205.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1348,11 +1348,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/95c5e52a107629f20fe44.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1369,11 +1369,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5ae2b3f8c8e41fe271453.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1390,11 +1390,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a63f83fbc0febb7a2060a.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1411,11 +1411,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1e4b77b312999b2d0f4a6.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1432,11 +1432,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/63cf9f90fa7c768ccf1db.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1453,11 +1453,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/46aa87da65f34e621e8b4.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1474,11 +1474,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8a1325cad01898e70dcb8.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1495,11 +1495,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f4e7989e2d82964979c54.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1516,11 +1516,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a3fe7609efb682558d2b6.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1537,11 +1537,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ae050fcad87edea30b536.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1558,11 +1558,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1dd55a3982a89795e7bb9.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1579,11 +1579,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f5f4bccef1229930f7e18.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1600,11 +1600,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b4bf2cc372c28e0cb7332.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1621,11 +1621,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/61de505be57599fb6bc7b.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1642,11 +1642,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f3ad1cd51366ba56e5c98.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1663,11 +1663,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9d63a8b3c0f4650b02ed7.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1684,11 +1684,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5d237a917becd4d76a5f3.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1705,11 +1705,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cfdc9797c8d5e36429992.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1726,11 +1726,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c9244a8ab74ca2e6166af.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1747,11 +1747,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/311178f90802b4e362a90.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1768,11 +1768,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ea506c9fce56e66e79b26.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1789,11 +1789,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ecbacc2f977a4e0a53f73.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1815,11 +1815,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/06aa2ebcef0f3293b9800.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1836,11 +1836,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/769d2ec50e3dc80097d19.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1857,11 +1857,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e3b7bca23fc0fd16871e2.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1878,11 +1878,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bb03401ee73272c72c5be.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1899,11 +1899,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/85fdd67eee266d27b271c.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1920,11 +1920,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d48aa8258149f21883cfd.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1941,11 +1941,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/fefe65d3e3a3cc99e2f9a.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1962,11 +1962,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9027a406de67543134b23.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1983,11 +1983,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b6c792f85962eee686227.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2004,11 +2004,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/200fdd97bfb122034aeec.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2030,11 +2030,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"女仆\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/554271466142e484d724d.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2051,11 +2051,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d1181ec4459ccb7c5a7a4.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2072,11 +2072,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/af4afbaf0811f10b54983.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2093,11 +2093,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4cfa448ac5759cf61d341.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2114,11 +2114,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1624f679d5fa3192ec8f3.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -2135,11 +2135,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f6ebe38655f28ad1111bd.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",

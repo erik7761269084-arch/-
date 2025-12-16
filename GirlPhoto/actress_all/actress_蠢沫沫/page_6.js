@@ -111,7 +111,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\", \"泳裝\"]",
+    "genres": "[\"泳裝\", \"兽耳娘\"]",
     "type": null,
     "company": null,
     "publish_date": null,

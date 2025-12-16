@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELRGtoLOLLOLAHI5u8LUmV9JE49YFb8wACXigAAgeuaVVOP6Z9QWTq4DYE",
     "actress": [
       {
         "name": "影子喵ghost",
@@ -32,11 +32,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC83VnfdNjLiDb6WWxcBkcCJvz9gl85wACVB8AAg2q8VcckariiBpUVjYE",
     "actress": [
       {
         "name": "影子喵ghost",
@@ -53,11 +53,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC3gABZ3yuNvXGi2JFBYjCBwHFYIE3SiEAAhwgAAJT6-hXWsTDr2Br_802BA",
     "actress": [
       {
         "name": "影子喵ghost",
@@ -79,11 +79,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEC2OxnfIYFmrHZOfR5V04nRYCc6B5gPgACyBoAAlPr6Fd1aVDcaOqPujYE",
     "actress": [
       {
         "name": "影子喵ghost",

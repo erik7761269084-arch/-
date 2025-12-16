@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEP665op-RK9JhjCIK_uAZENKt7ZYMoxgACGCAAAlOgQFXeza5yMmk1ZDYE",
     "actress": [
       {
         "name": "Seya-狮砸",

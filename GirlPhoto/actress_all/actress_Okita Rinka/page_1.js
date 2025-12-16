@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAET5whpC9Q7_dPUlzmOJmNNb1igTYvYxAACnR4AAnNOYVQgoYht77Lm1TYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQdm9osup_jINsf_4ci4Mt8lEu7uMuPAACiyIAAn_ZmVW-mNYZRc1xOTYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQARFoqSw4KTYeCIaj7-AZxodZM0K8GgACVR4AAlOgSFUrL9CyoXIiqDYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENq9FocBlsgiJRd6PlIEzBp5P54McEXAACjCAAAjf2gFcWnxAHh6g72TYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAENRKRoZLgZH7BBponf6t4wMFHnwZWTxgACqxYAAlzDKFep6V0XyRk3XzYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEIR2Zn4dUBolgo7Hh_vgY9uBXtVAyupgAC0x0AAue2EVeKo-ijtoCM7TYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEEBlxnkg-vVidSOnyX7mg2NrZvddVVUAACXB0AAmMSkFRBUJ3mVxJRrDYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -153,11 +153,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAED_xtnj_PIAW6q1mH_7fGzdSi8PZn8eAACWhQAAmwcgFROvD3Q3mvkcDYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -174,11 +174,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDjj9nh8NXQ8Rw5et7gQOKFrjzfdAG1gAC4xwAAh-6QFQSLWFbKB-L5DYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -195,11 +195,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDhx5nh2LwSRrXzNMUIvIVFgmXGkb2YAACCRUAAh-6QFQ4aVIXxgL1mzYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -216,11 +216,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDaVdnhXjgCyzBeVlUgzjKZxL0G89cCQACixsAAi4kKVT6WOkNA25flzYE",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -237,11 +237,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/31004639db942d4a76820.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -258,11 +258,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e9d3ab228538ae2959dc4.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -279,11 +279,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/5bd8962c5d1743f8151a5.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -300,11 +300,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bceefb1ffa62e26abf5b1.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -321,11 +321,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9b756cec9a44cbcb02baa.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -342,11 +342,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/575e56a871ab631c3dbb4.jpg",
     "actress": [
       {
         "name": "Mina (민아) ",
@@ -368,11 +368,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9b5f86529cc2fa01c124e.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -389,11 +389,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/bdbca48a29f25d876c84c.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -410,11 +410,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ccd224558d2f5b1af817a.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -431,11 +431,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d219f16d12bc0413504a1.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -452,11 +452,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ca255c3e1b289ce99557d.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -473,11 +473,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d943154e51aec8d5e746d.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -499,11 +499,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/TBqGkmzN/01-Okita-Rinka-Rinka-Tiger-Girlfriend-1-compress64.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -520,11 +520,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/M5W0YwrV/01-Rem-1-compress4.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -541,11 +541,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/SwDDkSRS/Okita-Rinka-Rinka-cosplay-Naruto-Naruto-1-compress9.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -562,11 +562,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/zVqYKgwY/Okita-Rinka-Rinka-Blue-Rabbit-1-compress9.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -588,11 +588,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/VcbxK2GN/Okita-Rinka-Rinka-Devil-Cat-1-compress5.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -609,11 +609,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/B2tcPPZn/01-Nami-1-compress52.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -630,11 +630,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/JjJVBysk/01-003-compress73.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -656,11 +656,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/KzBJvZd1/file-1900.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -677,11 +677,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d290bae914dbac4253bbc.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -698,11 +698,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/ba00508fe0822ff801b36.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -719,11 +719,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0f238148725caf674fef3.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -740,11 +740,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d9f33a0083f4d016de7dc.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -761,11 +761,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/78a33ed635a8773f489ef.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -787,11 +787,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1845855faf64be2e8ccbb.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -813,11 +813,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/23e2164d52986a844eb8f.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -839,11 +839,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/7aba3e0eac88ddea5de34.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -865,11 +865,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/07dd2d2a9865b15558305.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -886,11 +886,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/1abd81e9355c128fc6e04.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -907,11 +907,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c4f4b15d0759d439f8122.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -933,11 +933,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/cd291d8959baf589c6059.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -964,11 +964,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0a59a8bd8abc0f12928d9.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -990,11 +990,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c80618f1e8e47a650ada5.jpg",
     "actress": [
       {
         "name": "Mina (민아) ",
@@ -1016,11 +1016,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c46d9decb851b7086fb57.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1037,11 +1037,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6e22184ed0aa09acdad53.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1058,11 +1058,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9f2edbabfd814e88ee68c.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1079,11 +1079,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/80657bcc44a77c639940b.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1100,11 +1100,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/89ea933c7d846f0a4511e.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",
@@ -1126,11 +1126,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2951f7b19435d1f453898.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1147,11 +1147,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/dc605973e60742e90077e.jpg",
     "actress": [
       {
         "name": "Okita Rinka",
@@ -1168,11 +1168,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/200fdd97bfb122034aeec.jpg",
     "actress": [
       {
         "name": "沖田凛花(沖田凜花)",

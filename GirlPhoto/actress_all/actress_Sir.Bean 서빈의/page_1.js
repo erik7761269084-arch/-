@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHaBl40P3FlW4iEXe4lYAvNPX84EgAAkPPMRuF_dBQNaxHsXp6gnsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -42,11 +42,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2DPmUbVt6J2vJiImVhbspPlwyQAAr7IMRsN1QFTyvFFYTujZA8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -68,11 +68,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2N0Sg9wrrxUEZtw9MXmZNGcb30AAtLIMRvDUhlTd1_JFTMrWiUBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -94,11 +94,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ8pNNqn2A4-gF8ktKJQBAAE8B4sDAALhyjEb6wxYUrf-muDSl-fXAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -130,11 +130,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ8uhGhlKl-TjfrnkJmyw5eKTzpYAAkrNMRvrDGBSGlx0HTLnYMQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "PIA 피아",
@@ -166,11 +166,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwGtl_63cpL3H8kwM7gkmAXFRoMAAmPHMRtcoAhQj_MvWQyNoDUBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -192,11 +192,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ19-WfBHmo2hgkcrqFs2n5cTveIAAknLMRvN4fhSbHYDYfGa5YIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -218,11 +218,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwrizeOHzD3Yhf4hcP0t_7vhr9AAAibLMRv4XllQQGEYOElshDsBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -244,11 +244,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvsPJgABcxqpCBiPi5YasO9s4K3RAALFxTEbfvDYUxvNtXHmDV2lAQADAgADdwADNgQ.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -270,11 +270,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e1a0dc730ff05f5c2f79e.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -296,11 +296,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d30bdc96b149ad81632cb.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",
@@ -322,11 +322,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/20c032cbcb4935a5df2e7.jpg",
     "actress": [
       {
         "name": "Sir.Bean 서빈의",

@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0pnKuok6RLQKHn_g6zujeL2bFIAAsjHMRuayVhSC8l8Yzzi4sEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Doyeon 도연",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvm8px1thlK3vxXizmNG50b-L2cAAlDKMRsHDMhTwAkM1Rak2e8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Doyeon 도연",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZvh1-ITD1f38r5C4I5o344E4i80AAkTNMRsHDMBTD6O86BkZJ5EBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Doyeon 도연",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b2ad8174aaedeb8bc65aa.jpg",
     "actress": [
       {
         "name": "Doyeon 도연",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/07f04f31ca62517f602a2.jpg",
     "actress": [
       {
         "name": "SweetBox",

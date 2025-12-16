@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0642f1f76d207ff424c83.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ7aBeY4NT1fZPdKBiwEG7lzDznoAAs7FMRs867lRuWoHywPIqxgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0pgG9w5WFpO9kn6qdnhNxmodQ8AAubFMRuayVhSjTr2vLmKspEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6551eb1942c2fa4aa1f78.jpg",
     "actress": [
       {
         "name": "潘娇娇",
@@ -95,11 +95,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/432926101018ba00b15d1.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -116,11 +116,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4MSnCnnlq-rgsDwJnXLzXyohVoAArLIMRtkXxlQmF5oAli2LJoBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -137,11 +137,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZxQZIarGIBuyZHUbRGPGz-oVQfkAAtvEMRs_N6hQGRichT7b128BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -158,11 +158,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1jsQct_Ac-nZ_pcH173BF_DRDQAAjDJMRtDJclSeJf0t4TIqN8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -179,11 +179,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2NuOyTPm0lMGcVH7osmb6XH0x0AAmLHMRvDUhlTLbnrBHsgvHEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -200,11 +200,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2IaSKh90W5IGLZzA5EDLaCMda4AAu3IMRsN1RFTU-8REqROrOEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -221,11 +221,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1Tvb3evWdQ3Up7mDHqAM6GJ6LoAAi_IMRvhiKhS5H3mGqjW0kcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -242,11 +242,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ1D4iObmJCcBdj-60fmjVNM1Z4cAAmXHMRsVtohSr1Wiqx3MVWcBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -263,11 +263,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZy-5BwxuFNdcAgSqmuheml1hM8wAAl3FMRuueXlRBdb0EtQmKXgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -284,11 +284,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZypwn-mH93t5iX44zWls4Zo9jTEAAmXRMRultFlRjf4J2mOrRIkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -305,11 +305,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b3f837cad8f7e7d1fdd2e.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -326,11 +326,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwrm1RY9s2Lecw8TItHvOoztX-QAAhjMMRv4XllQCCW0PX3ybvkBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "潘娇娇",
@@ -352,11 +352,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d2b8c247dcd0cb593a5c3.jpg",
     "actress": [
       {
         "name": "潘娇娇",
@@ -378,11 +378,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/210f1650f2699ac5c9983.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -399,11 +399,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/73aec41f4975dfa8e6979.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -420,11 +420,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/97ad4fa03a7d612d8724e.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -441,11 +441,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/19c5ecc3a16f68ff1e3d1.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -462,11 +462,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/8b825bb7f8a584886583d.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -483,11 +483,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/3cebc784ceb89b1080a62.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -504,11 +504,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/2423dd43de47b191b2389.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",
@@ -525,11 +525,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d85b1c7ed37961993d726.jpg",
     "actress": [
       {
         "name": "XingYan星颜社",

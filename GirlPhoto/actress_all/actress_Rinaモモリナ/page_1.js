@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0-tlmIg54WxzXlipKuiV18IVWwAAkfLMRtRHIFSGxzx3VqQW3sBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Rinaモモリナ",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/4b355cab003c9e1712f87.jpg",
     "actress": [
       {
         "name": "Rinaモモリナ",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwGmGeHy9NyDYdpc_WUvwyLCxloAAnDFMRtcoAhQDGDuXWi4vzMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Rinaモモリナ",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZwRJ_4gWNwUSswSe4dV8r9EIkzYAApTEMRv5TShQtsfh0BxajE8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "Rinaモモリナ",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/f8fd49856fb9e413a830a.jpg",
     "actress": [
       {
         "name": "Rinaモモリナ",

@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/4ab51ad6f79a408329eb6.jpg",
     "actress": [
       {
         "name": "麻花酱",
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f832f9c2add6ed7fd63a2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25603"
   },
@@ -52,7 +52,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/09625dffb02dd5ebb83ad.jpg",
     "actress": [
       {
         "name": "蜜汁猫裘",
@@ -75,7 +75,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/54d78188839032491dd7b.jpg",
     "actress": [
       {
         "name": "蜜汁猫裘",
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/080ee521412a4918e2334.jpg",
     "actress": [
       {
         "name": "蜜汁猫裘",
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/960d8dbdaf3a9e72dc635.jpg",
     "actress": [
       {
         "name": "Nyako喵子",
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/915892ad17d8be513e978.jpg",
     "actress": [
       {
         "name": "NAGISA魔物喵",
@@ -167,7 +167,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7bc86889e54260dc55f21.jpg",
     "actress": [
       {
         "name": "云溪溪奶桃桃",
@@ -195,7 +195,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ea33ae6725ef1d0ece8ec.jpg",
     "actress": [
       {
         "name": "皮皮奶",
@@ -218,7 +218,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/43a9e484d872f7e547ea4.jpg",
     "actress": [
       {
         "name": "柒柒不可爱",
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/04fe2455d42c41a3d25eb.jpg",
     "actress": [
       {
         "name": "奇行家狗崽",
@@ -264,7 +264,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/0fc7f130c6223f0f4d86d.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26047"
   },
@@ -281,7 +281,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6cfac55de67986f885440.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26052"
   },
@@ -298,7 +298,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/33f3b86def2c22eb6ef71.jpg",
     "actress": [
       {
         "name": "起司块wii",
@@ -321,7 +321,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f68307d3817dce9d5c1dd.jpg",
     "actress": [
       {
         "name": "起司块wii",
@@ -344,7 +344,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/1fff8a910ddadf880766e.jpg",
     "actress": [
       {
         "name": "清水由乃",
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/598dbc0caeb9fb2034cf6.jpg",
     "actress": [
       {
         "name": "清水由乃",
@@ -390,7 +390,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/530f1c8523b76c3af1c95.jpg",
     "actress": [
       {
         "name": "清水由乃",
@@ -413,7 +413,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/02f4535bc38ee452abc86.jpg",
     "actress": [
       {
         "name": "清水由乃",
@@ -437,7 +437,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/541433f384053028a3f4e.jpg",
     "actress": [
       {
         "name": "清颜真德秀",
@@ -460,7 +460,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/05be97156a0bc2ad599ac.jpg",
     "actress": [
       {
         "name": "秋和柯基",
@@ -483,7 +483,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/2ff8263f521160eb0fe34.jpg",
     "actress": [
       {
         "name": "秋和柯基",
@@ -506,7 +506,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7b25c7d666eebb46f0dc6.jpg",
     "actress": [
       {
         "name": "秋和柯基",
@@ -529,7 +529,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/166017cbe1506d7ccbd63.jpg",
     "actress": [
       {
         "name": "秋和柯基",
@@ -552,7 +552,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/0240f8fc7f9d22d39aa00.jpg",
     "actress": [
       {
         "name": "泉桃子",
@@ -575,7 +575,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/eb688cd000cc711764624.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -599,7 +599,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6a1bf52c3de59d1a5e3f6.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ffa41f2d45eecbc0a7a30.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -645,7 +645,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/50d1e2d8292382a9c91e2.jpg",
     "actress": [
       {
         "name": "韶陌陌",
@@ -668,7 +668,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/4b32f7b2ac314f3782887.jpg",
     "actress": [
       {
         "name": "少女映画",
@@ -691,7 +691,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/aeb5f6fe60335549bf6da.jpg",
     "actress": [
       {
         "name": "神楽坂真冬",
@@ -714,7 +714,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e0fce37c6bcccd09b7151.jpg",
     "actress": [
       {
         "name": "是青水",
@@ -737,7 +737,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/78614d0e05b1cc300cd7e.jpg",
     "actress": [
       {
         "name": "雯妹不讲道理",
@@ -761,7 +761,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/17e848d4656752732eda2.jpg",
     "actress": [
       {
         "name": "五更百鬼",
@@ -785,7 +785,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/1c5c692cebac664d5ae95.jpg",
     "actress": [
       {
         "name": "五更百鬼",
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/68d177917a5e951f837fa.jpg",
     "actress": [
       {
         "name": "小容仔咕咕咕w",
@@ -836,7 +836,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/f8c1e0dbdc287b4ff73e3.jpg",
     "actress": [
       {
         "name": "小野寺地瓜",
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/c8e8eb3a01749d0b4b1a5.jpg",
     "actress": [
       {
         "name": "星澜是澜澜叫澜妹呀",
@@ -882,7 +882,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/d1f6d265ef338d086dffb.png",
     "actress": [
       {
         "name": "星之迟迟",
@@ -905,7 +905,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/8d3cca1c6e5985ef471dc.jpg",
     "actress": [
       {
         "name": "轩萧学姐",
@@ -929,7 +929,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e9df2cc39a48aa3b2babb.jpg",
     "actress": [
       {
         "name": "桜井宁宁",
@@ -952,7 +952,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/685173b16f6135a557b66.jpg",
     "actress": [
       {
         "name": "桜井宁宁",
@@ -975,7 +975,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/33fc73abb7f8240d393eb.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1008,7 +1008,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/050008e9fab232ffdd7b4.jpg",
     "actress": [
       {
         "name": "云溪溪奶桃桃",
@@ -1036,7 +1036,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/b55c2905e2c4fd013315f.jpg",
     "actress": [
       {
         "name": "Fushii_海堂",
@@ -1059,7 +1059,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://legra.ph/file/049f676ced35bfc42ab6e.jpg",
     "actress": [
       {
         "name": "Hokunaimeko",
@@ -1083,7 +1083,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://legra.ph/file/6efa2c3111a4010262c42.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28118"
   },
@@ -1100,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/1d2d0de710652e1953e0a.jpg",
     "actress": [
       {
         "name": "miko酱ww - NIKKE",
@@ -1123,7 +1123,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/8ea801d75340ba275889d.jpg",
     "actress": [
       {
         "name": "Jamong 자몽",
@@ -1146,7 +1146,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/38419e1e2429fe440f543.jpg",
     "actress": [
       {
         "name": "凉凉子",
@@ -1170,7 +1170,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ac6160435999d0b21fb32.jpg",
     "actress": [
       {
         "name": "白井茶茶",
@@ -1193,7 +1193,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/21520fda0e5688d71fba9.jpg",
     "actress": [
       {
         "name": "少女映画",
@@ -1216,7 +1216,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/283bb311b8b562c0b75eb.jpg",
     "actress": [
       {
         "name": "蜜汁猫裘",
@@ -1239,7 +1239,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/b01bfecccdd23e41cd9a7.jpg",
     "actress": [
       {
         "name": "茶狸子",
@@ -1262,7 +1262,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/fa520dba969a95b370888.jpg",
     "actress": [
       {
         "name": "JVID",
@@ -1308,7 +1308,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/5810e34642aa941925aba.png",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29919"
   },
@@ -1348,7 +1348,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/fc7835b99ac871aa91ff4.png",
     "actress": [
       {
         "name": "桃暖酱",
@@ -1372,7 +1372,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6ed97daa3742abc4d362f.jpg",
     "actress": [
       {
         "name": "脸红Dearie",
@@ -1395,7 +1395,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9ac5ea3d97cf44ef47a35.jpg",
     "actress": [
       {
         "name": "Tina很妖孽呀",
@@ -1418,7 +1418,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/3d265f4468d23c59b9652.jpg",
     "actress": [
       {
         "name": "桃暖酱",
@@ -1465,7 +1465,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/4022f881f1055799a4d70.jpg",
     "actress": [
       {
         "name": "桜井宁宁",
@@ -1488,7 +1488,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9bb9598cd9ed97152bc97.jpg",
     "actress": [
       {
         "name": "不呆猫",
@@ -1511,7 +1511,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9166d6783abcc8e41cd56.jpg",
     "actress": [
       {
         "name": "星之迟迟",
@@ -1534,7 +1534,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/02845769f4ae17d39bc10.jpg",
     "actress": [
       {
         "name": "蠢沫沫",
@@ -1562,7 +1562,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6d93a927976871b647939.jpg",
     "actress": [
       {
         "name": "Momoko葵葵",
@@ -1641,7 +1641,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/05f175a69c81db447bd61.jpg",
     "actress": [
       {
         "name": "夏小秋秋秋",
@@ -1664,7 +1664,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/e37f37a32e9c6e2f40ab0.jpg",
     "actress": [
       {
         "name": "神楽坂真冬",
@@ -1687,7 +1687,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/9fd25ed909614079a26d2.jpg",
     "actress": [
       {
         "name": "皮皮奶",
@@ -1733,7 +1733,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/30838fb0de2d1f149aa3c.jpg",
     "actress": [
       {
         "name": "周叽是可爱的兔兔(周叽是可爱兔兔)",
@@ -1784,7 +1784,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/944ae68d0776f7c3857e5.jpg",
     "actress": [
       {
         "name": "麻花酱",
@@ -1853,7 +1853,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7d6e3589b5d0327b7b034.jpg",
     "actress": [
       {
         "name": "喵小吉",
@@ -1899,7 +1899,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/dc399afea08776a579b2a.jpg",
     "actress": [
       {
         "name": "柒柒不可爱",
@@ -1922,7 +1922,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/91cde1ae757b0951c3e9b.jpg",
     "actress": [
       {
         "name": "咬人小小兔 咬一口兔娘ovo 黏黏团子兔",
@@ -1945,7 +1945,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7e8bca254343a8c5a29e5.jpg",
     "actress": [
       {
         "name": "皮皮奶",
@@ -1968,7 +1968,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/7b3a38010db2af42aabd6.jpg",
     "actress": [
       {
         "name": "花铃(花玲)",
@@ -2014,7 +2014,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/769ebac8f03446325d4ea.jpg",
     "actress": [
       {
         "name": "蠢沫沫",
@@ -2042,7 +2042,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/398244c159f145fdb27fc.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -2088,7 +2088,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/48eb018bacdb24a84635b.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -2111,7 +2111,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6c8a1dece244bb507a7e3.jpg",
     "actress": [
       {
         "name": "Tina很妖孽呀",
@@ -2157,7 +2157,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/13add1b18b64008a318e8.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -2180,7 +2180,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/bad5a3aed98633197e6ad.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35258"
   },
@@ -2198,7 +2198,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/df9ebff8ee29372008352.jpg",
     "actress": [
       {
         "name": "日奈娇",
@@ -2221,7 +2221,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/6a95e467f1d3d58ecf882.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36196"
   },
@@ -2238,7 +2238,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZz-NU5kSkEWyfDNxe4ZQ1OwmjiMAAt7IMRvlN_lRnyQudYnvrqwBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "鹿八岁",
@@ -2284,7 +2284,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZy0QCYvp3o3iiVGyV4poVJUfxsIAAqvEMRsETGhR1-Hgiq689OMBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "洛璃LoLiSAMA",
@@ -2307,7 +2307,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/53703513dc0222350f8fe.jpg",
     "actress": [
       {
         "name": "您的蛋蛋",

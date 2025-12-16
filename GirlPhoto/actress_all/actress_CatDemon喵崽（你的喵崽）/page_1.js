@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDXRVnhK3rIeAIBz-H3lA7Z1GnP2v3CwACPx8AAmtIIVTqF6QL_15adjYE",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEDW19nhKQIeO09JOEQRvt-yGBIGWO0rQACgB0AAmtIIVRW0Kdhpr5AkjYE",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[\"原神\"]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/c018c4ab535c57d2cd058.jpg",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/a8d2957665ee1b7491e13.jpg",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/59d7b0448d6c2e629a394.jpg",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -111,11 +111,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/b9abd7d1b6c21408f9387.jpg",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -132,11 +132,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/9e74c743e2fdb15a6bf5f.jpg",
     "actress": [
       {
         "name": "CatDemon喵崽（你的喵崽）",
@@ -153,7 +153,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"兽耳娘\"]",
     "type": null,
     "company": null,
     "publish_date": null,

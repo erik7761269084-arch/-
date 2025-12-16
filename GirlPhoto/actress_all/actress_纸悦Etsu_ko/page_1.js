@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEQgldos4u5fV2Kn2qv3HcNl2glvc1Y4gAC2i8AAn_ZmVXILUj4JUw5QDYE",
     "actress": [
       {
         "name": "纸悦Etsu_ko",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEPw6hopXGX1YOcTXUbq32LsQVF7W4-7gACbiEAAi9jKVWWkK7Jsd09xTYE",
     "actress": [
       {
         "name": "纸悦Etsu_ko",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELZCJoLml3MIMYr5LjsVSRBI8r_YO2tQACrBsAAgNEeFViqwQn1b4anzYE",
     "actress": [
       {
         "name": "纸悦Etsu_ko",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAELXa1oLgX46EPdo6JA9E5gqE5K8c_fKQACFCAAAgNEcFUQn_1uxGOoEDYE",
     "actress": [
       {
         "name": "纸悦Etsu_ko",
@@ -90,11 +90,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://i.ibb.co/1GjB75PQ/file-4878.jpg",
     "actress": [
       {
         "name": "纸悦Etsu_ko",

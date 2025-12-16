@@ -300,7 +300,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"兽耳娘\"]",
     "type": null,
     "company": null,
     "publish_date": null,

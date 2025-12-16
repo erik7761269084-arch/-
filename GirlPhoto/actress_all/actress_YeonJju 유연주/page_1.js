@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyUpW-JPogE8MYReqxFieTGAFf8AAvnFMRu_rDFRMQrCGtQfrrgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "YeonJju 유연주",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZyfUfHyfnkEcVJmbZwxTf6RqEAUAAt3KMRvKAkFRJCPJGiG9JZ8BAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "YeonJju 유연주",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/0f3bb255c373efe6cb7e1.jpg",
     "actress": [
       {
         "name": "YeonJju 유연주",

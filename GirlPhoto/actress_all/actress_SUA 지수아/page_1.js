@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ-tDMXmq3U08B3EdRDPW9f0efXgAAprKMRuPBlhT7hB--O47iikBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -32,11 +32,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ-nxLN7FgpWFOyh-62nDwdtR7lMAAhnMMRu8QFBTKbBxp9dKiPgBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -58,11 +58,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ4xOwG3OM0I_-DGuh9rLf4S0PIYAAgjHMRvNlWBQgqNKI3aLvawBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -79,11 +79,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ3cu_Xama1iRhvSE_1uyvIJr4DIAAvbIMRvYq7lTsPcXryIyqQIBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -100,11 +100,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2tY8pXxFuClfJBaHgHaXpje0gYAAvLHMRt-0llT-H-kirGvqhQBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -121,11 +121,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ2ysoofNkmuk18B_URCCSKg2_t4AAjzHMRuNGGBTJ68b5kyDdkUBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -142,11 +142,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0pkW-Lb_uegZ2fDOg5OsrOpNYEAAgfHMRuayVhSwvwHr0-7PxEBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -163,11 +163,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://img2409.emiriatan.top/tgfile/AgACAgQAAxUHZ0kTyzjIVQHjWMgf3jh1ZjYfLRkAAm7JMRudcVFS8JN9PxAKU9MBAAMCAAN3AAM2BA.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -184,11 +184,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/99896c1cc4adbc7b53abf.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -205,11 +205,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/60974bef2bd8afe99c097.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -226,11 +226,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/d55b16c0537ecb1f5eedc.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -247,11 +247,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/6f5909b36b1ceb7656b56.jpg",
     "actress": [
       {
         "name": "SUA 지수아",
@@ -268,11 +268,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/e13391174573c2eaba5cd.jpg",
     "actress": [
       {
         "name": "SUA 지수아",

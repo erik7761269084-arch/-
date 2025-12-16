@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEVpIxpO5PODh1oPpo1wAOimVsCg07TuAACuR4AAuz12VX2E2C4YmBigTYE",
     "actress": [
       {
         "name": "悠宝三岁",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAETOwVo_e0TMXYZ3Iy9fsiuebcIYUXTbgACuB0AArC38FfpBgZ01D7RfDYE",
     "actress": [
       {
         "name": "悠宝三岁",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAES_w9o-KT0AYlQSW7qheSJP2VDTd8ZzgAC7x4AAtVOyVcJx2rFgXw0ozYE",
     "actress": [
       {
         "name": "悠宝三岁",
@@ -69,11 +69,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://telegra.ph/file/77029dffee63aad9ba268.jpg",
     "actress": [
       {
         "name": "悠宝三岁",

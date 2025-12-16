@@ -2253,7 +2253,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/ad717b879eb0e2a3de131.jpg",
     "actress": [
       {
         "name": "微密圈",
@@ -2276,7 +2276,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/a8cba83437cac737d5f14.jpg",
     "actress": [
       {
         "name": "微密圈",
@@ -2299,7 +2299,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/835b1448ed14de4c1aa22.jpg",
     "actress": [
       {
         "name": "微密圈",
@@ -2322,7 +2322,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://telegra.ph/file/cc194a4f8c06847d3a85b.jpg",
     "actress": [
       {
         "name": "水淼",

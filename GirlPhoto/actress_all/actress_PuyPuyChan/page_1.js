@@ -6,11 +6,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEMg4xoVTzxKVbkde1ZxRm5t2_Y4XG3SAAC8h4AAsYQqFZ086w2lFb_HjYE",
     "actress": [
       {
         "name": "PuyPuyChan",
@@ -27,11 +27,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEKoKloIRYoww5fZz2Tx2xV6OV4h8l7OwACIx4AAsoyCFUchNLJdf4Y6jYE",
     "actress": [
       {
         "name": "PuyPuyChan",
@@ -48,11 +48,11 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": null,
-    "type": "有码",
+    "genres": "[]",
+    "type": null,
     "company": null,
     "publish_date": null,
-    "cover_url": null,
+    "cover_url": "https://pic.850123.xyz/d/BQACAgUAAyEGAASHe6CwAAEHkmFnz9LXyjzJBIlDeyxO-aaNaG_kIAACeBcAAsPUgFbBhNKog-TQGTYE",
     "actress": [
       {
         "name": "PuyPuyChan",

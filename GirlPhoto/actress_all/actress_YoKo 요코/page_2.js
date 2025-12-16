@@ -6,7 +6,7 @@ window.PAGE_DATA = [
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\", \"碧蓝航线\"]",
+    "genres": "[\"碧蓝航线\", \"女仆\"]",
     "type": null,
     "company": null,
     "publish_date": null,
