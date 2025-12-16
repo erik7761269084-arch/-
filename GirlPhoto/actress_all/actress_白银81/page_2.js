@@ -1,5 +1,299 @@
 window.PAGE_DATA = [
   {
+    "id": 9025,
+    "IDcode": "3242",
+    "title": "白银 - 舌を吐くかわいい犬",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/b11ac36c27ddd33ccace0.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3242"
+  },
+  {
+    "id": 9024,
+    "IDcode": "3241",
+    "title": "白银 - 犬娘",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/7833a14563ffc155456c5.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3241"
+  },
+  {
+    "id": 9023,
+    "IDcode": "3240",
+    "title": "白银 - 犬は遊びに行きたがっている",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/d66f04f269641ce92818c.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3240"
+  },
+  {
+    "id": 9021,
+    "IDcode": "3239",
+    "title": "白银 - 犬は好きな人に腹を出します",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/a2c112397853883bff38a.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3239"
+  },
+  {
+    "id": 9020,
+    "IDcode": "3238",
+    "title": "白银 - 犬が間違ったことをしたら罰を受けなければならない",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/e00a773eb8ea49e2c3875.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3238"
+  },
+  {
+    "id": 9019,
+    "IDcode": "3237",
+    "title": "白银 - 水を飲みますか、先輩",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/e00c2f43a392a191aafc4.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3237"
+  },
+  {
+    "id": 9018,
+    "IDcode": "3236",
+    "title": "白银 - 修女",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"女仆\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/7631842b61c95eb95d000.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3236"
+  },
+  {
+    "id": 9017,
+    "IDcode": "3235",
+    "title": "白银 - 会社の後輩",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/03c5f7613d9bc7d1b8b68.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3235"
+  },
+  {
+    "id": 9016,
+    "IDcode": "3234",
+    "title": "白银 - 仕事中の後輩",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/1564bef541ac60b9f56c1.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3234"
+  },
+  {
+    "id": 9015,
+    "IDcode": "3233",
+    "title": "白银 - 上司の意地悪",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/8cea94b21f4057da7db4b.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3233"
+  },
+  {
+    "id": 9014,
+    "IDcode": "3232",
+    "title": "白银 - 上司との秘密会議",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/bcfe1b1a76b35e9f83e65.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3232"
+  },
+  {
+    "id": 9013,
+    "IDcode": "3231",
+    "title": "白银 - 黒糸女上司の秘密",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/44db57362b48d8b2b69f3.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3231"
+  },
+  {
+    "id": 9012,
+    "IDcode": "3230",
+    "title": "白银 - 私のこと好きですか",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/e7ad8b2ac2000ce3f6d1c.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3230"
+  },
+  {
+    "id": 9010,
+    "IDcode": "3229",
+    "title": "白银 - 猫耳女仆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"女仆\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/659688ca1d053b3abcd37.jpg",
+    "actress": [
+      {
+        "name": "白银81",
+        "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3229"
+  },
+  {
     "id": 9009,
     "IDcode": "3228",
     "title": "白银 - 捕まった猫、犬は遊びに行きたがっている",
@@ -142,6 +436,11 @@ window.PAGE_DATA = [
         "name": "白银81",
         "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      },
+      {
+        "name": "Merry",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Merry.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3222"
@@ -903,6 +1202,11 @@ window.PAGE_DATA = [
         "name": "白银81",
         "img_url": "https://telegra.ph/file/4769b130d806c37118157.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_白银81.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3186"

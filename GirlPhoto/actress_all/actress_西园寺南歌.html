@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>actress_西瓜</title>
+<title>actress_西园寺南歌</title>
 <style>
 body {
     margin:0;
@@ -153,7 +153,7 @@ async function loadMaxPage(){
   try{
     const res = await fetch("https://yunvgong.com/GirlPhoto/actress_all/stats.json");
     const json = await res.json();
-    MAX_PAGE = parseInt(json["actress_西瓜"]) || 1;
+    MAX_PAGE = parseInt(json["actress_西园寺南歌"]) || 1;
   }catch(e){
     console.error("stats.json 加载失败，使用默认 MAX_PAGE = 1");
   }
@@ -166,7 +166,7 @@ function initPage(){
   renderPagination(pageNumber);
 
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/GirlPhoto/actress_all/actress_西瓜/page_${pageNumber}.js`;
+  script.src = `https://yunvgong.com/GirlPhoto/actress_all/actress_西园寺南歌/page_${pageNumber}.js`;
   script.onload = ()=>{
     if(typeof window.PAGE_DATA !== 'undefined'){
       renderAll(window.PAGE_DATA);

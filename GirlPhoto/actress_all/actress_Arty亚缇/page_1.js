@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 9755,
-    "IDcode": "38",
-    "title": "Arty亚缇 - Sparkle",
+    "id": 45410,
+    "IDcode": "51234",
+    "title": "Arty Huang - Guitar Sister - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/87989faf68e0fed83fece.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51234"
   },
   {
-    "id": 9644,
-    "IDcode": "37",
-    "title": "Coser萱-KaYa - 亚缇 黑呆睡衣爱丽丝写真",
+    "id": 45245,
+    "IDcode": "51069",
+    "title": "Arty Huang - Honkai Star Rail Firefly - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ebdea11c217d16e939bf7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51069"
   },
   {
-    "id": 9533,
-    "IDcode": "36",
-    "title": "Arty亚缇 - REM bunny suit ver. (Re_Zero)",
+    "id": 45243,
+    "IDcode": "51067",
+    "title": "Arty Huang - NieR 2B - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cbaf03a650a964510a8e7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -60,20 +60,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51067"
   },
   {
-    "id": 9422,
-    "IDcode": "35",
-    "title": "Arty Huang - Hinata",
+    "id": 45196,
+    "IDcode": "51020",
+    "title": "Arty Huang  - St. Louis - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/602259c2a0b54aa36ba7b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -81,20 +81,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51020"
   },
   {
-    "id": 9311,
-    "IDcode": "34",
-    "title": "l-Arty_YaeMiko",
+    "id": 45181,
+    "IDcode": "51005",
+    "title": "Arty Huang - 优菈修女 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f635e4862862de471f01a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -102,20 +102,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51005"
   },
   {
-    "id": 9200,
-    "IDcode": "33",
-    "title": "Arty亜提 - Artoria [33P 78MB]",
+    "id": 45176,
+    "IDcode": "51000",
+    "title": "Arty Huang - AzurLane Le Malin Bunny Girl - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c7b95a60ae8a6fb511231.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -123,20 +123,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51000"
   },
   {
-    "id": 9089,
-    "IDcode": "32",
-    "title": "【Arty亜提】 Yor [54P 121MB]",
+    "id": 45175,
+    "IDcode": "50999",
+    "title": "Arty Huang - Azur Lane Cheshire - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c23a059629893625582ea.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -144,20 +144,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50999"
   },
   {
-    "id": 8978,
-    "IDcode": "31",
-    "title": "Arty huang Bocchi The Rock!-Goto Hitori（2月19打赏群资源）",
+    "id": 45095,
+    "IDcode": "50919",
+    "title": "Arty Cos Kiyohime 2 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/50457c7cfc5932ae35fc1.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -165,20 +165,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50919"
   },
   {
-    "id": 8867,
-    "IDcode": "30",
-    "title": "Arty huang Guitar Sister2（3月3打赏群资源）",
+    "id": 45086,
+    "IDcode": "50910",
+    "title": "Arty Huang - Merilith - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f43984e101a2aaad86030.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -186,20 +186,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=30"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50910"
   },
   {
-    "id": 8755,
-    "IDcode": "29",
-    "title": "Arty Huang 亚缇 - Kiyohime",
+    "id": 44644,
+    "IDcode": "50468",
+    "title": "Arty Huang - Blue Archive Toki - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0324ebe468a78ad7834e7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -207,20 +207,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50468"
   },
   {
-    "id": 8644,
-    "IDcode": "28",
-    "title": "Arty Huang 亚缇 - JeanD_Arc",
+    "id": 44643,
+    "IDcode": "50467",
+    "title": "Arty Huang - Blue Archive Toki Bunny Ver - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/359d58825c6a809eae4e4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -228,20 +228,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50467"
   },
   {
-    "id": 8533,
-    "IDcode": "27",
-    "title": "Arty亚缇 - NO.14 RE：从零开始的异世界生活 蕾姆兔女郎",
+    "id": 44597,
+    "IDcode": "50421",
+    "title": "Arty Huang - Arknights Surtr - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\", \"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c13e9815682123ed3dd43.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -249,20 +249,587 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50421"
   },
   {
-    "id": 8422,
-    "IDcode": "26",
-    "title": "Arty亚缇 - NO.15 FGO 埃列什基伽勒 [21P-56MB]",
+    "id": 44596,
+    "IDcode": "50420",
+    "title": "Arty Huang - FGO Saber Alter - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bd2f77418d93a3910baf7.jpg",
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50420"
+  },
+  {
+    "id": 44547,
+    "IDcode": "50371",
+    "title": "Arty Huang - Azur Lane Cheshire - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50371"
+  },
+  {
+    "id": 44490,
+    "IDcode": "50314",
+    "title": "Arty Huang - Tingyun - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50314"
+  },
+  {
+    "id": 44416,
+    "IDcode": "50240",
+    "title": "Arty Huang - Honkai Star Rail Fugue - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50240"
+  },
+  {
+    "id": 43960,
+    "IDcode": "49784",
+    "title": "Arty Huang (huang_arty) [Twitter] (17.01.2023) 906P 5V - Page 4",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49784"
+  },
+  {
+    "id": 43959,
+    "IDcode": "49783",
+    "title": "Arty Huang (huang_arty) [Twitter] (17.01.2023) 906P 5V - Page 3",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49783"
+  },
+  {
+    "id": 43958,
+    "IDcode": "49782",
+    "title": "Arty Huang (huang_arty) [Twitter] (17.01.2023) 906P 5V - Page 2",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49782"
+  },
+  {
+    "id": 43957,
+    "IDcode": "49781",
+    "title": "Arty Huang (huang_arty) [Twitter] (17.01.2023) 906P 5V - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49781"
+  },
+  {
+    "id": 43951,
+    "IDcode": "49775",
+    "title": "Arty Huang cosplay Fern - Sousou no Frieren - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49775"
+  },
+  {
+    "id": 43927,
+    "IDcode": "49751",
+    "title": "Arty Huang - Nightingale - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49751"
+  },
+  {
+    "id": 43683,
+    "IDcode": "49507",
+    "title": "Arty Huang - Atago - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49507"
+  },
+  {
+    "id": 43668,
+    "IDcode": "49492",
+    "title": "Arty Huang - Tsundere Elf Blue Lingerie - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49492"
+  },
+  {
+    "id": 43547,
+    "IDcode": "49370",
+    "title": "Arty Huang - Prinz Eugen - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49370"
+  },
+  {
+    "id": 43478,
+    "IDcode": "49301",
+    "title": "Arty Huang - Kancolle Shigure - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49301"
+  },
+  {
+    "id": 43435,
+    "IDcode": "49258",
+    "title": "Arty亚缇 - Mitsuri Kanroji - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49258"
+  },
+  {
+    "id": 43334,
+    "IDcode": "49157",
+    "title": "Arty亚缇 - Honkai Star Rail Sparkle - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49157"
+  },
+  {
+    "id": 43297,
+    "IDcode": "49120",
+    "title": "Arty Huang - Genshin Arlecchino - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49120"
+  },
+  {
+    "id": 43285,
+    "IDcode": "49108",
+    "title": "Arty Huang - Enterprise - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49108"
+  },
+  {
+    "id": 43271,
+    "IDcode": "49094",
+    "title": "Arty Huang - Sirius Cheongsam - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49094"
+  },
+  {
+    "id": 43254,
+    "IDcode": "49077",
+    "title": "Arty Huang - AzurLane Le Malin Bunny Girl ver - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49077"
+  },
+  {
+    "id": 43125,
+    "IDcode": "48948",
+    "title": "Arty Huang - 约尔战斗形态 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48948"
+  },
+  {
+    "id": 43124,
+    "IDcode": "48947",
+    "title": "Arty Huang - 新圣路易斯 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48947"
+  },
+  {
+    "id": 43008,
+    "IDcode": "48831",
+    "title": "Arty亚缇 - 明日方舟 能天使 [30张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48831"
+  },
+  {
+    "id": 42807,
+    "IDcode": "48630",
+    "title": "Arty亚缇 - Tier - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48630"
+  },
+  {
+    "id": 42792,
+    "IDcode": "48615",
+    "title": "Arty Huang - Bride Ganyu - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48615"
+  },
+  {
+    "id": 42746,
+    "IDcode": "48569",
+    "title": "Arty Huang - Glorious - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48569"
+  },
+  {
+    "id": 42695,
+    "IDcode": "48518",
+    "title": "Arty Huang (Arty亚缇) - Cow full - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48518"
+  },
+  {
+    "id": 42631,
+    "IDcode": "48454",
+    "title": "Arty Huang (Arty亚缇) & KaYa Huang (萱) - Raiden Shogun Ei & Yae Miko - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -270,25 +837,303 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       },
       {
-        "name": "Aram (아람)",
-        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+        "name": "Kaya Huang",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya Huang.html"
+      },
+      {
+        "name": "Kaya",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48454"
   },
   {
-    "id": 8311,
-    "IDcode": "25",
-    "title": "Arty亚缇 - NO.16 RE：从零开始的异世界生活 艾尔莎·葛兰西尔特(猎肠者) [52P-127MB]",
+    "id": 42587,
+    "IDcode": "48410",
+    "title": "Arty Huang -  Blue Archive Toki Police - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fd8ce66c61e685a6db2b1.jpg",
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48410"
+  },
+  {
+    "id": 42581,
+    "IDcode": "48404",
+    "title": "Arty亚缇 - Sparkle - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48404"
+  },
+  {
+    "id": 42494,
+    "IDcode": "48317",
+    "title": "Arty Huang - Kisaki - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48317"
+  },
+  {
+    "id": 42493,
+    "IDcode": "48316",
+    "title": "Arty Huang - Santa Ganyu - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48316"
+  },
+  {
+    "id": 42436,
+    "IDcode": "48259",
+    "title": "Arty Huang - Mitsuri - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48259"
+  },
+  {
+    "id": 42351,
+    "IDcode": "48174",
+    "title": "Arty Huang (Arty亚缇) - Mikasa Ackerman - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48174"
+  },
+  {
+    "id": 42283,
+    "IDcode": "48106",
+    "title": "Arty Huang - Bunny Asuna - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48106"
+  },
+  {
+    "id": 42204,
+    "IDcode": "48027",
+    "title": "Arty Huang - Guitar Sister - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48027"
+  },
+  {
+    "id": 42161,
+    "IDcode": "47984",
+    "title": "Arty Huang - Genshin Kamisato Ayaka - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47984"
+  },
+  {
+    "id": 42014,
+    "IDcode": "47837",
+    "title": "Arty Cosplay Collection I - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47837"
+  },
+  {
+    "id": 41682,
+    "IDcode": "47505",
+    "title": "[Arty亞緹][Cosplay][ホロ]31P - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47505"
+  },
+  {
+    "id": 41635,
+    "IDcode": "47458",
+    "title": "[Arty] ソードアート・オンライン アリシゼーション アドミニストレータ - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47458"
+  },
+  {
+    "id": 41261,
+    "IDcode": "47084",
+    "title": "Arty Dec Cos - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47084"
+  },
+  {
+    "id": 41232,
+    "IDcode": "47055",
+    "title": "Octokuro Model - Tsunade's Sex Party - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -296,25 +1141,109 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       },
       {
-        "name": "Aram (아람)",
-        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+        "name": "Octokuro",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Octokuro.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47055"
   },
   {
-    "id": 8200,
-    "IDcode": "24",
-    "title": "Arty亚缇 22.03Tier.2",
+    "id": 41203,
+    "IDcode": "47026",
+    "title": "[Arty亞緹] Amiya [October Tier1] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a0eaa4e5c1fd3e988d31d.jpg",
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47026"
+  },
+  {
+    "id": 41201,
+    "IDcode": "47024",
+    "title": "鬼灭之刃 甘露寺 Coser@Arty亞緹 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47024"
+  },
+  {
+    "id": 41200,
+    "IDcode": "47023",
+    "title": "奶牛◎Coser@Arty亞緹 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47023"
+  },
+  {
+    "id": 41190,
+    "IDcode": "47013",
+    "title": "Arty Huang - Belfast - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47013"
+  },
+  {
+    "id": 41161,
+    "IDcode": "46984",
+    "title": "Arty and Kaya - Alter Girls - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -322,25 +1251,686 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       },
       {
-        "name": "Aram (아람)",
-        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+        "name": "Kaya",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46984"
   },
   {
-    "id": 8089,
-    "IDcode": "23",
-    "title": "Arty亚缇 22.03Tier.1",
+    "id": 41086,
+    "IDcode": "46909",
+    "title": "Arty Huang - Merlin Prototype - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46909"
+  },
+  {
+    "id": 41070,
+    "IDcode": "46893",
+    "title": "亞緹Arty & kaya萱 - Sasha Necron & Misha Necron - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "kaya萱",
+        "img_url": "https://telegra.ph/file/d86e0947e0a3d46551fcb.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_kaya萱.html"
+      },
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Kaya",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46893"
+  },
+  {
+    "id": 41058,
+    "IDcode": "46881",
+    "title": "[Arty亞緹]Kashino - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46881"
+  },
+  {
+    "id": 41050,
+    "IDcode": "46873",
+    "title": "Arty Huang - Echidna - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46873"
+  },
+  {
+    "id": 40941,
+    "IDcode": "46764",
+    "title": "Arty亞緹 阿米婭 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46764"
+  },
+  {
+    "id": 40517,
+    "IDcode": "46340",
+    "title": "[Arty亞緹]ぼっち・ざ・ろっく！後藤ひとり＆喜多郁代 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46340"
+  },
+  {
+    "id": 40494,
+    "IDcode": "46317",
+    "title": "Arty Huang - Darkness - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46317"
+  },
+  {
+    "id": 40493,
+    "IDcode": "46316",
+    "title": "Arty Huang - Shuten Douji - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46316"
+  },
+  {
+    "id": 40446,
+    "IDcode": "46269",
+    "title": "Arty Huang OF - Blue Archive Kisaki - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46269"
+  },
+  {
+    "id": 40433,
+    "IDcode": "46256",
+    "title": "Arty亞緹 Ereshkigal bunny suit ver. (Fate/Grand Order) - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46256"
+  },
+  {
+    "id": 40419,
+    "IDcode": "46242",
+    "title": "Arty亞緹 REM bunny suit ver. (Re:Zero) - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46242"
+  },
+  {
+    "id": 40138,
+    "IDcode": "45961",
+    "title": "Arty亞緹 Mash Dancer ver. (Fate/Grand Order) - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45961"
+  },
+  {
+    "id": 40100,
+    "IDcode": "45923",
+    "title": "Arty Huang - Tifa - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45923"
+  },
+  {
+    "id": 40088,
+    "IDcode": "45911",
+    "title": "Arty亚缇 - 万圣节 清姫 [16张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45911"
+  },
+  {
+    "id": 40087,
+    "IDcode": "45910",
+    "title": "Arty亚缇 - 阿纳斯塔西娅 [18张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45910"
+  },
+  {
+    "id": 40080,
+    "IDcode": "45903",
+    "title": "Arty亚缇 - FGO同人赛车玛修 [22张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45903"
+  },
+  {
+    "id": 40079,
+    "IDcode": "45902",
+    "title": "Arty亚缇 - 埃列什基伽勒 泳衣 [17张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45902"
+  },
+  {
+    "id": 40078,
+    "IDcode": "45901",
+    "title": "Arty亚缇 - 明日方舟 陈 岁红霞旗袍 [18张] - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45901"
+  },
+  {
+    "id": 40077,
+    "IDcode": "45900",
+    "title": "Arty亚缇 - 碧蓝航线 - 企业 泳装 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45900"
+  },
+  {
+    "id": 40005,
+    "IDcode": "45828",
+    "title": "Arty Huang - Fiona Frost - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45828"
+  },
+  {
+    "id": 39994,
+    "IDcode": "45817",
+    "title": "Arty Huang - Eula - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45817"
+  },
+  {
+    "id": 39992,
+    "IDcode": "45815",
+    "title": "Arty Huang - Chen Hai - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45815"
+  },
+  {
+    "id": 39978,
+    "IDcode": "45801",
+    "title": "Arty Huang - Eula - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45801"
+  },
+  {
+    "id": 39822,
+    "IDcode": "45645",
+    "title": "Arty Huang - Kashiwazaki Sena - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45645"
+  },
+  {
+    "id": 39396,
+    "IDcode": "45219",
+    "title": "Arty Huang - Ayaka shibari - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45219"
+  },
+  {
+    "id": 39329,
+    "IDcode": "45152",
+    "title": "Arty Huang - Kamisato Ayaka",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45152"
+  },
+  {
+    "id": 39328,
+    "IDcode": "45151",
+    "title": "Arty Huang - Genshin Raiden Ei",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45151"
+  },
+  {
+    "id": 39327,
+    "IDcode": "45150",
+    "title": "Arty Huang - Genshin Raiden OL",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45150"
+  },
+  {
+    "id": 39309,
+    "IDcode": "45132",
+    "title": "Arty Huang - Genshin Yae Miko part.2",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45132"
+  },
+  {
+    "id": 39308,
+    "IDcode": "45131",
+    "title": "Arty Huang - Genshin Eula",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45131"
+  },
+  {
+    "id": 39263,
+    "IDcode": "45086",
+    "title": "Arty Huang - Genshin Yelan",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45086"
+  },
+  {
+    "id": 39261,
+    "IDcode": "45084",
+    "title": "Arty Huang - Genshin Mona",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "Arty亚缇",
@@ -348,11 +1938,210 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
       },
       {
-        "name": "Aram (아람)",
-        "img_url": "https://telegra.ph/file/6f9f2de9ac7976f573e03.png",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Aram (아람).html"
+        "name": "Mona 모나",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mona 모나.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45084"
+  },
+  {
+    "id": 39227,
+    "IDcode": "45050",
+    "title": "Arty Huang - coser合集P2",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45050"
+  },
+  {
+    "id": 39226,
+    "IDcode": "45049",
+    "title": "Arty Huang - coser合集P1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45049"
+  },
+  {
+    "id": 39039,
+    "IDcode": "44862",
+    "title": "Arty Huang - Bocchi",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44862"
+  },
+  {
+    "id": 39038,
+    "IDcode": "44861",
+    "title": "Arty Huang - Yor",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44861"
+  },
+  {
+    "id": 38899,
+    "IDcode": "44722",
+    "title": "Arty-Huang - Yae Sakura",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44722"
+  },
+  {
+    "id": 38893,
+    "IDcode": "44716",
+    "title": "kaya huang & arty huang",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      },
+      {
+        "name": "Kaya Huang",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya Huang.html"
+      },
+      {
+        "name": "Kaya",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kaya.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44716"
+  },
+  {
+    "id": 38393,
+    "IDcode": "44216",
+    "title": "Arty Huang - Zara",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44216"
+  },
+  {
+    "id": 38381,
+    "IDcode": "44204",
+    "title": "Arty Huang - St. Louis",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44204"
+  },
+  {
+    "id": 38379,
+    "IDcode": "44202",
+    "title": "Arty Huang - Elsa Granhiert",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Arty亚缇",
+        "img_url": "https://telegra.ph/file/fe8cc59e81e1e9d8b98d7.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Arty亚缇.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44202"
   }
 ];

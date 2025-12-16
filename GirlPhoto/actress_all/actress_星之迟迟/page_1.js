@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 1706,
-    "IDcode": "11538",
-    "title": "星之迟迟 - 2024年05月计划D 原创 辣妹补习班",
+    "id": 45508,
+    "IDcode": "51332",
+    "title": "星之迟迟 - 2025年8月计划C 碧蓝航线 新泽西 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-05-01",
-    "cover_url": "https://telegra.ph/file/5c581f8ff3c4876fc8e47.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11538"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51332"
   },
   {
-    "id": 1705,
-    "IDcode": "11537",
-    "title": "星之迟迟 - 2024年05月计划C 对策部 宇都宫沙希",
+    "id": 45451,
+    "IDcode": "51275",
+    "title": "星之迟迟-Perseus-Unfamiliar Duties - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-05-01",
-    "cover_url": "https://telegra.ph/file/715bfe84a14c089028700.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11537"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51275"
   },
   {
-    "id": 1704,
-    "IDcode": "11536",
-    "title": "星之迟迟 - 24年04月计划D 治愈之旅part.2小憩篇",
+    "id": 45405,
+    "IDcode": "51229",
+    "title": "星之迟迟 - 2025年8月计划F 尼尔：机械纪元 2B 同人 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/936ffe8baa0e5e659e099.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -60,20 +60,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11536"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51229"
   },
   {
-    "id": 1703,
-    "IDcode": "11535",
-    "title": "星之迟迟 - 24年04月计划D 治愈之旅part.4彻夜篇",
+    "id": 45404,
+    "IDcode": "51228",
+    "title": "星之迟迟 - 2025年06月计划F 莫加多尔 (碧蓝航线) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/baaf9155de79ca541c9ef.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -81,20 +81,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11535"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51228"
   },
   {
-    "id": 1702,
-    "IDcode": "11534",
-    "title": "星之迟迟 - 2024年04月计划B NIKKE 布兰儿",
+    "id": 45367,
+    "IDcode": "51191",
+    "title": "星之迟迟 碧蓝航线 新泽西兔兔 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/4c66754289226a78d7cb4.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -102,20 +102,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11534"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51191"
   },
   {
-    "id": 1701,
-    "IDcode": "11533",
-    "title": "星之迟迟 - 24年04月计划D 治愈之旅part.6漫步篇",
+    "id": 45172,
+    "IDcode": "50996",
+    "title": "星之迟迟 - 2023 4月计划 [Fgo-玛修]+[毒蛇] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/a089ecfb5d572acf95fc2.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -123,20 +123,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11533"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50996"
   },
   {
-    "id": 1700,
-    "IDcode": "11532",
-    "title": "星之迟迟 - 24年04月计划D 治愈之旅part.3盛装篇",
+    "id": 45157,
+    "IDcode": "50981",
+    "title": "星之迟迟 5月计划E 碧蓝航线 - 建武 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/2d12d99f5ea5d7ea0f036.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -144,20 +144,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11532"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50981"
   },
   {
-    "id": 1699,
-    "IDcode": "11531",
-    "title": "星之迟迟 - 24年04月计划C 同人-运动服比基尼",
+    "id": 44665,
+    "IDcode": "50489",
+    "title": "星之迟迟 - 25年3月计划D 胜利女神：妮姬 灰姑娘 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-04-01",
-    "cover_url": "https://telegra.ph/file/6a3eb1acf89a9c00cf07b.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -165,20 +165,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11531"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50489"
   },
   {
-    "id": 1698,
-    "IDcode": "11530",
-    "title": "星之迟迟 2024年1月计划C – 布莱默顿新年旗袍",
+    "id": 44620,
+    "IDcode": "50444",
+    "title": "星之迟迟 - 碧蓝航线 让巴尔 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2024-01-01",
-    "cover_url": "https://telegra.ph/file/e385cf671fd4eb0914072.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -186,20 +186,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11530"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50444"
   },
   {
-    "id": 1696,
-    "IDcode": "11529",
-    "title": "星之迟迟 23年12月计划C明日奈女仆",
+    "id": 44611,
+    "IDcode": "50435",
+    "title": "星之迟迟 碧蓝档案 一之濑明日奈 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2023-12-01",
-    "cover_url": "https://telegra.ph/file/aecbabf5e6466b3018b7f.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -207,20 +207,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11529"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50435"
   },
   {
-    "id": 1695,
-    "IDcode": "11528",
-    "title": "星之迟迟 万圣节 – 华甲",
+    "id": 44600,
+    "IDcode": "50424",
+    "title": "星之迟迟 - 25年3月计划E 葬送的芙莉莲 菲伦 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c7e6946651fe1e66e0aa8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -228,20 +228,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11528"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50424"
   },
   {
-    "id": 1694,
-    "IDcode": "11527",
-    "title": "星之迟迟 10月计划D – 家庭教师的奖励时间",
+    "id": 44599,
+    "IDcode": "50423",
+    "title": "星之迟迟 - 25年3月计划F 碧蓝航线 天城 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8e2edfdf1e67f33458a42.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -249,20 +249,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11527"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50423"
   },
   {
-    "id": 1693,
-    "IDcode": "11526",
-    "title": "星之迟迟 10月计划A – 碧蓝航线爱宕",
+    "id": 44567,
+    "IDcode": "50391",
+    "title": "星之迟迟 - 2024年08月计划D 碧蓝航线 恰巴耶夫 礼服 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ec9923ea922c18618ea19.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -270,20 +270,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11526"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50391"
   },
   {
-    "id": 1692,
-    "IDcode": "11525",
-    "title": "星之迟迟 2023-9-C",
+    "id": 44558,
+    "IDcode": "50382",
+    "title": "星之迟迟 - 25年2月计划D 碧蓝航线 柴郡 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
-    "publish_date": "2023-09-01",
-    "cover_url": "https://telegra.ph/file/02fa900b4a7b3a79000ac.jpg",
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -291,20 +291,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11525"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50382"
   },
   {
-    "id": 1691,
-    "IDcode": "11524",
-    "title": "星之迟迟",
+    "id": 44399,
+    "IDcode": "50223",
+    "title": "星之迟迟 - 25年2月计划E 碧蓝航线 怨仇 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1e6938b5641fab74fed16.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -312,20 +312,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11524"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50223"
   },
   {
-    "id": 1690,
-    "IDcode": "11523",
-    "title": "星之迟迟 3月计划B – 碧蓝航线",
+    "id": 44398,
+    "IDcode": "50222",
+    "title": "星之迟迟 - 25年2月计划F 胜利女神：妮姬 毒蛇 泳装 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/287cf282567c7f2da832e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -333,20 +333,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11523"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50222"
   },
   {
-    "id": 1689,
-    "IDcode": "11522",
-    "title": "星之迟迟 风纪委员",
+    "id": 43952,
+    "IDcode": "49776",
+    "title": "星之迟迟 - 碧蓝航线 尾张 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1a1ce0fe7d59ff6efb446.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -354,20 +354,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11522"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49776"
   },
   {
-    "id": 1688,
-    "IDcode": "11521",
-    "title": "星之迟迟 - 兔兔女仆",
+    "id": 43911,
+    "IDcode": "49735",
+    "title": "星之迟迟 - 2024年08月计划E 碧蓝航线 镇海 潋滟水色 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/94d0bf3e94f077279bc74.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -375,20 +375,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11521"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49735"
   },
   {
-    "id": 1687,
-    "IDcode": "11520",
-    "title": "星之迟迟 - 透明护士",
+    "id": 43767,
+    "IDcode": "49591",
+    "title": "星之迟迟 Tosa Bikini - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c0b3382ccbdaf5b21fdd5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -396,20 +396,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11520"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49591"
   },
   {
-    "id": 1685,
-    "IDcode": "11519",
-    "title": "星之迟迟 换装竞泳",
+    "id": 43766,
+    "IDcode": "49590",
+    "title": "星之迟迟 Chapayev Inmate - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e1df9e5f4fc63abd87866.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -417,20 +417,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11519"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49590"
   },
   {
-    "id": 1684,
-    "IDcode": "11518",
-    "title": "星之迟迟 - 酒吞",
+    "id": 43663,
+    "IDcode": "49487",
+    "title": "星之迟迟 - 2024年08月计划B 碧蓝航线 柴郡 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/181182aec78d6cc92aad2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -438,20 +438,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11518"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49487"
   },
   {
-    "id": 1683,
-    "IDcode": "11517",
-    "title": "星之迟迟 - JK生活密着取材",
+    "id": 43581,
+    "IDcode": "49404",
+    "title": "星之迟迟 - 2023-10-B - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3c5dd37f7d301f66b9b20.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -459,20 +459,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11517"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49404"
   },
   {
-    "id": 1682,
-    "IDcode": "11516",
-    "title": "星之迟迟 - 圣路易斯",
+    "id": 43433,
+    "IDcode": "49256",
+    "title": "[星之迟迟] 2024年05月计划B 初音未来 兔子洞 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b82a603f5faaf800d4fa8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -480,20 +480,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11516"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49256"
   },
   {
-    "id": 1681,
-    "IDcode": "11515",
-    "title": "星之迟迟 - 吾妻",
+    "id": 43193,
+    "IDcode": "49016",
+    "title": "星之迟迟 8月计划E 镇海 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d2e1029ed3f57ca9dc0cd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -501,20 +501,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11515"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49016"
   },
   {
-    "id": 1680,
-    "IDcode": "11514",
-    "title": "星之迟迟 - 黛朵",
+    "id": 43192,
+    "IDcode": "49015",
+    "title": "星之迟迟 8月计划B 柴郡兔女郎 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/05701076049fba76de98a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -522,20 +522,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11514"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49015"
   },
   {
-    "id": 1679,
-    "IDcode": "11513",
-    "title": "星之迟迟 - 伊吹",
+    "id": 43191,
+    "IDcode": "49014",
+    "title": "星之迟迟 碧蓝档案 银镜伊织 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c07bd67920b87955cb618.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -543,20 +543,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11513"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49014"
   },
   {
-    "id": 1678,
-    "IDcode": "11512",
-    "title": "星之迟迟 - 玛菲卡",
+    "id": 43190,
+    "IDcode": "49013",
+    "title": "星之迟迟 碧蓝档案 飞鸟马时 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4d86c0c03797611b8ee5f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -564,20 +564,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11512"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49013"
   },
   {
-    "id": 1677,
-    "IDcode": "11511",
-    "title": "星之迟迟 - 纯爱之槛",
+    "id": 43183,
+    "IDcode": "49006",
+    "title": "星之迟迟 8月计划F 莫加多尔泳装 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/83023fded984ada15c696.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -585,20 +585,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11511"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49006"
   },
   {
-    "id": 1676,
-    "IDcode": "11510",
-    "title": "星之迟迟 - 马萨诸塞",
+    "id": 43163,
+    "IDcode": "48986",
+    "title": "星之迟迟 - 2024年08月计划C 死或生 玛丽萝丝 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ed55639c2ed7015a0c4c0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -606,20 +606,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11510"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48986"
   },
   {
-    "id": 1674,
-    "IDcode": "11509",
-    "title": "星之迟迟 - 特里奥姬",
+    "id": 43162,
+    "IDcode": "48985",
+    "title": "星之迟迟 - 2024年08月计划F 碧蓝航线 莫加多尔 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d38cdb229b3e125d961ee.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -627,20 +627,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11509"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48985"
   },
   {
-    "id": 1673,
-    "IDcode": "11508",
-    "title": "星之迟迟 女仆",
+    "id": 43161,
+    "IDcode": "48984",
+    "title": "星之迟迟 - 蔚蓝档案 写真本 Erotopia - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f250e22a9880af0f14c6d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -648,20 +648,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11508"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48984"
   },
   {
-    "id": 1672,
-    "IDcode": "11507",
-    "title": "星之迟迟 白T恤",
+    "id": 43156,
+    "IDcode": "48979",
+    "title": "星之迟迟 - 卖火柴的小红帽 打工篇&爱宠篇 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6685dc4f9a31cbf5544fc.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -669,20 +669,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11507"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48979"
   },
   {
-    "id": 1671,
-    "IDcode": "11506",
-    "title": "星之迟迟 jk格子裙",
+    "id": 43030,
+    "IDcode": "48853",
+    "title": "星之迟迟 碧蓝航线 尾张 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/92a20fc65a646c7e6c7b3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -690,20 +690,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11506"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48853"
   },
   {
-    "id": 1670,
-    "IDcode": "11505",
-    "title": "星之迟迟 水手服内衣",
+    "id": 42919,
+    "IDcode": "48742",
+    "title": "星之迟迟 - Viper - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"内衣\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9276c45ccc8f2ff687155.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -711,20 +711,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11505"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48742"
   },
   {
-    "id": 1669,
-    "IDcode": "11504",
-    "title": "星之迟迟 黑制服",
+    "id": 42903,
+    "IDcode": "48726",
+    "title": "星之迟迟 - 5月计划 绫波丽 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/090b6404d8c9363652d82.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -732,20 +732,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11504"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48726"
   },
   {
-    "id": 1668,
-    "IDcode": "11503",
-    "title": "星之迟迟 和服",
+    "id": 42679,
+    "IDcode": "48502",
+    "title": "[星之迟迟] 2024年4月计划B - 布兰儿 （胜利女神：妮姬） - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"和服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/36a68d84a64da1f578f96.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -753,20 +753,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11503"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48502"
   },
   {
-    "id": 1667,
-    "IDcode": "11502",
-    "title": "星之迟迟 白内衣",
+    "id": 42645,
+    "IDcode": "48468",
+    "title": "星之迟迟 - 碧蓝航线 奇尔沙治同人 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"内衣\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7c771d5669750e09a422a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -774,20 +774,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11502"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48468"
   },
   {
-    "id": 1666,
-    "IDcode": "11501",
-    "title": "星之迟迟 体操服",
+    "id": 42592,
+    "IDcode": "48415",
+    "title": "星之迟迟 - 对策部宇都宫沙希 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/80a761eb86939c22bed84.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -795,20 +795,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11501"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48415"
   },
   {
-    "id": 1665,
-    "IDcode": "11500",
-    "title": "星之迟迟 短裤",
+    "id": 42552,
+    "IDcode": "48375",
+    "title": "星之迟迟 - 2023-10-C（我推的孩子-星野爱同人） - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b0ebddc17fb2d16f612f8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -816,20 +816,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11500"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48375"
   },
   {
-    "id": 1662,
-    "IDcode": "11499",
-    "title": "星之迟迟 粉红睡衣",
+    "id": 42487,
+    "IDcode": "48310",
+    "title": "星之迟迟  华甲  HwahJah   AZURLANE - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/08f3b994839925ea2ca0a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -837,20 +837,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11499"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48310"
   },
   {
-    "id": 1661,
-    "IDcode": "11498",
-    "title": "星之迟迟 莉莉丝",
+    "id": 42433,
+    "IDcode": "48256",
+    "title": "星之迟迟 2023-12月计划B - 碧蓝航线-樫野 女仆 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/abbe4d8db6482ac393d04.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -858,20 +858,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11498"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48256"
   },
   {
-    "id": 1660,
-    "IDcode": "11497",
-    "title": "星之迟迟 小可爱",
+    "id": 42380,
+    "IDcode": "48203",
+    "title": "星之迟迟 万圣节特别企划 雅努斯 Janus ジェーナス [86P - 600MB] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fec0cb0b20e82d282d1fc.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -879,20 +879,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11497"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48203"
   },
   {
-    "id": 1659,
-    "IDcode": "11496",
-    "title": "星之迟迟 黑内衣",
+    "id": 42355,
+    "IDcode": "48178",
+    "title": "星之迟迟 2023.12月计划C-蔚蓝档案-一之濑明日奈同人女仆[91P] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"内衣\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4c4404a05eb33211e7a3a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -900,20 +900,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11496"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48178"
   },
   {
-    "id": 1658,
-    "IDcode": "11495",
-    "title": "星之迟迟 白衬衣",
+    "id": 42155,
+    "IDcode": "47978",
+    "title": "[星之迟迟] 胜利女神：妮姬 - 布兰儿 52P - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8bc764793f3ca1e2b4c38.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -921,20 +921,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11495"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47978"
   },
   {
-    "id": 1657,
-    "IDcode": "11494",
-    "title": "星之迟迟 旗袍",
+    "id": 41565,
+    "IDcode": "47388",
+    "title": "星之迟迟 VOL.03 伊莉雅同人包 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ff7e0021fccf44e3bba87.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -942,20 +942,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11494"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47388"
   },
   {
-    "id": 1656,
-    "IDcode": "11493",
-    "title": "星之迟迟 刀剑乱舞COS乱藤四郎",
+    "id": 41453,
+    "IDcode": "47276",
+    "title": "[星之迟迟][mai sakurajima] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/151f5611462f326007dbe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -963,20 +963,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11493"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47276"
   },
   {
-    "id": 1655,
-    "IDcode": "11492",
-    "title": "星之迟迟 VOL.01 粉红泡泡包",
+    "id": 41243,
+    "IDcode": "47066",
+    "title": "星之迟迟 Bishoujo Mangekyou Kagarino Kirie - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/653c005b75b9b9c887af7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -984,20 +984,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11492"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47066"
   },
   {
-    "id": 1654,
-    "IDcode": "11491",
-    "title": "星之迟迟 VOL.05 恶女秘书包",
+    "id": 41242,
+    "IDcode": "47065",
+    "title": "星之迟迟 – 特里奥姬 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/00ffde2795cc77e84ac6e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1005,20 +1005,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11491"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47065"
   },
   {
-    "id": 1653,
-    "IDcode": "11490",
-    "title": "星之迟迟 VOL.12 朋克人形包",
+    "id": 41231,
+    "IDcode": "47054",
+    "title": "[星之迟迟]  黛朵 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ae24e0dc492fc7f21073c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1026,20 +1026,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11490"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47054"
   },
   {
-    "id": 1651,
-    "IDcode": "11489",
-    "title": "星之迟迟 VOL.15 圣光修女包",
+    "id": 41230,
+    "IDcode": "47053",
+    "title": "[星之迟迟]  吾妻 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1726c0c899b640ea60854.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1047,20 +1047,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11489"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47053"
   },
   {
-    "id": 1650,
-    "IDcode": "11488",
-    "title": "星之迟迟 VOL.10 优雅旗袍包",
+    "id": 41229,
+    "IDcode": "47052",
+    "title": "[星之迟迟] 伊吹 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1b876e392bfb7d66e47b5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1068,20 +1068,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11488"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47052"
   },
   {
-    "id": 1649,
-    "IDcode": "11487",
-    "title": "星之迟迟 VOL.18 战斗妹抖",
+    "id": 41212,
+    "IDcode": "47035",
+    "title": "[星之迟迟] イリヤスフィール・フォン・アインツベルン (Fate/kaleid liner プリズマ☆イリヤ) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9c9aba7247b8891700edb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1089,20 +1089,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11487"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47035"
   },
   {
-    "id": 1648,
-    "IDcode": "11486",
-    "title": "星之迟迟 VOL.16 熊猫旗袍",
+    "id": 41154,
+    "IDcode": "46977",
+    "title": "星之迟迟 - Christmas 2B -sakimichan ver. - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d959f36a506a30490202a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1110,20 +1110,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11486"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46977"
   },
   {
-    "id": 1647,
-    "IDcode": "11485",
-    "title": "星之迟迟 VOL.13 弱气学园包",
+    "id": 41121,
+    "IDcode": "46944",
+    "title": "星之迟迟-光辉μ兵装 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fb8d056829d8f4c3347f0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1131,20 +1131,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11485"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46944"
   },
   {
-    "id": 1646,
-    "IDcode": "11484",
-    "title": "星之迟迟 VOL.11 今晚加班包",
+    "id": 41120,
+    "IDcode": "46943",
+    "title": "星之迟迟-信浓 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bfb094eb9698c47622b4e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1152,20 +1152,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11484"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46943"
   },
   {
-    "id": 1645,
-    "IDcode": "11483",
-    "title": "星之迟迟 VOL.08 玫瑰月光包",
+    "id": 41115,
+    "IDcode": "46938",
+    "title": "星之迟迟-大凤 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/19c057101abe444ebf297.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1173,20 +1173,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11483"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46938"
   },
   {
-    "id": 1644,
-    "IDcode": "11482",
-    "title": "星之迟迟 VOL.06 假日快乐包",
+    "id": 41114,
+    "IDcode": "46937",
+    "title": "星之迟迟-黛朵 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bdb74240305b1cedbb6e9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1194,20 +1194,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11482"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46937"
   },
   {
-    "id": 1643,
-    "IDcode": "11481",
-    "title": "星之迟迟 VOL.03 伊莉雅同人包",
+    "id": 41112,
+    "IDcode": "46935",
+    "title": "星之迟迟-能代 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b215a9cb42aa993837d6a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1215,20 +1215,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11481"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46935"
   },
   {
-    "id": 1642,
-    "IDcode": "11480",
-    "title": "星之迟迟 VOL.02 幼齿僵尸包",
+    "id": 41109,
+    "IDcode": "46932",
+    "title": "星之迟迟-圣路易斯 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0e3a15800e6a5d7b49ab5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1236,20 +1236,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11480"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46932"
   },
   {
-    "id": 1640,
-    "IDcode": "11479",
-    "title": "星之迟迟 VOL.07 JK合集包",
+    "id": 41108,
+    "IDcode": "46931",
+    "title": "星之迟迟-爱宕 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b21435512373b7f10cf09.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1257,20 +1257,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11479"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46931"
   },
   {
-    "id": 1639,
-    "IDcode": "11478",
-    "title": "星之迟迟 VOL.17 夜勤病栋",
+    "id": 41105,
+    "IDcode": "46928",
+    "title": "星之迟迟-马萨诸塞 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8bc65a0fd71d82b3c4aa0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1278,20 +1278,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11478"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46928"
   },
   {
-    "id": 1638,
-    "IDcode": "11477",
-    "title": "星之迟迟 VOL.19 矢泽妮可",
+    "id": 41035,
+    "IDcode": "46858",
+    "title": "星之迟迟 - Nero Claudius maid (FGO) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/72ea9673894d105dc49dd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1299,20 +1299,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11477"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46858"
   },
   {
-    "id": 1637,
-    "IDcode": "11476",
-    "title": "星之迟迟 VOL.04 元气女仆包",
+    "id": 41021,
+    "IDcode": "46844",
+    "title": "星之迟迟 - 玉藻前忠犬蓄势待发 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ae0184c341d98e46035d9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1320,20 +1320,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11476"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46844"
   },
   {
-    "id": 1636,
-    "IDcode": "11475",
-    "title": "星之迟迟 - 短裙制服",
+    "id": 41012,
+    "IDcode": "46835",
+    "title": "星之迟迟 - W - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/737fbc0771602741e6bd0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1341,20 +1341,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11475"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46835"
   },
   {
-    "id": 1635,
-    "IDcode": "11474",
-    "title": "星之迟迟 VOL.09 草莓睡衣包",
+    "id": 40973,
+    "IDcode": "46796",
+    "title": "星之迟迟-恰巴耶夫 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a8b586a0f12a6bd95a34a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1362,20 +1362,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11474"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46796"
   },
   {
-    "id": 1634,
-    "IDcode": "11473",
-    "title": "星之迟迟 VOL.14 人鱼小姐包",
+    "id": 40964,
+    "IDcode": "46787",
+    "title": "星之迟迟 - 玉藻前魔术师 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3346f1351b1fb3806a003.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1383,20 +1383,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11473"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46787"
   },
   {
-    "id": 1633,
-    "IDcode": "11472",
-    "title": "星之迟迟 - 篝之雾枝 礼服",
+    "id": 40963,
+    "IDcode": "46786",
+    "title": "星之迟迟 - 伽摩 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e6e33d58d0910a4923634.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1404,20 +1404,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11472"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46786"
   },
   {
-    "id": 1632,
-    "IDcode": "11471",
-    "title": "星之迟迟 - 篝之雾枝 JK",
+    "id": 40962,
+    "IDcode": "46785",
+    "title": "星之迟迟 - 鸣夏-贞德 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/613fe3c60364f83a84570.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1425,20 +1425,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11471"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46785"
   },
   {
-    "id": 1631,
-    "IDcode": "11470",
-    "title": "星之迟迟 - 圣诞2B",
+    "id": 40953,
+    "IDcode": "46776",
+    "title": "星之迟迟 - PA15 Girls Frontline - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f04a1924d90b33c0fd247.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1446,20 +1446,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11470"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46776"
   },
   {
-    "id": 1629,
-    "IDcode": "11469",
-    "title": "星之迟迟 - 爱宕婚纱",
+    "id": 40952,
+    "IDcode": "46775",
+    "title": "星之迟迟 Scáthach Maid - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6e05915f881a16b583911.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1467,20 +1467,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11469"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46775"
   },
   {
-    "id": 1628,
-    "IDcode": "11468",
-    "title": "星之迟迟 - 明日方舟《陈》",
+    "id": 40951,
+    "IDcode": "46774",
+    "title": "星之迟迟 Gangut - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/be5adda308366c28267db.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1488,20 +1488,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11468"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46774"
   },
   {
-    "id": 1627,
-    "IDcode": "11467",
-    "title": "星之迟迟 - 明日方舟《艾雅法拉》",
+    "id": 40947,
+    "IDcode": "46770",
+    "title": "星之迟迟 Centaur Bikini - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8637df646da8125ac13ae.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1509,20 +1509,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11467"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46770"
   },
   {
-    "id": 1626,
-    "IDcode": "11466",
-    "title": "星之迟迟 - 柴郡 碧蓝航线",
+    "id": 40946,
+    "IDcode": "46769",
+    "title": "星之迟迟 Bremerton - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5651d1c3ea0a95b2715f2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1530,20 +1530,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11466"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46769"
   },
   {
-    "id": 1625,
-    "IDcode": "11465",
-    "title": "星之迟迟 - JK-绿",
+    "id": 40945,
+    "IDcode": "46768",
+    "title": "星之迟迟 Kato Megumi Bunny - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/10f8e92731e3dca79d449.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1551,20 +1551,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11465"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46768"
   },
   {
-    "id": 1624,
-    "IDcode": "11464",
-    "title": "星之迟迟 - 流星之愿《光辉》",
+    "id": 40944,
+    "IDcode": "46767",
+    "title": "星之迟迟 Kato Megumi - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0afee4c8774833d64e0c6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1572,20 +1572,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11464"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46767"
   },
   {
-    "id": 1623,
-    "IDcode": "11463",
-    "title": "星之迟迟 - R-Maid《柴郡泳装》",
+    "id": 40914,
+    "IDcode": "46737",
+    "title": "星之迟迟 白狗勾 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dbe3c9b3bd2873eca335d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1593,20 +1593,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11463"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46737"
   },
   {
-    "id": 1622,
-    "IDcode": "11462",
-    "title": "星之迟迟 - 明日方舟《黑》",
+    "id": 40913,
+    "IDcode": "46736",
+    "title": "星之迟迟  春日椿 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d3da7aec50cd4a4e387d1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1614,20 +1614,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11462"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46736"
   },
   {
-    "id": 1621,
-    "IDcode": "11461",
-    "title": "星之迟迟 - R-Maid《天狼星》",
+    "id": 40912,
+    "IDcode": "46735",
+    "title": "星之迟迟 大凤-凤鸣春晓 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/910586fd2fc7c0ab7e7de.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1635,20 +1635,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11461"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46735"
   },
   {
-    "id": 1620,
-    "IDcode": "11460",
-    "title": "星之迟迟 - 明日方舟《W》",
+    "id": 40911,
+    "IDcode": "46734",
+    "title": "星之迟迟 柴郡-音乐绚烂CaitSith - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8905f7d2fea04cff24bf0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1656,20 +1656,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11460"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46734"
   },
   {
-    "id": 1618,
-    "IDcode": "11459",
-    "title": "星之迟迟 - 明日方舟《莫斯提马》",
+    "id": 40792,
+    "IDcode": "46615",
+    "title": "星之迟迟 W - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3f5155adc4a9398b05a98.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1677,20 +1677,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11459"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46615"
   },
   {
-    "id": 1617,
-    "IDcode": "11458",
-    "title": "星之迟迟 - 流星之愿《信浓》",
+    "id": 40791,
+    "IDcode": "46614",
+    "title": "星之迟迟 Yumeko - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7bec3a2a0fa79767c8327.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1698,20 +1698,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11458"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46614"
   },
   {
-    "id": 1616,
-    "IDcode": "11457",
-    "title": "星之迟迟 - 明日方舟《白金》",
+    "id": 40710,
+    "IDcode": "46533",
+    "title": "星之迟迟 纯白と漆黑-花园 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bc3002a7e7258bc7074f7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1719,20 +1719,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11457"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46533"
   },
   {
-    "id": 1615,
-    "IDcode": "11456",
-    "title": "星之迟迟 - 流星之愿《大凤》",
+    "id": 40709,
+    "IDcode": "46532",
+    "title": "星之迟迟 纯白と漆黑-树城 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dd9d1eb65138c202af1a8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1740,20 +1740,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11456"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46532"
   },
   {
-    "id": 1614,
-    "IDcode": "11455",
-    "title": "星之迟迟 - 御主人様《尼禄女仆》",
+    "id": 40708,
+    "IDcode": "46531",
+    "title": "星之迟迟 纯白と漆黑-吾妻 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/39f63db4b4e51f069f5ac.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1761,20 +1761,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11455"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46531"
   },
   {
-    "id": 1613,
-    "IDcode": "11454",
-    "title": "星之迟迟 - R-Maid《赫敏》",
+    "id": 40707,
+    "IDcode": "46530",
+    "title": "星之迟迟 纯白と漆黑-独角兽 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6273d3019da33ed794c47.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1782,20 +1782,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11454"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46530"
   },
   {
-    "id": 1612,
-    "IDcode": "11453",
-    "title": "星之迟迟 - 兔兔女仆",
+    "id": 40706,
+    "IDcode": "46529",
+    "title": "星之迟迟 纯白と漆黑-可畏 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0be04c5b8cbfc0bdd6b75.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1803,20 +1803,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11453"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46529"
   },
   {
-    "id": 1611,
-    "IDcode": "11452",
-    "title": "星之迟迟 - 流星之愿《能代》",
+    "id": 40665,
+    "IDcode": "46488",
+    "title": "星之迟迟 - 伊什塔尔同人 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3896de9c039209a961ce2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1824,20 +1824,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11452"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46488"
   },
   {
-    "id": 1610,
-    "IDcode": "11451",
-    "title": "星之迟迟 - R-Maid《英仙座》",
+    "id": 40620,
+    "IDcode": "46443",
+    "title": "【星之迟迟】玛丽萝丝 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/012bd1c73afc93f18fddd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1845,41 +1845,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11451"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46443"
   },
   {
-    "id": 1609,
-    "IDcode": "11450",
-    "title": "星之迟迟 - R-Maid《柴郡》",
+    "id": 40564,
+    "IDcode": "46387",
+    "title": "Coser@星之迟迟Hoshilily - 柴郡 碧蓝航线 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3943d89eb4a37c68a181a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
         "img_url": "https://image.acg.lol/file/2025/03/16/2025-2-G-43.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
+      },
+      {
+        "name": "Hoshilily",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hoshilily.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11450"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46387"
   },
   {
-    "id": 1607,
-    "IDcode": "11449",
-    "title": "星之迟迟 - 流星之愿《黛朵》",
+    "id": 40525,
+    "IDcode": "46348",
+    "title": "[星之迟迟] 2023年9月计划A - 初音未来 白兔女郎 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9b181ce77cd087f8941bd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1887,20 +1892,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11449"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46348"
   },
   {
-    "id": 1606,
-    "IDcode": "11448",
-    "title": "星之迟迟 - R-Maid《可畏》",
+    "id": 40350,
+    "IDcode": "46173",
+    "title": "星之迟迟 -  胡桃 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2dbeb7e3b1ec30b73f403.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1908,20 +1913,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11448"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46173"
   },
   {
-    "id": 1605,
-    "IDcode": "11447",
-    "title": "星之迟迟 - R-Maid《英仙座护士》",
+    "id": 40304,
+    "IDcode": "46127",
+    "title": "星之迟迟 - 斯卡哈 真红教枪 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c8c5feb8f3ea63810e5b3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1929,20 +1934,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11447"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46127"
   },
   {
-    "id": 1604,
-    "IDcode": "11446",
-    "title": "星之迟迟 - 泳装(绿)",
+    "id": 40183,
+    "IDcode": "46006",
+    "title": "星之迟迟 - 爱蜜莉雅 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/69e7328290077abc5ddc8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1950,20 +1955,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11446"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46006"
   },
   {
-    "id": 1603,
-    "IDcode": "11445",
-    "title": "The Vagrant Cosplay Album - 星之迟迟《薇拉瑞》",
+    "id": 40135,
+    "IDcode": "45958",
+    "title": "星之迟迟 圣诞礼物 [90P1V1.96GB] - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/79b2afc8b5329a72c2b26.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1971,20 +1976,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11445"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45958"
   },
   {
-    "id": 1602,
-    "IDcode": "11444",
-    "title": "星之迟迟 - 情人节 Z23",
+    "id": 40038,
+    "IDcode": "45861",
+    "title": "星之迟迟 – NO.167 Z46 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4f4794bd7efb07b8bcea5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -1992,20 +1997,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11444"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45861"
   },
   {
-    "id": 1601,
-    "IDcode": "11443",
-    "title": "星之迟迟 - 情人节 斯卡哈",
+    "id": 40023,
+    "IDcode": "45846",
+    "title": "星之迟迟 2023年9月计划B FATE-尼禄睡衣 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/51d7b4d38e74a3c316dfb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -2013,20 +2018,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11443"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45846"
   },
   {
-    "id": 1600,
-    "IDcode": "11442",
-    "title": "星之迟迟 - 御主人様《玉藻前忠犬蓄势待发》",
+    "id": 40003,
+    "IDcode": "45826",
+    "title": "星之迟迟 - 2023年9月计划C 尼尔-2B同人礼服 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/de8bb370c9dd87205b2f3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -2034,20 +2039,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11442"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45826"
   },
   {
-    "id": 1599,
-    "IDcode": "11441",
-    "title": "星之迟迟 - 明日方舟《斯卡蒂》",
+    "id": 40000,
+    "IDcode": "45823",
+    "title": "星之迟迟 - 2023年10月计划A 碧蓝航线-爱宕 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b193cbc86dc48586b0ff1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -2055,20 +2060,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11441"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45823"
   },
   {
-    "id": 1598,
-    "IDcode": "11440",
-    "title": "星之迟迟 - 明日方舟《史尔特尔》",
+    "id": 39937,
+    "IDcode": "45760",
+    "title": "情人节梦梦-星之迟迟 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1b11f6a7b3d0257401350.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -2076,20 +2081,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11440"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45760"
   },
   {
-    "id": 1596,
-    "IDcode": "11439",
-    "title": "星之迟迟 - 甘古特",
+    "id": 39841,
+    "IDcode": "45664",
+    "title": "星之迟迟-能代、阿米娅、凛冬 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/27cb792a4df656cd7434d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "星之迟迟",
@@ -2097,6 +2102,6 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_星之迟迟.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=11439"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45664"
   }
 ];

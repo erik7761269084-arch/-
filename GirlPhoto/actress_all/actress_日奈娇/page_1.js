@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 15377,
-    "IDcode": "8963",
-    "title": "日奈娇 - 天雨亚子",
+    "id": 45346,
+    "IDcode": "51170",
+    "title": "日奈娇 – 原神 申鹤 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ad761b34a4ff8bfade20c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8963"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51170"
   },
   {
-    "id": 15376,
-    "IDcode": "8962",
-    "title": "日奈娇 - 鸳鸯浴",
+    "id": 45151,
+    "IDcode": "50975",
+    "title": "日奈娇 - 吾妻的指导课 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4cc6d0da73baffe2853a7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8962"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50975"
   },
   {
-    "id": 15375,
-    "IDcode": "8961",
-    "title": "日奈娇 人妻",
+    "id": 44789,
+    "IDcode": "50613",
+    "title": "日奈娇 - 大凤舞姬 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6a6b3941e7cc175bec78a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -60,20 +60,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8961"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50613"
   },
   {
-    "id": 15374,
-    "IDcode": "8960",
-    "title": "日奈娇 维修工",
+    "id": 44581,
+    "IDcode": "50405",
+    "title": "日奈娇 - 胜利女神：妮姬 灰姑娘 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/19db149fd0ed4689b1453.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -81,20 +81,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8960"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50405"
   },
   {
-    "id": 15372,
-    "IDcode": "8959",
-    "title": "日奈娇 奶娇日常",
+    "id": 44459,
+    "IDcode": "50283",
+    "title": "日奈娇 - 玉藻前舞娘涂油 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/812d38374cebc819f331d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -102,20 +102,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8959"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50283"
   },
   {
-    "id": 15371,
-    "IDcode": "8958",
-    "title": "日奈娇 蓝白条",
+    "id": 44371,
+    "IDcode": "50195",
+    "title": "日奈娇 - 琳妮特兔女郎 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c05d70cd7cd110e2d3dcf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -123,20 +123,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8958"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50195"
   },
   {
-    "id": 15370,
-    "IDcode": "8957",
-    "title": "日奈娇 白纱衣",
+    "id": 44308,
+    "IDcode": "50132",
+    "title": "日奈娇 - 碧蓝航线 可畏 巫女 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/865db0e83ae1b30c61c13.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -144,20 +144,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8957"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50132"
   },
   {
-    "id": 15369,
-    "IDcode": "8956",
-    "title": "日奈娇 兔尾女仆",
+    "id": 43932,
+    "IDcode": "49756",
+    "title": "日奈娇 - 憧憬成为魔法少女 碧蓝+猎豹 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b725c51a60ee42f0d6d01.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -165,20 +165,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8956"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49756"
   },
   {
-    "id": 15368,
-    "IDcode": "8955",
-    "title": "日奈娇 - 明日奈女仆",
+    "id": 43931,
+    "IDcode": "49755",
+    "title": "日奈娇 - 孤独摇滚  后藤一里 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/206aba802a1d9b07f83c6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -186,20 +186,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8955"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49755"
   },
   {
-    "id": 15367,
-    "IDcode": "8954",
-    "title": "日奈娇 - 垂耳兔",
+    "id": 43918,
+    "IDcode": "49742",
+    "title": "日奈娇 - 下江小春JK - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2d0384dea17ceec9adc2f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -207,20 +207,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8954"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49742"
   },
   {
-    "id": 15366,
-    "IDcode": "8953",
-    "title": "日奈娇 麦乐送",
+    "id": 43543,
+    "IDcode": "49366",
+    "title": "日奈娇 芙莉莲 Sousou no Frieren - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/eaf915643b6384e175364.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -228,20 +228,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8953"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49366"
   },
   {
-    "id": 15365,
-    "IDcode": "8952",
-    "title": "日奈娇 厨房",
+    "id": 43477,
+    "IDcode": "49300",
+    "title": "日奈娇 - 莉音 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b2b76ac85527cd23a7af6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -249,20 +249,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8952"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49300"
   },
   {
-    "id": 15364,
-    "IDcode": "8951",
-    "title": "日奈娇 空姐",
+    "id": 43458,
+    "IDcode": "49281",
+    "title": "日奈娇 - 柊舞缇娜皮衣 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3d680a886984aeea75d9e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -270,20 +270,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8951"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49281"
   },
   {
-    "id": 15363,
-    "IDcode": "8950",
-    "title": "日奈娇 - 女忍",
+    "id": 43408,
+    "IDcode": "49231",
+    "title": "日奈娇 - 碧蓝航线 水星纪念  134P-1.17G - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4cbe956cc67bd71a2d7f5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -291,20 +291,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8950"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49231"
   },
   {
-    "id": 15361,
-    "IDcode": "8949",
-    "title": "日奈娇 - 阿乌拉",
+    "id": 43363,
+    "IDcode": "49186",
+    "title": "日奈娇 - 天雨亚子 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/747e4d5df2714d9e7a20a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -312,20 +312,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8949"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49186"
   },
   {
-    "id": 15360,
-    "IDcode": "8948",
-    "title": "日奈娇 - 花魁狐妖",
+    "id": 43287,
+    "IDcode": "49110",
+    "title": "日奈娇 - 柴郡魔术师 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a74db22392918d2624061.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -333,20 +333,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8948"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49110"
   },
   {
-    "id": 15359,
-    "IDcode": "8947",
-    "title": "日奈娇 - 圣洁修女",
+    "id": 43286,
+    "IDcode": "49109",
+    "title": "日奈娇 - 尾张 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/662794114a79cf4cceb12.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -354,20 +354,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8947"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49109"
   },
   {
-    "id": 15358,
-    "IDcode": "8946",
-    "title": "日奈娇 - 雅儿贝德礼服",
+    "id": 43251,
+    "IDcode": "49074",
+    "title": "[日奈娇 (樱井小莜)] 白精灵 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/371d2b70aab074f3635ea.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -375,20 +375,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8946"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49074"
   },
   {
-    "id": 15357,
-    "IDcode": "8945",
-    "title": "日奈娇 - 拘束女仆",
+    "id": 43165,
+    "IDcode": "48988",
+    "title": "日奈娇（樱井小莜） - 梅里医疗兔 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d09125721b599bacba2b1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -396,20 +396,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8945"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48988"
   },
   {
-    "id": 15356,
-    "IDcode": "8944",
-    "title": "日奈娇 玛丽 萝丝",
+    "id": 43089,
+    "IDcode": "48912",
+    "title": "日奈娇（樱井小莜） - 辉夜巫女 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cd761a2cdae5f1f178169.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -417,20 +417,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8944"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48912"
   },
   {
-    "id": 15355,
-    "IDcode": "8943",
-    "title": "日奈娇 白色花嫁",
+    "id": 43029,
+    "IDcode": "48852",
+    "title": "日奈娇 - 秋月爱莉 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/234fb826e33e1926a6b43.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -438,20 +438,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8943"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48852"
   },
   {
-    "id": 15354,
-    "IDcode": "8942",
-    "title": "日奈娇 - 申鹤旗袍(原神)",
+    "id": 42894,
+    "IDcode": "48717",
+    "title": "日奈娇 碧蓝档案 妃咲  blue archive kisaki - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\", \"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b7d95782df09a91b8f5df.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -459,20 +459,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8942"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48717"
   },
   {
-    "id": 15353,
-    "IDcode": "8941",
-    "title": "日奈娇 - 妮姬露菲",
+    "id": 42719,
+    "IDcode": "48542",
+    "title": "日奈娇 - 憧憬成为魔法少女 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c1a3407163b07cbfc9bc1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -480,20 +480,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8941"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48542"
   },
   {
-    "id": 15352,
-    "IDcode": "8940",
-    "title": "日奈娇 - 多川海梦护士",
+    "id": 42660,
+    "IDcode": "48483",
+    "title": "日奈娇 - 飞鸟马时女警 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8605f358407fba8a7c25a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -501,20 +501,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8940"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48483"
   },
   {
-    "id": 15350,
-    "IDcode": "8939",
-    "title": "日奈娇 牛仔裤人妻",
+    "id": 42626,
+    "IDcode": "48449",
+    "title": "日奈娇 - Frieren Holy Light Version - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2eb972de3172f44202e4e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -522,20 +522,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8939"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48449"
   },
   {
-    "id": 15349,
-    "IDcode": "8938",
-    "title": "日奈娇 - 圣诞毛衣",
+    "id": 42617,
+    "IDcode": "48440",
+    "title": "日奈娇 - 菲伦 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0fa3fd4170837a1c38515.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -543,20 +543,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8938"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48440"
   },
   {
-    "id": 15348,
-    "IDcode": "8937",
-    "title": "日奈娇 水手",
+    "id": 42597,
+    "IDcode": "48420",
+    "title": "日奈娇 - 水神小夜 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e8fe65efb70589cff0a39.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -564,20 +564,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8937"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48420"
   },
   {
-    "id": 15347,
-    "IDcode": "8936",
-    "title": "日奈娇 2B奶盖女仆",
+    "id": 42593,
+    "IDcode": "48416",
+    "title": "日奈娇 - 柊舞缇娜JK - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0281fc9b953982888cfbe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -585,20 +585,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8936"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48416"
   },
   {
-    "id": 15346,
-    "IDcode": "8935",
-    "title": "日奈娇 未亡人雪女",
+    "id": 42300,
+    "IDcode": "48123",
+    "title": "日奈娇 - Hanekawa Hasumi - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d91fa404ee4e9ff06a7a5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -606,20 +606,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8935"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48123"
   },
   {
-    "id": 15345,
-    "IDcode": "8934",
-    "title": "日奈娇 原神 娜维娅",
+    "id": 42259,
+    "IDcode": "48082",
+    "title": "日奈娇 - Yuki Onna - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/eb056ff95162842588e3c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -627,20 +627,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8934"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48082"
   },
   {
-    "id": 15344,
-    "IDcode": "8933",
-    "title": "日奈娇 阮梅",
+    "id": 42238,
+    "IDcode": "48061",
+    "title": "日奈娇 - 明日奈女仆 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a0a8e75dee580814de209.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -648,20 +648,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8933"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48061"
   },
   {
-    "id": 15343,
-    "IDcode": "8932",
-    "title": "日奈娇 御币巫女",
+    "id": 42221,
+    "IDcode": "48044",
+    "title": "日奈娇 - 小孤独（完整） - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"和服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/87d6a254b0398f85e6c9b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -669,20 +669,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8932"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48044"
   },
   {
-    "id": 15342,
-    "IDcode": "8931",
-    "title": "日奈娇 猫娘女仆",
+    "id": 40239,
+    "IDcode": "46062",
+    "title": "日奈娇 - 独角兽兵装 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0a3e81501e7f19a47cd9d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -690,20 +690,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8931"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46062"
   },
   {
-    "id": 15341,
-    "IDcode": "8930",
-    "title": "日奈娇 萝莉",
+    "id": 40238,
+    "IDcode": "46061",
+    "title": "日奈娇 - 天狼星泳装 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5e6b5bb522033c7c72abe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -711,20 +711,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8930"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46061"
   },
   {
-    "id": 15339,
-    "IDcode": "8929",
-    "title": "日奈娇 莲见JK",
+    "id": 40189,
+    "IDcode": "46012",
+    "title": "日奈娇 - 95式婚纱 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/05d43d7b8c2c3ba19f26a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -732,20 +732,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8929"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46012"
   },
   {
-    "id": 15338,
-    "IDcode": "8928",
-    "title": "日奈娇 豹女郎",
+    "id": 40188,
+    "IDcode": "46011",
+    "title": "日奈娇 - 恶毒 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/062a0c6dae73295deced3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -753,20 +753,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8928"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46011"
   },
   {
-    "id": 15337,
-    "IDcode": "8927",
-    "title": "日奈娇 芙莉莲",
+    "id": 40173,
+    "IDcode": "45996",
+    "title": "日奈娇 - 麻衣校服 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4af01f6c85738000ec70e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -774,20 +774,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8927"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45996"
   },
   {
-    "id": 15336,
-    "IDcode": "8926",
-    "title": "日奈娇 茶水间",
+    "id": 40110,
+    "IDcode": "45933",
+    "title": "日奈娇 - 蕾姆同人蓝色护士88p - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fbb4b457971a497dc87ea.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -795,41 +795,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8926"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45933"
   },
   {
-    "id": 15335,
-    "IDcode": "8925",
-    "title": "日奈娇– 度假",
+    "id": 39508,
+    "IDcode": "45331",
+    "title": "日奈娇 - 喜多川海梦 花嫁 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7ae53a9d93225d456dba3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8925"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45331"
   },
   {
-    "id": 15334,
-    "IDcode": "8924",
-    "title": "日奈娇 – 诊所护士",
+    "id": 39288,
+    "IDcode": "45111",
+    "title": "日奈娇 - 黄豆粉",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/68a83e569b68021035a98.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -837,20 +842,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8924"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45111"
   },
   {
-    "id": 15333,
-    "IDcode": "8923",
-    "title": "日奈娇 – 小孤独",
+    "id": 38516,
+    "IDcode": "44339",
+    "title": "日奈娇 NO.046 穹妹",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/da3f8f6b147453bec4255.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -858,20 +863,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8923"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44339"
   },
   {
-    "id": 15332,
-    "IDcode": "8922",
-    "title": "日奈娇 – 海伦礼服",
+    "id": 38287,
+    "IDcode": "44110",
+    "title": "日奈娇 下江小春",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -879,62 +884,72 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8922"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44110"
   },
   {
-    "id": 15331,
-    "IDcode": "8921",
-    "title": "日奈娇 碧蓝档案妃咲",
+    "id": 37660,
+    "IDcode": "43483",
+    "title": "日奈娇 - 喜多川海梦 花嫁 76P-497M",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d5fb9eea415d40239f86c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8921"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43483"
   },
   {
-    "id": 15330,
-    "IDcode": "8920",
-    "title": "日奈娇 雪地少女",
+    "id": 37648,
+    "IDcode": "43471",
+    "title": "日奈娇 - 喜多川海梦 - 花嫁(76P478MB)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3912e7ccb8c659694abee.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8920"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43471"
   },
   {
-    "id": 15328,
-    "IDcode": "8919",
-    "title": "日奈娇 伊芙夏娃",
+    "id": 37629,
+    "IDcode": "43452",
+    "title": "日奈娇 - 万圣恶魔皮衣 [66P818M]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/98717d91ece630eca9717.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -942,20 +957,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8919"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43452"
   },
   {
-    "id": 15327,
-    "IDcode": "8918",
-    "title": "日奈娇 皮衣系列 猫猫领域",
+    "id": 37606,
+    "IDcode": "43429",
+    "title": "日奈娇 - 网纱死库水 [171P-1.03GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/49094e531303447b99e10.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -963,41 +978,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8918"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43429"
   },
   {
-    "id": 15326,
-    "IDcode": "8917",
-    "title": "日奈娇 玉藻前舞娘 – 涂油",
+    "id": 37567,
+    "IDcode": "43390",
+    "title": "日奈娇 - NO.54 喜多川海梦女警 [80P-380MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3387a0679e073c182e85f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8917"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43390"
   },
   {
-    "id": 15325,
-    "IDcode": "8916",
-    "title": "日奈娇 喜多川海梦 - 花嫁",
+    "id": 37549,
+    "IDcode": "43372",
+    "title": "日奈娇 - 孟菲斯 [25P255MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3fede6051602885ca1c04.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1005,20 +1025,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8916"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43372"
   },
   {
-    "id": 15324,
-    "IDcode": "8915",
-    "title": "日奈娇 – 豹纹",
+    "id": 37199,
+    "IDcode": "43022",
+    "title": "日奈娇 - 口罩护士 [75P-1.2G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ef94c62963067cef46b83.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1026,20 +1046,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8915"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43022"
   },
   {
-    "id": 15323,
-    "IDcode": "8914",
-    "title": "日奈娇 半乳女仆",
+    "id": 37173,
+    "IDcode": "42996",
+    "title": "日奈娇 - NO.43 穹妹 [191P-2.18GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7c1edadf7c7632fdd62d8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1047,20 +1067,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8914"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42996"
   },
   {
-    "id": 15322,
-    "IDcode": "8913",
-    "title": "日奈娇 g36c 礼服",
+    "id": 37080,
+    "IDcode": "42903",
+    "title": "日奈娇 - 湿身小白裙 [97P-1.06GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/31b24349903653f67a3e9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1068,20 +1088,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8913"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42903"
   },
   {
-    "id": 15321,
-    "IDcode": "8912",
-    "title": "日奈娇 透明女仆",
+    "id": 37014,
+    "IDcode": "42837",
+    "title": "日奈娇 - 下江小春 [149P-1.70GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f51c9e0294ab377117642.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1089,20 +1109,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8912"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42837"
   },
   {
-    "id": 15320,
-    "IDcode": "8911",
-    "title": "日奈娇 猫与兔",
+    "id": 36739,
+    "IDcode": "42562",
+    "title": "日奈娇 - 牛仔裤正片 [71P-1.39GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9088aa9e48a180f240018.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1110,20 +1130,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8911"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42562"
   },
   {
-    "id": 15319,
-    "IDcode": "8910",
-    "title": "日奈娇 白旗袍",
+    "id": 36615,
+    "IDcode": "42438",
+    "title": "日奈娇 牛仔裤 正片 [71P-1.39GB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f477ac319dfd789b3f0bc.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1131,209 +1151,254 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8910"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42438"
   },
   {
-    "id": 15317,
-    "IDcode": "8909",
-    "title": "日奈娇 和风jk",
+    "id": 36348,
+    "IDcode": "42169",
+    "title": "日奈娇 Hina Jiao - Daisen (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/746381cc7970b624baee1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8909"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42169"
   },
   {
-    "id": 15316,
-    "IDcode": "8908",
-    "title": "日奈娇 - 黑色礼服",
+    "id": 36309,
+    "IDcode": "42129",
+    "title": "日奈娇 Hina Jiao - Yoga exercise",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b4cf1d243200287489244.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8908"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42129"
   },
   {
-    "id": 15315,
-    "IDcode": "8907",
-    "title": "日奈娇 - 情趣服",
+    "id": 36182,
+    "IDcode": "42001",
+    "title": "日奈娇 Hina Jiao - Hitori Gotoh (Bocchi The Rock)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"内衣\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/86f6b20629b555495afd7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8907"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42001"
   },
   {
-    "id": 15314,
-    "IDcode": "8906",
-    "title": "日奈娇 - 高雄獒红+白旗袍",
+    "id": 36090,
+    "IDcode": "41909",
+    "title": "日奈娇 Hina Jiao - Nurse",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0ae4b7f0325c0cbc0ae7e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8906"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41909"
   },
   {
-    "id": 15313,
-    "IDcode": "8905",
-    "title": "日奈娇 - 蕾姆兔女郎",
+    "id": 36089,
+    "IDcode": "41908",
+    "title": "日奈娇 Hina Jiao - Azuma (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\", \"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bb17f9785a0737e38f625.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8905"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41908"
   },
   {
-    "id": 15312,
-    "IDcode": "8904",
-    "title": "日奈娇 -  蕾姆 白裙",
+    "id": 35715,
+    "IDcode": "41530",
+    "title": "日奈娇 Hina Jiao - 麦乐送 McDelivery",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d3a278f66e7271c4ca24f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8904"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41530"
   },
   {
-    "id": 15311,
-    "IDcode": "8903",
-    "title": "日奈娇 - 英梨梨&七三",
+    "id": 35527,
+    "IDcode": "41340",
+    "title": "日奈娇 Hinajiao - Mifuyu Yukino (Hitozukiai ga Nigate na Miboujin no Yukionnasanto Noroi no Yubiwa)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cd87c9b9744e1e28430c0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8903"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41340"
   },
   {
-    "id": 15310,
-    "IDcode": "8902",
-    "title": "日奈娇 - 蕾姆圣诞",
+    "id": 35504,
+    "IDcode": "41317",
+    "title": "Hina Jiao 日奈娇 - Frieren (Sousou No Frieren)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6f76a919c8863c5edfbb0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8902"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41317"
   },
   {
-    "id": 15309,
-    "IDcode": "8901",
-    "title": "日奈娇 - 吾妻旗袍",
+    "id": 34553,
+    "IDcode": "40347",
+    "title": "日奈娇 Hina Jiao [樱井小莜] - 神通",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e3e67454627a770985000.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8901"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40347"
   },
   {
-    "id": 15308,
-    "IDcode": "8900",
-    "title": "日奈娇 - 光辉旗袍",
+    "id": 34448,
+    "IDcode": "40240",
+    "title": "日奈娇 - Nurse Rem (Re Zero)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/60be2925035f66589291b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1341,41 +1406,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8900"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40240"
   },
   {
-    "id": 15305,
-    "IDcode": "8899",
-    "title": "日奈娇 -  绫波  新春旗袍",
+    "id": 34100,
+    "IDcode": "39887",
+    "title": "日奈娇 - 喜多川海梦女警 Kitagawa Marin (Sono Bisque Doll Wa Koi Wo Suru)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/00893be1bd8b3ed6baa98.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8899"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39887"
   },
   {
-    "id": 15304,
-    "IDcode": "8898",
-    "title": "日奈娇 - 酒吞童子 兔女郎",
+    "id": 34051,
+    "IDcode": "39836",
+    "title": "日奈娇 - Kitagawa Marin (Sono Bisque Doll Wa Koi Wo Suru)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e1b7da10c928cb7e4f56e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1383,20 +1453,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8898"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39836"
   },
   {
-    "id": 15303,
-    "IDcode": "8897",
-    "title": "日奈娇 - 少女前线",
+    "id": 32914,
+    "IDcode": "38675",
+    "title": "日奈娇 - Type 95式婚纱 (Girls Frontline)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ab84b527367f2b7a60683.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1404,20 +1474,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8897"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38675"
   },
   {
-    "id": 15302,
-    "IDcode": "8896",
-    "title": "日奈娇 - 楪祈 罪恶王冠",
+    "id": 32851,
+    "IDcode": "38612",
+    "title": "日奈娇 - Sirius Swimsui (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ecf1ef34b012d825d68ae.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1425,20 +1495,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8896"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38612"
   },
   {
-    "id": 15301,
-    "IDcode": "8895",
-    "title": "日奈娇 - 柴郡猫泳装",
+    "id": 32842,
+    "IDcode": "38603",
+    "title": "日奈娇 - Unicorn (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b4221eb09f58a99f3c416.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1446,20 +1516,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8895"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38603"
   },
   {
-    "id": 15300,
-    "IDcode": "8894",
-    "title": "日奈娇 - 库巴姬+尼禄变装",
+    "id": 31931,
+    "IDcode": "37684",
+    "title": "Cosplay Rinaijiao日奈娇 实习女警 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/72448e0b8118faa5cd4cb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1467,20 +1537,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8894"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37684"
   },
   {
-    "id": 15299,
-    "IDcode": "8893",
-    "title": "日奈娇 - 灶门祢豆子",
+    "id": 31919,
+    "IDcode": "37672",
+    "title": "Cosplay Rinaijiao日奈娇 邻家太太 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/09e74764aaeb595ca6c8f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1488,20 +1558,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8893"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37672"
   },
   {
-    "id": 15298,
-    "IDcode": "8892",
-    "title": "日奈娇 - 圣诞节",
+    "id": 31896,
+    "IDcode": "37649",
+    "title": "Cosplay Rinaijiao日奈娇 与学姐约会 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d42fe3fe9e633b66eae49.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1509,20 +1579,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8892"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37649"
   },
   {
-    "id": 15297,
-    "IDcode": "8891",
-    "title": "日奈娇 - 八重樱",
+    "id": 31762,
+    "IDcode": "37515",
+    "title": "Cosplay 日奈娇 神通 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/054b3107e87a8582d0356.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1530,20 +1600,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8891"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37515"
   },
   {
-    "id": 15296,
-    "IDcode": "8890",
-    "title": "日奈娇 - 杨贵妃",
+    "id": 31727,
+    "IDcode": "37480",
+    "title": "Cosplay Rinaijiao日奈娇 放学后 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f9088151915312c5e5750.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1551,20 +1621,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8890"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37480"
   },
   {
-    "id": 15294,
-    "IDcode": "8889",
-    "title": "日奈娇 - 让巴尔",
+    "id": 31722,
+    "IDcode": "37475",
+    "title": "Cosplay Rinaijiao日奈娇 玉藻前舞娘 涂油 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ef6146d55ccf7e3785599.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1572,20 +1642,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8889"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37475"
   },
   {
-    "id": 15293,
-    "IDcode": "8888",
-    "title": "日奈娇 - 蕾姆 毛衣+爱丽丝",
+    "id": 31721,
+    "IDcode": "37474",
+    "title": "Cosplay Rinaijiao日奈娇 山野间 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c075aaa465763b3c1d468.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1593,20 +1663,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8888"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37474"
   },
   {
-    "id": 15292,
-    "IDcode": "8887",
-    "title": "日奈娇 - 玛修+马戏团+女仆",
+    "id": 31716,
+    "IDcode": "37469",
+    "title": "Cosplay Rinaijiao日奈娇 飞鸟马时女警 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b6ea974c5985f1b2f9ae1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1614,20 +1684,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8887"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37469"
   },
   {
-    "id": 15291,
-    "IDcode": "8886",
-    "title": "日奈娇 - 黑丝紧束",
+    "id": 31689,
+    "IDcode": "37442",
+    "title": "Cosplay Rinaijiao日奈娇 猫娘女仆 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4ea8bdd2766c5b19dc503.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1635,20 +1705,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8886"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37442"
   },
   {
-    "id": 15290,
-    "IDcode": "8885",
-    "title": "日奈娇 - 纯白护士",
+    "id": 31662,
+    "IDcode": "37415",
+    "title": "Cosplay Rinaijiao日奈娇 春庭晚 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/367b98c77936f7b53ee6c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1656,20 +1726,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8885"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37415"
   },
   {
-    "id": 15289,
-    "IDcode": "8884",
-    "title": "日奈娇 - 围裙人妻",
+    "id": 31661,
+    "IDcode": "37414",
+    "title": "Cosplay Rinaijiao日奈娇 礼物",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/eb87e7d362ef9c08acf56.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1677,20 +1747,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8884"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37414"
   },
   {
-    "id": 15288,
-    "IDcode": "8883",
-    "title": "日奈娇 - 制服死库水",
+    "id": 31629,
+    "IDcode": "37382",
+    "title": "Cosplay Rinaijiao日奈娇 碧蓝航线 可畏巫女",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b3b6b13f559183c5973f6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1698,41 +1768,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8883"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37382"
   },
   {
-    "id": 15287,
-    "IDcode": "8882",
-    "title": "日奈娇 - 大凤自拍",
+    "id": 31609,
+    "IDcode": "37362",
+    "title": "Cosplay 日奈娇 喜多川海梦女警",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ed05cdd55783121ad3e4d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
         "img_url": "https://image.acg.lol/file/2025/02/23/1-102.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8882"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37362"
   },
   {
-    "id": 15286,
-    "IDcode": "8881",
-    "title": "日奈娇 - 玉藻前 阿拉伯舞娘",
+    "id": 31596,
+    "IDcode": "37349",
+    "title": "Cosplay Rinaijiao日奈娇 波斯猫 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/07aea7b9685ffb321acd3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1740,20 +1815,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8881"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37349"
   },
   {
-    "id": 15285,
-    "IDcode": "8880",
-    "title": "日奈娇 - 束缚魅魔",
+    "id": 31566,
+    "IDcode": "37319",
+    "title": "Cosplay Rinaijiao日奈娇 波斯猫 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7663261bbe95b6b78883e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1761,20 +1836,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8880"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37319"
   },
   {
-    "id": 15283,
-    "IDcode": "8879",
-    "title": "日奈娇 - 独角兽兵装",
+    "id": 31561,
+    "IDcode": "37314",
+    "title": "Cosplay Rinaijiao日奈娇 茶水间 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/92624694b6d666e9521a1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1782,20 +1857,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8879"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37314"
   },
   {
-    "id": 15282,
-    "IDcode": "8878",
-    "title": "日奈娇 - 兔兔卫衣",
+    "id": 31531,
+    "IDcode": "37284",
+    "title": "Cosplay Rinaijiao日奈娇 葬送的芙莉莲 费伦 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/248e971954ee20bce9f67.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1803,20 +1878,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8878"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37284"
   },
   {
-    "id": 15281,
-    "IDcode": "8877",
-    "title": "日奈娇 - 95式婚纱",
+    "id": 31394,
+    "IDcode": "37147",
+    "title": "Cosplay Rinaijiao日奈娇 实习女警 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/de2ab06d0c7a68d21bc81.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1824,20 +1899,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8877"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37147"
   },
   {
-    "id": 15280,
-    "IDcode": "8876",
-    "title": "VOL.457 日奈娇 妹妹的白色毛衣",
+    "id": 31382,
+    "IDcode": "37135",
+    "title": "Cosplay Rinaijiao日奈娇 原神 琳妮特",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/644cd8d34419df12a3ee3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1845,20 +1920,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8876"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37135"
   },
   {
-    "id": 15279,
-    "IDcode": "8875",
-    "title": "VOL.450 日奈娇 一袭红裙 套图",
+    "id": 31374,
+    "IDcode": "37127",
+    "title": "Cosplay Rinaijiao日奈娇 原神 娜维娅",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ac90ca0fbd9c964b9dd37.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1866,20 +1941,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8875"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37127"
   },
   {
-    "id": 15278,
-    "IDcode": "8874",
-    "title": "VOL.449 日奈娇 雷姆蓝发 套图",
+    "id": 31368,
+    "IDcode": "37121",
+    "title": "Cosplay Rinaijiao日奈娇 Instructor Set.03",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bb5125f77453bed1daf72.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1887,20 +1962,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8874"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37121"
   },
   {
-    "id": 15277,
-    "IDcode": "8873",
-    "title": "VOL.448 日奈娇 高雄旗袍 套图",
+    "id": 31346,
+    "IDcode": "37099",
+    "title": "Cosplay Rinaijiao日奈娇 白色花嫁",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/94135f29fdcd553d52382.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1908,20 +1983,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8873"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37099"
   },
   {
-    "id": 15276,
-    "IDcode": "8872",
-    "title": "VOL.200 日奈娇 黑猫与白兔",
+    "id": 31252,
+    "IDcode": "37005",
+    "title": "Cosplay Rinaijiao日奈娇 麦乐送 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1d0b336fa95eb7780d1a9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1929,20 +2004,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8872"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37005"
   },
   {
-    "id": 15275,
-    "IDcode": "8871",
-    "title": "VOL.194 日奈娇 胶衣女仆",
+    "id": 31230,
+    "IDcode": "36983",
+    "title": "Cosplay Rinaijiao日奈娇 白纱衣 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d8f52abf766ba2bd05d45.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1950,20 +2025,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8871"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36983"
   },
   {
-    "id": 15274,
-    "IDcode": "8870",
-    "title": "HML.008 日奈娇 旗袍艾米莉亚",
+    "id": 31199,
+    "IDcode": "36952",
+    "title": "Cosplay Rinaijiao日奈娇 雅儿贝德 礼服+钻石",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8c4929b81516380ce7c26.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1971,20 +2046,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8870"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36952"
   },
   {
-    "id": 15272,
-    "IDcode": "8869",
-    "title": "VOL.129  日奈娇《酒吞女仆》",
+    "id": 31166,
+    "IDcode": "36919",
+    "title": "Cosplay Rinaijiao日奈娇 碧蓝航线 大潮旗袍",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4a42c66055b1243e0f1e9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -1992,20 +2067,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8869"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36919"
   },
   {
-    "id": 15271,
-    "IDcode": "8868",
-    "title": "VOL.128  日奈娇《私房双人猫耳》",
+    "id": 31124,
+    "IDcode": "36877",
+    "title": "Cosplay Rinaijiao日奈娇 奶娇日常 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c6d381adbd605e36d8ad0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -2013,20 +2088,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8868"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36877"
   },
   {
-    "id": 15270,
-    "IDcode": "8867",
-    "title": "VOL.125  日奈娇《棕色透明女仆》",
+    "id": 31108,
+    "IDcode": "36861",
+    "title": "Cosplay Rinaijiao日奈娇 修女 Set.01",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1d136593da61a2a501a06.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -2034,20 +2109,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8867"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36861"
   },
   {
-    "id": 15269,
-    "IDcode": "8866",
-    "title": "VOL.123  日奈娇《花嫁cos》",
+    "id": 31055,
+    "IDcode": "36808",
+    "title": "Cosplay Rinaijiao日奈娇 未亡人雪女 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2e51ec2f94544a93e5913.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -2055,20 +2130,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8866"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36808"
   },
   {
-    "id": 15268,
-    "IDcode": "8865",
-    "title": "VOL.122  日奈娇《蓝色女仆》",
+    "id": 31016,
+    "IDcode": "36769",
+    "title": "Cosplay Rinaijiao日奈娇 小狐狸巫女",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/33892fde23735a8b7772d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -2076,20 +2151,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8865"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36769"
   },
   {
-    "id": 15267,
-    "IDcode": "8864",
-    "title": "VOL.039 日奈娇 和风少女",
+    "id": 30985,
+    "IDcode": "36738",
+    "title": "Cosplay Rinaijiao日奈娇 葬送的芙莉莲 费伦 Set.02",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f4488d8fa22953b733781.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "日奈娇",
@@ -2097,6 +2172,6 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_日奈娇.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=8864"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36738"
   }
 ];

@@ -16,6 +16,11 @@ window.PAGE_DATA = [
         "name": "初音酱",
         "img_url": "https://telegra.ph/file/1ebb1fc18d24acd2ec8f2.png",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_初音酱.html"
+      },
+      {
+        "name": "三无皮卡喵",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三无皮卡喵.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=3783"

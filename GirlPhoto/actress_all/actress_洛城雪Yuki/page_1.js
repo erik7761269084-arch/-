@@ -34,6 +34,11 @@ window.PAGE_DATA = [
     "cover_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
     "actress": [
       {
+        "name": "麻花酱",
+        "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_麻花酱.html"
+      },
+      {
         "name": "洛城雪Yuki",
         "img_url": "https://image.acg.lol/file/2025/06/29/01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_洛城雪Yuki.html"

@@ -1,5 +1,26 @@
 window.PAGE_DATA = [
   {
+    "id": 18257,
+    "IDcode": "24009",
+    "title": "刺青Poi&隼隼子 - 碧蓝航线 北卡罗来纳+华盛顿 兔女郎",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "隼隼子",
+        "img_url": "https://telegra.ph/file/57bb61e4b05ef8473b860.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_隼隼子.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24009"
+  },
+  {
     "id": 16300,
     "IDcode": "9795",
     "title": "隼隼子 灰烬战线 FW-190A [53P-443MB]",

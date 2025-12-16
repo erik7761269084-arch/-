@@ -1,5 +1,451 @@
 window.PAGE_DATA = [
   {
+    "id": 37324,
+    "IDcode": "43147",
+    "title": "啊日日_Ganlory - 放课后风纪",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43147"
+  },
+  {
+    "id": 37164,
+    "IDcode": "42987",
+    "title": "啊日日_Ganlory NO.017 肉色糜烂 [49P 185M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42987"
+  },
+  {
+    "id": 37099,
+    "IDcode": "42922",
+    "title": "啊日日_Ganlory - 肉色糜烂 [49P185M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42922"
+  },
+  {
+    "id": 36778,
+    "IDcode": "42601",
+    "title": "啊日日_Ganlory Vol.010 苦修女 [50P-421MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42601"
+  },
+  {
+    "id": 29454,
+    "IDcode": "35207",
+    "title": "Ganlory 啊日日 Cosplay 春日ツバキ Kasuga Tsubaki",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35207"
+  },
+  {
+    "id": 27794,
+    "IDcode": "33546",
+    "title": "Cosplay 啊日日_Ganlory 忍者喵喵",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33546"
+  },
+  {
+    "id": 27085,
+    "IDcode": "32837",
+    "title": "[啊日日_Ganlory] 圣路易斯 St. louis (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32837"
+  },
+  {
+    "id": 25597,
+    "IDcode": "31349",
+    "title": "[啊日日_Ganlory] 绳与巫女",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31349"
+  },
+  {
+    "id": 25349,
+    "IDcode": "31101",
+    "title": "Ganlory 啊日日 Cosplay 絮库夫泳装",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31101"
+  },
+  {
+    "id": 25224,
+    "IDcode": "30976",
+    "title": "[啊日日_Ganlory] 信浓 Shinano (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=30976"
+  },
+  {
+    "id": 18608,
+    "IDcode": "24360",
+    "title": "啊日日_Ganlory 放课后风纪",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24360"
+  },
+  {
+    "id": 18607,
+    "IDcode": "24359",
+    "title": "啊日日_Ganlory - 小红帽与狼 [57P-261MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24359"
+  },
+  {
+    "id": 18606,
+    "IDcode": "24358",
+    "title": "啊日日_Ganlory - NO.11 小僵尸 [20P3V-65MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24358"
+  },
+  {
+    "id": 18605,
+    "IDcode": "24357",
+    "title": "啊日日_Ganlory - 圣诞兔 [45P-342MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24357"
+  },
+  {
+    "id": 18604,
+    "IDcode": "24356",
+    "title": "啊日日 – 小红帽与狼 [57P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24356"
+  },
+  {
+    "id": 18603,
+    "IDcode": "24355",
+    "title": "啊日日 - 放课后少女 [51P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24355"
+  },
+  {
+    "id": 18602,
+    "IDcode": "24354",
+    "title": "啊日日 - 肉色糜烂 [57P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24354"
+  },
+  {
+    "id": 18601,
+    "IDcode": "24353",
+    "title": "啊日日 - 椿 [30P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24353"
+  },
+  {
+    "id": 18600,
+    "IDcode": "24352",
+    "title": "啊日日 - 苦修女[50P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24352"
+  },
+  {
+    "id": 18599,
+    "IDcode": "24351",
+    "title": "[Cos]啊日日- 绳与巫女 [35P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24351"
+  },
+  {
+    "id": 18598,
+    "IDcode": "24350",
+    "title": "[Cos]啊日日 - 吊挂式后辈[27P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "啊日日_Ganlory",
+        "img_url": "https://telegra.ph/file/8dbcae50f249ea597efb8.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_啊日日_Ganlory.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24350"
+  },
+  {
     "id": 8845,
     "IDcode": "3080",
     "title": "啊日日_Ganlory - 圣路易斯",

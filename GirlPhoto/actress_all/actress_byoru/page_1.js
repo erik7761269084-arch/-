@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 10255,
-    "IDcode": "434",
-    "title": "Byoru - Queen Marika玛丽卡女王 艾尔登法环",
+    "id": 45459,
+    "IDcode": "51283",
+    "title": "Byoru - Eclipse Dream Bride - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/899615cc7ee64ff8a87c5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=434"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51283"
   },
   {
-    "id": 10244,
-    "IDcode": "433",
-    "title": "Byoru - Genshin Impact Arlecchino Dress",
+    "id": 45441,
+    "IDcode": "51265",
+    "title": "Byoru - Raikou Jiangshi - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a5758249d14b2fad486ce.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=433"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51265"
   },
   {
-    "id": 10233,
-    "IDcode": "432",
-    "title": "Byoru Helm Chanderlier NIKKE",
+    "id": 45438,
+    "IDcode": "51262",
+    "title": "Byoru - Hanako - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/84334125f01e3865a6311.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -60,41 +60,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=432"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51262"
   },
   {
-    "id": 10222,
-    "IDcode": "431",
-    "title": "Byoru - Honkai Star Rail Acheron",
+    "id": 45383,
+    "IDcode": "51207",
+    "title": "Byoru - Nagisa DOA Venus Vacation - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/127f246d07f92ea9201fa.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=431"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51207"
   },
   {
-    "id": 10211,
-    "IDcode": "430",
-    "title": "Byoru - Rebecca ✧Cyperpunk Edgrunners✧",
+    "id": 45382,
+    "IDcode": "51206",
+    "title": "Byoru - Shizuka Mikazuki - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/57a2f325709188201b0db.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -102,20 +107,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=430"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51206"
   },
   {
-    "id": 10199,
-    "IDcode": "429",
-    "title": "Byoru - Anubis/Bastet",
+    "id": 45373,
+    "IDcode": "51197",
+    "title": "Byoru-Bay Radiant Rabbit - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bf72db407be42eec85e95.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -123,20 +128,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=429"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51197"
   },
   {
-    "id": 10188,
-    "IDcode": "428",
-    "title": "byoru - Navia",
+    "id": 45348,
+    "IDcode": "51172",
+    "title": "Byoru - Baiser - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/101543f328d82176301c7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -144,20 +149,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=428"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51172"
   },
   {
-    "id": 10177,
-    "IDcode": "427",
-    "title": "Byoru - Pekomama Hololive",
+    "id": 45332,
+    "IDcode": "51156",
+    "title": "Byoru-Fleurdelys - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a0ccb090057dbc0dd5acf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -165,20 +170,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=427"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51156"
   },
   {
-    "id": 10166,
-    "IDcode": "426",
-    "title": "Byoru - Shiori Novella Hololive",
+    "id": 45307,
+    "IDcode": "51131",
+    "title": "Byoru-Red hood - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/89b80f3eb3a441dcf2d45.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -186,20 +191,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=426"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51131"
   },
   {
-    "id": 10155,
-    "IDcode": "425",
-    "title": "byoru - Kurumi",
+    "id": 45253,
+    "IDcode": "51077",
+    "title": "Byoru-Cantarella - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/96ec26f29824bc18c3373.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -207,20 +212,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=425"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51077"
   },
   {
-    "id": 10144,
-    "IDcode": "424",
-    "title": "Byoru HMS Implacable",
+    "id": 45215,
+    "IDcode": "51039",
+    "title": "Byoru - The Fourth Síster - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dbc1f7777f22045dd4075.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -228,20 +233,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=424"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51039"
   },
   {
-    "id": 10133,
-    "IDcode": "423",
-    "title": "Byoru Rio",
+    "id": 45193,
+    "IDcode": "51017",
+    "title": "Byoru Wednesday - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8e0b99e4b8563cabdf06b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -249,20 +254,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=423"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51017"
   },
   {
-    "id": 10122,
-    "IDcode": "422",
-    "title": "byoru Kisaki",
+    "id": 45139,
+    "IDcode": "50963",
+    "title": "Byoru - Karin - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9bc43926a9515e4593b4d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -270,20 +275,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=422"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50963"
   },
   {
-    "id": 10111,
-    "IDcode": "421",
-    "title": "Byoru - 原神 申鹤",
+    "id": 45077,
+    "IDcode": "50901",
+    "title": "Byoru-Mast - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/251444dc17a027a165ebf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -291,20 +296,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=421"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50901"
   },
   {
-    "id": 10100,
-    "IDcode": "420",
-    "title": "Byoru - Pai Mei",
+    "id": 44968,
+    "IDcode": "50792",
+    "title": "Byoru – Brazilian Miku - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c6995323f08912204b1df.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -312,20 +317,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=420"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50792"
   },
   {
-    "id": 10088,
-    "IDcode": "419",
-    "title": "Byoru - Bunny Maid",
+    "id": 44942,
+    "IDcode": "50766",
+    "title": "Byoru - Leifang Autumn Festival Mooncake - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ff85493ca45c66388dc18.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -333,20 +338,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=419"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50766"
   },
   {
-    "id": 10077,
-    "IDcode": "418",
-    "title": "Byoru – Shirogane Noel (Hololive)",
+    "id": 44909,
+    "IDcode": "50733",
+    "title": "Byoru-Satsuki Kiryuin - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/60ab2eccd693c779723ed.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -354,20 +359,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=418"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50733"
   },
   {
-    "id": 10066,
-    "IDcode": "417",
-    "title": "Byoru -  原神 甘雨",
+    "id": 44876,
+    "IDcode": "50700",
+    "title": "Byoru - Mihara Bonding Chain - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fcfc9ab1964171da57212.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -375,20 +380,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=417"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50700"
   },
   {
-    "id": 10055,
-    "IDcode": "416",
-    "title": "Byoru-Ahri bikini",
+    "id": 44842,
+    "IDcode": "50666",
+    "title": "Byoru-Rias Gremory - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7f8731ede7dc763713c16.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -396,20 +401,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=416"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50666"
   },
   {
-    "id": 10044,
-    "IDcode": "415",
-    "title": "Byoru - 吉他妹妹",
+    "id": 44722,
+    "IDcode": "50546",
+    "title": "Byoru - Eve Xmas (Stellar Blade) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/79219b03db1c9d35fea5e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -417,20 +422,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=415"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50546"
   },
   {
-    "id": 10033,
-    "IDcode": "414",
-    "title": "Byoru - Rangiku Matsumoto",
+    "id": 44678,
+    "IDcode": "50502",
+    "title": "Byoru - Burnice - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8dda418c2c560b4b6bb40.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -438,41 +443,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=414"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50502"
   },
   {
-    "id": 10022,
-    "IDcode": "413",
-    "title": "Byoru - Nyotengu",
+    "id": 44645,
+    "IDcode": "50469",
+    "title": "Byoru & Hana Bunny - Fern and Frieren Sousou no Frieren - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e98009e6a8e3c045cb2aa.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Hana Bunny",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hana Bunny.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=413"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50469"
   },
   {
-    "id": 10011,
-    "IDcode": "412",
-    "title": "Byoru - Mikasa",
+    "id": 44592,
+    "IDcode": "50416",
+    "title": "Byoru-Mai Cowgirl - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f6a9cf9a11940d19b2de8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -480,20 +490,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=412"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50416"
   },
   {
-    "id": 10000,
-    "IDcode": "411",
-    "title": "Byoru - Lucy",
+    "id": 44590,
+    "IDcode": "50414",
+    "title": "Byoru - Tifa Black Shiny Suit (FF7) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7c78736db4097d2e00f69.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -501,20 +511,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=411"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50414"
   },
   {
-    "id": 9989,
-    "IDcode": "410",
-    "title": "Byoru - Liliel",
+    "id": 44589,
+    "IDcode": "50413",
+    "title": "Byoru - Mai Shiranui Black Outfit (Street Fighter) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/436bdcfb576be7242f4e0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -522,20 +532,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=410"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50413"
   },
   {
-    "id": 9977,
-    "IDcode": "409",
-    "title": "Byoru - Jeanne D'Arc",
+    "id": 44587,
+    "IDcode": "50411",
+    "title": "Byoru-Celestine - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/89d4ef24d06449a177c0d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -543,20 +553,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=409"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50411"
   },
   {
-    "id": 9966,
-    "IDcode": "408",
-    "title": "Byoru - Helm",
+    "id": 44574,
+    "IDcode": "50398",
+    "title": "Byoru-Dehya - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/76dfb937067b181000b80.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -564,20 +574,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=408"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50398"
   },
   {
-    "id": 9955,
-    "IDcode": "407",
-    "title": "Byoru - Yoko Littner",
+    "id": 44555,
+    "IDcode": "50379",
+    "title": "Byoru - Olga - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e6283ec1483a10fd8f4a7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -585,20 +595,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=407"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50379"
   },
   {
-    "id": 9944,
-    "IDcode": "406",
-    "title": "Byoru - Mitsuri",
+    "id": 44472,
+    "IDcode": "50296",
+    "title": "Byoru-Ghislaine - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cfc7410334a41dcabe1e3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -606,20 +616,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=406"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50296"
   },
   {
-    "id": 9933,
-    "IDcode": "405",
-    "title": "Byoru - Power ringfit",
+    "id": 44453,
+    "IDcode": "50277",
+    "title": "Byoru-Acheron - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4da10c0b2ec5dfadb657e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -627,41 +637,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=405"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50277"
   },
   {
-    "id": 9922,
-    "IDcode": "404",
-    "title": "Byoru - Jalter Dangerous Beast",
+    "id": 44443,
+    "IDcode": "50267",
+    "title": "Byoru – Mavuika (Genshin Impact) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4ab3f3f224c3a25fcb41b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Genshin Impact",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Genshin Impact.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=404"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50267"
   },
   {
-    "id": 9911,
-    "IDcode": "403",
-    "title": "Byoru - Lucy",
+    "id": 44424,
+    "IDcode": "50248",
+    "title": "Byoru - Eve 2B - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/92a2a5b5b9be80e3a5313.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -669,20 +684,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=403"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50248"
   },
   {
-    "id": 9900,
-    "IDcode": "402",
-    "title": "Byoru - Marin Red",
+    "id": 44423,
+    "IDcode": "50247",
+    "title": "Byoru - Mita - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1aaf017de8e88a720d60c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -690,20 +705,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=402"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50247"
   },
   {
-    "id": 9889,
-    "IDcode": "401",
-    "title": "Byoru - Guitar sister",
+    "id": 44422,
+    "IDcode": "50246",
+    "title": "Byoru - Mogador - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f29a4202c04a6fb9836f5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -711,20 +726,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=401"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50246"
   },
   {
-    "id": 9878,
-    "IDcode": "400",
-    "title": "Byoru - Hinata Akatsuki",
+    "id": 44384,
+    "IDcode": "50208",
+    "title": "Byoru - Nyotengu Martini (Dead or Alive) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9d004111ba75808c2ccc9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -732,20 +747,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=400"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50208"
   },
   {
-    "id": 9865,
-    "IDcode": "399",
-    "title": "Byoru - Jackal (NIKKE)",
+    "id": 44377,
+    "IDcode": "50201",
+    "title": "byoru- Jinx - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a72104003161243e5dd0c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -753,20 +768,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=399"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50201"
   },
   {
-    "id": 9854,
-    "IDcode": "398",
-    "title": "Byoru - Dehya",
+    "id": 44361,
+    "IDcode": "50185",
+    "title": "Byoru-Yoruichi - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/66edee6eed2fdc08a4a82.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -774,41 +789,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=398"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50185"
   },
   {
-    "id": 9843,
-    "IDcode": "397",
-    "title": "Byoru - Cammy",
+    "id": 44314,
+    "IDcode": "50138",
+    "title": "Byoru-Yumeko Jabami - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c80fdd1850ec9a84fcfaf.jpg",
+    "cover_url": null,
     "actress": [
       {
+        "name": "Umeko J March",
+        "img_url": "https://telegra.ph/file/3dc82f8682fd831087b5a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Umeko J March.html"
+      },
+      {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=397"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50138"
   },
   {
-    "id": 9832,
-    "IDcode": "396",
-    "title": "Byoru - Cammy White",
+    "id": 44269,
+    "IDcode": "50093",
+    "title": "Byoru - Maiden Ice Rose - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/029e5001705d39f42f241.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -816,20 +836,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=396"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50093"
   },
   {
-    "id": 9821,
-    "IDcode": "395",
-    "title": "Byoru - Alice",
+    "id": 43987,
+    "IDcode": "49811",
+    "title": "Byoru - Vermeil - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2a56976f84ee9bd3f1d92.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -837,20 +857,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=395"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49811"
   },
   {
-    "id": 9810,
-    "IDcode": "394",
-    "title": "Byoru - Barbie",
+    "id": 43883,
+    "IDcode": "49707",
+    "title": "Byoru-Cinderella - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0185fb0ac9c160a4b99cf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -858,20 +878,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=394"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49707"
   },
   {
-    "id": 9799,
-    "IDcode": "393",
-    "title": "Byoru - Ada Wong RE4 remake",
+    "id": 43636,
+    "IDcode": "49459",
+    "title": "Byoru – Momo Ayase (Dandadan) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d36992f927e3ab6aab992.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -879,20 +899,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=393"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49459"
   },
   {
-    "id": 9788,
-    "IDcode": "392",
-    "title": "Byoru - 地狱乐",
+    "id": 43476,
+    "IDcode": "49299",
+    "title": "Byoru - Helm Chandelier ✧NIKKE✧ - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0d2ed0b7730adfb82beda.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -900,20 +920,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=392"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49299"
   },
   {
-    "id": 9777,
-    "IDcode": "391",
-    "title": "Byoru - Yor Forger Red",
+    "id": 43464,
+    "IDcode": "49287",
+    "title": "Byoru-Arlecchino dress - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7af089e76b457c8cacdaf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -921,20 +941,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=391"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49287"
   },
   {
-    "id": 9766,
-    "IDcode": "390",
-    "title": "Byoru - Yoko",
+    "id": 43459,
+    "IDcode": "49282",
+    "title": "Byoru - 原神 「仆人」阿蕾奇诺 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5af58ccfefdf7413c22c5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -942,20 +962,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=390"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49282"
   },
   {
-    "id": 9754,
-    "IDcode": "389",
-    "title": "Byoru - Wednesday",
+    "id": 43404,
+    "IDcode": "49227",
+    "title": "Byoru-Marika - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0aabfa4fe6e74cdb6799f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -963,20 +983,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=389"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49227"
   },
   {
-    "id": 9743,
-    "IDcode": "388",
-    "title": "Byoru - Viper",
+    "id": 43391,
+    "IDcode": "49214",
+    "title": "Byoru-Bay - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d0125090a91bf1d00a912.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -984,20 +1004,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=388"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49214"
   },
   {
-    "id": 9732,
-    "IDcode": "387",
-    "title": "Byoru - Vermeil in Gold",
+    "id": 43329,
+    "IDcode": "49152",
+    "title": "Byoru - Yelan Transparent Bunny Suit - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/67bf691f459ba93a4ed9a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1005,20 +1025,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=387"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49152"
   },
   {
-    "id": 9721,
-    "IDcode": "386",
-    "title": "Byoru - Rupee",
+    "id": 43309,
+    "IDcode": "49132",
+    "title": "Byoru - Nicole Demara - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d8286ab5fc37b81149b9e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1026,20 +1046,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=386"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49132"
   },
   {
-    "id": 9710,
-    "IDcode": "385",
-    "title": "Byoru - Rapi (NIKKE)",
+    "id": 43307,
+    "IDcode": "49130",
+    "title": "Byoru-Mary Bunny - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/daf50356c02df5d620223.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1047,20 +1067,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=385"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49130"
   },
   {
-    "id": 9699,
-    "IDcode": "384",
-    "title": "Byoru - Inori Yuzuriha",
+    "id": 43306,
+    "IDcode": "49129",
+    "title": "Byoru - Aphrodite【Record of Ragnarok】 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f14740ce4488c0f826334.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1068,20 +1088,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=384"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49129"
   },
   {
-    "id": 9688,
-    "IDcode": "383",
-    "title": "Byoru - Bocchi the rock",
+    "id": 43305,
+    "IDcode": "49128",
+    "title": "Byoru - Albedo - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/44a7fc36033298798eceb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1089,20 +1109,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=383"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49128"
   },
   {
-    "id": 9677,
-    "IDcode": "382",
-    "title": "Byoru - Himeno",
+    "id": 43302,
+    "IDcode": "49125",
+    "title": "Byoru-Sakura summer - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/22392d6335ba3d1040f71.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1110,41 +1130,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=382"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49125"
   },
   {
-    "id": 9666,
-    "IDcode": "381",
-    "title": "Byoru - Inori",
+    "id": 43301,
+    "IDcode": "49124",
+    "title": "Byoru - Yae Miko x Raiden Shogun【Genshin Impact】 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/816c6ce028b1bc15ff253.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Genshin Impact",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Genshin Impact.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=381"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49124"
   },
   {
-    "id": 9655,
-    "IDcode": "380",
-    "title": "Byoru - Tifa Lockhart",
+    "id": 43299,
+    "IDcode": "49122",
+    "title": "Byoru-Honoka seashell - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4aed229fe3f0de4965591.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1152,20 +1177,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=380"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49122"
   },
   {
-    "id": 9643,
-    "IDcode": "379",
-    "title": "Byoru - Tiger",
+    "id": 43240,
+    "IDcode": "49063",
+    "title": "Byoru (ビョル) cosplay Sakura Summer - NIKKE - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/72819e380556dcc3ea6a6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1173,20 +1198,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=379"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49063"
   },
   {
-    "id": 9632,
-    "IDcode": "378",
-    "title": "Byoru - Vermeil",
+    "id": 43233,
+    "IDcode": "49056",
+    "title": "Byoru-Viper summer - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/da086ef2e473bc6b1df9a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1194,20 +1219,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=378"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49056"
   },
   {
-    "id": 9621,
-    "IDcode": "377",
-    "title": "Byoru - Rapi",
+    "id": 43228,
+    "IDcode": "49051",
+    "title": "Byoru-Rapi summer - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/59e63df13806966a843b1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1215,20 +1240,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=377"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49051"
   },
   {
-    "id": 9610,
-    "IDcode": "376",
-    "title": "Byoru - Samsung Sam",
+    "id": 43227,
+    "IDcode": "49050",
+    "title": "Byoru-Rosanna summer - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4cb9c0adc2411dba5aea5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1236,20 +1261,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=376"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49050"
   },
   {
-    "id": 9599,
-    "IDcode": "375",
-    "title": "Byoru - Rangiku phoneset",
+    "id": 43223,
+    "IDcode": "49046",
+    "title": "Byoru-Tifa Mooncake - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3fac348d8d6ab16dcfc3d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1257,20 +1282,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=375"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49046"
   },
   {
-    "id": 9588,
-    "IDcode": "374",
-    "title": "Byoru - Pink Cymeow",
+    "id": 43111,
+    "IDcode": "48934",
+    "title": "Byoru - Ellen Joe - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ccb19114d612aff1c3895.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1278,20 +1303,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=374"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48934"
   },
   {
-    "id": 9577,
-    "IDcode": "373",
-    "title": "Byoru - Quiet phoneset",
+    "id": 43059,
+    "IDcode": "48882",
+    "title": "Byoru - Xilonen - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/91b3f0e54984ada39e2fe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1299,20 +1324,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=373"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48882"
   },
   {
-    "id": 9566,
-    "IDcode": "372",
-    "title": "Byoru - Nyanko Kawaii Nekomimi",
+    "id": 42977,
+    "IDcode": "48800",
+    "title": "Byoru - Aeolian - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1bf8ae9ee8aeeba9a6678.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1320,20 +1345,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=372"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48800"
   },
   {
-    "id": 9555,
-    "IDcode": "371",
-    "title": "Byoru - Nico Robin phoneset",
+    "id": 42905,
+    "IDcode": "48728",
+    "title": "Byoru-Yuzuriha - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8186919cbdc7c24ab9224.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1341,20 +1366,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=371"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48728"
   },
   {
-    "id": 9544,
-    "IDcode": "370",
-    "title": "Byoru - Natigaru Dark Elf",
+    "id": 42717,
+    "IDcode": "48540",
+    "title": "Byoru-Black Swan - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4d8700ad177838127b1e7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1362,20 +1387,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=370"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48540"
   },
   {
-    "id": 9532,
-    "IDcode": "369",
-    "title": "Byoru - Mashu Kirielight bikini - S",
+    "id": 42690,
+    "IDcode": "48513",
+    "title": "Byoru-Kurumi - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c6f088cd721bf449a9fa8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1383,20 +1408,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=369"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48513"
   },
   {
-    "id": 9521,
-    "IDcode": "368",
-    "title": "Byoru - Mashu Kirielight bikini-H",
+    "id": 42687,
+    "IDcode": "48510",
+    "title": "Byoru-Navia - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2806d0a276aec1b1786c6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1404,20 +1429,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=368"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48510"
   },
   {
-    "id": 9510,
-    "IDcode": "367",
-    "title": "Byoru - Maid Mask",
+    "id": 42680,
+    "IDcode": "48503",
+    "title": "Byoru-Pekomama - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6cb2a64c693b8f80960d4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1425,20 +1450,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=367"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48503"
   },
   {
-    "id": 9499,
-    "IDcode": "366",
-    "title": "Byoru - Maid Raiden",
+    "id": 42609,
+    "IDcode": "48432",
+    "title": "Byoru-Bastet - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3b5970774d6b4c604f83e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1446,20 +1471,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=366"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48432"
   },
   {
-    "id": 9488,
-    "IDcode": "365",
-    "title": "Byoru - Jett Valorant - Jett phoneset",
+    "id": 42606,
+    "IDcode": "48429",
+    "title": "Byoru-Anubis - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a145460ee9b4f1b89d738.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1467,20 +1492,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=365"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48429"
   },
   {
-    "id": 9477,
-    "IDcode": "364",
-    "title": "Byoru - Leifang Mooncake",
+    "id": 42509,
+    "IDcode": "48332",
+    "title": "Byoru-Mavis - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/62adf5bafb5ceb92a62e2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1488,20 +1513,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=364"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48332"
   },
   {
-    "id": 9466,
-    "IDcode": "363",
-    "title": "Byoru - Honoka Altermis (DoA)",
+    "id": 42500,
+    "IDcode": "48323",
+    "title": "Byoru-Fern - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/464d1440e45b2c989c5ed.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1509,20 +1534,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=363"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48323"
   },
   {
-    "id": 9455,
-    "IDcode": "362",
-    "title": "Byoru - Boa Hancock",
+    "id": 42480,
+    "IDcode": "48303",
+    "title": "Byoru - Santa Tifa - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5dff2a01e19f10b735875.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1530,41 +1555,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=362"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48303"
   },
   {
-    "id": 9444,
-    "IDcode": "361",
-    "title": "Byoru - 2B Cybunny",
+    "id": 42473,
+    "IDcode": "48296",
+    "title": "Hana Bunny & Byoru - Fern & Frieren - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fe89381ba2a1d71691454.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Hana Bunny",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hana Bunny.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=361"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48296"
   },
   {
-    "id": 9433,
-    "IDcode": "360",
-    "title": "Byoru - Viper (NIKKE)",
+    "id": 42426,
+    "IDcode": "48249",
+    "title": "[[R] PATREON [R]] Byoru - Aegir ✧Azur Lane✧ - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/51db7c16e8ec30eb37ad2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1572,20 +1602,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=360"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48249"
   },
   {
-    "id": 9421,
-    "IDcode": "359",
-    "title": "Byoru - Viper NIKKE",
+    "id": 42425,
+    "IDcode": "48248",
+    "title": "Byoru-Lalter Royal icing - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/71ba03193ab86b0feb35d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1593,20 +1623,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=359"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48248"
   },
   {
-    "id": 9410,
-    "IDcode": "358",
-    "title": "Byoru - Bocchi the rock",
+    "id": 42423,
+    "IDcode": "48246",
+    "title": "Byoru-Magia Baiser - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dd1523b6fc5ce3bb49292.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1614,20 +1644,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=358"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48246"
   },
   {
-    "id": 9399,
-    "IDcode": "357",
-    "title": "Byoru - Chun-Li",
+    "id": 42352,
+    "IDcode": "48175",
+    "title": "Byoru - Quiet - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b10c6144992b0da88689e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1635,20 +1665,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=357"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48175"
   },
   {
-    "id": 9388,
-    "IDcode": "356",
-    "title": "Byoru - Cyberpunk Edgerunners",
+    "id": 42348,
+    "IDcode": "48171",
+    "title": "Byoru - Yor Black Tape - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7b9629d15d9e4c2ebbd64.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1656,20 +1686,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=356"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48171"
   },
   {
-    "id": 9377,
-    "IDcode": "355",
-    "title": "Byoru - Bastet 巴斯泰托女神",
+    "id": 42347,
+    "IDcode": "48170",
+    "title": "Byoru - Nilou - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/68a99b842c0dac6219d34.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1677,20 +1707,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=355"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48170"
   },
   {
-    "id": 9366,
-    "IDcode": "354",
-    "title": "Byoru - Anubis 阿努比斯",
+    "id": 42346,
+    "IDcode": "48169",
+    "title": "Byoru - Regensburg - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/69776fe99ccd94501b74b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1698,20 +1728,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=354"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48169"
   },
   {
-    "id": 9355,
-    "IDcode": "353",
-    "title": "Byoru - Lollipops 60P 15V",
+    "id": 42345,
+    "IDcode": "48168",
+    "title": "Byoru - Bride Taihou - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4a2f9754e41eb303f77fc.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1719,20 +1749,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=353"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48168"
   },
   {
-    "id": 9344,
-    "IDcode": "352",
-    "title": "Byoru - Marin Kitagawa Bikini",
+    "id": 42336,
+    "IDcode": "48159",
+    "title": "Byoru-Implacable - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/70916bfc276eecd7ec1f6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1740,20 +1770,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=352"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48159"
   },
   {
-    "id": 9333,
-    "IDcode": "351",
-    "title": "Byoru - NO.55 Mitsuri Kanroji [23P-50MB]",
+    "id": 42326,
+    "IDcode": "48149",
+    "title": "Byoru - Tsunade - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f1b826b93dcb65a30ca12.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1761,20 +1791,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=351"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48149"
   },
   {
-    "id": 9322,
-    "IDcode": "350",
-    "title": "Byoru - NO.57 Amber [23P-43MB]",
+    "id": 42280,
+    "IDcode": "48103",
+    "title": "Byoru - Shizuka Mikazuki ✧ZOM100✧ - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2defb929ed4c8ea7e6e3c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1782,20 +1812,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=350"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48103"
   },
   {
-    "id": 9310,
-    "IDcode": "349",
-    "title": "Byoru - NO.56 Shenhe [17- 88MB]",
+    "id": 42252,
+    "IDcode": "48075",
+    "title": "Byoru-Tifa FF7r bikini - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1e8901642964b47f37d4d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1803,20 +1833,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=349"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48075"
   },
   {
-    "id": 9299,
-    "IDcode": "348",
-    "title": "Byoru - NO.58 Shizuku Kuroe [63P1V-1.22GB]",
+    "id": 42233,
+    "IDcode": "48056",
+    "title": "Byoru - Shadowheart - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/deb5ad47f13e4a995555b.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1824,20 +1854,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=348"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48056"
   },
   {
-    "id": 9288,
-    "IDcode": "347",
-    "title": "Byoru - NO.59 Powa Christmas [52P1V-817MB]",
+    "id": 42164,
+    "IDcode": "47987",
+    "title": "Byoru-Ubel - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5fd4edcf263f0a6b214b8.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1845,20 +1875,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=347"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47987"
   },
   {
-    "id": 9277,
-    "IDcode": "346",
-    "title": "Byoru - Bremerton (Azur Lane)",
+    "id": 42156,
+    "IDcode": "47979",
+    "title": "Byoru-D killer wife - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4b041ad5f50d130ebac8a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1866,20 +1896,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=346"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47979"
   },
   {
-    "id": 9266,
-    "IDcode": "345",
-    "title": "Byoru - Hinata Akatsuki",
+    "id": 42152,
+    "IDcode": "47975",
+    "title": "Byoru-Privaty maid - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ee97ee2d897a1011f9e98.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1887,20 +1917,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=345"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47975"
   },
   {
-    "id": 9255,
-    "IDcode": "344",
-    "title": "Byoru - Aqua Minato [47P-75MB]",
+    "id": 41531,
+    "IDcode": "47354",
+    "title": "Hidori & Byoru - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ae27ef8e1ff7e605f8be4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1908,62 +1938,77 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=344"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47354"
   },
   {
-    "id": 9244,
-    "IDcode": "343",
-    "title": "Byoru - Yae Miko x Raiden Shogun [95P-242MB]",
+    "id": 41426,
+    "IDcode": "47249",
+    "title": "DoA Venus Bikini by Hidori Rose x Byoru - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/55516444fa4488d8ebe7b.jpg",
+    "cover_url": null,
     "actress": [
+      {
+        "name": "Hidori Rose",
+        "img_url": "https://telegra.ph/file/55428375747f3f7e648f6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hidori Rose.html"
+      },
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=343"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47249"
   },
   {
-    "id": 9233,
-    "IDcode": "342",
-    "title": "Byoru - Ganyu Cow",
+    "id": 41088,
+    "IDcode": "46911",
+    "title": "Azami & Byoru - DOA Misaki & Nagisa - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/173d1e48bef5fa5e08845.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
+      },
+      {
+        "name": "Azami",
+        "img_url": "https://telegra.ph/file/6451e29d5763f1ff861ae.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Azami.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=342"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46911"
   },
   {
-    "id": 9222,
-    "IDcode": "341",
-    "title": "Byoru - Mori Calliope [47P-134MB]",
+    "id": 41067,
+    "IDcode": "46890",
+    "title": "Byoru - Nero Swimsuit - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/63482ebfbaa1730fdb82c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1971,20 +2016,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=341"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46890"
   },
   {
-    "id": 9211,
-    "IDcode": "340",
-    "title": "Byoru - Eula HD [35P-89MB]",
+    "id": 40837,
+    "IDcode": "46660",
+    "title": "[Byoru] Houshou Marine - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d5fc6666f138fcdb16014.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -1992,41 +2037,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=340"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46660"
   },
   {
-    "id": 9199,
-    "IDcode": "339",
-    "title": "Byoru - Eula HD [35P-89MB]",
+    "id": 40836,
+    "IDcode": "46659",
+    "title": "[Byoru] Mama Jiangshi - Minamoto no Raiko - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f1185a0715707b0c7ad8f.jpg",
+    "cover_url": null,
     "actress": [
+      {
+        "name": "Mina (민아) ",
+        "img_url": "https://telegra.ph/file/aa058cdb2689b4f1f012a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Mina (민아).html"
+      },
       {
         "name": "byoru",
         "img_url": "https://image.acg.lol/file/2025/07/13/Satsuki-Kiryuin-HD1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=339"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46659"
   },
   {
-    "id": 9188,
-    "IDcode": "338",
-    "title": "Byoru - Makima 57P 13V",
+    "id": 40835,
+    "IDcode": "46658",
+    "title": "[Byoru] Ganyu Moo Moo - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/63b9c97301a1df8604f46.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -2034,20 +2084,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=338"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46658"
   },
   {
-    "id": 9177,
-    "IDcode": "337",
-    "title": "Byoru - Mashu Kyrielight Dancer [30P12V-682MB]",
+    "id": 40787,
+    "IDcode": "46610",
+    "title": "Byoru - Umu swimwear (FGO) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/90c318b29bc1eb1dca149.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -2055,20 +2105,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=337"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46610"
   },
   {
-    "id": 9166,
-    "IDcode": "336",
-    "title": "Byoru - Misaki Charm Witch (Dead or Alive)",
+    "id": 40752,
+    "IDcode": "46575",
+    "title": "Byoru - Tifa - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c592a3682de87cf7d2a3c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -2076,20 +2126,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=336"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46575"
   },
   {
-    "id": 9155,
-    "IDcode": "335",
-    "title": "Byoru - Rizu-kyun [44P9V-1.34GB]",
+    "id": 40751,
+    "IDcode": "46574",
+    "title": "Byoru - Noel - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d82f5617719dec718de42.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "byoru",
@@ -2097,6 +2147,6 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_byoru.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=335"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46574"
   }
 ];

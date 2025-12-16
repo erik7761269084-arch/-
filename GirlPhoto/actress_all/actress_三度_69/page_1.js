@@ -1,5 +1,829 @@
 window.PAGE_DATA = [
   {
+    "id": 45473,
+    "IDcode": "51297",
+    "title": "三度_69 - 菲伦 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51297"
+  },
+  {
+    "id": 44802,
+    "IDcode": "50626",
+    "title": "三度_69 - 鸣潮 长离 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50626"
+  },
+  {
+    "id": 41656,
+    "IDcode": "47479",
+    "title": "[三度_69] G36c - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47479"
+  },
+  {
+    "id": 41440,
+    "IDcode": "47263",
+    "title": "[三度_69]合集 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47263"
+  },
+  {
+    "id": 41113,
+    "IDcode": "46936",
+    "title": "【三度_69】天狼星 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46936"
+  },
+  {
+    "id": 41101,
+    "IDcode": "46924",
+    "title": "【三度_69】圣路易斯+逸仙 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46924"
+  },
+  {
+    "id": 41020,
+    "IDcode": "46843",
+    "title": "【三度_69】能代 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46843"
+  },
+  {
+    "id": 39806,
+    "IDcode": "45629",
+    "title": "三度_69 - Eviltia Avelukia - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45629"
+  },
+  {
+    "id": 38811,
+    "IDcode": "44634",
+    "title": "【三度_69】光荣凉夜香雪 [45P6V 497MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44634"
+  },
+  {
+    "id": 38671,
+    "IDcode": "44494",
+    "title": "三度_69 玛修舞娘",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44494"
+  },
+  {
+    "id": 38597,
+    "IDcode": "44420",
+    "title": "三度_69 可畏白纱",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44420"
+  },
+  {
+    "id": 37827,
+    "IDcode": "43650",
+    "title": "三度_69 - 温泉美人鱼",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43650"
+  },
+  {
+    "id": 37508,
+    "IDcode": "43331",
+    "title": "三度_69 - 水边的阿狄丽娜 [32P-740M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43331"
+  },
+  {
+    "id": 37475,
+    "IDcode": "43298",
+    "title": "三度69 - 黑旗袍 [50P2V-951M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43298"
+  },
+  {
+    "id": 36476,
+    "IDcode": "42298",
+    "title": "三度_69 - 浴室兔叽 [29P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42298"
+  },
+  {
+    "id": 36475,
+    "IDcode": "42297",
+    "title": "三度_69 - 兔玩映画 泳装凛 [42P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      },
+      {
+        "name": "兔玩映画",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_兔玩映画.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42297"
+  },
+  {
+    "id": 36458,
+    "IDcode": "42280",
+    "title": "三度_69 - 明日方舟陈旗袍 [24P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42280"
+  },
+  {
+    "id": 36457,
+    "IDcode": "42279",
+    "title": "三度_69 - 露背毛衣 [27P2V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42279"
+  },
+  {
+    "id": 33970,
+    "IDcode": "39749",
+    "title": "三度_69 - Kashino (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39749"
+  },
+  {
+    "id": 30475,
+    "IDcode": "36228",
+    "title": "[三度_69] Noshiro 能代 (Azur Lane 碧蓝航线)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36228"
+  },
+  {
+    "id": 27816,
+    "IDcode": "33569",
+    "title": "Cosplay 三度_69 温泉美人鱼",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33569"
+  },
+  {
+    "id": 27205,
+    "IDcode": "32957",
+    "title": "Cosplay 三度_69 玛修舞娘",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32957"
+  },
+  {
+    "id": 26772,
+    "IDcode": "32524",
+    "title": "[三度_69] 花雾 Flower Mist",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32524"
+  },
+  {
+    "id": 26313,
+    "IDcode": "32065",
+    "title": "Cosplay 三度 69 黑枪呆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32065"
+  },
+  {
+    "id": 23228,
+    "IDcode": "28980",
+    "title": "[三度_69] 狐巫女+红色旗袍 45P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28980"
+  },
+  {
+    "id": 20538,
+    "IDcode": "26290",
+    "title": "[Cos]三度_69 - 花雾 [20P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26290"
+  },
+  {
+    "id": 20537,
+    "IDcode": "26289",
+    "title": "[Cos]三度69 - 赫多涅[40P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26289"
+  },
+  {
+    "id": 20536,
+    "IDcode": "26288",
+    "title": "[Cos]三度69 - 光荣 凉夜香雪[45P+6V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26288"
+  },
+  {
+    "id": 20535,
+    "IDcode": "26287",
+    "title": "[Cos]三度69 - 肚兜[28p]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26287"
+  },
+  {
+    "id": 20534,
+    "IDcode": "26286",
+    "title": "[Cos]三度69 - 兔耳女仆[36P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26286"
+  },
+  {
+    "id": 20533,
+    "IDcode": "26285",
+    "title": "[Cos]三度69 - 狐巫女[33P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26285"
+  },
+  {
+    "id": 20532,
+    "IDcode": "26284",
+    "title": "三度_69 - 小恶魔 [50P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26284"
+  },
+  {
+    "id": 20531,
+    "IDcode": "26283",
+    "title": "三度_69 - 牛牛泳装 [41P+3V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26283"
+  },
+  {
+    "id": 20530,
+    "IDcode": "26282",
+    "title": "三度_69 黑枪呆[50P-321MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26282"
+  },
+  {
+    "id": 20529,
+    "IDcode": "26281",
+    "title": "三度_69 可畏白纱 [55P-199MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26281"
+  },
+  {
+    "id": 20528,
+    "IDcode": "26280",
+    "title": "三度_69 – 小恶魔",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26280"
+  },
+  {
+    "id": 20527,
+    "IDcode": "26279",
+    "title": "三度_69 黑旗袍 [50P2V-951MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26279"
+  },
+  {
+    "id": 20526,
+    "IDcode": "26278",
+    "title": "三度_69 牛牛泳装",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26278"
+  },
+  {
+    "id": 20525,
+    "IDcode": "26277",
+    "title": "三度_69 - NO.67 琴女兔女郎 [41P-309MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26277"
+  },
+  {
     "id": 15446,
     "IDcode": "9024",
     "title": "三度_69 - NO.67 琴女兔女郎 [41P-309MB]",
@@ -334,6 +1158,27 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20596"
+  },
+  {
+    "id": 5935,
+    "IDcode": "20518",
+    "title": "三度69 - 水边的阿狄丽娜",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/a9293691ad9ffd68c83ce.jpg",
+    "actress": [
+      {
+        "name": "三度_69",
+        "img_url": "https://telegra.ph/file/ece480c124a0ca5621c5c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_三度_69.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20518"
   },
   {
     "id": 4758,

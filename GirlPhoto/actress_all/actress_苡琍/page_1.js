@@ -13,6 +13,11 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/c1e6dee60dccf3d69c07b.jpg",
     "actress": [
       {
+        "name": "JVID",
+        "img_url": "https://telegra.ph/file/b8974352dc0838ddca068.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_JVID.html"
+      },
+      {
         "name": "苡琍",
         "img_url": "https://telegra.ph/file/95bbe82085afec5e7f86a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_苡琍.html"
@@ -34,6 +39,11 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/3ea98cbc7d7bcee6f5fca.jpg",
     "actress": [
       {
+        "name": "JVID",
+        "img_url": "https://telegra.ph/file/b8974352dc0838ddca068.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_JVID.html"
+      },
+      {
         "name": "苡琍",
         "img_url": "https://telegra.ph/file/95bbe82085afec5e7f86a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_苡琍.html"
@@ -54,6 +64,11 @@ window.PAGE_DATA = [
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/95bbe82085afec5e7f86a.jpg",
     "actress": [
+      {
+        "name": "JVID",
+        "img_url": "https://telegra.ph/file/b8974352dc0838ddca068.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_JVID.html"
+      },
       {
         "name": "苡琍",
         "img_url": "https://telegra.ph/file/95bbe82085afec5e7f86a.jpg",

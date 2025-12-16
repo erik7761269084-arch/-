@@ -70,6 +70,11 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Son Ye-Eun (손예은).html"
       },
       {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      },
+      {
         "name": "孙乐乐",
         "img_url": "https://telegra.ph/file/184485a990fbe742e5739.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_孙乐乐.html"

@@ -163,6 +163,11 @@ window.PAGE_DATA = [
         "name": "RINA",
         "img_url": "https://telegra.ph/file/4808cf9cc311ca14efa43.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_RINA.html"
+      },
+      {
+        "name": "JVID",
+        "img_url": "https://telegra.ph/file/b8974352dc0838ddca068.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_JVID.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1889"

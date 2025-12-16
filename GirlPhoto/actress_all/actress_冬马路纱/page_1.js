@@ -163,6 +163,11 @@ window.PAGE_DATA = [
         "name": "冬马路纱",
         "img_url": "https://telegra.ph/file/f9a1d4158261f67674f13.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_冬马路纱.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4208"

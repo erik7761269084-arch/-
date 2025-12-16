@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 886,
-    "IDcode": "1079",
-    "title": "Hane Ame 雨波写真 - 恰巴耶夫",
+    "id": 36927,
+    "IDcode": "42750",
+    "title": "雨波_HaneAme – Raikou Maid [38P85M]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c755781e8833f5ec98d3d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1079"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42750"
   },
   {
-    "id": 875,
-    "IDcode": "1078",
-    "title": "Hane Ame 雨波写真 - 护士",
+    "id": 36806,
+    "IDcode": "42629",
+    "title": "Hane Ame - Shizuku",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1db5364fbe0cc6b7a37b8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1078"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42629"
   },
   {
-    "id": 864,
-    "IDcode": "1077",
-    "title": "Hane Ame 雨波写真 - 化物语 战场原",
+    "id": 36783,
+    "IDcode": "42606",
+    "title": "雨波_HaneAme - NO.149 原创_爱琴海 Aegean Sea [40P-116MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/61cce85c5af585b8a93ea.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -60,41 +60,466 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1077"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42606"
   },
   {
-    "id": 853,
-    "IDcode": "1076",
-    "title": "Hane Ame 雨波写真 - JK",
+    "id": 36340,
+    "IDcode": "42161",
+    "title": "HaneAme - Shinano (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/812cc96740c20d347e27c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "Hina",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Hina.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42161"
+  },
+  {
+    "id": 36205,
+    "IDcode": "42024",
+    "title": "Hane Ame - Aglaea (Honkai Star Rail)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42024"
+  },
+  {
+    "id": 36204,
+    "IDcode": "42023",
+    "title": "Hane Ame - Yuki (Jigoku Sensei Nube)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42023"
+  },
+  {
+    "id": 36203,
+    "IDcode": "42022",
+    "title": "Hane Ame - Ninth Villager (Elf Village)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42022"
+  },
+  {
+    "id": 36140,
+    "IDcode": "41959",
+    "title": "Hane Ame - Grok AI Ani",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41959"
+  },
+  {
+    "id": 36104,
+    "IDcode": "41923",
+    "title": "HaneAme- Eclipse Beach Vacation (Bronw Dust 2)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41923"
+  },
+  {
+    "id": 36103,
+    "IDcode": "41922",
+    "title": "Hane Ame - Now in Bloom",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41922"
+  },
+  {
+    "id": 36086,
+    "IDcode": "41905",
+    "title": "HaneAme - Morpeah Bunny Girl (Brown Dust 2)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41905"
+  },
+  {
+    "id": 36018,
+    "IDcode": "41837",
+    "title": "Hane Ame - Cartethyia Fleurdelys (Wuthering Waves)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41837"
+  },
+  {
+    "id": 35990,
+    "IDcode": "41809",
+    "title": "Hane Ame - Akali Bunny (League Of Legends)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41809"
+  },
+  {
+    "id": 35989,
+    "IDcode": "41808",
+    "title": "Hane Ame - Rossanna (NIKKE)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41808"
+  },
+  {
+    "id": 35988,
+    "IDcode": "41807",
+    "title": "Hane Ame - Ceres Fauna (Hololive)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41807"
+  },
+  {
+    "id": 35987,
+    "IDcode": "41806",
+    "title": "Hane Ame - Aqua (Konosuba)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41806"
+  },
+  {
+    "id": 35986,
+    "IDcode": "41805",
+    "title": "Hane Ame - Original_Girl from country",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41805"
+  },
+  {
+    "id": 35985,
+    "IDcode": "41804",
+    "title": "Hane Ame - Ogre Vibrastar Nun",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41804"
+  },
+  {
+    "id": 35974,
+    "IDcode": "41793",
+    "title": "Hane Ame - Mary Bunny (NIKKE)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41793"
+  },
+  {
+    "id": 35973,
+    "IDcode": "41792",
+    "title": "Hane Ame - Oboro (Taimanin Asagi)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41792"
+  },
+  {
+    "id": 35972,
+    "IDcode": "41791",
+    "title": "Hane Ame - Glasses Girlfriend",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41791"
+  },
+  {
+    "id": 35971,
+    "IDcode": "41790",
+    "title": "Hane Ame - Nicole (Zenless Zone Zero)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41790"
+  },
+  {
+    "id": 35970,
+    "IDcode": "41789",
+    "title": "Hane Ame - Eve (Stellar Blade)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41789"
+  },
+  {
+    "id": 35969,
+    "IDcode": "41788",
+    "title": "Hane Ame - Tamaki (Dead Or Alive)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "HaneAme雨波_",
+        "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1076"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41788"
   },
   {
-    "id": 842,
-    "IDcode": "1075",
-    "title": "Hane Ame 雨波 - 娜美",
+    "id": 35963,
+    "IDcode": "41782",
+    "title": "Hane Ame - Gemma (Monster Hunter Wilds)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3a1ed65f6ebf430fc5ff9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -102,20 +527,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1075"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41782"
   },
   {
-    "id": 831,
-    "IDcode": "1074",
-    "title": "Hane Ame 雨波 - 布莱莫顿",
+    "id": 35948,
+    "IDcode": "41767",
+    "title": "Hane Ame - Goat Miko LOVECACAO",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/af0709495970aed337aee.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -123,20 +548,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1074"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41767"
   },
   {
-    "id": 820,
-    "IDcode": "1073",
-    "title": "Hane Ame 雨波 - 吊带袜冰淇淋小姐",
+    "id": 35947,
+    "IDcode": "41766",
+    "title": "Hane Ame - Goat Miko FRENG",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/aff30a3e21c3ef855d602.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -144,20 +569,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1073"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41766"
   },
   {
-    "id": 809,
-    "IDcode": "1072",
-    "title": "Hane Ame 雨波 - 公主连结 凯留",
+    "id": 35946,
+    "IDcode": "41765",
+    "title": "Hane Ame - Goat Miko DISHWASHER",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/91fd98d49894d396cdcc6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -165,20 +590,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1072"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41765"
   },
   {
-    "id": 798,
-    "IDcode": "1071",
-    "title": "Hane Ame 雨波写真 - 明日方舟 推进之王2",
+    "id": 35945,
+    "IDcode": "41764",
+    "title": "Hane Ame - Goat Miko LOVECACAO",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/88c0556c2b3097f304721.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -186,20 +611,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1071"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41764"
   },
   {
-    "id": 788,
-    "IDcode": "1070",
-    "title": "Hane Ame 雨波写真 - 志希",
+    "id": 35890,
+    "IDcode": "41709",
+    "title": "Hane Ame - Changli (Wuthering Waves)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/aca7e6c427ac2aaa52a5e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -207,41 +632,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1070"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41709"
   },
   {
-    "id": 776,
-    "IDcode": "1069",
-    "title": "Hane Ame 雨波写真 - 武藏泳装",
+    "id": 35889,
+    "IDcode": "41708",
+    "title": "Hane Ame - Freya (Danmachi)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/49a049a2ece98912a3df9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "Machi",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Machi.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1069"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41708"
   },
   {
-    "id": 765,
-    "IDcode": "1068",
-    "title": "Hane Ame 雨波写真 - 胶衣",
+    "id": 35888,
+    "IDcode": "41707",
+    "title": "Hane Ame - Caitlyn (League Of Legends)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fd05c80925e3fa2fbad4b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -249,20 +679,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1068"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41707"
   },
   {
-    "id": 754,
-    "IDcode": "1067",
-    "title": "Hane Ame 雨波写真 - 健身少女",
+    "id": 35836,
+    "IDcode": "41655",
+    "title": "Hane Ame - Takamiya Mio (Date A Live)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5783ebf95ad704538a2c2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -270,20 +700,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1067"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41655"
   },
   {
-    "id": 743,
-    "IDcode": "1066",
-    "title": "Hane Ame 雨波写真 - 魅魔",
+    "id": 35835,
+    "IDcode": "41654",
+    "title": "Hane Ame - Eve (Stellar Blade)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e93cc3e0748820086e702.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -291,20 +721,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1066"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41654"
   },
   {
-    "id": 732,
-    "IDcode": "1065",
-    "title": "Hane Ame 雨波写真 - 蛇姬入浴",
+    "id": 35746,
+    "IDcode": "41563",
+    "title": "Hane Ame - Houshou Marine Hololive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/943dba262a843a8b739d1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -312,20 +742,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1065"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41563"
   },
   {
-    "id": 721,
-    "IDcode": "1064",
-    "title": "Hane Ame 雨波写真 - 阿米莉亚・华生",
+    "id": 35741,
+    "IDcode": "41558",
+    "title": "Hane Ame - Implacable (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8711fded5dd8db4b91fcc.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -333,41 +763,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1064"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41558"
   },
   {
-    "id": 710,
-    "IDcode": "1063",
-    "title": "Hane Ame 雨波写真 - 史莱姆紫苑",
+    "id": 35740,
+    "IDcode": "41557",
+    "title": "Hane Ame - Arlecchino (Genshin Impact)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/805b2290a93a44e646883.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "Genshin Impact",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Genshin Impact.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1063"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41557"
   },
   {
-    "id": 699,
-    "IDcode": "1062",
-    "title": "Hane Ame 雨波写真 - 无职转生",
+    "id": 35650,
+    "IDcode": "41464",
+    "title": "Hane Ame - Pekomama (Hololive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/513f2eaa7e25574182f91.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -375,20 +810,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1062"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41464"
   },
   {
-    "id": 688,
-    "IDcode": "1061",
-    "title": "Hane Ame 雨波写真 - 龙王",
+    "id": 35637,
+    "IDcode": "41450",
+    "title": "HaneAme - Original Your Maid",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/33ed1c420c057db4e96fb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -396,20 +831,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1061"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41450"
   },
   {
-    "id": 677,
-    "IDcode": "1060",
-    "title": "Hane Ame 雨波写真 - Ishtar 伊斯塔",
+    "id": 35629,
+    "IDcode": "41442",
+    "title": "Hane Ame - Kashiwazaki Sena (Boku Wa Tomodachi Sakunai)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ce6f6050d9748e7b12803.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -417,20 +852,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1060"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41442"
   },
   {
-    "id": 665,
-    "IDcode": "1059",
-    "title": "Hane Ame 雨波写真 - 埃吉爾+梅琳娜",
+    "id": 35628,
+    "IDcode": "41441",
+    "title": "Hane Ame - Lihua (The Apothecary Diaries Consort)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/57bd8d4554b3ae35d6a94.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -438,20 +873,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1059"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41441"
   },
   {
-    "id": 654,
-    "IDcode": "1058",
-    "title": "Hane Ame 雨波写真 - 偶像大师 枫礼服",
+    "id": 35624,
+    "IDcode": "41437",
+    "title": "Hane Ame - Übel (Sousou No Frieren)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/38af4d81b3095da7dd6e4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -459,20 +894,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1058"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41437"
   },
   {
-    "id": 643,
-    "IDcode": "1057",
-    "title": "Hane Ame 雨波写真 - MARINE DEVIL_海夢惡魔包",
+    "id": 35584,
+    "IDcode": "41397",
+    "title": "Hane Ame - Original Luxe Elf",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/651e651e45edec77d9746.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -480,20 +915,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1057"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41397"
   },
   {
-    "id": 632,
-    "IDcode": "1056",
-    "title": "Hane Ame 雨波写真 - 私服 窕窕淑女",
+    "id": 35583,
+    "IDcode": "41396",
+    "title": "Hane Ame - Original Luxe Elf",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4b63e0dfac71a2f1de33d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -501,20 +936,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1056"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41396"
   },
   {
-    "id": 621,
-    "IDcode": "1055",
-    "title": "Hane Ame 雨波写真 - 漫威 绯红女巫",
+    "id": 35582,
+    "IDcode": "41395",
+    "title": "Hane Ame - Original Luxe Elf",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"和服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8f705baa698073a16f280.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -522,20 +957,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1055"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41395"
   },
   {
-    "id": 610,
-    "IDcode": "1054",
-    "title": "Hane Ame 雨波写真 - 原神_夜阑 Genshin Impact's Yelan",
+    "id": 35542,
+    "IDcode": "41355",
+    "title": "Hane Ame - Boa Hancock Slave (One Piece)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cb275d155dc602732a83b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -543,20 +978,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1054"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41355"
   },
   {
-    "id": 599,
-    "IDcode": "1053",
-    "title": "Hane Ame 雨波写真 - Spy X Family",
+    "id": 35541,
+    "IDcode": "41354",
+    "title": "Hane Ame - Boa Hancock QIPAO (One Piece)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/24ae1a41e2b5120f53aa9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -564,20 +999,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1053"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41354"
   },
   {
-    "id": 588,
-    "IDcode": "1052",
-    "title": "Hane Ame 雨波写真 - shield Hero Bitch",
+    "id": 35540,
+    "IDcode": "41353",
+    "title": "Hane Ame - Boa Hacock Offical (One Piece)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/794372852efd8c6e91d03.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -585,20 +1020,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1052"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41353"
   },
   {
-    "id": 577,
-    "IDcode": "1051",
-    "title": "Hane Ame 雨波写真 - 艾尔登法环 Elden Ring FIA",
+    "id": 35532,
+    "IDcode": "41345",
+    "title": "Hane Ame - Glasses Girlfriend",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2e05169b8944e795a7289.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -606,20 +1041,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1051"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41345"
   },
   {
-    "id": 566,
-    "IDcode": "1050",
-    "title": "Hane Ame 雨波写真 - 爱琴海 Aegean Sea",
+    "id": 35524,
+    "IDcode": "41337",
+    "title": "Hane Ame - Tifa Swimsuit (Final Fantasy)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e802cb919fbf8b9b2216b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -627,20 +1062,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1050"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41337"
   },
   {
-    "id": 554,
-    "IDcode": "1049",
-    "title": "Hane Ame 雨波写真 - Exercise Girl",
+    "id": 35483,
+    "IDcode": "41296",
+    "title": "Hane Ame - Christmas Bunny",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5df644ff91cbb334dec54.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -648,20 +1083,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1049"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41296"
   },
   {
-    "id": 543,
-    "IDcode": "1048",
-    "title": "Hane Ame 雨波写真 - 黑龙",
+    "id": 35467,
+    "IDcode": "41279",
+    "title": "Hane Ame - Owari (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c5f0f7bb9fb83194590f6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -669,20 +1104,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1048"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41279"
   },
   {
-    "id": 532,
-    "IDcode": "1047",
-    "title": "Hane Ame 雨波写真 - 金龙",
+    "id": 35466,
+    "IDcode": "41278",
+    "title": "Hane Ame - Owari (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/889e3da03b0b37a6e3240.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -690,20 +1125,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1047"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41278"
   },
   {
-    "id": 521,
-    "IDcode": "1046",
-    "title": "Hane Ame 雨波写真 - 红龙",
+    "id": 35465,
+    "IDcode": "41277",
+    "title": "Hane Ame - Owari (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d497334d691a97b8e2402.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -711,41 +1146,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1046"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41277"
   },
   {
-    "id": 510,
-    "IDcode": "1045",
-    "title": "Hane Ame 雨波写真 - 勝利女神 米哈拉",
+    "id": 35462,
+    "IDcode": "41274",
+    "title": "Hane Ame - Navia (Genshin Impact)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d7e19253d2df28dbdec88.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "Genshin Impact",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Genshin Impact.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1045"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41274"
   },
   {
-    "id": 499,
-    "IDcode": "1044",
-    "title": "Hane Ame 雨波写真 - HOLOLIVE 常闇TOWA",
+    "id": 35461,
+    "IDcode": "41273",
+    "title": "Hane Ame - 2B Cyberpunk Cat (Nier Automata)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/76103bf17d1f817c7479e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -753,20 +1193,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1044"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41273"
   },
   {
-    "id": 488,
-    "IDcode": "1043",
-    "title": "Hane Ame 雨波写真 - 欧根亲王 护士",
+    "id": 35454,
+    "IDcode": "41266",
+    "title": "Hane Ame - Irys (Hololive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2f75e54958563dcbaa4c5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -774,41 +1214,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1043"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41266"
   },
   {
-    "id": 477,
-    "IDcode": "1042",
-    "title": "Hane Ame 雨波写真 - 欧根亲王 婚纱",
+    "id": 35323,
+    "IDcode": "41131",
+    "title": "Hane Ame - Xianyun (Genshin Impact)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/24a5b4dd2bec6ef592dc8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "Genshin Impact",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Genshin Impact.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1042"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41131"
   },
   {
-    "id": 466,
-    "IDcode": "1041",
-    "title": "Hane Ame 雨波写真 - 欧根亲王 女仆",
+    "id": 35315,
+    "IDcode": "41123",
+    "title": "Hane Ame - Bunny Reika (Gantz)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c2d29ea5434f0fec91550.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -816,20 +1261,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1041"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41123"
   },
   {
-    "id": 455,
-    "IDcode": "1040",
-    "title": "Hane Ame 雨波写真 - 欧根亲王 兔女郎",
+    "id": 35314,
+    "IDcode": "41122",
+    "title": "Hane Ame - Chiyo (Ane Naru Mono)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8b00732a9ca3726d07473.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -837,20 +1282,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1040"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41122"
   },
   {
-    "id": 443,
-    "IDcode": "1039",
-    "title": "Hane Ame 雨波写真 - 對魔忍 不知火 OFFICAL",
+    "id": 35275,
+    "IDcode": "41081",
+    "title": "Hane Ame - Fern (Sousou No Frieren)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/959084b9fc506fc27236e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -858,41 +1303,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1039"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41081"
   },
   {
-    "id": 432,
-    "IDcode": "1038",
-    "title": "Hane Ame 雨波写真 - 對魔忍 不知火 LINGERIE",
+    "id": 35260,
+    "IDcode": "41066",
+    "title": "Hane Ame 那位大人 精灵村人14号 (Elf Villager)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a3b5fdb71d8dedcdc00f7.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
         "img_url": "https://telegra.ph/file/75f88ec9f4a9ba80b2901.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
+      },
+      {
+        "name": "那位大人",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_那位大人.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1038"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41066"
   },
   {
-    "id": 421,
-    "IDcode": "1037",
-    "title": "Hane Ame 雨波写真 - 對魔忍 不知火 BUNNY",
+    "id": 35258,
+    "IDcode": "41064",
+    "title": "HaneAme - Sinful Nun YD devil Xmas",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0a77482f94546a6899773.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -900,20 +1350,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1037"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41064"
   },
   {
-    "id": 410,
-    "IDcode": "1036",
-    "title": "Hane Ame 雨波写真 - SWIMSUIT",
+    "id": 35220,
+    "IDcode": "41026",
+    "title": "Hane Ame - Sword Maiden (Goblin Slayer)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a5840c3b916b857738703.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -921,20 +1371,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1036"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41026"
   },
   {
-    "id": 399,
-    "IDcode": "1035",
-    "title": "Hane Ame 雨波写真 - POLICE",
+    "id": 35218,
+    "IDcode": "41023",
+    "title": "Hane Ame - Higuchi Madoka (The Idol Master)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dc0f4b6efb6b126aec07e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -942,20 +1392,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1035"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41023"
   },
   {
-    "id": 388,
-    "IDcode": "1034",
-    "title": "Hane Ame 雨波写真 - LINGERIE",
+    "id": 35214,
+    "IDcode": "41019",
+    "title": "Hane Ame - Regensburg (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e20de024804a67d434900.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -963,20 +1413,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1034"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41019"
   },
   {
-    "id": 377,
-    "IDcode": "1033",
-    "title": "Hane Ame 雨波写真 - JK",
+    "id": 35206,
+    "IDcode": "41011",
+    "title": "HaneAme - 原創 Original Bear(愛睡熊熊)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7dece658e70b0359aeeae.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -984,20 +1434,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1033"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=41011"
   },
   {
-    "id": 366,
-    "IDcode": "1032",
-    "title": "Hane Ame 雨波写真 - Hololive Kronii 時間 Pajama",
+    "id": 35096,
+    "IDcode": "40901",
+    "title": "Hane Ame - Helm (Nikke)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6ed9dafcf9cf126eebc41.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1005,20 +1455,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1032"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40901"
   },
   {
-    "id": 355,
-    "IDcode": "1031",
-    "title": "Hane Ame 雨波写真 - Hololive Kronii 時間 Offical",
+    "id": 35092,
+    "IDcode": "40897",
+    "title": "Hane Ame - McDonald's Mom",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1f58530877bd1165c6270.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1026,20 +1476,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1031"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40897"
   },
   {
-    "id": 344,
-    "IDcode": "1030",
-    "title": "Hane Ame 雨波写真 - Hololive Kronii 時間 Kimono",
+    "id": 35091,
+    "IDcode": "40896",
+    "title": "Hane Ame - 2023 Birthday",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6a73cbcd4fdce6507f581.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1047,20 +1497,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1030"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40896"
   },
   {
-    "id": 332,
-    "IDcode": "1029",
-    "title": "Hane Ame 雨波写真 - Hololive Kronii 時間 Gown",
+    "id": 35071,
+    "IDcode": "40876",
+    "title": "Hane Ame - Kafka (Honkai Star Rail)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dbdc7fed9404276ec59bb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1068,20 +1518,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1029"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40876"
   },
   {
-    "id": 321,
-    "IDcode": "1028",
-    "title": "Hane Ame 雨波写真 - 福星小子 拉姆",
+    "id": 35027,
+    "IDcode": "40831",
+    "title": "Hane Ame - Seki (Meridian Project)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b722f1991a4d3a12fae1c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1089,20 +1539,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1028"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40831"
   },
   {
-    "id": 310,
-    "IDcode": "1027",
-    "title": "Hane Ame 雨波写真 - 电锯人 玛奇玛",
+    "id": 35021,
+    "IDcode": "40824",
+    "title": "Hane Ame - Black Fubuki (One Punch Man)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3e2553bd9cf9045b5eb81.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1110,20 +1560,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1027"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40824"
   },
   {
-    "id": 299,
-    "IDcode": "1026",
-    "title": "Hane Ame 雨波写真 - 生日礼服",
+    "id": 35020,
+    "IDcode": "40823",
+    "title": "Hane Ame - Gown Fubuki (One Punch Man)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/166bb251b75e63a8b1517.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1131,20 +1581,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1026"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40823"
   },
   {
-    "id": 288,
-    "IDcode": "1025",
-    "title": "Hane Ame 雨波写真 - Original Dazzling Bunny 金炫兔女郎",
+    "id": 35019,
+    "IDcode": "40822",
+    "title": "Hane Ame - Comic Fubuki (One Punch Man)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7ec5a8a3c183584d8eae2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1152,20 +1602,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1025"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40822"
   },
   {
-    "id": 277,
-    "IDcode": "1024",
-    "title": "Hane Ame 雨波写真 - Honkai Impact 3rd Aponia 阿波尼亞",
+    "id": 35018,
+    "IDcode": "40821",
+    "title": "Hane Ame - Home Fubuki (One Punch Man)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fc3abd49808a195d2393e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1173,20 +1623,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1024"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40821"
   },
   {
-    "id": 266,
-    "IDcode": "1023",
-    "title": "Hane Ame 雨波写真 - Genshin Impact Dehya 德哈雅",
+    "id": 35013,
+    "IDcode": "40815",
+    "title": "Hane Ame - Original Onsen Plz",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a4a0d1543ac478dd85709.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1194,20 +1644,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1023"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40815"
   },
   {
-    "id": 255,
-    "IDcode": "1022",
-    "title": "Hane Ame 雨波写真 - Cyberpunk Lucy",
+    "id": 34999,
+    "IDcode": "40801",
+    "title": "Hane Ame - Aeolian ( Ghost Blade)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8566aee5880c414a924a4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1215,20 +1665,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1022"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40801"
   },
   {
-    "id": 244,
-    "IDcode": "1021",
-    "title": "Hane Ame 雨波写真 - Arknights Surtr 泳裝",
+    "id": 34974,
+    "IDcode": "40776",
+    "title": "Hane Ame - Pursena (Mushoku Tensei)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a52bfe32cd0135f3cf93c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1236,20 +1686,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1021"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40776"
   },
   {
-    "id": 233,
-    "IDcode": "1020",
-    "title": "Hane Ame 雨波写真 - Tsunade",
+    "id": 34970,
+    "IDcode": "40772",
+    "title": "Hane Ame - School Kakudate Karin (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/024c996445e6c5b94c3fb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1257,20 +1707,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1020"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40772"
   },
   {
-    "id": 221,
-    "IDcode": "1019",
-    "title": "Hane Ame 雨波写真 - T-BLACK",
+    "id": 34969,
+    "IDcode": "40771",
+    "title": "Hane Ame - Nurse Kakudate Karin (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/01b5a8538b46dcf392fcd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1278,20 +1728,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1019"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40771"
   },
   {
-    "id": 210,
-    "IDcode": "1018",
-    "title": "Hane Ame 雨波写真 - S_kimono",
+    "id": 34968,
+    "IDcode": "40770",
+    "title": "Hane Ame - Bunny Kakudate Karin (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/65fa43252e47f76ff7157.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1299,20 +1749,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1018"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40770"
   },
   {
-    "id": 199,
-    "IDcode": "1017",
-    "title": "Hane Ame 雨波写真 - Sakura",
+    "id": 34965,
+    "IDcode": "40767",
+    "title": "Hane Ame - Summer Anis (Nikke)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a8832a327955bbabbbd1d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1320,20 +1770,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1017"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40767"
   },
   {
-    "id": 188,
-    "IDcode": "1016",
-    "title": "Hane Ame 雨波写真 - Dazzling Bunny 炫目兔女郎",
+    "id": 34886,
+    "IDcode": "40686",
+    "title": "Hane Ame - Killjoy (Valorant)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/40b8ba502a4939c35a944.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1341,20 +1791,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1016"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40686"
   },
   {
-    "id": 177,
-    "IDcode": "1015",
-    "title": "Hane Ame 雨波写真 - SUMMER 夏日",
+    "id": 34885,
+    "IDcode": "40685",
+    "title": "Hane Ame - Cecilia (Mobile Suit Gundam The Witch From Mercury)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/714883e70f8d5980af5f1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1362,20 +1812,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1015"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40685"
   },
   {
-    "id": 166,
-    "IDcode": "1014",
-    "title": "Hane Ame 雨波写真 - GenshinImpact EULA 優拉",
+    "id": 34882,
+    "IDcode": "40680",
+    "title": "Hane Ame - Hanekawa Hasumi (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/848ba63aab829b3fa3b85.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1383,20 +1833,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1014"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40680"
   },
   {
-    "id": 155,
-    "IDcode": "1013",
-    "title": "Hane Ame 雨波写真 - 碧藍檔案 角盾華凜 Nurse",
+    "id": 34881,
+    "IDcode": "40679",
+    "title": "Hane Ame - 沖繩扶桑花",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/897dfd221ef6459463bd6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1404,20 +1854,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1013"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40679"
   },
   {
-    "id": 144,
-    "IDcode": "1012",
-    "title": "Hane Ame 雨波写真 - 碧藍檔案 角盾華凜 JK",
+    "id": 34831,
+    "IDcode": "40627",
+    "title": "Hane Ame - Rupee (Goddess of Victory Nikke)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\", \"JK\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c6ee66743aced2b51c233.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1425,20 +1875,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1012"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40627"
   },
   {
-    "id": 133,
-    "IDcode": "1011",
-    "title": "Hane Ame 雨波写真 - 碧藍檔案 角盾華凜 Bunny",
+    "id": 34811,
+    "IDcode": "40607",
+    "title": "Hane Ame - Sky Blue Original",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6e6ba11469df6d14ce25c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1446,20 +1896,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1011"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40607"
   },
   {
-    "id": 122,
-    "IDcode": "1010",
-    "title": "Hane Ame 雨波写真 - WLOP 鬼刀 王凌",
+    "id": 34805,
+    "IDcode": "40601",
+    "title": "Hane Ame Baltimore (Azur Lane)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/09dac6a0e0735decf10d6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1467,20 +1917,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1010"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40601"
   },
   {
-    "id": 110,
-    "IDcode": "1009",
-    "title": "Hane Ame 雨波写真 - Original Onesan Plz!!  姊姊拜託",
+    "id": 34800,
+    "IDcode": "40596",
+    "title": "Hane Ame - Reze 蕾塞 (Chainsaw Man)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bf6c5bcbd375e1775ed16.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1488,20 +1938,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1009"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40596"
   },
   {
-    "id": 99,
-    "IDcode": "1008",
-    "title": "Hane Ame 雨波写真 - Nikke Anis 阿妮絲泳裝",
+    "id": 34799,
+    "IDcode": "40595",
+    "title": "Hane Ame - 蜘蛛侠格温 Spider-Gwen",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/29f7f2e315d49864f5996.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1509,20 +1959,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1008"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40595"
   },
   {
-    "id": 88,
-    "IDcode": "1007",
-    "title": "Hane Ame 雨波写真 - Mushoku Tensei Persena 普魯賽娜",
+    "id": 34699,
+    "IDcode": "40494",
+    "title": "Hane Ame - Mori Calliope (Hololive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fd34bdd059bce5e8cf4a1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1530,20 +1980,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1007"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40494"
   },
   {
-    "id": 77,
-    "IDcode": "1006",
-    "title": "Hane Ame 雨波写真 - 青空內衣",
+    "id": 34683,
+    "IDcode": "40478",
+    "title": "Hane Ame - Ichinose Asuna Cheerleader (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a8b3f763483fe4535b66b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1551,20 +2001,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1006"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40478"
   },
   {
-    "id": 66,
-    "IDcode": "1005",
-    "title": "Hane Ame 雨波写真 - 電鋸人 蕾塞",
+    "id": 34682,
+    "IDcode": "40477",
+    "title": "Hane Ame Ichinose Asuna Swimsuit (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/aa12bf31209d7f3c8b64e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1572,20 +2022,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1005"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40477"
   },
   {
-    "id": 55,
-    "IDcode": "1004",
-    "title": "Hane Ame 雨波写真 - 鋼彈-水星的魔女-塞西莉雅",
+    "id": 34681,
+    "IDcode": "40476",
+    "title": "Hane Ame - Ichinose Asuna Bunny (Blue Archive)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c2980326a5f8d225c553c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1593,20 +2043,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1004"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40476"
   },
   {
-    "id": 44,
-    "IDcode": "1003",
-    "title": "Hane Ame 雨波写真 - 蔚藍檔案-羽川蓮實",
+    "id": 34678,
+    "IDcode": "40473",
+    "title": "Hane Ame - Yor Forger Venus Bikini (Spy x Family)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/244ea3fb54cfd986cae61.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1614,20 +2064,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1003"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40473"
   },
   {
-    "id": 33,
-    "IDcode": "1002",
-    "title": "Hane Ame 雨波写真 - 碧藍航線 巴爾的摩",
+    "id": 34677,
+    "IDcode": "40472",
+    "title": "Hane Ame - Yor Forger (Spy x Family)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6937e4ed2fd117224608f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1635,20 +2085,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1002"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40472"
   },
   {
-    "id": 22,
-    "IDcode": "1001",
-    "title": "Hane Ame 雨波写真 - 沖繩扶桑花",
+    "id": 34671,
+    "IDcode": "40466",
+    "title": "Hane Ame - Viper (Nikke)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6a6cebbc0bbbb519d0bb6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1656,20 +2106,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1001"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40466"
   },
   {
-    "id": 11,
-    "IDcode": "1000",
-    "title": "Hane Ame 雨波写真 - Valorant Killjoy-愷宙",
+    "id": 34666,
+    "IDcode": "40461",
+    "title": "Hane Ame - Viper (Valorant)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c3589ead9f058ffddf06d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "HaneAme雨波_",
@@ -1677,6 +2127,6 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_HaneAme雨波_.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1000"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40461"
   }
 ];

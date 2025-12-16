@@ -1,5 +1,152 @@
 window.PAGE_DATA = [
   {
+    "id": 43805,
+    "IDcode": "49629",
+    "title": "黑川 - 阿狸 KDA+不知火+嫦娥+金莲 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49629"
+  },
+  {
+    "id": 23123,
+    "IDcode": "28875",
+    "title": "黑川 - 学生 Black School Unifrom 52P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28875"
+  },
+  {
+    "id": 19403,
+    "IDcode": "25155",
+    "title": "黑川 - 迪士尼 [35P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25155"
+  },
+  {
+    "id": 19402,
+    "IDcode": "25154",
+    "title": "[Cos]黑川 - 恶魔[46P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25154"
+  },
+  {
+    "id": 19401,
+    "IDcode": "25153",
+    "title": "[Cos]黑川 - 天使[46P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25153"
+  },
+  {
+    "id": 19400,
+    "IDcode": "25152",
+    "title": "[Cos]黑川&浅野菌子 - 少女心事2[40P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25152"
+  },
+  {
+    "id": 19399,
+    "IDcode": "25151",
+    "title": "[Cos]黑川 - 温泉 [31P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25151"
+  },
+  {
     "id": 11590,
     "IDcode": "5551",
     "title": "黑川 - 学姐",
@@ -1255,6 +1402,11 @@ window.PAGE_DATA = [
         "name": "黑川",
         "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      },
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5492"
@@ -1405,5 +1557,31 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5485"
+  },
+  {
+    "id": 2619,
+    "IDcode": "1235",
+    "title": "Kitaro_绮太郎 - 黑川赤音",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/105a05ed276bb15cf719c.jpg",
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      },
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1235"
   }
 ];

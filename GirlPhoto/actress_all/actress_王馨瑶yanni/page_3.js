@@ -1231,6 +1231,11 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/911a9ba50402a1996773d.jpg",
     "actress": [
       {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
+      {
         "name": "王馨瑶yanni",
         "img_url": "https://telegra.ph/file/911a9ba50402a1996773d.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_王馨瑶yanni.html"

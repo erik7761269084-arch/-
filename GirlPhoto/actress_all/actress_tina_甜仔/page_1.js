@@ -307,6 +307,11 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/fe5cf1e932fccc7907686.jpg",
     "actress": [
       {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
+      {
         "name": "tina_甜仔",
         "img_url": "https://telegra.ph/file/d3a4fcc25dc7f9f120467.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_tina_甜仔.html"

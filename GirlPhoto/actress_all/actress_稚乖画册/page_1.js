@@ -1,5 +1,545 @@
 window.PAGE_DATA = [
   {
+    "id": 38058,
+    "IDcode": "43881",
+    "title": "柴系小乖(稚乖画册) NO.011 — 新堂01 团子 [65P+1V871M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43881"
+  },
+  {
+    "id": 38046,
+    "IDcode": "43869",
+    "title": "稚乖画册 NO.020 赤西夜夜 露颜[85P1V-1.82GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43869"
+  },
+  {
+    "id": 37983,
+    "IDcode": "43806",
+    "title": "稚乖画册 - 夜夜 天台粉裙 82P-0.98G",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43806"
+  },
+  {
+    "id": 37500,
+    "IDcode": "43323",
+    "title": "柴系小乖(稚乖画册) NO.013 — 夜夜 天台真空80D白丝[79P+1V1.10G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43323"
+  },
+  {
+    "id": 37495,
+    "IDcode": "43318",
+    "title": "稚乖画册 - 夜夜 死库水 [88P1V-2.4G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43318"
+  },
+  {
+    "id": 37385,
+    "IDcode": "43208",
+    "title": "稚乖画册 - 夜夜 单车郊游 [85P1V-3.87GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43208"
+  },
+  {
+    "id": 36974,
+    "IDcode": "42797",
+    "title": "稚乖画册 - NO.10 夜夜逛街 [60P-459MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42797"
+  },
+  {
+    "id": 36928,
+    "IDcode": "42751",
+    "title": "稚乖画册 - NO.09 新堂01 团子 [65P1V-871MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42751"
+  },
+  {
+    "id": 36913,
+    "IDcode": "42736",
+    "title": "稚乖画册 - 晴空02 [79P1V-1.10GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42736"
+  },
+  {
+    "id": 36549,
+    "IDcode": "42371",
+    "title": "稚乖画册 - NO.05 晴空03 双马尾jk [71P1V-0.99GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42371"
+  },
+  {
+    "id": 31503,
+    "IDcode": "37256",
+    "title": "Cosplay 稚乖画册 赤西夜夜 竟泳 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37256"
+  },
+  {
+    "id": 23930,
+    "IDcode": "29682",
+    "title": "稚乖画册 夜夜Lolita [29P-204MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29682"
+  },
+  {
+    "id": 23851,
+    "IDcode": "29603",
+    "title": "柴系小乖(稚乖画册) – 夜夜 天台停车场肉丝",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29603"
+  },
+  {
+    "id": 20850,
+    "IDcode": "26602",
+    "title": "稚乖画册 - 新堂01 团子 [65P1V-871MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=26602"
+  },
+  {
+    "id": 18821,
+    "IDcode": "24573",
+    "title": "稚乖画册 夜夜 教室 [63P1V-595MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24573"
+  },
+  {
+    "id": 18820,
+    "IDcode": "24572",
+    "title": "稚乖画册 - 夜夜 死库水 [88P1V-2.42GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24572"
+  },
+  {
+    "id": 18819,
+    "IDcode": "24571",
+    "title": "稚乖画册 - 夜夜逛街 [60P-459MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24571"
+  },
+  {
+    "id": 18818,
+    "IDcode": "24570",
+    "title": "稚乖画册 赤西夜夜 - 晴空02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24570"
+  },
+  {
+    "id": 18816,
+    "IDcode": "24568",
+    "title": "稚乖画册 - NO.06 新年福利 [43P-350MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24568"
+  },
+  {
+    "id": 18815,
+    "IDcode": "24567",
+    "title": "稚乖画册 – NO.05 晴空03 双马尾jk [71P1V-0.99GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24567"
+  },
+  {
+    "id": 18814,
+    "IDcode": "24566",
+    "title": "稚乖画册 - 夜夜女仆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24566"
+  },
+  {
+    "id": 18813,
+    "IDcode": "24565",
+    "title": "稚乖画册 - NO.03 体操服 [70P1V-1.59GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24565"
+  },
+  {
+    "id": 18812,
+    "IDcode": "24564",
+    "title": "稚乖画册 - NO.01 晴空01 白丝双马尾jk [79P-600MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24564"
+  },
+  {
+    "id": 18785,
+    "IDcode": "24537",
+    "title": "稚乖画册 - NO.02 颓废01 短裙白丝 [73P-596MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=24537"
+  },
+  {
+    "id": 17817,
+    "IDcode": "23569",
+    "title": "稚乖画册 生煎团团-01 80d团子小木屋 [70P1V-1GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "稚乖画册",
+        "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23569"
+  },
+  {
     "id": 4238,
     "IDcode": "13818",
     "title": "稚乖画册 - 美少女清纯与风骚并存",
@@ -37,6 +577,11 @@ window.PAGE_DATA = [
         "name": "稚乖画册",
         "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13817"
@@ -100,6 +645,11 @@ window.PAGE_DATA = [
         "name": "稚乖画册",
         "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13814"
@@ -520,6 +1070,11 @@ window.PAGE_DATA = [
         "name": "稚乖画册",
         "img_url": "https://telegra.ph/file/07d00d99d8fe02c45d8ba.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_稚乖画册.html"
+      },
+      {
+        "name": "赤西夜夜",
+        "img_url": "https://telegra.ph/file/ede2179339310b8ec0118.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_赤西夜夜.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13794"

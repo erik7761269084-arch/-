@@ -1,5 +1,403 @@
 window.PAGE_DATA = [
   {
+    "id": 31215,
+    "IDcode": "36968",
+    "title": "Yuka 유카, [BLUECAKE] BAD DOCTOR Succubus (+RED.Ver) Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36968"
+  },
+  {
+    "id": 31117,
+    "IDcode": "36870",
+    "title": "Yuka 유카, [BLUECAKE] Sexual Care (+RED.Ver) Set.04",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36870"
+  },
+  {
+    "id": 31086,
+    "IDcode": "36839",
+    "title": "Yuka 유카, [BlueCake] Secret Date Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36839"
+  },
+  {
+    "id": 29949,
+    "IDcode": "35702",
+    "title": "Yuka 유카, [BLUECAKE] Soloing (RED.Ver) Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35702"
+  },
+  {
+    "id": 29664,
+    "IDcode": "35417",
+    "title": "Yuka 유카, Jeong Bomi 정보미, [PEEKCLOUD] Christmas Twin Edition Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      },
+      {
+        "name": "Bomi (보미)",
+        "img_url": "https://telegra.ph/file/9f9ed4773903f5647be1e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bomi (보미).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35417"
+  },
+  {
+    "id": 28975,
+    "IDcode": "34728",
+    "title": "Yuka 유카, [Bimilstory] Yuka is in Secret Class Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34728"
+  },
+  {
+    "id": 28773,
+    "IDcode": "34526",
+    "title": "Yuka 유카, [PURE MEDIA] Vol.129 누드 디지털화보 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      },
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34526"
+  },
+  {
+    "id": 28515,
+    "IDcode": "34268",
+    "title": "Yuka 유카, [BLUECAKE] Hikari Deep Inside Me Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34268"
+  },
+  {
+    "id": 28367,
+    "IDcode": "34120",
+    "title": "Yuka 유카, [BLUECAKE] BAD DOCTOR Succubus (+RED.Ver) Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34120"
+  },
+  {
+    "id": 27869,
+    "IDcode": "33622",
+    "title": "Yuka 유카, [BLUECAKE] Soloing (RED.Ver) Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33622"
+  },
+  {
+    "id": 27448,
+    "IDcode": "33200",
+    "title": "Yuka 유카, [Bimilstory] Hikari Vol.02 Challenge!! White pearl panties All Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33200"
+  },
+  {
+    "id": 26914,
+    "IDcode": "32666",
+    "title": "Yuka 유카, [BLUECAKE] Sexual Care (+RED.Ver) Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32666"
+  },
+  {
+    "id": 26836,
+    "IDcode": "32588",
+    "title": "Yuka 유카, Jeong Bomi 정보미, [PEEKCLOUD] Christmas Twin Edition Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      },
+      {
+        "name": "Bomi (보미)",
+        "img_url": "https://telegra.ph/file/9f9ed4773903f5647be1e.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bomi (보미).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32588"
+  },
+  {
+    "id": 26550,
+    "IDcode": "32302",
+    "title": "Yuka 유카, [BlueCake] Secret Date Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32302"
+  },
+  {
+    "id": 26230,
+    "IDcode": "31982",
+    "title": "Yuka 유카, [BLUECAKE] Night Shower Set.04",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31982"
+  },
+  {
+    "id": 26146,
+    "IDcode": "31898",
+    "title": "Yuka 유카, [Bimilstory] Hikari Vol.02 Challenge!! White pearl panties All Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31898"
+  },
+  {
+    "id": 26054,
+    "IDcode": "31806",
+    "title": "Yuka 유카, [PURE MEDIA] Vol.107 누드 디지털화보 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      },
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31806"
+  },
+  {
+    "id": 25922,
+    "IDcode": "31674",
+    "title": "Yuka 유카, [BLUECAKE] Soloing (RED.Ver) Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Yuka (유카)",
+        "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31674"
+  },
+  {
     "id": 8436,
     "IDcode": "2712",
     "title": "Yuka (유카) vol.149-YUKA-3rd",
@@ -100,6 +498,11 @@ window.PAGE_DATA = [
         "name": "Yuka (유카)",
         "img_url": "https://telegra.ph/file/f32823c3f06b831105b2b.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Yuka (유카).html"
+      },
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2708"

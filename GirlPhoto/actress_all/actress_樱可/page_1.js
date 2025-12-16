@@ -58,6 +58,11 @@ window.PAGE_DATA = [
         "name": "樱可",
         "img_url": "https://telegra.ph/file/e4f96f671c5975729a3ce.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱可.html"
+      },
+      {
+        "name": "紧急企划",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_紧急企划.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=12917"

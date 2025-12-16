@@ -1,5 +1,194 @@
 window.PAGE_DATA = [
   {
+    "id": 43726,
+    "IDcode": "49550",
+    "title": "妖少you1  -  酒吞童子&葛饰北斋&高扬斯卡娅 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49550"
+  },
+  {
+    "id": 37388,
+    "IDcode": "43211",
+    "title": "妖少you1 - 黛玉 Dai Yu[12P-38.9M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43211"
+  },
+  {
+    "id": 21440,
+    "IDcode": "27192",
+    "title": "妖少you1 英仙座 [10P-39MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27192"
+  },
+  {
+    "id": 21439,
+    "IDcode": "27191",
+    "title": "妖少you1 信浓 [10P-32MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27191"
+  },
+  {
+    "id": 21438,
+    "IDcode": "27190",
+    "title": "妖少you1 天狼星 [11P-44MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27190"
+  },
+  {
+    "id": 21437,
+    "IDcode": "27189",
+    "title": "妖少you1 路易九世 [10P-37MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27189"
+  },
+  {
+    "id": 21436,
+    "IDcode": "27188",
+    "title": "妖少you1 大凤 [9P-36MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27188"
+  },
+  {
+    "id": 21435,
+    "IDcode": "27187",
+    "title": "妖少you1 柴郡 [12P-36MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27187"
+  },
+  {
+    "id": 21434,
+    "IDcode": "27186",
+    "title": "妖少you1 稻荷巫女",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "妖少you1",
+        "img_url": "https://telegra.ph/file/9710d62284fba31f01b37.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_妖少you1.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27186"
+  },
+  {
     "id": 2314,
     "IDcode": "12085",
     "title": "大胸萌妹妖少you1 - 伊莉雅",

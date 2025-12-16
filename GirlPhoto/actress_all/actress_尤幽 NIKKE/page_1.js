@@ -39,6 +39,11 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_尤幽 NIKKE.html"
       },
       {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      },
+      {
         "name": "糖果果Candy",
         "img_url": "https://telegra.ph/file/f121289ef71d89a99f205.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_糖果果Candy.html"

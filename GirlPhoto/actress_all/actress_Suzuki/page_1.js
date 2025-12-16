@@ -16,6 +16,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2302"
@@ -37,6 +42,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2301"
@@ -58,6 +68,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2300"
@@ -79,6 +94,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2299"
@@ -100,6 +120,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2298"
@@ -121,6 +146,11 @@ window.PAGE_DATA = [
         "name": "Suzuki",
         "img_url": "https://telegra.ph/file/910d927282f7441fa28db.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Suzuki.html"
+      },
+      {
+        "name": "ROPEMAGiC",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ROPEMAGiC.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2297"

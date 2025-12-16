@@ -37,6 +37,11 @@ window.PAGE_DATA = [
         "name": "Moon Night Snap",
         "img_url": "https://telegra.ph/file/9e8d47e6087066512a949.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Moon Night Snap.html"
+      },
+      {
+        "name": "Dame (담)",
+        "img_url": "https://telegra.ph/file/86aee2fc64ad5995d9866.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Dame (담).html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1463"

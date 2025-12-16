@@ -1402,6 +1402,11 @@ window.PAGE_DATA = [
         "name": "豆瓣酱",
         "img_url": "https://telegra.ph/file/64ab3fc8e7d00cb20aca6.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_豆瓣酱.html"
+      },
+      {
+        "name": "XiaoYu语画界",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiaoYu语画界.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=4527"

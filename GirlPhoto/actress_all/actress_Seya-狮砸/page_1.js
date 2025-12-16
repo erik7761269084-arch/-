@@ -1,5 +1,26 @@
 window.PAGE_DATA = [
   {
+    "id": 45078,
+    "IDcode": "50902",
+    "title": "Seya狮砸 - VOCALOID 初音兔女郎 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Seya-狮砸",
+        "img_url": "https://telegra.ph/file/e2ddbde9d269311734b7a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Seya-狮砸.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50902"
+  },
+  {
     "id": 7436,
     "IDcode": "2186",
     "title": "Seya-狮砸 - 贝尔摩德",

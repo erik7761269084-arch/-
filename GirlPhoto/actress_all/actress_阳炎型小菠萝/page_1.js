@@ -1,5 +1,131 @@
 window.PAGE_DATA = [
   {
+    "id": 36810,
+    "IDcode": "42633",
+    "title": "阳炎型小菠萝 NO.001 黑呆破满 [17P-95MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42633"
+  },
+  {
+    "id": 27490,
+    "IDcode": "33242",
+    "title": "阳炎型小菠萝 Cosplay 天火泳装",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33242"
+  },
+  {
+    "id": 21427,
+    "IDcode": "27179",
+    "title": "阳炎型小菠萝 - 黑呆破满 [17P-95MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27179"
+  },
+  {
+    "id": 21426,
+    "IDcode": "27178",
+    "title": "阳炎型小菠萝 - 天火泳装[20P-195MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27178"
+  },
+  {
+    "id": 21425,
+    "IDcode": "27177",
+    "title": "阳炎型小菠萝 - 樱岛麻衣 [20P-147MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27177"
+  },
+  {
+    "id": 6466,
+    "IDcode": "20997",
+    "title": "阳炎型小菠萝 森蚺",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/e1b0811cb40e66d262973.jpg",
+    "actress": [
+      {
+        "name": "阳炎型小菠萝",
+        "img_url": "https://telegra.ph/file/8f16a8eacd832daa01bc1.png",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_阳炎型小菠萝.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20997"
+  },
+  {
     "id": 2279,
     "IDcode": "12053",
     "title": "阳炎型小菠萝 - 樱岛麻衣 [20P-147MB]",

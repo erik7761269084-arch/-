@@ -1,5 +1,125 @@
 window.PAGE_DATA = [
   {
+    "id": 43647,
+    "IDcode": "49471",
+    "title": "Kitaro_绮太郎 - 魔都精兵的奴隶 山城恋 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49471"
+  },
+  {
+    "id": 17671,
+    "IDcode": "23423",
+    "title": "Kitaro绮太郎 体操",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23423"
+  },
+  {
+    "id": 17670,
+    "IDcode": "23422",
+    "title": "Kitaro绮太郎 慧慧",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23422"
+  },
+  {
+    "id": 11524,
+    "IDcode": "5492",
+    "title": "Kitaro_绮太郎 - 黑川赤音",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/105a05ed276bb15cf719c.jpg",
+    "actress": [
+      {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      },
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5492"
+  },
+  {
+    "id": 3399,
+    "IDcode": "13062",
+    "title": "三色绘恋 -「妖糖–尤幽 」「Kitaro_绮太郎」「糖果果Candy」",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/98a6140abddbe7de0e877.jpg",
+    "actress": [
+      {
+        "name": "尤幽 NIKKE",
+        "img_url": "https://telegra.ph/file/e227fefbb4e2b0821d2a6.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_尤幽 NIKKE.html"
+      },
+      {
+        "name": "Kitaro_绮太郎",
+        "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      },
+      {
+        "name": "糖果果Candy",
+        "img_url": "https://telegra.ph/file/f121289ef71d89a99f205.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_糖果果Candy.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=13062"
+  },
+  {
     "id": 3173,
     "IDcode": "1285",
     "title": "绮太郎 可爱的桔子酱爱丽丝写真",
@@ -1063,6 +1183,11 @@ window.PAGE_DATA = [
     "cover_url": "https://telegra.ph/file/105a05ed276bb15cf719c.jpg",
     "actress": [
       {
+        "name": "黑川",
+        "img_url": "https://telegra.ph/file/df0c03b64730c1192929a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_黑川.html"
+      },
+      {
         "name": "Kitaro_绮太郎",
         "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
@@ -1171,6 +1296,11 @@ window.PAGE_DATA = [
         "name": "Kitaro_绮太郎",
         "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1230"
@@ -1192,6 +1322,11 @@ window.PAGE_DATA = [
         "name": "Kitaro_绮太郎",
         "img_url": "https://image.acg.lol/file/2024/12/10/1-17.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Kitaro_绮太郎.html"
+      },
+      {
+        "name": "喜多川海梦",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喜多川海梦.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1229"

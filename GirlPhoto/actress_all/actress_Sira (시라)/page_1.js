@@ -16,6 +16,11 @@ window.PAGE_DATA = [
         "name": "Sira (시라)",
         "img_url": "https://telegra.ph/file/6cb3ade162ed50019d7a5.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sira (시라).html"
+      },
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=2256"

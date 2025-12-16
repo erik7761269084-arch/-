@@ -1,5 +1,173 @@
 window.PAGE_DATA = [
   {
+    "id": 37482,
+    "IDcode": "43305",
+    "title": "樱岛嗷一 - 雷电将军",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43305"
+  },
+  {
+    "id": 37481,
+    "IDcode": "43304",
+    "title": "樱岛嗷一 - 八重神子",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43304"
+  },
+  {
+    "id": 29803,
+    "IDcode": "35556",
+    "title": "Cosplay 樱岛嗷一 黑猫针织衫连体衣 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35556"
+  },
+  {
+    "id": 21626,
+    "IDcode": "27378",
+    "title": "樱岛嗷一 魔太郎蓝白医生（10月8打赏群资源）",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27378"
+  },
+  {
+    "id": 21625,
+    "IDcode": "27377",
+    "title": "樱岛嗷一 - 雷电将军 25P-400M",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27377"
+  },
+  {
+    "id": 21624,
+    "IDcode": "27376",
+    "title": "樱岛嗷一 - 八重神子 20P-273M",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27376"
+  },
+  {
+    "id": 21623,
+    "IDcode": "27375",
+    "title": "樱岛嗷一 七草荠原皮&女仆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27375"
+  },
+  {
+    "id": 5953,
+    "IDcode": "20534",
+    "title": "樱岛嗷一 魔太郎蓝白医生",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/1848dbb9da51caf486d3c.jpg",
+    "actress": [
+      {
+        "name": "樱岛嗷一",
+        "img_url": "https://telegra.ph/file/5ea745166f228e8925093.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_樱岛嗷一.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20534"
+  },
+  {
     "id": 3236,
     "IDcode": "12916",
     "title": "樱岛嗷一 - 明日方舟 远山",

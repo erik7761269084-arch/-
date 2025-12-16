@@ -21,6 +21,11 @@ window.PAGE_DATA = [
         "name": "铁手叫兽",
         "img_url": "https://telegra.ph/file/2e54d7529d99f201962c4.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_铁手叫兽.html"
+      },
+      {
+        "name": "鹿八岁",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_鹿八岁.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6461"

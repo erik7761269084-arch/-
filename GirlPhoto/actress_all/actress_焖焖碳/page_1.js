@@ -1,5 +1,556 @@
 window.PAGE_DATA = [
   {
+    "id": 44685,
+    "IDcode": "50509",
+    "title": "焖焖碳 - 碧蓝航线 雅努斯 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=50509"
+  },
+  {
+    "id": 30113,
+    "IDcode": "35866",
+    "title": "Cosplay 焖焖碳 恶毒泳衣 Vicious Swimsuit",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35866"
+  },
+  {
+    "id": 27208,
+    "IDcode": "32960",
+    "title": "焖焖碳 Cosplay 小天鹅女仆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32960"
+  },
+  {
+    "id": 24224,
+    "IDcode": "29976",
+    "title": "焖焖碳 能代 [15P-132MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29976"
+  },
+  {
+    "id": 24223,
+    "IDcode": "29975",
+    "title": "焖焖碳 恶毒兔头 [15P-107MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29975"
+  },
+  {
+    "id": 24222,
+    "IDcode": "29974",
+    "title": "焖焖碳 麻辣兔头X异色兔 [38P-345MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29974"
+  },
+  {
+    "id": 19787,
+    "IDcode": "25539",
+    "title": "焖焖碳Xtomoyo酱 埃姆登黑白夜之主（9月19会员资源）",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      },
+      {
+        "name": "Tomoyo酱",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomoyo酱.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25539"
+  },
+  {
+    "id": 19786,
+    "IDcode": "25538",
+    "title": "焖焖碳 - 恶毒泳衣  37P-120M",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25538"
+  },
+  {
+    "id": 19785,
+    "IDcode": "25537",
+    "title": "焖焖碳 - 绫波改 [25P-237MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25537"
+  },
+  {
+    "id": 19784,
+    "IDcode": "25536",
+    "title": "焖焖碳 - 绫波 宅版本 [29P-181MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25536"
+  },
+  {
+    "id": 19783,
+    "IDcode": "25535",
+    "title": "焖焖碳 - 可畏礼服 [33P-203MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25535"
+  },
+  {
+    "id": 19782,
+    "IDcode": "25534",
+    "title": "焖焖碳 - 可畏 [20P-124MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25534"
+  },
+  {
+    "id": 19781,
+    "IDcode": "25533",
+    "title": "焖焖碳 - 加斯科涅泳装 [28P-186MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25533"
+  },
+  {
+    "id": 19780,
+    "IDcode": "25532",
+    "title": "焖焖碳 - 鸢一折纸灵衣[20P-113MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25532"
+  },
+  {
+    "id": 19779,
+    "IDcode": "25531",
+    "title": "焖焖碳 赫敏 [20P-130MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25531"
+  },
+  {
+    "id": 19778,
+    "IDcode": "25530",
+    "title": "焖焖碳 葛饰阿荣 [22P-206MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25530"
+  },
+  {
+    "id": 19777,
+    "IDcode": "25529",
+    "title": "焖焖碳 高雄泳装 [24P-164MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25529"
+  },
+  {
+    "id": 19776,
+    "IDcode": "25528",
+    "title": "焖焖碳 大凤旗袍 [20P-193MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25528"
+  },
+  {
+    "id": 19775,
+    "IDcode": "25527",
+    "title": "焖焖碳 初音兔女郎 [20P-239MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25527"
+  },
+  {
+    "id": 19774,
+    "IDcode": "25526",
+    "title": "焖焖碳 碧蓝航线 長門睡衣 [27P-88MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25526"
+  },
+  {
+    "id": 19773,
+    "IDcode": "25525",
+    "title": "焖焖碳 麻衣学姐 兔女郎",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25525"
+  },
+  {
+    "id": 19772,
+    "IDcode": "25524",
+    "title": "焖焖碳 女仆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25524"
+  },
+  {
+    "id": 19771,
+    "IDcode": "25523",
+    "title": "焖焖碳 小天鹅女仆 [30P125MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25523"
+  },
+  {
+    "id": 19770,
+    "IDcode": "25522",
+    "title": "焖焖碳 恶毒 [22P34MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25522"
+  },
+  {
+    "id": 19769,
+    "IDcode": "25521",
+    "title": "焖焖碳 saber旗袍 [28P192MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25521"
+  },
+  {
+    "id": 16719,
+    "IDcode": "22471",
+    "title": "焖焖碳 柴郡旗袍 29P509MB",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "焖焖碳",
+        "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=22471"
+  },
+  {
     "id": 13107,
     "IDcode": "6918",
     "title": "焖焖碳 碧蓝航线镇海 – 白黑礼服",
@@ -58,6 +609,11 @@ window.PAGE_DATA = [
         "name": "焖焖碳",
         "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      },
+      {
+        "name": "Tomoyo酱",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomoyo酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6916"
@@ -226,6 +782,11 @@ window.PAGE_DATA = [
         "name": "焖焖碳",
         "img_url": "https://image.acg.lol/file/2025/01/22/1-1.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_焖焖碳.html"
+      },
+      {
+        "name": "Tomoyo酱",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Tomoyo酱.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=6908"

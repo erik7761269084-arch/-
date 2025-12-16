@@ -1,5 +1,83 @@
 window.PAGE_DATA = [
   {
+    "id": 31287,
+    "IDcode": "37040",
+    "title": "[XiuRen秀人网] No.6020 是小逗逗XiaoDouDou",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37040"
+  },
+  {
+    "id": 28428,
+    "IDcode": "34181",
+    "title": "[XiuRen秀人网] No.5524 是小逗逗 &#038; 张思允Nice",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34181"
+  },
+  {
+    "id": 27364,
+    "IDcode": "33116",
+    "title": "[XiuRen秀人网] No.5853 是小逗逗XiaoDouDou",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
+      {
+        "name": "是小逗逗",
+        "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_是小逗逗.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33116"
+  },
+  {
     "id": 15920,
     "IDcode": "9451",
     "title": "2023.09.01 No.7322 是小逗逗",
@@ -684,6 +762,11 @@ window.PAGE_DATA = [
     "publish_date": null,
     "cover_url": "https://telegra.ph/file/97d068f7884d737cc6ff6.jpg",
     "actress": [
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
+      },
       {
         "name": "是小逗逗",
         "img_url": "https://telegra.ph/file/4c324167ec81c9e3ef63a.jpg",

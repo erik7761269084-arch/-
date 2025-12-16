@@ -16,6 +16,11 @@ window.PAGE_DATA = [
         "name": "金小依",
         "img_url": "https://telegra.ph/file/10622edd8ce85743fe025.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金小依.html"
+      },
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5815"
@@ -37,6 +42,11 @@ window.PAGE_DATA = [
         "name": "金小依",
         "img_url": "https://telegra.ph/file/10622edd8ce85743fe025.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金小依.html"
+      },
+      {
+        "name": "XiuRen秀人网",
+        "img_url": "https://telegra.ph/file/ada082157147635017cb9.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_XiuRen秀人网.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=5814"

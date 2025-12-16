@@ -1,5 +1,236 @@
 window.PAGE_DATA = [
   {
+    "id": 38673,
+    "IDcode": "44496",
+    "title": "[eloise软软] 纯欲拉姆(无圣光) Ram",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44496"
+  },
+  {
+    "id": 31877,
+    "IDcode": "37630",
+    "title": "Cosplay eloise软软 小粉盒黑兔子",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37630"
+  },
+  {
+    "id": 27103,
+    "IDcode": "32855",
+    "title": "Cosplay eloise软软 一个温暖的黄昏 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32855"
+  },
+  {
+    "id": 27076,
+    "IDcode": "32828",
+    "title": "Cosplay eloise软软 一个温暖的黄昏 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32828"
+  },
+  {
+    "id": 26128,
+    "IDcode": "31880",
+    "title": "Cosplay eloise软软 入水蕾丝",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31880"
+  },
+  {
+    "id": 23947,
+    "IDcode": "29699",
+    "title": "eloise软软 碧蓝.伯爵 [60P-657MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29699"
+  },
+  {
+    "id": 23889,
+    "IDcode": "29641",
+    "title": "eloise软软 – 蝴蝶结",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29641"
+  },
+  {
+    "id": 23884,
+    "IDcode": "29636",
+    "title": "eloise软软 – 暮色荆棘",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29636"
+  },
+  {
+    "id": 22142,
+    "IDcode": "27894",
+    "title": "eloise软软 乖乖的白丝48P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27894"
+  },
+  {
+    "id": 22141,
+    "IDcode": "27893",
+    "title": "eloise软软 - 河边JK",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27893"
+  },
+  {
+    "id": 22140,
+    "IDcode": "27892",
+    "title": "eloise软软 - OL[115P5V1.5G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27892"
+  },
+  {
     "id": 13186,
     "IDcode": "698",
     "title": "eloise软软 - 额外的滤镜",
@@ -355,5 +586,89 @@ window.PAGE_DATA = [
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=682"
+  },
+  {
+    "id": 6107,
+    "IDcode": "20673",
+    "title": "eloise软软 – 一个温暖的黄昏",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/0a8f74d2438872402b963.jpg",
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20673"
+  },
+  {
+    "id": 6043,
+    "IDcode": "20615",
+    "title": "Eloise软软 碧蓝 伯爵",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/07839c0b6f8be6eecf4ae.jpg",
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20615"
+  },
+  {
+    "id": 5974,
+    "IDcode": "20553",
+    "title": "eloise软软-乖乖的白丝",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/7e29169ce6ede52dd2984.jpg",
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20553"
+  },
+  {
+    "id": 5946,
+    "IDcode": "20528",
+    "title": "eloise软软 - OL",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/55195f9b7989d086eef7c.jpg",
+    "actress": [
+      {
+        "name": "eloise软软",
+        "img_url": "https://telegra.ph/file/7521e346c9469d507ff58.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_eloise软软.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20528"
   }
 ];

@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 16528,
-    "IDcode": "99",
-    "title": "[Loozy] Bambi (밤비) - S-Bambi",
+    "id": 45483,
+    "IDcode": "51307",
+    "title": "Bambi (밤비) - DJAWA Photo - The Tale of The Nine-Tailed Fox - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=99"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=51307"
   },
   {
-    "id": 4992,
-    "IDcode": "166",
-    "title": "Bambi – PCroom alba",
+    "id": 43751,
+    "IDcode": "49575",
+    "title": "[DJAWA] Bambi - Type 95：Jade Noisette Rose (Girl's Frontline) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/41edff918a6b7c843b742.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=166"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49575"
   },
   {
-    "id": 4981,
-    "IDcode": "165",
-    "title": "Bambi - Love Dive A+B",
+    "id": 42838,
+    "IDcode": "48661",
+    "title": "BLUECAKE Bambi - Diesel's Infinite Rail - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9ade287dd5ffe31ee3602.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -60,20 +60,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=165"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=48661"
   },
   {
-    "id": 4970,
-    "IDcode": "164",
-    "title": "Bambi (밤비)[BLUECAKE] Camille Code Name BUNNY",
+    "id": 40885,
+    "IDcode": "46708",
+    "title": "BamBi - Alice in Glasses - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ddee48f65776291567873.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -81,20 +81,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=164"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46708"
   },
   {
-    "id": 4959,
-    "IDcode": "163",
-    "title": "DJAWA Photo - Bambi (밤비) - Asuna's Undercover Mission",
+    "id": 40884,
+    "IDcode": "46707",
+    "title": "BamBi - Fancy Me - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/353d4c421218c31c00be8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -102,20 +102,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=163"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46707"
   },
   {
-    "id": 4948,
-    "IDcode": "162",
-    "title": "DJAWA Photo - Bambi (밤비) - La Rose NoirE 2B",
+    "id": 40820,
+    "IDcode": "46643",
+    "title": "Bambi｜밤비 - DJAWA “Kumiho in the Office” - Destiny Child - Nine-Tailed Fox Tamamo - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fdf40ede83da4760ef3f8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -123,20 +123,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=162"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46643"
   },
   {
-    "id": 4937,
-    "IDcode": "161",
-    "title": "[BLUECAKE] Bambi (밤비) - Home Work",
+    "id": 40814,
+    "IDcode": "46637",
+    "title": "[DJAWA] BamBi - AzurLane HMS Formidable - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ff56dacea5624aab934f5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -144,20 +144,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=161"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46637"
   },
   {
-    "id": 4926,
-    "IDcode": "160",
-    "title": "[BLUECAKE] Bambi (밤비) - Hancock (+RED.Ver)",
+    "id": 40813,
+    "IDcode": "46636",
+    "title": "[DJAWA] Bambi - La Rose NoirE 2B - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/90c9bc6298a46125b9e5d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -165,20 +165,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=160"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46636"
   },
   {
-    "id": 4914,
-    "IDcode": "159",
-    "title": "[BLUECAKE] Bambi (밤비) – Doki Doki , Amenokade + RED.Ver",
+    "id": 40812,
+    "IDcode": "46635",
+    "title": "[DJAWA] BamBi - Halloween with Bowsette - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/41e222248dd4e0456174a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -186,20 +186,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=159"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46635"
   },
   {
-    "id": 4903,
-    "IDcode": "158",
-    "title": "[Bluecake] Bambi - Albedo",
+    "id": 40798,
+    "IDcode": "46621",
+    "title": "[DJAWA] BamBi - Rita - the Paradise Expulsion - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/64de6dc05d6c85450edd8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -207,20 +207,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=158"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46621"
   },
   {
-    "id": 4892,
-    "IDcode": "157",
-    "title": "Bambi밤비 - [BLUECAKE] Play Game",
+    "id": 40797,
+    "IDcode": "46620",
+    "title": "[DJAWA] BamBi - Equinoctial Bari (Destiny Child) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9baf1f2d079c70e8c50df.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -228,20 +228,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=157"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46620"
   },
   {
-    "id": 4881,
-    "IDcode": "156",
-    "title": "Bambi밤비 -  Reine de Blanc (A-side)",
+    "id": 40796,
+    "IDcode": "46619",
+    "title": "[DJAWA] BamBi - Heart to Heart：Nephthys (Destiny Child) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5cbbf979e1fb189aaa36c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -249,20 +249,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=156"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46619"
   },
   {
-    "id": 4870,
-    "IDcode": "155",
-    "title": "Bambi (밤비) - NO.88 [BLUECAKE] Black Mist Mesh&Stocking",
+    "id": 40795,
+    "IDcode": "46618",
+    "title": "[DJAWA] BamBi - Queen of Passion (Destiny Child) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8c94eb02c9490bbce1f1f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -270,20 +270,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=155"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46618"
   },
   {
-    "id": 4859,
-    "IDcode": "154",
-    "title": "Bambi (밤비) - NO.87 [BLUECAKE] Purity",
+    "id": 40794,
+    "IDcode": "46617",
+    "title": "[DJAWA] Bambi - Seraphine The Starry-Eyed Songstress (League of Legends) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ba1f619713e4de368143c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -291,20 +291,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=154"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46617"
   },
   {
-    "id": 4848,
-    "IDcode": "153",
-    "title": "Bambi밤비 - NO.77 [CreamSoda] Bambi VOL.11 [115P-968MB]",
+    "id": 40793,
+    "IDcode": "46616",
+    "title": "[DJAWA] BamBi - Spirit Blossom Ahri (League of Legends) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/88bc7569de445b38581f5.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -312,20 +312,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=153"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46616"
   },
   {
-    "id": 4837,
-    "IDcode": "152",
-    "title": "Bambi밤비 - NO.72 [DJAWA] Loose & Tight ：Violet",
+    "id": 40765,
+    "IDcode": "46588",
+    "title": "[DJAWA] Bambi - Riamu Overdosed - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cfdf25889331b3d8b8d39.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -333,20 +333,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=152"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46588"
   },
   {
-    "id": 4826,
-    "IDcode": "151",
-    "title": "BamBi밤비 - NO.71 Digital photobook - Night Rain [100P-347MB]",
+    "id": 40762,
+    "IDcode": "46585",
+    "title": "[DJAWA] BamBi - Riamu’s Celebrating the Year of the Cow #1 (THE IDOLM@STER CINDERELLA GIRLS) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/75c9e5cf914c9f8618b36.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -354,20 +354,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=151"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46585"
   },
   {
-    "id": 4815,
-    "IDcode": "150",
-    "title": "BamBi밤비 - NO.70 [DJAWA] Succubus 2B [119P-2.04G]",
+    "id": 40727,
+    "IDcode": "46550",
+    "title": "[DJAWA] Bambi - Hi Sam! - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/03237ace028c210c1f813.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -375,20 +375,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=150"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46550"
   },
   {
-    "id": 4803,
-    "IDcode": "149",
-    "title": "BamBi밤비 - NO.35 [DJAWA] Paradise_Expulsion",
+    "id": 40726,
+    "IDcode": "46549",
+    "title": "[DJAWA] Bambi - Kalaratri The Shadow of the Goddess (Destiny Child) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/39a4f6cde219122498758.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -396,20 +396,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=149"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46549"
   },
   {
-    "id": 4792,
-    "IDcode": "148",
-    "title": "Bambi밤비 - NO.27 Kumiho in the Office",
+    "id": 40664,
+    "IDcode": "46487",
+    "title": "[DJAWA] BamBi - Azur Lane：USS Saint Louis (Azur Lane) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/21d203882f6c9dbbad578.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -417,20 +417,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=148"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46487"
   },
   {
-    "id": 4781,
-    "IDcode": "147",
-    "title": "Bambi밤비 - NO.26 Tifa Lockhart",
+    "id": 40651,
+    "IDcode": "46474",
+    "title": "[DJAWA] Bambi – USS Bremerton - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/30a2f62860ca8e954cdb8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -438,20 +438,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=147"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46474"
   },
   {
-    "id": 4770,
-    "IDcode": "146",
-    "title": "Bambi밤비 - NO.19 Fate Grand Order - Shuten Douji (Assassin)",
+    "id": 40592,
+    "IDcode": "46415",
+    "title": "[Bluecake] PLAY GAME ver. BAMBI - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c6088289b021a3665c105.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -459,20 +459,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=146"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46415"
   },
   {
-    "id": 4759,
-    "IDcode": "145",
-    "title": "Sonson &BamBi밤비 Maid Mansion W [153P1.13G]",
+    "id": 40275,
+    "IDcode": "46098",
+    "title": "[DJAWA] Bambi - Azur Lane HMS Sirius - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/74d9fc007426f56a40c9e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -480,20 +480,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=145"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46098"
   },
   {
-    "id": 4748,
-    "IDcode": "144",
-    "title": "DJAWA Photo - Bambi (밤비) - Halloween Nightmare",
+    "id": 40161,
+    "IDcode": "45984",
+    "title": "[DJAWA] BamBi - Succubus 2B - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/00cf3ac6fdfcf1af4748c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -501,20 +501,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=144"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45984"
   },
   {
-    "id": 4737,
-    "IDcode": "143",
-    "title": "DJAWA Photo - Bambi (밤비) - La Rose NoirE 2B",
+    "id": 40017,
+    "IDcode": "45840",
+    "title": "[DJAWA] Bambi - Asuna's Undercover Mission - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d66e7170e1b1035bdc098.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -522,20 +522,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=143"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45840"
   },
   {
-    "id": 4726,
-    "IDcode": "142",
-    "title": "DJAWA Photo - Bambi (밤비) - Kalaratri The Shadow of The Goddess",
+    "id": 39421,
+    "IDcode": "45244",
+    "title": "[BlueCake] Bambi - Hancock (One Piece) - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ee6159c8d393ba08fbaaa.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -543,20 +543,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=142"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45244"
   },
   {
-    "id": 4663,
-    "IDcode": "141",
-    "title": "BamBi #밤비 [BLUECAKE] Albedo [197P-1.32GB]",
+    "id": 39076,
+    "IDcode": "44899",
+    "title": "[DJAWA] Bambi - God Mother Heket",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c1013fbd932d05fc4825f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -564,20 +564,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=141"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44899"
   },
   {
-    "id": 4552,
-    "IDcode": "140",
-    "title": "Bambi - Present for u",
+    "id": 39010,
+    "IDcode": "44833",
+    "title": "Bambi - HomeWork",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/94338c57a0e37a6ee4fb1.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -585,20 +585,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=140"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44833"
   },
   {
-    "id": 4440,
-    "IDcode": "139",
-    "title": "Bambi - Present for u 2",
+    "id": 38466,
+    "IDcode": "44289",
+    "title": "Bambi - Ichinose Asuna",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f06b456ed2b6d7ed2cc27.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -606,20 +606,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=139"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44289"
   },
   {
-    "id": 4329,
-    "IDcode": "138",
-    "title": "[DJAWA] BamBi - Akane's Hidden Heart",
+    "id": 38373,
+    "IDcode": "44196",
+    "title": "[Bluecake] Bambi - Sticky Boosette",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/be6af4f7e5f3e87b92864.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -627,20 +627,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=138"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44196"
   },
   {
-    "id": 4218,
-    "IDcode": "137",
-    "title": "Bambi - Black Mist",
+    "id": 37951,
+    "IDcode": "43774",
+    "title": "[DJAWA] Bambi - Azur Lane HMS Sirius[73p--598MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f042f35227cbf6ecd6be4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -648,20 +648,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=137"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43774"
   },
   {
-    "id": 4107,
-    "IDcode": "136",
-    "title": "DJAWA] Bambi Bunny adore qipao",
+    "id": 37355,
+    "IDcode": "43178",
+    "title": "[BLUECAKE] Bambi (밤비) - Dive Into You",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1a275d8300ce5a628b243.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -669,20 +669,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=136"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43178"
   },
   {
-    "id": 3996,
-    "IDcode": "135",
-    "title": "DJAWA] Bambi The Tale of The Nine Tailed Fox",
+    "id": 37330,
+    "IDcode": "43153",
+    "title": "[BLUECAKE] Bambi (밤비) - Sticky Boosette",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/da385a72e1bda1ecc09ed.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -690,20 +690,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=135"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43153"
   },
   {
-    "id": 3885,
-    "IDcode": "134",
-    "title": "Bambi - Autumn",
+    "id": 37312,
+    "IDcode": "43135",
+    "title": "[Bluecake] Bambi - Sticky Boosette",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5b385ec61aa4bd27c4908.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -711,20 +711,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=134"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43135"
   },
   {
-    "id": 3774,
-    "IDcode": "133",
-    "title": "Bambi - Doki Doki，Amenokade",
+    "id": 37128,
+    "IDcode": "42951",
+    "title": "Bambi - Homebody Girl",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/30a867bf3286bb42250b0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -732,587 +732,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=133"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42951"
   },
   {
-    "id": 3663,
-    "IDcode": "132",
-    "title": "Bambi - Home Work",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/55234acfa1cb5af91cd9c.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=132"
-  },
-  {
-    "id": 3552,
-    "IDcode": "131",
-    "title": "Bambi - Insanity Of Obsession",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c7297dbab7095e4a27ace.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=131"
-  },
-  {
-    "id": 3441,
-    "IDcode": "130",
-    "title": "[LOOZY]  Bambi - S-Bambi",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ca02ff90a335c254d00da.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=130"
-  },
-  {
-    "id": 3329,
-    "IDcode": "129",
-    "title": "Bambi - Hancock",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f2b3dd2d99be0d614a6a8.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=129"
-  },
-  {
-    "id": 3218,
-    "IDcode": "128",
-    "title": "Sonson &BamBi밤비 Maid Mansion W [153P1.13G]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4e55e6dfd753d2e562cb1.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=128"
-  },
-  {
-    "id": 3107,
-    "IDcode": "127",
-    "title": "PURE_Vol.115 - Bambi",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b943bfe80717c5f246f7e.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=127"
-  },
-  {
-    "id": 2996,
-    "IDcode": "126",
-    "title": "Bambi jesuis 吉他妹妹",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/59cc4a73dd4a5642d0890.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=126"
-  },
-  {
-    "id": 2885,
-    "IDcode": "125",
-    "title": "Bambi (밤비) – [CreamSoda] Cosplay Serket [126P-1.88GB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5c24b68cce480992bc079.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=125"
-  },
-  {
-    "id": 2775,
-    "IDcode": "124",
-    "title": "Bambi - Ángel de Rosa",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b37e60a58921750895847.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=124"
-  },
-  {
-    "id": 2664,
-    "IDcode": "123",
-    "title": "Bambi - Fancy Me",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fc38296ecc13c950e6dc6.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=123"
-  },
-  {
-    "id": 2553,
-    "IDcode": "122",
-    "title": "DJAWA Photo - Bambi (밤비) - Moral Guardian of School",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6e5a4c86b7b29ce5ddbd5.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=122"
-  },
-  {
-    "id": 2442,
-    "IDcode": "121",
-    "title": "DJAWA Photo - Bambi (밤비) – Riamu’s Celebrating the Year of the Cow #2",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/21ed7e76146b5f15caaaa.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=121"
-  },
-  {
-    "id": 2331,
-    "IDcode": "120",
-    "title": "DJAWA Photo - Bambi (밤비) - USS Bremerton (Azur Lane) Scorching-Hot Training",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c5377908a43e1f133b7bf.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=120"
-  },
-  {
-    "id": 2219,
-    "IDcode": "119",
-    "title": "DJAWA Photo - Bambi (밤비) - Azur Lane：USS Saint Louis (Azur Lane)",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0e9034e83666a633377ab.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=119"
-  },
-  {
-    "id": 2108,
-    "IDcode": "118",
-    "title": "DJAWA Photo - Bambi (밤비) - Queen of Passion",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fa7439c8eb662d8e87352.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=118"
-  },
-  {
-    "id": 1997,
-    "IDcode": "117",
-    "title": "Bambi밤비 - [DJAWA] God Mother Heket (Destiny Child) [51P-1GB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b5956aef3f469d1982a93.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=117"
-  },
-  {
-    "id": 1886,
-    "IDcode": "116",
-    "title": "DJAWA Photo - Bambi (밤비) - Sheer Pink",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4036a3ce3146a959ad34f.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=116"
-  },
-  {
-    "id": 1775,
-    "IDcode": "115",
-    "title": "Bambi밤비 - [BLUECAKE] Play Game [81P-138MB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dcf738410e4e0c4bc8ea7.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=115"
-  },
-  {
-    "id": 1664,
-    "IDcode": "114",
-    "title": "Bambi밤비 - [Pure Media] Vol.164 [92P-489MB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8af026e736fe0306e4fb9.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=114"
-  },
-  {
-    "id": 1553,
-    "IDcode": "113",
-    "title": "Bambi밤비 - [DJAWA] Christmas Special",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f6ea679afc2cdd41fbe34.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=113"
-  },
-  {
-    "id": 1442,
-    "IDcode": "112",
-    "title": "Bambi밤비 - [CreamSoda] Vol.10 [55P-498MB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6ae3adf9f8a7cd69ccb33.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=112"
-  },
-  {
-    "id": 1331,
-    "IDcode": "111",
-    "title": "DJAWA Photo - Bambi (밤비) - La Rose NoirE 2B",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ac69b3161043d18239618.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=111"
-  },
-  {
-    "id": 1220,
-    "IDcode": "110",
-    "title": "Bambi밤비 - [DJAWA] Asuna's Undercover Mission [128P-351MB]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5985969207c4c7e267e7e.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=110"
-  },
-  {
-    "id": 1109,
-    "IDcode": "109",
-    "title": "DJAWA Photo - Bambi (밤비) - Azur Lane HMS Formidable",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7753ae3f019fabe37c461.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=109"
-  },
-  {
-    "id": 998,
-    "IDcode": "108",
-    "title": "DJAWA Photo - Bambi (밤비) - Destiny Child - Rita (Paradise Exiled ver.)",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d359c5e42142831995cba.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=108"
-  },
-  {
-    "id": 887,
-    "IDcode": "107",
-    "title": "DJAWA Photo - Bambi (밤비) - Heart to Heart：Nephthys (Destiny Child)",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d705a98967565bc627667.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=107"
-  },
-  {
-    "id": 777,
-    "IDcode": "106",
-    "title": "DJAWA Photo - Bambi (밤비) - Heart to Heart：Nephthys (Destiny Child)-1",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a1db00096a58b377fbde9.jpg",
-    "actress": [
-      {
-        "name": "Bambi밤비",
-        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=106"
-  },
-  {
-    "id": 666,
-    "IDcode": "105",
+    "id": 37010,
+    "IDcode": "42833",
     "title": "DJAWA Photo - Bambi (밤비) - Le Chat Porte un Qípáo",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/25bb43801164c0cdff449.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1320,20 +753,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=105"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42833"
   },
   {
-    "id": 555,
-    "IDcode": "104",
-    "title": "Bambi밤비 - [BLUECAKE] Kagerou Daze [146P-3.05GB]",
+    "id": 36935,
+    "IDcode": "42758",
+    "title": "CreamSoda - Bambi - K2 (Girls' Frontline)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9e99dd2db48fb2787852f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1341,20 +774,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=104"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42758"
   },
   {
-    "id": 444,
-    "IDcode": "103",
-    "title": "Bambi (밤비) - Cafe Alba",
+    "id": 36934,
+    "IDcode": "42757",
+    "title": "CreamSoda - Bambi - FateGrand Order - Shuten Douji (Assassin)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/eb3e32d57061d5f53ec5d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1362,20 +795,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=103"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42757"
   },
   {
-    "id": 333,
-    "IDcode": "102",
-    "title": "Bambi (밤비) - Naughty Cats Pink & Mint RED",
+    "id": 36888,
+    "IDcode": "42711",
+    "title": "DJAWA Photo - Bambi (밤비) - Heart to Heart：Nephthys (Destiny Child)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4b6cda823a61c136bec5f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1383,20 +816,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=102"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42711"
   },
   {
-    "id": 222,
-    "IDcode": "101",
-    "title": "Bambi (밤비) - Sticky Boosette",
+    "id": 36786,
+    "IDcode": "42609",
+    "title": "DJAWA Photo - Bambi (밤비) - Rita the Paradise Expulsion",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e7a6743fbd0f6d172f982.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1404,20 +837,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=101"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42609"
   },
   {
-    "id": 111,
-    "IDcode": "100",
-    "title": "Bambi밤비 - [BlueCake] Dive Into You (Princess Connect! Re_Dive) [89P-817MB]",
+    "id": 36716,
+    "IDcode": "42539",
+    "title": "[BLUECAKE] Bambi (밤비) - Pretty savage",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dac032da99a0ed18361ad.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "Bambi밤비",
@@ -1425,6 +858,1270 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=100"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42539"
+  },
+  {
+    "id": 36676,
+    "IDcode": "42499",
+    "title": "DJAWA Photo - Bambi (밤비) & Sonson (손손) - Maid Mansion W",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Sonson (손손)",
+        "img_url": "https://telegra.ph/file/0078ae4cfb5e53a3fcb99.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Sonson (손손).html"
+      },
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42499"
+  },
+  {
+    "id": 36675,
+    "IDcode": "42498",
+    "title": "Bambi - Ichinose Asuna",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42498"
+  },
+  {
+    "id": 36574,
+    "IDcode": "42396",
+    "title": "Pure Media Vol.164 Bambi (밤비)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      },
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42396"
+  },
+  {
+    "id": 36554,
+    "IDcode": "42376",
+    "title": "Pure Media Vol.164 Bambi (밤비) [92P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      },
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42376"
+  },
+  {
+    "id": 35044,
+    "IDcode": "40848",
+    "title": "Bambi - Diesel (Nikke)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40848"
+  },
+  {
+    "id": 34584,
+    "IDcode": "40378",
+    "title": "Bambi - Akane Shinjou (SSSS.gridman)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40378"
+  },
+  {
+    "id": 34416,
+    "IDcode": "40208",
+    "title": "Bambi 밤비 - The Tale of The Nine Tailed Fox",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40208"
+  },
+  {
+    "id": 34244,
+    "IDcode": "40036",
+    "title": "Bambi - Special Christmas",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40036"
+  },
+  {
+    "id": 34022,
+    "IDcode": "39805",
+    "title": "Bambi - Albedo (Overlord)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39805"
+  },
+  {
+    "id": 33761,
+    "IDcode": "39533",
+    "title": "Bambi - Sirius (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39533"
+  },
+  {
+    "id": 33360,
+    "IDcode": "39127",
+    "title": "Bambi - God Mother Heket (Destiny Child)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=39127"
+  },
+  {
+    "id": 32836,
+    "IDcode": "38596",
+    "title": "Bambi - Discipline /  Seitokai V-S (Random Cosplay)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38596"
+  },
+  {
+    "id": 32835,
+    "IDcode": "38595",
+    "title": "Bambi - Discipline /  Seitokai (Random Cosplay)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38595"
+  },
+  {
+    "id": 32730,
+    "IDcode": "38489",
+    "title": "Bambi - Riamu Yumei Lingerie (Idolmaster)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38489"
+  },
+  {
+    "id": 32605,
+    "IDcode": "38359",
+    "title": "Bambi - Nurse (Cosplay Vol. 06)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38359"
+  },
+  {
+    "id": 32604,
+    "IDcode": "38358",
+    "title": "Bambi - Neko/Maid (Cosplay Vol. 06)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38358"
+  },
+  {
+    "id": 32548,
+    "IDcode": "38302",
+    "title": "Bambi - Riamu Yumei (Idolmaster)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38302"
+  },
+  {
+    "id": 32509,
+    "IDcode": "38263",
+    "title": "Bambi - Uss Bremerton (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38263"
+  },
+  {
+    "id": 32464,
+    "IDcode": "38218",
+    "title": "Bambi - St. Louis V2 (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38218"
+  },
+  {
+    "id": 32463,
+    "IDcode": "38217",
+    "title": "Bambi - St. Louis V1 (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38217"
+  },
+  {
+    "id": 32383,
+    "IDcode": "38137",
+    "title": "Bambi - Riamu Yumemi Cow",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38137"
+  },
+  {
+    "id": 32378,
+    "IDcode": "38132",
+    "title": "Bambi - Samsung Sam/Samsung Chan (Cosplay Random)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38132"
+  },
+  {
+    "id": 32262,
+    "IDcode": "38015",
+    "title": "Bambi - Browsette (Mario Bros)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38015"
+  },
+  {
+    "id": 32250,
+    "IDcode": "38003",
+    "title": "Bambi - Akali (KDA/League Of Legends)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=38003"
+  },
+  {
+    "id": 32235,
+    "IDcode": "37988",
+    "title": "Bambi - Formidable (Azur Lane)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37988"
+  },
+  {
+    "id": 32230,
+    "IDcode": "37983",
+    "title": "DJAWA/Bambi - 2B - S (Nier Automata)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37983"
+  },
+  {
+    "id": 32229,
+    "IDcode": "37982",
+    "title": "DJAWA/Bambi - 2B (Nier Automata)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37982"
+  },
+  {
+    "id": 31946,
+    "IDcode": "37699",
+    "title": "Bambi 밤비, [CreamSoda] Over knee socks Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37699"
+  },
+  {
+    "id": 31895,
+    "IDcode": "37648",
+    "title": "Bambi 밤비, [DJAWA] Queen of Passion Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37648"
+  },
+  {
+    "id": 31712,
+    "IDcode": "37465",
+    "title": "Bambi 밤비, [BLUECAKE] Home Work Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37465"
+  },
+  {
+    "id": 31620,
+    "IDcode": "37373",
+    "title": "Bambi 밤비, [DJAWA] Heart to Heart：Nephthys Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37373"
+  },
+  {
+    "id": 31613,
+    "IDcode": "37366",
+    "title": "Bambi 밤비, [BLUECAKE] Sticky Boosette- Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37366"
+  },
+  {
+    "id": 31483,
+    "IDcode": "37236",
+    "title": "Bambi 밤비, [DJAWA] Kumiho in the Office Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37236"
+  },
+  {
+    "id": 31422,
+    "IDcode": "37175",
+    "title": "Bambi 밤비, [DJAWA] Christmas Special 2021 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37175"
+  },
+  {
+    "id": 31227,
+    "IDcode": "36980",
+    "title": "Bambi 밤비, ArtGravia Vol.227 Photobook Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      },
+      {
+        "name": "ARTGRAVIA",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_ARTGRAVIA.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36980"
+  },
+  {
+    "id": 31180,
+    "IDcode": "36933",
+    "title": "Bambi 밤비, DJAWA Akali K-DA",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36933"
+  },
+  {
+    "id": 31176,
+    "IDcode": "36929",
+    "title": "Bambi 밤비, DJAWA ‘Kalaratri The Shadow of The Goddess’ Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36929"
+  },
+  {
+    "id": 31169,
+    "IDcode": "36922",
+    "title": "Bambi 밤비, [DJAWA] USS Bremerton (Azur Lane) Scorching-Hot Training Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36922"
+  },
+  {
+    "id": 31132,
+    "IDcode": "36885",
+    "title": "Bambi 밤비, DJAWA ‘Angel de Rosa’",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36885"
+  },
+  {
+    "id": 31077,
+    "IDcode": "36830",
+    "title": "Bambi 밤비, DJAWA ‘La Rose NoirE 2B’ Set.05",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36830"
+  },
+  {
+    "id": 31011,
+    "IDcode": "36764",
+    "title": "Bambi 밤비, H Secretary – Under The Desk Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36764"
+  },
+  {
+    "id": 31006,
+    "IDcode": "36759",
+    "title": "Bambi 밤비, [BLUECAKE] Naughty Cats Pink &#038; Mint RED Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36759"
+  },
+  {
+    "id": 30983,
+    "IDcode": "36736",
+    "title": "Bambi 밤비, [PURE MEDIA] Vol.164 누드 디지털화보 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Pure Media",
+        "img_url": "https://telegra.ph/file/18b2d07840437fe4f9bcd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Pure Media.html"
+      },
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36736"
+  },
+  {
+    "id": 30948,
+    "IDcode": "36701",
+    "title": "Bambi 밤비, DJAWA ‘Kumiho in the Offic’",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36701"
+  },
+  {
+    "id": 30731,
+    "IDcode": "36484",
+    "title": "Bambi 밤비, [DJAWA] Kalaratri The Shadow of The Goddess Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36484"
+  },
+  {
+    "id": 30708,
+    "IDcode": "36461",
+    "title": "Bambi 밤비, [BLUECAKE] PC Room Alba Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36461"
+  },
+  {
+    "id": 30649,
+    "IDcode": "36402",
+    "title": "Bambi 밤비, [DJAWA] La Rose NoirE 2B &#8211; Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36402"
+  },
+  {
+    "id": 30507,
+    "IDcode": "36260",
+    "title": "Bambi 밤비, [BLUECAKE] Reversal Trial Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36260"
+  },
+  {
+    "id": 30421,
+    "IDcode": "36174",
+    "title": "Bambi 밤비, [BLUECAKE] Doki Doki , Amenokade (+RED.Ver) Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36174"
+  },
+  {
+    "id": 30396,
+    "IDcode": "36149",
+    "title": "Bambi 밤비, CreamSoda Vol.06 Concept 02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=36149"
+  },
+  {
+    "id": 30063,
+    "IDcode": "35816",
+    "title": "Bambi 밤비, DJAWA ‘La Rose NoirE 2B’ Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35816"
+  },
+  {
+    "id": 30004,
+    "IDcode": "35757",
+    "title": "Bambi 밤비, [DJAWA] Serket Egyptian Goddess Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35757"
+  },
+  {
+    "id": 29961,
+    "IDcode": "35714",
+    "title": "Bambi 밤비, DJAWA &#8216;Nightcrawler&#8217; Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35714"
+  },
+  {
+    "id": 29926,
+    "IDcode": "35679",
+    "title": "Bambi 밤비, DJAWA &#8216;Queen of Passion&#8217; Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35679"
+  },
+  {
+    "id": 29608,
+    "IDcode": "35361",
+    "title": "Bambi 밤비, [DJAWA] Moral Guardian of School Normal",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35361"
+  },
+  {
+    "id": 29597,
+    "IDcode": "35350",
+    "title": "Bambi 밤비, [BLUECAKE] Play Game &#8211; Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35350"
+  },
+  {
+    "id": 29558,
+    "IDcode": "35311",
+    "title": "Bambi 밤비, [DJAWA] Azur Lane USS Saint Louis Normal",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35311"
+  },
+  {
+    "id": 29553,
+    "IDcode": "35306",
+    "title": "Bambi 밤비, [DJAWA] Riamu&#8217;s Celebrating the Year of the Cow #1 S_version",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35306"
+  },
+  {
+    "id": 29426,
+    "IDcode": "35179",
+    "title": "Bambi 밤비, [DJAWA] Rita the Paradise Expulsion Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "Bambi밤비",
+        "img_url": "https://telegra.ph/file/972604cc6a0c5fabe8bba.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Bambi밤비.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35179"
   }
 ];

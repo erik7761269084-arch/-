@@ -1,5 +1,110 @@
 window.PAGE_DATA = [
   {
+    "id": 21670,
+    "IDcode": "27422",
+    "title": "[憂貴ちゃんに貢ぐ会(憂貴)]少女誘拐事件記録",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27422"
+  },
+  {
+    "id": 21669,
+    "IDcode": "27421",
+    "title": "[憂貴ちゃんに貢ぐ会(憂貴)]濡れる！透ける！えちえち白スク",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27421"
+  },
+  {
+    "id": 21668,
+    "IDcode": "27420",
+    "title": "[憂貴ちゃんに貢ぐ会(憂貴)]僕のペットはむちむちJK",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27420"
+  },
+  {
+    "id": 21667,
+    "IDcode": "27419",
+    "title": "[憂貴ちゃんに貢ぐ会(憂貴)]裏レンタル憂貴ちゃん",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27419"
+  },
+  {
+    "id": 21666,
+    "IDcode": "27418",
+    "title": "[憂貴ちゃんに貢ぐ会(憂貴)]Hカップだけど女児服着てる",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "[憂貴ちゃんに貢ぐ会(憂貴)]",
+        "img_url": "https://telegra.ph/file/41b45e94125f9712ea77f.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_[憂貴ちゃんに貢ぐ会(憂貴)].html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=27418"
+  },
+  {
     "id": 16529,
     "IDcode": "9",
     "title": "[憂貴ちゃんに貢ぐ会(憂貴)]僕のペットはむちむちJK",

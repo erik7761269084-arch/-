@@ -1,5 +1,2341 @@
 window.PAGE_DATA = [
   {
+    "id": 42009,
+    "IDcode": "47832",
+    "title": "[Nagesa魔物喵]Super Sonico - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47832"
+  },
+  {
+    "id": 41922,
+    "IDcode": "47745",
+    "title": "[Nagesa魔物喵]加藤惠 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47745"
+  },
+  {
+    "id": 41857,
+    "IDcode": "47680",
+    "title": "[Nagesa魔物喵] nero - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47680"
+  },
+  {
+    "id": 41697,
+    "IDcode": "47520",
+    "title": "[Nagesa魔物喵] VOL.9 SSSS.GRIDMAN - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47520"
+  },
+  {
+    "id": 41641,
+    "IDcode": "47464",
+    "title": "NAGISA魔物喵自撮り05 エミリア - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47464"
+  },
+  {
+    "id": 41625,
+    "IDcode": "47448",
+    "title": "[Nagisa魔物喵] 玉藻前 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=47448"
+  },
+  {
+    "id": 40975,
+    "IDcode": "46798",
+    "title": "[魔物喵] 4月に初投稿、4月もよろしくお願いします! - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46798"
+  },
+  {
+    "id": 40970,
+    "IDcode": "46793",
+    "title": "[Nagisa魔物喵] Fantia 2020.05.15 レム-猫耳パジャマ - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46793"
+  },
+  {
+    "id": 40731,
+    "IDcode": "46554",
+    "title": "nagisa魔物喵 レム 2020.05 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46554"
+  },
+  {
+    "id": 40730,
+    "IDcode": "46553",
+    "title": "nagisa魔物喵 戦損愛宕 2020.05 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46553"
+  },
+  {
+    "id": 40698,
+    "IDcode": "46521",
+    "title": "nagisa魔物喵 原神～刻晴ちゃん - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46521"
+  },
+  {
+    "id": 40697,
+    "IDcode": "46520",
+    "title": "nagisa魔物喵 Barbaraさんの自撮り - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46520"
+  },
+  {
+    "id": 40322,
+    "IDcode": "46145",
+    "title": "nagisa魔物喵 本日のヘスティア様 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46145"
+  },
+  {
+    "id": 40265,
+    "IDcode": "46088",
+    "title": "nagisa魔物喵 - 雷電将軍💜 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46088"
+  },
+  {
+    "id": 40261,
+    "IDcode": "46084",
+    "title": "nagisa魔物喵 - ウェディング(ランジェリー)・レム💙 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46084"
+  },
+  {
+    "id": 40108,
+    "IDcode": "45931",
+    "title": "[Nagisa魔物喵] 結城 明日奈 - Page 1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45931"
+  },
+  {
+    "id": 38770,
+    "IDcode": "44593",
+    "title": "[Nagisa魔物喵] 英梨々ちゃん〜 (with mov)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44593"
+  },
+  {
+    "id": 38452,
+    "IDcode": "44275",
+    "title": "nagisa魔物喵 niconiconi",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44275"
+  },
+  {
+    "id": 38335,
+    "IDcode": "44158",
+    "title": "Nagisa魔物喵 - 莱莎的炼金工房",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44158"
+  },
+  {
+    "id": 38130,
+    "IDcode": "43953",
+    "title": "nagisa魔物喵 かわいい白雪姫",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43953"
+  },
+  {
+    "id": 38129,
+    "IDcode": "43952",
+    "title": "nagisa魔物喵 レム",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43952"
+  },
+  {
+    "id": 37878,
+    "IDcode": "43701",
+    "title": "NAGISA魔物喵 - 猫の運動服 [80P+1V／842MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43701"
+  },
+  {
+    "id": 37877,
+    "IDcode": "43700",
+    "title": "NAGISA魔物喵 - きょうの外出着 [27P+3V／691MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43700"
+  },
+  {
+    "id": 37876,
+    "IDcode": "43699",
+    "title": "NAGISA魔物喵 - かわいい転校生 [26P／135MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43699"
+  },
+  {
+    "id": 37375,
+    "IDcode": "43198",
+    "title": "Nagisa魔物喵 - Fantia 8月合集 [115P10V-2.81GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43198"
+  },
+  {
+    "id": 37190,
+    "IDcode": "43013",
+    "title": "Nagisa魔物喵 - 莱莎的炼金工房",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43013"
+  },
+  {
+    "id": 36977,
+    "IDcode": "42800",
+    "title": "魔物喵 VOL.21 監禁play [91P1V1.20GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42800"
+  },
+  {
+    "id": 36844,
+    "IDcode": "42667",
+    "title": "魔物喵 - 新入生入学の健康診断 [81P1V-593MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42667"
+  },
+  {
+    "id": 34758,
+    "IDcode": "40553",
+    "title": "NAGISA魔物喵 - 今日は時雨です〜 Shigure Shimakaze (Kantai Collection)",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40553"
+  },
+  {
+    "id": 34731,
+    "IDcode": "40526",
+    "title": "NAGISA 魔物喵 - 百合 Schoolgirl",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40526"
+  },
+  {
+    "id": 34587,
+    "IDcode": "40381",
+    "title": "Nagisa魔物喵 - 女仆的夏天 Maid",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40381"
+  },
+  {
+    "id": 31948,
+    "IDcode": "37701",
+    "title": "Cosplay Nagisa魔物喵 2023年01月订阅写真 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37701"
+  },
+  {
+    "id": 31552,
+    "IDcode": "37305",
+    "title": "Cosplay Nagisa魔物喵 杂物间 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=37305"
+  },
+  {
+    "id": 30080,
+    "IDcode": "35833",
+    "title": "Cosplay Nagisa魔物喵 电子写真本",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35833"
+  },
+  {
+    "id": 29823,
+    "IDcode": "35576",
+    "title": "Cosplay Nagisa魔物喵 克隆人偶 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35576"
+  },
+  {
+    "id": 29765,
+    "IDcode": "35518",
+    "title": "Cosplay Nagisa魔物喵 性感看护师 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35518"
+  },
+  {
+    "id": 29619,
+    "IDcode": "35372",
+    "title": "Cosplay Nagisa魔物喵 2023年01月订阅写真 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=35372"
+  },
+  {
+    "id": 29102,
+    "IDcode": "34855",
+    "title": "Cosplay Nagisa魔物喵 废弃医院 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34855"
+  },
+  {
+    "id": 28747,
+    "IDcode": "34500",
+    "title": "Cosplay Nagisa魔物喵 性感看护师 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34500"
+  },
+  {
+    "id": 28306,
+    "IDcode": "34059",
+    "title": "Cosplay Nagisa魔物喵 醉酒的办公室女郎 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=34059"
+  },
+  {
+    "id": 28243,
+    "IDcode": "33996",
+    "title": "Cosplay Nagisa魔物喵 今日は野球服です〜〜",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33996"
+  },
+  {
+    "id": 28122,
+    "IDcode": "33875",
+    "title": "Cosplay Nagisa魔物喵 蜜柚MIO 新蔻島シンコウジマ #3",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33875"
+  },
+  {
+    "id": 28070,
+    "IDcode": "33823",
+    "title": "Cosplay Nagisa魔物喵 加藤惠 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33823"
+  },
+  {
+    "id": 27932,
+    "IDcode": "33685",
+    "title": "Cosplay Nagisa魔物喵 克隆人偶 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33685"
+  },
+  {
+    "id": 27526,
+    "IDcode": "33278",
+    "title": "Cosplay Nagisa魔物喵 游乐园大冒险1234",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33278"
+  },
+  {
+    "id": 27432,
+    "IDcode": "33184",
+    "title": "Cosplay Nagisa魔物喵 生理课 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=33184"
+  },
+  {
+    "id": 27139,
+    "IDcode": "32891",
+    "title": "Cosplay Nagisa魔物喵 乳牛 Set.03",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32891"
+  },
+  {
+    "id": 26697,
+    "IDcode": "32449",
+    "title": "Cosplay Nagisa魔物喵 蜜柚MIO 新蔻島シンコウジマ #1",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32449"
+  },
+  {
+    "id": 26696,
+    "IDcode": "32448",
+    "title": "Cosplay Nagisa魔物喵 お兄さん。。。お帰りなさい。。",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32448"
+  },
+  {
+    "id": 26664,
+    "IDcode": "32416",
+    "title": "Cosplay Nagisa魔物喵 克隆人偶 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32416"
+  },
+  {
+    "id": 26631,
+    "IDcode": "32383",
+    "title": "Cosplay Nagisa魔物喵 加藤惠 Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32383"
+  },
+  {
+    "id": 26537,
+    "IDcode": "32289",
+    "title": "[魔物喵] 4月に初投稿、4月もよろしくお願いします!",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32289"
+  },
+  {
+    "id": 26480,
+    "IDcode": "32232",
+    "title": "Cosplay Nagisa魔物喵 監禁Play Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32232"
+  },
+  {
+    "id": 26263,
+    "IDcode": "32015",
+    "title": "Cosplay Nagisa魔物喵 乳牛 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=32015"
+  },
+  {
+    "id": 26208,
+    "IDcode": "31960",
+    "title": "Cosplay Nagisa魔物喵 莱莎的炼金工房",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31960"
+  },
+  {
+    "id": 25944,
+    "IDcode": "31696",
+    "title": "Cosplay Nagisa魔物喵 捆绑艺术 Set.01",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31696"
+  },
+  {
+    "id": 25869,
+    "IDcode": "31621",
+    "title": "Cosplay Nagisa魔物喵 电子写真本",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31621"
+  },
+  {
+    "id": 25829,
+    "IDcode": "31581",
+    "title": "Cosplay Nagisa魔物喵 レム",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31581"
+  },
+  {
+    "id": 25775,
+    "IDcode": "31527",
+    "title": "[NAGISA魔物喵] 女仆的夏天 Maid&#8217;s Summer",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31527"
+  },
+  {
+    "id": 25713,
+    "IDcode": "31465",
+    "title": "[魔物喵] 4月に初投稿、4月もよろしくお願いします!",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31465"
+  },
+  {
+    "id": 25685,
+    "IDcode": "31437",
+    "title": "Cosplay Nagisa魔物喵 蜜柚MIO 新蔻島シンコウジマ #2",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31437"
+  },
+  {
+    "id": 25595,
+    "IDcode": "31347",
+    "title": "Cosplay Nagisa魔物喵 監禁Play Set.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31347"
+  },
+  {
+    "id": 25530,
+    "IDcode": "31282",
+    "title": "Cosplay Nagisa魔物喵 女仆小姐",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31282"
+  },
+  {
+    "id": 25278,
+    "IDcode": "31030",
+    "title": "[NAGISA魔物喵] 女仆的夏天 Maid&#8217;s Summer Vol.02",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=31030"
+  },
+  {
+    "id": 24646,
+    "IDcode": "30398",
+    "title": "百万COS博主 Onlyfans nagisa魔物喵",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      },
+      {
+        "name": "Onlyfans",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Onlyfans.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=30398"
+  },
+  {
+    "id": 24595,
+    "IDcode": "30347",
+    "title": "Nagesa魔物喵-电子版JK少女 34P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=30347"
+  },
+  {
+    "id": 23412,
+    "IDcode": "29164",
+    "title": "Nagisa魔物喵 VOL.05 51P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29164"
+  },
+  {
+    "id": 23369,
+    "IDcode": "29121",
+    "title": "[Nagisa魔物喵] Vol.04 85P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29121"
+  },
+  {
+    "id": 23293,
+    "IDcode": "29045",
+    "title": "Nagisa魔物喵 – 超級索尼子 48P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29045"
+  },
+  {
+    "id": 23261,
+    "IDcode": "29013",
+    "title": "[Nagisa魔物喵] vol.10[122P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=29013"
+  },
+  {
+    "id": 23210,
+    "IDcode": "28962",
+    "title": "[Nagesa魔物喵] VOL.9 SSSS.GRIDMAN - 96P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28962"
+  },
+  {
+    "id": 23175,
+    "IDcode": "28927",
+    "title": "[Nagisa]魔物喵vol04 171P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28927"
+  },
+  {
+    "id": 23052,
+    "IDcode": "28804",
+    "title": "NAGISA魔物喵 - 克隆人偶 93P",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=28804"
+  },
+  {
+    "id": 20051,
+    "IDcode": "25803",
+    "title": "魔物喵 - 夏の日常 [53P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25803"
+  },
+  {
+    "id": 20050,
+    "IDcode": "25802",
+    "title": "魔物喵 - 泡温泉 [50P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25802"
+  },
+  {
+    "id": 20049,
+    "IDcode": "25801",
+    "title": "[Cos]魔物喵 - 废弃医院[91P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25801"
+  },
+  {
+    "id": 20048,
+    "IDcode": "25800",
+    "title": "[福利姬]魔物喵 - 自撮り09[82P+2V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25800"
+  },
+  {
+    "id": 20047,
+    "IDcode": "25799",
+    "title": "[福利姬]魔物喵 - 女仆的夜晚[110P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25799"
+  },
+  {
+    "id": 20046,
+    "IDcode": "25798",
+    "title": "[Cos]魔物喵 - 生理课[150P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25798"
+  },
+  {
+    "id": 20045,
+    "IDcode": "25797",
+    "title": "[Cos]魔物喵 - 森之彼女[86P+4V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25797"
+  },
+  {
+    "id": 20044,
+    "IDcode": "25796",
+    "title": "[Cos]魔物喵 - 天台露出[39P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25796"
+  },
+  {
+    "id": 20043,
+    "IDcode": "25795",
+    "title": "[Cos]魔物喵 - エッチな妖怪[49P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25795"
+  },
+  {
+    "id": 20042,
+    "IDcode": "25794",
+    "title": "[Cos]魔物喵 - 巫女[53P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25794"
+  },
+  {
+    "id": 20041,
+    "IDcode": "25793",
+    "title": "[Cos]魔物喵 - 公厕监禁[50P+1V]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25793"
+  },
+  {
+    "id": 20040,
+    "IDcode": "25792",
+    "title": "[Cos]魔物喵 - 和风捆绑[95P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25792"
+  },
+  {
+    "id": 20039,
+    "IDcode": "25791",
+    "title": "[Cos]魔物喵 - 电子写真本03[35P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25791"
+  },
+  {
+    "id": 20038,
+    "IDcode": "25790",
+    "title": "[Cos]魔物喵 - 白丝护士包[60P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25790"
+  },
+  {
+    "id": 20037,
+    "IDcode": "25789",
+    "title": "[Cos]魔物喵 - 杂物间 [106P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25789"
+  },
+  {
+    "id": 20036,
+    "IDcode": "25788",
+    "title": "[Cos]魔物喵 - 女仆小姐 [73P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25788"
+  },
+  {
+    "id": 20035,
+    "IDcode": "25787",
+    "title": "[Cos]魔物喵 - 电子写真本02[38P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25787"
+  },
+  {
+    "id": 20034,
+    "IDcode": "25786",
+    "title": "魔物喵 VOL.27 夏の日常",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25786"
+  },
+  {
+    "id": 20033,
+    "IDcode": "25785",
+    "title": "魔物喵 VOL.25 女子高生の昼と夜[130p1v-636M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=25785"
+  },
+  {
+    "id": 18229,
+    "IDcode": "23981",
+    "title": "Nagisa魔物喵 四月番外篇 [252P-1.08G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=23981"
+  },
+  {
+    "id": 5824,
+    "IDcode": "20418",
+    "title": "魔物喵 夏の日常",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/7ac22ae7b420d0cd00816.jpg",
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20418"
+  },
+  {
+    "id": 5619,
+    "IDcode": "20233",
+    "title": "Nagesa魔物喵 - 胶带少女",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/8d7feda6460a0e41de3e2.jpg",
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20233"
+  },
+  {
+    "id": 5574,
+    "IDcode": "20193",
+    "title": "Nagesa魔物喵-电子版JK少女",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"JK\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/90245106990cbb251baad.jpg",
+    "actress": [
+      {
+        "name": "NAGISA魔物喵",
+        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=20193"
+  },
+  {
     "id": 4860,
     "IDcode": "1550",
     "title": "NAGISA魔物喵 -  森之彼女",
@@ -16,6 +2352,11 @@ window.PAGE_DATA = [
         "name": "NAGISA魔物喵",
         "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1550"
@@ -58,6 +2399,11 @@ window.PAGE_DATA = [
         "name": "NAGISA魔物喵",
         "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1548"
@@ -79,1672 +2425,13 @@ window.PAGE_DATA = [
         "name": "NAGISA魔物喵",
         "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
+      },
+      {
+        "name": "Nagisa",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nagisa.html"
       }
     ],
     "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1547"
-  },
-  {
-    "id": 4855,
-    "IDcode": "1546",
-    "title": "NAGISA魔物喵[fantia] - 主人の言いつけに従う爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/645b10729aef47ef4b112.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1546"
-  },
-  {
-    "id": 4854,
-    "IDcode": "1545",
-    "title": "NAGISA魔物喵 - 女仆之夜爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e8aceb1e2b257940865b4.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1545"
-  },
-  {
-    "id": 4853,
-    "IDcode": "1544",
-    "title": "NAGISA魔物喵 - 海军JK风爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6063d6b58e026a5c8b395.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1544"
-  },
-  {
-    "id": 4852,
-    "IDcode": "1543",
-    "title": "水淼aqua - 礼物喵爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1d37e930bea3a2cd155af.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      },
-      {
-        "name": "水淼",
-        "img_url": "https://image.acg.lol/file/2025/04/05/Ganyu_jk_01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_水淼.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1543"
-  },
-  {
-    "id": 4851,
-    "IDcode": "1542",
-    "title": "NAGISA魔物喵 - 电玩少女爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/033a5e4934b212b1f9ac3.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1542"
-  },
-  {
-    "id": 4850,
-    "IDcode": "1541",
-    "title": "NAGISA魔物喵 自摄系列 No.008 新入社员爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e18b9338450f93ea73b9f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1541"
-  },
-  {
-    "id": 4849,
-    "IDcode": "1540",
-    "title": "NAGISA魔物喵 - 猪猪粉肚兜爱丽丝写真",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"汉服\", \"内衣\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7fb81a3056055119ab61e.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1540"
-  },
-  {
-    "id": 4847,
-    "IDcode": "1539",
-    "title": "NAGISA魔物喵 自摄系列 No.005 艾米莉亚",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1418aa3ec32ad53bdb622.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1539"
-  },
-  {
-    "id": 4846,
-    "IDcode": "1538",
-    "title": "NAGISA魔物喵 和风",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/26cc372ae288b5c1b8166.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1538"
-  },
-  {
-    "id": 4845,
-    "IDcode": "1537",
-    "title": "NAGISA魔物喵 自摄系列 No.004 玉藻前同人",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"兽耳娘\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bc35fc5253ee5926cdb4d.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1537"
-  },
-  {
-    "id": 4844,
-    "IDcode": "1536",
-    "title": "NAGISA魔物喵[fantia] 女子高生の休日",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a65ff4772f7c330198ac2.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1536"
-  },
-  {
-    "id": 4843,
-    "IDcode": "1535",
-    "title": "NAGISA魔物喵[fantia] 2.14??バレンタインデーの楽しみ!",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3cb739d444818198fc434.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1535"
-  },
-  {
-    "id": 4842,
-    "IDcode": "1534",
-    "title": "NAGISA魔物喵[fantia] Merry Christmas",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f5b019a670d4c48a5b077.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1534"
-  },
-  {
-    "id": 4841,
-    "IDcode": "1533",
-    "title": "NAGISA魔物喵 客舱乘务员",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6340e53d9aec7255f1063.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1533"
-  },
-  {
-    "id": 4840,
-    "IDcode": "1532",
-    "title": "NAGISA魔物喵[fantia] エロいソニ子",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6a6c57444911fd0afe24b.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1532"
-  },
-  {
-    "id": 4839,
-    "IDcode": "1531",
-    "title": "NAGISA魔物喵[fantia] かわいい巫女さん!!(′?｀)?",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"和服\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a3e7d93fe9a224d510c16.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1531"
-  },
-  {
-    "id": 4838,
-    "IDcode": "1530",
-    "title": "NAGISA魔物喵 自摄系列 No.005 小奶牛",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9e96208ec0dcb07d58884.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1530"
-  },
-  {
-    "id": 4836,
-    "IDcode": "1529",
-    "title": "[COSPLAY] NAGISA魔物喵 自摄系列 No.003 人工智能包",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4e7d2c30bad4a0810e67f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1529"
-  },
-  {
-    "id": 4835,
-    "IDcode": "1528",
-    "title": "NAGISA魔物喵 VOL.07 女仆小姐",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a4c9eb10c6ddc374f9fd3.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1528"
-  },
-  {
-    "id": 4834,
-    "IDcode": "1527",
-    "title": "NAGISA魔物喵 VOL.05 乳牛",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/59eec2caa77069cd54627.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1527"
-  },
-  {
-    "id": 4833,
-    "IDcode": "1526",
-    "title": "NAGISA魔物喵 自摄系列 No.001 专属秘书",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2dd931958d91cea11164b.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1526"
-  },
-  {
-    "id": 4832,
-    "IDcode": "1525",
-    "title": "NAGISA魔物喵 Super Sonico 索尼子",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e3742ee6d15e2d87209c0.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1525"
-  },
-  {
-    "id": 4831,
-    "IDcode": "1524",
-    "title": "Nagesa魔物女 旗袍福利",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2ded1cfce87c4060d0bc0.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1524"
-  },
-  {
-    "id": 4830,
-    "IDcode": "1523",
-    "title": "NAGISA魔物喵 VOL.03 捆绑",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d413d97680ac01537bd1c.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1523"
-  },
-  {
-    "id": 4829,
-    "IDcode": "1522",
-    "title": "Nagesa魔物女本 白衣骑士",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f90a2886ff719d2a6fc26.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1522"
-  },
-  {
-    "id": 4828,
-    "IDcode": "1521",
-    "title": "NAGISA魔物喵 VOL.001 小彩蛋~",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f2852778788eceb1b7415.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1521"
-  },
-  {
-    "id": 4827,
-    "IDcode": "1520",
-    "title": "NAGISA魔物喵 VOL.09 宝多六花",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/29f81f15cbfcfe56b4f7f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1520"
-  },
-  {
-    "id": 4825,
-    "IDcode": "1519",
-    "title": "NAGISA魔物喵 自摄系列 No.002 白丝护士",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/372bcc10c5d2e48875de0.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1519"
-  },
-  {
-    "id": 4824,
-    "IDcode": "1518",
-    "title": "NAGISA魔物喵 VOL.10 杂物间",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bf1312c285f8899d00d39.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1518"
-  },
-  {
-    "id": 4823,
-    "IDcode": "1517",
-    "title": "NAGISA魔物喵 VOL.08 生理课",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8013c59805bf032fd6a26.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1517"
-  },
-  {
-    "id": 4822,
-    "IDcode": "1516",
-    "title": "NAGISA魔物喵 VOL.06 捆绑死库水",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a95f932bfe68fbabd267f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1516"
-  },
-  {
-    "id": 4821,
-    "IDcode": "1515",
-    "title": "NAGISA魔物喵 VOL.04 性感看护师",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1cb29152676b9d7889e4d.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1515"
-  },
-  {
-    "id": 4820,
-    "IDcode": "1514",
-    "title": "NAGISA魔物喵 VOL.02 加藤惠",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/449af6b18fd23e6e408e2.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1514"
-  },
-  {
-    "id": 4819,
-    "IDcode": "1513",
-    "title": "NAGISA魔物喵 VOL.001 JK少女",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"JK\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/48f5fa3324efd6b7739e6.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1513"
-  },
-  {
-    "id": 4818,
-    "IDcode": "1512",
-    "title": "Nagesa魔物女本 透视水手服+丁字裤",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3955a252d3a674e8c1115.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1512"
-  },
-  {
-    "id": 4817,
-    "IDcode": "1511",
-    "title": "Nagesa魔物女本 和风COS",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a528d564073a3beca74f1.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1511"
-  },
-  {
-    "id": 4816,
-    "IDcode": "1510",
-    "title": "Nagesa魔物女 微博图集",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5867775359a82740c74ae.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1510"
-  },
-  {
-    "id": 4814,
-    "IDcode": "1509",
-    "title": "NAGISA魔物喵[fantia] - ひとりでいる妻~",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d223d8798e3c44173888c.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1509"
-  },
-  {
-    "id": 4813,
-    "IDcode": "1508",
-    "title": "NAGISA魔物喵[fantia] - ヒョウ柄のワンピース",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/167b3e0a1356986b494ce.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1508"
-  },
-  {
-    "id": 4812,
-    "IDcode": "1507",
-    "title": "NAGISA魔物喵[fantia] - ✈️Cabin steward!!✈️",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/81a72a30d91bc2969ac20.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1507"
-  },
-  {
-    "id": 4811,
-    "IDcode": "1506",
-    "title": "NAGISA魔物喵 - 教室内的死库水",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"泳裝\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/157e483aca6e7a2e3d13a.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1506"
-  },
-  {
-    "id": 4810,
-    "IDcode": "1505",
-    "title": "NAGISA魔物喵 - 护士小姐自摄",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ac2a2b9d083183addcbba.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1505"
-  },
-  {
-    "id": 4809,
-    "IDcode": "1504",
-    "title": "NAGISA魔物喵[fantia] - ピンクのレースのうさぎ",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5af43671564b24329fff2.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1504"
-  },
-  {
-    "id": 4808,
-    "IDcode": "1503",
-    "title": "NAGISA魔物喵[fantia] - 悪魔嬢に射精して",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/754b462f84cb174146c5f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1503"
-  },
-  {
-    "id": 4807,
-    "IDcode": "1502",
-    "title": "NAGISA魔物喵[fantia] - レム～～～",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/53fa30c3014457bf61920.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1502"
-  },
-  {
-    "id": 4806,
-    "IDcode": "1501",
-    "title": "NAGISA魔物喵[fantia] - 戦損愛宕",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/10e95d40e32dc402520a6.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1501"
-  },
-  {
-    "id": 4805,
-    "IDcode": "1500",
-    "title": "NAGISA魔物喵[fantia] - Pink pig",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/946b64946cc81a23d4138.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1500"
-  },
-  {
-    "id": 4802,
-    "IDcode": "1499",
-    "title": "NAGISA魔物喵 自摄系列 No.010 小恶魔",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4064ac980128b7cf57149.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1499"
-  },
-  {
-    "id": 4801,
-    "IDcode": "1498",
-    "title": "NAGISA魔物喵[fantia] - いじめっ子の不良少女",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fa381bb0952e1d3e34d64.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1498"
-  },
-  {
-    "id": 4800,
-    "IDcode": "1497",
-    "title": "NAGISA魔物喵[fantia] - 4月もよろしくお願いします!",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3d4512b959f396e1e465d.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1497"
-  },
-  {
-    "id": 4799,
-    "IDcode": "1496",
-    "title": "NAGISA魔物喵 - 女仆小姐",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/74868fc9c2b82bfe831c9.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1496"
-  },
-  {
-    "id": 4798,
-    "IDcode": "1495",
-    "title": "NAGISA魔物喵[fantia] - エロい透け水着",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dcbc77cdd2544c3eb1c40.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1495"
-  },
-  {
-    "id": 4797,
-    "IDcode": "1494",
-    "title": "NAGISA魔物喵[fantia] - 黑丝网袜ol~~~",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b951b66e94404c3b4ee40.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1494"
-  },
-  {
-    "id": 4796,
-    "IDcode": "1493",
-    "title": "NAGISA魔物喵[fantia] - レム-猫耳パジャマ",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/93a9431d56191b432d022.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1493"
-  },
-  {
-    "id": 4795,
-    "IDcode": "1492",
-    "title": "NAGISA魔物喵[fantia] - 主人の好きな…",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6d1d40b8336127adb08d1.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1492"
-  },
-  {
-    "id": 4794,
-    "IDcode": "1491",
-    "title": "NAGISA魔物喵[fantia] - Hな行為をする小学生",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8c525015267d0f89c1aea.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1491"
-  },
-  {
-    "id": 4793,
-    "IDcode": "1490",
-    "title": "NAGISA魔物喵 - 海岛旅行自拍",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bd8b94974eb5efb08a1e6.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1490"
-  },
-  {
-    "id": 4791,
-    "IDcode": "1489",
-    "title": "NAGISA魔物喵[fantia] - かわいい転校生",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/466d90b9b566f608fed65.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1489"
-  },
-  {
-    "id": 4790,
-    "IDcode": "1488",
-    "title": "NAGISA魔物喵[fantia] - 純白のチャイナドレス",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1164a5514d9341f85f817.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1488"
-  },
-  {
-    "id": 4789,
-    "IDcode": "1487",
-    "title": "NAGISA魔物喵[fantia] - 夏のレースの下着",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/73dc879c204c1d53035df.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1487"
-  },
-  {
-    "id": 4788,
-    "IDcode": "1486",
-    "title": "[fantia] NAGISA魔物喵- ファン50000人達成ありがとう",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/694cdfaeb59264b549e71.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1486"
-  },
-  {
-    "id": 4787,
-    "IDcode": "1485",
-    "title": "[fantia] NAGISA魔物喵 - 今日は時雨です〜",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f987faf4ac3d1e6312746.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1485"
-  },
-  {
-    "id": 4786,
-    "IDcode": "1484",
-    "title": "NAGISA魔物喵[fantia] - 純情な少女",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4ad9f12c50374aa45655e.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1484"
-  },
-  {
-    "id": 4785,
-    "IDcode": "1483",
-    "title": "NAGISA魔物喵[fantia] - 女子高生の下着",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d6cceb0b74ad876637ea9.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1483"
-  },
-  {
-    "id": 4784,
-    "IDcode": "1482",
-    "title": "NAGISA魔物喵 - 黑丝OL",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1647e053234bbfd541ce0.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1482"
-  },
-  {
-    "id": 4783,
-    "IDcode": "1481",
-    "title": "NAGISA魔物喵[fantia] - ウ〜オ〜",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/97727da5a69963d170bd0.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1481"
-  },
-  {
-    "id": 4782,
-    "IDcode": "1480",
-    "title": "NAGISA魔物喵[fantia] - メイド〜",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/450d0a5241db0d5941afe.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1480"
-  },
-  {
-    "id": 4780,
-    "IDcode": "1479",
-    "title": "NAGISA魔物喵[fantia] - 看護師が必要ですか？",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/704e40fb4c2611ed5eb85.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1479"
-  },
-  {
-    "id": 4779,
-    "IDcode": "1478",
-    "title": "NAGISA魔物喵[fantia] - 仕事中～",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4accbdb22fc7f926249b9.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1478"
-  },
-  {
-    "id": 4778,
-    "IDcode": "1477",
-    "title": "NAGISA魔物喵[fantia] - ファン80000人達成ありがとう",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e90e082c060cfae8377e9.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1477"
-  },
-  {
-    "id": 4777,
-    "IDcode": "1476",
-    "title": "NAGISA魔物喵[fantia] - OL短裙",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d72bc6825808718b93b45.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1476"
-  },
-  {
-    "id": 4776,
-    "IDcode": "1475",
-    "title": "NAGISA魔物喵 - 監禁play",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/77b23e7af87eb2042ab5d.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1475"
-  },
-  {
-    "id": 4775,
-    "IDcode": "1474",
-    "title": "NAGISA魔物喵 - 人间牧场",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/df333cb3dc8ffb244a83f.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1474"
-  },
-  {
-    "id": 4774,
-    "IDcode": "1473",
-    "title": "NAGISA魔物喵[fantia] - 2023年06月打包合集",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a9a9ae41ce5ae38295c49.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1473"
-  },
-  {
-    "id": 4773,
-    "IDcode": "1472",
-    "title": "魔物喵 新入生入学の健康診断",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3dda2a111dae22dc178df.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1472"
-  },
-  {
-    "id": 4772,
-    "IDcode": "1471",
-    "title": "魔物喵 VOL.25 女子高生の昼と夜[130p1v-636M]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0728e6349ef1a602a04d9.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1471"
-  },
-  {
-    "id": 4771,
-    "IDcode": "1470",
-    "title": "魔物喵 VOL.27 夏の日常",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/9e6dc5df08cf140ff55cb.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1470"
-  },
-  {
-    "id": 4769,
-    "IDcode": "1469",
-    "title": "Nagisa魔物喵 女仆的夏天 [120P-434M]",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2c28d72cadb97ea61dec4.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1469"
-  },
-  {
-    "id": 4768,
-    "IDcode": "1468",
-    "title": "nagisa魔物喵 - ぼっち・ざ・ろっく",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-    "actress": [
-      {
-        "name": "NAGISA魔物喵",
-        "img_url": "https://i.postimg.cc/4dwyJcvj/01.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_NAGISA魔物喵.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=1468"
   }
 ];

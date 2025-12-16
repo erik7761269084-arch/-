@@ -1,16 +1,16 @@
 window.PAGE_DATA = [
   {
-    "id": 13792,
-    "IDcode": "7536",
-    "title": "爆机少女喵小吉 电锯人 玛奇玛",
+    "id": 43711,
+    "IDcode": "49535",
+    "title": "爆机少女喵小吉 - Nahida - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f2fcfc6fb21a726da4599.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -18,20 +18,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7536"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49535"
   },
   {
-    "id": 13791,
-    "IDcode": "7535",
-    "title": "爆机少女喵小吉 清平乐",
+    "id": 43706,
+    "IDcode": "49530",
+    "title": "爆机少女喵小吉 - 2月助眠视频 明日香 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/154aa14f8af8a454db94e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -39,20 +39,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7535"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=49530"
   },
   {
-    "id": 13790,
-    "IDcode": "7534",
-    "title": "爆机少女喵小吉 子不语",
+    "id": 40212,
+    "IDcode": "46035",
+    "title": "喵小吉 雷姆 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0041aebd85c7f9d0cfc6e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -60,20 +60,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7534"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46035"
   },
   {
-    "id": 13789,
-    "IDcode": "7533",
-    "title": "爆机少女喵小吉 人类补奸计划-明日香",
+    "id": 40208,
+    "IDcode": "46031",
+    "title": "【爆机少女喵小吉】尼尔机械纪元-花嫁 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1b22ba88c5e5ff3328ae8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -81,20 +81,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7533"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46031"
   },
   {
-    "id": 13788,
-    "IDcode": "7532",
-    "title": "爆机少女喵小吉 小吉的私密乐园",
+    "id": 40207,
+    "IDcode": "46030",
+    "title": "【爆机少女喵小吉】尼尔机械纪元-人形兵器 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a1f2d889dab261c8ce703.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -102,20 +102,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7532"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46030"
   },
   {
-    "id": 13787,
-    "IDcode": "7531",
-    "title": "爆机少女喵小吉 - 草神(原神)",
+    "id": 40196,
+    "IDcode": "46019",
+    "title": "喵小吉 雷姆 圣诞节 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2e175242288f245640f81.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -123,20 +123,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7531"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=46019"
   },
   {
-    "id": 13786,
-    "IDcode": "7530",
-    "title": "爆机少女喵小吉 - 小吉的答谢礼2",
+    "id": 40156,
+    "IDcode": "45979",
+    "title": "爆机少女喵小吉 - 喵酱的一天 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f38048985458cb6bb81e8.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -144,20 +144,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7530"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45979"
   },
   {
-    "id": 13784,
-    "IDcode": "7529",
-    "title": "爆机少女喵小吉 - 月华清",
+    "id": 39963,
+    "IDcode": "45786",
+    "title": "【爆机少女喵小吉】艾尔登法环-梅琳娜 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6e5fa364c0799640d283f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -165,20 +165,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7529"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45786"
   },
   {
-    "id": 13783,
-    "IDcode": "7528",
-    "title": "爆机少女喵小吉 - 幻",
+    "id": 39935,
+    "IDcode": "45758",
+    "title": "【爆机少女喵小吉】英雄联盟-拉克丝 水晶玫瑰 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7a8ec240442638bde2484.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -186,20 +186,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7528"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45758"
   },
   {
-    "id": 13782,
-    "IDcode": "7527",
-    "title": "爆机少女喵小吉 灼灼其华",
+    "id": 39827,
+    "IDcode": "45650",
+    "title": "爆机少女喵小吉 - Re：从零开始的夜生活 - Page 1",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/76a774d17b808b0e7fdea.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -207,20 +207,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7527"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45650"
   },
   {
-    "id": 13781,
-    "IDcode": "7526",
-    "title": "爆机少女喵小吉 双子：最强冰雪组合",
+    "id": 39258,
+    "IDcode": "45081",
+    "title": "爆机少女喵小吉 - 缘之空 春日野穹",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/af40e4df923b9466fc40d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -228,20 +228,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7526"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45081"
   },
   {
-    "id": 13780,
-    "IDcode": "7525",
-    "title": "爆机少女喵小吉 小吉的家政服务",
+    "id": 39257,
+    "IDcode": "45080",
+    "title": "爆机少女喵小吉 - 碧蓝档案 妃咲",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3e554efde0f4074ff1c1f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -249,20 +249,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7525"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45080"
   },
   {
-    "id": 13779,
-    "IDcode": "7524",
-    "title": "爆机少女喵小吉 赛博朋克-超梦",
+    "id": 39256,
+    "IDcode": "45079",
+    "title": "爆机少女喵小吉 - 电锯人 帕瓦",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/811ac966dcfac56fe2038.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -270,20 +270,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7524"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45079"
   },
   {
-    "id": 13778,
-    "IDcode": "7523",
-    "title": "爆机少女喵小吉 无聊的周末",
+    "id": 39255,
+    "IDcode": "45078",
+    "title": "爆机少女喵小吉 - 最终幻想7 蒂法",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/b449944d95c552144fd43.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -291,20 +291,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7523"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45078"
   },
   {
-    "id": 13777,
-    "IDcode": "7522",
-    "title": "爆机少女喵小吉 - 风玲公主",
+    "id": 39230,
+    "IDcode": "45053",
+    "title": "爆机少女喵小吉 - 艾达王",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/663bfc897e23dd2fba181.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -312,20 +312,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7522"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45053"
   },
   {
-    "id": 13776,
-    "IDcode": "7521",
-    "title": "爆机少女喵小吉 - 末班地铁",
+    "id": 39229,
+    "IDcode": "45052",
+    "title": "爆机少女喵小吉 - 玛奇玛",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/976c673bf4fc42653bd48.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -333,20 +333,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7521"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45052"
   },
   {
-    "id": 13775,
-    "IDcode": "7520",
-    "title": "爆机少女喵小吉 - 黑呆",
+    "id": 39228,
+    "IDcode": "45051",
+    "title": "爆机少女喵小吉 - NIKKE 爱丽丝",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d28baf335fb3ab1608a5e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -354,20 +354,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7520"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=45051"
   },
   {
-    "id": 13773,
-    "IDcode": "7519",
-    "title": "爆机少女喵小吉 - 间谍过家家-约尔·福杰",
+    "id": 39057,
+    "IDcode": "44880",
+    "title": "爆机少女喵小吉 - Eva：人类补奸计划 明日香",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cca8fb4a0fdb0ad4d9ccb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -375,20 +375,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7519"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44880"
   },
   {
-    "id": 13772,
-    "IDcode": "7518",
-    "title": "爆机少女喵小吉 - 浣溪沙.端午",
+    "id": 38933,
+    "IDcode": "44756",
+    "title": "爆机少女喵小吉 NO.067 原神-纳西妲",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/856b3bf1e22c87a0a53f4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -396,20 +396,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7518"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44756"
   },
   {
-    "id": 13771,
-    "IDcode": "7517",
-    "title": "爆机少女喵小吉 - 鸦",
+    "id": 38836,
+    "IDcode": "44659",
+    "title": "爆机少女喵小吉 - 赛博朋克 边缘行者 Lucy",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1cadc83344172426cf111.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -417,167 +417,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7517"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44659"
   },
   {
-    "id": 13770,
-    "IDcode": "7516",
-    "title": "喵小吉 - 超合金！！咸鱼外骨骼装甲！！",
+    "id": 38835,
+    "IDcode": "44658",
+    "title": "爆机少女喵小吉&花音栗子 - 原神圣诞特辑",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/327d823714786a1607a5e.jpg",
+    "cover_url": null,
     "actress": [
       {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7516"
-  },
-  {
-    "id": 13769,
-    "IDcode": "7515",
-    "title": "爆机少女喵小吉 - 战斗女仆",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/73fa74ec79e67f5b04777.jpg",
-    "actress": [
-      {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7515"
-  },
-  {
-    "id": 13768,
-    "IDcode": "7514",
-    "title": "爆机少女喵小吉 - 4月订阅T3 原神-甘雨",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7bd174be8cdc4aebac7c4.jpg",
-    "actress": [
-      {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7514"
-  },
-  {
-    "id": 13767,
-    "IDcode": "7513",
-    "title": "爆机少女喵小吉 - 4月订阅T3 碧蓝航线-大凤",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fd8357a7acd2319d8a26e.jpg",
-    "actress": [
-      {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7513"
-  },
-  {
-    "id": 13766,
-    "IDcode": "7512",
-    "title": "爆机少女喵小吉 - Tori Zero",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dcffe5d2832c6759d12a7.jpg",
-    "actress": [
-      {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7512"
-  },
-  {
-    "id": 13765,
-    "IDcode": "7511",
-    "title": "爆机少女喵小吉：从零开始的夜生活 全裝百式·改駕駛員吉小吉",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/39e4fba21f0d2d6f7d282.jpg",
-    "actress": [
-      {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7511"
-  },
-  {
-    "id": 13764,
-    "IDcode": "7510",
-    "title": "爆机少女喵小吉：天道",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/092f54d9ba86145b4d59a.jpg",
-    "actress": [
+        "name": "花音栗子",
+        "img_url": "https://telegra.ph/file/8d002e7dc4eb42de53c77.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_花音栗子.html"
+      },
       {
         "name": "喵小吉",
         "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7510"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44658"
   },
   {
-    "id": 13762,
-    "IDcode": "7509",
-    "title": "爆机少女喵小吉：拉克丝·水晶玫瑰",
+    "id": 38704,
+    "IDcode": "44527",
+    "title": "爆机少女喵小吉&云烧 - 原神花嫁：优菈&甘雨",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/448983d97993b32c5eebe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -585,62 +464,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7509"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44527"
   },
   {
-    "id": 13761,
-    "IDcode": "7508",
-    "title": "爆机少女喵小吉：艾尔登法环-梅琳娜",
+    "id": 38560,
+    "IDcode": "44383",
+    "title": "爆机少女喵小吉 NO.047 &金鱼✨kinngyo - 从零开始的女体盛宴",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d484ae9fb02f5bdf41833.jpg",
+    "cover_url": null,
     "actress": [
       {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7508"
-  },
-  {
-    "id": 13760,
-    "IDcode": "7507",
-    "title": "爆机少女喵小吉：狐妖·楚佩湘弦",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/805f848b327d605a62cf9.jpg",
-    "actress": [
+        "name": "金鱼",
+        "img_url": "https://telegra.ph/file/b3c74076539fe77c7289a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金鱼.html"
+      },
       {
         "name": "喵小吉",
         "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7507"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44383"
   },
   {
-    "id": 13759,
-    "IDcode": "7506",
-    "title": "爆机少女喵小吉：福利",
+    "id": 38557,
+    "IDcode": "44380",
+    "title": "爆机少女喵小吉 - 风铃公主 (Aeolian)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f1bd85aeb2714e760c688.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -648,20 +511,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7506"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44380"
   },
   {
-    "id": 13758,
-    "IDcode": "7505",
-    "title": "爆机少女喵小吉：实习护士",
+    "id": 38405,
+    "IDcode": "44228",
+    "title": "爆机少女喵小吉 - 曙光爵银龙 拟人 (Malzeno）",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6250c4e603884b3a68748.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -669,62 +532,46 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7505"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44228"
   },
   {
-    "id": 13757,
-    "IDcode": "7504",
-    "title": "爆机少女喵小吉：秘密茶会",
+    "id": 38402,
+    "IDcode": "44225",
+    "title": "爆机少女喵小吉&金鱼✨kinngyo - 双子系列 从零开始異世界生活",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3405d9508496f6112efc8.jpg",
+    "cover_url": null,
     "actress": [
       {
-        "name": "喵小吉",
-        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
-      }
-    ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7504"
-  },
-  {
-    "id": 13756,
-    "IDcode": "7503",
-    "title": "爆机少女喵小吉：骸骨少女",
-    "year": null,
-    "country": null,
-    "genre": null,
-    "genres": "[]",
-    "type": null,
-    "company": null,
-    "publish_date": null,
-    "cover_url": "https://telegra.ph/file/5b65522ab98863c8fbb70.jpg",
-    "actress": [
+        "name": "金鱼",
+        "img_url": "https://telegra.ph/file/b3c74076539fe77c7289a.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_金鱼.html"
+      },
       {
         "name": "喵小吉",
         "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7503"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44225"
   },
   {
-    "id": 13755,
-    "IDcode": "7502",
-    "title": "爆机少女喵小吉：尼尔 机械纪元 花嫁.人形兵器",
+    "id": 38366,
+    "IDcode": "44189",
+    "title": "[爆机少女喵小吉] 天竺少女",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"婚纱\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/0493ba0323ea5c34d4ff2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -732,20 +579,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7502"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44189"
   },
   {
-    "id": 13754,
-    "IDcode": "7501",
-    "title": "爆机少女喵小吉：小吉的电玩时间",
+    "id": 38347,
+    "IDcode": "44170",
+    "title": "爆机少女喵小吉 - 黑呆 (Saber Alter)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4d17cc8174793e96c8760.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -753,20 +600,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7501"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44170"
   },
   {
-    "id": 13753,
-    "IDcode": "7500",
-    "title": "爆机少女喵小吉：週末に一人で",
+    "id": 38346,
+    "IDcode": "44169",
+    "title": "爆机少女喵小吉 - 风花雪月 (Byleth Eisner)",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/473fb460e98e5a9b49448.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -774,20 +621,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7500"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44169"
   },
   {
-    "id": 13750,
-    "IDcode": "7499",
-    "title": "爆机少女喵小吉：永恒魅魔",
+    "id": 38297,
+    "IDcode": "44120",
+    "title": "爆机少女喵小吉 - Reisalin Stout",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/381a544678c6aa3c64d7d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -795,20 +642,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7499"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44120"
   },
   {
-    "id": 13749,
-    "IDcode": "7498",
-    "title": "爆机少女喵小吉：喵酱的一天",
+    "id": 38296,
+    "IDcode": "44119",
+    "title": "爆机少女喵小吉 - Rizu-kyun",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c17fae648e31c7f70649a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -816,20 +663,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7498"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44119"
   },
   {
-    "id": 13748,
-    "IDcode": "7497",
-    "title": "爆机少女喵小吉：从零开始的圣诞节",
+    "id": 38295,
+    "IDcode": "44118",
+    "title": "爆机少女喵小吉 - Yor Forger",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/09486adaca0e6a6158f90.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -837,20 +684,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7497"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44118"
   },
   {
-    "id": 13747,
-    "IDcode": "7496",
-    "title": "爆机少女喵小吉：ゼロから始める異世界生活",
+    "id": 38207,
+    "IDcode": "44030",
+    "title": "【爆机少女喵小吉】罪恶王冠 ギルティクラウン",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/18df30da5122569a7cd02.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -858,20 +705,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7496"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=44030"
   },
   {
-    "id": 13746,
-    "IDcode": "7495",
-    "title": "爆机少女喵小吉 - 骸骨少女",
+    "id": 38138,
+    "IDcode": "43961",
+    "title": "爆机少女喵小吉 - 原神 甘雨",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2dd266c82a5275ca843fb.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -879,20 +726,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7495"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43961"
   },
   {
-    "id": 13745,
-    "IDcode": "7494",
-    "title": "爆机少女喵小吉 - 艾尔登法环-梅琳娜",
+    "id": 37822,
+    "IDcode": "43645",
+    "title": "爆机少女喵小吉 - 蜜桃乌龙 [89P 2V-1.83G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7eff62f7949af00ca69d3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -900,20 +747,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7494"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43645"
   },
   {
-    "id": 13744,
-    "IDcode": "7493",
-    "title": "爆机少女喵小吉 - 秘密茶会",
+    "id": 37821,
+    "IDcode": "43644",
+    "title": "爆机少女喵小吉 - 生化危机 艾达·王 [81P 1V-1.45G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/05298ecebbf20f3a50c16.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -921,20 +768,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7493"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43644"
   },
   {
-    "id": 13743,
-    "IDcode": "7492",
-    "title": "爆机少女喵小吉 - 狐妖・楚佩湘弦",
+    "id": 37820,
+    "IDcode": "43643",
+    "title": "爆机少女喵小吉 - 电锯人 玛奇玛",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/babe53f3712e4854c2d02.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -942,20 +789,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7492"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43643"
   },
   {
-    "id": 13742,
-    "IDcode": "7491",
-    "title": "爆机少女喵小吉 - 喵酱的一天",
+    "id": 37819,
+    "IDcode": "43642",
+    "title": "爆机少女喵小吉 - NIKKE 爱丽丝",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6797d29083845097ab0a0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -963,20 +810,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7491"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43642"
   },
   {
-    "id": 13741,
-    "IDcode": "7490",
-    "title": "爆机少女喵小吉 - 浣溪沙.端午",
+    "id": 37818,
+    "IDcode": "43641",
+    "title": "爆机少女喵小吉 - AI 兔子女仆 [140P-144MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/35388489d4d2fa152e09d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -984,20 +831,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7490"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43641"
   },
   {
-    "id": 13739,
-    "IDcode": "7489",
-    "title": "爆机少女喵小吉 - 超合金咸鱼外骨骼装甲",
+    "id": 37817,
+    "IDcode": "43640",
+    "title": "爆机少女喵小吉3月T3写真 - 花间集",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/dc0a3cb2fc0a6a57daa05.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1005,20 +852,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7489"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43640"
   },
   {
-    "id": 13738,
-    "IDcode": "7488",
-    "title": "爆机少女喵小吉 - 魅魔",
+    "id": 37809,
+    "IDcode": "43632",
+    "title": "喵小吉 - 蜜桃乌龙 [89P 2V-1.83G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ec2221e9261e0efcf76cf.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1026,20 +873,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7488"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43632"
   },
   {
-    "id": 13737,
-    "IDcode": "7487",
-    "title": "爆机少女喵小吉 - 限定.瓶中精灵",
+    "id": 37789,
+    "IDcode": "43612",
+    "title": "喵小吉 - 月华清",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/22a6017aabdf4e433c4d9.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1047,20 +894,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7487"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43612"
   },
   {
-    "id": 13736,
-    "IDcode": "7486",
-    "title": "爆机少女喵小吉 - 瓶中精灵",
+    "id": 37788,
+    "IDcode": "43611",
+    "title": "喵小吉 - 玉兔迎春",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3505b0ff87b5848bd1346.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1068,20 +915,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7486"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43611"
   },
   {
-    "id": 13735,
-    "IDcode": "7485",
-    "title": "爆机少女喵小吉 - 週末に一人で",
+    "id": 37787,
+    "IDcode": "43610",
+    "title": "喵小吉 - 小吉的快乐野餐",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fc67231b69c057ddd45d0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1089,20 +936,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7485"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43610"
   },
   {
-    "id": 13734,
-    "IDcode": "7484",
-    "title": "喵小吉 玉兔迎春（2月1打赏群资源）",
+    "id": 37786,
+    "IDcode": "43609",
+    "title": "喵小吉 - 小吉的答谢礼2",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e8053c8e5095f335826b3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1110,20 +957,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7484"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43609"
   },
   {
-    "id": 13733,
-    "IDcode": "7483",
-    "title": "爆机少女喵小吉 恶堕修女（3月1打赏群资源）",
+    "id": 37785,
+    "IDcode": "43608",
+    "title": "喵小吉 - 草神",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/8cc1dae30b7520768f69c.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1131,20 +978,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7483"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43608"
   },
   {
-    "id": 13732,
-    "IDcode": "7482",
-    "title": "爆机少女喵小吉 AI 兔子女仆（4月1打赏群资源）",
+    "id": 37784,
+    "IDcode": "43607",
+    "title": "喵小吉 - 白色花嫁",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/bb02ee25f36d5cd0c2a78.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1152,20 +999,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7482"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43607"
   },
   {
-    "id": 13731,
-    "IDcode": "7481",
-    "title": "爆机少女喵小吉 蜜桃乌龙（4月1打赏群资源）",
+    "id": 37777,
+    "IDcode": "43600",
+    "title": "喵小吉 - 子不语",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/61ef096258da1d15501d0.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1173,20 +1020,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7481"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43600"
   },
   {
-    "id": 13730,
-    "IDcode": "7480",
-    "title": "爆机少女喵小吉 花间集（4月1打赏群资源）",
+    "id": 37776,
+    "IDcode": "43599",
+    "title": "喵小吉 - 小吉的私密乐园",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/55076975945e698c32a9e.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1194,20 +1041,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7480"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43599"
   },
   {
-    "id": 13728,
-    "IDcode": "7479",
-    "title": "爆机少女喵小吉 NIKKE 爱丽丝（4月1打赏群资源）",
+    "id": 37775,
+    "IDcode": "43598",
+    "title": "喵小吉 - 人类补奸计划-明日香",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3df526774afdadd328447.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1215,20 +1062,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7479"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43598"
   },
   {
-    "id": 13727,
-    "IDcode": "7478",
-    "title": "爆机少女喵小吉 电锯人 玛奇玛（4月1打赏群资源）",
+    "id": 37774,
+    "IDcode": "43597",
+    "title": "喵小吉 - 清平乐",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/a30533e2fc412ae760f23.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1236,20 +1083,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7478"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43597"
   },
   {
-    "id": 13726,
-    "IDcode": "7477",
-    "title": "爆机少女喵小吉 生化危机 艾达王（4月1打赏群资源）",
+    "id": 37773,
+    "IDcode": "43596",
+    "title": "喵小吉 - 恶堕修女",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3d927f4b2e068d4940e55.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1257,20 +1104,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7477"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43596"
   },
   {
-    "id": 13725,
-    "IDcode": "7476",
-    "title": "爆机少女喵小吉 T3赠品 小魅魔（10月1打赏群资源）",
+    "id": 37701,
+    "IDcode": "43524",
+    "title": "爆机少女喵小吉 - NO.67 T3限定 幻 [31P-378MB]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/89437cf51347d08c46fd6.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1278,20 +1125,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7476"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43524"
   },
   {
-    "id": 13724,
-    "IDcode": "7475",
-    "title": "爆机少女喵小吉 Re：从零开始的女体盛宴（10月1打赏群资源）",
+    "id": 37700,
+    "IDcode": "43523",
+    "title": "爆机少女喵小吉 - NO.66 小吉的答谢礼 [78P 2V-1.65G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/37c5dd17e5315340a91d5.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1299,20 +1146,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7475"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43523"
   },
   {
-    "id": 13723,
-    "IDcode": "7474",
-    "title": "爆机少女喵小吉 风铃公主（10月1打赏群资源）",
+    "id": 37699,
+    "IDcode": "43522",
+    "title": "爆机少女喵小吉 - NO.64 小吉的秘密花园 [68P 2V-1.68G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/60880f4eb7498f60fb9a3.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1320,20 +1167,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7474"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43522"
   },
   {
-    "id": 13722,
-    "IDcode": "7473",
-    "title": "爆机少女喵小吉 临江仙（10月1打赏群资源）",
+    "id": 37698,
+    "IDcode": "43521",
+    "title": "爆机少女喵小吉 - NO.62 赛博朋克 边缘行者 Lcuy [93P 4V-2.73G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/780c6edd86f93d255d4b4.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1341,20 +1188,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7473"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43521"
   },
   {
-    "id": 13721,
-    "IDcode": "7472",
-    "title": "爆机少女喵小吉 超合金！！咸鱼外骨骼装甲！！（6月3会员资源）",
+    "id": 37636,
+    "IDcode": "43459",
+    "title": "爆机少女喵小吉 - 古董店人偶",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e43591c9dffc5a82a031b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1362,20 +1209,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7472"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43459"
   },
   {
-    "id": 13719,
-    "IDcode": "7470",
-    "title": "爆机少女喵小吉 碧蓝航线-大凤",
+    "id": 37635,
+    "IDcode": "43458",
+    "title": "爆机少女喵小吉 - 灼灼其华",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"碧蓝航线\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/472a638c78c72f198bc81.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1383,20 +1230,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7470"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43458"
   },
   {
-    "id": 13717,
-    "IDcode": "7469",
-    "title": "爆机少女喵小吉 永恒魅魔 52p 2v",
+    "id": 37634,
+    "IDcode": "43457",
+    "title": "爆机少女喵小吉 - 双子：最强冰雪组合",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6cfe1d66bf626f6390df2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1404,20 +1251,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7469"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43457"
   },
   {
-    "id": 13716,
-    "IDcode": "7468",
-    "title": "爆机少女喵小吉 实习护士 30p",
+    "id": 37633,
+    "IDcode": "43456",
+    "title": "爆机少女喵小吉 - 小吉的家政服务",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"护士\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e84a85c432ba00a6f732a.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1425,20 +1272,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7468"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43456"
   },
   {
-    "id": 13715,
-    "IDcode": "7467",
-    "title": "喵小吉 - 喵酱的一天 30P 4V",
+    "id": 37632,
+    "IDcode": "43455",
+    "title": "爆机少女喵小吉 - 长相思",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c4fa88739a802207135e2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1446,20 +1293,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7467"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43455"
   },
   {
-    "id": 13714,
-    "IDcode": "7466",
-    "title": "爆机少女喵小吉《忠粉福利白喫作品》135MB 11P",
+    "id": 37527,
+    "IDcode": "43350",
+    "title": "喵小吉 - 赛博朋克-超梦",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1c1905b0142e663bcf4a6.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1467,20 +1314,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7466"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43350"
   },
   {
-    "id": 13713,
-    "IDcode": "7465",
-    "title": "爆机少女喵小吉 - 拉克丝·水晶玫瑰",
+    "id": 37526,
+    "IDcode": "43349",
+    "title": "喵小吉 - 无聊的周末",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/ff3eed10a2c2e62fd3559.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1488,20 +1335,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7465"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43349"
   },
   {
-    "id": 13712,
-    "IDcode": "7464",
-    "title": "爆机少女喵小吉 - 小吉的电玩时间",
+    "id": 37525,
+    "IDcode": "43348",
+    "title": "喵小吉 - 小吉忍法帖",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/aa53147590cdb37022ca4.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1509,20 +1356,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7464"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43348"
   },
   {
-    "id": 13711,
-    "IDcode": "7463",
-    "title": "喵小吉 - 天道",
+    "id": 37524,
+    "IDcode": "43347",
+    "title": "喵小吉 - 如梦令",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/22936cfd7c66478133c65.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1530,20 +1377,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7463"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43347"
   },
   {
-    "id": 13710,
-    "IDcode": "7462",
-    "title": "吉小吉（喵小吉）- Re：从零开始的夜生活",
+    "id": 37523,
+    "IDcode": "43346",
+    "title": "喵小吉 - 镜花水月",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/076b5cd5565321fd54cbe.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1551,20 +1398,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7462"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43346"
   },
   {
-    "id": 13709,
-    "IDcode": "7461",
-    "title": "喵小吉 4月订阅T3 原神-甘雨",
+    "id": 37457,
+    "IDcode": "43280",
+    "title": "喵小吉 - 小魅魔 [38P-371M]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"原神\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/01d7ec036d268dd44a4ce.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1572,20 +1419,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7461"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43280"
   },
   {
-    "id": 13708,
-    "IDcode": "7460",
-    "title": "喵小吉 4月订阅T3 永劫无间-胡桃",
+    "id": 37456,
+    "IDcode": "43279",
+    "title": "喵小吉 - 临江仙 [81P2V-2.38G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/f0b85a48085be3bbc6c7c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1593,20 +1440,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7460"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43279"
   },
   {
-    "id": 13706,
-    "IDcode": "7459",
-    "title": "喵小吉 - 鸦（6月2会员资源）",
+    "id": 37455,
+    "IDcode": "43278",
+    "title": "喵小吉 - 小吉的小镇生活 [107P 2V-3.3G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/89891a5a6c63ced315840.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1614,20 +1461,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7459"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43278"
   },
   {
-    "id": 13705,
-    "IDcode": "7458",
-    "title": "喵小吉 - 罪恶王冠",
+    "id": 37454,
+    "IDcode": "43277",
+    "title": "喵小吉 - 风铃公主 [48P 1V-2.47G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/cb71b55e9eda8730d09e2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1635,20 +1482,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7458"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43277"
   },
   {
-    "id": 13703,
-    "IDcode": "7456",
-    "title": "喵小吉 - 战斗女仆（6月3会员资源）",
+    "id": 37453,
+    "IDcode": "43276",
+    "title": "喵小吉 - 小吉的暑期补习班 [93P 1V-3.36G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"女仆\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/be91925b4432a90de15ec.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1656,20 +1503,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7456"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43276"
   },
   {
-    "id": 13702,
-    "IDcode": "7455",
-    "title": "喵小吉 - T3限定 - 猫娘",
+    "id": 37452,
+    "IDcode": "43275",
+    "title": "喵小吉 - Re：从零开始的女体盛宴 [101P 1V-2.56G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/2af92d5d55aec4f23ca35.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1677,20 +1524,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7455"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43275"
   },
   {
-    "id": 13701,
-    "IDcode": "7454",
-    "title": "喵小吉 - 浣溪沙·端午",
+    "id": 37364,
+    "IDcode": "43187",
+    "title": "喵小吉 - 微醺时刻",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/693480bbf838ec7d843af.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1698,20 +1545,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7454"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43187"
   },
   {
-    "id": 13700,
-    "IDcode": "7453",
-    "title": "喵小吉 - 更衣人偶坠入爱河（7月3会员资源）",
+    "id": 37363,
+    "IDcode": "43186",
+    "title": "喵小吉 - 曙光爵银龙 拟人",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/03dcb0c70287ebca5817f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1719,20 +1566,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7453"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43186"
   },
   {
-    "id": 13699,
-    "IDcode": "7452",
-    "title": "喵小吉 - 间谍过家家-约尔·福杰（7月1会员资源）",
+    "id": 37362,
+    "IDcode": "43185",
+    "title": "喵小吉 - 绮怀",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c79697ddf6bd2eac919f2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1740,20 +1587,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7452"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43185"
   },
   {
-    "id": 13698,
-    "IDcode": "7451",
-    "title": "喵小吉 - 莱莎的炼金工房2（7月3会员资源）",
+    "id": 37361,
+    "IDcode": "43184",
+    "title": "喵小吉 - 从零开始異世界生活",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/579ad0614b900bf3b2a89.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1761,20 +1608,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7451"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43184"
   },
   {
-    "id": 13697,
-    "IDcode": "7450",
-    "title": "喵小吉 - 小吉的午后时光",
+    "id": 37281,
+    "IDcode": "43104",
+    "title": "爆机少女喵小吉 - 私人看护",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e387acb4dcb0b30a7546c.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1782,20 +1629,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7450"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43104"
   },
   {
-    "id": 13695,
-    "IDcode": "7449",
-    "title": "爆机少女喵小吉 - Fate stay night 黑呆 [92P-962MB]",
+    "id": 37273,
+    "IDcode": "43096",
+    "title": "爆机少女喵小吉 - 天竺少女[169P5V-5.74G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/935e0f565261d0d33290d.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1803,20 +1650,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7449"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43096"
   },
   {
-    "id": 13694,
-    "IDcode": "7448",
-    "title": "爆机少女喵小吉 风花雪月 [98P4V-4.47G]",
+    "id": 37272,
+    "IDcode": "43095",
+    "title": "爆机少女喵小吉 - 末班地铁[93P4V-5.17G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/addd47f52b6e2dab00185.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1824,20 +1671,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7448"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43095"
   },
   {
-    "id": 13693,
-    "IDcode": "7447",
-    "title": "爆机少女喵小吉 深夜地铁",
+    "id": 37243,
+    "IDcode": "43066",
+    "title": "爆机少女喵小吉 - Fate stay night 黑呆",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/51e4b13d9d67418babb80.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1845,20 +1692,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7447"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43066"
   },
   {
-    "id": 13692,
-    "IDcode": "7446",
-    "title": "titi 钛合金 && 喵小吉  双子：天竺少女",
+    "id": 37242,
+    "IDcode": "43065",
+    "title": "爆机少女喵小吉 NO.039 风花雪月 Nekokoyoshi - Byleth Eisner [98P4V-4.47G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[\"汉服\"]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/1e748d5f1274e9e042df2.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1866,25 +1713,51 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       },
       {
-        "name": "钛合金",
-        "img_url": "https://telegra.ph/file/f51ac56d04d50314ffef0.jpg",
-        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_钛合金.html"
+        "name": "Nekokoyoshi",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nekokoyoshi.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7446"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43065"
   },
   {
-    "id": 13691,
-    "IDcode": "7445",
-    "title": "喵小吉 私人看护",
+    "id": 37241,
+    "IDcode": "43064",
+    "title": "爆机少女喵小吉 NO.039 风花雪月 Nekokoyoshi - Byleth Eisner [98P4V-4.47G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/e40992195b88eb9ad151e.jpg",
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      },
+      {
+        "name": "Nekokoyoshi",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nekokoyoshi.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43064"
+  },
+  {
+    "id": 37240,
+    "IDcode": "43063",
+    "title": "爆机少女喵小吉 - Fate stay night 黑呆",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1892,20 +1765,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7445"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=43063"
   },
   {
-    "id": 13690,
-    "IDcode": "7444",
-    "title": "喵小吉X金鱼 第１弹 双子系列💕从零开始異世界生活",
+    "id": 37018,
+    "IDcode": "42841",
+    "title": "喵小吉 - 小吉的午后时光",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/3f2edd0b052754ac45778.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1913,20 +1786,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7444"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42841"
   },
   {
-    "id": 13689,
-    "IDcode": "7443",
-    "title": "喵小吉 绮怀",
+    "id": 37017,
+    "IDcode": "42840",
+    "title": "喵小吉 - 猫娘",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1934,20 +1807,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7443"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42840"
   },
   {
-    "id": 13688,
-    "IDcode": "7442",
-    "title": "喵小吉 曙光爵银龙 拟人 （缺）",
+    "id": 37016,
+    "IDcode": "42839",
+    "title": "喵小吉 - 莱莎的炼金工房2",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/973a35a8341ba641d4f96.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1955,20 +1828,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7442"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42839"
   },
   {
-    "id": 13687,
-    "IDcode": "7441",
-    "title": "爆机少女喵小吉 微醺时刻",
+    "id": 37005,
+    "IDcode": "42828",
+    "title": "喵小吉-间谍过家家-约尔·福杰[76P2V 326M]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/6aa8ffb06e6843cf4ea3b.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1976,20 +1849,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7441"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42828"
   },
   {
-    "id": 13686,
-    "IDcode": "7440",
-    "title": "喵小吉 微醺时刻（缺）",
+    "id": 36922,
+    "IDcode": "42745",
+    "title": "爆机少女喵小吉 - 浣溪沙.端午[98P3V-3.26G]",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c949d2a057dd548497d16.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -1997,20 +1870,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7440"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42745"
   },
   {
-    "id": 13683,
-    "IDcode": "7438",
-    "title": "喵小吉 绮怀（9月1会员资源）",
+    "id": 36909,
+    "IDcode": "42732",
+    "title": "喵小吉 - 更衣人偶坠入爱河",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/fbaf8d2982227d4432b4f.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -2018,20 +1891,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7438"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42732"
   },
   {
-    "id": 13682,
-    "IDcode": "7437",
-    "title": "喵小吉 怪物猎人 曙光（9月1会员资源）",
+    "id": 36835,
+    "IDcode": "42658",
+    "title": "喵小吉 - 小吉的雪糕时间",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d09d28afe8345d2c7fa80.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -2039,20 +1912,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7437"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42658"
   },
   {
-    "id": 13681,
-    "IDcode": "7436",
-    "title": "喵小吉 T3限定 密室监禁（9月1会员资源）",
+    "id": 36825,
+    "IDcode": "42648",
+    "title": "喵小吉 - 超合金！！咸鱼外骨骼装甲！！",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/c52470a025854dd644707.jpg",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -2060,20 +1933,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7436"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42648"
   },
   {
-    "id": 13680,
-    "IDcode": "7435",
-    "title": "喵小吉 小吉的暑期补习班（10月1打赏群资源）",
+    "id": 36824,
+    "IDcode": "42647",
+    "title": "喵小吉 - 战斗女仆",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/d294147e99d6105ed199e.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -2081,20 +1954,20 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7435"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42647"
   },
   {
-    "id": 13679,
-    "IDcode": "7434",
-    "title": "喵小吉 小吉的小镇生活（10月1打赏群资源）",
+    "id": 36804,
+    "IDcode": "42627",
+    "title": "喵小吉 - 鸦",
     "year": null,
     "country": null,
     "genre": null,
-    "genres": "[]",
-    "type": null,
+    "genres": null,
+    "type": "有码",
     "company": null,
     "publish_date": null,
-    "cover_url": "https://telegra.ph/file/4bd0513a42b44088eb9bb.png",
+    "cover_url": null,
     "actress": [
       {
         "name": "喵小吉",
@@ -2102,6 +1975,158 @@ window.PAGE_DATA = [
         "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
       }
     ],
-    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=7434"
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42627"
+  },
+  {
+    "id": 36795,
+    "IDcode": "42618",
+    "title": "喵小吉 - 罪恶王冠",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42618"
+  },
+  {
+    "id": 36496,
+    "IDcode": "42318",
+    "title": "爆机少女喵小吉 - 瓶中精灵 [23P 224M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42318"
+  },
+  {
+    "id": 36453,
+    "IDcode": "42275",
+    "title": "喵小吉 - 永劫无间 胡桃 [50P7V-3.39GB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42275"
+  },
+  {
+    "id": 36452,
+    "IDcode": "42274",
+    "title": "爆机少女喵小吉 - 原神甘雨[61P1V 1.85G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42274"
+  },
+  {
+    "id": 36451,
+    "IDcode": "42273",
+    "title": "喵小吉 - 艾尔登法环-梅琳娜 [31P1V 584M]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42273"
+  },
+  {
+    "id": 36450,
+    "IDcode": "42272",
+    "title": "喵小吉 - 天道[42P1V 1.2G]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=42272"
+  },
+  {
+    "id": 35171,
+    "IDcode": "40976",
+    "title": "Nekokoyoshi 爆机少女喵小吉 – 小吉的午后时光",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": null,
+    "type": "有码",
+    "company": null,
+    "publish_date": null,
+    "cover_url": null,
+    "actress": [
+      {
+        "name": "喵小吉",
+        "img_url": "https://telegra.ph/file/7721d6754c162030123fd.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_喵小吉.html"
+      },
+      {
+        "name": "Nekokoyoshi",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_Nekokoyoshi.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=40976"
   }
 ];
