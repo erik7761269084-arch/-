@@ -1,0 +1,317 @@
+window.PAGE_DATA = [
+  {
+    "id": 14485,
+    "IDcode": "815",
+    "title": "G44不会受伤 碧蓝档案 黑见芹香泳装[20P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/dfd32cbda9a04fda2bf67.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=815"
+  },
+  {
+    "id": 14474,
+    "IDcode": "814",
+    "title": "G44不会受伤 碧蓝档案 花冈柚子[25P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/78bd46dffbaf428db4839.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=814"
+  },
+  {
+    "id": 14463,
+    "IDcode": "813",
+    "title": "G44不会受伤 碧蓝档案 伊吕波[24P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"碧蓝航线\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/5d671e3701097f2c7b5ef.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=813"
+  },
+  {
+    "id": 14452,
+    "IDcode": "812",
+    "title": "G44不会受伤 卡恰[20P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/00ac59eb2dbaddef722a6.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=812"
+  },
+  {
+    "id": 14441,
+    "IDcode": "811",
+    "title": "G44不会受伤 魔卡少女樱 莓铃李[22P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3db87c9790046abbdabc8.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=811"
+  },
+  {
+    "id": 14430,
+    "IDcode": "810",
+    "title": "G44不会受伤 能代[20P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/5b735c519764d7aaa4b79.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=810"
+  },
+  {
+    "id": 14418,
+    "IDcode": "809",
+    "title": "G44不会受伤 水泳部的部长[57P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/03ef43f98e841fd447660.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=809"
+  },
+  {
+    "id": 14407,
+    "IDcode": "808",
+    "title": "G44不会受伤 药指[25P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/c9bd5b02745f088471618.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=808"
+  },
+  {
+    "id": 14396,
+    "IDcode": "807",
+    "title": "G44不会受伤 初音酱[31P]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/3f4a148461b2056db886e.png",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=807"
+  },
+  {
+    "id": 14385,
+    "IDcode": "806",
+    "title": "G44不会受伤 Noa [30P-298MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/03ec5e709ed091921eb6f.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=806"
+  },
+  {
+    "id": 14374,
+    "IDcode": "805",
+    "title": "G44不会受伤 美露莘 [33P-312MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/f6fa30c1d21b145750ddf.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=805"
+  },
+  {
+    "id": 14363,
+    "IDcode": "804",
+    "title": "G44不会受伤 水兰儿兔女郎 [31P-251MB]",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"兽耳娘\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://telegra.ph/file/77a573214c7ec09029b88.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=804"
+  },
+  {
+    "id": 14352,
+    "IDcode": "803",
+    "title": "G44不会受伤 梦梦",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://image.acg.lol/file/2025/06/29/1-177d013d3a1740e9c.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=803"
+  },
+  {
+    "id": 14341,
+    "IDcode": "802",
+    "title": "G44不会受伤 - 无名",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://www.qpic.ws/images/2025/07/08/HmV6pJ.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=802"
+  },
+  {
+    "id": 14330,
+    "IDcode": "801",
+    "title": "G44不会受伤 尼禄花嫁",
+    "year": null,
+    "country": null,
+    "genre": null,
+    "genres": "[\"婚纱\"]",
+    "type": null,
+    "company": null,
+    "publish_date": null,
+    "cover_url": "https://image.acg.lol/file/2025/07/19/405A0347.jpg",
+    "actress": [
+      {
+        "name": "G44不会受伤",
+        "img_url": "https://telegra.ph/file/49ff9ddc1cdd461e5839c.jpg",
+        "actresses_url": "https://yunvgong.com/GirlPhoto/actress_all/actress_G44不会受伤.html"
+      }
+    ],
+    "title_play_url": "https://yunvgong.com/GirlPhoto/comicDetails.html?series=801"
+  }
+];
