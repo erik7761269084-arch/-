@@ -40,7 +40,8 @@ html,body{
     margin-bottom:14px;
 }
 .scroll-img{
-    max-width:100%;
+    max-width:92%;
+    max-height:90vh;
 }
 
 /* ===== 翻页按钮 ===== */
@@ -139,7 +140,6 @@ function init(data){
     const viewer = document.getElementById("viewer");
     const preview = document.getElementById("preview");
     const pageInfo = document.getElementById("pageInfo");
-    const modeBtn = document.getElementById("modeBtn");
 
     homeBtn.onclick = ()=>location.href="https://yunvgong.com/GirlPhoto/all.html";
 
@@ -147,6 +147,7 @@ function init(data){
     let scrollItems=[];
     let current=0, scrollMode=false;
 
+    /* ===== 创建图片 ===== */
     data.images.forEach((src,i)=>{
         const img=document.createElement("img");
         img.src=src;
@@ -163,6 +164,12 @@ function init(data){
         thumbs.push(t);
     });
 
+    function applyTransform(i){
+        const s=states[i];
+        pages[i].style.transform =
+            `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
+    }
+
     function showPage(i){
         current=i;
         pageInfo.innerText=`${i+1} / ${pages.length}`;
@@ -173,12 +180,6 @@ function init(data){
         updateNav();
     }
 
-    function applyTransform(i){
-        const s=states[i];
-        pages[i].style.transform =
-            `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
-    }
-
     function updateNav(){
         const isMobile = innerWidth<=768;
         if(scrollMode){
@@ -186,33 +187,83 @@ function init(data){
             return;
         }
         if(isMobile){
-            prev.style.display=next.style.display=
-                states[current].scale>1?"block":"none";
+            prev.style.display=next.style.display =
+                states[current].scale>1 ? "block" : "none";
         }else{
             prev.style.display=next.style.display="block";
         }
     }
 
+    /* ===== 预览点击 ===== */
     function onPreviewClick(i){
         if(scrollMode){
-            const item=scrollItems[i];
-            const img=item?.querySelector("img");
+            const item = scrollItems[i];
             if(!item) return;
-            if(img && !img.complete){
-                img.onload=()=>item.scrollIntoView({behavior:"smooth"});
-            }else{
-                item.scrollIntoView({behavior:"smooth"});
-            }
+            viewer.scrollTop = item.offsetTop - 10;
         }else{
             showPage(i);
         }
     }
 
-    showPage(0);
+    /* ===== 翻页触控核心 ===== */
+    let startX=0,startY=0,lastDist=0,isPinch=false,isPan=false;
 
-    prev.onclick=()=>current>0&&showPage(current-1);
-    next.onclick=()=>current<pages.length-1&&showPage(current+1);
+    viewer.addEventListener("touchstart",e=>{
+        if(scrollMode) return;
+        if(e.touches.length===2){
+            isPinch=true;
+            lastDist=Math.hypot(
+                e.touches[0].clientX-e.touches[1].clientX,
+                e.touches[0].clientY-e.touches[1].clientY
+            );
+        }else{
+            startX=e.touches[0].clientX;
+            startY=e.touches[0].clientY;
+            isPan = states[current].scale>1;
+        }
+    },{passive:false});
 
+    viewer.addEventListener("touchmove",e=>{
+        if(scrollMode) return;
+        e.preventDefault();
+        const s=states[current];
+
+        if(isPinch && e.touches.length===2){
+            const d=Math.hypot(
+                e.touches[0].clientX-e.touches[1].clientX,
+                e.touches[0].clientY-e.touches[1].clientY
+            );
+            s.scale=Math.min(5,Math.max(1,s.scale*(d/lastDist)));
+            lastDist=d;
+            applyTransform(current);
+            updateNav();
+            return;
+        }
+
+        if(isPan && e.touches.length===1){
+            const dx=e.touches[0].clientX-startX;
+            const dy=e.touches[0].clientY-startY;
+            startX=e.touches[0].clientX;
+            startY=e.touches[0].clientY;
+            s.x+=dx; s.y+=dy;
+            applyTransform(current);
+        }
+    },{passive:false});
+
+    viewer.addEventListener("touchend",e=>{
+        if(scrollMode) return;
+        if(isPinch){ isPinch=false; return; }
+        if(states[current].scale===1){
+            const dx=e.changedTouches[0].clientX-startX;
+            if(Math.abs(dx)>60){
+                dx<0 && current<pages.length-1 && showPage(current+1);
+                dx>0 && current>0 && showPage(current-1);
+            }
+        }
+        isPan=false;
+    });
+
+    /* ===== PC 缩放 ===== */
     viewer.addEventListener("wheel",e=>{
         if(scrollMode) return;
         e.preventDefault();
@@ -222,6 +273,7 @@ function init(data){
         updateNav();
     },{passive:false});
 
+    /* ===== 模式切换 ===== */
     modeBtn.onclick=()=>{
         scrollMode=!scrollMode;
         modeBtn.innerText=scrollMode?"切换翻页模式":"切换下拉模式";
@@ -250,6 +302,11 @@ function init(data){
     };
 
     bottomBar.onclick=()=>preview.classList.toggle("show");
+
+    prev.onclick=()=>current>0&&showPage(current-1);
+    next.onclick=()=>current<pages.length-1&&showPage(current+1);
+
+    showPage(0);
 }
 </script>
 
