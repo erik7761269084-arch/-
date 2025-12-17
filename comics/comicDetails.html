@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
 <title>Comic Viewer</title>
 
 <style>
@@ -18,7 +18,7 @@ html,body{
     overflow:hidden;
 }
 
-/* 翻页模式 */
+/* ===== 翻页模式 ===== */
 .page-img{
     position:absolute;
     left:50%;
@@ -30,18 +30,20 @@ html,body{
     touch-action:none;
 }
 
-/* 下拉模式 */
+/* ===== 下拉模式 ===== */
 .scroll-mode{
-    height:100%;
     overflow-y:auto;
 }
+.scroll-item{
+    width:100%;
+    text-align:center;
+    margin-bottom:14px;
+}
 .scroll-img{
-    display:block;
     max-width:100%;
-    margin:0 auto 14px;
 }
 
-/* 翻页按钮 */
+/* ===== 翻页按钮 ===== */
 .nav-btn{
     position:fixed;
     top:50%;
@@ -58,19 +60,20 @@ html,body{
 #prev{left:10px;}
 #next{right:10px;}
 
-/* 模式切换 */
-#modeBtn{
+/* ===== 顶部按钮 ===== */
+#modeBtn,#homeBtn{
     position:fixed;
     top:12px;
-    right:12px;
     background:rgba(0,0,0,.75);
     padding:6px 14px;
     border-radius:20px;
     cursor:pointer;
     z-index:1003;
 }
+#homeBtn{left:12px;}
+#modeBtn{right:12px;}
 
-/* 预览 */
+/* ===== 预览 ===== */
 #bottomBar{
     position:fixed;
     bottom:0;
@@ -113,7 +116,8 @@ html,body{
 <button id="prev" class="nav-btn">←</button>
 <button id="next" class="nav-btn">→</button>
 
-<div id="modeBtn">下拉模式</div>
+<div id="homeBtn">漫画首页</div>
+<div id="modeBtn">切换下拉模式</div>
 <div id="bottomBar">预览 | <span id="pageInfo">1 / 1</span></div>
 <div id="preview"></div>
 
@@ -132,25 +136,25 @@ function loadData(){
 loadData().then(init);
 
 function init(data){
-    const viewer=document.getElementById("viewer");
-    const preview=document.getElementById("preview");
-    const pageInfo=document.getElementById("pageInfo");
-    const modeBtn=document.getElementById("modeBtn");
+    const viewer = document.getElementById("viewer");
+    const preview = document.getElementById("preview");
+    const pageInfo = document.getElementById("pageInfo");
+    const modeBtn = document.getElementById("modeBtn");
 
-    let pages=[], thumbs=[], state=[];
-    let scrollImgs=[];
+    homeBtn.onclick = ()=>location.href="https://yunvgong.com/comics/all.html";
+
+    let pages=[], thumbs=[], states=[];
+    let scrollItems=[];
     let current=0, scrollMode=false;
 
     data.images.forEach((src,i)=>{
-        // 翻页图
         const img=document.createElement("img");
         img.src=src;
         img.className="page-img";
         viewer.appendChild(img);
         pages.push(img);
-        state.push({scale:1,x:0,y:0});
+        states.push({scale:1,x:0,y:0});
 
-        // 预览
         const t=document.createElement("img");
         t.src=src;
         t.className="preview-thumb";
@@ -159,54 +163,52 @@ function init(data){
         thumbs.push(t);
     });
 
+    function showPage(i){
+        current=i;
+        pageInfo.innerText=`${i+1} / ${pages.length}`;
+        thumbs.forEach((t,k)=>t.classList.toggle("active",k===i));
+        pages.forEach(p=>p.style.display="none");
+        pages[i].style.display="block";
+        applyTransform(i);
+        updateNav();
+    }
+
+    function applyTransform(i){
+        const s=states[i];
+        pages[i].style.transform =
+            `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
+    }
+
+    function updateNav(){
+        const isMobile = innerWidth<=768;
+        if(scrollMode){
+            prev.style.display=next.style.display="none";
+            return;
+        }
+        if(isMobile){
+            prev.style.display=next.style.display=
+                states[current].scale>1?"block":"none";
+        }else{
+            prev.style.display=next.style.display="block";
+        }
+    }
+
     function onPreviewClick(i){
         if(scrollMode){
-            const target = scrollImgs[i];
-            if(target){
-                target.scrollIntoView({
-                    behavior:"smooth",
-                    block:"start"
-                });
+            const item=scrollItems[i];
+            const img=item?.querySelector("img");
+            if(!item) return;
+            if(img && !img.complete){
+                img.onload=()=>item.scrollIntoView({behavior:"smooth"});
+            }else{
+                item.scrollIntoView({behavior:"smooth"});
             }
         }else{
             showPage(i);
         }
     }
 
-    function apply(i){
-        const s=state[i];
-        pages[i].style.transform =
-            `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
-        updateNavButtons();
-    }
-
-    function showPage(i){
-        current=i;
-        pageInfo.innerText=`${i+1} / ${pages.length}`;
-        thumbs.forEach((t,k)=>t.classList.toggle("active",k===i));
-        if(scrollMode) return;
-        pages.forEach(p=>p.style.display="none");
-        pages[i].style.display="block";
-        apply(i);
-    }
     showPage(0);
-
-    function updateNavButtons(){
-        const isMobile = window.innerWidth <= 768;
-        if(scrollMode){
-            prev.style.display = next.style.display = "none";
-            return;
-        }
-        if(isMobile){
-            if(state[current].scale > 1){
-                prev.style.display = next.style.display = "block";
-            }else{
-                prev.style.display = next.style.display = "none";
-            }
-        }else{
-            prev.style.display = next.style.display = "block";
-        }
-    }
 
     prev.onclick=()=>current>0&&showPage(current-1);
     next.onclick=()=>current<pages.length-1&&showPage(current+1);
@@ -214,24 +216,29 @@ function init(data){
     viewer.addEventListener("wheel",e=>{
         if(scrollMode) return;
         e.preventDefault();
-        state[current].scale = Math.min(5,Math.max(1,state[current].scale-e.deltaY*0.001));
-        apply(current);
+        const s=states[current];
+        s.scale=Math.min(5,Math.max(1,s.scale-e.deltaY*0.001));
+        applyTransform(current);
+        updateNav();
     },{passive:false});
 
     modeBtn.onclick=()=>{
         scrollMode=!scrollMode;
-        modeBtn.innerText=scrollMode?"翻页模式":"下拉模式";
+        modeBtn.innerText=scrollMode?"切换翻页模式":"切换下拉模式";
         viewer.innerHTML="";
-        scrollImgs=[];
+        scrollItems=[];
         if(scrollMode){
             viewer.classList.add("scroll-mode");
             viewer.style.overflowY="auto";
             data.images.forEach(src=>{
+                const wrap=document.createElement("div");
+                wrap.className="scroll-item";
                 const img=document.createElement("img");
                 img.src=src;
                 img.className="scroll-img";
-                viewer.appendChild(img);
-                scrollImgs.push(img);
+                wrap.appendChild(img);
+                viewer.appendChild(wrap);
+                scrollItems.push(wrap);
             });
         }else{
             viewer.classList.remove("scroll-mode");
@@ -239,7 +246,7 @@ function init(data){
             pages.forEach(p=>viewer.appendChild(p));
             showPage(current);
         }
-        updateNavButtons();
+        updateNav();
     };
 
     bottomBar.onclick=()=>preview.classList.toggle("show");
