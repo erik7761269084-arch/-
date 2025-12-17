@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>福利姬播放</title>
+
+<style>
+html, body {
+    margin:0; padding:0; height:100%;
+    overflow:hidden; background:#111;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+.container{ width:100%; height:100%; display:flex; flex-direction:column; text-align:center; }
+
+/* 标题 */
+h2{
+    font-size:22px; margin:10px; color:#fff;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+
+/* 注释文字 */
+.source a{ color:#1e90ff; text-decoration:none; }
+
+/* 主图区 */
+#comicContainer{
+    flex:1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+    background:#111;
+    position:relative;
+}
+
+/* ---- 修改：为了支持放大与拖拽，comic-page 使用 absolute，并初始化 transform ---- */
+.comic-page{
+    max-width:100%;
+    max-height:100%;
+    display:none;
+    user-select:none;
+    position:absolute;                 /* 使图片可自由移动 */
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%) scale(1);
+    transform-origin:center center;
+    will-change:transform, left, top;
+}
+
+/* 上下翻页按钮 */
+.nav-btn{
+    position:fixed; top:50%; transform:translateY(-50%);
+    padding:10px 15px; border:none; border-radius:6px;
+    color:#fff; font-size:24px; background:rgba(0,0,0,0.55);
+    cursor:pointer; z-index:999;
+}
+#prevBtn{ left:10px; }
+#nextBtn{ right:10px; }
+
+/* ---- 修改：手机端隐藏上下按钮 ---- */
+@media (max-width: 768px){
+    #prevBtn, #nextBtn {
+        display: none !important;
+    }
+}
+
+/* 底部中间控制条 */
+#bottomBar{
+    position:fixed;
+    bottom:0;
+    left:50%;
+    transform:translateX(-50%);
+    background:rgba(0,0,0,0.65);
+    padding:6px 20px;
+    border-radius:14px 14px 0 0;
+    color:#fff;
+    cursor:pointer;
+    z-index:1002;
+    display:flex;
+    gap:20px;
+    font-size:14px;
+    transition:bottom .35s;
+}
+
+/* 展开时整体上移 */
+#bottomBar.up{
+    bottom:110px;
+}
+
+/* 预览栏 */
+#previewBar{
+    position:fixed;
+    bottom:-120px;
+    left:0;
+    height:110px;
+    width:100%;
+    background:rgba(0,0,0,0.75);
+    display:flex;
+    align-items:center;
+    overflow-x:auto;
+    white-space:nowrap;
+    padding:5px;
+    transition:bottom .35s;
+    z-index:1000;
+}
+#previewBar.show{
+    bottom:0;
+}
+
+/* 缩略图 */
+.preview-thumb{
+    height:90px;
+    margin-right:6px;
+    border-radius:5px;
+    border:2px solid transparent;
+    cursor:pointer;
+    flex-shrink:0;
+}
+.preview-thumb.active{
+    border-color:#00ff90;
+}
+
+#comicTitle {
+    display: none;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h2 id="comicTitle"></h2>
+ 
+	<div class="source" style="display:none;">原文：<a id="comicSource" href="" target="_blank">Telegraph 原文</a></div>
+
+    <div id="comicContainer"></div>
+</div>
+
+<button id="prevBtn" class="nav-btn">&#8593;</button>
+<button id="nextBtn" class="nav-btn">&#8595;</button>
+
+<!-- 底部控制条：预览 | 页码 -->
+<div id="bottomBar">
+    <span id="previewToggle">预览 | <span id="pageNumber">1 / 1</span></span>
+</div>
+
+<div id="previewBar"></div>
+
+<script>
+/* 获取 series 参数 */
+function getSeries(){
+    const p=new URLSearchParams(location.search);
+    return Number(p.get("series")||1);
+}
+const seriesID=getSeries();
+
+/* 加载数据文件 */
+function loadComicData(){
+    return new Promise((resolve)=>{
+        const s=document.createElement("script");
+        s.src=`https://yunvgong.com/GirlPhoto/menu/${seriesID}_comics_data.js`;
+        s.onload=()=>resolve(comicData);
+        document.body.appendChild(s);
+    });
+}
+
+loadComicData().then(data=>{
+    document.title = data.title;             // 设置浏览器标签页标题
+    document.getElementById("comicTitle").innerText = data.title;  // 页面内标题
+    initViewer(data);
+});
+
+function initViewer(data){
+    const container=document.getElementById("comicContainer");
+    const preview=document.getElementById("previewBar");
+    const bottomBar=document.getElementById("bottomBar");
+    const toggle=document.getElementById("previewToggle");
+    const pageNumber=document.getElementById("pageNumber");
+
+    document.getElementById("comicTitle").innerText=data.title;
+    document.getElementById("comicSource").href=data.sourceUrl;
+
+    const pages=[];
+    const thumbs=[];
+    let current=0;
+
+    /* 每张图的状态：scale、offsetX、offsetY */
+    const state = [];
+
+    /* 主图 */
+    data.images.forEach((src,i)=>{
+        const img=document.createElement("img");
+        img.src=src;
+        img.className="comic-page";
+        // 初始化图片可拖动属性
+        img.style.left = "50%";
+        img.style.top = "50%";
+        img.style.transform = "translate(-50%, -50%) scale(1)";
+        container.appendChild(img);
+        pages.push(img);
+        state.push({ scale:1, x:0, y:0 });
+    });
+
+    /* 缩略图 */
+    data.images.forEach((src,i)=>{
+        const t=document.createElement("img");
+        t.src=src;
+        t.className="preview-thumb";
+        t.onclick=()=>{
+            showPage(i);
+            showPreview();
+        };
+        preview.appendChild(t);
+        thumbs.push(t);
+    });
+
+    /* 显示页面 */
+    function showPage(i){
+        pages.forEach((img,k)=> {
+            img.style.display=(k===i?"block":"none");
+        });
+        current=i;
+        // 恢复当前图片 transform（使用保存的 state）
+        applyTransform(current);
+        pageNumber.innerText=`${i+1} / ${pages.length}`;
+        updateThumb(i);
+    }
+
+    function updateThumb(i){
+        thumbs.forEach((t,k)=> t.classList.toggle("active",k===i));
+        thumbs[i].scrollIntoView({behavior:"smooth", inline:"center"});
+    }
+
+    showPage(0);
+
+    /* 翻页（保留原有按钮行为，手机端通过 CSS 隐藏） */
+    document.getElementById("prevBtn").onclick=()=>{ if(current>0) showPage(current-1); };
+    document.getElementById("nextBtn").onclick=()=>{ if(current<pages.length-1) showPage(current+1); };
+
+    document.addEventListener("keydown",e=>{
+        if(["ArrowDown","PageDown","ArrowRight"].includes(e.key)){
+            if(current<pages.length-1) showPage(current+1);
+        }
+        if(["ArrowUp","PageUp","ArrowLeft"].includes(e.key)){
+            if(current>0) showPage(current-1);
+        }
+    });
+
+    /* --- 自动隐藏预览栏 --- */
+    let hideTimer = null;
+
+    function resetHideTimer() {
+        if (hideTimer) clearTimeout(hideTimer);
+        hideTimer = setTimeout(() => {
+            hidePreview();
+        }, 2000);
+    }
+
+    function showPreview(){
+        preview.classList.add("show");
+        bottomBar.classList.add("up");
+        resetHideTimer();
+    }
+
+    function hidePreview(){
+        preview.classList.remove("show");
+        bottomBar.classList.remove("up");
+    }
+
+    toggle.onclick = () => {
+        if (preview.classList.contains("show")) hidePreview();
+        else showPreview();
+    };
+
+    /* 操作预览栏即重置计时 */
+    preview.addEventListener("mousemove", resetHideTimer);
+    preview.addEventListener("wheel", resetHideTimer);
+    preview.addEventListener("click", resetHideTimer);
+
+    /* 缩略图拖动 */
+    let dragging=false, sx=0, startLeft=0;
+    preview.addEventListener("mousedown",e=>{
+        dragging=true;
+        sx=e.pageX;
+        startLeft=preview.scrollLeft;
+        resetHideTimer();
+    });
+    document.addEventListener("mousemove",e=>{
+        if(dragging){
+            preview.scrollLeft = startLeft - (e.pageX - sx);
+            resetHideTimer();
+        }
+    });
+    document.addEventListener("mouseup",()=> dragging=false );
+
+    /* ============================
+       手机端左右滑动切页（添加）
+       ============================ */
+    let touchStartX = 0;
+    let touchEndX = 0;
+    container.addEventListener("touchstart", e => {
+        if (!e.changedTouches || !e.changedTouches[0]) return;
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    container.addEventListener("touchend", e => {
+        if (!e.changedTouches || !e.changedTouches[0]) return;
+        touchEndX = e.changedTouches[0].screenX;
+        const diff = touchEndX - touchStartX;
+        if (Math.abs(diff) < 50) return;  // 滑动太短不触发
+        if (diff < 0 && current < pages.length - 1) {
+            showPage(current + 1); // 左滑 → 下一页
+        } else if (diff > 0 && current > 0) {
+            showPage(current - 1); // 右滑 → 上一页
+        }
+    }, { passive: true });
+
+    /* ============================
+       PC：滚轮缩放 & 鼠标拖动平移（添加）
+       说明：
+         - 每张图维护一个 state：scale, x, y（x,y 为相对偏移 px）
+         - transform 使用 translate(-50%,-50%) 再加 translate(x,y) 与 scale
+       ============================ */
+    function applyTransform(index){
+        const s = state[index];
+        const img = pages[index];
+        // 使用 translate(-50%,-50%) 做居中基线，再加 translate(x,y) 进行平移；scale 用于缩放
+        img.style.transform = `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
+    }
+
+    // 鼠标滚轮缩放
+    container.addEventListener("wheel", e => {
+        // 如果是触摸设备或预览滚动，还是阻止默认缩放行为
+        e.preventDefault();
+
+        const delta = e.deltaY;
+        const img = pages[current];
+        if (!img) return;
+
+        // 获取鼠标相对于图片中心点的偏移（用于更自然的缩放中心）
+        const rect = img.getBoundingClientRect();
+        const cx = rect.left + rect.width / 2;
+        const cy = rect.top + rect.height / 2;
+        const offsetX = e.clientX - cx;
+        const offsetY = e.clientY - cy;
+
+        // 缩放因子
+        const factor = 1 - delta * 0.001; // 可调
+        let newScale = state[current].scale * factor;
+        // 限制最小最大（你要求“无限制放大”，但一般保留合理上限以防撑爆浏览器）
+        if (newScale < 0.1) newScale = 0.1;
+        if (newScale > 32) newScale = 32;
+
+        // 为了让缩放更自然，我们需要调整偏移 x,y，使得鼠标位置看起来保持在相对位置
+        // 计算缩放前后相对大小变化导致的位移补偿
+        const prevScale = state[current].scale;
+        const scaleRatio = newScale / prevScale;
+
+        // 以图片中心为基点，offsetX/offsetY 表示鼠标相对中心的位置
+        // 放大时希望该点相对位置不变 -> 需要更新 state.x, state.y
+        state[current].x = state[current].x - offsetX * (scaleRatio - 1);
+        state[current].y = state[current].y - offsetY * (scaleRatio - 1);
+
+        state[current].scale = newScale;
+        applyTransform(current);
+    }, { passive: false });
+
+    // 鼠标拖动图片
+    let isPanning = false;
+    let panStartX = 0, panStartY = 0;
+    container.addEventListener("mousedown", e => {
+        // 仅当鼠标在图片区域时启动拖动（避免与缩略图横向滚动冲突）
+        const img = pages[current];
+        if (!img) return;
+        const rect = img.getBoundingClientRect();
+        // 如果点击点不在当前图片范围，忽略
+        if (e.clientX < rect.left || e.clientX > rect.right || e.clientY < rect.top || e.clientY > rect.bottom) return;
+
+        isPanning = true;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        container.style.cursor = "grabbing";
+        e.preventDefault();
+    });
+
+    document.addEventListener("mousemove", e => {
+        if (!isPanning) return;
+        const dx = e.clientX - panStartX;
+        const dy = e.clientY - panStartY;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        state[current].x += dx;
+        state[current].y += dy;
+        applyTransform(current);
+    });
+
+    document.addEventListener("mouseup", () => {
+        if (isPanning) {
+            isPanning = false;
+            container.style.cursor = "default";
+        }
+    });
+
+    // 当切页时，确保下张图的 transform 应用（如果第一次显示，state 已初始）
+    //（已在 showPage 中调用 applyTransform）
+
+    // 双击复位当前图片（双击可还原到居中与 scale=1）
+    container.addEventListener("dblclick", (e) => {
+        state[current].scale = 1;
+        state[current].x = 0;
+        state[current].y = 0;
+        applyTransform(current);
+    });
+
+    // 触摸手势双击（部分手机浏览器），使用双击也复位：兼容性简略处理
+    let lastTap = 0;
+    container.addEventListener("touchend", (e) => {
+        const currentTime = new Date().getTime();
+        const tapLength = currentTime - lastTap;
+        if (tapLength < 300 && tapLength > 0) {
+            // 双击
+            state[current].scale = 1;
+            state[current].x = 0;
+            state[current].y = 0;
+            applyTransform(current);
+        }
+        lastTap = currentTime;
+    });
+
+}
+</script>
+
+</body>
+</html>
