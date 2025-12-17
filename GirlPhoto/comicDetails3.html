@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+<title>Comic Viewer</title>
+<style>
+html,body{
+    margin:0;padding:0;height:100%;
+    background:#111;color:#fff;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+#viewer{
+    position:relative;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+}
+
+/* ===== 翻页模式 ===== */
+.page-img{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%) scale(1);
+    max-width:100%;
+    max-height:100%;
+    display:none;
+    touch-action:none;
+}
+
+/* ===== 下拉模式 ===== */
+.scroll-mode{ overflow-y:auto; transform-origin:center top; }
+.scroll-item{
+    width:100%;
+    text-align:center;
+    margin-bottom:14px;
+}
+.scroll-img{
+    max-width:92%;
+    max-height:90vh;
+    touch-action:none; /* 翻页模式下默认 */
+    transition: transform 0.05s;
+}
+
+/* ===== 翻页按钮 ===== */
+.nav-btn{
+    position:fixed;
+    top:50%;
+    transform:translateY(-50%);
+    background:rgba(0,0,0,.6);
+    border:none;
+    color:#fff;
+    font-size:22px;
+    padding:10px;
+    border-radius:6px;
+    z-index:1002;
+}
+#prev{left:10px;}
+#next{right:10px;}
+
+/* ===== 顶部按钮 ===== */
+#modeBtn,#homeBtn{
+    position:fixed;
+    top:12px;
+    background:rgba(0,0,0,.75);
+    padding:6px 14px;
+    border-radius:20px;
+    cursor:pointer;
+    z-index:1003;
+}
+#homeBtn{left:12px;}
+#modeBtn{right:12px;}
+
+/* ===== 预览 ===== */
+#bottomBar{
+    position:fixed;
+    bottom:0;
+    left:50%;
+    transform:translateX(-50%);
+    background:rgba(0,0,0,.7);
+    padding:8px 20px;
+    border-radius:14px 14px 0 0;
+    cursor:pointer;
+    z-index:1001;
+}
+#preview{
+    position:fixed;
+    bottom:-120px;
+    left:0;
+    width:100%;
+    height:110px;
+    background:rgba(0,0,0,.85);
+    display:flex;
+    overflow-x:auto;
+    padding:6px;
+    transition:.35s;
+}
+#preview.show{bottom:0}
+.preview-thumb{
+    height:90px;
+    margin-right:6px;
+    cursor:pointer;
+}
+.preview-thumb.active{
+    outline:2px solid #00ff90;
+}
+</style>
+</head>
+<body>
+
+<div id="viewer"></div>
+
+<button id="prev" class="nav-btn">←</button>
+<button id="next" class="nav-btn">→</button>
+
+<div id="homeBtn">福利姬首页</div>
+<div id="modeBtn">切换下拉模式</div>
+<div id="bottomBar">预览 | <span id="pageInfo">1 / 1</span></div>
+<div id="preview"></div>
+
+<script>
+const seriesID = Number(new URLSearchParams(location.search).get("series")||1);
+
+function loadData(){
+    return new Promise(r=>{
+        const s=document.createElement("script");
+        s.src=`https://yunvgong.com/GirlPhoto/menu/${seriesID}_comics_data.js`;
+        s.onload=()=>r(comicData);
+        document.body.appendChild(s);
+    });
+}
+
+loadData().then(init);
+
+function init(data){
+    const viewer = document.getElementById("viewer");
+    const preview = document.getElementById("preview");
+    const pageInfo = document.getElementById("pageInfo");
+    const homeBtn = document.getElementById("homeBtn");
+    const modeBtn = document.getElementById("modeBtn");
+    const prev = document.getElementById("prev");
+    const next = document.getElementById("next");
+
+    homeBtn.onclick=()=>location.href="https://yunvgong.com/GirlPhoto/all.html";
+
+    let pages=[], thumbs=[], states=[];
+    let scrollItems=[]; 
+    let current=0, scrollMode=false, scrollScale=1;
+
+    // 创建翻页图片及缩略图
+    data.images.forEach((src,i)=>{
+        const img=document.createElement("img");
+        img.src=src;
+        img.className="page-img";
+        viewer.appendChild(img);
+        pages.push(img);
+        states.push({scale:1,x:0,y:0});
+
+        const t=document.createElement("img");
+        t.src=src;
+        t.className="preview-thumb";
+        t.onclick=()=>onPreviewClick(i);
+        preview.appendChild(t);
+        thumbs.push(t);
+    });
+
+    function applyTransform(i){
+        const s=states[i];
+        pages[i].style.transform = `translate(calc(-50% + ${s.x}px), calc(-50% + ${s.y}px)) scale(${s.scale})`;
+    }
+
+    function showPage(i){
+        current=i;
+        pageInfo.innerText=`${i+1} / ${pages.length}`;
+        thumbs.forEach((t,k)=>t.classList.toggle("active",k===i));
+        pages.forEach(p=>p.style.display="none");
+        pages[i].style.display="block";
+        applyTransform(i);
+        updateNav();
+    }
+
+    function updateNav(){
+        if(scrollMode){
+            prev.style.display=next.style.display="none";
+        }else{
+            prev.style.display=next.style.display="block";
+        }
+    }
+
+    function onPreviewClick(i){
+        if(scrollMode){
+            scrollItems[i]?.scrollIntoView({behavior:"smooth",block:"start"});
+        }else{
+            showPage(i);
+        }
+    }
+
+    // 翻页触控及PC缩放
+    let startX=0, startY=0, isPan=false, swipeStartX=0;
+    let isPinch=false, lastDist=0;
+
+    viewer.addEventListener("touchstart",e=>{
+        if(scrollMode) return;
+        if(e.touches.length===2){
+            isPinch=true;
+            lastDist=Math.hypot(
+                e.touches[0].clientX-e.touches[1].clientX,
+                e.touches[0].clientY-e.touches[1].clientY
+            );
+        }else{
+            startX=swipeStartX=e.touches[0].clientX;
+            startY=e.touches[0].clientY;
+            isPan=states[current].scale>1;
+        }
+    },{passive:false});
+
+    viewer.addEventListener("touchmove",e=>{
+        if(scrollMode) return;
+        const s=states[current];
+        if(isPinch && e.touches.length===2){
+            e.preventDefault();
+            const d=Math.hypot(
+                e.touches[0].clientX-e.touches[1].clientX,
+                e.touches[0].clientY-e.touches[1].clientY
+            );
+            s.scale=Math.min(5,Math.max(1,s.scale*(d/lastDist)));
+            lastDist=d;
+            applyTransform(current);
+            return;
+        }
+        if(isPan && e.touches.length===1){
+            e.preventDefault();
+            const dx=e.touches[0].clientX-startX;
+            const dy=e.touches[0].clientY-startY;
+            startX=e.touches[0].clientX;
+            startY=e.touches[0].clientY;
+            s.x+=dx; s.y+=dy;
+            applyTransform(current);
+        }
+    },{passive:false});
+
+    viewer.addEventListener("touchend",e=>{
+        if(scrollMode) return;
+        if(isPinch){ isPinch=false; return; }
+        const dx=e.changedTouches[0].clientX - swipeStartX;
+        if(states[current].scale===1 && Math.abs(dx)>60){
+            dx<0 && current<pages.length-1 && showPage(current+1);
+            dx>0 && current>0 && showPage(current-1);
+        }
+        isPan=false;
+    });
+
+    viewer.addEventListener("wheel",e=>{
+        if(scrollMode) return;
+        e.preventDefault();
+        const s=states[current];
+        s.scale=Math.min(5,Math.max(1,s.scale-e.deltaY*0.001));
+        applyTransform(current);
+    },{passive:false});
+
+    // 下拉模式
+    modeBtn.onclick = () => {
+        scrollMode = !scrollMode;
+        modeBtn.innerText = scrollMode ? "切换翻页模式" : "切换下拉模式";
+        viewer.innerHTML = "";
+        scrollItems = [];
+        scrollScale = 1;
+
+        if(scrollMode){
+            viewer.classList.add("scroll-mode");
+            viewer.style.overflowY="auto";
+
+            const inner = document.createElement("div");
+            inner.style.display="flex";
+            inner.style.flexDirection="column";
+            inner.style.alignItems="center";
+            inner.style.transformOrigin="center top";
+            viewer.appendChild(inner);
+
+            data.images.forEach(src=>{
+                const wrap=document.createElement("div");
+                wrap.className="scroll-item";
+                const img=document.createElement("img");
+                img.src=src;
+                img.className="scroll-img";
+
+                // ✅ 允许图片纵向滚动
+                img.style.touchAction="pan-y";
+
+                wrap.appendChild(img);
+                inner.appendChild(wrap);
+                scrollItems.push(wrap);
+            });
+
+            // PC Ctrl + 滚轮整体缩放
+            const MIN_SCALE=0.5, MAX_SCALE=3;
+            viewer.addEventListener("wheel", e => {
+                if (!scrollMode) return;
+                if (!e.ctrlKey) return;
+                e.preventDefault();
+                const factor = 1 - e.deltaY*0.01;
+                scrollScale *= factor;
+                scrollScale=Math.min(MAX_SCALE, Math.max(MIN_SCALE, scrollScale));
+                inner.style.transform = `scale(${scrollScale})`;
+            }, { passive:false });
+
+            // 手机双指缩放
+            let lastDist=0, pinch=false;
+            viewer.addEventListener("touchstart", e=>{
+                if(!scrollMode) return;
+                if(e.touches.length===2){
+                    pinch=true;
+                    lastDist=Math.hypot(
+                        e.touches[0].clientX-e.touches[1].clientX,
+                        e.touches[0].clientY-e.touches[1].clientY
+                    );
+                }
+            },{passive:false});
+            viewer.addEventListener("touchmove", e=>{
+                if(!scrollMode) return;
+                if(pinch && e.touches.length===2){
+                    e.preventDefault();
+                    const d=Math.hypot(
+                        e.touches[0].clientX-e.touches[1].clientX,
+                        e.touches[0].clientY-e.touches[1].clientY
+                    );
+                    const factor=d/lastDist;
+                    scrollScale *= factor;
+                    scrollScale=Math.min(MAX_SCALE, Math.max(MIN_SCALE, scrollScale));
+                    inner.style.transform = `scale(${scrollScale})`;
+                    lastDist=d;
+                }
+            },{passive:false});
+            viewer.addEventListener("touchend",()=>pinch=false);
+
+        }else{
+            viewer.classList.remove("scroll-mode");
+            viewer.style.overflow="hidden";
+
+            // 翻页模式恢复原本手势设置
+            pages.forEach(p=>{
+                p.style.touchAction = "none";
+                viewer.appendChild(p);
+            });
+
+            showPage(current);
+        }
+        updateNav();
+    };
+
+    bottomBar.onclick=()=>preview.classList.toggle("show");
+    prev.onclick=()=>current>0&&showPage(current-1);
+    next.onclick=()=>current<pages.length-1&&showPage(current+1);
+
+    showPage(0);
+}
+</script>
+</body>
+</html>
