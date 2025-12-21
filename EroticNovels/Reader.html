@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>小说阅读</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<style>
+:root{
+    --bg:#111;
+    --text:#e6e6e6;
+    --title:#ffd479;
+}
+
+body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:"Microsoft YaHei","PingFang SC",sans-serif;
+}
+
+/* 容器 */
+#app{
+    max-width:900px;
+    margin:auto;
+    padding:18px;
+}
+
+/* 标题 */
+#title{
+    text-align:center;
+    font-size:22px;
+    color:var(--title);
+    margin-bottom:16px;
+}
+
+/* PC 正文（滚动） */
+#content{
+    white-space:pre-wrap;
+    font-size:18px;
+    line-height:1.9;
+}
+
+/* 手机正文（分页） */
+#page{
+    display:none;
+    white-space:pre-wrap;
+    font-size:18px;
+    line-height:1.9;
+    min-height:70vh;
+}
+
+/* 手机翻页点击层 */
+#tap{
+    display:none;
+    position:fixed;
+    inset:0;
+    z-index:5;
+}
+.tap-zone{
+    flex:1;
+}
+
+/* 工具栏 */
+#toolbar{
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#000;
+    display:flex;
+    justify-content:space-around;
+    padding:10px 0;
+    border-top:1px solid #222;
+}
+
+#toolbar button{
+    background:none;
+    border:none;
+    color:#fff;
+    font-size:16px;
+}
+
+/* ===== 手机模式 ===== */
+@media (max-width:899px){
+    body{ overflow:hidden; }
+    #content{ display:none; }
+    #page{ display:block; }
+    #tap{ display:flex; }
+}
+
+/* ===== PC 模式 ===== */
+@media (min-width:900px){
+    body{ overflow:auto; }
+    #content{ display:block; }
+    #page{ display:none; }
+    #tap{ display:none; }
+}
+</style>
+</head>
+
+<body>
+
+<div id="app">
+    <div id="title">加载中...</div>
+    <div id="content">正在加载...</div>
+    <div id="page"></div>
+</div>
+
+<div id="tap">
+    <div class="tap-zone" onclick="prevPage()"></div>
+    <div class="tap-zone" onclick="nextPage()"></div>
+</div>
+
+<div id="toolbar">
+    <button onclick="changeFont(-1)">A-</button>
+    <button onclick="changeFont(1)">A+</button>
+    <button onclick="toggleTheme()">日/夜</button>
+</div>
+
+<script>
+/* ========= 配置 ========= */
+const txtUrl =
+"https://raw.githubusercontent.com/erik7761269084-arch/EroticNovels/main/%E7%9F%AD%E7%AF%87/19%E5%B2%81%E7%9A%84%E5%A5%B3%E5%8F%8B%E5%96%9C%E6%AC%A2%E6%9A%B4%E9%9C%B2.txt";
+
+/* ========= 标题 ========= */
+const title = decodeURIComponent(txtUrl.split("/").pop().replace(".txt",""));
+document.getElementById("title").innerText = title;
+
+/* ========= 状态 ========= */
+let fullText = "";
+let pages = [];
+let pageIndex = 0;
+let fontSize = 18;
+let night = true;
+
+/* ========= 读取 GBK ========= */
+fetch(txtUrl)
+  .then(r=>r.arrayBuffer())
+  .then(buf=>{
+      fullText = new TextDecoder("gbk").decode(buf);
+      document.getElementById("content").innerText = fullText;
+      paginate();
+      renderPage();
+  });
+
+/* ========= 分页（仅手机用） ========= */
+function paginate(){
+    pages = [];
+    const temp = document.createElement("div");
+    temp.style.position = "absolute";
+    temp.style.visibility = "hidden";
+    temp.style.fontSize = fontSize + "px";
+    temp.style.lineHeight = "1.9";
+    temp.style.whiteSpace = "pre-wrap";
+    temp.style.width = document.getElementById("page").offsetWidth + "px";
+    document.body.appendChild(temp);
+
+    let start = 0;
+    while(start < fullText.length){
+        let i = start + 500;
+        while(i < fullText.length){
+            temp.innerText = fullText.slice(start, i);
+            if(temp.offsetHeight > window.innerHeight * 0.7) break;
+            i += 50;
+        }
+        pages.push(fullText.slice(start, i));
+        start = i;
+    }
+    document.body.removeChild(temp);
+}
+
+/* ========= 渲染 ========= */
+function renderPage(){
+    document.getElementById("page").innerText = pages[pageIndex] || "";
+}
+
+/* ========= 翻页 ========= */
+function nextPage(){
+    if(pageIndex < pages.length - 1){
+        pageIndex++;
+        renderPage();
+    }
+}
+function prevPage(){
+    if(pageIndex > 0){
+        pageIndex--;
+        renderPage();
+    }
+}
+
+/* ========= 字号 ========= */
+function changeFont(step){
+    fontSize += step;
+    if(fontSize < 14) fontSize = 14;
+    if(fontSize > 30) fontSize = 30;
+    document.getElementById("content").style.fontSize = fontSize + "px";
+    document.getElementById("page").style.fontSize = fontSize + "px";
+    paginate();
+    pageIndex = 0;
+    renderPage();
+}
+
+/* ========= 日夜 ========= */
+function toggleTheme(){
+    night = !night;
+    document.documentElement.style.setProperty("--bg", night ? "#111" : "#f5f5f5");
+    document.documentElement.style.setProperty("--text", night ? "#e6e6e6" : "#222");
+    document.documentElement.style.setProperty("--title", night ? "#ffd479" : "#333");
+}
+
+/* ========= 窗口变化自动适配 ========= */
+window.addEventListener("resize", ()=>{
+    if(window.innerWidth < 900){
+        paginate();
+        renderPage();
+    }
+});
+</script>
+
+</body>
+</html>
