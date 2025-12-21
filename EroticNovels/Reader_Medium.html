@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>小说阅读</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<style>
+:root{
+    --bg:#111;
+    --text:#e6e6e6;
+    --title:#ffd479;
+    --accent:#ff9f1a;
+}
+body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:"Microsoft YaHei","PingFang SC",sans-serif;
+}
+#app{max-width:900px;margin:auto;padding:18px;}
+#title{
+    position:fixed;top:0;left:0;right:0;
+    text-align:center;font-size:20px;
+    color:var(--title);
+    padding:14px;
+    background:rgba(0,0,0,.85);
+    transform:translateY(-100%);
+    transition:.25s;
+    z-index:20;
+}
+#content{white-space:pre-wrap;font-size:18px;line-height:1.9;}
+#page{
+    white-space:pre-wrap;
+    font-size:18px;
+    line-height:1.9;
+    min-height:80vh;
+}
+
+#tap{
+    display:none;
+    position:fixed;
+    inset:0;
+    z-index:5;
+    display:flex;
+}
+.tap-zone{flex:1;}
+
+#toolbar{
+    position:fixed;bottom:0;left:0;right:0;
+    background:rgba(0,0,0,.9);
+    border-top:1px solid #222;
+    padding:6px 10px;
+    transform:translateY(100%);
+    transition:.25s;
+    z-index:20;
+}
+#progress{width:100%;}
+#buttons{
+    display:flex;
+    justify-content:space-between;
+    margin-top:6px;
+}
+#toolbar button{
+    background:none;
+    border:none;
+    color:#fff;
+    font-size:14px;
+}
+
+#panel{
+    position:fixed;
+    top:60px;bottom:60px;left:0;right:0;
+    background:#000;
+    overflow:auto;
+    display:none;
+    z-index:30;
+}
+#panel h3{margin:10px;color:var(--accent);}
+#panel div{
+    padding:8px 12px;
+    border-bottom:1px solid #222;
+    cursor:pointer;
+}
+
+.show-ui #title{transform:translateY(0);}
+.show-ui #toolbar{transform:translateY(0);}
+.show-panel #panel{display:block;}
+
+@media (max-width:899px){
+    body{overflow:hidden;}
+    #content{display:none;}
+    #page{display:block;}
+    #tap{display:flex;}
+}
+@media (min-width:900px){
+    #page,#tap,#toolbar,#progress{display:none;}
+}
+</style>
+</head>
+
+<body>
+
+<div id="app">
+    <div id="title"></div>
+    <div id="content"></div>
+    <div id="page"></div>
+</div>
+
+<div id="tap">
+    <div class="tap-zone"></div>
+    <div class="tap-zone"></div>
+    <div class="tap-zone"></div>
+</div>
+
+<div id="toolbar">
+    <input id="progress" type="range" min="0" max="100">
+    <div id="buttons">
+        <button onclick="prevChapter()">⏮ 上一章</button>
+        <button onclick="changeFont(-1)">A-</button>
+        <button onclick="changeFont(1)">A+</button>
+        <button onclick="toggleTheme()">日/夜</button>
+        <button onclick="openPanel()">目录</button>
+        <button onclick="nextChapter()">下一章 ⏭</button>
+    </div>
+</div>
+
+<div id="panel"></div>
+
+<script>
+/* ========= 参数 ========= */
+const params=new URLSearchParams(location.search);
+const series=params.get("series")||"爱上美女少妇";
+const BASE="https://raw.githubusercontent.com/erik7761269084-arch/EroticNovels/main/中篇/";
+const txtUrl=BASE+encodeURIComponent(series)+".txt";
+title.innerText=series;
+
+/* ========= 状态 ========= */
+let fullText="",pages=[],pageIndex=0,fontSize=18,night=true;
+let chapters=[],currentChapter=0;
+
+/* ========= 记忆 ========= */
+const key="reader_"+series;
+const saved=JSON.parse(localStorage.getItem(key)||"{}");
+if(saved.font) fontSize=saved.font;
+if(saved.chapter) currentChapter=saved.chapter;
+
+/* ========= 加载 ========= */
+fetch(txtUrl)
+.then(r=>r.arrayBuffer())
+.then(buf=>{
+    fullText=new TextDecoder("gbk").decode(buf);
+    content.innerText=fullText;
+    detectChapters();
+    jumpChapter(currentChapter);
+});
+
+/* ========= 章节识别 ========= */
+function detectChapters(){
+    chapters=[];
+    const reg=/^第[\d一二三四五六七八九十百千]+[章节话].*$/gm;
+    let m;
+    while(m=reg.exec(fullText)){
+        chapters.push({title:m[0],pos:m.index});
+    }
+    if(!chapters.length){
+        chapters.push({title:"正文",pos:0});
+    }
+}
+
+/* ========= 分页（修复高度 BUG） ========= */
+function paginateFrom(start){
+    pages=[];
+    const temp=document.createElement("div");
+    Object.assign(temp.style,{
+        position:"absolute",
+        visibility:"hidden",
+        whiteSpace:"pre-wrap",
+        lineHeight:"1.9",
+        fontSize:fontSize+"px",
+        width:page.clientWidth+"px"
+    });
+    document.body.appendChild(temp);
+
+    let idx=start;
+    const usable=page.clientHeight || innerHeight*0.9;
+
+    while(idx<fullText.length){
+        let low=idx,high=Math.min(idx+2000,fullText.length),best=idx;
+        while(low<=high){
+            let mid=(low+high)>>1;
+            temp.innerText=fullText.slice(idx,mid);
+            if(temp.offsetHeight<=usable){
+                best=mid;low=mid+1;
+            }else high=mid-1;
+        }
+        pages.push(fullText.slice(idx,best));
+        idx=best;
+    }
+    document.body.removeChild(temp);
+}
+
+/* ========= 渲染（章节标题加粗） ========= */
+function render(){
+    const text=pages[pageIndex]||"";
+    page.innerHTML=text.replace(
+        /^(第[\d一二三四五六七八九十百千]+[章节话].*)/,
+        '<div style="font-weight:bold;font-size:1.05em">$1</div>'
+    );
+    progress.value=Math.round(pageIndex/(pages.length-1)*100||0);
+    localStorage.setItem(key,JSON.stringify({
+        chapter:currentChapter,
+        font:fontSize,
+        night
+    }));
+}
+
+/* ========= 章节跳转（强制新页） ========= */
+function jumpChapter(i){
+    currentChapter=i;
+    paginateFrom(chapters[i].pos);
+    pages[0]=chapters[i].title+"\n\n"+pages[0];
+    pageIndex=0;
+    render();
+}
+
+/* ========= 章节切换 ========= */
+function prevChapter(){ if(currentChapter>0) jumpChapter(currentChapter-1); }
+function nextChapter(){ if(currentChapter<chapters.length-1) jumpChapter(currentChapter+1); }
+
+/* ========= 翻页 ========= */
+tap.children[0].onclick=()=>pageIndex>0&&(pageIndex--,render());
+tap.children[2].onclick=()=>pageIndex<pages.length-1&&(pageIndex++,render());
+tap.children[1].onclick=()=>document.body.classList.toggle("show-ui");
+
+/* ========= 滑动 ========= */
+let sx=0;
+tap.addEventListener("touchstart",e=>sx=e.touches[0].clientX);
+tap.addEventListener("touchend",e=>{
+    let dx=e.changedTouches[0].clientX-sx;
+    if(Math.abs(dx)>60) dx<0?tap.children[2].onclick():tap.children[0].onclick();
+});
+
+/* ========= 工具 ========= */
+progress.oninput=e=>{
+    pageIndex=Math.round(e.target.value/100*(pages.length-1));
+    render();
+};
+function changeFont(s){
+    fontSize=Math.min(30,Math.max(14,fontSize+s));
+    jumpChapter(currentChapter);
+}
+function toggleTheme(){
+    night=!night;
+    document.documentElement.style.setProperty("--bg",night?"#111":"#f5f5f5");
+    document.documentElement.style.setProperty("--text",night?"#e6e6e6":"#222");
+}
+
+/* ========= 目录 ========= */
+function openPanel(){
+    panel.innerHTML="<h3>目录</h3>";
+    chapters.forEach((c,i)=>{
+        const d=document.createElement("div");
+        d.innerText=c.title;
+        d.onclick=()=>{
+            document.body.classList.remove("show-panel");
+            jumpChapter(i);
+        };
+        panel.appendChild(d);
+    });
+    document.body.classList.toggle("show-panel");
+}
+</script>
+
+</body>
+</html>

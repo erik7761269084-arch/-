@@ -26,75 +26,87 @@ body{
     padding:18px;
 }
 
-/* 标题 */
+/* ===== 标题浮层 ===== */
 #title{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
     text-align:center;
-    font-size:22px;
+    font-size:20px;
     color:var(--title);
-    margin-bottom:16px;
+    padding:14px 10px;
+    background:rgba(0,0,0,.85);
+    transform: translateY(-100%);
+    transition:.25s;
+    z-index:20;
 }
 
-/* PC 正文 */
+/* ===== PC 正文 ===== */
 #content{
     white-space:pre-wrap;
     font-size:18px;
     line-height:1.9;
 }
 
-/* 手机分页正文 */
+/* ===== 手机分页正文 ===== */
 #page{
     white-space:pre-wrap;
     font-size:18px;
     line-height:1.9;
-    min-height:70vh;
+    min-height:80vh;
     transition: transform .25s ease, opacity .25s ease;
 }
 
 /* 翻页动画 */
-.page-next{
-    transform: translateX(40px);
-    opacity:0;
-}
-.page-prev{
-    transform: translateX(-40px);
-    opacity:0;
-}
+.page-next{ transform:translateX(40px); opacity:0; }
+.page-prev{ transform:translateX(-40px); opacity:0; }
 
-/* 翻页点击层（不覆盖 toolbar） */
+/* ===== 翻页点击层 ===== */
 #tap{
     display:none;
     position:fixed;
-    top:0;
-    left:0;
-    right:0;
-    bottom:60px; /* ← 关键：给 toolbar 留空间 */
+    inset:0;
     z-index:5;
     display:flex;
 }
-.tap-zone{
-    flex:1;
-}
+.tap-zone{ flex:1; }
 
-/* 工具栏 */
+/* ===== 工具栏 ===== */
 #toolbar{
     position:fixed;
     bottom:0;
     left:0;
     right:0;
-    background:#000;
-    display:flex;
-    justify-content:space-around;
-    padding:10px 0;
+    background:rgba(0,0,0,.85);
     border-top:1px solid #222;
-    z-index:10; /* ← 高于翻页层 */
+    padding:6px 10px 10px;
+    transform:translateY(100%);
+    transition:.25s;
+    z-index:20;
 }
 
+/* 按钮 */
+#buttons{
+    display:flex;
+    justify-content:space-around;
+}
 #toolbar button{
     background:none;
     border:none;
     color:#fff;
     font-size:16px;
 }
+
+/* ===== 进度条 ===== */
+#progress{
+    width:100%;
+    margin-bottom:6px;
+}
+
+/* ===== UI 显示状态 ===== */
+.show-ui #title{ transform:translateY(0); }
+.show-ui #toolbar{ transform:translateY(0); }
 
 /* ===== 手机模式 ===== */
 @media (max-width:899px){
@@ -106,10 +118,7 @@ body{
 
 /* ===== PC 模式 ===== */
 @media (min-width:900px){
-    body{ overflow:auto; }
-    #content{ display:block; }
-    #page{ display:none; }
-    #tap{ display:none; }
+    #page,#tap,#toolbar,#progress{ display:none; }
 }
 </style>
 </head>
@@ -122,34 +131,41 @@ body{
     <div id="page"></div>
 </div>
 
+<!-- 翻页点击区 -->
 <div id="tap">
-    <div class="tap-zone" onclick="prevPage()"></div>
-    <div class="tap-zone" onclick="nextPage()"></div>
+    <div class="tap-zone" onclick="onTap('prev')"></div>
+    <div class="tap-zone" onclick="onTap('center')"></div>
+    <div class="tap-zone" onclick="onTap('next')"></div>
 </div>
 
+<!-- 工具栏 -->
 <div id="toolbar">
-    <button onclick="changeFont(-1)">A-</button>
-    <button onclick="changeFont(1)">A+</button>
-    <button onclick="toggleTheme()">日/夜</button>
+    <input id="progress" type="range" min="0" max="100" value="0" oninput="onSeek(this.value)">
+    <div id="buttons">
+        <button onclick="changeFont(-1)">A-</button>
+        <button onclick="changeFont(1)">A+</button>
+        <button onclick="toggleTheme()">日/夜</button>
+    </div>
 </div>
 
 <script>
-/* ========= 配置 ========= */
+/* ===== 配置 ===== */
 const txtUrl =
 "https://raw.githubusercontent.com/erik7761269084-arch/EroticNovels/main/%E7%9F%AD%E7%AF%87/19%E5%B2%81%E7%9A%84%E5%A5%B3%E5%8F%8B%E5%96%9C%E6%AC%A2%E6%9A%B4%E9%9C%B2.txt";
 
-/* ========= 标题 ========= */
+/* ===== 标题 ===== */
 const title = decodeURIComponent(txtUrl.split("/").pop().replace(".txt",""));
 document.getElementById("title").innerText = title;
 
-/* ========= 状态 ========= */
+/* ===== 状态 ===== */
 let fullText = "";
 let pages = [];
 let pageIndex = 0;
 let fontSize = 18;
 let night = true;
+let uiVisible = false;
 
-/* ========= 读取 GBK ========= */
+/* ===== 读取文本（GBK） ===== */
 fetch(txtUrl)
   .then(r=>r.arrayBuffer())
   .then(buf=>{
@@ -159,83 +175,106 @@ fetch(txtUrl)
       renderPage();
   });
 
-/* ========= 分页 ========= */
+/* ===== 分页 ===== */
 function paginate(){
-    pages = [];
-    const temp = document.createElement("div");
-    temp.style.position = "absolute";
-    temp.style.visibility = "hidden";
-    temp.style.fontSize = fontSize + "px";
-    temp.style.lineHeight = "1.9";
-    temp.style.whiteSpace = "pre-wrap";
-    temp.style.width = document.getElementById("page").offsetWidth + "px";
+    pages=[];
+    const temp=document.createElement("div");
+    Object.assign(temp.style,{
+        position:"absolute",
+        visibility:"hidden",
+        fontSize:fontSize+"px",
+        lineHeight:"1.9",
+        whiteSpace:"pre-wrap",
+        width:document.getElementById("page").offsetWidth+"px"
+    });
     document.body.appendChild(temp);
 
-    let start = 0;
-    while(start < fullText.length){
-        let i = start + 500;
-        while(i < fullText.length){
-            temp.innerText = fullText.slice(start, i);
-            if(temp.offsetHeight > window.innerHeight * 0.7) break;
-            i += 50;
+    let start=0;
+    while(start<fullText.length){
+        let i=start+500;
+        while(i<fullText.length){
+            temp.innerText=fullText.slice(start,i);
+            if(temp.offsetHeight>window.innerHeight*0.75) break;
+            i+=50;
         }
-        pages.push(fullText.slice(start, i));
-        start = i;
+        pages.push(fullText.slice(start,i));
+        start=i;
     }
     document.body.removeChild(temp);
 }
 
-/* ========= 渲染 ========= */
+/* ===== 渲染 ===== */
 function renderPage(effect){
-    const page = document.getElementById("page");
+    const page=document.getElementById("page");
     if(effect){
         page.classList.add(effect);
         setTimeout(()=>{
-            page.innerText = pages[pageIndex] || "";
+            page.innerText=pages[pageIndex]||"";
             page.classList.remove(effect);
         },150);
     }else{
-        page.innerText = pages[pageIndex] || "";
+        page.innerText=pages[pageIndex]||"";
     }
+    updateProgress();
 }
 
-/* ========= 翻页 ========= */
+/* ===== 翻页 ===== */
 function nextPage(){
-    if(pageIndex < pages.length - 1){
+    if(pageIndex<pages.length-1){
         pageIndex++;
         renderPage("page-next");
     }
 }
 function prevPage(){
-    if(pageIndex > 0){
+    if(pageIndex>0){
         pageIndex--;
         renderPage("page-prev");
     }
 }
 
-/* ========= 字号 ========= */
-function changeFont(step){
-    fontSize += step;
-    if(fontSize < 14) fontSize = 14;
-    if(fontSize > 30) fontSize = 30;
-    document.getElementById("content").style.fontSize = fontSize + "px";
-    document.getElementById("page").style.fontSize = fontSize + "px";
-    paginate();
-    pageIndex = 0;
+/* ===== 点击处理 ===== */
+function onTap(type){
+    if(type==="center"){
+        uiVisible=!uiVisible;
+        document.body.classList.toggle("show-ui",uiVisible);
+        return;
+    }
+    if(uiVisible) return;
+    if(type==="next") nextPage();
+    if(type==="prev") prevPage();
+}
+
+/* ===== 进度条 ===== */
+function updateProgress(){
+    document.getElementById("progress").value =
+        Math.round((pageIndex/(pages.length-1))*100);
+}
+function onSeek(val){
+    pageIndex=Math.round((val/100)*(pages.length-1));
     renderPage();
 }
 
-/* ========= 日夜 ========= */
-function toggleTheme(){
-    night = !night;
-    document.documentElement.style.setProperty("--bg", night ? "#111" : "#f5f5f5");
-    document.documentElement.style.setProperty("--text", night ? "#e6e6e6" : "#222");
-    document.documentElement.style.setProperty("--title", night ? "#ffd479" : "#333");
+/* ===== 字号 ===== */
+function changeFont(step){
+    fontSize=Math.min(30,Math.max(14,fontSize+step));
+    document.getElementById("content").style.fontSize=fontSize+"px";
+    document.getElementById("page").style.fontSize=fontSize+"px";
+    paginate();
+    pageIndex=0;
+    renderPage();
 }
 
-/* ========= 旋转/尺寸变化 ========= */
-window.addEventListener("resize", ()=>{
-    if(window.innerWidth < 900){
+/* ===== 日夜 ===== */
+function toggleTheme(){
+    night=!night;
+    document.documentElement.style.setProperty("--bg",night?"#111":"#f5f5f5");
+    document.documentElement.style.setProperty("--text",night?"#e6e6e6":"#222");
+    document.documentElement.style.setProperty("--title",night?"#ffd479":"#333");
+}
+
+/* ===== 自适应 ===== */
+window.addEventListener("resize",()=>{
+    if(innerWidth<900){
         paginate();
         renderPage();
     }
