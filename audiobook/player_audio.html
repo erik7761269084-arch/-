@@ -2,80 +2,116 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>有声小说播放器</title>
-
-<script src="audio_data.js"></script>
-
 <style>
-body{margin:0;background:#111;color:#fff;font-family:"Microsoft YaHei";}
-.container{display:flex;height:100vh}
-.left{width:40%;background:#1a1a1a;display:flex;flex-direction:column;align-items:center;justify-content:center}
-.cover{width:220px;height:220px;border-radius:50%;background-size:cover;margin-bottom:20px;
-animation:spin 10s linear infinite;animation-play-state:paused}
-.cover.playing{animation-play-state:running}
-@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
-.title{margin-bottom:10px;font-size:18px;text-align:center}
-audio{width:80%}
-.right{width:60%;overflow-y:auto;background:#0d0d0d}
-.playlist{list-style:none;margin:0;padding:0}
-.playlist li{padding:15px 20px;border-bottom:1px solid #222;cursor:pointer}
-.playlist li:hover{background:#222}
-.playlist li.active{background:#ff5722}
+body {
+    margin: 0; padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #eaeaea;
+}
+.container { display: flex; max-width: 1800px; margin: 20px auto; gap: 20px; }
+.left-panel { flex: 1; display: flex; flex-direction: column; align-items: center; }
+.audio-wrapper { width: 100%; background: #000; border-radius: 10px; padding: 20px; box-sizing: border-box; }
+#audio { width: 100%; }
+.right-panel { width: 320px; display: flex; flex-direction: column; gap: 15px; }
+.playlist { display: flex; flex-wrap: wrap; gap: 10px; }
+.playlist button { width: 100%; padding: 6px 10px; background: #2a2a2a; border: 1px solid #444; color: #ddd; border-radius: 6px; cursor: pointer; text-align: left; }
+.playlist button.active { background-color: #007bff; color: #fff; }
+.actress-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+.actress-card { position: relative; width: 90px; height: 120px; border-radius: 8px; overflow: hidden; }
+.actress-card img { width: 100%; height: 100%; object-fit: cover; }
+.actress-card .name { position: absolute; left:0; bottom:0; width:100%; padding:3px 4px; background: rgba(0,0,0,0.55); color:#fff; font-size:12px; text-align:center; }
 </style>
 </head>
-
 <body>
 
 <div class="container">
-    <div class="left">
-        <div class="cover" id="cover"></div>
-        <div class="title" id="seriesTitle"></div>
-        <audio id="audio" controls></audio>
+    <div class="left-panel">
+        <div class="audio-wrapper">
+            <h2 id="bottom_title">剧名 - 集数</h2>
+            <audio id="audio" controls></audio>
+            <div class="playlist" id="playlist"></div>
+        </div>
     </div>
-
-    <div class="right">
-        <ul class="playlist" id="playlist"></ul>
+    <div class="right-panel">
+        <h3>出演女优</h3>
+        <div class="actress-grid" id="actressGrid"></div>
     </div>
 </div>
 
 <script>
-const params = new URLSearchParams(location.search);
-const seriesId = params.get("series") || "1";
-
-const series = AUDIO_SERIES[seriesId];
-
-if (!series) {
-    document.body.innerHTML = "<h2 style='color:#fff;padding:20px'>❌ 系列不存在</h2>";
-    throw new Error("Series not found");
+// ===== 获取 URL 参数 =====
+function getSeriesName() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('series') || '';
 }
 
-const cover = document.getElementById("cover");
-const audio = document.getElementById("audio");
-const playlist = document.getElementById("playlist");
-const titleDom = document.getElementById("seriesTitle");
-
-cover.style.backgroundImage = `url(${series.cover})`;
-titleDom.innerText = series.name;
-
-series.list.forEach((item, idx) => {
-    const li = document.createElement("li");
-    li.innerText = item.title;
-    li.onclick = () => play(idx);
-    playlist.appendChild(li);
-});
-
-function play(index) {
-    audio.src = series.list[index].mp3;
-    audio.play();
-    titleDom.innerText = series.list[index].title;
-
-    [...playlist.children].forEach(li => li.classList.remove("active"));
-    playlist.children[index].classList.add("active");
+// ===== 加载 JSON 数据 =====
+function loadSeriesData(seriesName) {
+    if(!seriesName) { alert("❌ 系列未指定"); return; }
+    const dataUrl = `https://yunvgong.com/audiobook/menu/${encodeURIComponent(seriesName)}_data.json`;
+    fetch(dataUrl)
+        .then(res => { if(!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
+        .then(data => {
+            window.seriesInfo = data.seriesInfo;
+            window.episodes = data.episodes;
+            initPlayer();
+        })
+        .catch(err => {
+            console.error("剧集数据加载失败:", err);
+            alert("剧集数据加载失败，请确认 URL 或 CORS 设置");
+        });
 }
 
-audio.addEventListener("play",()=>cover.classList.add("playing"));
-audio.addEventListener("pause",()=>cover.classList.remove("playing"));
-audio.addEventListener("ended",()=>cover.classList.remove("playing"));
+// ===== 初始化播放器 =====
+function initPlayer() {
+    const audio = document.getElementById('audio');
+    const playlist = document.getElementById('playlist');
+    const bottomTitle = document.getElementById('bottom_title');
+    const actressGrid = document.getElementById('actressGrid');
+
+    bottomTitle.textContent = seriesInfo.title;
+
+    // 渲染女优
+    actressGrid.innerHTML = '';
+    if(Array.isArray(seriesInfo.actresses)){
+        seriesInfo.actresses.forEach(a => {
+            const card = document.createElement('div');
+            card.className = "actress-card";
+            card.innerHTML = `<div class="name">${a}</div>`;
+            actressGrid.appendChild(card);
+        });
+    }
+
+    // 渲染播放列表
+    playlist.innerHTML = '';
+    const keys = Object.keys(episodes);
+    keys.forEach((name, idx) => {
+        const btn = document.createElement('button');
+        btn.textContent = name;
+        btn.onclick = () => playEpisode(idx, btn);
+        playlist.appendChild(btn);
+    });
+
+    function playEpisode(index, btn) {
+        const name = keys[index];
+        const url = episodes[name];
+        if(!url) return;
+        audio.src = url;
+        audio.play();
+        bottomTitle.textContent = `${seriesInfo.title} - ${name}`;
+        [...playlist.children].forEach(b => b.classList.remove('active'));
+        if(btn) btn.classList.add('active');
+    }
+
+    // 自动播放第一条
+    if(keys.length > 0) playEpisode(0, playlist.firstChild);
+}
+
+// ===== 执行 =====
+loadSeriesData(getSeriesName());
 </script>
 
 </body>
