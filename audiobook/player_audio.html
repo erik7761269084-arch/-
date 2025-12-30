@@ -6,34 +6,113 @@
 <title>有声小说播放器</title>
 <style>
 body {
-    margin: 0; padding: 0;
+    margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #1a1a1a;
-    color: #eaeaea;
+    background-color: #111;
+    color: #eee;
 }
-.container { display: flex; max-width: 1800px; margin: 20px auto; gap: 20px; }
-.left-panel { flex: 1; display: flex; flex-direction: column; align-items: center; }
-.audio-wrapper { width: 100%; background: #000; border-radius: 10px; padding: 20px; box-sizing: border-box; }
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    gap: 20px;
+}
+.left-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cover-wrapper {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 20px;
+}
+.cover {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    animation: spin 10s linear infinite;
+    animation-play-state: paused;
+    border: 5px solid #444;
+}
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+.audio-controls {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
 #audio { width: 100%; }
-.right-panel { width: 320px; display: flex; flex-direction: column; gap: 15px; }
-.playlist { display: flex; flex-wrap: wrap; gap: 10px; }
-.playlist button { width: 100%; padding: 6px 10px; background: #2a2a2a; border: 1px solid #444; color: #ddd; border-radius: 6px; cursor: pointer; text-align: left; }
-.playlist button.active { background-color: #007bff; color: #fff; }
-.actress-grid { display: flex; flex-wrap: wrap; gap: 10px; }
-.actress-card { position: relative; width: 90px; height: 120px; border-radius: 8px; overflow: hidden; }
-.actress-card img { width: 100%; height: 100%; object-fit: cover; }
-.actress-card .name { position: absolute; left:0; bottom:0; width:100%; padding:3px 4px; background: rgba(0,0,0,0.55); color:#fff; font-size:12px; text-align:center; }
+#bottom_title { text-align: center; margin-bottom: 10px; }
+.right-panel {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.playlist {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.playlist button {
+    width: 100%;
+    padding: 6px 10px;
+    background: #222;
+    border: 1px solid #555;
+    color: #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: left;
+}
+.playlist button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+.actress-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.actress-card {
+    position: relative;
+    width: 90px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.actress-card .name {
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    padding: 3px;
+}
 </style>
 </head>
 <body>
 
 <div class="container">
     <div class="left-panel">
-        <div class="audio-wrapper">
+        <div class="cover-wrapper">
+            <div class="cover" id="cover"></div>
+        </div>
+        <div class="audio-controls">
             <h2 id="bottom_title">剧名 - 集数</h2>
             <audio id="audio" controls></audio>
-            <div class="playlist" id="playlist"></div>
         </div>
+        <div class="playlist" id="playlist"></div>
     </div>
     <div class="right-panel">
         <h3>出演女优</h3>
@@ -71,8 +150,10 @@ function initPlayer() {
     const playlist = document.getElementById('playlist');
     const bottomTitle = document.getElementById('bottom_title');
     const actressGrid = document.getElementById('actressGrid');
+    const cover = document.getElementById('cover');
 
     bottomTitle.textContent = seriesInfo.title;
+    if(seriesInfo.cover_url) cover.style.backgroundImage = `url('${seriesInfo.cover_url}')`;
 
     // 渲染女优
     actressGrid.innerHTML = '';
@@ -108,6 +189,11 @@ function initPlayer() {
 
     // 自动播放第一条
     if(keys.length > 0) playEpisode(0, playlist.firstChild);
+
+    // 封面旋转控制
+    audio.addEventListener('play', () => cover.style.animationPlayState = 'running');
+    audio.addEventListener('pause', () => cover.style.animationPlayState = 'paused');
+    audio.addEventListener('ended', () => cover.style.animationPlayState = 'paused');
 }
 
 // ===== 执行 =====
