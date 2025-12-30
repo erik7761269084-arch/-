@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>有声小说播放器</title>
+
+<script src="audio_data.js"></script>
+
+<style>
+body{margin:0;background:#111;color:#fff;font-family:"Microsoft YaHei";}
+.container{display:flex;height:100vh}
+.left{width:40%;background:#1a1a1a;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.cover{width:220px;height:220px;border-radius:50%;background-size:cover;margin-bottom:20px;
+animation:spin 10s linear infinite;animation-play-state:paused}
+.cover.playing{animation-play-state:running}
+@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+.title{margin-bottom:10px;font-size:18px;text-align:center}
+audio{width:80%}
+.right{width:60%;overflow-y:auto;background:#0d0d0d}
+.playlist{list-style:none;margin:0;padding:0}
+.playlist li{padding:15px 20px;border-bottom:1px solid #222;cursor:pointer}
+.playlist li:hover{background:#222}
+.playlist li.active{background:#ff5722}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="left">
+        <div class="cover" id="cover"></div>
+        <div class="title" id="seriesTitle"></div>
+        <audio id="audio" controls></audio>
+    </div>
+
+    <div class="right">
+        <ul class="playlist" id="playlist"></ul>
+    </div>
+</div>
+
+<script>
+const params = new URLSearchParams(location.search);
+const seriesId = params.get("series") || "1";
+
+const series = AUDIO_SERIES[seriesId];
+
+if (!series) {
+    document.body.innerHTML = "<h2 style='color:#fff;padding:20px'>❌ 系列不存在</h2>";
+    throw new Error("Series not found");
+}
+
+const cover = document.getElementById("cover");
+const audio = document.getElementById("audio");
+const playlist = document.getElementById("playlist");
+const titleDom = document.getElementById("seriesTitle");
+
+cover.style.backgroundImage = `url(${series.cover})`;
+titleDom.innerText = series.name;
+
+series.list.forEach((item, idx) => {
+    const li = document.createElement("li");
+    li.innerText = item.title;
+    li.onclick = () => play(idx);
+    playlist.appendChild(li);
+});
+
+function play(index) {
+    audio.src = series.list[index].mp3;
+    audio.play();
+    titleDom.innerText = series.list[index].title;
+
+    [...playlist.children].forEach(li => li.classList.remove("active"));
+    playlist.children[index].classList.add("active");
+}
+
+audio.addEventListener("play",()=>cover.classList.add("playing"));
+audio.addEventListener("pause",()=>cover.classList.remove("playing"));
+audio.addEventListener("ended",()=>cover.classList.remove("playing"));
+</script>
+
+</body>
+</html>
