@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FalenoTube",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240605/NUTtfPGD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LAX-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAX-001"
   },
@@ -30,7 +30,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FalenoTube",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240702/vdiPNIPd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LAX-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAX-002"
   }

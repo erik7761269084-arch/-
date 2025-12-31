@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-08-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1717.jpg",
     "actress": [
       "由衣"
     ],
@@ -35,7 +35,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/kd6QP2zb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1718.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1718"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/7872512c7033bab589e5930e531d9db6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1719.jpg",
     "actress": [
       "彩夏"
     ],
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/086727001d2986b2310b9ee45791228c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1720.jpg",
     "actress": [
       "柴崎佳奈"
     ],
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231025/pvuCEtNC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1721.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1721"
   },
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231025/lhuj0t15/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1722.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1722"
   },
@@ -135,7 +135,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231025/5IRIc4TF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1723.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1723"
   },
@@ -154,7 +154,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-19",
-    "cover_url": "https://tuaskbgnekr.com/20231026/hscXl8vL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1724.jpg",
     "actress": [
       "清水桃"
     ],
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1725.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1725"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-22",
-    "cover_url": "https://tuaskbgnekr.com/20231026/8xjdR9LH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1726.jpg",
     "actress": [
       "美海"
     ],
@@ -215,7 +215,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1727.jpg",
     "actress": [
       "勅使河原澪"
     ],
@@ -236,7 +236,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-24",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1728.jpg",
     "actress": [
       "篠崎メイカ"
     ],
@@ -257,7 +257,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1729.jpg",
     "actress": [
       "絵里香"
     ],
@@ -278,7 +278,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1730.jpg",
     "actress": [
       "皆月有紗"
     ],
@@ -300,7 +300,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-29",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1731.jpg",
     "actress": [
       "高橋里奈"
     ],
@@ -321,7 +321,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-09-30",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1732.jpg",
     "actress": [
       "及川亜理紗"
     ],
@@ -342,7 +342,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-02",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1733.jpg",
     "actress": [
       "牧野杏樹"
     ],
@@ -363,7 +363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2024-01-15",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1734.jpg",
     "actress": [
       "あずさ"
     ],
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1736.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1736"
   },
@@ -403,7 +403,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-09",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1737.jpg",
     "actress": [
       "戸田綾香"
     ],
@@ -424,7 +424,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-12",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1738.jpg",
     "actress": [
       "宮田そら"
     ],
@@ -445,7 +445,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250508-1/106424da2bdc307b197a1e89d9b082eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1739.jpg",
     "actress": [
       "宮村友梨佳"
     ],
@@ -466,7 +466,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-16",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1740.jpg",
     "actress": [
       "如月まいか"
     ],
@@ -487,7 +487,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-21",
-    "cover_url": "https://tuaskbgnekr.com/20231110/W1P7H7Lz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1741.jpg",
     "actress": [
       "百合"
     ],
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-22",
-    "cover_url": "https://tuaskbgnekr.com/20231110/jEjsOG3u/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1742.jpg",
     "actress": [
       "春乃"
     ],
@@ -553,7 +553,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ebb34154dc19f57ad718f0fcce0a8728.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1744.jpg",
     "actress": [
       "璃奈"
     ],
@@ -574,7 +574,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/489c817f4047f1b7beb56839952c91f5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1745.jpg",
     "actress": [
       "优里"
     ],
@@ -617,7 +617,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-10-30",
-    "cover_url": "https://tuaskbgnekr.com/20240127/0ScYwGBe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1747.jpg",
     "actress": [
       "和田翔子"
     ],
@@ -638,7 +638,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-11-03",
-    "cover_url": "https://tuaskbgnekr.com/20240127/FBLWuat7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1748.jpg",
     "actress": [
       "小島美子",
       "西園華"
@@ -660,7 +660,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ccd5042bc66906360d4ded428a24c20d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1749.jpg",
     "actress": [
       "並木愛奈"
     ],
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/QtNNgcHR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1750.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1750"
   },
@@ -777,7 +777,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/PNEewMoH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1755.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1755"
   },
@@ -796,7 +796,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/nhze914e/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1756.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1756"
   },
@@ -855,7 +855,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-12-08",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/a0d001f940ecc3896929cd032a27026a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1759.jpg",
     "actress": [
       "一条恋花"
     ],
@@ -876,7 +876,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-12-11",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6607bc353cbdba5c3f82a3f0e6a5c66c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1760.jpg",
     "actress": [
       "喜多川あかり"
     ],
@@ -897,7 +897,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/35427c9093b04cfd37bfee262ff9a089.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1761.jpg",
     "actress": [
       "瑠衣"
     ],
@@ -918,7 +918,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/0ab2fd486ccebbda354e099f342edd36.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1762.jpg",
     "actress": [
       "月野りこ"
     ],
@@ -999,7 +999,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/dbe37194b16fc0715bcc8e82dc009c5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1766.jpg",
     "actress": [
       "小林日菜子"
     ],
@@ -1062,7 +1062,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2023-12-16",
-    "cover_url": "https://tuaskbgnekr.com/20240328/r0NOQqWP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1769.jpg",
     "actress": [
       "前田美波",
       "みなみ"
@@ -1106,7 +1106,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/2cd7683cacd0919d7b1666d2562585ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1773.jpg",
     "actress": [
       "佐々木恵梨香"
     ],
@@ -1234,7 +1234,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/142d802f8602a7561dc1410b15e213cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1779.jpg",
     "actress": [
       "朝比奈結花"
     ],
@@ -1255,7 +1255,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/9ad20910601ba73243f81136e3eeb95d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1781.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1781"
   },
@@ -1274,7 +1274,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/de1708f227a2a3ef1bfa97ef0dc66c22.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1782.jpg",
     "actress": [
       "海咲"
     ],
@@ -1295,7 +1295,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/4f2d7ca0c9d077a552ca38b86ef98dfe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1783.jpg",
     "actress": [
       "つかさ"
     ],
@@ -1316,7 +1316,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2024-04-24",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/b4fbec92439213cbc88aa2715dfdd969.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1784.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1784"
   },
@@ -1335,7 +1335,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/6d98d4b21011f3f5dba51fbd2606bceb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1785.jpg",
     "actress": [
       "香蓮"
     ],
@@ -1356,7 +1356,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2024-04-20",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/b703e1d8ab262f178de9b396d0ec5f16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1786.jpg",
     "actress": [
       "白都四季",
       "静葉"
@@ -1378,7 +1378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240702/K37hEtMR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1787.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1787"
   },
@@ -1397,7 +1397,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240601/zphnlCqI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1788.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1788"
   },
@@ -1416,7 +1416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240702/VoCu898y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1789.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1789"
   },
@@ -1435,7 +1435,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240702/eX2crhPU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1790.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1790"
   },
@@ -1455,7 +1455,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250812-1/e0b782c5aaab8bfa7df06b28ba48cb0e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1795.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1795"
   },
@@ -1475,7 +1475,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/8efdde2a21918aecafe730ebd111d72c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1798.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1798"
   },
@@ -1495,7 +1495,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1807.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1807"
   },
@@ -1514,7 +1514,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1827.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1827"
   },
@@ -1534,7 +1534,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1832.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1832"
   },
@@ -1553,7 +1553,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1834.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1834"
   },
@@ -1572,7 +1572,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/7def50700fd09f6318cd283e47e7694a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1835.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1835"
   },
@@ -1591,7 +1591,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1836.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1836"
   },
@@ -1610,7 +1610,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1854.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1854"
   },
@@ -1629,7 +1629,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-1856.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1856"
   },
@@ -1647,7 +1647,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250521-1/5dcb6d698963228fafd4e742ab52d2cf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/336KBR-006.jpg",
     "actress": [
       "松岡鈴"
     ],
@@ -1664,293 +1664,478 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/96778_cover_2025-09-30_145216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888KBR-A005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888KBR-A005"
   },
   {
-    "id": 107721,
-    "IDcode": "ABF-001",
-    "title": "最高级辣妹中出性爱-八挂海",
+    "id": 17937,
+    "IDcode": "DLV-001",
+    "title": "我借給你一個新的、絕對漂亮的女孩。行動117",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "无码破解",
+      "巨乳",
+      "無毛",
+      "感謝祭",
+      "女優",
+      "粉絲福利",
+      "上門福利",
+      "企畫",
+      "顏射"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2023-11-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DLV-001.jpg",
+    "actress": [
+      "百仁花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-001"
+  },
+  {
+    "id": 546054,
+    "IDcode": "DLV-002",
+    "title": "新·絶対的美少女、お贷しします。 ACT.118",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DLV-002.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-002"
+  },
+  {
+    "id": 14908,
+    "IDcode": "DLV-003",
+    "title": "給你一個新的、絕對漂亮的女孩。瀧本雫葉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "美腳",
+      "美臀",
+      "亂交 • 群P",
+      "深喉",
+      "舔陰",
+      "淫亂",
       "中出",
-      "无毛",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/adb5b4a17c4938ca9888b2132e34e25a.jpg",
-    "actress": [
-      "八挂うみ",
-      "八挂海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-001"
-  },
-  {
-    "id": 107722,
-    "IDcode": "ABF-002",
-    "title": "衣装超透的下流学园-七嶋舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学校作品",
-      "单体作品",
-      "无码破解",
-      "角色扮演",
-      "无毛",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/ffe173a3a79c3977e772c6a1ea56f0a9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-002"
-  },
-  {
-    "id": 204003,
-    "IDcode": "ABF-003",
-    "title": "潮汁满天飞-流川夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/09/18/3a5f47c277cb867aed54ec854c89872b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-003"
-  },
-  {
-    "id": 107158,
-    "IDcode": "ABF-004",
-    "title": "被青梅竹马痴女般责弄-美之岛惠理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "单体作品",
-      "处男",
-      "颜射",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/82cf07b93d793e67673e232150497c79.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-004"
-  },
-  {
-    "id": 107466,
-    "IDcode": "ABF-005",
-    "title": "尽可能的让她崩坏-铃村爱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "无码破解",
-      "乳房",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/8c2df3419be79cd283f3a7f2918a7d36.jpg",
-    "actress": [
-      "鈴村愛里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-005"
-  },
-  {
-    "id": 564088,
-    "IDcode": "ABF-006",
-    "title": "天然成分由来 一宫希帆汁 120% 82【MGSだけのおまけ映像付き+10分】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230708/zErBiGTp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-006"
-  },
-  {
-    "id": 107465,
-    "IDcode": "ABF-007",
-    "title": "美丽又下流的超圆润屁股-凉森玲梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "美少女電影",
+      "美少女",
+      "絕頂高潮",
+      "無毛",
+      "企畫",
+      "飯店",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
       "巨乳",
-      "单体作品",
-      "屁股",
-      "无码破解",
-      "角色扮演",
-      "乳液"
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
     ],
     "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/f376a7b57d4e4b13bc7ba409bc8275cd.jpg",
+    "publish_date": "2024-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DLV-003.jpg",
     "actress": [
-      "凉森玲梦"
+      "瀧本雫葉"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-003"
   },
   {
-    "id": 564025,
-    "IDcode": "ABF-008",
-    "title": "美少女と、贷し切り温泉と、浓密性交と。 23 铃の家りん【MGSだけのおまけ映像付き+10分】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-008"
-  },
-  {
-    "id": 106865,
-    "IDcode": "ABF-009",
-    "title": "新人教师-河合明日菜",
+    "id": 6518,
+    "IDcode": "DLV-004",
+    "title": "新・絕對美少女，上門給你玩 ACT.120 ~ 釋愛麗絲",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "真實拍攝",
+      "美腳",
+      "臀控",
+      "美臀",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "自宅",
+      "美少女",
+      "後入",
+      "無毛",
+      "女優",
+      "高顏值",
+      "企畫",
+      "上門福利",
+      "粉丝",
+      "69",
+      "騎乗位",
+      "艷遇",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "巨尻",
+      "口交",
+      "真人秀",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2025-04-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DLV-004.jpg",
+    "actress": [
+      "釋愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-004"
+  },
+  {
+    "id": 3623,
+    "IDcode": "DLV-005",
+    "title": "新・絶対的美少女、お貸しします。 ACT.121 中森ななみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "真實拍攝",
+      "清楚系",
+      "蠻橫嬌羞",
+      "美腳",
+      "粉絲福利",
+      "小隻馬",
+      "口爆",
+      "臀控",
+      "美臀",
+      "單體作品",
+      "舔陰",
+      "中出",
+      "舔腳",
+      "極品美人",
+      "貧乳",
+      "美少女電影",
+      "自宅",
+      "接吻",
+      "美少女",
+      "明星臉",
+      "絕頂高潮",
+      "無毛",
+      "女優",
+      "高顏值",
+      "苗條",
+      "企畫",
+      "上門福利",
+      "粉丝",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "巨尻",
+      "口交",
+      "潮吹",
+      "清純",
+      "女優訪談",
+      "女上位",
+      "真人秀",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DLV-005.jpg",
+    "actress": [
+      "中森七海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
+  },
+  {
+    "id": 17262,
+    "IDcode": "FIT-001",
+    "title": "新人杉原花菜 移居東京 AV 首次亮相 從北海道到東京 約 1022 公里 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "口交",
+      "自拍性愛",
+      "中出",
+      "女優",
+      "企畫",
+      "顏射",
+      "女優訪談",
+      "美少女電影",
+      "紀錄片",
+      "出道作品",
+      "性感",
+      "美少女",
+      "COSPLAY服飾"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2023-12-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-001.jpg",
+    "actress": [
+      "杉原花菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-001"
+  },
+  {
+    "id": 15831,
+    "IDcode": "FIT-002",
+    "title": "新人轉戰東京AV出道。來自長野的葉月みい，吃得很多！ ？超美奶子 ~ 葉月みい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "出道作品",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "自宅",
+      "美少女",
+      "按摩棒",
+      "絕頂高潮",
+      "無毛",
+      "出道作",
+      "企畫",
+      "苗條",
+      "手指插入",
+      "騎乗位",
+      "美乳",
+      "口交",
       "巨乳",
-      "单体作品",
-      "无码破解",
-      "女教师",
-      "乳液",
+      "潮吹",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2024-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-002.jpg",
+    "actress": [
+      "葉月みい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-002"
+  },
+  {
+    "id": 14177,
+    "IDcode": "FIT-003",
+    "title": "新人東京AV出道，想抱抱她！妹系雪肌素體 ~ 四葉芽樓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "亂交 • 群P",
+      "出道作品",
+      "兩男一女",
+      "淫亂",
+      "美少女電影",
+      "美少女",
+      "白絲",
+      "出道作",
+      "色白",
+      "女優",
+      "手指插入",
+      "騎乗位",
+      "素人",
+      "女僕制服",
+      "口交",
+      "女上位",
+      "JK校服",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2024-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-003.jpg",
+    "actress": [
+      "四葉芽楼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-003"
+  },
+  {
+    "id": 11538,
+    "IDcode": "FIT-004",
+    "title": "新人出道！高嶺受付娘正在工作……很忙！ ！ ！24歲某大型地產公司接待受付娘 下班後首次亮相 AV DEBUT ~ 夏芽さき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "蠻橫嬌羞",
+      "美臀",
+      "出道作品",
+      "癡女",
+      "客服小姐",
+      "中出",
+      "美少女電影",
+      "抹油",
+      "美少女",
+      "絕頂高潮",
+      "出道作",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "巨尻",
+      "巨乳",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "自慰",
+      "女上位",
+      "胸控・戀乳癖",
+      "內衣",
+      "高跟鞋",
+      "OL",
+      "後入",
+      "性感",
+      "紀念作"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-004.jpg",
+    "actress": [
+      "夏芽さき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-004"
+  },
+  {
+    "id": 9461,
+    "IDcode": "FIT-005",
+    "title": "初次脫下衣服AV下海的素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "清楚系",
+      "亂交 • 群P",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "絕頂高潮",
+      "無毛",
+      "色白",
+      "高顏值",
+      "企畫",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "素人",
+      "美腿",
+      "口交",
+      "潮吹",
+      "清純",
+      "女上位",
       "多P",
-      "白天出轨"
+      "後入",
+      "業餘",
+      "3P・4P"
     ],
     "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/09/23/e430ebdd60777ccacdfa86b0fb4daaef.jpg",
-    "actress": [
-      "河合明日菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-009"
-  },
-  {
-    "id": 548714,
-    "IDcode": "ABF-010",
-    "title": "野々浦暖流 HOW TO SEX！！ 保健室の先生が身体を使って性指导！絶対セイキョウイク【MG",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/ZOoRLJXX/1.jpg",
+    "publish_date": "2025-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-005.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-005"
   },
   {
-    "id": 162429,
-    "IDcode": "ABF-011",
-    "title": "绝对性教育-八掛海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/59e0da63a6f8964bdcb27baebf387ee1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-011"
-  },
-  {
-    "id": 538911,
-    "IDcode": "ABF-012",
-    "title": "七岛舞- 帰省した童贞の仆を痴女ってくる 小悪魔いとこ 七嶋舞【MGSだけのおまけ映像付き+15分】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241124/yiqs55GV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-012"
-  },
-  {
-    "id": 107157,
-    "IDcode": "ABF-013",
-    "title": "和超色情的最高级辣妹-流川夕",
+    "id": 8716,
+    "IDcode": "FIT-006",
+    "title": "【初脫】22歲從事公司勤務的素人首秀",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "少女",
+      "真實拍攝",
+      "清楚系",
+      "美腳",
+      "網襪",
+      "小隻馬",
+      "臀控",
+      "美臀",
+      "亂交 • 群P",
+      "出道作品",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
       "中出",
-      "无毛",
-      "单体作品",
-      "苗条"
+      "舔腳",
+      "猥褻穿著",
+      "美少女電影",
+      "美少女",
+      "色白",
+      "企畫",
+      "苗條",
+      "顏射",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "脚控・戀足癖",
+      "素人",
+      "口交",
+      "潮吹",
+      "清純",
+      "情趣內衣",
+      "女上位",
+      "真人秀",
+      "OL",
+      "後入",
+      "業餘",
+      "3P・4P",
+      "紀念作"
     ],
     "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/9b1b5ebe30145e2e726a4c8d3ff66057.jpg",
+    "publish_date": "2025-01-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FIT-006.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-006"
   },
   {
-    "id": 226230,
-    "IDcode": "ABF-014",
-    "title": "天然成分由来120%汁-美之岛惠理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/845bdb3c59d6d052b886f7b3e2f429e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-014"
-  },
-  {
-    "id": 157454,
-    "IDcode": "ABF-015",
-    "title": "完全主观视角-铃村爱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/d541f294267d6c48e8a69815e660f1fb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-015"
-  },
-  {
-    "id": 548556,
-    "IDcode": "ABF-016",
-    "title": "唇が溶けるほどのベロキス性交 一宫希帆【MGSだけのおまけ映像付き+10分】",
+    "id": 563978,
+    "IDcode": "KBR-001",
+    "title": "朝まで种付け絶伦性交 加藤妃乃【MGSだけのおまけ映像付き+5分】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1960,12 +2145,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-001"
   },
   {
-    "id": 158050,
-    "IDcode": "ABF-017",
-    "title": "完全堕落前被玩到崩坏-凉森玲梦",
+    "id": 563964,
+    "IDcode": "KBR-002",
+    "title": "极上きもの美人のおもてなし性交 冨永ののか",
     "year": "",
     "country": "",
     "genre": "",
@@ -1973,25 +2158,104 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/860cfe5835aca166efbe6eab7b22d230.jpg",
-    "actress": [
-      "凉森玲梦"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-017"
-  },
-  {
-    "id": 548516,
-    "IDcode": "ABF-018",
-    "title": "女子マネージャーは、仆达の性処理ペット。 046",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230811/LJfaM1qK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBR-002.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-002"
+  },
+  {
+    "id": 226539,
+    "IDcode": "KBR-003",
+    "title": "沉浸在四种究极的性爱体验中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-003"
+  },
+  {
+    "id": 548555,
+    "IDcode": "KBR-004",
+    "title": "禁欲アクメ 爆欲解放 一ヶ月间焦らされ极限状态の先にある従顺ドM●教。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBR-004.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-004"
+  },
+  {
+    "id": 548557,
+    "IDcode": "KBR-005",
+    "title": "夫、年下彼氏、●●、セフレ… 男を転がすハイキャリアCAと浓密中出し性交。 冨永ののか【MGSだ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBR-005.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-005"
+  },
+  {
+    "id": 563594,
+    "IDcode": "KBR-006",
+    "title": "NGR ーナガサレー 真面目で推しに弱い眼镜美人妻が、狡猾な男达にナガサレ…快楽に狂う 中出し5连発",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBR-006.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-006"
+  },
+  {
+    "id": 18610,
+    "IDcode": "KBR-007",
+    "title": "变态专用-松冈铃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "口交",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "性感",
+      "拘束・拷問",
+      "緊縛",
+      "猥褻穿著",
+      "暗黑系",
+      "蕩婦",
+      "SM",
+      "亂交 • 群P",
+      "羞恥",
+      "跳蛋",
+      "癡女"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBR-007.jpg",
+    "actress": [
+      "松岡鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-007"
   }
 ];

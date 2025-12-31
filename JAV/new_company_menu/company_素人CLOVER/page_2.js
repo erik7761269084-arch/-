@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/B9fVdREq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-318.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-318"
   },
@@ -30,7 +30,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/QZMUPbDp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-319.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-319"
   },
@@ -47,7 +47,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/I7zEt4ci/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-320.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-320"
   },
@@ -64,7 +64,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/Pp3tCyT2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-321.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-321"
   },
@@ -81,7 +81,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230920/STCV322.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-322.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-322"
   },
@@ -98,7 +98,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/qHYc9Fst/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-323.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-323"
   },
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/DajGTT9x/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-324.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-324"
   },
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/N211tYBX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-325.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-325"
   },
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/dd0c9d14303a8869a6685b6de13eb3e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-326.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-326"
   },
@@ -168,7 +168,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/d20b209cfcd6aad793fbba5cbbdc2fa8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-327.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-327"
   },
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241029-1/e33a72a48fdd529a5e9f2d2105ba15ef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-328.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-328"
   },
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/DTJYcSMR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-329.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-329"
   },
@@ -220,7 +220,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/7346fb8647558fdb0d42d2f305c8caa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-330.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-330"
   },
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/51036f44f7a619b8fc066b67d2120389.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-331.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-331"
   },
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/dijp2F7g/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-332.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-332"
   },
@@ -271,7 +271,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/3eafa993e68b199c01eccb83dff17d78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-333.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-333"
   },
@@ -289,7 +289,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/Cs1w6YT5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-334.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-334"
   },
@@ -306,7 +306,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/d473081f5a7de2a0c5ef8d8d630d1165.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-335.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-335"
   },
@@ -324,7 +324,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/2ftA2UXB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-336.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-336"
   },
@@ -341,7 +341,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231005/pb_e_529stcv-337.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-337.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-337"
   },
@@ -358,7 +358,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/F49F0HW1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-338.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-338"
   },
@@ -376,7 +376,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/OnU1yjmJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-339.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-339"
   },
@@ -393,7 +393,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250423/PAGUQSVL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-340.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-340"
   },
@@ -410,7 +410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/cpKt7oLA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-341.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-341"
   },
@@ -428,7 +428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/3Ewr7bQW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-342.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-342"
   },
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/XJGXzirD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-343.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-343"
   },
@@ -463,7 +463,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/YOUm0dqy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-344.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-344"
   },
@@ -480,7 +480,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/IGIDONGE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-345.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-345"
   },
@@ -497,7 +497,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/rM7iUt2K/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-346.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-346"
   },
@@ -515,7 +515,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/a8Jx4A7T/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-347.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-347"
   },
@@ -532,7 +532,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/8JtS9ji0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-348.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-348"
   },
@@ -550,7 +550,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/Tpx5PSKd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-349.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-349"
   },
@@ -568,7 +568,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250424/MwlebZCB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-350.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-350"
   },
@@ -586,7 +586,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/iQnmymSS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-351.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-351"
   },
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_529stcv-352.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-352.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-352"
   },
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/PgYtzmRu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-353.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-353"
   },
@@ -637,7 +637,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/B7W50W36/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-354.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-354"
   },
@@ -654,7 +654,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/p03RVGd5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-355.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-355"
   },
@@ -672,7 +672,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/JdLnH8d7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-356.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-356"
   },
@@ -689,7 +689,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/NoAAxvH7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-357.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-357"
   },
@@ -707,7 +707,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/TvwoOTIs/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-358.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-358"
   },
@@ -724,7 +724,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/4d3a8a940c1180068037e294e39eaed3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-359.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-359"
   },
@@ -741,7 +741,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250425/4o64fxHd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-360.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-360"
   },
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/8d5ba8346da2b825a457992f0c9698b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-361.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-361"
   },
@@ -776,7 +776,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/nCIkaMON/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-362.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-362"
   },
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/FTR5yI8G/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-363.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-363"
   },
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/xrYmceZf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-364.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-364"
   },
@@ -828,7 +828,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/4e3ee15099256b6b69019ea6436af1fb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-365.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-365"
   },
@@ -845,7 +845,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/SdLEG9UQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-366.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-366"
   },
@@ -862,7 +862,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/w8pV1y16/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-367.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-367"
   },
@@ -880,7 +880,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/0jsWiYIz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-368.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-368"
   },
@@ -898,7 +898,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/Uni3u6o6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-369.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-369"
   },
@@ -915,7 +915,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250426/bWA1bv6D/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-370.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-370"
   },
@@ -933,7 +933,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/doKXfUfH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-371.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-371"
   },
@@ -952,7 +952,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/bymlEcFT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-372.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-372"
   },
@@ -969,7 +969,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/p6n6oDHe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-373.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-373"
   },
@@ -986,7 +986,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/xBBXyGQV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-374.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-374"
   },
@@ -1003,7 +1003,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/xtxVyjcs/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-375.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-375"
   },
@@ -1020,7 +1020,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/tWtaT0dL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-376.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-376"
   },
@@ -1037,7 +1037,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/Yfi5jOUM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-377.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-377"
   },
@@ -1054,7 +1054,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/sBj8g3fP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-378.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-378"
   },
@@ -1071,7 +1071,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/qhO0EKB6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-379.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-379"
   },
@@ -1088,7 +1088,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/NqsJ419G/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-380.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-380"
   },
@@ -1105,7 +1105,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/G4arEI2l/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-381.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-381"
   },
@@ -1122,7 +1122,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/s0ikImAB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-382.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-382"
   },
@@ -1139,7 +1139,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/XSUfmg49/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-383.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-383"
   },
@@ -1156,7 +1156,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/sL4F3YCq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-384.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-384"
   },
@@ -1173,7 +1173,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/UVlfXAzJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-385.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-385"
   },
@@ -1192,7 +1192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/wbViv05o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-386.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-386"
   },
@@ -1210,7 +1210,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/CCrV7YqA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-387.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-387"
   },
@@ -1227,7 +1227,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/2NGM1ooQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-388.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-388"
   },
@@ -1245,7 +1245,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/JVp1DAKK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-389.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-389"
   },
@@ -1262,7 +1262,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250428/E9OdY4nS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-390.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-390"
   },
@@ -1279,7 +1279,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/528b0e7712a1e762b2abeb0104a6534a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-392.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-392"
   },
@@ -1297,7 +1297,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/c298503b75060170f2bd22a234f5b6dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-394.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-394"
   },
@@ -1314,7 +1314,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/TQ5sMeaP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-396.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-396"
   },
@@ -1331,7 +1331,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/utFgeaW8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-397.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-397"
   },
@@ -1348,7 +1348,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/Ivw0UY3h/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-402.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-402"
   },
@@ -1366,7 +1366,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/f9b24f721a254a725a6d2f5a5403605a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-439.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-439"
   },
@@ -1400,7 +1400,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/HNxm32eg/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-472.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-472"
   },
@@ -1418,7 +1418,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/ZkCOlYf8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-474.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-474"
   },
@@ -1436,7 +1436,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/tXguAO73/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-475.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-475"
   },
@@ -1453,7 +1453,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/XUvklH9b/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-476.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-476"
   },
@@ -1470,7 +1470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/10SS1q7E/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-477.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-477"
   },
@@ -1487,7 +1487,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/jZFWxK3b/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-478.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-478"
   },
@@ -1504,7 +1504,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/ywCZiBXV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-484.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-484"
   },
@@ -1522,7 +1522,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/nfZ4Bn4C/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-487.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-487"
   },
@@ -1540,7 +1540,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/NJQd5DZ4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-489.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-489"
   },
@@ -1558,7 +1558,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/HiIFh4JV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-490.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-490"
   },
@@ -1575,7 +1575,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/HPk5grIe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-492.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-492"
   },
@@ -1592,7 +1592,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/FUA8wftZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-493.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-493"
   },
@@ -1609,7 +1609,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/KyR5638a/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-494.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-494"
   },
@@ -1626,7 +1626,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/uYURIJeW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-495.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-495"
   },
@@ -1644,7 +1644,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250430/ITHpNe22/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-496.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-496"
   },
@@ -1661,7 +1661,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/ZgrWVzFX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-498.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-498"
   },
@@ -1678,7 +1678,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/S92d3KVZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-499.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-499"
   },
@@ -1695,7 +1695,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/HXF4rYdV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-500.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-500"
   },
@@ -1713,7 +1713,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/XKgtzj19/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-502.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-502"
   },
@@ -1731,7 +1731,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250501/oX2xNdA0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/529STCV-504.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-504"
   }

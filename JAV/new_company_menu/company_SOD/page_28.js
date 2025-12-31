@@ -1,2814 +1,2793 @@
 window.PAGE_DATA = [
   {
-    "id": 18712,
-    "IDcode": "STARS-893",
-    "title": "絕妙誘人的高性感內衣 本能的性交",
+    "id": 97833,
+    "IDcode": "STAR-933",
+    "title": "STAR-933 10,000 美女 Suzu Honjo 首次登场 第 2 次 性、欲望、释放、4 种快感 4 种快感系列 在一次又一次的高潮中，她的身体和灵魂原原本本地展现出来 从她优雅的阴部溢出的淫荡爱液...",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "抹油",
-      "內衣",
-      "美少女",
+      "3P",
+      "多P",
+      "数位马赛克",
+      "4P",
+      "数字马赛克",
+      "女大学生",
+      "单人作品",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-06-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-933.jpg",
+    "actress": [
+      "本庄鈴",
+      "大岛丈",
+      "南佳也",
+      "黑泽透",
+      "贞松大辅",
+      "一条真斗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-933"
+  },
+  {
+    "id": 536558,
+    "IDcode": "STAR-934",
+    "title": "STAR-934 Yume Takeda，Yume，Yume：\"女同性恋解放：与 Rena Aoi 两天一夜的百合（放纵）之旅，镰仓：\"我第一次觉得性是美好的......\"",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "舔阴",
+      "纪录片",
       "接吻"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2023-09-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20230914/20230914004644457457.jpg",
+    "publish_date": "2018-06-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-934.jpg",
     "actress": [
-      "MINAMO"
+      "竹田夢",
+      "葵玲奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-893"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-934"
   },
   {
-    "id": 89287,
-    "IDcode": "STARS-894",
-    "title": "女友变态的另一面-神木丽",
+    "id": 207371,
+    "IDcode": "STAR-935",
+    "title": "STAR-935 古川伊织（Iori Furukawa） 一个自大的美国女孩在陷入脆弱境地后被迫屈服！她本应心不甘情不愿地被强奸，但快感却让她爱上了鸡巴！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "傲娇",
+      "剧情",
+      "角色扮演",
+      "辣妹",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-07-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-935.jpg",
+    "actress": [
+      "古川伊織",
+      "畑中哲也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-935"
+  },
+  {
+    "id": 200585,
+    "IDcode": "STAR-942",
+    "title": "STAR-942 Mana Saakura-假装是处女的淫荡兄弟用力活塞运动他们姐姐的朋友，在她体内连续用力射精，导致她弯下腰，抽搐并达到高潮。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "大鸡巴",
+      "姐姐",
+      "处男",
+      "内射",
+      "乱伦",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-942.jpg",
+    "actress": [
+      "纱仓真菜",
+      "江里口匡史",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-942"
+  },
+  {
+    "id": 107663,
+    "IDcode": "STAR-943",
+    "title": "STAR-943 榎本美咲温泉一日游，在温泉中射精 12 次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻",
+      "主观视角",
+      "已婚妇女",
+      "单人作品",
+      "温泉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-943.jpg",
+    "actress": [
+      "榎本美咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-943"
+  },
+  {
+    "id": 592741,
+    "IDcode": "STAR-944",
+    "title": "STAR-944 新来的女教师武田梦（Yume Takeda），在几分钟前还是她的学生的不良少年 DQN 怪物毕业生，在她的男朋友面前多次怀孕并整天轮奸她。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "内射",
+      "NTR",
+      "单人作品",
+      "强奸",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-944.jpg",
+    "actress": [
+      "竹田夢",
+      "今井勇太",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-944"
+  },
+  {
+    "id": 206700,
+    "IDcode": "STAR-945",
+    "title": "STAR-945 玛丽娜-白石（Marina Shiraishi）：大胸母亲，代替因擅离职守而被解雇的女儿，成为一名足底按摩师。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "水手服",
+      "内射",
+      "人妻",
+      "乱伦",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-945.jpg",
+    "actress": [
+      "白石茉莉奈",
+      "市川哲也",
+      "吉村文孝",
+      "キンポー"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-945"
+  },
+  {
+    "id": 207813,
+    "IDcode": "STAR-947",
+    "title": "STAR-947 户田诚（Toda Makoto） 美丽的女职员被其隐居的哥哥当作性玩具，而哥哥则是一个偷窥狂。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "侮辱",
+      "人妻",
+      "主观视角",
+      "OL",
+      "偷窥者",
+      "单人作品",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-947.jpg",
+    "actress": [
+      "戸田真琴",
+      "嵐山みちる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-947"
+  },
+  {
+    "id": 206152,
+    "IDcode": "STAR-949",
+    "title": "STAR-949 古川伊织，无时无刻不在玩弄超级敏感的阴蒂，高潮恍惚的性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "姐姐",
+      "4P",
+      "NTR",
+      "淫妻",
+      "其他恋物",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-949.jpg",
+    "actress": [
+      "古川伊織",
+      "内村雅人",
+      "大泽真司",
+      "鲛岛健介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-949"
+  },
+  {
+    "id": 206804,
+    "IDcode": "STAR-950",
+    "title": "STAR-950 明日香凛精液，一饮而尽。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "射精",
+      "美少女",
+      "口交",
+      "单人作品",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-950.jpg",
+    "actress": [
+      "飞鸟铃",
+      "森林原人",
+      "皮埃尔剑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-950"
+  },
+  {
+    "id": 206797,
+    "IDcode": "STAR-951",
+    "title": "STAR-951 Masami Ichikawa 600 个小时的禁欲和急促的活塞运动，直到溢出的阴部汁液变成混合物。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "重口味",
+      "姐姐",
+      "下流",
+      "单人作品",
+      "苗条",
+      "特写"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-951.jpg",
+    "actress": [
+      "市川雅美",
+      "巨人广田",
+      "黑泽透",
+      "黒田悠斗",
+      "沢木和也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-951"
+  },
+  {
+    "id": 207869,
+    "IDcode": "STAR-953",
+    "title": "STAR-953 小仓优奈，一个性欲太强的圈内偶像。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "剧情",
+      "荡妇",
+      "美少女",
+      "单人作品",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-953.jpg",
+    "actress": [
+      "小倉由菜",
+      "玉木玲",
+      "羽田贵史",
+      "平田司",
+      "青木功"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-953"
+  },
+  {
+    "id": 526750,
+    "IDcode": "STAR-955",
+    "title": "STAR-955 Kiai Aoyama，第一个超大型水枪，势不可挡地喷射出 5600 毫升的水花。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "潮吹",
+      "4P",
+      "玩具",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-955.jpg",
+    "actress": [
+      "吉村卓",
+      "玉木玲",
+      "青山希愛",
+      "野岛诚",
+      "鲛岛健介",
+      "平田司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-955"
+  },
+  {
+    "id": 200737,
+    "IDcode": "STAR-956",
+    "title": "STAR-956 中桥恳求羽田爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "重口味",
+      "高挑",
+      "下流",
+      "内射",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-956.jpg",
+    "actress": [
+      "羽田あい",
+      "野岛诚",
+      "???",
+      "カルロス"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-956"
+  },
+  {
+    "id": 105723,
+    "IDcode": "STAR-957",
+    "title": "STAR-957 Mana Saakura：她偷偷看了我一眼，冲我咧嘴一笑，然后命令我从上往下做一个 senzuri。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偷窥",
+      "M男",
+      "内射",
+      "淫语",
+      "主观视角",
+      "脏话",
+      "荡妇",
+      "偷窥者",
+      "女大学生",
+      "单人作品",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-957.jpg",
+    "actress": [
+      "纱仓真菜",
+      "タツ",
+      "???",
+      "宫崎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-957"
+  },
+  {
+    "id": 207850,
+    "IDcode": "STAR-958",
+    "title": "STAR-958 #MisakiEnomoto SNS 强奸案 人气木乃伊模特的快乐时光被一个不知名的顽固追随者毁于一旦。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "群交",
+      "人妻",
+      "单人作品",
+      "强奸"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-958.jpg",
+    "actress": [
+      "榎本美咲",
+      "野岛诚",
+      "江里口匡史",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-958"
+  },
+  {
+    "id": 70569,
+    "IDcode": "STAR-960",
+    "title": "STAR-960 最性感、最可爱的加藤百香成为你的小妹妹，过着充满爱的乱伦生活。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "侮辱",
+      "妹妹",
+      "乱伦",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-960.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-960"
+  },
+  {
+    "id": 105753,
+    "IDcode": "STAR-962",
+    "title": "STAR-962 Marina Shiraishi 春药秋天......与公公鬼混的温泉不忠妻子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻",
+      "内射",
+      "出轨",
+      "已婚妇女",
+      "药物",
+      "中出",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-962.jpg",
+    "actress": [
+      "白石茉莉奈",
+      "佐川银次"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-962"
+  },
+  {
+    "id": 207845,
+    "IDcode": "STAR-964",
+    "title": "STAR-964 Mana Sakura 美丽的婚礼策划师在婚礼仪式上被迫为新郎表演 Nakadashi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "剧情",
+      "内射",
+      "NTR",
+      "荡妇",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-964.jpg",
+    "actress": [
+      "纱仓真菜",
+      "东尼大木"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-964"
+  },
+  {
+    "id": 207853,
+    "IDcode": "STAR-965",
+    "title": "STAR-965 Makoto Toda 最大身高差 30 厘米或以上 最大体重差 60 千克或以上 从早到晚 8 小时与有大鸡巴的大个子男人对战 无时无刻--轻信性爱！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "洛丽塔",
+      "大鸡巴",
+      "迷你",
+      "深喉",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-965.jpg",
+    "actress": [
+      "戸田真琴",
+      "巨人广田",
+      "泽地真人",
+      "氷崎健人",
+      "辻村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-965"
+  },
+  {
+    "id": 593120,
+    "IDcode": "STAR-966",
+    "title": "STAR-966 古川伊织人体性爱腰带--淫荡的性爱疗法，让身体的每一寸肌肤都得到缓慢而彻底的开发。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "其他恋物",
+      "人妻",
+      "单人作品",
+      "按摩"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-966.jpg",
+    "actress": [
+      "古川伊織",
+      "东尼大木"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-966"
+  },
+  {
+    "id": 209221,
+    "IDcode": "STAR-967",
+    "title": "STAR-967 Masami Ichikawa 不耐烦地从高速降档到低速降档，缓慢而反复地换档。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "M男",
+      "女上位",
+      "口交",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-967.jpg",
+    "actress": [
+      "市川雅美",
+      "鲛岛健介",
+      "江里口匡史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-967"
+  },
+  {
+    "id": 186830,
+    "IDcode": "STAR-969",
+    "title": "STAR-969 Yuna Ogura：第一次与受骗的业余男子和 4 个 dokidoki 处男发生性关系！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "单人作品",
+      "纪录片",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-969.jpg",
+    "actress": [
+      "小倉由菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-969"
+  },
+  {
+    "id": 593118,
+    "IDcode": "STAR-970",
+    "title": "STAR-970 Kiai Aoyama 如果你在情趣用品店偶遇你喜欢的偶像......你可以对她为所欲为。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妓女",
+      "美少女",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-970.jpg",
+    "actress": [
+      "望月",
+      "青山希愛",
+      "Oyoyo 中野",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-970"
+  },
+  {
+    "id": 211749,
+    "IDcode": "STAR-972",
+    "title": "STAR-972 羽田爱：适时的温泉之旅。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "3P",
+      "人妻",
+      "潮吹",
+      "4P",
+      "玩具",
+      "数字马赛克",
+      "单人作品",
+      "苗条",
+      "温泉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-972.jpg",
+    "actress": [
+      "南佳也",
+      "羽田あい",
+      "阿部智広",
+      "黑泽透",
+      "一条真斗",
+      "沢木和也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-972"
+  },
+  {
+    "id": 593117,
+    "IDcode": "STAR-973",
+    "title": "STAR-973 明日香凛连续厚重的 Nakadashi！ 总重量超过 500 公斤的巨人压种机",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "其他恋物",
+      "美少女",
+      "单人作品",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-973.jpg",
+    "actress": [
+      "飞鸟铃",
+      "小沢彻",
+      "巨人广田",
+      "今井勇太",
+      "杉山",
+      "氷崎健人",
+      "押井敬之"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-973"
+  },
+  {
+    "id": 526845,
+    "IDcode": "STAR-977",
+    "title": "STAR-977 加藤桃香（Momoka Kato）怀孕的妓女、受孕和中田希（Nakadashi）在子宫内的性感觉。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "内射",
+      "4P",
+      "脏话",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-977.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-977"
+  },
+  {
+    "id": 74702,
+    "IDcode": "STAR-980",
+    "title": "STAR-980 Honjo Suzu Dogumagi 性产业经验-专注-一心一意-首次尝试服务-4 次性行为。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "按摩",
+      "人妻",
+      "角色扮演",
+      "兔女郎",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-09-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-980.jpg",
+    "actress": [
+      "本庄鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-980"
+  },
+  {
+    "id": 69316,
+    "IDcode": "STAR-981",
+    "title": "STAR-981 古川伊织：疗效极佳的细腻慢速口交，慢慢地、小心翼翼地将你带入高潮，同时只凝视着你 Gokkun Special。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "射精",
+      "数位马赛克",
+      "主观视角",
+      "数字马赛克",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-981.jpg",
+    "actress": [
+      "古川伊織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-981"
+  },
+  {
+    "id": 71346,
+    "IDcode": "STAR-982",
+    "title": "STAR-982 95 bukkake ban amateur male super thick real cum Masami Ichikawa",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "数位马赛克",
+      "数字马赛克",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-982.jpg",
+    "actress": [
+      "市川雅美",
+      "贞松大辅",
+      "松山伸也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-982"
+  },
+  {
+    "id": 68731,
+    "IDcode": "STAR-983",
+    "title": "STAR-983 Matsuri Kiritani Nakadashi Rape Mother-in-law Rape 岳母强奸案",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻",
+      "内射",
+      "剧情",
+      "戏剧",
+      "已婚妇女",
+      "继母",
+      "婆婆",
+      "中出",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-983.jpg",
+    "actress": [
+      "桐谷茉莉",
+      "柏木纯吉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-983"
+  },
+  {
+    "id": 68597,
+    "IDcode": "STAR-984",
+    "title": "STAR-984 小仓优奈：自愿去泡温泉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服",
+      "拘束",
+      "数位马赛克",
+      "和服，丧服",
+      "滥交",
+      "丧服",
+      "单人作品",
+      "数字马赛克",
+      "温泉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-984.jpg",
+    "actress": [
+      "小倉由菜",
+      "南佳也",
+      "阿部智広",
+      "黑泽透",
+      "黒田悠斗",
+      "一条真斗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-984"
+  },
+  {
+    "id": 69083,
+    "IDcode": "STAR-985",
+    "title": "STAR-985 前名人羽田爱（Ai Haneda）在自己家中进行拍摄......如果被丈夫发现，她将没有好的借口......在家中拍摄 3 场刺激的性爱场景。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称摄影",
+      "3P",
+      "多P",
+      "人妻",
+      "内射",
+      "出轨",
+      "4P",
+      "主观视角",
+      "已婚妇女",
+      "中出",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-985.jpg",
+    "actress": [
+      "羽田あい",
+      "平田司",
+      "市川哲也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-985"
+  },
+  {
+    "id": 593119,
+    "IDcode": "STAR-987",
+    "title": "STAR-987 18 岁的 SOD 明星 Mahiro Yui 与她性感的侄女做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "数字马赛克",
+      "美少女",
+      "单人作品",
+      "侮辱"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-987.jpg",
+    "actress": [
+      "唯井真寻",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-987"
+  },
+  {
+    "id": 73314,
+    "IDcode": "STAR-988",
+    "title": "STAR-988 Mana Saakura-超级一流的 Nama Nakadashi Gangbang Club。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "妓女",
+      "数位马赛克",
+      "内射",
+      "轮奸",
+      "中出",
+      "单人作品",
+      "数字马赛克"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-988.jpg",
+    "actress": [
+      "纱仓真菜",
+      "狼田中",
+      "佐川银次",
+      "柏木纯吉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-988"
+  },
+  {
+    "id": 209132,
+    "IDcode": "STAR-989",
+    "title": "STAR-989 榎本美咲：被来住一两晚的妻子的朋友引诱，用沙哑的猥亵语言勾引妻子，并发生了不忠的绿帽子性关系。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "脏话",
+      "NTR",
+      "数字马赛克",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-989.jpg",
+    "actress": [
+      "榎本美咲",
+      "畑中哲也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-989"
+  },
+  {
+    "id": 595647,
+    "IDcode": "STAR-990",
+    "title": "STAR-990 全天候、任你畅饮的后场 OK 女孩 Yume Takeda",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "洛丽塔",
+      "女学生",
+      "数字马赛克",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-990.jpg",
+    "actress": [
+      "竹田夢",
+      "杉山"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-990"
+  },
+  {
+    "id": 1668,
+    "IDcode": "STAR-991",
+    "title": "STAR-991 据说很难预约的新桥名店！由加藤百香（Momoka Kato）主理的新桥名店，睾丸同时受到折磨和恢复活力的美容术，会让人射精过快。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "無碼流出",
+      "美容店",
+      "數位馬賽克",
+      "按摩・物理治療・美容",
+      "戀物癖",
+      "单人作品",
+      "无码泄露",
+      "其他恋物",
+      "无码",
+      "按摩・美容店",
+      "数字马赛克"
+    ],
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-991.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-991"
+  },
+  {
+    "id": 73362,
+    "IDcode": "STAR-993",
+    "title": "STAR-993 玛丽娜-白石（Marina Shiraishi） 我会帮你自慰，吸吮你的乳头，玩巴布巴布宝宝的游戏。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻",
+      "淫语",
+      "主观视角",
+      "脏话",
+      "已婚妇女",
+      "单人作品",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-993.jpg",
+    "actress": [
+      "白石茉莉奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-993"
+  },
+  {
+    "id": 106293,
+    "IDcode": "STAR-994",
+    "title": "STAR-994 200 分钟 本庄鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演",
+      "主观视角",
+      "boots",
+      "乱伦",
+      "颜射",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-994.jpg",
+    "actress": [
+      "本庄鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-994"
+  },
+  {
+    "id": 71556,
+    "IDcode": "STAR-995",
+    "title": "STAR-995 Iori Furukawa， Yuri to Mitsu ：一个一心一意、纯洁无暇的女同性恋第一次失去阴茎的日子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "女同性恋",
+      "多P",
+      "数位马赛克",
+      "剧情",
+      "戏剧",
+      "4P",
+      "女同",
+      "数字马赛克"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-995.jpg",
+    "actress": [
+      "推川悠里",
+      "古川伊織",
+      "イセドン内村",
+      "内村雅人",
+      "中田一平"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-995"
+  },
+  {
+    "id": 71605,
+    "IDcode": "STAR-996",
+    "title": "STAR-996 被催眠射线控制的气象员，Masami Ichikawa。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "白天出轨",
+      "剧情",
+      "戏剧",
+      "催眠",
+      "单人作品",
+      "NTR",
+      "乱伦",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-996.jpg",
+    "actress": [
+      "市川雅美",
+      "氷崎健人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-996"
+  },
+  {
+    "id": 19533,
+    "IDcode": "STAR-998",
+    "title": "STAR-998 小仓由奈回忆起她的表姐在三天内让她射了 12 次精的经历，她的 nuki-technique 正在迅速提高。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "无码破解",
-      "淫语",
-      "巨乳",
+      "侮辱",
+      "剧情",
+      "數位馬賽克",
+      "主观视角",
+      "亂倫",
+      "主觀視角",
+      "单人作品",
+      "数字马赛克",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-998.jpg",
+    "actress": [
+      "小倉由菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-998"
+  },
+  {
+    "id": 565402,
+    "IDcode": "STAR-999",
+    "title": "STAR-999 SODstar Mahiro Yui，18 岁，性美容 x 完整课程，10 个角落，240 分钟 SP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妓女",
+      "角色扮演",
+      "4小时以上",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STAR-999.jpg",
+    "actress": [
+      "唯井真寻",
+      "畑中哲也",
+      "野岛诚",
+      "鲛岛健介",
+      "Oyoyo 中野"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-999"
+  },
+  {
+    "id": 19496,
+    "IDcode": "STARS-001",
+    "title": "STARS-001 明日香凛毕业日温泉之旅，她在那里射精 12 次。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美乳",
+      "和服",
+      "溫泉",
+      "主观视角",
+      "和服・浴衣・喪服",
+      "主觀視角",
+      "丧服",
+      "单人作品",
+      "温泉",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-001.jpg",
+    "actress": [
+      "飞鸟铃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-001"
+  },
+  {
+    "id": 19497,
+    "IDcode": "STARS-003",
+    "title": "STARS-003 武田梦像刚出生的小鹿一样瘫倒在地，一整天都在进行超级活塞性交。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "虐待",
+      "調教",
+      "调教",
+      "女學生",
+      "深喉",
+      "女学生",
+      "凌辱",
+      "单人作品",
+      "强奸",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-003.jpg",
+    "actress": [
+      "竹田夢",
+      "南佳也",
+      "黑泽透",
+      "野岛诚",
+      "佐川银次",
+      "鲛岛健介",
+      "梅田吉雄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-003"
+  },
+  {
+    "id": 19498,
+    "IDcode": "STARS-004",
+    "title": "STARS-004 加藤桃香即将结婚的 SOD 女员工 被奴役、被征服、被完全征服 Le●p-目标耳机自行车女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "調教",
+      "剧情",
+      "调教",
+      "輪姦",
+      "OL",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-004.jpg",
+    "actress": [
+      "加藤桃香",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-004"
+  },
+  {
+    "id": 19491,
+    "IDcode": "STARS-005",
+    "title": "STARS-005 Makoto Toda 高速阴道绞杀 Grinding cowgirl 吸吮着一个娇小的酒吧女郎超敏感的乳头，她自己也将臀部滑入我的身体。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "妓女",
+      "内射",
+      "其他恋物",
+      "女上位",
+      "美胸",
+      "貧乳",
+      "戀物癖",
+      "風俗娘",
+      "中出",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-005.jpg",
+    "actress": [
+      "戸田真琴",
+      "西岛雄介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-005"
+  },
+  {
+    "id": 19494,
+    "IDcode": "STARS-006",
+    "title": "STARS-006 Suzu Honjo 美丽的机舱服务员在豪华酒店的房间里被训练成一个好女孩。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "姐姐・妹妹",
+      "空姐",
+      "制服",
+      "苗條",
+      "单人作品",
       "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250131-1/1304fe79baac2d71d7a1250a658a1dd5.jpg",
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-006.jpg",
     "actress": [
-      "神木麗"
+      "本庄鈴",
+      "吉村卓",
+      "鲛岛",
+      "贞松大辅",
+      "鲛岛健介"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-894"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-006"
   },
   {
-    "id": 89340,
-    "IDcode": "STARS-895",
-    "title": "配送中NTR 既婚ベテランドライバーの配送に付いて回るうち車中で襲われてしまった新婚人妻 MINAMO",
+    "id": 19492,
+    "IDcode": "STARS-007",
+    "title": "STARS-007 Rika Narimiya SODstar 首次亮相！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "巨乳",
-      "已婚妇女",
-      "淫妻",
-      "单体作品",
+      "3P",
+      "多P",
+      "出道作",
+      "内射",
+      "數位馬賽克",
+      "制服",
+      "4P",
       "中出",
-      "4K",
-      "戏剧",
-      "NTR",
-      "白天出轨"
+      "单人作品",
+      "数字马赛克"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-895"
+    "publish_date": "2018-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-007.jpg",
+    "actress": [
+      "成宮莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-007"
   },
   {
-    "id": 18722,
-    "IDcode": "STARS-896",
-    "title": "更多责弄男性的方式-神木丽",
+    "id": 19493,
+    "IDcode": "STARS-008",
+    "title": "STARS-008 古川伊织：忘记时间，与最棒的人彻夜做爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "風俗娘",
-      "巨乳",
-      "M男・M女",
-      "其他職業",
-      "護士",
-      "黑絲",
-      "情趣內衣",
-      "足交",
-      "劇情",
-      "護士制服"
+      "素人",
+      "姐姐",
+      "姐姐・妹妹",
+      "内射",
+      "素人作品",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230913/20230913040547496496.jpg",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-008.jpg",
     "actress": [
-      "神木麗"
+      "古川伊織",
+      "贞松大辅",
+      "鲛岛健介",
+      "沢木和也"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-896"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-008"
   },
   {
-    "id": 89347,
-    "IDcode": "STARS-897",
-    "title": "全員比基尼祭-天宮花南",
+    "id": 19488,
+    "IDcode": "STARS-009",
+    "title": "STARS-009 市川雅美（Masami Ichikawa），美丽的女教师，连续被操，服用利尿剂后大小便失禁。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
-      "泳装",
-      "按摩",
+      "姐姐",
+      "姐姐・妹妹",
+      "女教師",
+      "潮吹",
+      "苗條",
+      "放尿",
+      "单人作品",
+      "苗条",
       "女教师"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6831b32acb21006f00c89f57/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-897"
-  },
-  {
-    "id": 18983,
-    "IDcode": "STARS-898",
-    "title": "一個黑曼赫拉女人入侵她前男友的房子並秘密標記她的體液每天5小時的逆睡強姦MahiroTadai",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷姦",
-      "催眠",
-      "中文字幕",
-      "潮吹",
-      "女上位",
-      "美少女電影",
-      "蕩婦",
-      "劇情",
-      "奇異的"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250205-1/42989b0a61327060b9cd7ff04c322be7.jpg",
+    "publish_date": "2018-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-009.jpg",
     "actress": [
-      "唯井真寻"
+      "市川雅美",
+      "巨人广田"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-898"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-009"
   },
   {
-    "id": 89289,
-    "IDcode": "STARS-899",
-    "title": "美乳女高生-西元めいさ",
+    "id": 19489,
+    "IDcode": "STARS-010",
+    "title": "STARS-010 桐谷松里被职业性骚扰者掠夺和混乱强奸的禁忌泄露录像。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "第一人称摄影",
-      "制服",
-      "学校作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-899"
-  },
-  {
-    "id": 18941,
-    "IDcode": "STARS-900",
-    "title": "学生时代的性骚扰-纱仓真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "人妻",
-      "出軌",
+      "巨乳",
+      "痴汉",
+      "用户投稿",
+      "凌辱",
       "性騷擾",
-      "中出",
-      "劇情",
-      "多P",
-      "按摩棒"
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230822/20230822022135683683.jpg",
+    "publish_date": "2018-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-010.jpg",
     "actress": [
-      "纱仓真菜"
+      "桐谷茉莉"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-900"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-010"
   },
   {
-    "id": 18865,
-    "IDcode": "STARS-901",
-    "title": "決意的全裸 然後性愛解禁 現役寫真偶像十束流羽 AV出道 十束流羽",
+    "id": 19485,
+    "IDcode": "STARS-011",
+    "title": "STARS-011 以小仓由奈为主的 \"第一中桥 \"禁令解除",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "絕頂高潮",
+      "吞精",
+      "3P",
+      "射精",
+      "多P",
       "出道作",
-      "自拍性愛",
-      "4K",
-      "女優訪談",
-      "紀錄片",
+      "内射",
+      "數位馬賽克",
+      "4P",
+      "中出",
+      "单人作品",
+      "数字马赛克"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-011.jpg",
+    "actress": [
+      "小倉由菜",
+      "吉村卓",
+      "巨人广田",
+      "野岛诚",
+      "鲛岛健介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-011"
+  },
+  {
+    "id": 19490,
+    "IDcode": "STARS-013",
+    "title": "STARS-013 Karen Ishida AV 首秀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "洛丽塔",
+      "出道作",
+      "迷你",
+      "數位馬賽克",
+      "小隻馬",
+      "蘿莉",
+      "数字马赛克",
+      "美少女",
+      "单人作品",
       "出道作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011614805805.jpg",
+    "publish_date": "2018-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-013.jpg",
     "actress": [
-      "十束流羽"
+      "雾岛里绪菜",
+      "森林原人",
+      "内村雅人",
+      "巨人广田",
+      "贞松大辅",
+      "鲛岛健介"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-901"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-013"
   },
   {
-    "id": 89302,
-    "IDcode": "STARS-902",
-    "title": "中学のときに好きだった男が強×●せつ罪で指名手配されていました。私は彼を自宅で匿うことにしました。 ●●●魔と同棲 夏目響",
+    "id": 19487,
+    "IDcode": "STARS-014",
+    "title": "STARS-014 Mana Saakura 屁股厚实有肉，大鸡巴操起来很爽，高潮时肛门会紧缩。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "乳房"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/25da30f26cd722a9c6d031949ecc90bf.jpg",
-    "actress": [
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-902"
-  },
-  {
-    "id": 89307,
-    "IDcode": "STARS-903",
-    "title": "1日中即ハメピストン！足ガクガク腰が抜けても絶対に離さない追撃バックで限界突破！ 稲荷ある",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "立即口交",
-      "纪录片",
-      "企画",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://tuaskbgnekr.com/20240515/hhdw4PV6/1.jpg",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-903"
-  },
-  {
-    "id": 18940,
-    "IDcode": "STARS-904",
-    "title": "新海咲 「引退」最後的AV性愛，第一次也是最後一次的12P大亂交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "絕頂高潮",
-      "淫亂",
-      "中出",
-      "多P",
-      "乱交",
-      "企畫",
-      "退休作品",
-      "苗條",
-      "女優",
-      "亂交 • 群P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20230823/20230823032323408408.jpg",
-    "actress": [
-      "新海咲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-904"
-  },
-  {
-    "id": 18881,
-    "IDcode": "STARS-905",
-    "title": "兼职巨乳人妻在店里跟男大生狂干内射 宫岛芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳",
-      "出軌",
-      "中出",
-      "飯店",
-      "純粹的慾望"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c2ac241a147ed1a399da7/cover.jpg",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい",
-      "宫岛芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-905"
-  },
-  {
-    "id": 18882,
-    "IDcode": "STARS-906",
-    "title": "O罩杯超巨乳美女風俗店体験入店 甜佐渡店,花魁妓风俗,SM 俱樂部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗娘",
-      "巨乳",
-      "風俗夜場",
-      "中出",
-      "4K",
-      "企畫",
-      "黑絲",
-      "猥褻穿著",
-      "紀錄片",
-      "KTV夜總會"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-09-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20230830/20230830085544110110.jpg",
-    "actress": [
-      "戀渕桃菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-906"
-  },
-  {
-    "id": 18800,
-    "IDcode": "STARS-907",
-    "title": "在学校很有人气的老-纱仓真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "出軌",
-      "淫亂",
-      "慾求不滿",
-      "中出",
-      "學校",
-      "蕩婦",
-      "亂交 • 群P",
-      "劇情",
-      "女教師",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906014202914914.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-907"
-  },
-  {
-    "id": 18799,
-    "IDcode": "STARS-908",
-    "title": "休息日和有著超大天然巨乳的浜辺栞帆生中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "自拍性愛",
-      "中出",
-      "紀錄片",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906014304283283.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-908"
-  },
-  {
-    "id": 18644,
-    "IDcode": "STARS-909",
-    "title": "THE馬上吹！ 突擊！突然舔起肉棒喜愛口交的大姊！ 唾液滴落深喉嚨與龍捲風口交讓人滿滿射精 本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "口交",
-      "兩男一女",
-      "中出",
-      "苗條",
-      "紀錄片",
-      "蕩婦",
-      "口爆",
+      "美乳",
+      "姐姐",
+      "大鸡巴",
       "姐姐・妹妹",
-      "劇情",
-      "性感",
-      "癡女",
-      "淫語"
+      "巨臀",
+      "巨尻",
+      "戀物癖",
+      "其他恋物",
+      "单人作品",
+      "大雞巴",
+      "胸部"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230919/d601b10c-6344-4bcd-a621-6f26127a73d0.jpg",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-014.jpg",
     "actress": [
-      "本庄鈴"
+      "纱仓真菜",
+      "玉木玲",
+      "市川润",
+      "鲛岛健介"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-909"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-014"
   },
   {
-    "id": 18869,
-    "IDcode": "STARS-910",
-    "title": "藝能人5星級盡情款待引導極上射精的超高級風俗大樓5種絕佳射精場景 小湊四葉",
+    "id": 19484,
+    "IDcode": "STARS-015",
+    "title": "STARS-015 最性感、最可爱的武田梦成为你的小妹妹，过着充满爱的乱伦生活。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "風俗娘",
-      "4K",
+      "侮辱",
+      "姐姐・妹妹",
+      "主观视角",
+      "亂倫",
+      "主觀視角",
+      "妹妹",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-015.jpg",
+    "actress": [
+      "竹田夢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-015"
+  },
+  {
+    "id": 19486,
+    "IDcode": "STARS-017",
+    "title": "STARS-017 本庄铃子 淫妇的四大高手是托！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高挑",
+      "苗条",
+      "主观视角",
       "苗條",
-      "按摩女郎",
-      "按摩・物理治療・美容"
+      "蕩婦",
+      "荡妇",
+      "单人作品",
+      "自拍性愛"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831005421821821.jpg",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-017.jpg",
     "actress": [
-      "小湊四葉"
+      "本庄鈴",
+      "山田万次郎",
+      "タイガー小堺",
+      "小沢彻",
+      "贞松大辅"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-910"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-017"
   },
   {
-    "id": 18553,
-    "IDcode": "STARS-911",
-    "title": "【洗脳売春】SNSで話題の「100年に1人の陸上美女めいちゃん」 催●ダッチワイフにして売っています。 宮島芽衣",
+    "id": 19483,
+    "IDcode": "STARS-018",
+    "title": "STARS-018 Rika Narimiya 一天的温泉之旅，她在那里射精 12 次，而且都是脸朝下射精。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "迷姦",
-      "口交",
-      "催眠",
-      "運動女孩",
-      "中出",
-      "導尿",
-      "羞恥"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034118532532.jpg",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい",
-      "めいちゃん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-911"
-  },
-  {
-    "id": 89325,
-    "IDcode": "STARS-912",
-    "title": "童颜F罩杯-百仁花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "单体作品",
-      "中出",
-      "乳液",
-      "妓女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-912"
-  },
-  {
-    "id": 18723,
-    "IDcode": "STARS-913",
-    "title": "偷偷可以给我全套服务吗-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗娘",
-      "絕頂高潮",
-      "中出",
-      "黑絲",
-      "按摩女郎",
-      "按摩・物理治療・美容",
-      "足交"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c2a3241a147ed1a398edd/cover.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-913"
-  },
-  {
-    "id": 18077,
-    "IDcode": "STARS-914",
-    "title": "住在隔壁房間毫無防備的巨乳的巨乳白領太色情了…入室盜竊、立即強姦、強烈中出禁閉、小淵百奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "凌辱",
-      "巨乳",
-      "老頭子",
-      "強姦",
-      "中出",
-      "拘束・拷問",
-      "緊縛",
-      "變態",
-      "劇情",
-      "打屁股",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893d6189def9b1b8096227/cover.jpg",
-    "actress": [
-      "戀渕桃菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-914"
-  },
-  {
-    "id": 18796,
-    "IDcode": "STARS-915",
-    "title": "共处一室NTR-青空光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷姦",
-      "口交",
-      "淫妻",
-      "中出",
-      "黑絲",
-      "媚藥・迷藥",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230907/20230907010245357357.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-915"
-  },
-  {
-    "id": 18724,
-    "IDcode": "STARS-916",
-    "title": "洗腦NTR-夏目響",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "出軌",
-      "偷竊",
-      "中出",
-      "劇情",
-      "婚紗",
-      "新娘",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c2a8d41a147ed1a399da4/cover.jpg",
-    "actress": [
-      "夏目響",
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-916"
-  },
-  {
-    "id": 18626,
-    "IDcode": "STARS-917",
-    "title": "兩天一夜的12發射精 一直纏綿著的溫泉旅行 星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "顏射",
       "溫泉",
-      "旅行",
-      "口交",
-      "潮吹",
-      "中出",
-      "女友・妻子",
+      "主观视角",
+      "主觀視角",
+      "颜射",
+      "美少女",
+      "单人作品",
+      "温泉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2018-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-018.jpg",
+    "actress": [
+      "成宮莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-018"
+  },
+  {
+    "id": 19476,
+    "IDcode": "STARS-019",
+    "title": "STARS-019 STARS-019 #Iori Furukawa SNS 强奸 热门影响力人物的快乐时光被一个身份不明的顽固追随者毁于一旦。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "虐待",
+      "網路紅人",
+      "剧情",
+      "凌辱",
+      "单人作品",
+      "强奸",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-019.jpg",
+    "actress": [
+      "古川伊織",
+      "一马",
+      "フトシ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-019"
+  },
+  {
+    "id": 19480,
+    "IDcode": "STARS-021",
+    "title": "STARS-021 STARS-021 非常喜欢早泄的性工作者 Matsuri Kiritani 的毕业作品，4 个角球 15 次射门。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "妓女",
       "女上位",
-      "純粹的慾望",
-      "純愛・戀愛",
-      "劇情"
+      "風俗娘",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230920/202309202307395151.jpg",
+    "publish_date": "2019-01-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-021.jpg",
     "actress": [
-      "星乃莉子"
+      "桐谷茉莉",
+      "江里口匡史",
+      "北公次",
+      "レフト左"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-917"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-021"
   },
   {
-    "id": 518147,
-    "IDcode": "STARS-917-V",
-    "title": "【特典版】星野梨子疯狂温泉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea40c51572686be784de39/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-917-V"
-  },
-  {
-    "id": 18551,
-    "IDcode": "STARS-918",
-    "title": "女星小湊四葉的首次絕倫性交隨時隨地想操就幹！ 小湊四葉",
+    "id": 19478,
+    "IDcode": "STARS-022",
+    "title": "STARS-022 STARS-022 Yuna Ogura 在拥挤的列车上对上学途中的美丽女孩进行征服和猥亵。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "電車",
+      "剧情",
+      "女學生",
+      "痴汉",
+      "凌辱",
+      "性騷擾",
+      "单人作品",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-022.jpg",
+    "actress": [
+      "小倉由菜",
+      "蓝井优太",
+      "巨人广田",
+      "井口"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-022"
+  },
+  {
+    "id": 19475,
+    "IDcode": "STARS-023",
+    "title": "STARS-023 STARS-023 Mahiro Yui，18 岁，嘴唇和舌头缠绕在一起，特厚的舌头咀嚼着发情的性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "數位馬賽克",
+      "美少女",
+      "老頭子",
+      "数字马赛克",
       "口交",
-      "中出",
-      "苗條",
-      "芸能人",
-      "劇情"
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034811500500.jpg",
+    "publish_date": "2019-01-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-023.jpg",
     "actress": [
-      "小湊四葉"
+      "唯井真寻",
+      "野岛诚",
+      "鲛岛健介",
+      "杉浦树",
+      "鸣泽贤一"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-918"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-023"
   },
   {
-    "id": 89300,
-    "IDcode": "STARS-919",
-    "title": "路上で倒れたボクを介抱してくれた人妻薬剤師が部屋を訪ねてくるようになり気づいたら勃起薬を盛られ何度もイカされていた… 天宮花南",
+    "id": 19481,
+    "IDcode": "STARS-024",
+    "title": "STARS-024 STARS-024 Karen Ishida AV 初次登场第 2 次性、欲望、开放，发行 4 部作品",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "纪录片",
+      "紀錄片",
+      "數位馬賽克",
+      "女學生",
+      "数字马赛克",
+      "单人作品",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-024.jpg",
+    "actress": [
+      "雾岛里绪菜",
+      "清水健",
+      "吉村卓",
+      "鲛岛",
+      "南佳也",
+      "しみけん",
+      "鲛岛健介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-024"
+  },
+  {
+    "id": 19474,
+    "IDcode": "STARS-025",
+    "title": "STARS-025 STARS-025 庄重而脆弱的 Tina Nanami AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "數位馬賽克",
+      "芸能人",
+      "数字马赛克",
+      "艺人",
+      "单人作品",
+      "出道作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-025.jpg",
+    "actress": [
+      "七海蒂娜",
+      "武田大树",
+      "贞松大辅",
+      "黒田悠斗",
+      "鲛岛健介",
+      "松山伸也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-025"
+  },
+  {
+    "id": 19482,
+    "IDcode": "STARS-026",
+    "title": "STARS-026 STARS-026 Mana Sakura，逃犯。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "虐待",
+      "新娘",
       "人妻",
-      "乳交",
-      "中出",
-      "乳房",
+      "剧情",
+      "凌辱",
+      "少妇",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-026.jpg",
+    "actress": [
+      "纱仓真菜",
+      "快乐池田"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-026"
+  },
+  {
+    "id": 19477,
+    "IDcode": "STARS-027",
+    "title": "STARS-027 STARS-027 这是真的梦武田特别版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "紀錄片",
+      "性转换",
+      "女學生",
+      "女同",
+      "心理驚悚",
+      "女同性戀",
+      "女学生",
+      "单人作品",
+      "恐怖"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-027.jpg",
+    "actress": [
+      "竹田夢",
+      "南佳也",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-027"
+  },
+  {
+    "id": 19472,
+    "IDcode": "STARS-029",
+    "title": "STARS-029 STARS-029 本庄铃 高挑的裤装上班族，每个人都会回过头来看她，并禁止她在公司内部发生性关系。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "姐姐・妹妹",
+      "出軌",
+      "出轨",
+      "苗條",
+      "OL",
+      "单人作品",
       "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2023-09-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/23a596a787247d947f639d934bba207f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-919"
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-029.jpg",
+    "actress": [
+      "本庄鈴",
+      "蓝井优太",
+      "田渊正浩",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-029"
   },
   {
-    "id": 18643,
-    "IDcode": "STARS-920",
-    "title": "【合宿輪姦】 把體育部的美人學員徹底變成我們的性奴",
+    "id": 19470,
+    "IDcode": "STARS-030",
+    "title": "STARS-030 STARS-030 Rika Narimiya：想要孩子的中桥娼妓，无法控制对我的爱的家庭教师。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "調教",
-      "凌辱",
-      "蠻橫嬌羞",
-      "絕頂高潮",
-      "強姦",
-      "學校",
-      "運動女孩",
+      "内射",
+      "脏话",
+      "家教",
+      "淫語",
       "中出",
-      "拘束・拷問",
-      "性感",
-      "脅迫做愛",
-      "亂交 • 群P",
-      "劇情",
-      "女教師",
-      "羞恥",
-      "輪姦"
+      "美少女",
+      "家庭教師",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67894bc489def9b1b8096278/cover.jpg",
+    "publish_date": "2019-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-030.jpg",
     "actress": [
-      "唯井真寻"
+      "成宮莉香",
+      "Oyoyo 中野"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-920"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-030"
   },
   {
-    "id": 89288,
-    "IDcode": "STARS-921",
-    "title": "ウブで敏感な新人風俗嬢 Mで感じやすい彼女はお客様に責められまくり気持ち良さに抗えず本番してしまう 稲荷ある",
+    "id": 19471,
+    "IDcode": "STARS-033",
+    "title": "STARS-033 如果你在一个绝对不应该被发现的情况下被弄得到处都是精液，你会怎么做？ 市川雅美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "羞恥",
+      "姐姐",
+      "羞辱",
+      "姐姐・妹妹",
+      "潮吹",
+      "苗條",
+      "素人作品",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-033.jpg",
+    "actress": [
+      "市川雅美",
+      "巨人广田",
+      "黑泽透",
+      "狼田中"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-033"
+  },
+  {
+    "id": 19473,
+    "IDcode": "STARS-034",
+    "title": "STARS-034 小仓优奈 舔我吸我继续吸 她喜欢口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "素人",
+      "射精",
+      "恋物",
+      "主观视角",
+      "主觀視角",
+      "戀物癖",
+      "素人作品",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-034.jpg",
+    "actress": [
+      "小倉由菜",
+      "野岛诚",
+      "鲛岛健介",
+      "???"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-034"
+  },
+  {
+    "id": 19464,
+    "IDcode": "STARS-036",
+    "title": "STARS-036 跨坐在自己身上，摇晃着臀部，一直骑着石田卡伦，这个美丽的半拉丁女孩，性欲失控。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "美少女電影",
+      "女學生",
+      "女上位",
+      "素人作品",
+      "美少女",
+      "单人作品",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-036.jpg",
+    "actress": [
+      "雾岛里绪菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-036"
+  },
+  {
+    "id": 19460,
+    "IDcode": "STARS-037",
+    "title": "STARS-037 Tina Nanami AV 第 2 次亮相",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "按摩",
+      "偶像",
+      "運動",
+      "潮吹",
+      "按摩・物理治療・美容",
+      "素人作品",
+      "运动",
+      "单人作品",
+      "肌肉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-037.jpg",
+    "actress": [
+      "七海蒂娜",
+      "清水健",
+      "鲛岛健介",
+      "皮埃尔剑",
+      "阿川阳志"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-037"
+  },
+  {
+    "id": 523539,
+    "IDcode": "STARS-040",
+    "title": "STARS-040 7 周年纪念 27 部作品，25 种性别，8 小时特别 BEST，完整保存版 2 盘 Mana Sakura。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "合集",
+      "精选",
+      "4小时以上",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-040.jpg",
+    "actress": [
+      "纱仓真菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-040"
+  },
+  {
+    "id": 1624,
+    "IDcode": "STARS-042",
+    "title": "STARS-042 被监禁的美人独家摄影师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "虐待",
+      "無碼流出",
+      "剧情",
+      "单人作品",
+      "苗條",
+      "素人作品",
+      "凌辱",
+      "无码",
+      "无码泄露",
+      "苗条"
+    ],
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-042.jpg",
+    "actress": [
+      "市川雅美",
+      "田渊正浩",
+      "柏木纯吉",
+      "快乐池田"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-042"
+  },
+  {
+    "id": 1701,
+    "IDcode": "STARS-043",
+    "title": "STARS-043 小仓优奈禁欲 672 小时，急忙用活塞将溢出的阴部汁液挤压成酥皮状",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "重口味",
+      "素人",
+      "下流",
+      "無碼流出",
+      "内射",
+      "淫亂",
+      "素人作品",
+      "无码泄露",
+      "中出",
+      "单人作品",
+      "局部特寫",
+      "特写"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-043.jpg",
+    "actress": [
+      "小倉由菜",
+      "南佳也",
+      "黑泽透",
+      "黒田悠斗",
+      "狼田中",
+      "鲛岛健介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-043"
+  },
+  {
+    "id": 19465,
+    "IDcode": "STARS-045",
+    "title": "STARS-045 Karen Ishida，善意的温泉之旅。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "3P",
+      "美少女電影",
+      "多P",
+      "和服",
+      "溫泉",
+      "4P",
+      "和服・浴衣・喪服",
+      "浴衣",
+      "丧服",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-045.jpg",
+    "actress": [
+      "雾岛里绪菜",
+      "ゆうき",
+      "黑泽透",
+      "黒田悠斗",
+      "一条真斗",
+      "杉浦树",
+      "梅田吉雄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-045"
+  },
+  {
+    "id": 19462,
+    "IDcode": "STARS-046",
+    "title": "STARS-046 吱吱作响的紧绷感！富有弹性和伸缩性！训练有素的腹部肌肉带来的阴道吸吮感，让她勃起的阴茎根部充血！促进大量射精的冲刺、夹持和真空女牛仔体位 Tina Nanami",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "3P",
+      "无码破解",
+      "多P",
+      "女上位",
+      "4P",
+      "单人作品",
+      "足交",
+      "素人作品",
+      "無碼破解",
+      "肌肉"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-046.jpg",
+    "actress": [
+      "七海蒂娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-046"
+  },
+  {
+    "id": 19449,
+    "IDcode": "STARS-049",
+    "title": "STARS-049 姐姐，我决定在皮**萨洛工作了，让我练习一下**吧？ 户田诚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "美少女電影",
+      "姐姐",
+      "姐姐・妹妹",
+      "剧情",
+      "美少女",
+      "单人作品",
+      "蕩婦",
+      "荡妇",
+      "口交",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-049.jpg",
+    "actress": [
+      "戸田真琴",
+      "平田司",
+      "氷崎健人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-049"
+  },
+  {
+    "id": 19451,
+    "IDcode": "STARS-050",
+    "title": "STARS-050 权力骚扰 遭受性骚扰的田径女孩的巾帼英雄 Suzu Honjo。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高挑",
+      "調教",
+      "剧情",
+      "调教",
+      "運動",
+      "苗條",
+      "運動服裝",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-050.jpg",
+    "actress": [
+      "本庄鈴",
+      "大岛丈",
+      "梅田吉雄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-050"
+  },
+  {
+    "id": 534289,
+    "IDcode": "STARS-051",
+    "title": "STARS-051 丸本首次体验 Darake。8 个角落，4 种制作，4 个小时，Chiharu Minagawa。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "单体作品",
-      "纪录片",
-      "中出",
-      "第一人称摄影"
+      "素人",
+      "单人作品",
+      "颜射",
+      "4小时以上",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://tuaskbgnekr.com/20240516/cPveAyeZ/1.jpg",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://javd.me/static/movie/69504a24bf3c3.webp",
     "actress": [
-      "稻荷步"
+      "皆川千遙"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-921"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-051"
   },
   {
-    "id": 89308,
-    "IDcode": "STARS-922",
-    "title": "熟人可以上的風俗EX 未經允許就變成風俗妹的女孩 已經預約了強制服務♪ 真人版 紗倉真菜",
+    "id": 19456,
+    "IDcode": "STARS-052",
+    "title": "STARS-052 抚子版 初出茅庐的新人，21 岁的皆川千晴。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "4K",
-      "角色扮演"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-922"
-  },
-  {
-    "id": 18385,
-    "IDcode": "STARS-923",
-    "title": "超凡脱俗地欣赏美臀-神木丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "絕頂高潮",
-      "兩男一女",
-      "中出",
-      "女優",
-      "企畫",
-      "黑絲",
-      "猥褻穿著",
-      "女優訪談",
-      "手指插入",
-      "亂交 • 群P",
-      "性感",
-      "3P・4P",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010052353472472.jpg",
-    "actress": [
-      "神木麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-923"
-  },
-  {
-    "id": 18297,
-    "IDcode": "STARS-924",
-    "title": "對喜歡的美人咖啡店員惡劣客訴強迫道歉監禁在自宅！懷孕射精剝奪抵抗意識目標先有後婚的精神病跟蹤者… 本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "凌辱",
-      "強姦",
-      "中出",
-      "服務生",
-      "劇情",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231017/36da49d8-e288-4554-a2ba-5e339af281fb.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-924"
-  },
-  {
-    "id": 18550,
-    "IDcode": "STARS-925",
-    "title": "絕頂開發 純白BODY震盪激潮！ 初次巨根大絕頂SEX 十束流羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "絕頂高潮",
-      "兩男一女",
-      "女優",
-      "黑絲",
-      "猥褻穿著",
-      "芸能人",
-      "劇情",
-      "泳裝",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034637789789.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-925"
-  },
-  {
-    "id": 18386,
-    "IDcode": "STARS-926",
-    "title": "平時嚴肅的圖書館管理員 居然玩弄一個早洩的M男的雞巴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "口交",
-      "眼鏡",
-      "學校",
-      "中出",
-      "劇情",
-      "艷遇",
-      "制服",
-      "癡女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/2023101005272522.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-926"
-  },
-  {
-    "id": 18175,
-    "IDcode": "STARS-927",
-    "title": "大量潮吹きするほどピストンバイブでイカされて「もうイッてるからぁぁ」アクメ直後もガンガンッ膣奥を突きまくる超追撃ピストン 宮島芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "絕頂高潮",
-      "潮吹",
-      "4K",
-      "拘束・拷問",
-      "企畫",
-      "性感",
-      "女優",
-      "羞恥",
-      "癡女",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/7d07cba98268a82863ec594db13eccc9.jpg",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-927"
-  },
-  {
-    "id": 18388,
-    "IDcode": "STARS-928",
-    "title": "最讨厌同房NTR-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "絕頂高潮",
-      "淫妻",
-      "強姦",
-      "中出",
-      "媚藥・迷藥",
-      "OL",
-      "劇情",
-      "制服",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010053529836836.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-928"
-  },
-  {
-    "id": 18078,
-    "IDcode": "STARS-930",
-    "title": "即使在顔射的情況下也總是微笑著對待自己的護士 ~ 小湊四葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "中出",
-      "護士",
-      "顏射",
-      "劇情",
-      "護士制服",
-      "醫院・診所",
-      "COSPLAY服飾"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20231101/20231101000058713713.jpg",
-    "actress": [
-      "小湊四葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-930"
-  },
-  {
-    "id": 18549,
-    "IDcode": "STARS-931",
-    "title": "藝能界引退後馬上AV出道 渚戀生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "巨乳",
+      "素人",
+      "姐姐",
       "出道作",
-      "女優",
-      "芸能人",
-      "紀錄片",
+      "姐姐・妹妹",
+      "乳交",
+      "单人作品",
       "出道作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0013e9550e292a7766b4e/cover.jpg",
+    "publish_date": "2019-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-052.jpg",
     "actress": [
-      "渚恋生"
+      "皆川千遙",
+      "玉木玲",
+      "贞松大辅",
+      "佐川银次",
+      "平田司"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-052"
   },
   {
-    "id": 18343,
-    "IDcode": "STARS-932",
-    "title": "射精依赖改善治疗中心-青空光",
+    "id": 1558,
+    "IDcode": "STARS-053",
+    "title": "STARS-053 Hinata Koizumi SODstar 首次亮相！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "絕頂高潮",
-      "兩男一女",
-      "中出",
-      "4K",
-      "口爆",
-      "亂交 • 群P",
-      "手指插入",
+      "巨乳",
+      "3P",
       "多P",
-      "兩女一男",
-      "劇情",
-      "3P・4P",
-      "女醫生"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013041354388388.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-932"
-  },
-  {
-    "id": 18298,
-    "IDcode": "STARS-933",
-    "title": "瞒着公司的疯狂中出-唯井真寻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "女同事",
-      "慾求不滿",
-      "中出",
-      "自慰",
-      "辦公室",
-      "OL",
-      "劇情",
-      "制服",
-      "癡女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231017/d7681787-c470-4654-932b-b610aa7d7cf5.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-933"
-  },
-  {
-    "id": 18087,
-    "IDcode": "STARS-934",
-    "title": "叔叔把我舔遍全身，交換體液。 親吻、舔逼 ~ 稻荷ある",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "絕頂高潮",
-      "舔陰",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "女優",
-      "企畫",
-      "女優訪談",
-      "水療・泡泡浴",
-      "亂交 • 群P",
-      "性感",
-      "美少女",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031235112611611.jpg",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-934"
-  },
-  {
-    "id": 17824,
-    "IDcode": "STARS-935",
-    "title": "最喜欢SEX的淫乱女-MINAMO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "巨乳",
-      "口交",
-      "淫亂",
-      "中出",
-      "4K",
-      "性感",
-      "企畫",
-      "亂交 • 群P",
-      "手指插入",
-      "多P",
-      "酒吧",
-      "兩男兩女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024537776776.jpg",
-    "actress": [
-      "MINAMO"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-935"
-  },
-  {
-    "id": 18548,
-    "IDcode": "STARS-936",
-    "title": "【超級受虐草食男專月】超級虐心女主人以騎乘位姿勢自上而下俯視你！ 謾罵無能男人獲得快感的超糟糕癡女密室射精管理 天宮花南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "慾求不滿",
-      "中出",
-      "黑絲",
-      "足交",
-      "蕩婦",
-      "癡女",
-      "淫語"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926035048954954.jpg",
-    "actress": [
-      "天宮花南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-936"
-  },
-  {
-    "id": 18299,
-    "IDcode": "STARS-937",
-    "title": "痴痴望着我的情人-星乃莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "舔陰",
-      "自拍性愛",
-      "潮吹",
-      "出軌",
-      "中出",
-      "女上位",
-      "內衣",
-      "劇情",
-      "NTR",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231017/41a4ab99-ae42-450d-b860-6d295af4f9ba.jpg",
-    "actress": [
-      "星乃莉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-937"
-  },
-  {
-    "id": 17706,
-    "IDcode": "STARS-938",
-    "title": "连续射精引导-本庄铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "打手槍",
-      "風俗娘",
-      "中出",
-      "苗條",
-      "按摩女郎",
-      "按摩・物理治療・美容",
-      "性感",
-      "按摩・美容店"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231122/9d394ffe-c1c9-49aa-9e40-6ce6ed9cd45e.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-938"
-  },
-  {
-    "id": 18079,
-    "IDcode": "STARS-939",
-    "title": "好漂亮的寫真偶像十束るう小姐姐，我真想被她從上到下舔個夠。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "絕頂高潮",
-      "乱伦",
-      "中出",
-      "4K",
-      "寫真女郎",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20231101/1dd0245e-83ae-4390-b103-86b68c3359f9.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-939"
-  },
-  {
-    "id": 18387,
-    "IDcode": "STARS-940",
-    "title": "極上泡姫「夏目響」最高級服務 射精後仍然讓你繼續 至少要3發才會放過你的終極泡泡浴服務",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泡泡浴店",
-      "風俗娘",
-      "口交",
-      "中出",
-      "按摩女郎",
-      "按摩・物理治療・美容",
-      "水療・泡泡浴"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010053108788788.jpg",
-    "actress": [
-      "夏目響",
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-940"
-  },
-  {
-    "id": 16193,
-    "IDcode": "STARS-941",
-    "title": "4種職業場景，從毫無戒心的I罩杯開始 天生淫賤的職業OL，就算在工作中被人愛撫也不會停下來的春野ゆこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗娘",
-      "巨乳",
-      "護士制服",
-      "學校",
-      "護士",
-      "黑絲",
-      "情趣內衣",
-      "按摩女郎",
-      "美少女電影",
-      "按摩・物理治療・美容",
-      "蕩婦",
-      "劇情",
-      "女教師",
-      "醫院・診所",
-      "制服",
-      "按摩・美容店",
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220010353982982.jpg",
-    "actress": [
-      "春野ゆこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-941"
-  },
-  {
-    "id": 17948,
-    "IDcode": "STARS-942",
-    "title": "AV界的天才新星~身材高挑,笑容甜美的高个女孩綾瀬天首次亮相 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "中出",
-      "女優",
-      "企畫",
-      "女優訪談",
-      "紀錄片",
-      "劇情"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-12-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20231108/20231108061656705705.jpg",
-    "actress": [
-      "綾瀬天"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-942"
-  },
-  {
-    "id": 17947,
-    "IDcode": "STARS-943",
-    "title": "高潮發展 Jibun 有史以來最好的高潮，同時搖晃著她嬌小而敏感的身體！大雞巴高潮 濱邊詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "絕頂高潮",
-      "舔陰",
-      "兩男一女",
-      "中出",
-      "女優",
-      "企畫",
-      "黑絲",
-      "女優訪談",
-      "紀錄片",
-      "手指插入",
-      "亂交 • 群P",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-12-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231108/20231108062722760760.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-943"
-  },
-  {
-    "id": 17191,
-    "IDcode": "STARS-944",
-    "title": "因义弟的肉欲而狂乱-本庄铃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "口交",
-      "舔陰",
-      "出軌",
-      "中出",
-      "手指插入",
-      "劇情",
-      "性感",
-      "NTR",
-      "嫂嫂"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231219/a7e5fb1d-27ae-4cd7-b85a-84544d8e0f39.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-944"
-  },
-  {
-    "id": 18359,
-    "IDcode": "STARS-945",
-    "title": "Honka 齊藤 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "中出",
-      "女優",
-      "企畫",
-      "出道作品",
-      "羞恥"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20231012/c5856c50-bfab-4d2f-922e-e9a7fa9463f0.jpg",
-    "actress": [
-      "斉藤帆夏",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-945"
-  },
-  {
-    "id": 18174,
-    "IDcode": "STARS-946",
-    "title": "藝人突擊拜訪去你家！把渚戀生無限租借給你 渚戀生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "舔陰",
-      "中出",
-      "女優",
-      "粉絲福利",
-      "企畫",
-      "女上位",
-      "紀錄片",
-      "艷遇"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/50500d1d3ea0d56bff2126180392a90b.jpg",
-    "actress": [
-      "渚恋生"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-946"
-  },
-  {
-    "id": 16613,
-    "IDcode": "STARS-947",
-    "title": "经营民宿的美人妻子-神木丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "口交",
-      "巨乳",
-      "出軌",
-      "潮吹",
-      "乳交",
-      "女友・妻子",
-      "中出",
-      "性感",
-      "苗條",
-      "女上位",
-      "手指插入",
-      "老闆娘，女主人",
-      "後入",
-      "制服",
-      "NTR",
-      "美乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea46901572686be784e9bc/cover.jpg",
-    "actress": [
-      "神木麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-947"
-  },
-  {
-    "id": 17560,
-    "IDcode": "STARS-948",
-    "title": "對不良學生使用性愛指導的女老師-宮島芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "學校",
-      "中出",
-      "黑絲",
-      "色誘",
-      "劇情",
-      "女教師",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128023843576576.jpg",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-948"
-  },
-  {
-    "id": 17561,
-    "IDcode": "STARS-949",
-    "title": "外拍結束後的同房NTR-十束流羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "淫妻",
-      "美少女",
-      "中出",
-      "女優",
-      "飯店",
-      "脅迫做愛",
-      "美少女電影",
-      "身體換業務",
-      "純粹的慾望",
-      "劇情",
-      "性感",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787e8dac179ffb1db907e70/cover.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-949"
-  },
-  {
-    "id": 17709,
-    "IDcode": "STARS-950",
-    "title": "讀書的時候相貌平平的唯井真尋，如今竟然變成了性慾旺盛的美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女僕制服",
-      "口交",
-      "舔陰",
-      "中出",
-      "女友・妻子",
-      "學姐・學妹",
-      "飯店",
-      "純粹的慾望",
-      "劇情",
-      "性感",
-      "COSPLAY服飾"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231122/98901c9d-3cc4-454a-84df-5f9cb2746ce5.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-950"
-  },
-  {
-    "id": 17404,
-    "IDcode": "STARS-951",
-    "title": "在第五年迎来初出勤-青空光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "風俗娘",
-      "風俗夜場",
-      "形象俱樂部",
-      "中出",
-      "按摩女郎",
-      "按摩・物理治療・美容",
-      "抹油",
-      "性感",
-      "按摩・美容店"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231205/20231204235607982982.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-951"
-  },
-  {
-    "id": 94566,
-    "IDcode": "STARS-9515",
-    "title": "年目で初出勤！無制限発射OKで連続ナマ中出しさせてくれる完全会員制ソープ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-9515"
-  },
-  {
-    "id": 17290,
-    "IDcode": "STARS-952",
-    "title": "趁着父母不在家-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "調教",
-      "迷姦",
-      "口交",
-      "姐弟・兄妹",
-      "強姦",
-      "中出",
-      "性感",
-      "拘束・拷問",
-      "緊縛",
-      "姐姐・妹妹",
-      "接吻",
-      "劇情",
-      "JK校服",
-      "羞恥"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a47c0ac813dc779d9622d/cover.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-952"
-  },
-  {
-    "id": 17564,
-    "IDcode": "STARS-953",
-    "title": "異世界転生 與性感暴乳術士共同的大冒險",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "感官作品",
-      "口交",
-      "巨乳",
-      "奇聞趣事",
-      "兩男一女",
-      "乳交",
-      "中出",
-      "奇異的",
-      "角色扮演",
-      "胸控・戀乳癖",
-      "二次元",
-      "劇情",
-      "COSPLAY服飾",
-      "女祭司",
-      "3P・4P",
-      "美乳",
-      "野外露天"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-12-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128021359983983.jpg",
-    "actress": [
-      "戀渕桃菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-953"
-  },
-  {
-    "id": 17559,
-    "IDcode": "STARS-954",
-    "title": "真實同居生活-小湊四葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "女友・妻子",
-      "口交",
-      "劇情"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128024213939939.jpg",
-    "actress": [
-      "小湊四葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-954"
-  },
-  {
-    "id": 17291,
-    "IDcode": "STARS-955",
-    "title": "MINAMO ~ 學年最可愛的女學生 在學校裡公然誘惑老師中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "口交",
-      "舔陰",
-      "學校",
-      "中出",
-      "女學生",
-      "劇情",
-      "JK校服",
-      "性感",
-      "形象俱樂部",
-      "美少女",
-      "癡女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231212/20231212013149274274.jpg",
-    "actress": [
-      "MINAMO"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-955"
-  },
-  {
-    "id": 17293,
-    "IDcode": "STARS-956",
-    "title": "天才性感少女綾瀨天做了想做的事。第一次解放性慾中出！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "兩男一女",
-      "中出",
-      "女優",
-      "企畫",
-      "女優訪談",
-      "美少女電影",
-      "紀錄片",
-      "亂交 • 群P",
-      "性感",
-      "形象俱樂部",
-      "美少女",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231212/20231212013526753753.jpg",
-    "actress": [
-      "綾瀬天"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-956"
-  },
-  {
-    "id": 17821,
-    "IDcode": "STARS-957",
-    "title": "极上口交-夏目响",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "巨乳",
-      "口交",
-      "舔陰",
-      "中出",
-      "女優",
-      "企畫",
-      "顏射",
-      "口爆",
-      "亂交 • 群P",
-      "手指插入",
-      "多P",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024918124124.jpg",
-    "actress": [
-      "夏目響",
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-957"
-  },
-  {
-    "id": 17287,
-    "IDcode": "STARS-958",
-    "title": "「我愛呆呆的你和你的大鸡巴」和喜欢的M男在酒店做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "中出",
-      "女優",
-      "企畫",
-      "女優訪談",
-      "紀錄片",
-      "真人秀"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a72018f1cbfc7a9c7dc9d/cover.jpg",
-    "actress": [
-      "浜辺栞帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-958"
-  },
-  {
-    "id": 17946,
-    "IDcode": "STARS-959",
-    "title": "蛋糕店店主-纱仓真菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "舔陰",
-      "中出",
-      "服務生",
-      "商店",
-      "顏射",
-      "劇情",
-      "老闆娘，女主人"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231108/20231108062919909909.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-959"
-  },
-  {
-    "id": 17063,
-    "IDcode": "STARS-960",
-    "title": "初次醫師騷擾健康檢查 戀渕桃菜（24歲），雖然因變態醫師的猥褻檢查而痛苦，但還是忍著顫抖的聲音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "凌辱",
-      "舔陰",
-      "性騷擾",
-      "中出",
-      "變態",
-      "OL",
-      "手指插入",
-      "多P",
-      "劇情",
-      "奇異的",
-      "性感",
-      "醫院・診所"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20231226/202312260522473030.jpg",
-    "actress": [
-      "戀渕桃菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-960"
-  },
-  {
-    "id": 17825,
-    "IDcode": "STARS-961",
-    "title": "巨根大绝顶-斋藤帆夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "絕頂高潮",
-      "中出",
-      "4K",
-      "女優",
-      "企畫",
-      "黑絲",
-      "苗條",
-      "女優訪談",
-      "紀錄片",
-      "抹油",
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024450959959.jpg",
-    "actress": [
-      "斉藤帆夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-961"
-  },
-  {
-    "id": 17707,
-    "IDcode": "STARS-962",
-    "title": "悪徳理療師對治療的漂亮OL下媚藥使她陷入被操的快感中不能自拔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "抹油",
-      "舔陰",
-      "兩男一女",
-      "慾求不滿",
-      "中出",
-      "性感",
-      "苗條",
-      "媚藥・迷藥",
-      "OL",
-      "手指插入",
-      "亂交 • 群P",
-      "劇情",
-      "羞恥",
-      "按摩・美容店",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-11-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231122/98ffa2ce-18e7-4ead-9568-e9fcf494f79e.jpg",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-962"
-  },
-  {
-    "id": 405431,
-    "IDcode": "STARS-963",
-    "title": "リコピンにずっと見つめられながら射精連発！超キュートな5コス＆ニコニコ笑顔で最高のオナニーを",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241028-1/bd73e28c21a431d829194af29bc9dbe4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-963"
-  },
-  {
-    "id": 17710,
-    "IDcode": "STARS-964",
-    "title": "活的男人是强奸魔-神木丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷姦",
-      "口交",
-      "凌辱",
-      "巨乳",
-      "舔陰",
-      "強姦",
-      "潮吹",
-      "中出",
-      "性感",
-      "打屁股",
-      "手指插入",
-      "亂交 • 群P",
-      "劇情",
-      "羞恥",
-      "輪姦",
-      "醫院・診所",
-      "脚控・戀足癖",
-      "女醫生"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6823530666c0176549f7d69d/cover.jpg",
-    "actress": [
-      "神木麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-964"
-  },
-  {
-    "id": 17190,
-    "IDcode": "STARS-965",
-    "title": "年輕的人妻唯井真尋在町內忘年會上被灌醉暴露了淫蕩和耐操的本質",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "口交",
-      "舔陰",
-      "出軌",
-      "中出",
-      "酒醉",
-      "飯店",
-      "蕩婦",
-      "手指插入",
-      "艷遇",
-      "劇情",
-      "性感",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231219/2c73ed30-780a-4287-85ac-fac9ff04b818.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-965"
-  },
-  {
-    "id": 17054,
-    "IDcode": "STARS-966",
-    "title": "夜晚潜入被窝里的眠奸-稻荷步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷姦",
-      "口交",
-      "強姦",
-      "中出",
-      "劇情",
-      "性感",
-      "嫂嫂"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226055305809809.jpg",
-    "actress": [
-      "稻荷步"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-966"
-  },
-  {
-    "id": 17057,
-    "IDcode": "STARS-967",
-    "title": "美乳新人教師-十束るう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "學校",
-      "中出",
-      "性感",
-      "脅迫做愛",
-      "女教師",
-      "亂交 • 群P",
-      "劇情",
-      "多P",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787dad3f9a2e9b1d4a5302d/cover.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-967"
-  },
-  {
-    "id": 16727,
-    "IDcode": "STARS-968",
-    "title": "夫妻交换俱乐部-青空光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "夫妻交換",
-      "出軌",
-      "人妻",
-      "淫妻",
-      "中出",
-      "按摩棒",
-      "勾引・誘惑",
-      "苗條",
-      "手指插入",
-      "騎乗位",
-      "美乳",
-      "口交",
-      "巨乳",
-      "潮吹",
-      "乳交",
-      "情趣內衣",
-      "女上位",
-      "後入",
-      "NTR",
-      "兩男兩女"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240116/20240116064555297297.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-968"
-  },
-  {
-    "id": 16726,
-    "IDcode": "STARS-969",
-    "title": "用美容院的玩具控制了太陽しずく隨心所欲地操她淫蕩的身體",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "巨乳",
-      "緊身衣",
-      "中出",
-      "按摩棒",
-      "美腳",
-      "苗條",
-      "女上位",
-      "手指插入",
-      "騎乗位",
-      "後入",
-      "美乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4f50ac813dc779d96273/cover.jpg",
-    "actress": [
-      "MINAMO"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-969"
-  },
-  {
-    "id": 17403,
-    "IDcode": "STARS-970",
-    "title": "長途巴士鄰座美乳人妻-紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "人妻",
-      "口交",
-      "中出",
-      "劇情",
-      "艷遇",
-      "巴士"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231205/bde90c7a-7c32-4e57-8850-e32aec5703d6.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-970"
-  },
-  {
-    "id": 17288,
-    "IDcode": "STARS-971",
-    "title": "在电车内被痴汉集团责弄开发-夏目响",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "眼鏡",
-      "性騷擾",
-      "中出",
-      "電車",
-      "女學生",
-      "痴漢",
-      "手指插入",
-      "文藝女",
-      "劇情",
-      "JK校服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d5adf9a2e9b1d4a53007/cover.jpg",
-    "actress": [
-      "夏目響",
-      "夏目响"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-971"
-  },
-  {
-    "id": 17189,
-    "IDcode": "STARS-972",
-    "title": "【絕對淫蕩洗衣店】和一個每晚都會在洗衣店裡自慰的漂亮OL做愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "舔陰",
-      "兩男一女",
-      "中出",
-      "性感",
-      "商店",
-      "脅迫做愛",
-      "OL",
-      "劇情",
-      "亂交 • 群P",
-      "制服",
-      "美少女",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a70e48f1cbfc7a9c7dc95/cover.jpg",
-    "actress": [
-      "宮島芽衣",
-      "宫岛めい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-972"
-  },
-  {
-    "id": 16617,
-    "IDcode": "STARS-973",
-    "title": "长身美脚美女的5PLAY-绫濑天",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "巨乳",
-      "美乳",
-      "美腳",
-      "網襪",
-      "黑絲",
-      "苗條",
-      "高妹",
-      "性感",
-      "美少女",
-      "短髮",
-      "脚控・戀足癖",
-      "美腿"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123110752308308.jpg",
-    "actress": [
-      "綾瀬天"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-973"
-  },
-  {
-    "id": 16615,
-    "IDcode": "STARS-974",
-    "title": "本莊鈴無法停止的活塞並被射精在體內",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "苗條",
-      "內衣",
-      "自宅",
-      "家庭教師",
-      "性感",
-      "美乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123110911852852.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-974"
-  },
-  {
-    "id": 17708,
-    "IDcode": "STARS-975",
-    "title": "史上最高激潮-渚恋生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "舔陰",
-      "兩男一女",
-      "大雞巴",
-      "中出",
-      "女優",
-      "企畫",
-      "黑絲",
-      "女優訪談",
-      "紀錄片",
-      "亂交 • 群P",
-      "多P",
-      "性感",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231122/7ca50ff6-1727-43e5-b059-76c24d69dbf7.jpg",
-    "actress": [
-      "渚恋生"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-975"
-  },
-  {
-    "id": 17533,
-    "IDcode": "STARS-976",
-    "title": "在兔子主題的高級風俗店遇到了當年很普通的女同學 黏著盜撮 強烈中出性愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "風俗娘",
-      "女同",
-      "風俗夜場",
-      "中出",
-      "學姐・學妹",
-      "兔女郎妝扮",
-      "亂交 • 群P",
-      "劇情",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-12-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129055219582582.jpg",
-    "actress": [
-      "天宮花南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-976"
-  },
-  {
-    "id": 17562,
-    "IDcode": "STARS-977",
-    "title": "湯原溫泉連環案 一直被強暴中出的警探",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "惡搞",
-      "溫泉",
-      "口交",
-      "兩男一女",
-      "中出",
-      "綜藝",
-      "女優",
-      "女警",
-      "女優訪談",
-      "紀錄片",
-      "真人秀",
-      "亂交 • 群P",
-      "多P",
-      "奇異的",
-      "性感",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-12-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128022111442442.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-977"
-  },
-  {
-    "id": 17055,
-    "IDcode": "STARS-978",
-    "title": "表姐離家出走來到我家 竟然勾引我發生了羞羞的事",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "口交",
-      "眼鏡",
-      "舔陰",
-      "表姐・表妹",
-      "乱伦",
-      "中出",
-      "純粹的慾望",
-      "劇情",
-      "形象俱樂部"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226063226703703.jpg",
-    "actress": [
-      "天宮花南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-978"
-  },
-  {
-    "id": 17188,
-    "IDcode": "STARS-979",
-    "title": "美女侍酒师-神木丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "口交",
-      "舔陰",
-      "慾求不滿",
-      "中出",
-      "老闆娘，女主人",
-      "黑絲",
-      "飯店",
-      "蕩婦",
-      "手指插入",
-      "艷遇",
-      "劇情",
-      "性感",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231219/27a58418-be0c-468d-a844-34f31c6616db.jpg",
-    "actress": [
-      "神木麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-979"
-  },
-  {
-    "id": 16325,
-    "IDcode": "STARS-980",
-    "title": "和超商打工巨乳人妻做愛中出-MINAMO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "便利商店",
-      "出軌",
-      "亂交 • 群P",
-      "人妻",
-      "中出",
-      "勾引・誘惑",
-      "女同事",
-      "偷竊",
-      "苗條",
-      "手指插入",
-      "美乳",
-      "口交",
-      "巨乳",
-      "潮吹",
-      "乳交",
-      "女上位",
-      "熟女",
-      "後入",
-      "性感",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213045402989989.jpg",
-    "actress": [
-      "MINAMO"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-980"
-  },
-  {
-    "id": 17060,
-    "IDcode": "STARS-981",
-    "title": "认真地接吻-小凑四叶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "明星臉",
-      "口交",
-      "絕頂高潮",
-      "舔陰",
-      "慾求不滿",
-      "潮吹",
-      "中出",
-      "飯店",
-      "手指插入",
-      "劇情",
-      "性感",
-      "形象俱樂部",
-      "脚控・戀足癖"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226051731509509.jpg",
-    "actress": [
-      "小湊四葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-981"
-  },
-  {
-    "id": 17414,
-    "IDcode": "STARS-982",
-    "title": "不光抖M还是不善拒绝的性格-斋藤帆夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "風俗娘",
-      "風俗夜場",
-      "中出",
-      "猥褻穿著",
-      "按摩・物理治療・美容",
-      "劇情",
-      "性感",
-      "按摩・美容店"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231205/85d4ba8d-4d5a-4899-83ee-b8dd1a9caa84.jpg",
-    "actress": [
-      "斉藤帆夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-982"
-  },
-  {
-    "id": 17185,
-    "IDcode": "STARS-983",
-    "title": "中途入社的OL星乃莉子是個有著被性虐癖好的女同事。 在她的誘惑下大家都變成了喜歡虐待M女的性虐待狂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "口交",
-      "女同",
-      "女同事",
-      "M男・M女",
-      "中出",
-      "拘束・拷問",
-      "緊縛",
-      "辦公室",
-      "OL",
-      "劇情",
-      "身體意識",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5f898f1cbfc7a9c7dbd9/cover.jpg",
-    "actress": [
-      "星乃莉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-983"
-  },
-  {
-    "id": 16437,
-    "IDcode": "STARS-984",
-    "title": "新人出道！芸能人 矢埜愛茉 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
       "出道作",
-      "乳交",
+      "無碼流出",
+      "内射",
+      "4P",
+      "无码泄露",
       "中出",
-      "女優",
-      "企畫",
-      "美少女電影",
-      "性感",
-      "美少女",
-      "美乳"
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2024-02-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240206/20240206034222130130.jpg",
+    "publish_date": "2019-02-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-053.jpg",
     "actress": [
-      "矢埜愛茉"
+      "小泉日向",
+      "森林原人",
+      "黑泽透",
+      "黒田悠斗",
+      "今井勇太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-984"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-053"
   },
   {
-    "id": 16526,
-    "IDcode": "STARS-985",
-    "title": "請勾引我的妻子。丈夫請熟人勾引他，以暴露妻子的真實本性。記錄了我不知道的妻子的受虐傾向 - 宮島芽衣",
+    "id": 19458,
+    "IDcode": "STARS-054",
+    "title": "STARS-054 Hinata Koizumi：与肮脏的大胸妹妹秘密乱伦，妹妹害羞地摸她的鸡巴。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "凌辱",
       "巨乳",
-      "口交",
-      "M男・M女",
-      "中出",
-      "女友・妻子",
-      "性感",
-      "緊縛",
-      "苗條",
-      "女上位",
-      "手指插入",
-      "後入",
-      "在丈夫面前被操",
-      "羞恥",
-      "NTR",
-      "美乳"
+      "素人",
+      "侮辱",
+      "傲娇",
+      "蠻橫嬌羞",
+      "亂倫",
+      "单人作品",
+      "乱伦"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2024-02-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240131/ef0c352b-65ca-4524-a4f8-5c5aaaf69c99.jpg",
+    "publish_date": "2019-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-054.jpg",
     "actress": [
-      "宮島芽衣",
-      "宫岛めい"
+      "小泉日向",
+      "???"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-985"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-054"
   },
   {
-    "id": 16333,
-    "IDcode": "STARS-986",
-    "title": "性欲旺盛的色鬼-绫濑天",
+    "id": 19453,
+    "IDcode": "STARS-055",
+    "title": "STARS-055 舒缓的摇篮曲播放，轻声细语催人入睡 Masami Ichikawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "口交",
-      "舔陰",
-      "女同事",
-      "潮吹",
-      "中出",
-      "性感",
+      "素人",
+      "姐姐",
+      "姐姐・妹妹",
+      "脏话",
       "苗條",
-      "女上位",
-      "胸控・戀乳癖",
-      "高妹",
-      "辦公室",
-      "OL",
-      "手指插入",
-      "後入",
-      "制服",
-      "美少女",
-      "美乳"
+      "蕩婦",
+      "淫語",
+      "荡妇",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213012551910910.jpg",
+    "publish_date": "2019-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-055.jpg",
     "actress": [
-      "綾瀬天"
+      "市川雅美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-986"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-055"
   },
   {
-    "id": 16056,
-    "IDcode": "STARS-987",
-    "title": "極上性愛-小湊四葉",
+    "id": 19455,
+    "IDcode": "STARS-056",
+    "title": "STARS-056 Yuna Ogura：在我们和好后的三天里，我的年轻女友又回到了我身边，她每天都求我做一个支配者。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美腳",
-      "美臀",
-      "亂交 • 群P",
-      "癡女",
-      "舔陰",
+      "素人",
+      "重口味",
+      "下流",
+      "偷窺",
+      "調教",
+      "调教",
       "淫亂",
-      "中出",
+      "素人作品",
+      "偷窥者",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-056.jpg",
+    "actress": [
+      "小倉由菜",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-056"
+  },
+  {
+    "id": 19448,
+    "IDcode": "STARS-057",
+    "title": "STARS-057 Mahiro Yui 777 个小时的禁欲和冲洗活塞溢出的阴部汁液，直到它变成混合物。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
       "美少女電影",
-      "美少女",
-      "明星臉",
-      "絕頂高潮",
-      "色白",
-      "企畫",
-      "苗條",
-      "女優",
-      "手指插入",
-      "騎乗位",
-      "美乳",
-      "美腿",
-      "口交",
-      "女上位",
-      "後入",
-      "性感",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240227/20240227020740331331.jpg",
-    "actress": [
-      "小湊四葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-987"
-  },
-  {
-    "id": 16529,
-    "IDcode": "STARS-988",
-    "title": "十束流羽是一位私人健身教練，用性感的桃臀誘惑男性會員，並用她的嘴和桃臀爲雞巴釋放性欲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "巨尻",
-      "口交",
-      "流汗",
-      "舔陰",
-      "無毛",
-      "健身教練",
-      "中出",
-      "黑絲",
-      "健身房",
-      "女上位",
-      "運動服裝",
-      "美臀",
-      "騎乗位",
-      "臀控",
-      "性感",
-      "美少女",
-      "美乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-02-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240131/5d15df9e-f90a-45a2-ba09-9bbf0f9ca3a0.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-988"
-  },
-  {
-    "id": 17186,
-    "IDcode": "STARS-989",
-    "title": "從接吻開始的四職業cosplay，天生淫蕩的職業OL女性，上班一打開開關就停不下來。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精選綜合",
-      "風俗娘",
-      "口交",
-      "風俗夜場",
-      "形象俱樂部",
-      "其他職業",
-      "中出",
-      "性感",
-      "學校",
-      "按摩女郎",
-      "辦公室",
-      "OL",
-      "劇情",
-      "女教師",
-      "制服",
-      "按摩・美容店"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-01-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20231219/59104aa2-6b1d-4d32-8601-733ee118490b.jpg",
-    "actress": [
-      "渚恋生"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-989"
-  },
-  {
-    "id": 16725,
-    "IDcode": "STARS-990",
-    "title": "结婚前最后的放纵-小仓由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "吞精",
-      "口交",
-      "巨乳",
-      "舔陰",
-      "出軌",
+      "重口味",
+      "下流",
       "潮吹",
-      "乳交",
-      "中出",
-      "美腳",
-      "苗條",
-      "後入",
-      "深喉",
-      "美乳"
+      "淫亂",
+      "美少女",
+      "单人作品",
+      "局部特寫",
+      "特写"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240116/20240116064752875875.jpg",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-057.jpg",
     "actress": [
-      "小倉由菜"
+      "唯井真寻",
+      "南佳也",
+      "玉木玲",
+      "武田大树",
+      "贞松大辅",
+      "江里口匡史"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-990"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-057"
   },
   {
-    "id": 16616,
-    "IDcode": "STARS-991",
-    "title": "成为顧客專屬的聽話寵物，而且性愛很多！唯井真尋",
+    "id": 19457,
+    "IDcode": "STARS-058",
+    "title": "STARS-058 Rika Narimiya：'兄弟俩假装是处女，其实是奸夫淫妇，他们给妹妹的朋友来了一连串的硬活塞射精，并在痉挛中射精，使妹妹达到了巨大的高潮。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "巨尻",
-      "口交",
-      "巨乳",
-      "舔陰",
-      "潮吹",
-      "乳交",
+      "素人",
+      "美少女電影",
+      "大鸡巴",
+      "處男",
+      "处男",
+      "内射",
+      "素人作品",
       "中出",
-      "性感",
-      "女上位",
-      "亂交 • 群P",
-      "手指插入",
+      "美少女",
+      "单人作品",
+      "大雞巴"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-058.jpg",
+    "actress": [
+      "成宮莉香",
+      "肌肉泽野",
+      "キルヒ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-058"
+  },
+  {
+    "id": 19454,
+    "IDcode": "STARS-059",
+    "title": "STARS-059 她越是忍耐，积累的快感就越多，而她越是忍耐，阴道的堤坝就越是崩溃！ 忍耐 x 释放 x 唤醒-理智崩溃的高潮 Tina Nanami",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "3P",
       "多P",
-      "後入",
-      "制服",
-      "美少女",
-      "3P・4P",
-      "美乳"
+      "偶像",
+      "4P",
+      "素人作品",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123110827307307.jpg",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-059.jpg",
+    "actress": [
+      "七海蒂娜",
+      "大泽真司",
+      "小田切淳",
+      "松山伸也",
+      "ウサミ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-059"
+  },
+  {
+    "id": 19459,
+    "IDcode": "STARS-060",
+    "title": "STARS-060 古川伊织 如果你在职业学校时的后辈向你示爱，你会怎么做？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "姐姐",
+      "偷窺",
+      "紀錄片",
+      "姐姐・妹妹",
+      "偷窥者",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-05-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-060.jpg",
+    "actress": [
+      "古川伊織",
+      "芦田阳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-060"
+  },
+  {
+    "id": 70402,
+    "IDcode": "STARS-061",
+    "title": "STARS-061 第一次大规模强烈活塞捕虾高潮抽搐性高潮 Chiharu Minagawa",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人",
+      "重口味",
+      "姐姐",
+      "下流",
+      "潮吹",
+      "素人作品",
+      "淫乱，真实",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-061.jpg",
+    "actress": [
+      "皆川千遙",
+      "森林原人",
+      "鲛岛",
+      "玉木玲",
+      "黒田悠斗",
+      "鲛岛健介"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-061"
+  },
+  {
+    "id": 206123,
+    "IDcode": "STARS-062",
+    "title": "STARS-062 与前来买房的夫妇的丈夫上床，并强迫其对丈夫施展中刀术的房地产女士 Mana Sakura",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "车震",
+      "内射",
+      "主观视角",
+      "NTR",
+      "OL",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-062.jpg",
+    "actress": [
+      "纱仓真菜",
+      "内村雅人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-062"
+  },
+  {
+    "id": 565401,
+    "IDcode": "STARS-063",
+    "title": "STARS-063 记录了我和一个训练有素的性奴宠物女孩的生活，直到我把她变成了一个有感情的女孩 Yume Takeda。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "姐姐",
+      "接吻",
+      "内射",
+      "主观视角",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-063.jpg",
+    "actress": [
+      "竹田夢",
+      "辻隼人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-063"
+  },
+  {
+    "id": 565400,
+    "IDcode": "STARS-064",
+    "title": "STARS-064 中田誠用舌頭誘惑身邊的女友，迫使中田誠就範",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "素人",
+      "内射",
+      "主观视角",
+      "巨臀",
+      "颜射",
+      "4小时以上",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-064.jpg",
+    "actress": [
+      "戸田真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-064"
+  },
+  {
+    "id": 557384,
+    "IDcode": "STARS-065",
+    "title": "STARS-065 面向纳玛的第一中桥禁 本庄铃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "企划",
+      "内射",
+      "搭讪",
+      "女学生",
+      "单人作品",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-065.jpg",
+    "actress": [
+      "本庄鈴",
+      "森林原人",
+      "武田大树",
+      "小田切淳",
+      "松山伸也",
+      "???",
+      "まりお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-065"
+  },
+  {
+    "id": 523537,
+    "IDcode": "STARS-066",
+    "title": "STARS-066 适时的温泉之旅 Rika Narimiya",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "和服",
+      "拘束",
+      "滥交",
+      "浴衣",
+      "丧服",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-066.jpg",
+    "actress": [
+      "成宮莉香",
+      "黑泽透",
+      "一条真斗",
+      "耶伊高岛",
+      "皮埃尔剑",
+      "梅田吉雄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-066"
+  },
+  {
+    "id": 166092,
+    "IDcode": "STARS-067",
+    "title": "STARS-067 小泉雏田 x 野野原奈津奈 SODstar x 清纯自来水 W-cast Nicoichi 大波妹，一直被青梅竹马的奸夫哥哥干，无法停止强烈的骚动",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "中文字幕",
+      "剧情",
+      "调教"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-067.jpg",
+    "actress": [
+      "小泉日向",
+      "野野原薺",
+      "武田大树",
+      "松山伸也",
+      "平田司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-067"
+  },
+  {
+    "id": 206253,
+    "IDcode": "STARS-068",
+    "title": "STARS-068 我与青梅竹马的朋友练习各种生儿育女的 Nakadashi 性爱。 小仓由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "剧情",
+      "内射",
+      "NTR",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-05-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-068.jpg",
+    "actress": [
+      "小倉由菜",
+      "芦田阳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-068"
+  },
+  {
+    "id": 565399,
+    "IDcode": "STARS-069",
+    "title": "STARS-069 激烈、密集、融化大脑的接吻！射精后，两个女人继续寻找对方，同时发出湿润的接吻声。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "姐姐",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-05-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-069.jpg",
+    "actress": [
+      "市川雅美",
+      "贞松大辅",
+      "鲛岛健介",
+      "江里口匡史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-069"
+  },
+  {
+    "id": 595197,
+    "IDcode": "STARS-070",
+    "title": "STARS-070 DQN 学姐一边取笑我胆小，一边给我口交了很久，很有诱惑力。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "脏话",
+      "主观视角",
+      "乱伦",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-05-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/STARS-070.jpg",
     "actress": [
       "唯井真寻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-991"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-070"
   }
 ];

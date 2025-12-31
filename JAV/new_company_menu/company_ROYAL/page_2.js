@@ -1,5 +1,102 @@
 window.PAGE_DATA = [
   {
+    "id": 89740,
+    "IDcode": "ROYD-136",
+    "title": "明明是辣妹却超内向的义妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "中出",
+      "美少女电影",
+      "淫乱，真实",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-136.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-136"
+  },
+  {
+    "id": 89739,
+    "IDcode": "ROYD-137",
+    "title": "在房间里有只穿内衣的辣妹-百永纱里奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "单体作品",
+      "中出",
+      "淫乱，真实",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-137.jpg",
+    "actress": [
+      "黑川纱里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-137"
+  },
+  {
+    "id": 89712,
+    "IDcode": "ROYD-138",
+    "title": "ROYD-138 弟弟的巨肉棒狂顶子宫，苦闷高潮的巨乳淫乱姐姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "重口味",
+      "单体作品",
+      "巨大阴茎",
+      "大鸡巴",
+      "下流",
+      "内射",
+      "淫乱，真实",
+      "中出",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "2023-08-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-138.jpg",
+    "actress": [
+      "藤子未央",
+      "法兰克福·林"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-138"
+  },
+  {
+    "id": 89814,
+    "IDcode": "ROYD-139",
+    "title": "おチンチン舐めてあげるから恋人のフリしてっ！早く結婚しろとうるさい両親を安心させるために超カワイイ同期女子の一日彼氏になったボク 胡桃さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "单体作品",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "2023-09-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-139.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-139"
+  },
+  {
     "id": 89815,
     "IDcode": "ROYD-140",
     "title": "精子だけは譲れない。巨乳好きの弟が喜ぶ日替わり姉妹丼中出しSEX",
@@ -16,7 +113,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-09-26",
-    "cover_url": "https://tuaskbgnekr.com/20231109/uGXZE8IJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-140.jpg",
     "actress": [
       "弥生美月"
     ],
@@ -39,7 +136,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-141.jpg",
     "actress": [
       "日下部加奈",
       "ひょこり"
@@ -64,7 +161,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841a65641a147ed1a6298a7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-142.jpg",
     "actress": [
       "斋藤亚美里"
     ],
@@ -87,9 +184,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/2023102400011944.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-143.jpg",
     "actress": [
-      "伊織雛乃"
+      "伊织雏乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-143"
   },
@@ -106,7 +203,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-144.jpg",
     "actress": [
       "安倍亜沙美"
     ],
@@ -135,7 +232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/20231024000554276276.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-145.jpg",
     "actress": [
       "倉本菫"
     ],
@@ -160,7 +257,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/20231024000916470470.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-146.jpg",
     "actress": [
       "五日市芽依",
       "タイ"
@@ -187,7 +284,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022041808987987.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-147.jpg",
     "actress": [
       "堀北実来"
     ],
@@ -217,7 +314,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/65ea7c23-3bf7-4758-bca8-5e3683760872.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-148.jpg",
     "actress": [
       "和久井美兎"
     ],
@@ -246,7 +343,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/576c6c4b-f2aa-476d-9320-205f76a9d448.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-149.jpg",
     "actress": [
       "佐藤しお",
       "タイ"
@@ -270,7 +367,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787fc0ef9a2e9b1d4a531c7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-150.jpg",
     "actress": [
       "柊有希",
       "ニック"
@@ -300,7 +397,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/7c127ef1-01b2-46fb-82fb-71209c0e93ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-151.jpg",
     "actress": [
       "星乃夏月"
     ],
@@ -328,7 +425,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231028/62b92169-fc13-4165-b30f-929ad68995bb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-153.jpg",
     "actress": [
       "美咲佳奈"
     ],
@@ -359,7 +456,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/b8f856ec-b1d9-4cf8-8eb6-d252ed38c061.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-154.jpg",
     "actress": [
       "都月楓",
       "ひょこり",
@@ -392,7 +489,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240122/20240122080110212212.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-155.jpg",
     "actress": [
       "弓乃凜夢"
     ],
@@ -420,7 +517,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/4ae46228-a315-4c6a-b019-6bda10225160.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-156.jpg",
     "actress": [
       "橘瑪麗",
       "安倍亜沙美"
@@ -456,7 +553,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/b6c14113-d1a9-4ce0-92c0-5646e9eb27ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-157.jpg",
     "actress": [
       "美園和花"
     ],
@@ -492,7 +589,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3f33ac813dc779d961c2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-158.jpg",
     "actress": [
       "有栖舞衣",
       "ニック"
@@ -523,7 +620,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a46ecac813dc779d96223/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-159.jpg",
     "actress": [
       "森日向子"
     ],
@@ -547,7 +644,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054342456456.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-160.jpg",
     "actress": [
       "前田美波"
     ],
@@ -575,7 +672,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a311aac813dc779d96129/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-161.jpg",
     "actress": [
       "森澤佳奈"
     ],
@@ -600,7 +697,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054608960960.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-163.jpg",
     "actress": [
       "弓乃凜夢"
     ],
@@ -627,7 +724,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054535717717.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-164.jpg",
     "actress": [
       "日向ひかげ"
     ],
@@ -660,7 +757,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041427428428.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-165.jpg",
     "actress": [
       "永井瑪麗亞"
     ],
@@ -690,7 +787,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041745645645.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-166.jpg",
     "actress": [
       "並木愛奈"
     ],
@@ -723,7 +820,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-07-17",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e15994dd88d14f0620220c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-168.jpg",
     "actress": [
       "椿莉香"
     ],
@@ -746,7 +843,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1bea52c12b4e6846a4ee/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-169.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-169"
   },
@@ -775,7 +872,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041606183183.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-170.jpg",
     "actress": [
       "二葉惠麻",
       "二叶エマ"
@@ -815,7 +912,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419043444988988.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-171.jpg",
     "actress": [
       "橘瑪麗"
     ],
@@ -853,7 +950,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419043231492492.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-173.jpg",
     "actress": [
       "美咲佳奈"
     ],
@@ -892,7 +989,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419043120692692.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-174.jpg",
     "actress": [
       "五日市芽依",
       "ひょこり"
@@ -941,10 +1038,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d97405631cc64eb588b46d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-175.jpg",
     "actress": [
-      "橘瑪麗",
-      "橘玛丽"
+      "橘瑪麗"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-175"
   },
@@ -975,7 +1071,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524214455292292.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-177.jpg",
     "actress": [
       "藍芽水月",
       "ひょこり",
@@ -1022,7 +1118,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787915c2a47ebb1a8b45137/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-178.jpg",
     "actress": [
       "月野江翠"
     ],
@@ -1055,7 +1151,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-05-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032811864864.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-179.jpg",
     "actress": [
       "佐藤しお",
       "ひょこり"
@@ -1103,7 +1199,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524035157347347.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-180.jpg",
     "actress": [
       "白石桃"
     ],
@@ -1137,7 +1233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032248185185.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-181.jpg",
     "actress": [
       "五日市芽依"
     ],
@@ -1181,7 +1277,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce70589def9b1b8bebeee/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-182.jpg",
     "actress": [
       "胡桃櫻花",
       "齋藤亞美里",
@@ -1221,7 +1317,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-06-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621015049534534.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-183.jpg",
     "actress": [
       "白石桃"
     ],
@@ -1258,7 +1354,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621012912786786.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-184.jpg",
     "actress": [
       "木下日葵",
       "タイ"
@@ -1311,7 +1407,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240719/202407190214227575.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-185.jpg",
     "actress": [
       "浜崎真緒",
       "百永纱里奈",
@@ -1363,7 +1459,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5ac3ceb67774efbb8821a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-186.jpg",
     "actress": [
       "胡桃櫻花"
     ],
@@ -1405,7 +1501,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-06-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621013432661661.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-187.jpg",
     "actress": [
       "二葉惠麻",
       "二叶エマ"
@@ -1449,7 +1545,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-11-22",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0a53ac813dc779d95f62/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-189.jpg",
     "actress": [
       "月野江翠"
     ],
@@ -1458,45 +1554,50 @@ window.PAGE_DATA = [
   {
     "id": 12504,
     "IDcode": "ROYD-190",
-    "title": "早上起來房間裡出現了穿著內衣的辣妹",
+    "title": "ROYD-190 当我起床时，房间里有个穿着内衣的妹子！虽然她平常总是嘴硬，但这次却撒娇地靠近我…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "手交",
       "少女",
       "蠻橫嬌羞",
-      "美腳",
-      "美臀",
-      "癡女",
+      "黑絲",
+      "金髮",
       "中出",
-      "美少女電影",
-      "劇情",
-      "美少女",
-      "絕頂高潮",
+      "口交",
+      "短髮",
+      "内衣",
+      "美臀",
+      "同學",
       "叛逆少女",
       "辣妹/GAL系",
-      "黑絲",
-      "同學",
-      "純粹的慾望",
-      "金髮",
+      "脚控・戀足癖",
+      "內衣",
+      "美腳",
+      "乳交",
       "騎乗位",
-      "形象俱樂部",
-      "短髮",
+      "後入",
+      "美少女電影",
       "美乳",
       "美腿",
-      "脚控・戀足癖",
-      "巨尻",
-      "巨乳",
-      "口交",
+      "劇情",
+      "絕頂高潮",
+      "純粹的慾望",
+      "性感",
+      "癡女",
+      "美少女",
+      "形象俱樂部",
       "女上位",
-      "內衣",
-      "後入",
-      "性感"
+      "巨尻",
+      "单人作品",
+      "大学生"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822221513773773.jpg",
+    "publish_date": "2024-08-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-190.jpg",
     "actress": [
       "春陽萌花",
       "ひょこり"
@@ -1534,7 +1635,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0313779f1ac4ec48bbe38/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-191.jpg",
     "actress": [
       "白石桃"
     ],
@@ -1582,7 +1683,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-08-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822230912234234.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-192.jpg",
     "actress": [
       "胡桃櫻花"
     ],
@@ -1623,7 +1724,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719002717322322.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-193.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -1663,7 +1764,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719001846489489.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-194.jpg",
     "actress": [
       "美園和花"
     ],
@@ -1712,7 +1813,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67895aab5d57b64bfd9bce97/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-195.jpg",
     "actress": [
       "百永纱里奈",
       "黑川纱里奈"
@@ -1732,7 +1833,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250721-1/ecbf235942d075d591eca0803ff325d3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-196.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-196"
   },
@@ -1779,7 +1880,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/d4c01326229765f51f65b0fd0a33f89c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-197.jpg",
     "actress": [
       "胡桃櫻花"
     ],
@@ -1824,7 +1925,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822230600323323.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-198.jpg",
     "actress": [
       "白石桃"
     ],
@@ -1864,7 +1965,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822225820613613.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-199.jpg",
     "actress": [
       "西野絵美"
     ],
@@ -1873,52 +1974,57 @@ window.PAGE_DATA = [
   {
     "id": 11884,
     "IDcode": "ROYD-200",
-    "title": "有人来了我的人生就结束了-美园和花",
+    "title": "ROYD-200 “如果有人来了，我的人生就结束了，但是感觉太好了…”听到心里的声音，我是一个高压的女上司，但内心只有毁灭愿望的巨乳美女，在任何时候都可能被发现的地方被我疯狂地干了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女上司",
-      "美腳",
-      "脅迫做愛",
-      "蕩婦",
-      "美臀",
-      "感官作品",
-      "加班",
-      "舔陰",
-      "中出",
-      "猥褻穿著",
-      "美少女電影",
-      "辦公室",
-      "劇情",
-      "美少女",
-      "過膝襪・小腿襪",
-      "明星臉",
-      "黑絲",
-      "顏射",
-      "手指插入",
-      "騎乗位",
-      "制服",
-      "羞恥",
-      "形象俱樂部",
-      "短髮",
-      "美乳",
-      "口交",
       "巨乳",
       "慾求不滿",
+      "猥褻穿著",
+      "手指插入",
+      "舔陰",
+      "黑絲",
+      "中出",
+      "OL",
+      "口交",
+      "短髮",
+      "重口味",
+      "過膝襪・小腿襪",
+      "美臀",
+      "加班",
+      "明星臉",
+      "脅迫做愛",
+      "制服",
+      "美腳",
+      "女上司",
+      "騎乗位",
+      "後入",
+      "美少女電影",
+      "顏射",
+      "羞恥",
+      "美乳",
+      "劇情",
+      "辦公室",
+      "性感",
+      "蕩婦",
+      "美少女",
+      "胸控・戀乳癖",
+      "感官作品",
+      "下流",
+      "形象俱樂部",
       "潮吹",
       "女上位",
-      "胸控・戀乳癖",
-      "OL",
-      "後入",
-      "性感"
+      "单人作品"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/cc239655c29e74b55ddc3da601bb6580.jpg",
+    "publish_date": "2024-09-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-200.jpg",
     "actress": [
-      "美園和花"
+      "美園和花",
+      "堀内始",
+      "中田一平"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-200"
   },
@@ -1959,7 +2065,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/33aca45d56893b4c3e69b458f62e7c6d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-201.jpg",
     "actress": [
       "東条実澪",
       "タイ"
@@ -2010,7 +2116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/764b7ff3a298a94e8a26fa918d25b5e5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-202.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -2035,7 +2141,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250726-1/734a99b2eee4bba743f900a0b18738ab.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-203.jpg",
     "actress": [
       "由爱可奈"
     ],
@@ -2072,7 +2178,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788d23f30833b4bf53cd44a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-204.jpg",
     "actress": [
       "石川陽波"
     ],
@@ -2123,7 +2229,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788ae8e30833b4bf53bbb1a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-205.jpg",
     "actress": [
       "胡桃櫻花"
     ],
@@ -2174,7 +2280,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788ab5d30833b4bf53b9919/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-206.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -2223,7 +2329,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/67874bc489def9b1b801bb26/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-208.jpg",
     "actress": [
       "皆月光"
     ],
@@ -2264,7 +2370,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122005259793793.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-209.jpg",
     "actress": [
       "白石桃"
     ],
@@ -2305,7 +2411,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb5c7acf22ae3e04f0f56b/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-210.jpg",
     "actress": [
       "宮城理惠"
     ],
@@ -2356,7 +2462,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122005605842842.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-211.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -2413,7 +2519,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218103716398398.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-213.jpg",
     "actress": [
       "森澤佳奈"
     ],
@@ -2467,7 +2573,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cdc05d57b64bfd0f8514/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-215.jpg",
     "actress": [
       "瀬田一花",
       "輝大"
@@ -2516,7 +2622,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cc9d5d57b64bfd0f7b9d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-216.jpg",
     "actress": [
       "北岡果林"
     ],
@@ -2540,7 +2646,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787dd795d57b64bfd104442/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-217.jpg",
     "actress": [
       "都月楓",
       "マサムー",
@@ -2593,7 +2699,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230731541111.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-218.jpg",
     "actress": [
       "森澤佳奈",
       "ひょこり"
@@ -2641,7 +2747,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074716482482.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-219.jpg",
     "actress": [
       "中城葵"
     ],
@@ -2684,7 +2790,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703031652758758_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-220.jpg",
     "actress": [
       "羽月乃蒼"
     ],
@@ -2730,7 +2836,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094033847847.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-221.jpg",
     "actress": [
       "北岡果林"
     ],
@@ -2739,43 +2845,49 @@ window.PAGE_DATA = [
   {
     "id": 8797,
     "IDcode": "ROYD-222",
-    "title": "纤细美乳的田径部女子-逢沢美优",
+    "title": "ROYD-222 为期3晚4天的自慰训练营，一名拥有精致乳房的田径俱乐部女孩爱上了中年顾问的肮脏鸡巴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "美人",
       "蠻橫嬌羞",
-      "運動",
-      "老頭子",
-      "美腳",
-      "更衣室",
-      "運動服裝",
       "舔陰",
       "中出",
-      "美少女電影",
-      "劇情",
-      "美少女",
-      "M男・M女",
-      "運動女孩",
-      "色白",
-      "變態",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "美人",
-      "美乳",
       "口交",
+      "M男・M女",
+      "白虎",
+      "寢取",
+      "運動女孩",
+      "更衣室",
+      "深喉",
+      "美腳",
+      "運動服裝",
+      "女学生",
+      "騎乗位",
+      "後入",
+      "美少女電影",
+      "羞恥",
+      "美乳",
+      "劇情",
+      "色白",
+      "老頭子",
+      "美少女",
+      "灯笼裤",
+      "變態",
+      "運動",
+      "形象俱樂部",
       "潮吹",
       "女上位",
-      "後入",
-      "寢取"
+      "单人作品"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b895c1cf22ae3e04db4ff2/cover.jpg",
+    "publish_date": "2025-01-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-222.jpg",
     "actress": [
-      "逢澤美優"
+      "逢澤美優",
+      "染岛贡"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-222"
   },
@@ -2819,7 +2931,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074610987987.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-223.jpg",
     "actress": [
       "水川蓳"
     ],
@@ -2882,7 +2994,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/202502200943333232.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-224.jpg",
     "actress": [
       "都月楓",
       "マサムー"
@@ -2951,7 +3063,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094309302302.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-225.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -3003,7 +3115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111541621621.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-227.jpg",
     "actress": [
       "似鳥日菜"
     ],
@@ -3050,7 +3162,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111902729729.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-228.jpg",
     "actress": [
       "月野香澄"
     ],
@@ -3119,7 +3231,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111523368368.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-229.jpg",
     "actress": [
       "春陽萌花"
     ],
@@ -3128,52 +3240,59 @@ window.PAGE_DATA = [
   {
     "id": 7389,
     "IDcode": "ROYD-230",
-    "title": "用下面付房租可以吧-杏ここ",
+    "title": "ROYD-230 房租用小穴抵就行吧！？毫无防备的离家少女与突如其来的色色同居生活！？从早到晚用甜蜜骑乘位榨干你的制服痴女就这么住进来了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "清楚系",
-      "蠻橫嬌羞",
-      "美腳",
-      "蘿莉控",
-      "女學生",
-      "小隻馬",
-      "癡女",
-      "女租客",
-      "中出",
-      "舔腳",
-      "美少女電影",
-      "自宅",
-      "劇情",
-      "美少女",
-      "絕頂高潮",
-      "室友",
-      "色白",
-      "高顏值",
-      "苗條",
-      "上門福利",
-      "純粹的慾望",
-      "騎乗位",
-      "艷遇",
-      "形象俱樂部",
       "美人",
-      "美乳",
-      "口交",
+      "蘿莉控",
+      "少女",
+      "上門福利",
+      "蠻橫嬌羞",
+      "小隻馬",
+      "舔腳",
+      "室友",
+      "中出",
       "校花",
-      "蘿莉",
-      "清純",
-      "女上位",
+      "口交",
+      "清楚系",
+      "校服",
+      "艷遇",
+      "短裙",
+      "女租客",
+      "女學生",
+      "高顏值",
+      "美腳",
+      "女学生",
+      "騎乗位",
+      "後入",
+      "美少女電影",
+      "美乳",
+      "劇情",
+      "色白",
+      "絕頂高潮",
+      "純粹的慾望",
+      "癡女",
+      "苗條",
+      "美少女",
+      "苗条",
+      "自宅",
+      "内射",
       "看房",
-      "後入"
+      "清純",
+      "形象俱樂部",
+      "女上位",
+      "蘿莉",
+      "单人作品"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efcdb7cf22ae3e04d1b1a7/cover.jpg",
+    "publish_date": "2025-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-230.jpg",
     "actress": [
-      "杏可可"
+      "杏可可",
+      "中田一平"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-230"
   },
@@ -3220,7 +3339,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efcce2cf22ae3e04d0d68d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-231.jpg",
     "actress": [
       "鳳美優"
     ],
@@ -3269,7 +3388,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111313580580.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-232.jpg",
     "actress": [
       "美谷朱里"
     ],
@@ -3278,60 +3397,64 @@ window.PAGE_DATA = [
   {
     "id": 6741,
     "IDcode": "ROYD-234",
-    "title": "早晨醒来发现房间里有穿着内衣的同期女同事",
+    "title": "ROYD-234 早上醒来发现房间里竟有位只穿内衣的同期女同事！明明平时总是嚣张跋扈、满嘴脏话，现在却突然撒起娇来…",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美腳",
-      "女學生",
-      "口爆",
-      "美臀",
-      "深喉",
-      "職場",
-      "加班",
-      "舔陰",
-      "女神",
-      "中出",
-      "極品美人",
-      "御姐系",
-      "貧乳",
-      "美少女電影",
-      "辦公室",
-      "劇情",
-      "明星臉",
-      "勾引・誘惑",
-      "絕頂高潮",
-      "女同",
-      "高顏值",
-      "苗條",
-      "黑絲",
-      "阪道系",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "形象俱樂部",
       "美人",
+      "慾求不滿",
+      "手指插入",
+      "御姐系",
+      "女神",
+      "職場",
+      "舔陰",
+      "黑絲",
+      "中出",
+      "OL",
+      "口交",
+      "艷遇",
+      "美臀",
+      "口爆",
+      "加班",
+      "明星臉",
+      "女學生",
+      "深喉",
+      "高顏值",
+      "脚控・戀足癖",
+      "內衣",
+      "美腳",
+      "極品美人",
+      "勾引・誘惑",
+      "騎乗位",
+      "後入",
+      "美少女電影",
       "美乳",
       "美腿",
-      "脚控・戀足癖",
-      "巨尻",
-      "口交",
-      "慾求不滿",
+      "劇情",
+      "絕頂高潮",
+      "辦公室",
+      "女同",
+      "純粹的慾望",
+      "貧乳",
+      "苗條",
+      "苗条",
+      "形象俱樂部",
       "潮吹",
       "女上位",
-      "內衣",
-      "OL",
-      "後入",
-      "NTR"
+      "阪道系",
+      "巨尻",
+      "NTR",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085227940940_thumbnail.webp",
+    "publish_date": "2025-04-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-234.jpg",
     "actress": [
-      "希島愛理"
+      "希島愛理",
+      "堀内始"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-234"
   },
@@ -3374,7 +3497,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092933798798_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-235.jpg",
     "actress": [
       "安斉愛結",
       "マサムー"
@@ -3425,7 +3548,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417084408241241_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-236.jpg",
     "actress": [
       "似鳥日菜"
     ],
@@ -3434,54 +3557,60 @@ window.PAGE_DATA = [
   {
     "id": 6749,
     "IDcode": "ROYD-237",
-    "title": "用陰道代替房租的家出痴女辣妹同居生活",
+    "title": "ROYD-237 用小穴代替房租的离家出走痴女辣妹的同居生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "清楚系",
-      "蠻橫嬌羞",
-      "老頭子",
-      "美腳",
+      "美人",
+      "同住一屋・相部屋",
       "蘿莉控",
+      "手指插入",
       "身體換業務",
-      "女學生",
-      "小隻馬",
-      "美臀",
-      "癡女",
+      "少女",
+      "蠻橫嬌羞",
       "舔陰",
+      "小隻馬",
+      "校花",
       "中出",
+      "辣妹",
+      "口交",
+      "清楚系",
+      "短髮",
+      "痴漢",
+      "美臀",
+      "叛逆少女",
+      "女學生",
+      "JK校服",
+      "美腳",
+      "荡妇",
+      "騎乗位",
+      "後入",
       "美少女電影",
       "劇情",
-      "美少女",
-      "同住一屋・相部屋",
-      "絕頂高潮",
-      "叛逆少女",
       "色白",
-      "傲嬌",
+      "絕頂高潮",
       "純粹的慾望",
-      "痴漢",
-      "手指插入",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "短髮",
-      "口交",
-      "校花",
-      "地雷系",
-      "潮吹",
+      "老頭子",
+      "癡女",
+      "美少女",
+      "傲嬌",
+      "苗条",
+      "内射",
       "清純",
+      "形象俱樂部",
+      "潮吹",
       "女上位",
-      "後入",
-      "JK校服"
+      "地雷系",
+      "单人作品"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092545595595_thumbnail.webp",
+    "publish_date": "2025-04-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-237.jpg",
     "actress": [
-      "虹村由美"
+      "虹村由美",
+      "中田一平"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-237"
   },
@@ -3534,7 +3663,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092934336336_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-238.jpg",
     "actress": [
       "葵百合香"
     ],
@@ -3579,7 +3708,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075446715715_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-240.jpg",
     "actress": [
       "宍戸里帆"
     ],
@@ -3639,7 +3768,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075755165165_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-241.jpg",
     "actress": [
       "希島愛理"
     ],
@@ -3711,7 +3840,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075841540540_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-242.jpg",
     "actress": [
       "都月楓"
     ],
@@ -3776,7 +3905,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080401243243_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-243.jpg",
     "actress": [
       "似鳥日菜"
     ],
@@ -3852,7 +3981,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080257605605_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-244.jpg",
     "actress": [
       "百永纱里奈",
       "黑川纱里奈"
@@ -3911,7 +4040,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074344362362_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-245.jpg",
     "actress": [
       "小栗操"
     ],
@@ -3920,63 +4049,69 @@ window.PAGE_DATA = [
   {
     "id": 5158,
     "IDcode": "ROYD-246",
-    "title": "隔壁模特女孩她是个不停要求性爱-巴ひかり",
+    "title": "ROYD-246 偷看了妄想情色漫画的隔壁模特级姐姐！这个闷骚的她不断索求性爱，直到我的睾丸彻底空空如也",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "清楚系",
-      "蠻橫嬌羞",
-      "美腳",
-      "高妹",
-      "口爆",
-      "美臀",
-      "文藝女",
-      "單體作品",
-      "野性",
-      "癡女",
-      "舔陰",
-      "奇聞趣事",
-      "鄰居",
-      "中出",
-      "極品美人",
-      "美少女電影",
-      "自宅",
-      "劇情",
-      "美少女",
-      "明星臉",
-      "後入",
-      "絕頂高潮",
-      "無毛",
-      "色白",
-      "高顏值",
-      "苗條",
-      "黑絲",
-      "純粹的慾望",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
       "美人",
-      "美乳",
-      "美腿",
-      "脚控・戀足癖",
-      "口交",
       "巨乳",
       "慾求不滿",
+      "手指插入",
+      "少女",
+      "奇聞趣事",
+      "蠻橫嬌羞",
+      "舔陰",
+      "黑絲",
+      "中出",
+      "口交",
+      "清楚系",
+      "重口味",
+      "美臀",
+      "寢取",
+      "鄰居",
+      "口爆",
+      "野性",
+      "明星臉",
+      "無毛",
+      "脚控・戀足癖",
+      "高顏值",
+      "美腳",
+      "極品美人",
       "乳交",
+      "後入",
+      "騎乗位",
+      "美少女電影",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "劇情",
+      "大奶头",
+      "文藝女",
+      "色白",
+      "絕頂高潮",
+      "純粹的慾望",
+      "性感",
+      "癡女",
+      "苗條",
+      "美少女",
+      "胸控・戀乳癖",
+      "高妹",
+      "自宅",
+      "下流",
+      "内射",
+      "單體作品",
+      "形象俱樂部",
       "清純",
       "女上位",
-      "胸控・戀乳癖",
-      "大奶头",
-      "性感",
-      "寢取"
+      "自慰",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091656429429_thumbnail.webp",
+    "publish_date": "2025-06-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-246.jpg",
     "actress": [
       "滝冬煇",
       "ひょこり"
@@ -4028,265 +4163,10 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091706797797_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ROYD-247.jpg",
     "actress": [
       "雛乃ゆな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-247"
-  },
-  {
-    "id": 5167,
-    "IDcode": "ROYD-248",
-    "title": "爆乳女医师的湿滑真人阴道诊疗-百永纱里奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肉絲",
-      "蠻橫嬌羞",
-      "美腳",
-      "高妹",
-      "小隻馬",
-      "口爆",
-      "美臀",
-      "亂交 • 群P",
-      "單體作品",
-      "癡女",
-      "感官作品",
-      "眼鏡",
-      "舔陰",
-      "兩男一女",
-      "淫亂",
-      "中出",
-      "極品美人",
-      "美少女電影",
-      "校園生活",
-      "劇情",
-      "按摩棒",
-      "女醫生",
-      "無毛",
-      "學校",
-      "辣妹/GAL系",
-      "色白",
-      "苗條",
-      "看病・住院",
-      "黑絲",
-      "金髮",
-      "手指插入",
-      "騎乗位",
-      "超爆乳",
-      "形象俱樂部",
-      "美人",
-      "短髮",
-      "美乳",
-      "口交",
-      "巨乳",
-      "慾求不滿",
-      "乳交",
-      "倉庫",
-      "女上位",
-      "胸控・戀乳癖",
-      "厠所",
-      "綠茶婊",
-      "多P",
-      "後入",
-      "性感",
-      "醫院・診所",
-      "3P・4P"
-    ],
-    "type": "有码",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892f34bc92318f97d87f88a/cover.jpg",
-    "actress": [
-      "百永纱里奈",
-      "黑川纱里奈",
-      "青木りょう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-248"
-  },
-  {
-    "id": 4312,
-    "IDcode": "ROYD-250",
-    "title": "房间裡竟然有穿着内衣睡觉的同期女同事-小栗操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "清楚系",
-      "豐滿",
-      "美腳",
-      "小隻馬",
-      "口爆",
-      "美臀",
-      "單體作品",
-      "職場",
-      "舔陰",
-      "中出",
-      "自宅",
-      "辦公室",
-      "鬃毛",
-      "劇情",
-      "絕頂高潮",
-      "女同",
-      "女同事",
-      "色白",
-      "高顏值",
-      "酒後亂性",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "短髮",
-      "美乳",
-      "美腿",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "潮吹",
-      "乳交",
-      "清純",
-      "女上位",
-      "內衣",
-      "OL",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170329163232_26461_thumbnail.webp",
-    "actress": [
-      "小栗操"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-250"
-  },
-  {
-    "id": 5166,
-    "IDcode": "ROYD-252",
-    "title": "性欲超强的妻子被邻居强奸一次之后被他的大鸡巴深深折服-小野坂ゆいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "豐滿",
-      "出軌",
-      "蕩婦",
-      "美臀",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "舔陰",
-      "鄰居",
-      "中出",
-      "御姐系",
-      "丁字裤",
-      "自宅",
-      "劇情",
-      "家庭主妇",
-      "絕頂高潮",
-      "無毛",
-      "高顏值",
-      "美人妻",
-      "若妻",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "性感睡衣",
-      "超爆乳",
-      "美乳",
-      "美人",
-      "美腿",
-      "巨尻",
-      "巨乳",
-      "流汗",
-      "口交",
-      "慾求不滿",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "綠茶婊",
-      "後入",
-      "性感",
-      "寢取",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747536536_thumbnail.webp",
-    "actress": [
-      "小野坂唯香",
-      "青木りょう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-252"
-  },
-  {
-    "id": 4294,
-    "IDcode": "ROYD-253",
-    "title": "我和乡下发育过头的巨乳堂妹发生了不伦的性爱关系-南條彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "清楚系",
-      "蠻橫嬌羞",
-      "正統派",
-      "美腳",
-      "二次元",
-      "臀控",
-      "美臀",
-      "文藝女",
-      "單體作品",
-      "田舍娘",
-      "癡女",
-      "眼鏡",
-      "舔陰",
-      "表姐・表妹",
-      "淫亂",
-      "中出",
-      "極品美人",
-      "大姐姐",
-      "劇情",
-      "美少女",
-      "探親",
-      "絕頂高潮",
-      "淫蕩・硬核",
-      "乱伦",
-      "色白",
-      "高顏值",
-      "阪道系",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "鄉下",
-      "美乳",
-      "美腿",
-      "巨尻",
-      "巨乳",
-      "流汗",
-      "口交",
-      "清純",
-      "女上位",
-      "胸控・戀乳癖",
-      "後入",
-      "性感",
-      "寢取"
-    ],
-    "type": "有码",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033121317317_34801_thumbnail.webp",
-    "actress": [
-      "南條彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-253"
   }
 ];

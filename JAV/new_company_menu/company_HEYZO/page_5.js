@@ -2,52 +2,56 @@ window.PAGE_DATA = [
   {
     "id": 555095,
     "IDcode": "HEYZO-1344",
-    "title": "樱井智香的喷溅",
+    "title": "HEYZO-1344 Tomoka Sakurai 的喷泉飞溅！-樱井智香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/5f81ac6e11354ff81c88ce01ef2b884b.jpg",
-    "actress": [],
+    "publish_date": "2016-12-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1344.jpg",
+    "actress": [
+      "樱井知香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1344"
   },
   {
     "id": 555093,
     "IDcode": "HEYZO-1345",
-    "title": "我只想再摆脱我的前女友",
+    "title": "HEYZO-1345 我想和我的前女友再干一次！-山崎麻里子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/f62795a4309ae3e1fbe7808464283dea.jpg",
-    "actress": [],
+    "publish_date": "2016-11-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1345.jpg",
+    "actress": [
+      "山崎麻里子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1345"
   },
   {
     "id": 972,
     "IDcode": "HEYZO-1346",
-    "title": "先輩，喜歡枕頭嗎？ - 深見裏奈",
+    "title": "HEYZO-1346 前辈，什么是枕头大战？-Serina Fukami.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "乳交",
       "中出",
+      "淫語",
+      "乳交",
       "69",
-      "OL",
-      "淫語"
+      "打手槍",
+      "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2016-12-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/38a36716-3c9f-46a3-b592-fbabaa903843.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1346.jpg",
     "actress": [
       "深美里奈"
     ],
@@ -56,7 +60,7 @@ window.PAGE_DATA = [
   {
     "id": 967,
     "IDcode": "HEYZO-1351",
-    "title": "中出し魂～偷偷脫下避孕套～Vol.8 - 田中美春",
+    "title": "HEYZO-1351 Nakadashi Soul-The rubber is secretly removed-Vol.8-Miharu Tanaka",
     "year": "",
     "country": "",
     "genre": "",
@@ -67,7 +71,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/1e0b0bec-55c3-42e3-9c52-ff6391844a1e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1351.jpg",
     "actress": [
       "田中美春"
     ],
@@ -76,34 +80,36 @@ window.PAGE_DATA = [
   {
     "id": 555092,
     "IDcode": "HEYZO-1352",
-    "title": "会舔它",
+    "title": "HEYZO-1352 本泽友美向您介绍 perro-perro！-本泽友美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/6ac5f8e137627dbb0a710b26a42f9953.jpg",
-    "actress": [],
+    "publish_date": "2016-12-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1352.jpg",
+    "actress": [
+      "本澤朋美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1352"
   },
   {
     "id": 965,
     "IDcode": "HEYZO-1354",
-    "title": "許久以來再次見到青梅竹馬",
+    "title": "HEYZO-1354 许久未见的青梅竹马已经长成了淘气包--我不忍心失去耐心，于是我有了zubotsu！~ 真锅遥香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "青梅竹馬",
-      "69"
+      "69",
+      "青梅竹馬"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2016-12-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/56f62293-1638-496c-b6a8-974aae090f9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1354.jpg",
     "actress": [
       "神楽アイネ"
     ],
@@ -112,22 +118,22 @@ window.PAGE_DATA = [
   {
     "id": 964,
     "IDcode": "HEYZO-1355",
-    "title": "放學後美少女檔案第19號～責怪F罩杯少女～ - 美涼裏菜",
+    "title": "HEYZO-1355 放学后美丽女孩档案 No.19-F-cup 治愈女孩的罪魁祸首-Rina Misuzu",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "乳交",
-      "中出",
       "美少女電影",
       "女學生",
-      "JK校服"
+      "JK校服",
+      "乳交",
+      "中出"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2016-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20240216/8f15478e-7f87-4efa-bf94-5acd018aa90d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1355.jpg",
     "actress": [
       "美涼裏菜"
     ],
@@ -136,51 +142,55 @@ window.PAGE_DATA = [
   {
     "id": 555855,
     "IDcode": "HEYZO-1358",
-    "title": "瑞乃れもんをオモチャ责め！",
+    "title": "HEYZO-1358 Lemon Mizuno 的玩具酷刑！-柠檬水野",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/c62a0a426f07d04aeb55ffe36bfe5b12.jpg",
-    "actress": [],
+    "publish_date": "2017-01-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1358.jpg",
+    "actress": [
+      "水玉檸檬"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1358"
   },
   {
     "id": 348020,
     "IDcode": "HEYZO-1360",
-    "title": "舍弃娘物语~请插入回馈你最美感觉",
+    "title": "HEYZO-1360 被遗弃的女孩的故事-请插入我的故事以报答你-Rion Yoshizawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2016-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1360.jpg",
+    "actress": [
+      "吉泽莉音"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1360"
   },
   {
     "id": 978,
     "IDcode": "HEYZO-1361",
-    "title": "第一女主人樹裡的秘密－如月樹裡",
+    "title": "HEYZO-1361 第一歌舞女郎朱莉的秘密-Juli Kisaragi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "中出",
       "辣妹/GAL系",
       "苗條",
-      "69"
+      "中出",
+      "69",
+      "打手槍"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2016-12-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/2ba2ffcc-4be3-4e59-8423-e28b72658c12.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1361.jpg",
     "actress": [
       "如月ジュリ"
     ],
@@ -189,37 +199,39 @@ window.PAGE_DATA = [
   {
     "id": 555099,
     "IDcode": "HEYZO-1362",
-    "title": "性欲爆炸请在Haru之后做爱",
+    "title": "HEYZO-1362 性爆炸请与 Harua 做爱-成宫春花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/a495c5954310972637fca396686cf107.jpg",
-    "actress": [],
+    "publish_date": "2016-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1362.jpg",
+    "actress": [
+      "乃木遥"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1362"
   },
   {
     "id": 979,
     "IDcode": "HEYZO-1363",
-    "title": "老師，讓我操你吧！ ！",
+    "title": "HEYZO-1363 老师，请让我操你-水崎奈奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "熟女",
-      "中出",
-      "苗條",
-      "女教師",
       "美乳",
-      "淫語"
+      "女教師",
+      "熟女",
+      "苗條",
+      "淫語",
+      "中出"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2016-12-29",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/26c3cdef-c42c-447f-acbb-386c27368f8a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1363.jpg",
     "actress": [
       "中井綾香"
     ],
@@ -228,7 +240,7 @@ window.PAGE_DATA = [
   {
     "id": 981,
     "IDcode": "HEYZO-1365",
-    "title": "在新年伊始第一次做愛！",
+    "title": "HEYZO-1365 操蛋的开始新年伊始，我就被干了-Mari Haneda",
     "year": "",
     "country": "",
     "genre": "",
@@ -241,7 +253,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/d1ef830a-bb1e-473e-994f-a5a7ac3c01b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1365.jpg",
     "actress": [
       "向井藍"
     ],
@@ -250,37 +262,42 @@ window.PAGE_DATA = [
   {
     "id": 555098,
     "IDcode": "HEYZO-1367",
-    "title": "小野玛丽亚和京野唯被玩弄了",
+    "title": "HEYZO-1367 Maria Ono 和 Yui Kyono 的玩具酷刑！-小野玛丽亚-京野由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241228-1/19eaf7e3db38659d34d47bcfc172b75c.jpg",
-    "actress": [],
+    "publish_date": "2017-01-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1367.jpg",
+    "actress": [
+      "京野结衣",
+      "小野麻里亜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1367"
   },
   {
     "id": 555102,
     "IDcode": "HEYZO-1370",
-    "title": "你可以试试避孕套-请试驾我",
+    "title": "HEYZO-1370 你可以试戴安全套 你可以~ 在你试的时候，请让我试一试！-千野久留美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/ea1630a5a29ca283455a4372959ae00f.jpg",
-    "actress": [],
+    "publish_date": "2017-01-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1370.jpg",
+    "actress": [
+      "千野くるみ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1370"
   },
   {
     "id": 984,
     "IDcode": "HEYZO-1371",
-    "title": "Z ~ 迷人的情色娃娃 ~ - 結城誠",
+    "title": "HEYZO-1371 Z-魅力四射的情色娃娃-Makoto Yuki",
     "year": "",
     "country": "",
     "genre": "",
@@ -292,7 +309,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/9b034f7e-80c1-4e72-8152-17fd3b240174.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1371.jpg",
     "actress": [
       "結希真琴"
     ],
@@ -301,22 +318,22 @@ window.PAGE_DATA = [
   {
     "id": 987,
     "IDcode": "HEYZO-1372",
-    "title": "中出靈魂額外版 - 我愚弄了一位不喜歡原始中出的女演員並操了她！ ~ - 瀨戶愛裡",
+    "title": "HEYZO-1372 Nakadashi Soul Extra Edition-我出轨了，上了一个没有原始 Nakadashi 的女演员！~-濑户爱理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "女優",
-      "企畫",
       "紀錄片",
+      "AV拍攝現場",
+      "企畫",
+      "中出",
       "69",
-      "AV拍攝現場"
+      "女優"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/a2765a71-1b88-43b4-9ec3-874ce38e9802.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1372.jpg",
     "actress": [
       "九条紗季"
     ],
@@ -325,68 +342,72 @@ window.PAGE_DATA = [
   {
     "id": 555100,
     "IDcode": "HEYZO-1373",
-    "title": "恋足社欣赏舞子Saegimi-冴君麻衣子",
+    "title": "HEYZO-1373 恋足俱乐部-享受 Saekun Maiko-Saekun Maiko",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/64405f66da74697d38aee565775be7e1.jpg",
-    "actress": [],
+    "publish_date": "2017-01-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1373.jpg",
+    "actress": [
+      "新城由衣"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1373"
   },
   {
     "id": 985,
     "IDcode": "HEYZO-1374",
-    "title": "粘滑的精油按摩~感覺太好了我想要~ - 廣瀨瑞希",
+    "title": "HEYZO-1374 温油按摩-感觉好极了，我想要-Mizuki Hirose",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "苗條",
-      "按摩・物理治療・美容",
       "素人",
-      "美乳"
+      "美乳",
+      "按摩・物理治療・美容",
+      "苗條",
+      "中出"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240208/38147396-97d3-49a7-b4a5-9de61dc5d906.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1374.jpg",
+    "actress": [
+      "広瀬みつき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1374"
   },
   {
     "id": 988,
     "IDcode": "HEYZO-1375",
-    "title": "美麗蕩婦～淫蕩女人的美的女上位後腰部運用～ - 奧野光香",
+    "title": "HEYZO-1375 美丽淫荡的女人-下流女人的极致腰部使用-Wakana Ame。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "肉絲",
-      "人妻",
-      "口交",
       "女同事",
-      "中出",
-      "黑絲",
-      "女上位",
-      "短裙・迷你裙",
-      "蕩婦",
-      "辦公室",
-      "OL",
+      "美乳",
       "手指插入",
-      "熟女",
-      "騎乗位",
+      "人妻",
+      "女上位",
+      "辦公室",
       "制服",
-      "美乳"
+      "黑絲",
+      "肉絲",
+      "蕩婦",
+      "熟女",
+      "中出",
+      "OL",
+      "口交",
+      "短裙・迷你裙",
+      "騎乗位"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/ac5c8e5f-d496-428b-9b6e-10192386c947.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1375.jpg",
     "actress": [
       "奥野光香"
     ],
@@ -395,27 +416,27 @@ window.PAGE_DATA = [
   {
     "id": 990,
     "IDcode": "HEYZO-1377",
-    "title": "健美操課上的甜蜜戀愛——美月瑠奈",
+    "title": "HEYZO-1377 健美操课上的甜蜜恋情-Luna Mizuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "蘿莉",
-      "舔陰",
-      "潮吹",
-      "中出",
-      "女上位",
-      "內衣",
-      "69",
       "手指插入",
+      "潮吹",
+      "女上位",
+      "舔陰",
+      "內衣",
+      "蘿莉",
+      "中出",
+      "69",
+      "口交",
       "後入",
       "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-15",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1377.jpg",
     "actress": [
       "美月瑠奈"
     ],
@@ -424,31 +445,31 @@ window.PAGE_DATA = [
   {
     "id": 991,
     "IDcode": "HEYZO-1378",
-    "title": "下班6點後～溼潤放蕩辦公室女郎～ - 大咲萌",
+    "title": "HEYZO-1378 6 后-紧致邋遢的女职员-Moe Osaki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
-      "舔陰",
       "女同事",
-      "中出",
+      "手指插入",
+      "人妻",
+      "辦公室",
+      "後入",
+      "舔陰",
+      "制服",
+      "黑絲",
       "美腳",
       "苗條",
-      "黑絲",
-      "69",
-      "辦公室",
-      "OL",
-      "手指插入",
       "熟女",
-      "後入",
-      "制服"
+      "中出",
+      "69",
+      "口交",
+      "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/224193ea-971d-484c-9a45-93868b492220.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1378.jpg",
     "actress": [
       "大咲萌"
     ],
@@ -457,45 +478,47 @@ window.PAGE_DATA = [
   {
     "id": 555104,
     "IDcode": "HEYZO-1379",
-    "title": "我要和五十岚忍一起吃馅饼",
+    "title": "HEYZO-1379 Igarashi Shinobu 的派会让你 \"zzz\"！-五十岚忍",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/1d731632bb9e699f76fa155565b75a53.jpg",
-    "actress": [],
+    "publish_date": "2017-01-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1379.jpg",
+    "actress": [
+      "五十嵐しのぶ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1379"
   },
   {
     "id": 992,
     "IDcode": "HEYZO-1380",
-    "title": "護士長喜歡堅挺的雞雞——葵千恵",
+    "title": "HEYZO-1380 护士长喜欢用力-Chie Aoi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "護士制服",
-      "潮吹",
-      "中出",
-      "護士",
-      "苗條",
-      "自慰",
-      "熟女",
-      "後入",
-      "制服",
-      "醫院・診所",
-      "深喉",
       "美乳",
-      "淫語"
+      "護士",
+      "潮吹",
+      "制服",
+      "護士制服",
+      "自慰",
+      "深喉",
+      "熟女",
+      "苗條",
+      "醫院・診所",
+      "淫語",
+      "中出",
+      "口交",
+      "後入"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/8a887a81-9e26-4cfb-b52c-dfb3c28da6ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1380.jpg",
     "actress": [
       "葵千恵"
     ],
@@ -504,35 +527,35 @@ window.PAGE_DATA = [
   {
     "id": 993,
     "IDcode": "HEYZO-1381",
-    "title": "商務小姐們的業務能力——你能感受到大奶子的誘惑嗎？深美裏奈",
+    "title": "HEYZO-1381 出差的骑士女郎充满娇羞-你感觉到大胸了吗？～ 深见芹菜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "中出",
-      "抹油",
-      "按摩棒",
-      "女同事",
-      "苗條",
-      "黑絲",
-      "手指插入",
-      "美乳",
-      "吞精",
       "巨乳",
+      "手指插入",
+      "抹油",
+      "黑絲",
+      "中出",
       "口交",
-      "潮吹",
+      "按摩棒",
       "乳交",
-      "自慰",
-      "女上位",
-      "胸控・戀乳癖",
+      "後入",
+      "吞精",
+      "美乳",
+      "人妻",
       "熟女",
-      "後入"
+      "苗條",
+      "胸控・戀乳癖",
+      "女同事",
+      "潮吹",
+      "女上位",
+      "自慰"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/3cc08149-3f66-4580-b7ab-04ac9cd2864f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1381.jpg",
     "actress": [
       "深美里奈"
     ],
@@ -541,33 +564,33 @@ window.PAGE_DATA = [
   {
     "id": 994,
     "IDcode": "HEYZO-1382",
-    "title": "放學後美少女告訴我更多關於性愛的事！ ~西野なこ",
+    "title": "HEYZO-1382 放学后 Bishojo 档案 No.20-教我更多关于淘气的事情！~-Nako Nishino",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "調教",
-      "制服",
-      "口交",
-      "蘿莉",
       "巨乳",
+      "羞恥",
+      "美乳",
+      "手指插入",
+      "調教",
+      "美少女",
       "少女",
+      "制服",
       "潮吹",
-      "中出",
-      "苗條",
       "自慰",
       "女上位",
       "女學生",
-      "手指插入",
+      "蘿莉",
+      "苗條",
       "JK校服",
-      "羞恥",
-      "美少女",
-      "美乳"
+      "中出",
+      "口交"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/786290d6-557b-47f9-8ba7-603fbc577c72.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1382.jpg",
     "actress": [
       "西野なこ"
     ],
@@ -576,26 +599,26 @@ window.PAGE_DATA = [
   {
     "id": 995,
     "IDcode": "HEYZO-1383",
-    "title": "毛茸茸的性愛！美涼裏菜",
+    "title": "HEYZO-1383 Hayahame你的鸡鸡多少钱？-Rina Misuzu",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "打手槍",
-      "乳交",
+      "美乳",
+      "美臀",
+      "自宅",
+      "手指插入",
       "潮吹",
       "中出",
-      "按摩棒",
-      "自宅",
-      "美臀",
-      "手指插入",
-      "美乳"
+      "乳交",
+      "口交",
+      "打手槍",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/ff087c91-d1f3-4d0b-8529-b49f94b4bc44.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1383.jpg",
     "actress": [
       "美涼裏菜"
     ],
@@ -604,60 +627,64 @@ window.PAGE_DATA = [
   {
     "id": 555106,
     "IDcode": "HEYZO-1384",
-    "title": "中出灵魂橡胶被秘密移除-Vol.6",
+    "title": "HEYZO-1384 Nakadashi Soul-The rubber is secretly removed-Vol.6-Yuna Hamanaka",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/51a46b329aaffc2266d6745d3a0baa3d.jpg",
-    "actress": [],
+    "publish_date": "2017-01-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1384.jpg",
+    "actress": [
+      "浜中ゆうな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1384"
   },
   {
     "id": 555103,
     "IDcode": "HEYZO-1385",
-    "title": "那喷溅的水花",
+    "title": "HEYZO-1385 小吹玛丽亚的水花！-小吹玛丽亚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/065c16a21073197fe7fe19656323fc69.jpg",
-    "actress": [],
+    "publish_date": "2017-01-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1385.jpg",
+    "actress": [
+      "若月玛丽亚"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1385"
   },
   {
     "id": 996,
     "IDcode": "HEYZO-1386",
-    "title": "厚臉皮女孩的中出性愛指導 -今野杏美南",
+    "title": "HEYZO-1386 给厚脸皮女孩的 Nakadashi 性生活指导-Anne Konno Minami",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "學校",
-      "中出",
-      "辣妹/GAL系",
-      "苗條",
-      "女上位",
       "美少女電影",
-      "短裙・迷你裙",
-      "女學生",
+      "美乳",
+      "學校",
       "手指插入",
-      "後入",
+      "辣妹/GAL系",
+      "女學生",
+      "女上位",
       "JK校服",
       "制服",
-      "美乳"
+      "苗條",
+      "中出",
+      "口交",
+      "短裙・迷你裙",
+      "後入"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1386.jpg",
     "actress": [
       "今野杏美南"
     ],
@@ -666,26 +693,26 @@ window.PAGE_DATA = [
   {
     "id": 997,
     "IDcode": "HEYZO-1387",
-    "title": "淫穢禮物 -小泉沙彩",
+    "title": "HEYZO-1387 淫秽礼物-Sasai Koizumi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨尻",
-      "口交",
-      "舔陰",
-      "中出",
-      "按摩棒",
-      "情趣內衣",
-      "69",
+      "美乳",
       "手指插入",
+      "情趣內衣",
+      "舔陰",
+      "巨尻",
       "熟女",
-      "美乳"
+      "中出",
+      "69",
+      "口交",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/4fa9f0dc-9afc-41a8-abc2-da9f2da47d98.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1387.jpg",
     "actress": [
       "小泉沙彩"
     ],
@@ -694,26 +721,26 @@ window.PAGE_DATA = [
   {
     "id": 998,
     "IDcode": "HEYZO-1388",
-    "title": "把你的性欲全部交給我們吧！ ～也能照顧後輩的天堂健身房～ 早乙女らぶ",
+    "title": "HEYZO-1388 让我们帮你摆脱 \"饥渴\"！～呵护下体的天堂健身房-Megu Mezawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "蘿莉",
-      "中出",
-      "辣妹/GAL系",
-      "苗條",
-      "健身房",
-      "女上位",
-      "69",
+      "惡搞",
       "手指插入",
-      "惡搞"
+      "辣妹/GAL系",
+      "女上位",
+      "苗條",
+      "蘿莉",
+      "健身房",
+      "中出",
+      "69",
+      "口交"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240129/b35df548-39ea-421c-b28c-90ba54f27d82.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1388.jpg",
     "actress": [
       "早乙女らぶ"
     ],
@@ -722,53 +749,57 @@ window.PAGE_DATA = [
   {
     "id": 555105,
     "IDcode": "HEYZO-1391",
-    "title": "我要和葛西亚美一起吃馅饼",
+    "title": "HEYZO-1391 我要用川西亚美的派让你 \"嗞嗞 \"作响！-川西亚美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241231-1/36e732ea232f3d94790c5267e70487c0.jpg",
-    "actress": [],
+    "publish_date": "2017-02-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1391.jpg",
+    "actress": [
+      "河西亞美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1391"
   },
   {
     "id": 555111,
     "IDcode": "HEYZO-1393",
-    "title": "外遇奇闻趣事-成熟的女人和酒店Shippoli",
+    "title": "HEYZO-1393 奸夫淫妇-熟女与酒店shippori-Kaori Fukuyama",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-02-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1393.jpg",
+    "actress": [
+      "福山香織"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1393"
   },
   {
     "id": 1002,
     "IDcode": "HEYZO-1394",
-    "title": "你可以試試去這家賣SM商品的商店",
+    "title": "HEYZO-1394 我去了一家出售 SM 商品的商店，在那里我可以试吃这些商品-Miki Aimoto。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "打手槍",
+      "猥褻穿著",
+      "情趣內衣",
+      "中出",
       "緊身衣",
       "乳交",
-      "中出",
-      "猥褻穿著",
-      "情趣內衣"
+      "口交",
+      "打手槍"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231205753753.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1394.jpg",
     "actress": [
       "相本みき"
     ],
@@ -777,22 +808,22 @@ window.PAGE_DATA = [
   {
     "id": 1003,
     "IDcode": "HEYZO-1395",
-    "title": "性愛玩偶 Vol.4 ～主人的聽話性玩偶～",
+    "title": "HEYZO-1395 Meidol 第 4 卷-主人的乖巧性玩偶-Yuna Himekawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "女僕制服",
-      "口交",
+      "女僕",
       "蘿莉",
       "中出",
-      "女僕",
-      "69"
+      "69",
+      "口交"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231133161161.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1395.jpg",
     "actress": [
       "姫川ゆうな"
     ],
@@ -801,51 +832,55 @@ window.PAGE_DATA = [
   {
     "id": 555109,
     "IDcode": "HEYZO-1396",
-    "title": "失去记忆的业馀女孩的中出疗法",
+    "title": "HEYZO-1396 为失去记忆的业余女孩提供 Nakadashi 疗法！-山崎麻里子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250101-1/792157dc523652775e1b2b455ac700b5.jpg",
-    "actress": [],
+    "publish_date": "2017-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1396.jpg",
+    "actress": [
+      "山崎麻里子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1396"
   },
   {
     "id": 555110,
     "IDcode": "HEYZO-1397",
-    "title": "葵樱之吻",
+    "title": "HEYZO-1397 Sakura Aoi's handjob-Sakura Aoi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250101-1/b0328ec9dd9837a21ff26a8043dac71f.jpg",
-    "actress": [],
+    "publish_date": "2017-02-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1397.jpg",
+    "actress": [
+      "苍井樱"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1397"
   },
   {
     "id": 1004,
     "IDcode": "HEYZO-1398",
-    "title": "放學後美少女檔第25號～玩弄天真的少女～",
+    "title": "HEYZO-1398 放学后 Bishojo 档案 No.25-玩弄纯真少女-Risa Suzuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蘿莉",
-      "中出",
       "女學生",
       "JK校服",
+      "蘿莉",
+      "中出",
       "美少女"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231057748748.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1398.jpg",
     "actress": [
       "鈴木理沙"
     ],
@@ -854,36 +889,38 @@ window.PAGE_DATA = [
   {
     "id": 555113,
     "IDcode": "HEYZO-1399",
-    "title": "有外遇时打电话给丈夫的已婚妇女",
+    "title": "HEYZO-1399 已婚妇女在外遇期间给丈夫打电话-Kaede Sakamoto",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250101-1/f060e334fa1a9fe85ffd6b8d1453e0c9.jpg",
-    "actress": [],
+    "publish_date": "2017-02-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1399.jpg",
+    "actress": [
+      "坂本楓"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1399"
   },
   {
     "id": 1006,
     "IDcode": "HEYZO-1401",
-    "title": "美癡女～淫蕩課外授業",
+    "title": "HEYZO-1401 美丽淫荡的女人-好色课外班-Miyu Shiina",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蘿莉",
-      "中出",
-      "69",
       "女教師",
-      "淫語"
+      "蘿莉",
+      "淫語",
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230947944944.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1401.jpg",
     "actress": [
       "椎名美優"
     ],
@@ -892,37 +929,39 @@ window.PAGE_DATA = [
   {
     "id": 555112,
     "IDcode": "HEYZO-1403",
-    "title": "我要和西野艾丽卡一起吃馅饼",
+    "title": "HEYZO-1403 西野绘里香的馅饼会让你 \"zzz\"！-西野绘里香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250101-1/acbc1b282acd8bc41c84a529031b2122.jpg",
-    "actress": [],
+    "publish_date": "2017-02-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1403.jpg",
+    "actress": [
+      "今藤霧子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1403"
   },
   {
     "id": 1007,
     "IDcode": "HEYZO-1404",
-    "title": "下班6點後～輕熟女的熱情～",
+    "title": "HEYZO-1404 6 之后-稍微成熟女性的热情之火-Sasai Koizumi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
+      "美乳",
       "潮吹",
       "中出",
-      "69",
       "熟女",
-      "美乳"
+      "乳交",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230801182182.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1404.jpg",
     "actress": [
       "小泉沙彩"
     ],
@@ -931,22 +970,22 @@ window.PAGE_DATA = [
   {
     "id": 1008,
     "IDcode": "HEYZO-1405",
-    "title": "沒有性生活，就會不快樂！ ～中出女佔卜師",
+    "title": "HEYZO-1405 如果没有性生活，你会不快乐！-被称为 \"Dobutto Nakadashi \"的假算命师-Mika Kirishima",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
       "其他職業",
-      "中出",
+      "劇情",
+      "出軌",
       "苗條",
-      "69",
-      "劇情"
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230728121121.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1405.jpg",
     "actress": [
       "春見風歌"
     ],
@@ -955,59 +994,65 @@ window.PAGE_DATA = [
   {
     "id": 1010,
     "IDcode": "HEYZO-1408",
-    "title": "我男友的朋友愚弄了我，我被操了 - Kurea Toda",
+    "title": "HEYZO-1408 我被男友的朋友骗了并上了床-Kurea Toda",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "出軌",
-      "中出",
+      "素人",
       "朋友女友・妻子",
       "劇情",
-      "素人"
+      "出軌",
+      "中出",
+      "口交"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230604621621.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1408.jpg",
+    "actress": [
+      "戸田くれあ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1408"
   },
   {
     "id": 461999,
     "IDcode": "HEYZO-1409",
-    "title": "井上英李がお漏らししちゃった！- 井上英李",
+    "title": "HEYZO-1409 井上英莉尿裤子了！-井上英梨梨",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/6a39383b134334456a27c574848ad041.jpg",
-    "actress": [],
+    "publish_date": "2017-02-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1409.jpg",
+    "actress": [
+      "井上英李"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1409"
   },
   {
     "id": 555114,
     "IDcode": "HEYZO-1410",
-    "title": "建立爱的纽带SHOW",
+    "title": "HEYZO-1410 建立爱的纽带 SHOW！-伊洛哈-马林",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250101-1/c1b5300b2696e327144192894669072f.jpg",
-    "actress": [],
+    "publish_date": "2017-06-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1410.jpg",
+    "actress": [
+      "山梨ゆず"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1410"
   },
   {
     "id": 1011,
     "IDcode": "HEYZO-1411",
-    "title": "我忘了帶錢包。 。 。用我的身體來償還",
+    "title": "HEYZO-1411 我忘带钱包了...我要用身体来偿还-濑户爱理",
     "year": "",
     "country": "",
     "genre": "",
@@ -1019,7 +1064,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118022129969969.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1411.jpg",
     "actress": [
       "九条紗季"
     ],
@@ -1028,7 +1073,7 @@ window.PAGE_DATA = [
   {
     "id": 1012,
     "IDcode": "HEYZO-1412",
-    "title": "不斷的操漂亮宅女！",
+    "title": "HEYZO-1412 持续生猛-秋叶式美女！~ Kurumi Chino",
     "year": "",
     "country": "",
     "genre": "",
@@ -1040,7 +1085,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118021105441441.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1412.jpg",
     "actress": [
       "千野くるみ"
     ],
@@ -1049,39 +1094,41 @@ window.PAGE_DATA = [
   {
     "id": 554643,
     "IDcode": "HEYZO-1413",
-    "title": "性分享屋-入住条件是性交",
+    "title": "HEYZO-1413 性合租房-性交是入住的条件！~-井上绫子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241103-1/c65b17d59bfe05c82209960fd3984dfe.jpg",
-    "actress": [],
+    "publish_date": "2017-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1413.jpg",
+    "actress": [
+      "井上綾子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1413"
   },
   {
     "id": 1014,
     "IDcode": "HEYZO-1415",
-    "title": "看上去很普通的女人，脫掉衣服後卻很迷人",
+    "title": "HEYZO-1415 脱掉衣服后令人惊艳的清醒女人-Hina Hoshizaki。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "咖啡店",
-      "職員",
-      "乳交",
-      "中出",
-      "性感",
       "服務生",
       "劇情",
-      "制服"
+      "咖啡店",
+      "制服",
+      "中出",
+      "性感",
+      "職員",
+      "乳交"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020936496496.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1415.jpg",
     "actress": [
       "星咲ひな"
     ],
@@ -1090,36 +1137,38 @@ window.PAGE_DATA = [
   {
     "id": 554644,
     "IDcode": "HEYZO-1416",
-    "title": "把花花归咎于玩具",
+    "title": "HEYZO-1416 花好月圆的玩具酷刑-厄尔-花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20241103-1/dc69872dba51a73f1d85ee7567937525.jpg",
-    "actress": [],
+    "publish_date": "2017-03-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1416.jpg",
+    "actress": [
+      "栗原葵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1416"
   },
   {
     "id": 1015,
     "IDcode": "HEYZO-1417",
-    "title": "持續中出 ~ 真正放蕩的美麗女孩高潮了！",
+    "title": "HEYZO-1417 Tsunyu Naka-真正的淫荡美女来真的！~ 榊野柑奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "絕頂高潮",
       "潮吹",
-      "中出",
+      "性感",
       "苗條",
-      "性感"
+      "中出"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020909240240.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1417.jpg",
     "actress": [
       "蘭華"
     ],
@@ -1128,26 +1177,26 @@ window.PAGE_DATA = [
   {
     "id": 1016,
     "IDcode": "HEYZO-1418",
-    "title": "用你的身體完成銷售指標！ ？ 宮藤まい",
+    "title": "HEYZO-1418 实现销售配额是一个整体！-Mai Miyafuji",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女業務",
-      "口交",
-      "潮吹",
-      "中出",
-      "苗條",
-      "69",
-      "身體換業務",
-      "OL",
       "劇情",
-      "性感"
+      "身體換業務",
+      "潮吹",
+      "性感",
+      "苗條",
+      "中出",
+      "69",
+      "口交",
+      "女業務",
+      "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020841625625.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1418.jpg",
     "actress": [
       "宮藤まい"
     ],
@@ -1156,23 +1205,23 @@ window.PAGE_DATA = [
   {
     "id": 1017,
     "IDcode": "HEYZO-1419",
-    "title": "下班6點後 ～性感全開OL女郎的欲望～ - 江波亮",
+    "title": "HEYZO-1419 6 之后-费洛蒙十足的上班族的淫荡-Ryu Enami",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美腳",
-      "OL",
+      "美乳",
       "劇情",
-      "熟女",
       "制服",
-      "美乳"
+      "熟女",
+      "美腳",
+      "中出",
+      "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020811829829.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1419.jpg",
     "actress": [
       "江波亮"
     ],
@@ -1181,24 +1230,24 @@ window.PAGE_DATA = [
   {
     "id": 1018,
     "IDcode": "HEYZO-1420",
-    "title": "潛入拍攝現場！原來如此。 。 。 ～哦，我也要被操嗎？ ~ - 樞木美栞",
+    "title": "HEYZO-1420 溜进拍摄现场但是...～是的，我会出演这部电影？～仓杉美琴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "中出",
+      "美乳",
       "女優",
+      "潮吹",
       "企畫",
-      "AV拍攝現場",
       "性感",
+      "中出",
       "美少女",
-      "美乳"
+      "AV拍攝現場"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020738107107.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1420.jpg",
     "actress": [
       "樞木美栞"
     ],
@@ -1207,37 +1256,39 @@ window.PAGE_DATA = [
   {
     "id": 555117,
     "IDcode": "HEYZO-1421",
-    "title": "中出灵魂橡胶被秘密移除-Vol.7",
+    "title": "HEYZO-1421 Nakadashi Soul-The rubber is secretly removed-Vol.7-Karen Ozawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250102-1/378b351a91dc9996075881f3fe3f4d03.jpg",
-    "actress": [],
+    "publish_date": "2017-03-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1421.jpg",
+    "actress": [
+      "小沢かれん"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1421"
   },
   {
     "id": 1019,
     "IDcode": "HEYZO-1423",
-    "title": "被老板操了～醉酒不道德的苗條OL",
+    "title": "HEYZO-1423 我被老板干了-苗条女职员沉醉于不道德的感觉-木叶春日部",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "出軌",
-      "中出",
-      "苗條",
-      "69",
       "辦公室",
+      "苗條",
+      "中出",
+      "69",
       "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020700138138.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1423.jpg",
     "actress": [
       "春日部木叶"
     ],
@@ -1246,23 +1297,23 @@ window.PAGE_DATA = [
   {
     "id": 1020,
     "IDcode": "HEYZO-1424",
-    "title": "別人老婆的味道～理想的淫妻",
+    "title": "HEYZO-1424 Strangers' Wife Taste-Wanting and Lewd Wife-Aoi Kasahara",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "淫妻",
       "出軌",
       "潮吹",
       "中出",
-      "69",
-      "熟女"
+      "熟女",
+      "淫妻",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020622450450.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1424.jpg",
     "actress": [
       "笠原あおい"
     ],
@@ -1271,53 +1322,56 @@ window.PAGE_DATA = [
   {
     "id": 1021,
     "IDcode": "HEYZO-1426",
-    "title": "奇聞趣事 Collection～ vol.38",
+    "title": "HEYZO-1426 HAMEZO-Hamedori Collection-vol.38-Mizuki Hirose",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "中出",
+      "素人",
       "企畫",
       "素人作品",
-      "奇異的",
-      "素人"
+      "中出",
+      "口交",
+      "奇異的"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020547355355.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1426.jpg",
+    "actress": [
+      "広瀬みつき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1426"
   },
   {
     "id": 1024,
     "IDcode": "HEYZO-1430",
-    "title": "小西美緒用身體拯救瀕臨破產的工廠",
+    "title": "HEYZO-1430 请资助我的阴道--用你的身体拯救濒临破产的工厂！~-Uika Hoshikawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "兩男一女",
-      "乳交",
-      "潮吹",
-      "中出",
-      "苗條",
-      "女上位",
-      "69",
       "美臀",
       "手指插入",
+      "兩男一女",
       "老闆娘，女主人",
+      "潮吹",
+      "女上位",
+      "中出",
+      "苗條",
+      "淫語",
+      "乳交",
+      "69",
+      "口交",
       "後入",
-      "按摩棒",
-      "淫語"
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/8f7cc8be-3046-47a1-8b93-aa028f432e7c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1430.jpg",
     "actress": [
+      "春日部木叶",
       "小西美緒"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1430"
@@ -1325,24 +1379,24 @@ window.PAGE_DATA = [
   {
     "id": 1025,
     "IDcode": "HEYZO-1431",
-    "title": "對逢澤遙的惡作劇，讓她得到性高潮她什麼都願意做。",
+    "title": "HEYZO-1431 美丽的四分之一女演员们的反向惊喜！～听说你是个刷子...~ 相泽遥",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "後入",
-      "口交",
-      "中出",
-      "女上位",
-      "69",
-      "熟女",
+      "美乳",
       "出道作品",
-      "美乳"
+      "女上位",
+      "熟女",
+      "中出",
+      "69",
+      "口交",
+      "後入"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/7c70ab8b-7eab-49bd-87f8-6a43cda9886a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1431.jpg",
     "actress": [
       "逢澤遙"
     ],
@@ -1351,23 +1405,23 @@ window.PAGE_DATA = [
   {
     "id": 1026,
     "IDcode": "HEYZO-1432",
-    "title": "與短發美少女做愛！向井藍",
+    "title": "HEYZO-1432 连续生-与美丽的短发女孩 Paccoing！~-Mari Haneda",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "中出",
-      "苗條",
+      "美乳",
       "女上位",
-      "騎乗位",
       "後入",
-      "美乳"
+      "苗條",
+      "中出",
+      "口交",
+      "騎乗位"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/e2523bed-4577-4499-b739-a2bbde74d987.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1432.jpg",
     "actress": [
       "向井藍"
     ],
@@ -1376,29 +1430,29 @@ window.PAGE_DATA = [
   {
     "id": 1027,
     "IDcode": "HEYZO-1433",
-    "title": "美麗的蕩婦～苗條巨乳娃娃想要被操 七瀨莉娜",
+    "title": "HEYZO-1433 美丽淫荡的女人-苗条娃娃想被操-Rina Nanase",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
-      "中出",
-      "按摩棒",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "後入",
+      "騎乗位",
       "美腳",
       "苗條",
-      "女上位",
+      "中出",
       "69",
+      "口交",
       "OL",
-      "手指插入",
-      "騎乗位",
-      "後入",
-      "美乳"
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-07-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/2c78a3f8-48c4-4e56-a447-079dbc581a14.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1433.jpg",
     "actress": [
       "七濑莉娜"
     ],
@@ -1421,57 +1475,59 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/7ad72f42-984d-42ea-a6b1-39138ccd842f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1435.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1435"
   },
   {
     "id": 555119,
     "IDcode": "HEYZO-1437",
-    "title": "为我心爱的丈夫进行肥皂培训",
+    "title": "HEYZO-1437 爱丈夫的肥皂训练-Serika Shirogane",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250102-1/09f642d6c2aedff0180b0b656a090277.jpg",
-    "actress": [],
+    "publish_date": "2017-03-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1437.jpg",
+    "actress": [
+      "白金せりか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1437"
   },
   {
     "id": 1029,
     "IDcode": "HEYZO-1438",
-    "title": "放學後美少女檔案第22號～純真的少女的調教方法～ - 姬川優奈",
+    "title": "HEYZO-1438 课后美丽女孩档案 No.22-如何管教天真无邪的女孩-Yuna Himekawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "少女",
-      "美腳",
-      "女學生",
-      "中出",
-      "調教",
-      "過膝襪・小腿襪",
-      "按摩棒",
-      "苗條",
-      "69",
       "手指插入",
-      "騎乗位",
-      "制服",
-      "美乳",
+      "調教",
+      "COSPLAY服飾",
+      "少女",
+      "中出",
+      "69",
       "口交",
-      "乳交",
-      "女上位",
-      "後入",
+      "按摩棒",
+      "過膝襪・小腿襪",
+      "女學生",
+      "制服",
       "JK校服",
-      "COSPLAY服飾"
+      "美腳",
+      "乳交",
+      "後入",
+      "騎乗位",
+      "美乳",
+      "苗條",
+      "女上位"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/414ccbcf-79f0-4859-9b5d-7297b7bfd0bd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1438.jpg",
     "actress": [
       "姫川ゆうな"
     ],
@@ -1480,28 +1536,28 @@ window.PAGE_DATA = [
   {
     "id": 1030,
     "IDcode": "HEYZO-1439",
-    "title": "束縛狂人 - Azumi Nakama",
+    "title": "HEYZO-1439 捆绑狂人-Azumi Nakama",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
-      "口交",
       "巨乳",
+      "美乳",
+      "拘束・拷問",
+      "中出",
       "舔陰",
+      "緊縛",
       "緊身衣",
       "乳交",
-      "中出",
-      "按摩棒",
-      "拘束・拷問",
-      "緊縛",
+      "口交",
       "後入",
-      "美乳"
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-03-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111084641463463.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1439.jpg",
     "actress": [
       "市来美保"
     ],
@@ -1510,44 +1566,46 @@ window.PAGE_DATA = [
   {
     "id": 555118,
     "IDcode": "HEYZO-1440",
-    "title": "的脚交很酷",
+    "title": "HEYZO-1440 Ryo Takaoka 的足交让我射精！-高冈亮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250102-1/ef3db97d5cfb066df3e593e682d9aaa6.jpg",
-    "actress": [],
+    "publish_date": "2017-04-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1440.jpg",
+    "actress": [
+      "高岡リョウ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1440"
   },
   {
     "id": 1032,
     "IDcode": "HEYZO-1441",
-    "title": "我和我以前的學生發生了性關系 - 就像那時一樣抓住她的誘人的大奶子 優木美羽",
+    "title": "HEYZO-1441 操以前的学生-还是那对性感的大奶子-Miu Yuuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "豐滿",
-      "打手槍",
-      "口交",
       "巨乳",
-      "出軌",
-      "乳交",
-      "中出",
-      "按摩棒",
-      "女上位",
+      "美乳",
       "手指插入",
-      "騎乗位",
+      "出軌",
+      "女上位",
+      "豐滿",
+      "中出",
       "後入",
-      "美乳"
+      "乳交",
+      "口交",
+      "打手槍",
+      "騎乗位",
+      "按摩棒"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-06-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/3c331541-d615-4105-8eca-4e5fe2226038.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1441.jpg",
     "actress": [
       "優木美羽"
     ],
@@ -1556,42 +1614,44 @@ window.PAGE_DATA = [
   {
     "id": 555121,
     "IDcode": "HEYZO-1442",
-    "title": "外遇奇闻趣事-成熟的女人和酒店在酒店",
+    "title": "HEYZO-1442 奸夫淫妇-在酒店与熟女调情-Shoko Takashima",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1442.jpg",
+    "actress": [
+      "高嶋祥子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1442"
   },
   {
     "id": 1031,
     "IDcode": "HEYZO-1443",
-    "title": "旅行中女主人充滿了性欲——她們會和任何人發生性關系 美月瑠奈",
+    "title": "HEYZO-1443 旅行中的歌舞女郎充满了娇羞-你会和任何人上床，是吗？～ 水月",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "中出",
-      "美腳",
-      "苗條",
-      "女上位",
-      "69",
-      "亂交 • 群P",
-      "騎乗位",
+      "美乳",
       "多P",
+      "亂交 • 群P",
+      "女上位",
       "後入",
-      "美乳"
+      "苗條",
+      "美腳",
+      "中出",
+      "69",
+      "口交",
+      "騎乗位"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-11-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/77ca82c2-04d8-40c0-bdda-f746cd4d474e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1443.jpg",
     "actress": [
       "美月瑠奈"
     ],
@@ -1600,7 +1660,7 @@ window.PAGE_DATA = [
   {
     "id": 1033,
     "IDcode": "HEYZO-1444",
-    "title": "家访的班主任趁着我在外面玩把我老妈给内射了",
+    "title": "HEYZO-1444 和儿子的班主任在一起-我无法抑制身体的刺痛-Chie Aoi",
     "year": "",
     "country": "",
     "genre": "",
@@ -1608,15 +1668,15 @@ window.PAGE_DATA = [
       "人妻",
       "出軌",
       "潮吹",
-      "中出",
-      "苗條",
       "按摩・物理治療・美容",
-      "熟女"
+      "熟女",
+      "苗條",
+      "中出"
     ],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd6ce44e7d663df4db88b7/cover.jpg",
+    "publish_date": "2017-04-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1444.jpg",
     "actress": [
       "葵千恵"
     ],
@@ -1625,38 +1685,40 @@ window.PAGE_DATA = [
   {
     "id": 555120,
     "IDcode": "HEYZO-1445",
-    "title": "享受色情按摩西野在这种情况下",
+    "title": "HEYZO-1445 性按摩的快感！～ 西野亚子的案例-西野亚子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250103-1/0b6def8770003a3930e299db580319bf.jpg",
-    "actress": [],
+    "publish_date": "2017-04-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1445.jpg",
+    "actress": [
+      "西野あこ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1445"
   },
   {
     "id": 1034,
     "IDcode": "HEYZO-1446",
-    "title": "小倉小姐的特別服務——結希真琴",
+    "title": "HEYZO-1446 为自慰女孩提供的特殊服务-Makoto Yuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
+      "美乳",
+      "COSPLAY服飾",
       "潮吹",
       "中出",
       "苗條",
-      "69",
-      "COSPLAY服飾",
-      "美乳"
+      "乳交",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20240112/18d90d1d-12ee-41c2-874b-3e136aa9f8ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1446.jpg",
     "actress": [
       "結希真琴"
     ],
@@ -1665,42 +1727,44 @@ window.PAGE_DATA = [
   {
     "id": 1035,
     "IDcode": "HEYZO-1448",
-    "title": "下班6點後~用力戳！ ~ - 星川優香",
+    "title": "HEYZO-1448 6之后-使劲戳我！~ 星川上佳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "潮吹",
-      "中出",
       "苗條",
-      "69",
-      "淫語"
+      "淫語",
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014948436436.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1448.jpg",
+    "actress": [
+      "春日部木叶"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1448"
   },
   {
     "id": 1037,
     "IDcode": "HEYZO-1449",
-    "title": "美麗的蕩婦～被淫婦玩弄～ - 雙葉澪",
+    "title": "HEYZO-1449 美丽的淫荡女-被淫荡女玩弄-Mio Futaba",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乳交",
+      "美乳",
       "中出",
+      "乳交",
       "69",
-      "出道作品",
-      "美乳"
+      "出道作品"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-02-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/202401050149215555.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1449.jpg",
     "actress": [
       "双葉みお"
     ],
@@ -1709,22 +1773,24 @@ window.PAGE_DATA = [
   {
     "id": 555122,
     "IDcode": "HEYZO-1451",
-    "title": "我会一直死到我能说出绕口令为止-即使是业馀爱好者也不会原谅",
+    "title": "HEYZO-1451 我们会一直让你走，直到你能说出最快的词！~ 就算你是外行 我也不会手下留情的~-户田酷拉",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250103-1/d1bbe843ba2ce7fa9f755699212e09b7.jpg",
-    "actress": [],
+    "publish_date": "2017-04-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1451.jpg",
+    "actress": [
+      "戸田くれあ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1451"
   },
   {
     "id": 1039,
     "IDcode": "HEYZO-1452",
-    "title": "對騷貨的猥褻懲罰〜母狗般的粗暴操逼〜 - 今野杏美南",
+    "title": "HEYZO-1452 对性恶女孩的淫秽惩罚-对粗鲁母狗的粗暴对待-Anminami Konno。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1736,28 +1802,30 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014820915915.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1452.jpg",
+    "actress": [
+      "今野杏美南"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1452"
   },
   {
     "id": 1040,
     "IDcode": "HEYZO-1454",
-    "title": "放學後美少女檔案第24號～小心翼翼地玩弄天真的少女～ - 百木希",
+    "title": "HEYZO-1454 课外文体活动档案 No.24-慢慢挑逗天真少女-Momoki Nozomi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
+      "COSPLAY服飾",
       "女學生",
       "JK校服",
-      "美少女",
-      "COSPLAY服飾"
+      "中出",
+      "美少女"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014729918918.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1454.jpg",
     "actress": [
       "百木希"
     ],
@@ -1766,7 +1834,7 @@ window.PAGE_DATA = [
   {
     "id": 1043,
     "IDcode": "HEYZO-1458",
-    "title": "別人妻子的味道 - 40多歲女人的欲望 - 大橋瞳",
+    "title": "HEYZO-1458 别人妻子的味道：四十岁女人的性欲-Hitomi Ohashi",
     "year": "",
     "country": "",
     "genre": "",
@@ -1774,74 +1842,82 @@ window.PAGE_DATA = [
       "人妻",
       "出軌",
       "潮吹",
-      "乳交",
       "中出",
-      "苗條",
-      "69",
       "熟女",
-      "淫語"
+      "苗條",
+      "淫語",
+      "乳交",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105010852260260.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1458.jpg",
+    "actress": [
+      "庵叶和子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1458"
   },
   {
     "id": 1046,
     "IDcode": "HEYZO-1460",
-    "title": "放學後美少女檔案第23號～脫掉衣服後的美少女～ - 観月奏",
+    "title": "HEYZO-1460 放学后美丽女孩档案 No.23-脱掉衣服后令人惊艳的白皙皮肤美丽女孩-Kanade Mizuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
       "JK校服",
-      "女學生",
-      "COSPLAY服飾"
+      "COSPLAY服飾",
+      "女學生"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105010738945945.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1460.jpg",
+    "actress": [
+      "小田切ありさ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1460"
   },
   {
     "id": 555123,
     "IDcode": "HEYZO-1461",
-    "title": "让我们用恋足玩鱿鱼-我穿丝袜的时候搞砸了",
+    "title": "HEYZO-1461 让我在恋足游戏中射精～穿丝袜时被人耻笑为荡妇-Ana Matsuda",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-04-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1461.jpg",
+    "actress": [
+      "松田あんな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1461"
   },
   {
     "id": 555124,
     "IDcode": "HEYZO-1463",
-    "title": "把希望桃树归咎于玩具",
+    "title": "HEYZO-1463 Momoki Nozomi 被玩具折磨！-Nozomi Momoki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250103-1/508d4b3144c2c7967d474b9f56ad00fa.jpg",
-    "actress": [],
+    "publish_date": "2017-10-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1463.jpg",
+    "actress": [
+      "百木希"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1463"
   },
   {
     "id": 1052,
     "IDcode": "HEYZO-1464",
-    "title": "我勾引了一個優柔寡斷的男人～ - 春見風歌",
+    "title": "HEYZO-1464 如果你上床了，那就是你的了！～我勾引了一个优柔寡断的男人-雾岛美嘉",
     "year": "",
     "country": "",
     "genre": "",
@@ -1852,7 +1928,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-08-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/edc6817a-3c3e-4fd7-923d-45e21bdc7e93.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1464.jpg",
     "actress": [
       "春見風歌"
     ],
@@ -1861,21 +1937,21 @@ window.PAGE_DATA = [
   {
     "id": 1049,
     "IDcode": "HEYZO-1465",
-    "title": "淫蕩公共衛生醫生的神祕健康檢查 ~ 朝桐光",
+    "title": "HEYZO-1465 公共卫生护士的淫荡体检-浅切光",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美腳",
-      "69",
+      "美乳",
       "熟女",
-      "美乳"
+      "美腳",
+      "中出",
+      "69"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/b17a4da6-45be-40ce-8eab-1792ab830928.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1465.jpg",
     "actress": [
       "朝桐光"
     ],
@@ -1884,84 +1960,92 @@ window.PAGE_DATA = [
   {
     "id": 555130,
     "IDcode": "HEYZO-1466",
-    "title": "已婚妇女Deriheru",
+    "title": "HEYZO-1466 想上床的已婚妇女的熟食店-Yoshino Kikuchi。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/79f089940268897cc309445abc954a91.jpg",
-    "actress": [],
+    "publish_date": "2017-04-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1466.jpg",
+    "actress": [
+      "菊池よしの"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1466"
   },
   {
     "id": 1050,
     "IDcode": "HEYZO-1467",
-    "title": "我嘗試玩素人女孩的胸部！ ——小澤凱倫",
+    "title": "HEYZO-1467 我玩过业余女孩的奶子-小泽卡伦",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
       "69",
-      "素人",
-      "乳交"
+      "乳交",
+      "素人"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/6a57984f-93b2-4dd1-a744-dd3b1a27cc5b.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1467.jpg",
+    "actress": [
+      "小沢かれん"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1467"
   },
   {
     "id": 555131,
     "IDcode": "HEYZO-1468",
-    "title": "玩具责备岛崎由衣",
+    "title": "HEYZO-1468 岛崎结衣被玩具折磨！-岛崎结衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/afd7d629d6ce718293f7acad5bd8b759.jpg",
-    "actress": [],
+    "publish_date": "2017-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1468.jpg",
+    "actress": [
+      "小椋あずき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1468"
   },
   {
     "id": 59136,
     "IDcode": "HEYZO-1469",
-    "title": "淫らないたずら～うたた寝した同僚にフェラしてあげたら。。。～ - 白瀬ここね",
+    "title": "HEYZO-1469 猥亵恶作剧-当我给打瞌睡的同事口交时...~-Kokone Shirase",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "痴女与M男",
-      "白虎",
-      "中出",
-      "苗条",
-      "OL",
-      "骑乘位",
-      "知名女优",
-      "背后插入",
       "口爆/吞精",
+      "知名女优",
+      "白虎",
+      "立即口交",
+      "骑乘位",
+      "痴女与M男",
       "漂亮屁股",
-      "立即口交"
+      "中出",
+      "OL",
+      "背后插入",
+      "苗条"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1469.jpg",
+    "actress": [
+      "白瀬心乙"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1469"
   },
   {
     "id": 1051,
     "IDcode": "HEYZO-1471",
-    "title": "无良教练经常诱骗学跆拳道的女学员进行内射",
+    "title": "HEYZO-1471 猥亵的柔道练习-一本被拿走了，我还被干了一次！～ 桃井莉乃",
     "year": "",
     "country": "",
     "genre": "",
@@ -1973,8 +2057,8 @@ window.PAGE_DATA = [
     ],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/73a16d09/vod.jpg",
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1471.jpg",
     "actress": [
       "桃井理乃"
     ],
@@ -1983,22 +2067,24 @@ window.PAGE_DATA = [
   {
     "id": 555129,
     "IDcode": "HEYZO-1472",
-    "title": "玩具责备桃井里诺",
+    "title": "HEYZO-1472 Rino Momoi 的玩具酷刑！-桃井莉乃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/8e35c4dec6fbd64b6618cfc4ae32b954.jpg",
-    "actress": [],
+    "publish_date": "2017-10-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1472.jpg",
+    "actress": [
+      "桃井理乃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1472"
   },
   {
     "id": 1053,
     "IDcode": "HEYZO-1473",
-    "title": "粘稠的舌頭，厚重的性愛——铃木里美",
+    "title": "HEYZO-1473 湿润的舌吻和激烈的性爱-Satomi Suzuki",
     "year": "",
     "country": "",
     "genre": "",
@@ -2009,7 +2095,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-29",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/a5bef4df-0fc3-4c37-a63b-7c8e5177c84c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1473.jpg",
     "actress": [
       "铃木里美"
     ],
@@ -2018,35 +2104,37 @@ window.PAGE_DATA = [
   {
     "id": 555128,
     "IDcode": "HEYZO-1474",
-    "title": "我要和星崎优奈一起吃馅饼",
+    "title": "HEYZO-1474 我要和星崎由奈的派一起 \"zzz\"！-星崎由奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/1c980d5e0d0e067b94d07c118cf25a85.jpg",
-    "actress": [],
+    "publish_date": "2017-05-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1474.jpg",
+    "actress": [
+      "星咲優菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1474"
   },
   {
     "id": 1054,
     "IDcode": "HEYZO-1475",
-    "title": "以巨乳爲傲的女友出現在AV中！ - 優木美羽",
+    "title": "HEYZO-1475 我的女友以自己的大胸为傲，在色情片中表演！-Miu Yuuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
       "69",
-      "巨乳",
-      "乳交"
+      "乳交",
+      "巨乳"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-05-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/4fc2fbed-e566-4853-bdf5-19c0bd89a41d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1475.jpg",
     "actress": [
       "優木美羽"
     ],
@@ -2055,22 +2143,24 @@ window.PAGE_DATA = [
   {
     "id": 555127,
     "IDcode": "HEYZO-1476",
-    "title": "我要和有纪美宇一起吃馅饼",
+    "title": "HEYZO-1476 Yuuki Miu 的派会让你 \"zzz\"！-Miu Yuuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/15cd65cab5487c63543e511b57e3bf70.jpg",
-    "actress": [],
+    "publish_date": "2017-08-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1476.jpg",
+    "actress": [
+      "優木美羽"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1476"
   },
   {
     "id": 1055,
     "IDcode": "HEYZO-1477",
-    "title": "操了一次又一次 盡情品嘗樞木美栞的味道",
+    "title": "HEYZO-1477 Tsunsu Nama Naka-Jubu Jubu Taste the Mandarin Oranges-Cardinal Mikan",
     "year": "",
     "country": "",
     "genre": "",
@@ -2081,7 +2171,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-04-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/d8eea386-31b1-4a5b-9ac0-0a29e74fe7a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1477.jpg",
     "actress": [
       "樞木美栞"
     ],
@@ -2090,33 +2180,33 @@ window.PAGE_DATA = [
   {
     "id": 1047,
     "IDcode": "HEYZO-1478",
-    "title": "操性感偶像丘咲愛蜜莉",
+    "title": "HEYZO-1478 性感偶像 Emiri Hillzaki-Emiri Hillzaki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "明星臉",
       "女同事",
-      "中出",
+      "顏射",
+      "美乳",
+      "淫語",
+      "明星臉",
+      "亂交 • 群P",
+      "辦公室",
       "性感",
+      "制服",
+      "黑絲",
       "美腳",
       "苗條",
-      "黑絲",
-      "顏射",
-      "69",
       "足交",
-      "辦公室",
-      "OL",
-      "亂交 • 群P",
-      "制服",
+      "中出",
+      "69",
       "美少女",
-      "美乳",
-      "淫語"
+      "OL"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-05-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20231227/797948b3-b928-4410-a5e4-baafc8a74c48.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1478.jpg",
     "actress": [
       "丘咲愛蜜莉"
     ],
@@ -2125,41 +2215,45 @@ window.PAGE_DATA = [
   {
     "id": 58047,
     "IDcode": "HEYZO-1480",
-    "title": "放課後美少女ファイル No.26～お漏らししちゃった～ - 夏乃ひまわり",
+    "title": "HEYZO-1480 放学后美女档案 No.26-我尿裤子了--Himawari Natsuno",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "白虎",
-      "玩具",
-      "中出",
-      "角色扮演",
-      "骑乘位",
       "知名女优",
-      "背后插入",
       "淫荡手淫",
+      "白虎",
+      "角色扮演",
+      "玩具",
+      "骑乘位",
+      "中出",
+      "背后插入",
       "萝莉"
     ],
     "type": "有码",
     "company": "HEYZO",
     "publish_date": "2017-05-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221008-1/c9b6104299e933308a23fb8e261ec1f0.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1480.jpg",
+    "actress": [
+      "夏乃向日葵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1480"
   },
   {
     "id": 555134,
     "IDcode": "HEYZO-1482",
-    "title": "如今OL的外遇我老板的一本我要了",
+    "title": "HEYZO-1482 当今上班族的奸情-我要老板的小弟弟！~ 田中美晴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "HEYZO",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250104-1/c647ac414152472fbc4d1b9adbeb2f49.jpg",
-    "actress": [],
+    "publish_date": "2017-05-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HEYZO-1482.jpg",
+    "actress": [
+      "田中美春"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1482"
   }
 ];

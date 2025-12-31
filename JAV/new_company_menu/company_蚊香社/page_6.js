@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/6ef736f8f1d1d6d54d12ddf2f88224e6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0592.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0592"
   },
@@ -33,7 +33,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/962ba956eadc0eb146754f0750abb15b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0593.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0593"
   },
@@ -52,7 +52,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/pb_e_259luxu-594.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0594.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0594"
   },
@@ -71,7 +71,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/53a176cbd6ac7b0445e64c33b17084b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0595.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0595"
   },
@@ -90,7 +90,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250728-1/4a34845790ded661035e6ba205b82af9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0596.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0596"
   },
@@ -109,7 +109,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/23a0d7cf65f139f3827277e9a0d9e8c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0597.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0597"
   },
@@ -128,7 +128,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/affdedd3fbbca7ff1096e33b61932f2a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0598.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0598"
   },
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/64b676fde4d4bc9d0c6ab590c0fe223e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0599.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0599"
   },
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/a7f01fdc9d5c01b1811780666a2c2069.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0600.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0600"
   },
@@ -185,7 +185,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/a09eaf7914d9518283670d0c3c98f398.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0601.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0601"
   },
@@ -204,7 +204,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/a85a3b87bb08904fb73668dc1bdb9005.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0602.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0602"
   },
@@ -223,7 +223,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230717/pb_e_259luxu-603.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0603.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0603"
   },
@@ -242,7 +242,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/7f1bd6844579a6ca8035fbeafd37c9ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0604.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0604"
   },
@@ -261,7 +261,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/b63e8cc68907efde0fa26e284c288e33.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0605.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0605"
   },
@@ -280,7 +280,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/2c395ab6a28ca8ab4cdc84a1a0c25ff1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0606.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0606"
   },
@@ -299,7 +299,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/dcdedbb2f8154629817dcbdb7f2e2706.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0607.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0607"
   },
@@ -318,7 +318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250728-1/fb0c7152f380c0f36979f1f6b9ec8d96.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0608.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0608"
   },
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/8ce2a813e8fe04d72118b0998587d009.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0609.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0609"
   },
@@ -356,7 +356,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250728-1/7cf74b99d06dd3ab881e38e41926e7e4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0610.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0610"
   },
@@ -375,7 +375,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/360819b2206c2f9400881e1c0434ccb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0611.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0611"
   },
@@ -394,7 +394,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/a64af2ba1da3d89869a244747e89a2d2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0612.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0612"
   },
@@ -413,7 +413,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/5ebeabd509a366266e9b9b2a066df874.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0613.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0613"
   },
@@ -432,7 +432,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230716/pb_e_259luxu-614.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0614.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0614"
   },
@@ -451,7 +451,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/0107d38195bc799db9be715e72b23e77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0615.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0615"
   },
@@ -470,7 +470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/974f501d668e0bdbecd34e2be006b5d2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0616.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0616"
   },
@@ -489,7 +489,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/597f02168044f38cb7fdfa7eb76905c5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0617.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0617"
   },
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/adfd7d48c6eafd813b724799568174ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0618.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0618"
   },
@@ -527,7 +527,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/e494f453dee46738acf41a86694a77f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0619.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0619"
   },
@@ -546,7 +546,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/a2a2453c44f35da3584d8ed5fba7c682.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0620.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0620"
   },
@@ -565,7 +565,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/c13a2e240df9e3633f54250415e8a188.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0621.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0621"
   },
@@ -584,7 +584,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/f2a3076f01d05bfbe30e77bd7eadc1c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0622.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0622"
   },
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/b7cb929e68f4338589d82cbec3453741.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0623.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0623"
   },
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/9544cc517f3e36768378fb4405e8913a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0624.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0624"
   },
@@ -641,7 +641,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/4656151ddab12d914f783c010e6d6cb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0625.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0625"
   },
@@ -660,7 +660,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/6c5569155b0fb7ee9ca64b16d98f4cf4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0626.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0626"
   },
@@ -679,7 +679,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250801-1/5d5f7cb9c6f67071ada7b2c139009722.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0628.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0628"
   },
@@ -698,7 +698,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/157cf652fc7ab8510fb8e1817fed60d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0629.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0629"
   },
@@ -717,7 +717,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/bb079b0d8aad2383c2417feb9c5e2880.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0630.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0630"
   },
@@ -736,7 +736,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/cf2a491a61ed692e17be669d91db4683.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0631.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0631"
   },
@@ -763,7 +763,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2017-04-05",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/21fe495977fdf3a9c49b52af2e2bbc07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0632.jpg",
     "actress": [
       "美咲结衣"
     ],
@@ -784,7 +784,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/a1da5a3b8dd0b39defab45aac1a50a1c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0633.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0633"
   },
@@ -803,7 +803,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/12d9253bb4faf141d97bc1ff321d9a4e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0634.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0634"
   },
@@ -822,7 +822,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/e971fa7928a4bda0649c18476d4d61de.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0635.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0635"
   },
@@ -841,7 +841,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/5543b79b3310f290acfe0abb25e9b76d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0636.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0636"
   },
@@ -860,7 +860,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250819-1/57943acf40beb2aad61b4c1fb5588809.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0637.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0637"
   },
@@ -879,7 +879,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/8c688d1d3ff8fdad1517e8baac945686.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0639.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0639"
   },
@@ -898,7 +898,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/1ca92eb00d361d7979cf09d391c49e60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0640.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0640"
   },
@@ -917,7 +917,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/e3e409c69ce9ef7340f9d7441194a211.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0641.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0641"
   },
@@ -936,7 +936,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/13563fa08da50f82e7e70f606bc72dd3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0642.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0642"
   },
@@ -955,7 +955,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/36a7058217263538a9761194b4d67be1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0643.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0643"
   },
@@ -974,7 +974,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/969586f5bcc21c1d01c933503088a4e6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0644.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0644"
   },
@@ -993,7 +993,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/c3a15e14c708299c5deca3e92e9f9778.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0645.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0645"
   },
@@ -1012,7 +1012,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/a1014f822d42e74abea6f7f69b2776fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0647.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0647"
   },
@@ -1031,7 +1031,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/56995e2ce6c456c655154e9ddc292ddf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0648.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0648"
   },
@@ -1050,7 +1050,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/1ddccbfab27c5293084d7d5cb6593895.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0649.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0649"
   },
@@ -1069,7 +1069,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/4b918bdc919845925562947c5ecd893c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0650.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0650"
   },
@@ -1088,7 +1088,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/7256c0357ddcc0fe17975b32010a0f1a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0652.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0652"
   },
@@ -1107,7 +1107,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/364bf57dc942b6e1f7876b1d2be99a72.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0653.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0653"
   },
@@ -1126,7 +1126,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/8b425bc16dd656aec4db32b28573c5ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0654.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0654"
   },
@@ -1145,7 +1145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250803-1/e4810419434dc7f1d81375d3ee02b300.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0655.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0655"
   },
@@ -1164,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/987c81fcbdc7fbb680c2b56d8062b1eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0656.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0656"
   },
@@ -1183,7 +1183,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/23ba2aedfc21c141c0d580fd58c35f75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0657.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0657"
   },
@@ -1202,7 +1202,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/45d16d23f07f5ebc620090c795884584.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0658.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0658"
   },
@@ -1221,7 +1221,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/6c91a6593ee5fb225e61c0157befe834.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0660.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0660"
   },
@@ -1240,7 +1240,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/06071bd5cf873cb14520566c370fd528.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0661.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0661"
   },
@@ -1259,7 +1259,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250802-1/06c0b3eb988b37397b8afa6842bd4622.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0662.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0662"
   },
@@ -1278,7 +1278,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/e48ebaf8d0f5158e3e4d371d9771d606.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0663.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0663"
   },
@@ -1297,7 +1297,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/abf5edcb8e65939bd1c9bab09754d22d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0664.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0664"
   },
@@ -1316,7 +1316,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/c2a062d416d44628727f7b948418a720.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0665.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0665"
   },
@@ -1335,7 +1335,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/c34ecfee6aec41816a689b5d5f4dfeb8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0666.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0666"
   },
@@ -1362,7 +1362,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "2017-05-06",
-    "cover_url": "http://15.155250922.com/upload/vod/20230727/pb_e_259luxu-667.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0667.jpg",
     "actress": [
       "七海ゆあ"
     ],
@@ -1383,7 +1383,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/9a4e4361a23ae050f8d03f20cbbcee8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0668.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0668"
   },
@@ -1402,7 +1402,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/e59a2e1320d22ce54c4ad3519d26bead.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0669.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0669"
   },
@@ -1421,7 +1421,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/4144e5a5e7ff7adde41a33d96d559103.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0670.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0670"
   },
@@ -1440,7 +1440,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/8679cb6765f676962ba06b59a1c6b6c6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0671.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0671"
   },
@@ -1459,7 +1459,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/e5c613838312af300851c2c1e2149513.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0672.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0672"
   },
@@ -1478,7 +1478,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/8d23ed47e0ab9da7ae769d5b3710f13d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0673.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0673"
   },
@@ -1497,7 +1497,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/22a672d60262e9e38c3baa72e3247155.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0674.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0674"
   },
@@ -1516,7 +1516,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/a418c94c161680a844587b3343530bd5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0675.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0675"
   },
@@ -1535,7 +1535,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/e472032f195dc69d69ae2cd56669dc00.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0676.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0676"
   },
@@ -1554,7 +1554,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/d6e036c335566f95c9c0c5ce3a2d069b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0679.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0679"
   },
@@ -1573,7 +1573,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/0d5580ae5cafed736f0a26260b051083.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0680.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0680"
   },
@@ -1592,7 +1592,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/d72d800fdbbc6d0a348565f1a07f7112.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0681.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0681"
   },
@@ -1611,7 +1611,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/3ddee3c174e26494e7f7c6d7017b9e06.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0682.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0682"
   },
@@ -1630,7 +1630,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/80c315fd1fe5023704574b82869db9ea.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0683.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0683"
   },
@@ -1649,7 +1649,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/ca08ff640a4de4df311f65d734be7ac8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0684.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0684"
   },
@@ -1668,7 +1668,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/491eb70fbbe4aaaa790c5e8ce60959ba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0685.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0685"
   },
@@ -1687,7 +1687,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/40fc12dea674ccaa28a192871f3da785.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0686.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0686"
   },
@@ -1706,7 +1706,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/35f3aeb1b6dcef0220e7612e5f24fa91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0687.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0687"
   },
@@ -1725,7 +1725,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/68da59469742507541b4602027c9e144.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0688.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0688"
   },
@@ -1744,7 +1744,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/75e245db4e9e0769d3ff5ad968d8d713.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0689.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0689"
   },
@@ -1763,7 +1763,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/67bd15490377d6de008573936015744d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0690.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0690"
   },
@@ -1782,7 +1782,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/fc812da0e93ec76cad82259c52ca04ef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0692.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0692"
   },
@@ -1801,7 +1801,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/d5d5de767c5b03276454f8481f8c5907.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0693.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0693"
   },
@@ -1820,7 +1820,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/68664a5e9326229036eb81e2db14c121.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0694.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0694"
   },
@@ -1839,7 +1839,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/fc2876fb66883824c9283df3e3d0d844.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0695.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0695"
   },
@@ -1858,7 +1858,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/521e1a13372519550c1035f43e8bb138.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0696.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0696"
   },
@@ -1877,7 +1877,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/db1219579f6b8cf83bce3ff2e9c93578.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0697.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0697"
   },
@@ -1896,7 +1896,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/5a14481dcf0d71821f2e475f5501d7ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0698.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0698"
   },
@@ -1915,7 +1915,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/c56e9835c1ab633c342385d649ba2d3b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/259LUXU-0699.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0699"
   }

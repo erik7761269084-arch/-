@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250312/dhhjSDOb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-285.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-285"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250312/63LPg8cV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-286.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-286"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250312/2o97SMSG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-288.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-288"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250312/Qs0rTWJ6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-292.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-292"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250312/HHinDXxK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-298.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-298"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250313/zDU5mFHR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-313.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-313"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250313/oWzO8Qcv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-320.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-320"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241108/WDfZnT7M/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-353.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-353"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241108/QGcamo1H/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-354.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-354"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241109/efPlHsSn/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-355.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-355"
   },
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241109/OTb3W3y9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-370.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-370"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250612/ItZCLuwq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-414.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-414"
   },
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250612/V3pfCV37/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-415.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-415"
   },
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250612/zMUDZab6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-420.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-420"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/c284ea57029c8e5ef35400b31978bdf3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-425.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-425"
   },
@@ -267,7 +267,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/51d5e57d338a2d40b0ebc13b5081047b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AGEMIX-426.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-426"
   },
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "2022-09-05",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1220f76b2252719c00f5d1b8bce6e15d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-015.jpg",
     "actress": [
       "工藤拉拉",
       "斎藤まりな"
@@ -323,7 +323,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0280e006144b1882693420fc02fc0e47.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-016"
   },
@@ -338,7 +338,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230706/12imo017pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-017"
   },
@@ -353,7 +353,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230717/12imo018pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-018"
   },
@@ -368,7 +368,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://pic53.anzise.com/pic/20230511/0c941eae8f716aa22f46845cf7420bf1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-020"
   },
@@ -383,7 +383,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/9tPHMJwK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-021"
   },
@@ -398,7 +398,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231207/DE5lXP30/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-022"
   },
@@ -415,7 +415,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc12c1c6d1004ed41deb2f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-023"
   },
@@ -430,7 +430,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/q0ziJyDk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-024"
   },
@@ -445,7 +445,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240709/EjIJijcI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-025"
   },
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf01d2958ac04f27fb6b4a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-026"
   },
@@ -479,7 +479,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca7acf944bbe4ef0fc7957/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-027"
   },
@@ -516,7 +516,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc23b42ee23a639b1c582c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-028.jpg",
     "actress": [
       "永野鈴"
     ],
@@ -535,7 +535,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc10cfc6d1004ed41dd7b2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-029"
   },
@@ -583,7 +583,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b960fece3e366423cc2d78/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-030.jpg",
     "actress": [
       "白石桃",
       "星七奈奈美"
@@ -613,7 +613,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886574c92318f97d024cb3/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-031.jpg",
     "actress": [
       "天馬唯",
       "花芽有朱"
@@ -652,9 +652,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b5ce298bc99dfddd8ab46/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-032.jpg",
     "actress": [
-      "天月梓",
+      "天月杏",
       "木村好乃美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-032"
@@ -735,7 +735,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540982982_83648_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/IMO-033.jpg",
     "actress": [
       "天馬唯",
       "姫咲華",
@@ -822,7 +822,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcff91ce5a404e9bc48d40/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIMO-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIMO-001"
   },
@@ -837,7 +837,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcffbace5a404e9bc48d7f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIMO-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIMO-002"
   },
@@ -854,7 +854,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69091d90e264e6282dfe69b6/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-048"
   },
@@ -889,7 +889,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231203/12lol091pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-091.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-091"
   },
@@ -947,7 +947,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "2018-10-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12lol171/12lol171pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-171.jpg",
     "actress": [
       "星奈爱"
     ],
@@ -966,7 +966,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/cfcd0c2bffc17edfae52ea9f26f0bc2f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-173.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-173"
   },
@@ -1008,7 +1008,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "2019-02-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12lol177/12lol177pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-177.jpg",
     "actress": [
       "天馬唯"
     ],
@@ -1053,7 +1053,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/d4ef7d8ea1c31bec515f4f3a3a763e3b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-179.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-179"
   },
@@ -1098,7 +1098,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/aecbec137cf003fc58f95257a32922b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-188.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-188"
   },
@@ -1146,7 +1146,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240407/12lol200pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-200.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-200"
   },
@@ -1163,7 +1163,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240325/12lol201pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-201"
   },
@@ -1180,7 +1180,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/be486f60450c598216e9a4ae9b470131.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-204.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-204"
   },
@@ -1197,7 +1197,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3c30df34aafda88ddbfda31765047f75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-211.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-211"
   },
@@ -1238,7 +1238,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230706/12lol214pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-214.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-214"
   },
@@ -1256,7 +1256,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907a73ee264e6282dfccb3a/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-217.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-217"
   },
@@ -1273,7 +1273,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69128a9872c0032a43fe75cf/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-220.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-220"
   },
@@ -1290,7 +1290,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240103/e1hA43sA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-222.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-222"
   },
@@ -1307,7 +1307,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906748c71eb543bb0dfa3c3/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-224.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-224"
   },
@@ -1325,7 +1325,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240307/xQoHcjp9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-226.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-226"
   },
@@ -1373,7 +1373,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e16fde79f1ac4ec48eadb8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-227.jpg",
     "actress": [
       "由良佳奈"
     ],
@@ -1404,7 +1404,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68def8f1ce5a404e9bc70136/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-229.jpg",
     "actress": [
       "星七奈奈美"
     ],
@@ -1423,7 +1423,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05bd0eb67774efbacd4fd/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-232.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-232"
   },
@@ -1440,7 +1440,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241004/tCtBhxVw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-233.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-233"
   },
@@ -1457,7 +1457,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/667ec2cd06e16be3f9a3e44bbfdacab1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-234.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-234"
   },
@@ -1474,7 +1474,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/d985eecdcfef367e814b5fc779306cbb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-235.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-235"
   },
@@ -1515,7 +1515,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241105/b20e13ef-47f3-482b-aabb-7c3f8e645792.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-236.jpg",
     "actress": [
       "姫野らん"
     ],
@@ -1534,7 +1534,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b439675fdaf263a25cc894/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-237.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-237"
   },
@@ -1551,7 +1551,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d433b8dbf24d4ed301185b/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-238.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-238"
   },
@@ -1594,7 +1594,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cc5a5d57b64bfd0f75a6/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-239.jpg",
     "actress": [
       "小那海綾",
       "春陽萌花",
@@ -1640,7 +1640,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c91f5d57b64bfd0eea33/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-240.jpg",
     "actress": [
       "皆瀨明里"
     ],
@@ -1691,7 +1691,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a718a98cce1a927afee820/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-242.jpg",
     "actress": [
       "希咲那奈",
       "月本海咲",
@@ -1712,7 +1712,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/ffdb8b16d87429d600867542b90d5ea4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-243.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-243"
   },
@@ -1729,7 +1729,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/505245669a0857ef667071441d921bfb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LOL-244.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-244"
   },
@@ -1793,7 +1793,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240411/KLrsSu7e/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIX-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIX-036"
   },
@@ -1808,7 +1808,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defa2879f1ac4ec48a070c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIX-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIX-037"
   },
@@ -1836,7 +1836,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4b71b5f03a092cf66f428/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIX-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIX-038"
   },
@@ -1851,7 +1851,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20250627-1/19ae913b701a97970b9844ac961decca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIX-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIX-039"
   },
@@ -1866,7 +1866,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230523-1/df012ea14d470df47b6594c2c1196c91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-007"
   },
@@ -1896,7 +1896,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/f107d9fb70861336095b7371e0f5ebee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-010"
   },
@@ -1917,7 +1917,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d0b6290e9c18468f438a51c3702431bd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-012.jpg",
     "actress": [
       "円城ひとみ",
       "如月丽华",
@@ -1955,7 +1955,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/61c29e52d7a16fd83433323d90b0e602.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-018"
   },
@@ -1970,7 +1970,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/08-05/06/jxffvt0fvl00603jxffvt0fvl03911720.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-026"
   },
@@ -1985,7 +1985,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/7daacf8d85545d9d50e73e8dc94c5aa2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMIX-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-027"
   },
@@ -2000,42 +2000,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240330-1/4df61b9f50448d6d7df86496d7f95512.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCR-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-076"
-  },
-  {
-    "id": 590203,
-    "IDcode": "SCR-089",
-    "title": "[在姐姐的乳霜掺入媚药让她发情后夜袭的弟弟投稿映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://la.lashayu.com/upload/vod/20220503-1/3c14af01770ae401869e7d6857638fc6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-089"
-  },
-  {
-    "id": 522434,
-    "IDcode": "SCR-094",
-    "title": "12scr00094 入浴中の姊を袭い风吕场でレ●プする弟の投稿映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240603-1/7ba3320b2b0d6d02b2010ed9040714f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-094"
   },
   {
     "id": 522407,
@@ -2048,7 +2015,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240304-1/b72f701e710b4dde0457d0b9b6a4309f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCR-119.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-119"
   },
@@ -2063,8 +2030,112 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c8fd77d6fbef4e90adf1b8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCR-143.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-143"
+  },
+  {
+    "id": 2934,
+    "IDcode": "SCR-338",
+    "title": "職場では因縁つけられ身体を強要されマチアプ（P）では薬を盛られタダマン女 こんな私ですがフェラチオは得意です。素人OLリエ23歳 宮城りえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "清楚系",
+      "鬼畜片",
+      "蠻橫嬌羞",
+      "主觀視角",
+      "美腳",
+      "脅迫做愛",
+      "小隻馬",
+      "口爆",
+      "靴子",
+      "單體作品",
+      "癡女",
+      "職場",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "劇情",
+      "後入",
+      "女同事",
+      "M男・M女",
+      "高顏值",
+      "飯店",
+      "苗條",
+      "素人作品",
+      "變態",
+      "阪道系",
+      "媚藥・迷藥",
+      "傲嬌",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "素人",
+      "口交",
+      "迷姦",
+      "潮吹",
+      "約炮",
+      "清純",
+      "自慰",
+      "女上位",
+      "OL",
+      "大奶头",
+      "性感",
+      "寢取"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCR-338.jpg",
+    "actress": [
+      "宮城理惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-338"
+  },
+  {
+    "id": 2278,
+    "IDcode": "SCR-340",
+    "title": "妹の友人が可愛すぎて わいせつ連れ込み中出しレ●プ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "舔陰",
+      "中出",
+      "素人作品",
+      "女上位",
+      "美少女電影",
+      "二次元",
+      "女學生",
+      "手指插入",
+      "騎乗位",
+      "後入",
+      "JK校服",
+      "劇情",
+      "形象俱樂部",
+      "美人"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "花音うらら",
+      "伊织雏乃",
+      "水本葉",
+      "蓮見天"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-340"
   }
 ];

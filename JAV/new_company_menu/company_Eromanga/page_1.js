@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221013/2Dz0YKGR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-034"
   },
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221013/dRhV3FfH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-035"
   },
@@ -445,7 +445,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/bd5370a8918187596fea48a95769c4d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-112.jpg",
     "actress": [
       "森本つぐみ"
     ],
@@ -470,7 +470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/549cded1744df8f5f9b360a261658f54.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-113.jpg",
     "actress": [
       "河北春菜"
     ],
@@ -498,7 +498,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2012637dead1efce6fdfc7ef0f1c33b1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-115.jpg",
     "actress": [
       "爱瀬るか"
     ],
@@ -523,7 +523,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/2f0cea1003e0276834068941cf2e84f9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-116.jpg",
     "actress": [
       "渚光希"
     ],
@@ -548,7 +548,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/197332dffdbebe62dda80ad656e49342.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-117.jpg",
     "actress": [
       "石原理央"
     ],
@@ -573,7 +573,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/73026330f99e5d23c8626966cc890434.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-118.jpg",
     "actress": [
       "御坂莉亚"
     ],
@@ -627,7 +627,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "2020-01-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/d927f24ae73cf979aa14d0100d89d38c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-120.jpg",
     "actress": [
       "夏川海"
     ],
@@ -718,7 +718,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/5b6ce8dca6ca1f85d8f549c5b4c7792a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-125.jpg",
     "actress": [
       "冬爱琴音"
     ],
@@ -743,7 +743,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dd62c8dc7aaaed82fd944ebb7e700309.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-126.jpg",
     "actress": [
       "悠月リアナ"
     ],
@@ -768,7 +768,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/00653c6d1a669d040beec9c213d1bb5a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-127.jpg",
     "actress": [
       "加贺美まり"
     ],
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c99088ac319bbb0b4833c0df79af651b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-128.jpg",
     "actress": [
       "岬梓沙"
     ],
@@ -846,7 +846,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200821-1/691e60dc235e72e9616334fc860fa14f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-134.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-134"
   },
@@ -863,7 +863,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200822-1/18d4734a74e9d3e0f65eaa718735e9b0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-141.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-141"
   },
@@ -880,7 +880,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/cb409028c9ec0d28a5c8289cb985d025.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-154.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-154"
   },
@@ -897,7 +897,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/b7ca22487c7712363b109f979bd4de50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-155.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-155"
   },
@@ -914,7 +914,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/4f360d9d304a6892d69d547426beaa54.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-156.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-156"
   },
@@ -931,7 +931,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/4047f9254b5cecc1cf387737ff31fc07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-158.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-158"
   },
@@ -949,7 +949,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/cdcc75cc2f5b7d539a1110d6c78b468a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-162.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-162"
   },
@@ -1006,7 +1006,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93721d39ecbdf9216b58b1cb1eb9e794.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-207.jpg",
     "actress": [
       "東條夏"
     ],
@@ -1031,7 +1031,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/56db328f182b81ba2414880bb395f180.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-208.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-208"
   },
@@ -1048,7 +1048,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/93fe261c9a200b8af4b6a1f0a775b219.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-287.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-287"
   },
@@ -1065,7 +1065,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/005a747701b0b4cc49b4713a916434e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-288.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-288"
   },
@@ -1082,7 +1082,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5dc587c0b54f14d3c6efc065abec91c9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-289.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-289"
   },
@@ -1099,7 +1099,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/81736d46a0517657ba84b58e9d2b02bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-305.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-305"
   },
@@ -1116,7 +1116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a6c16ed978745a3ab4a339fbe65cd232.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-306.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-306"
   },
@@ -1133,7 +1133,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/91a5d18f81d1112ebf01f9ce03b29d0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-307.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-307"
   },
@@ -1150,7 +1150,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e83d5b4c389d6d9527a481d8d02f28b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-347.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-347"
   },
@@ -1175,7 +1175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8740a2111fe8516c113bab4284bd417e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-348.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-348"
   },
@@ -1200,7 +1200,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/971aa002cc54454b182eeb36920f614e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-349.jpg",
     "actress": [
       "天然美月"
     ],
@@ -1219,7 +1219,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00395pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-395.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-395"
   },
@@ -1236,7 +1236,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00396pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-396.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-396"
   },
@@ -1253,7 +1253,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00397pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-397.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-397"
   },
@@ -1270,7 +1270,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00398pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-398.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-398"
   },
@@ -1321,7 +1321,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00401pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-401.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-401"
   },
@@ -1356,7 +1356,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00403pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-403.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-403"
   },
@@ -1374,7 +1374,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00404pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-404.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-404"
   },
@@ -1392,7 +1392,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00405pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-405.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-405"
   },
@@ -1410,7 +1410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00406pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-406.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-406"
   },
@@ -1427,7 +1427,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/P6Fllapo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-457.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-457"
   },
@@ -1444,7 +1444,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/CMNqlvKk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-458.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-458"
   },
@@ -1461,7 +1461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/SbwBOWn4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-459.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-459"
   },
@@ -1478,7 +1478,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230221/o21phtYm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-460.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-460"
   },
@@ -1496,7 +1496,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/k39Nh6xY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-461.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-461"
   },
@@ -1514,7 +1514,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/6qhN5UP9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-462.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-462"
   },
@@ -1532,7 +1532,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230220/OfkDoXyE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-463.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-463"
   },
@@ -1549,7 +1549,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/nXiYLDfy.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-468.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-468"
   },
@@ -1566,7 +1566,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00469pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-469.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-469"
   },
@@ -1583,7 +1583,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00470pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-470.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-470"
   },
@@ -1600,7 +1600,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00475pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-475.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-475"
   },
@@ -1617,7 +1617,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00477pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-477.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-477"
   },
@@ -1634,7 +1634,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/f69TfTZ8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-491.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-491"
   },
@@ -1651,7 +1651,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/SnwkYk6Z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-492.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-492"
   },
@@ -1668,7 +1668,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230808/yHVkUWgb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-493.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-493"
   },
@@ -1685,7 +1685,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/VcjO581t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-494.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-494"
   },
@@ -1702,7 +1702,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/SBYqoedB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-495.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-495"
   },
@@ -1719,7 +1719,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230907/0fTxGhGH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-496.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-496"
   },
@@ -1736,7 +1736,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/JbzdNhCH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-506.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-506"
   },
@@ -1753,7 +1753,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/pV0zc9io/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-507.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-507"
   },
@@ -1770,7 +1770,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/993e5fcaccec08110b20a296d4a59ca6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-508.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-508"
   },
@@ -1787,7 +1787,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00509pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-509.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-509"
   },
@@ -1804,7 +1804,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00510pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-510.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-510"
   },
@@ -1821,7 +1821,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed33f352c12b4e68492f4b/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-522.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-522"
   },
@@ -1838,7 +1838,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed32fc52c12b4e68492f48/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-523.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-523"
   },
@@ -1855,7 +1855,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed337852c12b4e68492f4a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-524.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-524"
   },
@@ -1872,7 +1872,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8dec87f3b7c92907398d4/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-551.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-551"
   },
@@ -1889,7 +1889,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8de627f3b7c92907398b7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-552.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-552"
   },
@@ -1906,7 +1906,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa4c655f03a092cf6fb7ea/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-553.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-553"
   },
@@ -1923,7 +1923,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250919-1/ccb651acd6b97ca18e13498dbb1c51b9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-561.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-561"
   },
@@ -1940,7 +1940,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e777f98bc99dfdd032fe1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-562.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-562"
   },
@@ -1957,7 +1957,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e78c998bc99dfdd033050/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-563.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-563"
   }

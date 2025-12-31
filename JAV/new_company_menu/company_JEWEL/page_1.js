@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/isKu9wWy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JEWE-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JEWE-008"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JEWEL",
     "publish_date": "2025-02-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20250223/eede9073-cb62-434e-841f-55751297092c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JEWE-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JEWE-011"
   },
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/7cc83ecf4e677a247aa81b0cd4ba4d7d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MSE-001.jpg",
     "actress": [
       "守屋いずみ"
     ],
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629012656638638_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MSE-002.jpg",
     "actress": [
       "守屋いずみ"
     ],
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519091348534534_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/WCX-011.jpg",
     "actress": [
       "羽田真子",
       "梶原聡子"

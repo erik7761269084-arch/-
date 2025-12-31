@@ -694,21 +694,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2036932"
   },
   {
-    "id": 520046,
-    "IDcode": "FC2-PPV-2039283",
-    "title": "仅限 3 天 2980-1980",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/476d981be20e4124322aeea5c8ba807f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2039283"
-  },
-  {
     "id": 519733,
     "IDcode": "FC2-PPV-2051731",
     "title": "[个人拍摄] 和那个J罩杯神风的孩子出去散步约会~试射未经许可的连续2次阴道射精",
@@ -1571,5 +1556,20 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2300249"
+  },
+  {
+    "id": 302622,
+    "IDcode": "FC2-PPV-2301355",
+    "title": "淫荡的年轻妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/09/715f5d9b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2301355"
   }
 ];

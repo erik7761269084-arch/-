@@ -10,9 +10,34 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/29/92052_cover_2025-09-29_154022.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888MMUS-A078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888MMUS-A078"
+  },
+  {
+    "id": 566788,
+    "IDcode": "AVOP-465",
+    "title": "AVOP-465 大屁股、大骨架、丰满 ♪ Hana Haruna",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "臀部",
+      "合集",
+      "精选",
+      "熟女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-465.jpg",
+    "actress": [
+      "春菜华"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-465"
   },
   {
     "id": 348023,
@@ -55,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221012/RR2FOVyJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-038"
   },
@@ -85,7 +110,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/2dca4dd17de6b4e35f22e432921b024a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-055"
   },
@@ -102,7 +127,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/32936_cover_2025-09-21_133610.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-056"
   },
@@ -135,7 +160,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/eeefcdc4266df684956922bf707cee8a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-059.jpg",
     "actress": [
       "飞鸟铃"
     ],
@@ -152,7 +177,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/62797_cover_2025-07-06_031249.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-060"
   },
@@ -167,7 +192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/11/56756_cover_2025-06-11_095454.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-065"
   },
@@ -182,7 +207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/79952_cover_2025-06-10_092422.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-066"
   },
@@ -197,7 +222,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/1dv5yzrm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-067"
   },
@@ -216,7 +241,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2020-01-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/5af95234e45763749d5f7fc5a5cd36b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-069.jpg",
     "actress": [
       "小早川怜子"
     ],
@@ -236,7 +261,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/143327c50d5ac805b1c33bbc55418e5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-070.jpg",
     "actress": [
       "高坂あいり"
     ],
@@ -256,7 +281,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2020-03-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/6c0200f413fe140019f6a78c480c9706.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-073.jpg",
     "actress": [
       "篠崎里帆"
     ],
@@ -276,7 +301,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2020-04-01",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/e8cd7655e4a1313aff190307a040eaa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-074.jpg",
     "actress": [
       "新井爱丽"
     ],
@@ -308,7 +333,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e03d37fc8b6779a27d4374acd2691c3c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-092"
   },
@@ -323,7 +348,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230531/b29eac1b9cd8ab8311a8ab0629a84ff1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-097"
   },
@@ -338,7 +363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8c9a75eb5d18245504e427336316889c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-109.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-109"
   },
@@ -353,7 +378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6702109a1d4179b224efb12af1f08c09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-110.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-110"
   },
@@ -370,7 +395,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/dkPv82cY.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-111.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-111"
   },
@@ -385,7 +410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8aa71fe1f93f37f5acb118c77e471730.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-114.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-114"
   },
@@ -400,7 +425,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250919/qo0E39fn/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-115.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-115"
   },
@@ -417,7 +442,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/753e516ded324561a84e8c662383bb6f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-116.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-116"
   },
@@ -437,7 +462,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/b4b610f2f41f4d4042016300e60cb88b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-117.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-117"
   },
@@ -457,7 +482,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/fd349a095669e6bae7eddff9ad1d96aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-118.jpg",
     "actress": [
       "新村晶"
     ],
@@ -474,7 +499,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8ab0bede4a9eee2a45a21276ece06e08.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-119.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-119"
   },
@@ -489,7 +514,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230216/T2wfYhCQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-121.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-121"
   },
@@ -504,7 +529,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230528/krr9WbHh/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-126.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-126"
   },
@@ -519,7 +544,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/EPb10pvt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-127.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-127"
   },
@@ -534,7 +559,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/5160ab529085fa16dc094f6ec4e875e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-128.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-128"
   },
@@ -549,7 +574,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/zQ1peSbh/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-129.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-129"
   },
@@ -564,7 +589,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/c99845fc534a67855b299aa9b8b99223.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-130.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-130"
   },
@@ -579,7 +604,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/593b24e187220db71c3fcc0dfb6de0ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-131.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-131"
   },
@@ -594,7 +619,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230827/9se6MZFC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-132.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-132"
   },
@@ -618,7 +643,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903011845408408.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-133.jpg",
     "actress": [
       "渋谷華"
     ],
@@ -635,7 +660,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231003/KbG1wsXe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-134.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-134"
   },
@@ -650,7 +675,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/yEbm91Ip/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-135.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-135"
   },
@@ -665,7 +690,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/135e9d32bc51b1d2a628447bf8c040ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-136"
   },
@@ -680,7 +705,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231201/cXeVXNfr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-137.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-137"
   },
@@ -702,7 +727,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/bd6e6ae80b181affb4efd5a3e10c5449.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-138.jpg",
     "actress": [
       "有栖舞衣"
     ],
@@ -719,7 +744,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20231219/tOCWfulJ/1.jpg?t=1702926537",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-139"
   },
@@ -734,7 +759,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240102/ddlcUgDf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-140.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-140"
   },
@@ -749,7 +774,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240306/DIlPwegT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-141.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-141"
   },
@@ -789,7 +814,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-04-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401094151218218.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-142.jpg",
     "actress": [
       "真木今日子"
     ],
@@ -838,7 +863,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-05-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240506/2459c13f-9b8e-422b-a747-380c15e6af33.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-143.jpg",
     "actress": [
       "友田彩也香"
     ],
@@ -855,7 +880,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-06-29",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/bb13cc7d11cd21f9c4a7c7e08195cd16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-144.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-144"
   },
@@ -894,7 +919,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240804/63137c18-24fd-490d-a31c-9a5111b9dbaf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-145.jpg",
     "actress": [
       "小那海綾",
       "佐佐波绫"
@@ -936,7 +961,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240901/794e7f5c-53d8-4796-b114-c26b2d108565.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-146.jpg",
     "actress": [
       "水川潤"
     ],
@@ -971,7 +996,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/4b7d5813cfb375b126921793a3d2d77a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-147.jpg",
     "actress": [
       "月乃露娜"
     ],
@@ -1016,7 +1041,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/a357d1f8/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-148.jpg",
     "actress": [
       "森澤佳奈"
     ],
@@ -1033,7 +1058,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/da3e7e7a/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-149"
   },
@@ -1075,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787af335d57b64bfdfbb3ce/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-150.jpg",
     "actress": [
       "逢月日葵"
     ],
@@ -1103,7 +1128,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250202/c5e298e3-0edf-42f9-890a-46539ecb6de0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-151.jpg",
     "actress": [
       "藤沢麗央"
     ],
@@ -1120,7 +1145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250409/UDkgosye/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-152"
   },
@@ -1139,7 +1164,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/e8bcbaed124cdc540029b8eb2a3185b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-153.jpg",
     "actress": [
       "优梨まいな"
     ],
@@ -1181,7 +1206,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/12/682201a3197cffa350001fcd/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-154.jpg",
     "actress": [
       "玉城夏帆"
     ],
@@ -1236,7 +1261,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/03/040bb49c7229eb394c0adb3423b01118.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-155.jpg",
     "actress": [
       "乙愛麗絲"
     ],
@@ -1291,7 +1316,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/37e72455/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-156.jpg",
     "actress": [
       "十束流羽"
     ],
@@ -1308,7 +1333,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/28/76c2fea1/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMKZ-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-157"
   },
@@ -1338,7 +1363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/09/6f7b317b112e4aa6f84b218fe904a05d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-010"
   },
@@ -1353,7 +1378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221012/UMcIag8U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-017"
   },
@@ -1368,7 +1393,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://pic51.anzise.com/pic/20230330/4ca973a4e76ff16379495ae9c114595a/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-022"
   },
@@ -1383,7 +1408,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://pic29.anzise.com/pic/20220529/bab65bcd25884a155c28877270e2eeee/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-027"
   },
@@ -1403,7 +1428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/732ae67e95817b4dd56a651ebbfbba93.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-029.jpg",
     "actress": [
       "八寻麻衣"
     ],
@@ -1420,7 +1445,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/20896_cover_2025-09-21_130107.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-032"
   },
@@ -1440,7 +1465,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/0a079062ed12dab272cfabde620e8152.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-034.jpg",
     "actress": [
       "渚光希"
     ],
@@ -1461,7 +1486,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4c4fab8f52c16649ab00be307b982ec2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-035.jpg",
     "actress": [
       "有村希"
     ],
@@ -1480,7 +1505,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/e9698624e4bcd500b905b1f783dd5369.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-036"
   },
@@ -1495,7 +1520,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67874b815d57b64bfddaa841/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-037"
   },
@@ -1514,7 +1539,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8c6b521546ed262b9b65774756274b18.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-038.jpg",
     "actress": [
       "深田詠美"
     ],
@@ -1536,7 +1561,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/49dd1d300b447adfaae597bc6fae5bb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-039.jpg",
     "actress": [
       "黑咲滴"
     ],
@@ -1558,7 +1583,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9470ec426a6c1068d69735e0d0eb01e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-040.jpg",
     "actress": [
       "小森美久露"
     ],
@@ -1575,7 +1600,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/17/7655d55e489e944c3b07168dfe9a5aa3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-041"
   },
@@ -1590,7 +1615,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/e5b47672f4840176550bceac45f0cef9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-042"
   },
@@ -1605,7 +1630,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-07-17",
-    "cover_url": "https://tutu1.space/images/2020/08/10/b81896be958a2c5f3c48047c4686c6aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-043"
   },
@@ -1624,7 +1649,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ba456a9b37cb7e8614c23a5b138c2459.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-046.jpg",
     "actress": [
       "樋口三葉"
     ],
@@ -1641,7 +1666,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/99ec8b87e34577ac3c0b3c1587aabf37.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-048"
   },
@@ -1656,7 +1681,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/7b5527e9499103eb17b2d26a2a8162e9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-049"
   },
@@ -1675,7 +1700,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/17ed0edfeada57fb7444bc1a99cae689.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-050.jpg",
     "actress": [
       "松本一香",
       "渚光希",
@@ -1709,7 +1734,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/1029887fa7e9c5f4b91de0ae3c6334b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-053"
   },
@@ -1724,7 +1749,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/fe99daecbf27797dd367aca41610f764.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-054"
   },
@@ -1741,7 +1766,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e88208631cc64eb5a4097c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-055"
   },
@@ -1761,7 +1786,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/c8b4b1db97e3e388303676bdfe0395a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-057.jpg",
     "actress": [
       "沙月惠奈"
     ],
@@ -1780,7 +1805,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68419e9a0b69f1d81668ffe1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-059"
   },
@@ -1795,7 +1820,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/ae55f5aaeb4fb232e934ec030071b544.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-061"
   },
@@ -1815,7 +1840,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e3c02dfc6e6b4909289348a1f43c5456.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-062"
   },
@@ -1830,7 +1855,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ec4472642818976ef90408913533e091.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-063"
   },
@@ -1845,7 +1870,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/a1f84de6e171301247f916cd736a7133.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-064"
   },
@@ -1860,7 +1885,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c4a96f1a4c2beb0932e8da3a1714a41f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-065"
   },
@@ -1875,7 +1900,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/62889f89d6529989aa21362ce9f0ba16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-066"
   },
@@ -1890,7 +1915,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/d872355501eb2b5073114a1f100c3b86.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-067"
   },
@@ -1910,7 +1935,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/4b0f76f751b7e6199ef68da2fdc9b263.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-068"
   },
@@ -1930,7 +1955,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/d8b0eca5bf445219d44df7388b8d4217.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-069"
   },
@@ -1945,23 +1970,8 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MARRION",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/30ccee071a2bd8cd2a53f9f985dd6253.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MMUS-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-070"
-  },
-  {
-    "id": 467085,
-    "IDcode": "MMUS-071",
-    "title": "小恶魔光唯の挑発テクニック 美少女を堕とす誘惑授業",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "MARRION",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/87084f2b580951513179622b91a178eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-071"
   }
 ];

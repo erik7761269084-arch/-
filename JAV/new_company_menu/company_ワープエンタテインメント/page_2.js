@@ -1,0 +1,3022 @@
+window.PAGE_DATA = [
+  {
+    "id": 560320,
+    "IDcode": "DFE-085",
+    "title": "DFE-085 FANZA 独家 串烧丰山卷与内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶女",
+      "电动按摩器",
+      "单人作品",
+      "拘束",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-09-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-085.jpg",
+    "actress": [
+      "遠山まき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-085"
+  },
+  {
+    "id": 544542,
+    "IDcode": "DFE-086",
+    "title": "DFE-086  FANZA独家 我的女儿喂我。 包括 Misakine 内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "潮吹",
+      "灯笼裤",
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "女学生",
+      "辣妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-086.jpg",
+    "actress": [
+      "美咲音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-086"
+  },
+  {
+    "id": 11677,
+    "IDcode": "DFE-087",
+    "title": "DFE-087 FANZA 独家 我希望深喉启动。 包括 Mikana Bikinori 内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "暗黑系",
+      "局部特寫",
+      "性感",
+      "重口味",
+      "亂交 • 群P",
+      "辣妹/GAL系",
+      "口爆",
+      "深喉",
+      "下流",
+      "胸部",
+      "3P",
+      "魔鬼系",
+      "4P",
+      "残酷表情",
+      "单人作品",
+      "姐姐",
+      "女優",
+      "癡女",
+      "美乳",
+      "淫亂",
+      "無做愛場面",
+      "美少女電影",
+      "口交",
+      "真實拍攝",
+      "殘忍畫面",
+      "形象俱樂部",
+      "3P・4P",
+      "大鸡巴",
+      "吞精",
+      "企畫",
+      "凌辱",
+      "恶女",
+      "顏射",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-087.jpg",
+    "actress": [
+      "花衣つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-087"
+  },
+  {
+    "id": 11030,
+    "IDcode": "DFE-088",
+    "title": "DFE-088 性爆发虾翘acme沙龙，Yuna Mitake (BOD)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "性感",
+      "巨尻",
+      "熟女",
+      "辣妹/GAL系",
+      "按摩・美容店",
+      "脚控・戀足癖",
+      "女上位",
+      "3P",
+      "絕頂高潮",
+      "肌肉",
+      "膚黑",
+      "4P",
+      "野性",
+      "胸控・戀乳癖",
+      "单人作品",
+      "美人妻",
+      "人妻",
+      "美乳",
+      "乳交",
+      "中出",
+      "口交",
+      "劇情",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "按摩",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "蕩婦",
+      "後入",
+      "美容店",
+      "形象俱樂部",
+      "抹油",
+      "感官作品",
+      "手指插入",
+      "药物",
+      "顏射",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-11-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-088.jpg",
+    "actress": [
+      "三岳祐奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-088"
+  },
+  {
+    "id": 401724,
+    "IDcode": "DFE-089",
+    "title": "DFE-089 FANZA Limited 我希望的深喉发布会。 足立百合与内裤和新鲜照片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "胸部",
+      "3P",
+      "4P",
+      "恶女",
+      "单人作品",
+      "重口味",
+      "姐姐",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-089.jpg",
+    "actress": [
+      "足立友梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-089"
+  },
+  {
+    "id": 401718,
+    "IDcode": "DFE-090",
+    "title": "DFE-090 FANZA 独家 性爆发虾翘翘 Acme 沙龙藤泽玲子内裤和新鲜照片包括在内。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "BBW",
+      "单人作品",
+      "巨臀",
+      "按摩",
+      "指交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-090.jpg",
+    "actress": [
+      "藤沢麗央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-090"
+  },
+  {
+    "id": 9308,
+    "IDcode": "DFE-091",
+    "title": "DFE-091  FANZA独家 我的女儿喂我。 Mea Amami，带内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "潮吹",
+      "痴漢",
+      "舔腳",
+      "羞恥",
+      "校花",
+      "女上位",
+      "飯店",
+      "JK校服",
+      "美少女",
+      "内射",
+      "单人作品",
+      "奇異的",
+      "脅迫做愛",
+      "中出",
+      "美少女電影",
+      "變態",
+      "清純",
+      "口交",
+      "騎乗位",
+      "女学生",
+      "舔陰",
+      "美腳",
+      "後入",
+      "寢取",
+      "老頭子",
+      "形象俱樂部",
+      "制服",
+      "蘿莉控",
+      "手指插入",
+      "清楚系",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-01-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-091.jpg",
+    "actress": [
+      "天美めあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-091"
+  },
+  {
+    "id": 470706,
+    "IDcode": "DFE-092",
+    "title": "DFE-092 Natsumi Kanna：三孔酷刑和连续 Nakadashi 浸泡：转子和内裤套装",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "3P",
+      "4P",
+      "美少女",
+      "恶女",
+      "内射",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "巨乳",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-092.jpg",
+    "actress": [
+      "夏巳百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-092"
+  },
+  {
+    "id": 8671,
+    "IDcode": "DFE-093",
+    "title": "DFE-093 性爆发虾翘acme沙龙 Rika Tsubaki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "明星臉",
+      "电动按摩器",
+      "素人",
+      "性感",
+      "巨尻",
+      "早漏",
+      "舔腳",
+      "美臀",
+      "4K",
+      "按摩・美容店",
+      "口爆",
+      "辣妹",
+      "脚控・戀足癖",
+      "女上位",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "内射",
+      "单人作品",
+      "臀控",
+      "美乳",
+      "中出",
+      "口交",
+      "劇情",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "誘騙女性",
+      "按摩",
+      "巨乳",
+      "美腳",
+      "慾求不滿",
+      "美容店",
+      "後入",
+      "老頭子",
+      "形象俱樂部",
+      "美人",
+      "抹油",
+      "感官作品",
+      "手指插入",
+      "極品美人",
+      "企畫",
+      "润滑液",
+      "高顏值",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-093.jpg",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-093"
+  },
+  {
+    "id": 463268,
+    "IDcode": "DFE-094",
+    "title": "DFE-094 女儿喂我 铃鹿樱花简易自慰器和清新写真集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "美少女",
+      "恶女",
+      "内射",
+      "单人作品",
+      "女学生",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-094.jpg",
+    "actress": [
+      "桜すずか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-094"
+  },
+  {
+    "id": 470593,
+    "IDcode": "DFE-095",
+    "title": "DFE-095 FANZA 独家 笑口常开的小便池池内春香与内裤的清新写真。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "单人作品",
+      "滥交",
+      "拘束",
+      "射精",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-095.jpg",
+    "actress": [
+      "池内遥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-095"
+  },
+  {
+    "id": 413185,
+    "IDcode": "DFE-096",
+    "title": "DFE-096 FANZA Limited 深喉发布会，我希望。 稻盛亚美，内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恶女",
+      "单人作品",
+      "饮尿",
+      "射精",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-096.jpg",
+    "actress": [
+      "桂木春香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-096"
+  },
+  {
+    "id": 66989,
+    "IDcode": "DFE-097",
+    "title": "DFE-097 笑口马桶 Suzune Kiritani (BOD)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "制服",
+      "辣妹",
+      "魔鬼系",
+      "3P",
+      "女生",
+      "美少女电影",
+      "恶女",
+      "淫乱，真实",
+      "美少女",
+      "4P",
+      "单人作品",
+      "重口味",
+      "多P",
+      "单体作品",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-05-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-097.jpg",
+    "actress": [
+      "桐谷すずね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-097"
+  },
+  {
+    "id": 69232,
+    "IDcode": "DFE-098",
+    "title": "DFE-098 FANZA 独家：Rui Otokoto，带内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "中出",
+      "魔鬼系",
+      "3P",
+      "肛交",
+      "恶女",
+      "淫乱，真实",
+      "内射",
+      "肛门",
+      "4P",
+      "单人作品",
+      "重口味",
+      "多P",
+      "单体作品",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-05-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-098.jpg",
+    "actress": [
+      "妃月るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-098"
+  },
+  {
+    "id": 403273,
+    "IDcode": "DFE-099",
+    "title": "DFE-099 FANZA 独家 性爆发虾翘acme 沙龙，Yuki Hiiragi，内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "润滑液",
+      "按摩",
+      "辣妹",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-099.jpg",
+    "actress": [
+      "柊有希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-099"
+  },
+  {
+    "id": 445274,
+    "IDcode": "DFE-100",
+    "title": "DFE-100  FANZA 独家 我的女儿喂我。 Suzu Nagano 内衣和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "美少女",
+      "恶女",
+      "单人作品",
+      "美胸",
+      "女学生",
+      "苗条",
+      "舔阴"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-100.jpg",
+    "actress": [
+      "永野鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-100"
+  },
+  {
+    "id": 4916,
+    "IDcode": "DFE-101",
+    "title": "DFE-101 我希望是 \"开喉\"。 三池光春（BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫蕩・硬核",
+      "兩男一女",
+      "素人",
+      "重口味",
+      "早漏",
+      "地味",
+      "熟女",
+      "亂交 • 群P",
+      "按摩棒",
+      "性虐癖",
+      "美臀",
+      "巨尻",
+      "口爆",
+      "4K",
+      "深喉",
+      "女上位",
+      "御姐系",
+      "黑絲",
+      "唾液敷面",
+      "单人作品",
+      "單體作品",
+      "人妻",
+      "女優",
+      "美乳",
+      "白眼失神",
+      "淫亂",
+      "中出",
+      "M男・M女",
+      "大姐姐",
+      "清純",
+      "口交",
+      "真實拍攝",
+      "騎乗位",
+      "殘忍畫面",
+      "舔陰",
+      "拘束・拷問",
+      "射精",
+      "饮尿",
+      "後入",
+      "形象俱樂部",
+      "美人",
+      "3P・4P",
+      "鬼畜片",
+      "手指插入",
+      "吞精",
+      "企畫",
+      "凌辱",
+      "恶女",
+      "清楚系",
+      "心理驚悚",
+      "多P",
+      "真人秀"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-101.jpg",
+    "actress": [
+      "三池小春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-101"
+  },
+  {
+    "id": 4915,
+    "IDcode": "DFE-102",
+    "title": "DFE-102 性爆发虾翘尖沙龙 森泽加奈（BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "大奶头",
+      "明星臉",
+      "性感",
+      "阪道系",
+      "巨尻",
+      "舔腳",
+      "羞恥",
+      "熟女",
+      "美臀",
+      "4K",
+      "高妹",
+      "口爆",
+      "按摩・美容店",
+      "脚控・戀足癖",
+      "女上位",
+      "3P",
+      "絕頂高潮",
+      "御姐系",
+      "4P",
+      "单人作品",
+      "胸控・戀乳癖",
+      "美人妻",
+      "單體作品",
+      "流汗",
+      "女神",
+      "癡女",
+      "臀控",
+      "美乳",
+      "乳交",
+      "淫亂",
+      "中出",
+      "濕身",
+      "家庭主妇",
+      "口交",
+      "貴婦",
+      "劇情",
+      "按摩・物理治療・美容",
+      "騎乗位",
+      "誘騙女性",
+      "按摩",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "蕩婦",
+      "後入",
+      "慾求不滿",
+      "寢取",
+      "美容店",
+      "無毛",
+      "豐滿",
+      "形象俱樂部",
+      "抹油",
+      "美人",
+      "手指插入",
+      "極品美人",
+      "名人妻子",
+      "药物",
+      "清楚系",
+      "高顏值",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-102.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-102"
+  },
+  {
+    "id": 4081,
+    "IDcode": "DFE-103",
+    "title": "DFE-103 FANZA 独家 我的女儿喂我。 包括濑户日奈子内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "阪道系",
+      "羞恥",
+      "4K",
+      "校花",
+      "女上位",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "飯店",
+      "JK校服",
+      "不倫",
+      "美少女",
+      "接吻",
+      "情趣內衣",
+      "短髮",
+      "单人作品",
+      "繼父",
+      "單體作品",
+      "癡女",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "清純",
+      "口交",
+      "色白",
+      "劇情",
+      "騎乗位",
+      "女学生",
+      "舔陰",
+      "美腳",
+      "射精",
+      "猥褻穿著",
+      "後入",
+      "形象俱樂部",
+      "美人",
+      "制服",
+      "手指插入",
+      "美胸",
+      "清楚系",
+      "素人作品",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-08-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-103.jpg",
+    "actress": [
+      "瀬戸ひなこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-103"
+  },
+  {
+    "id": 3134,
+    "IDcode": "DFE-104",
+    "title": "DFE-104 FANZA Limited 希望是 \"深喉 \"发布会。 德川亚里沙，内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫蕩・硬核",
+      "性感",
+      "重口味",
+      "早漏",
+      "性虐癖",
+      "4K",
+      "口爆",
+      "深喉",
+      "女上位",
+      "下流",
+      "胸部",
+      "3P",
+      "絕頂高潮",
+      "苗條",
+      "4P",
+      "残酷表情",
+      "单人作品",
+      "單體作品",
+      "姐姐",
+      "女優",
+      "美乳",
+      "白眼失神",
+      "淫亂",
+      "中出",
+      "M男・M女",
+      "濕身",
+      "大姐姐",
+      "清純",
+      "口交",
+      "色白",
+      "小隻馬",
+      "騎乗位",
+      "舔陰",
+      "拘束・拷問",
+      "美腳",
+      "饮尿",
+      "後入",
+      "形象俱樂部",
+      "美人",
+      "大鸡巴",
+      "鬼畜片",
+      "手指插入",
+      "吞精",
+      "企畫",
+      "凌辱",
+      "恶女",
+      "高挑",
+      "清楚系",
+      "顏射",
+      "高顏值"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-104.jpg",
+    "actress": [
+      "十川ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-104"
+  },
+  {
+    "id": 2416,
+    "IDcode": "DFE-105",
+    "title": "DFE-105  FANZA独家 微笑的大嘴巴马桶，带新鲜照片和内裤，作者：Minato Namiaru。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫蕩・硬核",
+      "4K",
+      "深喉",
+      "女上位",
+      "貧乳",
+      "单人作品",
+      "單體作品",
+      "M男・M女",
+      "美少女電影",
+      "口交",
+      "劇情",
+      "小隻馬",
+      "騎乗位",
+      "舔陰",
+      "拘束・拷問",
+      "射精",
+      "饮尿",
+      "後入",
+      "美人",
+      "3P・4P",
+      "鬼畜片",
+      "手指插入",
+      "恶女"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-105.jpg",
+    "actress": [
+      "湊波流"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-105"
+  },
+  {
+    "id": 2415,
+    "IDcode": "DFE-106",
+    "title": "DFE-106 FANZA 独家 性欲爆发的虾经 acme 沙龙成宫梨叶与新鲜照片和内裤。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "大奶头",
+      "性感",
+      "羞恥",
+      "熟女",
+      "美臀",
+      "4K",
+      "按摩・美容店",
+      "高妹",
+      "口爆",
+      "女上位",
+      "胸部",
+      "絕頂高潮",
+      "短髮",
+      "单人作品",
+      "胸控・戀乳癖",
+      "美人妻",
+      "單體作品",
+      "人妻",
+      "臀控",
+      "美乳",
+      "乳交",
+      "淫亂",
+      "中出",
+      "濕身",
+      "口交",
+      "劇情",
+      "按摩・物理治療・美容",
+      "三十路",
+      "騎乗位",
+      "誘騙女性",
+      "按摩",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "蕩婦",
+      "後入",
+      "慾求不滿",
+      "美容店",
+      "形象俱樂部",
+      "豐滿",
+      "美人",
+      "抹油",
+      "手指插入",
+      "药物",
+      "润滑液",
+      "高顏值",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-106.jpg",
+    "actress": [
+      "成宮彩葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-106"
+  },
+  {
+    "id": 173886,
+    "IDcode": "DFE-107",
+    "title": "DFE-107  FANZA独家 喝精子的狂欢，带原始照片和内裤。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "[",
+      "交",
+      "口交",
+      "多人淫乱",
+      "]",
+      "\"",
+      "人妻",
+      "滥交",
+      "射精",
+      "乱"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-107.jpg",
+    "actress": [
+      "有加里乃乃花",
+      "清巳麗乃",
+      "安堂はるの",
+      "宮ノ木しゅんか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-107"
+  },
+  {
+    "id": 173860,
+    "IDcode": "DFE-108",
+    "title": "DFE-108 FANZA 独家报道 已婚女性的女声泄露美学与原始照片和内裤。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "[",
+      "胸部",
+      "人",
+      "药物",
+      "人妻系列",
+      "]",
+      "\"",
+      "熟女",
+      "妻",
+      "润滑液",
+      "按摩",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DFE-108.jpg",
+    "actress": [
+      "宮西光",
+      "海埜ほたる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-108"
+  },
+  {
+    "id": 166378,
+    "IDcode": "DGRE-002",
+    "title": "DGRE-002 喉部属性 Shabrist 002，Aki Sasaki。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "虐待",
+      "射精",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-08-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DGRE-002.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGRE-002"
+  },
+  {
+    "id": 82447,
+    "IDcode": "DGRE-003",
+    "title": "DGRE-003 接吻摔跤 AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "接吻",
+      "M男",
+      "单人作品",
+      "辣妹"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DGRE-003.jpg",
+    "actress": [
+      "AIKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGRE-003"
+  },
+  {
+    "id": 409972,
+    "IDcode": "DJE-002",
+    "title": "DJE-002 M. 塞门-恍惚，Miki Karasawa.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "数字马赛克",
+      "单人作品",
+      "颜射",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2006-10-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-002.jpg",
+    "actress": [
+      "唐沢美樹"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-002"
+  },
+  {
+    "id": 409652,
+    "IDcode": "DJE-007",
+    "title": "DJE-007 M. 塞门恍惚、沙耶雪见。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "虐待",
+      "单人作品",
+      "颜射",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2009-02-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-007.jpg",
+    "actress": [
+      "雪见纱弥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-007"
+  },
+  {
+    "id": 516576,
+    "IDcode": "DJE-015",
+    "title": "DJE-015 白衣飘飘的荣誉学生大泽美嘉。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "虐待",
+      "角色扮演",
+      "单人作品",
+      "女学生",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2010-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-015.jpg",
+    "actress": [
+      "大沢美加"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-015"
+  },
+  {
+    "id": 516435,
+    "IDcode": "DJE-018",
+    "title": "DJE-018 白衣天使弘崎凉子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女学生",
+      "单人作品",
+      "虐待",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2010-09-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-018.jpg",
+    "actress": [
+      "弘前亮子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-018"
+  },
+  {
+    "id": 550717,
+    "IDcode": "DJE-046",
+    "title": "DJE-046 Seisei 我最喜欢的白酱油 Suzu Ichinose",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "剧情",
+      "单人作品",
+      "射精",
+      "洛丽塔"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2014-08-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-046.jpg",
+    "actress": [
+      "一之濑铃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-046"
+  },
+  {
+    "id": 207351,
+    "IDcode": "DJE-063",
+    "title": "DJE-063 Ayane Ryokawa，100 种精子饮料。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "企划",
+      "潮吹",
+      "4P",
+      "口交",
+      "单人作品",
+      "4小时以上",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2016-05-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-063.jpg",
+    "actress": [
+      "凉川绚音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-063"
+  },
+  {
+    "id": 548384,
+    "IDcode": "DJE-065",
+    "title": "DJE-065 Bukkake kupaa Wakaba Onoe",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "企划",
+      "内射",
+      "单人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2016-06-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-065.jpg",
+    "actress": [
+      "月見若葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-065"
+  },
+  {
+    "id": 78466,
+    "IDcode": "DJE-077",
+    "title": "DJE-077 成熟的小屋 宠爱熟女远藤瞳的形式。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-11-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-077.jpg",
+    "actress": [
+      "円城ひとみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-077"
+  },
+  {
+    "id": 212247,
+    "IDcode": "DJE-084",
+    "title": "DJE-084 成熟的小屋 对成熟女性并木沓子（Touko Namiki）的宠爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "玩具",
+      "口交",
+      "素人",
+      "单人作品",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-03-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-084.jpg",
+    "actress": [
+      "吉永塔子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-084"
+  },
+  {
+    "id": 84293,
+    "IDcode": "DJE-086",
+    "title": "DJE-086 FANZA 独家 Gokkun 秘密基地，Meiri Tsuji，带内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "单人作品",
+      "单体作品",
+      "射精",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2022-06-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-086.jpg",
+    "actress": [
+      "花音うらら",
+      "鲛岛",
+      "辻芽爱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-086"
+  },
+  {
+    "id": 563342,
+    "IDcode": "DJE-087",
+    "title": "DJE-087 FANZA 独家 浦乐同人小说 Gokkun Tsuma Nogi Hotaru 内附内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "3P",
+      "自慰",
+      "4P",
+      "口交",
+      "单人作品",
+      "人妻",
+      "巨乳",
+      "射精",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2023-09-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-087.jpg",
+    "actress": [
+      "乃木蛍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-087"
+  },
+  {
+    "id": 91302,
+    "IDcode": "DJE-088",
+    "title": "DJE-088 FANZA 独家 浦乐道人五坤妻夫木聪 附带内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "自慰",
+      "4P",
+      "吞精",
+      "口交",
+      "巨大屁股",
+      "单人作品",
+      "人妻",
+      "巨臀",
+      "多P",
+      "巨乳",
+      "单体作品",
+      "射精",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2023-12-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-088.jpg",
+    "actress": [
+      "妃月るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-088"
+  },
+  {
+    "id": 3129,
+    "IDcode": "DJE-089",
+    "title": "DJE-089  FANZA 独家 所有精子都是用来喝的。 包括 Kiyoka Igarashi 内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "潮吹",
+      "明星臉",
+      "性感",
+      "巨尻",
+      "亂交 • 群P",
+      "美臀",
+      "4K",
+      "口爆",
+      "脚控・戀足癖",
+      "深喉",
+      "女上位",
+      "蠻橫嬌羞",
+      "網襪",
+      "絕頂高潮",
+      "貧乳",
+      "黑絲",
+      "苗條",
+      "美少女",
+      "唾液敷面",
+      "单人作品",
+      "女僕制服",
+      "單體作品",
+      "女優",
+      "癡女",
+      "美乳",
+      "淫亂",
+      "中出",
+      "美少女電影",
+      "清純",
+      "口交",
+      "色白",
+      "真實拍攝",
+      "女僕",
+      "小隻馬",
+      "騎乗位",
+      "舔陰",
+      "美腳",
+      "慾求不滿",
+      "射精",
+      "後入",
+      "無毛",
+      "形象俱樂部",
+      "美人",
+      "3P・4P",
+      "手指插入",
+      "吞精",
+      "極品美人",
+      "企畫",
+      "美胸",
+      "清楚系",
+      "顏射",
+      "放尿",
+      "高顏值",
+      "多P",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DJE-089.jpg",
+    "actress": [
+      "五十嵐清華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJE-089"
+  },
+  {
+    "id": 88016,
+    "IDcode": "ECB-073",
+    "title": "ECB-073 早泄 M 男子猎取精液 Ver. 2 责备",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2012-10-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-073.jpg",
+    "actress": [
+      "大槻响",
+      "広瀬藍子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-073"
+  },
+  {
+    "id": 216436,
+    "IDcode": "ECB-075",
+    "title": "ECB-075 第 2 版指责 Yuu Shinoda、Songa Amber 摆出不雅姿势......",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "4P",
+      "紧身衣",
+      "射精",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2013-03-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-075.jpg",
+    "actress": [
+      "篠田優",
+      "木下瑠璃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-075"
+  },
+  {
+    "id": 517644,
+    "IDcode": "ECB-101",
+    "title": "ECB-101 被非礼了，连 \"egi \"的声音都发不出来的我，藤本史姬。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "M男",
+      "单人作品",
+      "巨乳",
+      "辣妹",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2016-06-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-101.jpg",
+    "actress": [
+      "武井麻希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-101"
+  },
+  {
+    "id": 210924,
+    "IDcode": "ECB-106",
+    "title": "ECB-106 万君工作场所的钥匙，我借给你。 本田角",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "单人作品",
+      "M男",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-106.jpg",
+    "actress": [
+      "本田岬"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-106"
+  },
+  {
+    "id": 82490,
+    "IDcode": "ECB-108",
+    "title": "ECB-108 我把万君公寓的钥匙借给你。 若菜奈绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "连裤袜",
+      "角色扮演",
+      "M男",
+      "丝袜",
+      "单人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2018-01-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-108.jpg",
+    "actress": [
+      "若菜奈央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-108"
+  },
+  {
+    "id": 74953,
+    "IDcode": "ECB-111",
+    "title": "ECB-111 Aya Sasanami 疯狂而痛苦地挑逗阴茎，最终导致爆发......在她射出精液后，又立即开始了温柔的两枪性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妹妹",
+      "和服，丧服",
+      "单人作品",
+      "丧服",
+      "和服",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2018-06-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-111.jpg",
+    "actress": [
+      "小那海綾",
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-111"
+  },
+  {
+    "id": 88019,
+    "IDcode": "ECB-113",
+    "title": "ECB-113 Reika Hashimoto，在早泄君的家中狩猎早泄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "其他恋物",
+      "其他恋物癖",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2018-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-113.jpg",
+    "actress": [
+      "桥本丽华",
+      "桥本丽花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-113"
+  },
+  {
+    "id": 523663,
+    "IDcode": "ECB-115",
+    "title": "ECB-115 愿你与乳头做爱，相生怜奈。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋物",
+      "素人",
+      "单人作品",
+      "Cosplay",
+      "美胸",
+      "苗条",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-115.jpg",
+    "actress": [
+      "葵玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-115"
+  },
+  {
+    "id": 67026,
+    "IDcode": "ECB-116",
+    "title": "ECB-116 在家猎取早泄 Manami Oura",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "企划",
+      "中文字幕",
+      "企画",
+      "口交",
+      "素人",
+      "单人作品",
+      "素人作品",
+      "荡妇",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-116.jpg",
+    "actress": [
+      "大浦真奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-116"
+  },
+  {
+    "id": 214007,
+    "IDcode": "ECB-117",
+    "title": "ECB-117 别告诉我你要......在这里喷水？ 十香凛奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "M男",
+      "素人",
+      "单人作品",
+      "手交",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-06-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-117.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-117"
+  },
+  {
+    "id": 159782,
+    "IDcode": "ECB-118",
+    "title": "ECB-118 业余 M 型男，接受采访。之后，女演员将淫荡。 Suzu Yamai。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "M男",
+      "素人",
+      "口交",
+      "单人作品",
+      "手交",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-118.jpg",
+    "actress": [
+      "山井すず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-118"
+  },
+  {
+    "id": 67570,
+    "IDcode": "ECB-119",
+    "title": "ECB-119 男士美容沙龙不遗余力地宣称自己是 \"健康 \"的，而对于多刺的男士来说，它们一点也不健康。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "素人",
+      "单人作品",
+      "羞辱",
+      "羞耻",
+      "手交",
+      "手淫",
+      "按摩",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-119.jpg",
+    "actress": [
+      "三原穗香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-119"
+  },
+  {
+    "id": 74960,
+    "IDcode": "ECB-120",
+    "title": "ECB-120 令人痛苦的阴茎挑逗导致爆发......以及发射后立即毫无节制地重新开始的onedari双燃料性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女电影",
+      "美少女",
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-120.jpg",
+    "actress": [
+      "渚光希",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-120"
+  },
+  {
+    "id": 566426,
+    "IDcode": "ECB-121",
+    "title": "ECB-121 克莱尔-哈苏米和 22 位男性。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "足交",
+      "M男",
+      "素人",
+      "口交",
+      "单人作品",
+      "手交",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-121.jpg",
+    "actress": [
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-121"
+  },
+  {
+    "id": 566425,
+    "IDcode": "ECB-123",
+    "title": "ECB-123 我们就住在万万家吧！ 雾岛理奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "姐姐",
+      "荡妇",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-123.jpg",
+    "actress": [
+      "桐岛莉乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-123"
+  },
+  {
+    "id": 67757,
+    "IDcode": "ECB-124",
+    "title": "ECB-124 别告诉我你要......在这里喷水？ 永井玛丽亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "素人",
+      "羞辱",
+      "单人作品",
+      "羞耻",
+      "手交",
+      "手淫",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-124.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-124"
+  },
+  {
+    "id": 67559,
+    "IDcode": "ECB-125",
+    "title": "ECB-125 啊，男人杀手--身体的三个部位同时受到责备，她沉浸在快感中 瑞纳津-浅里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "骑乗位",
+      "坐脸",
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-125.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-125"
+  },
+  {
+    "id": 76743,
+    "IDcode": "ECB-126",
+    "title": "ECB-126 我把万君公寓的钥匙借给你 三谷明里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中文字幕",
+      "M男",
+      "口交",
+      "素人",
+      "高挑",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "高",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-12-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-126.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-126"
+  },
+  {
+    "id": 71486,
+    "IDcode": "ECB-127",
+    "title": "ECB-127 稻叶琉香，愿你成为一个迷人的人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "中文字幕",
+      "美少女电影",
+      "肛交",
+      "M男",
+      "企画",
+      "肛门",
+      "素人",
+      "美少女",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-12-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-127.jpg",
+    "actress": [
+      "莉莉遙香",
+      "Qべぇ",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-127"
+  },
+  {
+    "id": 403794,
+    "IDcode": "ECB-128",
+    "title": "ECB-128 小食客佐藤艾尔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "素人",
+      "荡妇",
+      "高挑",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-01-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-128.jpg",
+    "actress": [
+      "佐藤エル",
+      "キョンシ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-128"
+  },
+  {
+    "id": 81632,
+    "IDcode": "ECB-129",
+    "title": "ECB-129 愿你和乳头做爱。 阿部美香子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "美少女电影",
+      "美少女",
+      "M男",
+      "素人",
+      "单人作品",
+      "美胸",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-01-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-129.jpg",
+    "actress": [
+      "安部未華子",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-129"
+  },
+  {
+    "id": 164568,
+    "IDcode": "ECB-130",
+    "title": "ECB-130 我们就住在万万家吧！ 筱田优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "M男",
+      "素人",
+      "单人作品",
+      "姐姐",
+      "荡妇",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-02-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-130.jpg",
+    "actress": [
+      "篠田優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-130"
+  },
+  {
+    "id": 82534,
+    "IDcode": "ECB-131",
+    "title": "ECB-131 Warukiri - 这个女人是让男人坐立不安的类型 - Hikaru Harukaze。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "骑乗位",
+      "坐脸",
+      "巨大屁股",
+      "素人",
+      "单人作品",
+      "羞辱",
+      "羞耻",
+      "巨臀",
+      "素人作品",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-02-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-131.jpg",
+    "actress": [
+      "春風光",
+      "春风光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-131"
+  },
+  {
+    "id": 94923,
+    "IDcode": "ECB-132",
+    "title": "ECB-132 所有 M 型人都是食物 ◆ Aoi Kururugi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "骑乗位",
+      "坐脸",
+      "粉丝感谢",
+      "单人作品",
+      "感谢祭",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-04-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-132.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-132"
+  },
+  {
+    "id": 72214,
+    "IDcode": "ECB-135",
+    "title": "ECB-135 我把万君公寓的钥匙借给你。 十贺凛奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "荡妇",
+      "粉丝感谢",
+      "单人作品",
+      "感谢祭",
+      "巨乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-05-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-135.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-135"
+  },
+  {
+    "id": 550284,
+    "IDcode": "ECB-136",
+    "title": "ECB-136 这家人…迟早，都会被侵犯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "侮辱",
+      "恋物",
+      "拘束",
+      "监禁",
+      "荡妇",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-07-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-136.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-136"
+  },
+  {
+    "id": 209591,
+    "IDcode": "ECB-137",
+    "title": "ECB-137 淫荡 淫荡 放荡 大奶子，松弛的屁股，妻子多汁的信息素 - Hana Haruna",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "单人作品",
+      "人妻",
+      "巨臀",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-07-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-137.jpg",
+    "actress": [
+      "春菜华"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-137"
+  },
+  {
+    "id": 88014,
+    "IDcode": "ECB-138",
+    "title": "ECB-138 我希望你能享受你的乳头",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "美少女",
+      "美胸",
+      "美少女电影",
+      "荡妇",
+      "口交",
+      "单人作品",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-07-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-138.jpg",
+    "actress": [
+      "松本一香",
+      "玉木玲",
+      "TECH"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-138"
+  },
+  {
+    "id": 67738,
+    "IDcode": "ECB-139",
+    "title": "ECB-139 别告诉我你要......在这里喷水？ 今井嘉穗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "M男",
+      "单人作品",
+      "手交",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-09-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-139.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-139"
+  },
+  {
+    "id": 536813,
+    "IDcode": "ECB-140",
+    "title": "ECB-140 你和阿倍野菊的户外#女同初吻#如何？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "女同",
+      "粉丝感谢",
+      "单人作品",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-10-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-140.jpg",
+    "actress": [
+      "阿部乃美久"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-140"
+  },
+  {
+    "id": 67024,
+    "IDcode": "ECB-141",
+    "title": "ECB-141 处女君家中的贞操猎手 - Mitsuki Nagisa",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "处男",
+      "美少女电影",
+      "美少女",
+      "恋爱",
+      "粉丝感谢",
+      "单人作品",
+      "感谢祭",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-10-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-141.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-141"
+  },
+  {
+    "id": 159812,
+    "IDcode": "ECB-142",
+    "title": "ECB-142 我把万君公寓的钥匙借给你吧 木下绯里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "高挑",
+      "粉丝感谢",
+      "单人作品",
+      "颜射",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-12-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-142.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-142"
+  },
+  {
+    "id": 98956,
+    "IDcode": "ECB-143",
+    "title": "ECB-143 Aiaru 2 round shot Sekkuchu ◆ Uryugi Sara",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "美少女电影",
+      "企画",
+      "美少女",
+      "口交",
+      "单人作品",
+      "水手服",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-143.jpg",
+    "actress": [
+      "宇流木沙羅",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-143"
+  },
+  {
+    "id": 67274,
+    "IDcode": "ECB-144",
+    "title": "ECB-144 Hikaru Minazuki：无论如何，我都要让你的小弟弟勃起，我要用舌头催促它。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "户外",
+      "潮吹",
+      "美少女电影",
+      "美少女",
+      "接吻",
+      "单人作品",
+      "无毛",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-04-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-144.jpg",
+    "actress": [
+      "皆月光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-144"
+  },
+  {
+    "id": 214539,
+    "IDcode": "ECB-147",
+    "title": "ECB-147 万君公寓的钥匙，我借给你。 森日奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "足交",
+      "接吻",
+      "M男",
+      "粉丝感谢",
+      "单人作品",
+      "美胸",
+      "丧服",
+      "和服",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-10-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-147.jpg",
+    "actress": [
+      "森日向子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-147"
+  },
+  {
+    "id": 84390,
+    "IDcode": "ECB-148",
+    "title": "ECB-148 Mine Hazuki.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "乳交",
+      "超乳",
+      "中出",
+      "迷你",
+      "M男",
+      "内射",
+      "超巨乳",
+      "boots",
+      "单人作品",
+      "无毛",
+      "姐姐",
+      "巨乳",
+      "瘦小身型",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-12-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-148.jpg",
+    "actress": [
+      "叶月美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-148"
+  },
+  {
+    "id": 84442,
+    "IDcode": "ECB-149",
+    "title": "ECB-149 我把万君公寓的钥匙借给你。 汐里奈宇野",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "骑乗位",
+      "坐脸",
+      "M男",
+      "粉丝感谢",
+      "单人作品",
+      "放尿",
+      "感谢祭",
+      "苗条",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-12-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-149.jpg",
+    "actress": [
+      "今井栞菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-149"
+  },
+  {
+    "id": 155445,
+    "IDcode": "ECB-150",
+    "title": "ECB-150 我和乳头脆弱的女友互相折磨对方的乳头。 我的榛木",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "乳交",
+      "BBW",
+      "坐脸",
+      "M男",
+      "超巨乳",
+      "单人作品",
+      "姐姐",
+      "巨乳",
+      "辣妹",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2021-12-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-150.jpg",
+    "actress": [
+      "叶月美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-150"
+  },
+  {
+    "id": 80647,
+    "IDcode": "ECB-151",
+    "title": "ECB-151 逆转 ◆筑比调戏美祢羽月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "乳交",
+      "户外",
+      "超乳",
+      "中出",
+      "BBW",
+      "女生",
+      "M男",
+      "内射",
+      "超巨乳",
+      "单人作品",
+      "胖女人",
+      "无毛",
+      "姐姐",
+      "巨乳",
+      "辣妹",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2022-02-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-151.jpg",
+    "actress": [
+      "叶月美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-151"
+  },
+  {
+    "id": 410686,
+    "IDcode": "ECB-152",
+    "title": "ECB-152 别告诉我你要......用乳头......喷水？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "潮吹",
+      "女同",
+      "巨乳",
+      "荡妇",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2022-03-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-152.jpg",
+    "actress": [
+      "紗紗原百合",
+      "叶月美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-152"
+  },
+  {
+    "id": 594689,
+    "IDcode": "ECB-153",
+    "title": "ECB-153 筑比快乐布道者 Mine Hazuki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋物",
+      "M男",
+      "口交",
+      "单人作品",
+      "手交",
+      "巨臀",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2022-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-153.jpg",
+    "actress": [
+      "叶月美音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-153"
+  },
+  {
+    "id": 566424,
+    "IDcode": "ECB-155",
+    "title": "ECB-155 FANZA 独家 我把 M-man 公寓的钥匙借给你。 附带吉冈博织内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "胸部",
+      "M男",
+      "粉丝感谢",
+      "单人作品",
+      "姐姐",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2022-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-155.jpg",
+    "actress": [
+      "吉岡日和"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-155"
+  },
+  {
+    "id": 102464,
+    "IDcode": "ECB-156",
+    "title": "ECB-156 反转 ◆ 小鸡情人 ● 旋律标记（蓝光光盘） (BOD)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "M男",
+      "单人作品",
+      "预约角色",
+      "无毛",
+      "倒追",
+      "白人",
+      "白人女优",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2023-01-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-156.jpg",
+    "actress": [
+      "メロディー・雏・マークス",
+      "Melody Marks"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-156"
+  },
+  {
+    "id": 14258,
+    "IDcode": "ECB-157",
+    "title": "ECB-157 FANZA 独家报道：我的新情妇 Momo Shiraishi 想要用内裤和新鲜照片独占我的吻。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "明星臉",
+      "性感",
+      "4K",
+      "飯店",
+      "黑絲",
+      "苗條",
+      "美少女",
+      "接吻",
+      "内射",
+      "单人作品",
+      "情侣",
+      "苗条",
+      "癡女",
+      "美乳",
+      "中出",
+      "美少女電影",
+      "清純",
+      "口交",
+      "色白",
+      "69",
+      "舔陰",
+      "後入",
+      "出轨",
+      "感官作品",
+      "手指插入",
+      "企畫",
+      "美胸",
+      "高顏值"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2024-06-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-157.jpg",
+    "actress": [
+      "白石桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-157"
+  },
+  {
+    "id": 59794,
+    "IDcode": "ECB-158",
+    "title": "ECB-158 淫荡的女人、被强奸的男人和在一旁的我们（ECB-158）新鲜照片和转子组",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "M男",
+      "口交",
+      "手交",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2025-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECB-158.jpg",
+    "actress": [
+      "流川莉央",
+      "海埜ほたる",
+      "森萤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-158"
+  },
+  {
+    "id": 523072,
+    "IDcode": "EKW-017",
+    "title": "EKW-017 Gunny crotch vile 客房服务 Yui Hatano",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "荡妇",
+      "单人作品",
+      "美腿控",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2016-09-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-017.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-017"
+  },
+  {
+    "id": 180806,
+    "IDcode": "EKW-018",
+    "title": "EKW-018 下跪的淫荡女佐佐木亚纪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "自慰",
+      "电动按摩器",
+      "内衣",
+      "单人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2016-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-018.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-018"
+  },
+  {
+    "id": 166524,
+    "IDcode": "EKW-028",
+    "title": "EKW-028 喝精液的淫荡女人，Heki Shino",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "M男",
+      "单人作品",
+      "脏话",
+      "姐姐",
+      "苗条",
+      "射精",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-08-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-028.jpg",
+    "actress": [
+      "篠惠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-028"
+  },
+  {
+    "id": 218235,
+    "IDcode": "EKW-032",
+    "title": "EKW-032 下跪的淫荡女人，Claire Hasumi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "单人作品",
+      "企划",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2017-12-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-032.jpg",
+    "actress": [
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-032"
+  },
+  {
+    "id": 82531,
+    "IDcode": "EKW-035",
+    "title": "EKW-035 全身舔舐放松 ◆Healing Lip Salon Aki Sasaki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "企画",
+      "单人作品",
+      "各种职业",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2018-03-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-035.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-035"
+  },
+  {
+    "id": 210870,
+    "IDcode": "EKW-041",
+    "title": "EKW-041 我今天就想被这家伙核爆。 麦岛明莉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "M男",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2018-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-041.jpg",
+    "actress": [
+      "舞岛明里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-041"
+  },
+  {
+    "id": 534096,
+    "IDcode": "EKW-045",
+    "title": "EKW-045 Lewd INGO Satomi Suzuki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "乳交",
+      "素人",
+      "单人作品",
+      "脏话",
+      "姐姐",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-03-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-045.jpg",
+    "actress": [
+      "铃木里美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-045"
+  },
+  {
+    "id": 534124,
+    "IDcode": "EKW-047",
+    "title": "EKW-047 强行连拍，语言挑逗淫荡！精子剥削和乞求淫荡 - Monami Takarada",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "素人",
+      "单人作品",
+      "脏话",
+      "手交",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-047.jpg",
+    "actress": [
+      "宝田萌奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-047"
+  },
+  {
+    "id": 590357,
+    "IDcode": "EKW-048",
+    "title": "EKW-048 接吻控制翼八户",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "接吻",
+      "口交",
+      "素人",
+      "单人作品",
+      "脏话",
+      "姐姐",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-048.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-048"
+  },
+  {
+    "id": 67749,
+    "IDcode": "EKW-050",
+    "title": "EKW-050 我今天就想被这家伙核爆。 黑川澄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "姐姐",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-050.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-050"
+  },
+  {
+    "id": 67410,
+    "IDcode": "EKW-051",
+    "title": "EKW-051 淫荡的女人，被操的男人，以及旁观的我们 - Sena Asami",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-08-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-051.jpg",
+    "actress": [
+      "兼咲美優",
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-051"
+  },
+  {
+    "id": 66717,
+    "IDcode": "EKW-052",
+    "title": "EKW-052 筑比快乐布道者苍井百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "中文字幕",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-10-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-052.jpg",
+    "actress": [
+      "葵百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-052"
+  },
+  {
+    "id": 72217,
+    "IDcode": "EKW-053",
+    "title": "EKW-053 我把万君公寓的钥匙借给你。 高田藻奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "M男",
+      "口交",
+      "素人",
+      "单人作品",
+      "素人作品",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-053.jpg",
+    "actress": [
+      "宝田萌奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-053"
+  },
+  {
+    "id": 67750,
+    "IDcode": "EKW-054",
+    "title": "EKW-054 接吻控制 Misaki Kana。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "接吻",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "苗条",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-054.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-054"
+  },
+  {
+    "id": 67849,
+    "IDcode": "EKW-055",
+    "title": "EKW-055 跪着的淫荡女人泽村玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "玩具",
+      "自慰",
+      "电动按摩器",
+      "口交",
+      "女优按摩棒",
+      "成熟的女人",
+      "素人",
+      "单人作品",
+      "熟女",
+      "素人作品",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2019-12-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-055.jpg",
+    "actress": [
+      "高坂ますみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-055"
+  },
+  {
+    "id": 67851,
+    "IDcode": "EKW-057",
+    "title": "EKW-057 Rinne Toka 是一个极度淫荡的女人，她多次阻止濒临射精的男人，并在他射精时控制他，为射精倒计时。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "口交",
+      "素人",
+      "单人作品",
+      "手交",
+      "手淫",
+      "素人作品",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ワープエンタテインメント",
+    "publish_date": "2020-02-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EKW-057.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-057"
+  }
+];

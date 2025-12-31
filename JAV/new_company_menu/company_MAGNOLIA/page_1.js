@@ -17,7 +17,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MAGNOLIA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/5020f64a2402126fe8e6aa39f87d6d41.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGNL-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGNL-075"
   },
@@ -47,7 +47,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MAGNOLIA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/202f1bf8032a283a6c6164a683fcff9d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGNL-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGNL-079"
   },
@@ -81,7 +81,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MAGNOLIA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-2/725b46404cb9ef040dc15f9fbac2b976.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGNL-111.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGNL-111"
   },
@@ -148,7 +148,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MAGNOLIA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-2/6ee027718ccf5092e9d4c8dcdfde06c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGNL-115.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGNL-115"
   }

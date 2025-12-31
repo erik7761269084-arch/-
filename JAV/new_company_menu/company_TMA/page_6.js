@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250701/uXkpzK5B/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-037"
   },
@@ -29,7 +29,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250701/OI0BVL0n/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-038"
   },
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/85zpOmJJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-039"
   },
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/tQYgBIjo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-040"
   },
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/WTCPmXZj/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-042"
   },
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/FV5hBHdn/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-043"
   },
@@ -114,7 +114,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/5oKoUbY1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-044"
   },
@@ -131,7 +131,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/BSBpdTyM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-045"
   },
@@ -148,7 +148,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/roOj1Kdb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-046"
   },
@@ -165,7 +165,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/nCj78ajP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-047"
   },
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250702/J9Owdq0H/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/590MCHT-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=590MCHT-048"
   },
@@ -199,7 +199,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/39668aa52deba45819d0fea4a9210a9a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-011"
   },
@@ -217,7 +217,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230706/pb_e_598hmt-016.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-016"
   },
@@ -235,7 +235,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230104/S77ZhmKk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-018"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230814/pb_e_598hmt-020.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-020"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230202/RUyH3HVS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-022"
   },
@@ -304,7 +304,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230819/pb_e_598hmt-025.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-025"
   },
@@ -322,7 +322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230926/pb_e_598hmt-026.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-026"
   },
@@ -340,7 +340,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231216/pb_e_598hmt-030.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-030"
   },
@@ -392,7 +392,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/1990b75af2d5e437de46c47220d9e23a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-036"
   },
@@ -426,7 +426,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230924/pb_e_598hmt-038.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-038"
   },
@@ -461,7 +461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230616/TmSlknkr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-040"
   },
@@ -478,7 +478,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230616/0DQTQyui/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-041"
   },
@@ -529,7 +529,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230914/pb_e_598hmt-045.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/598HMT-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=598HMT-045"
   },
@@ -581,7 +581,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_733clt-001.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-001"
   },
@@ -599,7 +599,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230325/apiWl2kp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-002"
   },
@@ -617,7 +617,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230325/g8HMOEpT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-003"
   },
@@ -634,7 +634,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_733clt-004.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-004"
   },
@@ -670,7 +670,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230328/EaiMdXsB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-015"
   },
@@ -721,7 +721,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240212/pb_e_733clt-023.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-023"
   },
@@ -739,7 +739,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240210/pb_e_733clt-024.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-024"
   },
@@ -756,7 +756,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240210/pb_e_733clt-026.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-026"
   },
@@ -773,7 +773,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240215/pb_e_733clt-027.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-027"
   },
@@ -790,7 +790,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240215/pb_e_733clt-028.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-028"
   },
@@ -824,7 +824,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2024/02/4eg5frspkbp.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-032"
   },
@@ -842,7 +842,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/G6RyPHA5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-042"
   },
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/OIqFPL96/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-043"
   },
@@ -877,7 +877,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/Jt7jXdWQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-044"
   },
@@ -894,7 +894,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/hUuzTQeP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-045"
   },
@@ -928,7 +928,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/bvIizX4z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-047"
   },
@@ -945,7 +945,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250810/wyuz7Zc2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-048"
   },
@@ -962,7 +962,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/3pNYpdkx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-049"
   },
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/cK38ASxD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-050"
   },
@@ -998,7 +998,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/Z25Cmg3W/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-055"
   },
@@ -1016,7 +1016,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/ei56E4qI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-056"
   },
@@ -1033,7 +1033,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/8vTKHMjf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-057"
   },
@@ -1051,7 +1051,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/TV21hH62/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-058"
   },
@@ -1069,7 +1069,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/b1WLGdmR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-059"
   },
@@ -1086,7 +1086,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/QSFobmHB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-060"
   },
@@ -1103,7 +1103,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/iTEEe6mt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-061"
   },
@@ -1120,7 +1120,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250811/oQlOHXga/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-062"
   },
@@ -1137,7 +1137,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250812/h2uLxUYS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-063"
   },
@@ -1154,7 +1154,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250812/VuIH52Wq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-064"
   },
@@ -1171,7 +1171,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250812/ITD5ml1Z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-065"
   },
@@ -1188,7 +1188,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250812/X6Uy58mJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-066"
   },
@@ -1206,7 +1206,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250812/umc2590U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/733CLT-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=733CLT-067"
   },
@@ -1223,7 +1223,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240511/pb_e_746acut-001.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/746ACUT-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=746ACUT-001"
   },
@@ -1240,7 +1240,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240511/pb_e_746acut-002.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/746ACUT-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=746ACUT-002"
   },
@@ -1255,7 +1255,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/kwwXHLuu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/746ACUT-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=746ACUT-006"
   },
@@ -1270,7 +1270,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/D8myIRml/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/760ACUT-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=760ACUT-009"
   },
@@ -1315,7 +1315,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/Jiz7n7Hf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/760ACUT-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=760ACUT-012"
   },
@@ -1330,7 +1330,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/94433_cover_2025-09-30_003435.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888DVRT-A024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888DVRT-A024"
   },
@@ -1345,14 +1345,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/5e9a4024e76cbb44cbc6bb1a286b9623.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIT-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIT-028"
   },
   {
-    "id": 217928,
-    "IDcode": "AKID-032",
-    "title": "akid-032 妻子的工作场所醉酒后的酒会",
+    "id": 545715,
+    "IDcode": "AOKT-001",
+    "title": "禁断中出し契约交尾",
     "year": "",
     "country": "",
     "genre": "",
@@ -1360,14 +1360,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/92997fe603b39b451a33c40c0c3a2a07.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AOKT-001.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOKT-001"
   },
   {
-    "id": 590085,
-    "IDcode": "AKID-065",
-    "title": "女子大生限定 饮み会后、部屋にお持ち帰り盗撮 そして黙ってAVへ no29 痴女茶髪JDお姊さん编 なな\\/Gカップ\\/21才 まき\\/Hカップ\\/21才",
+    "id": 476932,
+    "IDcode": "AOKT-002",
+    "title": "禁忌中出契约性交 Akiko Kadowaki 门胁晶子",
     "year": "",
     "country": "",
     "genre": "",
@@ -1375,14 +1375,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/papachangpian-img/12632236f6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AOKT-002.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-065"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOKT-002"
   },
   {
-    "id": 523842,
-    "IDcode": "AKID-068",
-    "title": "女子大生限定 饮み会后、部屋にお持ち帰り盗撮 そして黙ってAVへ no.32 お姊さん痴女JDに中出し编 ひかる/Fカップ/21才（彼氏あり、日焼け迹がエロい） まなみ/Gカップ/21才（彼氏ありなのに生中出しOK）",
+    "id": 214827,
+    "IDcode": "APLT-003",
+    "title": "她有一张性感的嘴",
     "year": "",
     "country": "",
     "genre": "",
@@ -1390,36 +1390,235 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200923-1/47033e170e46a94b002b93008b874adf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/APLT-003.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-068"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APLT-003"
   },
   {
-    "id": 83454,
-    "IDcode": "AKID-069",
-    "title": "女子大生限定 飲み会後、部屋にお持ち帰り盗撮 そして黙ってAVへ no.33 超可愛い系痴女JDに生中出し編 早紀/Dカップ/21才（エロい日焼け跡・生中出しOK） 美雪/Gカップ/21才（痴女に生中出しOK）",
+    "id": 589335,
+    "IDcode": "APPT-002",
+    "title": "我是 [Girl Raw] 男孩的屁股厕所 Kotori Haruse - 春瀬ことり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/APPT-002.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APPT-002"
+  },
+  {
+    "id": 98290,
+    "IDcode": "AT-105",
+    "title": "私と先生の初レズ 媚薬で乱れた家庭教師を見てヌルヌルし出したロリ校生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2012-02-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AT-105.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-105"
+  },
+  {
+    "id": 544181,
+    "IDcode": "AT-113",
+    "title": "私と先生の初レズ2媚薬で乱れた家庭教师を见てヌ第02集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-113"
+  },
+  {
+    "id": 544196,
+    "IDcode": "AT-121",
+    "title": "私と先生の初レズ3媚薬で乱れた家庭教师を见てヌ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AT-121.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-121"
+  },
+  {
+    "id": 439935,
+    "IDcode": "AT-192",
+    "title": "迷路小貓咪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AT-192.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-192"
+  },
+  {
+    "id": 439934,
+    "IDcode": "AT-199",
+    "title": "專屬於我的大姊姊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AT-199.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-199"
+  },
+  {
+    "id": 439931,
+    "IDcode": "AT-203",
+    "title": "辣妹圈套",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AT-203.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-203"
+  },
+  {
+    "id": 87993,
+    "IDcode": "ATID-039",
+    "title": "突撃取材！乱交・露出 変態サークル 仙台バスツアー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
-      "巨乳",
-      "巨大屁股",
-      "中出",
-      "偷窥",
-      "素人作品"
+      "露出",
+      "乱交",
+      "放尿",
+      "SM",
+      "滥交"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2020-01-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-069"
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATID-039.jpg",
+    "actress": [
+      "明乃夕奈",
+      "响乃えみる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-039"
   },
   {
-    "id": 214891,
-    "IDcode": "AKID-088",
-    "title": "天然爆乳美容師",
+    "id": 467790,
+    "IDcode": "ATID-041",
+    "title": "股間レイプ 女子校生バレー部員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATID-041.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-041"
+  },
+  {
+    "id": 409965,
+    "IDcode": "ATID-104",
+    "title": "レズフィスト 被虐女の愛憎",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATID-104.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-104"
+  },
+  {
+    "id": 518797,
+    "IDcode": "ATID-B606",
+    "title": "欲望三姊妹 -长瀬麻美47",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATID-B606.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-B606"
+  },
+  {
+    "id": 410908,
+    "IDcode": "AUKT-001",
+    "title": "豐滿熟女蕾絲邊 ～墮入白日夢的淫蕩人妻～ 桃井靜香 高瀨遙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-001"
+  },
+  {
+    "id": 410884,
+    "IDcode": "AUKT-002",
+    "title": "蕾絲邊泡泡浴 ～年齡差20歳的職業泡泡浴女郎新人實習～ 星川舞 小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-002.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-002"
+  },
+  {
+    "id": 410946,
+    "IDcode": "AUKT-003",
+    "title": "变态熟女蕾丝边性交 ～名媛太太与淫乱家政妇～ 桃井静香 藤木纱英",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-003.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-003"
+  },
+  {
+    "id": 410985,
+    "IDcode": "AUKT-004",
+    "title": "唾液巨乳蕾絲邊 ～巨乳同胞！口水垂流舔舐技巧超誇張！～",
     "year": "",
     "country": "",
     "genre": "",
@@ -1429,38 +1628,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/f26a39e47ea7fabc989207ffccb4add8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-004.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-004"
   },
   {
-    "id": 80098,
-    "IDcode": "AKID-089",
-    "title": "欲求不満の即マン女子限定 部屋にお持ち帰り盗撮 そして黙ってAVへ no.48",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "超乳",
-      "中出",
-      "美少女电影",
-      "偷窥",
-      "美少女"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/WNyqtwC4.jpg",
-    "actress": [
-      "宝生めい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-089"
-  },
-  {
-    "id": 215660,
-    "IDcode": "AKID-090",
-    "title": "淫荡的幼儿园老师",
+    "id": 536457,
+    "IDcode": "AUKT-005",
+    "title": "タチとネコ ～潮吹きレズタチ変态女とレズネコ爱奴～",
     "year": "",
     "country": "",
     "genre": "",
@@ -1468,14 +1643,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-005.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-005"
   },
   {
-    "id": 216051,
-    "IDcode": "AKID-091",
-    "title": "对打工的年轻男孩有性欲的已婚妇女",
+    "id": 411039,
+    "IDcode": "AUKT-006",
+    "title": "男之娘 蕾絲邊中毒 ～巨根男之娘×小惡魔美OO",
     "year": "",
     "country": "",
     "genre": "",
@@ -1483,37 +1658,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/1020edaf098f3ce51650581c06f0a0f4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-006.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-006"
   },
   {
-    "id": 80891,
-    "IDcode": "AKID-093",
-    "title": "变态叔母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "成熟的女人",
-      "偷窥"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/20531d6b58fef0781445d9693ac50f11.jpg",
-    "actress": [
-      "弥生美月",
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-093"
-  },
-  {
-    "id": 566841,
-    "IDcode": "AKID-094",
-    "title": "偷拍在自家疯狂抽插的熟女 4",
+    "id": 536878,
+    "IDcode": "AUKT-007",
+    "title": "黒×白ギャル 肉食系レズFUCK",
     "year": "",
     "country": "",
     "genre": "",
@@ -1521,195 +1673,8 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/ZiB8wKdn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-007.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-094"
-  },
-  {
-    "id": 530712,
-    "IDcode": "AKID-101",
-    "title": "旦那には见せない…。人妻たちのシタくて堪らない性欲を密かに盗撮1 美奈代さん#Hカップ#32才",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250411/kOyLReUb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-101"
-  },
-  {
-    "id": 548943,
-    "IDcode": "AKID-102",
-    "title": "旦那には见せない…。人妻たちのシタくて堪らない性欲を密かに盗撮2 光さん#Fカップ#32才#清",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230629/sx8wiS69/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-102"
-  },
-  {
-    "id": 548422,
-    "IDcode": "AKID-103",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。11 纱矢さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230820/8pGo2dNA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-103"
-  },
-  {
-    "id": 547349,
-    "IDcode": "AKID-104",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。12 有纪さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231126/XndTgqYD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-104"
-  },
-  {
-    "id": 547094,
-    "IDcode": "AKID-105",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。13 祐美子さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231224/XC9RypJK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-105"
-  },
-  {
-    "id": 546299,
-    "IDcode": "AKID-106",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。14 菜穂子さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240225/5xH9wWGC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-106"
-  },
-  {
-    "id": 561402,
-    "IDcode": "AKID-107",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。15 凛さん#",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240324/o2lUjD0Z/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-107"
-  },
-  {
-    "id": 546303,
-    "IDcode": "AKID-108",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。16 牧さん#",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240526/youwTMrS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-108"
-  },
-  {
-    "id": 525675,
-    "IDcode": "AKID-109",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。17 久巳子さ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/4qhFKv7u/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-109"
-  },
-  {
-    "id": 525578,
-    "IDcode": "AKID-110",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。18 由爱さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-110"
-  },
-  {
-    "id": 544821,
-    "IDcode": "AKID-111",
-    "title": "人妻さんいらっしゃい 仆の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。19 ゆなさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240922/ZP6fkwLG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-007"
   }
 ];

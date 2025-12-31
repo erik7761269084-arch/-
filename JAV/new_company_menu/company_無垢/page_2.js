@@ -1,25 +1,85 @@
 window.PAGE_DATA = [
   {
+    "id": 469126,
+    "IDcode": "MUDR-084",
+    "title": "MUDR-084 Tsun Emu！ ~Gyutto Bind and Teach~ Jisshaban Rui Hizuki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "剧情",
+      "单人作品",
+      "原创合作",
+      "Cosplay",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2019-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-084.jpg",
+    "actress": [
+      "妃月るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-084"
+  },
+  {
+    "id": 565767,
+    "IDcode": "MUDR-085",
+    "title": "MUDR-085 变态，绝对不行。深田绘里全集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "合集",
+      "4P",
+      "美少女",
+      "剧情",
+      "素人",
+      "单人作品",
+      "原创合作",
+      "精选",
+      "痴汉"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2019-10-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-085.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-085"
+  },
+  {
     "id": 103116,
     "IDcode": "MUDR-086",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 八尋麻衣",
+    "title": "MUDR-086 从那天起 穿着制服的美女在接受捆绑训练，她就是中桥弥弘舞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "精选，综合",
-      "水手服",
       "中出",
-      "素人作品",
+      "合集",
       "捆绑",
+      "内射",
+      "剧情",
+      "素人",
+      "单人作品",
+      "水手服",
+      "戏剧",
+      "精选",
+      "素人作品",
       "SM",
-      "戏剧"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2019-10-13",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191115-1/c04f16e96794343da9cac12b2c604832.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-086.jpg",
     "actress": [
+      "八尋麻衣",
       "八寻麻衣"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-086"
@@ -27,88 +87,125 @@ window.PAGE_DATA = [
   {
     "id": 567052,
     "IDcode": "MUDR-088",
-    "title": "あの日からずっと…。紧缚调教中出しされる制服美少女高杉麻里第01集",
+    "title": "MUDR-088 从那天起 穿着制服的美女在接受捆绑训练，她就是高杉中梨",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "剧情",
+      "单人作品",
+      "调教",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-11-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-088.jpg",
+    "actress": [
+      "高杉麻里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-088"
   },
   {
     "id": 76389,
     "IDcode": "MUDR-089",
-    "title": "经典漫改校内两位校花因为我的肉棒归属权争风吃醋",
+    "title": "MUDR-089 倒勾拳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "美少女电影",
+      "美少女",
+      "内射",
+      "原创合作",
       "校服"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/03755a159c67dbd3ab9bdb8f728bb97f.jpg",
-    "actress": [],
+    "publish_date": "2019-11-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-089.jpg",
+    "actress": [
+      "有村希",
+      "向井藍"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-089"
   },
   {
     "id": 76349,
     "IDcode": "MUDR-090",
-    "title": "直実楓は真面目でスケベ 稲場るか",
+    "title": "MUDR-090 枫乃美是严肃而肮脏的稻叶瑠香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
+      "群交",
+      "轮奸",
+      "3P",
       "中文字幕",
-      "轮奸"
+      "4P",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/e7ca7a6ad2e1bb1e60b6c3830280b92e.jpg",
-    "actress": [],
+    "publish_date": "2019-11-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-090.jpg",
+    "actress": [
+      "莉莉遙香",
+      "ソーダ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-090"
   },
   {
     "id": 578460,
     "IDcode": "MUDR-091",
-    "title": "制服美少女蛇缚轮奸无垢×アタッカーズ本格紧缚SMドラマ枢木あおい",
+    "title": "MUDR-091 制服美少女蛇蝎美人轮奸无辜x攻击者正宗捆绑SM剧苍井空",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "剧情",
+      "单人作品",
+      "水手服",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-091.jpg",
+    "actress": [
+      "枢木葵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-091"
   },
   {
     "id": 76045,
     "IDcode": "MUDR-092",
-    "title": "校队队长的经理女朋友望月憧和教练因为讨论比赛同住一屋太过劳累睡着后竟被禽兽教练无套插入内射",
+    "title": "MUDR-092 当棒球队寻找训练营而无法回家时，她与顾问同住一室，尽管她有男朋友，却把中田希弄得满身都是。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美少女电影",
-      "无毛",
+      "白虎",
       "制服",
-      "白天出轨"
+      "中出",
+      "白天出轨",
+      "美少女电影",
+      "美少女",
+      "NTR",
+      "内射",
+      "单人作品",
+      "无毛"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/466301f5f79fc74138fc61eeea19bc58.jpg",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-092.jpg",
     "actress": [
       "望月憧"
     ],
@@ -117,21 +214,24 @@ window.PAGE_DATA = [
   {
     "id": 76547,
     "IDcode": "MUDR-093",
-    "title": "制服学生妹萝莉美少女永濑唯和爱摄影中年大叔同居性爱生活",
+    "title": "MUDR-093 个人性交 01 穿制服的女孩和老男人 爱着叔叔的漂亮女孩 私下做爱 Yui Nagase",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "第一人称摄影",
+      "制服",
       "美少女电影",
+      "美少女",
+      "口交",
+      "单人作品",
       "颜射",
-      "制服"
+      "主观视角"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/ee1d226da9e8830510adfe328c23329a.jpg",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-093.jpg",
     "actress": [
       "永瀬ゆい"
     ],
@@ -140,21 +240,25 @@ window.PAGE_DATA = [
   {
     "id": 81898,
     "IDcode": "MUDR-094",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 有花もえ",
+    "title": "MUDR-094 从那天起 穿着制服的美女在接受捆绑训练，她就是中桥萌 Arihana",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "水手服",
       "中出",
       "捆绑",
+      "内射",
+      "剧情",
+      "单人作品",
+      "水手服",
+      "戏剧",
       "SM",
-      "戏剧"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-01-13",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/06/s0ezcleqto4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-094.jpg",
     "actress": [
       "有花萌"
     ],
@@ -163,62 +267,75 @@ window.PAGE_DATA = [
   {
     "id": 76550,
     "IDcode": "MUDR-095",
-    "title": "高考结束的我-佐知子",
+    "title": "MUDR-095 毕业相册 Delihelle 神秘的 Delihelle，您可以从毕业相册中提名一位同学 在梦幻般的毕业相册中，您可以将学生时代仰慕的漂亮女孩称为 Delihelle 女孩！ 幸子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "美少女电影",
-      "巨乳",
-      "校服"
+      "美少女",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "校服",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-01-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-095.jpg",
+    "actress": [
+      "佐知子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-095"
   },
   {
     "id": 76353,
     "IDcode": "MUDR-096",
-    "title": "带高中生女友去看病-枢木あおい",
+    "title": "MUDR-096 老色鬼医生的舔脸诊断 中出处方笺",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美少女电影",
       "接吻",
-      "水手服"
+      "水手服",
+      "内射",
+      "美少女电影",
+      "中出",
+      "美少女",
+      "单人作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2df7ce737e1e9b57d1d02088f4fbabc0.jpg",
+    "publish_date": "2020-01-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-096.jpg",
     "actress": [
-      "枢木葵"
+      "枢木葵",
+      "冴山敏树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-096"
   },
   {
     "id": 75186,
     "IDcode": "MUDR-097",
-    "title": "個撮性交02 制服少女とオジサン 汗っかきのハニカミ少女がプライベートイチャラブSEX 香坂みりな",
+    "title": "MUDR-097 个人拍摄的性交 02：穿制服的女孩与老人 汗流浃背的蜜色女孩与 Mirina Kosaka 私下做爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "第一人称摄影",
+      "制服",
       "美少女电影",
+      "美少女",
+      "口交",
+      "单人作品",
       "颜射",
-      "制服"
+      "主观视角"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-01-13",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/9acccdcc02fd9cbc26cbf19292c9ba83.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-097.jpg",
     "actress": [
       "香坂みりな"
     ],
@@ -227,52 +344,73 @@ window.PAGE_DATA = [
   {
     "id": 165129,
     "IDcode": "MUDR-098",
-    "title": "性格软弱的女学生-深田えいみ",
+    "title": "MUDR-098 性格软弱的女学生被寝室班主任欺负内射却不敢抵抗",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "原创合作",
+      "内射",
+      "制服",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-02-13",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/335192d29c5f3d47fcfbc64e6c6537be.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-098.jpg",
+    "actress": [
+      "深田詠美",
+      "泽地真人"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-098"
   },
   {
     "id": 407647,
     "IDcode": "MUDR-100",
-    "title": "制服少女とオジサン 有栖露露",
+    "title": "MUDR-100 穿制服的女孩和男孩 Ruru Arisu",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "潮吹",
+      "美少女",
+      "接吻",
+      "单人作品",
+      "放尿",
+      "主观视角"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/b61248acb5889019f73bff36ca6957b7.jpg",
-    "actress": [],
+    "publish_date": "2020-02-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-100.jpg",
+    "actress": [
+      "乙愛麗絲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-100"
   },
   {
     "id": 75390,
     "IDcode": "MUDR-101",
-    "title": "年の差30超え。 おじさんの事が好き過ぎる彼女がニコニコ泊まりに来たので、時間も忘れて家中でひたすらハメまくった記録。 弥生みづき",
+    "title": "MUDR-101 年龄相差 30 多岁。 她来家里过夜，在家里到处和他做爱，忘记了时间。 水木弥生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
+      "制服",
       "美少女电影",
+      "美少女",
       "接吻",
-      "颜射",
-      "制服"
+      "口交",
+      "单人作品",
+      "颜射"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-03-13",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/fc166f9815dc6b79e844234874030d46.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-101.jpg",
     "actress": [
+      "彌生美月",
       "弥生美月"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-101"
@@ -280,21 +418,25 @@ window.PAGE_DATA = [
   {
     "id": 81878,
     "IDcode": "MUDR-102",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 河南実里",
+    "title": "MUDR-102 从那天起... 穿着制服的漂亮女孩在接受捆绑训练 并被中田志里-科南(Jisato Konan)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "水手服",
       "中出",
-      "美少女电影",
       "捆绑",
-      "SM"
+      "美少女电影",
+      "美少女",
+      "内射",
+      "单人作品",
+      "水手服",
+      "SM",
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-03-13",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/9fd6784c8f4e834733e38eeed17b971d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-102.jpg",
     "actress": [
       "河南実里"
     ],
@@ -303,22 +445,25 @@ window.PAGE_DATA = [
   {
     "id": 81845,
     "IDcode": "MUDR-103",
-    "title": "139cmの子作り練習。 おじさんとセックスし続けたオトナなカラダ 市川花音",
+    "title": "MUDR-103 139 厘米的生育实践。 与叔叔哈农-市川不断发生性关系的奥托纳身体。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "水手服",
       "潮吹",
+      "平胸",
       "接吻",
-      "情侣",
-      "平胸"
+      "单人作品",
+      "水手服",
+      "美胸",
+      "情侣"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-03-13",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/78a412afb68ff57a459c80027624bf91.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-103.jpg",
     "actress": [
+      "花音うらら",
       "市川花音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-103"
@@ -326,20 +471,23 @@ window.PAGE_DATA = [
   {
     "id": 98912,
     "IDcode": "MUDR-105",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 佐知子",
+    "title": "MUDR-105 从那天起 穿着制服的漂亮女孩幸子正在接受捆绑训练和中田希的训练。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "巨乳",
       "捆绑",
-      "SM"
+      "内射",
+      "单人作品",
+      "SM",
+      "拘束",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2020-04-13",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-105.jpg",
     "actress": [
       "佐知子"
     ],
@@ -348,21 +496,24 @@ window.PAGE_DATA = [
   {
     "id": 81838,
     "IDcode": "MUDR-106",
-    "title": "地味なふりした優等生 エッチが大好き過ぎて理性が保てなくなるおじさん大好き娘のリアル交尾。 咲乃小春",
+    "title": "MUDR-106 装作清醒的优等生 真实交配的大叔爱女，对性的热爱让她无法保持理智。 榊野小春",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "第一人称摄影",
       "美少女电影",
+      "美少女",
       "接吻",
-      "颜射"
+      "口交",
+      "单人作品",
+      "颜射",
+      "主观视角"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/929e7e80f485d9962feba8af420cdd22.jpg",
+    "publish_date": "2020-04-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-106.jpg",
     "actress": [
       "咲乃小春"
     ],
@@ -371,38 +522,49 @@ window.PAGE_DATA = [
   {
     "id": 223588,
     "IDcode": "MUDR-107",
-    "title": "性欲满满的妹妹-有村えりか",
+    "title": "MUDR-107 她的妹妹是个性变态，春天就要去寄宿学校上学，在她搬走之前，她要在哥哥的房间里干三天。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "乱伦",
+      "美少女",
+      "侮辱",
+      "内射",
+      "单人作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/38ea4e244dca82379f17871258b8ea62.jpg",
-    "actress": [],
+    "publish_date": "2020-04-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-107.jpg",
+    "actress": [
+      "ありむらえりか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-107"
   },
   {
     "id": 107386,
     "IDcode": "MUDR-109",
-    "title": "緊縛調教中出し-永瀬ゆい",
+    "title": "MUDR-109 从那天起 身着制服的美丽女孩正在接受捆绑训练，她就是长濑中达由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "美少女电影",
       "捆绑",
+      "美少女电影",
+      "美少女",
+      "内射",
+      "剧情",
+      "单人作品",
+      "戏剧",
       "SM",
-      "戏剧"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/08/db579ec297f45f9fced3c7a0bc311147.jpg",
+    "publish_date": "2020-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-109.jpg",
     "actress": [
       "永瀬ゆい"
     ],
@@ -411,68 +573,92 @@ window.PAGE_DATA = [
   {
     "id": 177725,
     "IDcode": "MUDR-110",
-    "title": "经典漫改被伯父伸出的毒牙狠狠咬住无法脱身的巨乳制服学生妹佐知子",
+    "title": "MUDR-110 哥哥的女儿 1 和 2 Sachiko",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内射",
+      "单人作品",
+      "原创合作",
+      "水手服",
       "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/06/9d72d981/vod.jpg",
-    "actress": [],
+    "publish_date": "2020-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-110.jpg",
+    "actress": [
+      "佐知子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-110"
   },
   {
     "id": 407649,
     "IDcode": "MUDR-111",
-    "title": "会えば100％性交。制服の下はいつでも濡れ濡れ状態でおじさんに求められるのを期待しているスケベな美少女とどこでもヤリまくり濃密セックス 久留木玲",
+    "title": "MUDR-111 遇到她时，100%性交。与一个制服下总是湿漉漉的肮脏漂亮女孩进行激烈的性爱，她希望得到叔叔的青睐，并与他到处乱搞。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "制服",
+      "美少女",
+      "接吻",
+      "口交",
+      "羞辱"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6b6cb65aa9bd399050c74311416b51c0.jpg",
-    "actress": [],
+    "publish_date": "2020-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-111.jpg",
+    "actress": [
+      "久留木玲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-111"
   },
   {
     "id": 492483,
     "IDcode": "MUDR-112",
-    "title": "おじさんとのSEXにハマるイキまくりドスケベ美少女。 ヤリマンではない、純粋にSEXとおじさんが好きなだけのニコニコ性格よし子ちゃん 高城光",
+    "title": "MUDR-112 一个沉迷于与叔叔做爱的美丽、好色、肮脏的女孩。 芳子不是一个荡妇，她只是真心喜欢性和她的叔叔。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "口交",
+      "美少女",
+      "制服",
+      "素人"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a415a9517d2ccfa6b4cc5a0690acfdc9.jpg",
-    "actress": [],
+    "publish_date": "2020-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-112.jpg",
+    "actress": [
+      "高城ひかる"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-112"
   },
   {
     "id": 68858,
     "IDcode": "MUDR-113",
-    "title": "心理医生的催眠-美園和花",
+    "title": "MUDR-113 Netorimbo 真人版 一个纯洁无暇的美丽女孩在一个腐败的心理医生的催眠下失去了贞操......瓦卡-米索诺（Waka Misono）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "原作改编",
+      "白虎",
+      "单人作品",
+      "原创合作",
+      "无毛",
       "巨乳",
       "单体作品",
-      "原作改编",
-      "无毛",
       "深喉"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/23dc71c59a1285af69883f668ce2d82c.jpg",
+    "publish_date": "2020-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-113.jpg",
     "actress": [
       "美園和花"
     ],
@@ -481,21 +667,22 @@ window.PAGE_DATA = [
   {
     "id": 93135,
     "IDcode": "MUDR-114",
-    "title": "すぐ濡れちゃう爆乳制服少女 おじさんとヤリたいお年頃。Kカップ",
+    "title": "MUDR-114 穿着校服的爆乳，很容易就湿了 老得足以和 K 杯大叔做爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
+      "制服",
       "美少女电影",
-      "舔阴",
+      "美少女",
       "接吻",
-      "制服"
+      "巨乳",
+      "舔阴"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/4c1f84dc14723cf660276683dfa5a14b.jpg",
+    "publish_date": "2020-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-114.jpg",
     "actress": [
       "小梅惠奈"
     ],
@@ -504,211 +691,311 @@ window.PAGE_DATA = [
   {
     "id": 209392,
     "IDcode": "MUDR-115",
-    "title": "体質の制服美少女 根尾あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/24/QQ20200624191550f53ab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-115"
-  },
-  {
-    "id": 210362,
-    "IDcode": "MUDR-124",
-    "title": "制服美少女-久留木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/a35af8efc431971e2c0ad0b1790266dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-124"
-  },
-  {
-    "id": 88142,
-    "IDcode": "MUDR-125",
-    "title": "阴暗的女孩-深田えいみ",
+    "title": "MUDR-115 Akari Nebo，一个有着 NTR 体质的漂亮制服女孩，走到哪里都会被戴绿帽子。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "制服",
-      "巨乳"
+      "美少女",
+      "NTR",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/81ba64e843616a547afc530c5756007f.jpg",
-    "actress": [],
+    "publish_date": "2020-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-115.jpg",
+    "actress": [
+      "新村朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-115"
+  },
+  {
+    "id": 210362,
+    "IDcode": "MUDR-124",
+    "title": "MUDR-124 Mizumitsu Shoujo 1 & 2 真人版 穿着睡衣的漂亮女孩被戴着粗俗眼镜的班主任在睡梦中强奸，夺走了她的贞操。 黑木怜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "美少女",
+      "内射",
+      "单人作品",
+      "原创合作"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2020-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-124.jpg",
+    "actress": [
+      "久留木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-124"
+  },
+  {
+    "id": 88142,
+    "IDcode": "MUDR-125",
+    "title": "MUDR-125 即使被班主任强奸，阴影中的美丽女孩也会现身 2 老实说，你可能是世界上最性感的女孩 深田绘美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "原创合作",
+      "单人作品",
+      "巨乳",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2020-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-125.jpg",
+    "actress": [
+      "深田詠美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-125"
   },
   {
     "id": 212267,
     "IDcode": "MUDR-126",
-    "title": "制服美少女-久留木玲",
+    "title": "MUDR-126 从那天起 穿着制服的美丽女孩正在接受捆绑训练，她就是中达志-栗木怜（Nakadashi Rei Kurugi",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "潮吹",
+      "内射",
+      "单人作品",
+      "女学生",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/15/84d6ecda03b644b84a9bd6f0d5788b60.jpg",
-    "actress": [],
+    "publish_date": "2020-10-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-126.jpg",
+    "actress": [
+      "久留木玲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-126"
   },
   {
     "id": 222086,
     "IDcode": "MUDR-132",
-    "title": "第一份工作-松本いちか",
+    "title": "MUDR-132 巧克力 Mizuno Aoi 第一次上班 Ichika Matsumoto",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "迷你",
+      "内射",
+      "紧身衣",
+      "单人作品",
+      "原创合作",
+      "美胸"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/2994310e832294fa959e83f577654511.jpg",
-    "actress": [],
+    "publish_date": "2020-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-132.jpg",
+    "actress": [
+      "松本一香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-132"
   },
   {
     "id": 211289,
     "IDcode": "MUDR-133",
-    "title": "放課後代理妻-枢木あおい",
+    "title": "MUDR-133 放学后的代孕妻子：公公想让女儿仓木葵怀孕",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "侮辱",
+      "内射",
+      "单人作品",
+      "原创合作"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/28/75ea3f3a52b52cbcd5589247065ae196.jpg",
-    "actress": [],
+    "publish_date": "2020-12-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-133.jpg",
+    "actress": [
+      "枢木葵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-133"
   },
   {
     "id": 555542,
     "IDcode": "MUDR-139",
-    "title": "おっパブでバイトしているHカップの地味なメガネっ子は娘の同级生",
+    "title": "MUDR-139 在酒吧兼职的那个戴 H 罩杯眼镜的女孩是我女儿的同学，她求我帮她保密，所以我得到了意想不到的实实在在的服务。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳控",
+      "内射",
+      "女招待",
+      "单人作品",
+      "眼镜",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-02-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-139.jpg",
+    "actress": [
+      "初愛寧寧"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-139"
   },
   {
     "id": 593734,
     "IDcode": "MUDR-143",
-    "title": "妹妹是辣妹真是可爱 真人版 加藤桃香",
+    "title": "MUDR-143 Imouto wa GAL kawaii - live action - My gal sister begs for skinship. 加藤桃香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "潮吹",
+      "乱伦",
+      "美少女",
+      "接吻",
+      "内射",
+      "单人作品",
+      "原创合作"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-03-13",
+    "cover_url": "https://c0.jdbstatic.com/covers/np/NpMwN.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-143"
   },
   {
     "id": 407632,
     "IDcode": "MUDR-145",
-    "title": "制服同學會NTR 藉著酒勁被強迫接吻的我 河奈亞依",
+    "title": "MUDR-145 制服重聚 NTR - 我被酒精的气势强吻了...... - Ai Kona",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "制服",
+      "3P",
+      "4P",
+      "NTR",
+      "内射",
+      "淫妻",
+      "单人作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a2ff973f47cc69abaa194a1194f24d04.jpg",
-    "actress": [],
+    "publish_date": "2021-04-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-145.jpg",
+    "actress": [
+      "河奈亜依"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-145"
   },
   {
     "id": 594032,
     "IDcode": "MUDR-149",
-    "title": "水蜜美乳少女被噁肥摄影师狂干高潮内射 久留木玲",
+    "title": "MUDR-149 水蜜桃女孩 3 4 5 真人版仓木玲",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "美少女",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "水手服"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-149.jpg",
+    "actress": [
+      "久留木玲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-149"
   },
   {
     "id": 593914,
     "IDcode": "MUDR-150",
-    "title": "思春期NTR～我的女友被陌生大叔给睡了… 姬野牛奶",
+    "title": "MUDR-150 青春期 NTR 我的女友被陌生男子戴了绿帽子...... Miruku Himeno",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "制服",
+      "NTR",
+      "内射",
+      "淫妻",
+      "单人作品",
+      "女学生"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-150.jpg",
+    "actress": [
+      "姫野みるく"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-150"
   },
   {
     "id": 594181,
     "IDcode": "MUDR-151",
-    "title": "援交对象居然是父亲…！？ 承受道德感絶顶的巨乳学生妹 若宫穗乃",
+    "title": "MUDR-151 援助的伙伴是父亲.....！ 若宫本宇是个大胸的 J-chan，她和父亲的鸡巴一起达到了高潮，父亲的鸡巴和她的鸡巴产生了极好的化学反应，让她感到很不道德。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "乱伦"
+      "乱伦",
+      "美少女",
+      "侮辱",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-151.jpg",
+    "actress": [
+      "若宮穂乃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-151"
   },
   {
     "id": 79339,
     "IDcode": "MUDR-153",
-    "title": "猥亵行为-初川みなみ",
+    "title": "MUDR-153 淫荡 - 不，绝对不是。完整版初川南。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "原作改编",
       "中出",
+      "3P",
+      "4P",
+      "内射",
+      "痴汉",
+      "单人作品",
+      "原创合作",
       "多P"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/03/95e5a04837ac75bb04b119228201f94f.jpg",
+    "publish_date": "2021-07-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-153.jpg",
     "actress": [
       "初川南"
     ],
@@ -717,21 +1004,25 @@ window.PAGE_DATA = [
   {
     "id": 68859,
     "IDcode": "MUDR-156",
-    "title": "制服美少女-初川みなみ",
+    "title": "MUDR-156 从那天起 穿着制服的美女在接受捆绑训练，她就是初川南",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "中出",
       "高中女生",
       "捆绑",
-      "SM"
+      "内射",
+      "拘束",
+      "单人作品",
+      "女学生",
+      "SM",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/3393547c6c554dafae35b0b7ad934a3b.jpg",
+    "publish_date": "2021-08-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-156.jpg",
     "actress": [
       "初川南"
     ],
@@ -740,43 +1031,57 @@ window.PAGE_DATA = [
   {
     "id": 79281,
     "IDcode": "MUDR-161",
-    "title": "スカッとする話！おじさんを手玉に取るつもりだったあざといパパ活少女が逆に弱味を握られ、 嫌々の生中出しSEXで感じまくってイキまくってしまう一部始終。 堀中未来",
+    "title": "MUDR-161 刻薄的故事！一个本想捉弄叔叔的 \"爸爸的女孩 \"陷入了脆弱的境地，最终在不情愿的原始 Nakadashi 性爱中感受到了快感和高潮。 堀中未来",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "魔鬼系",
       "中出",
+      "魔鬼系",
       "美少女电影",
-      "接吻"
+      "恶女",
+      "美少女",
+      "接吻",
+      "内射",
+      "单人作品",
+      "羞耻",
+      "羞辱"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-09-21",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/urefohaq.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-161.jpg",
+    "actress": [
+      "堀中未来"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-161"
   },
   {
     "id": 80338,
     "IDcode": "MUDR-162",
-    "title": "家出ギャルを拾ったらハーレムになった話 ～同棲生活はじまり編～ 純真白ギャルとイケイケ黒ギャルに囲まれる夢の逆3P生活 姫咲はな 木下ひまり",
+    "title": "MUDR-162 一个离家出走的女孩被捡回后变成后宫的故事：共同生活的开始--被纯白女孩和酷黑女孩环绕的梦幻反向三人行生活 姬崎绯里木下花",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "原作改编",
-      "淫乱，真实",
-      "女生",
+      "下流",
+      "制服",
+      "3P",
       "两女一男",
+      "女生",
+      "4P",
+      "FFM",
+      "淫乱，真实",
+      "重口味",
+      "原创合作",
       "多P",
-      "制服"
+      "辣妹"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-09-21",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/MDeh4KJi.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-162.jpg",
     "actress": [
       "木下日葵",
       "姫咲華"
@@ -786,50 +1091,74 @@ window.PAGE_DATA = [
   {
     "id": 221660,
     "IDcode": "MUDR-163",
-    "title": "给她们做了姐妹式的口交",
+    "title": "MUDR-163 我的J*外甥女的软肋--妹妹版--真人版那天，我威胁了我那该死的厚脸皮外甥女姐妹，给她们来了个姐妹口交。 新田美玲、白石加奈",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "4P",
+      "原创合作",
+      "3P",
+      "妹妹"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/bd36c684944b3f40549bbd3be8c7d330.jpg",
-    "actress": [],
+    "publish_date": "2021-09-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-163.jpg",
+    "actress": [
+      "白石環奈",
+      "新田みれい"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-163"
   },
   {
     "id": 222013,
     "IDcode": "MUDR-165",
-    "title": "学校的故事",
+    "title": "MUDR-165 日语、数学、科学和习俗 真人版 一个梦幻般的校园故事，下午的课程变成了习俗。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "校园",
+      "口交",
+      "女招待",
+      "原创合作",
+      "女学生"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/876290a01bfe7eaea73d49ad8f2f056f.jpg",
-    "actress": [],
+    "publish_date": "2021-10-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-165.jpg",
+    "actress": [
+      "姫咲華",
+      "真木今日子",
+      "泉莉音",
+      "逢見梨花",
+      "日泉舞香",
+      "浅田結梨"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-165"
   },
   {
     "id": 85606,
     "IDcode": "MUDR-168",
-    "title": "1人の少女が体験した、地獄の三日間。 祭壇の悪夢 ～緊縛仕込みの供物少女～ 木下ひまり",
+    "title": "MUDR-168 一个女孩在地狱中经历的三天。 祭坛上的噩梦--被束缚的供奉少女--木下妃魅。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "高中女生",
-      "监禁",
       "捆绑",
-      "SM"
+      "单人作品",
+      "监禁",
+      "女学生",
+      "SM",
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-11-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/585b25211b080047c82cf71e246a078d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-168.jpg",
     "actress": [
       "木下日葵"
     ],
@@ -838,21 +1167,26 @@ window.PAGE_DATA = [
   {
     "id": 80104,
     "IDcode": "MUDR-169",
-    "title": "天真烂漫的小恶魔-工藤ララ",
+    "title": "MUDR-169 工藤拉拉的洛丽塔诱惑，一个与沉闷的老教师玩耍的年轻魔女。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "制服",
       "中出",
       "美少女电影",
+      "美少女",
+      "内射",
+      "单人作品",
+      "手交",
       "手淫",
-      "淫语",
-      "制服"
+      "脏话",
+      "淫语"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/26/bfee888b87392e963f81093989837a8f.jpg",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-169.jpg",
     "actress": [
       "工藤拉拉"
     ],
@@ -861,21 +1195,25 @@ window.PAGE_DATA = [
   {
     "id": 79930,
     "IDcode": "MUDR-170",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 百瀬あすか",
+    "title": "MUDR-170 从那天起 身着制服的美丽女孩正在接受捆绑训练，她就是 Nakadashi Asuka Momose",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "制服",
       "中出",
-      "戏剧",
       "捆绑",
+      "内射",
+      "剧情",
+      "单人作品",
+      "戏剧",
       "SM",
-      "制服"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-11-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/43bc5b03832fe22e5ceea2f136f0ed95.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-170.jpg",
     "actress": [
       "小栗操"
     ],
@@ -884,23 +1222,30 @@ window.PAGE_DATA = [
   {
     "id": 85670,
     "IDcode": "MUDR-171",
-    "title": "イマドキ少女のアナル援交 成金オヤジのJ○アナル大人買い6穴使い放題スペシャル 宮沢ちはる 加賀美さら",
+    "title": "MUDR-171 Imadoki girl analment reinforcement adult male J* anal adult purchase all-you-can-use-six-holes special Chiharu Miyazawa Sara Kagami",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
       "中出",
+      "3P",
       "高中女生",
+      "肛交",
+      "吞精",
+      "4P",
+      "内射",
+      "肛门",
+      "女学生",
       "多P",
-      "肛交"
+      "射精"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-12-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-171.jpg",
     "actress": [
       "宫泽千春",
+      "加賀美さら",
       "加贺美さら"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-171"
@@ -908,20 +1253,24 @@ window.PAGE_DATA = [
   {
     "id": 85663,
     "IDcode": "MUDR-172",
-    "title": "半夜里随时与美女做爱-さつき芽衣",
+    "title": "MUDR-172 如果您看到这张脸，请立即举报！ 全新的通缉系统，任何人都可以在任何时候与美女做爱并射精 Mei Satsuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "巨乳",
       "高中女生",
-      "白天出轨"
+      "白天出轨",
+      "强奸",
+      "内射",
+      "单人作品",
+      "女学生",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/d4068baa3fd602bc01b3981aeb0ae455.jpg",
+    "publish_date": "2021-12-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-172.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -930,22 +1279,27 @@ window.PAGE_DATA = [
   {
     "id": 85637,
     "IDcode": "MUDR-173",
-    "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 白石かんな",
+    "title": "MUDR-173 从那天起 穿着制服的美丽女孩接受捆绑训练和中桥香奈白石",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白虎",
       "中出",
-      "无毛",
-      "放尿",
       "捆绑",
+      "内射",
+      "剧情",
+      "单人作品",
+      "戏剧",
+      "放尿",
+      "无毛",
       "SM",
-      "戏剧"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2021-12-21",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://c0.jdbstatic.com/covers/2v/2v41N.jpg",
     "actress": [
       "白石環奈"
     ],
@@ -954,20 +1308,24 @@ window.PAGE_DATA = [
   {
     "id": 85630,
     "IDcode": "MUDR-174",
-    "title": "地獄三日間-乃木蛍",
+    "title": "MUDR-174 一个女孩经历了地狱般的三天。 身着制服的美丽女孩野木穗子被陌生人关起来，接受捆绑训练。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "制服",
+      "3P",
       "捆绑",
+      "4P",
+      "单人作品",
       "监禁",
-      "多P"
+      "多P",
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/6db22db994435fb0de0de46f636eafa0.jpg",
+    "publish_date": "2021-12-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-174.jpg",
     "actress": [
       "乃木蛍"
     ],
@@ -976,18 +1334,25 @@ window.PAGE_DATA = [
   {
     "id": 156983,
     "IDcode": "MUDR-175",
-    "title": "紧缚调教肏翻内射学生妹",
+    "title": "MUDR-175 从那天起... 穿着制服的美丽女孩接受捆绑训练和中田希（Nakadashi），Winter Ai Kane",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "中文字幕",
+      "内射",
+      "剧情",
+      "单人作品",
+      "女学生",
+      "SM",
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241113-1/908432e13b33460a0900ab7fa5369dba.jpg",
+    "publish_date": "2022-01-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-175.jpg",
     "actress": [
+      "冬愛琴音",
       "冬爱琴音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-175"
@@ -995,53 +1360,75 @@ window.PAGE_DATA = [
   {
     "id": 525704,
     "IDcode": "MUDR-177",
-    "title": "放课后调教倶楽部 ～自ら紧缚を望む调教志愿マゾヒズム。～ 高瀬りな",
+    "title": "MUDR-177 课余训练俱乐部 - 自愿训练渴望被自己捆绑的受虐狂。～ 高濑丽奈",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "羞辱",
+      "单人作品",
+      "重口味",
+      "女学生",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230224/mudr177pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-01-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-177.jpg",
+    "actress": [
+      "高瀬りな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-177"
   },
   {
     "id": 85622,
     "IDcode": "MUDR-178",
-    "title": "毒親の借金のカタに売られた少女。イッてもイッても止まらない絶頂地獄に哭く",
+    "title": "MUDR-178 一个女孩被卖给毒贩父母还债。在地狱般的高潮中哀嚎，无论她如何挣扎都无法停止。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "水手服",
-      "魔鬼系",
       "中出",
+      "魔鬼系",
+      "3P",
       "美少女电影",
+      "恶女",
+      "美少女",
+      "内射",
+      "4P",
+      "水手服",
       "多P"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2022-02-15",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230127-1/fcbfa87918794c1dd86d72b1496fd3c6.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-178.jpg",
+    "actress": [
+      "川原りま"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-178"
   },
   {
     "id": 155808,
     "IDcode": "MUDR-179",
-    "title": "無碼破解版团鬼六无垢本格戏剧奴隶少女",
+    "title": "MUDR-179 Dan Oniroku x 'Innocent' authentic drama Natsu Tojo, Natsu.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "无码"
+      "美少女",
+      "无码",
+      "单人作品",
+      "羞辱",
+      "SM",
+      "拘束"
     ],
     "type": "无码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241024-1/ec052ade6d518c97bc6ff49d78ee07dc.jpg",
+    "publish_date": "2022-02-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-179.jpg",
     "actress": [
       "東條夏"
     ],
@@ -1050,15 +1437,22 @@ window.PAGE_DATA = [
   {
     "id": 156341,
     "IDcode": "MUDR-180",
-    "title": "紧缚调教肏翻内射学生妹",
+    "title": "MUDR-180 从那天起 穿着制服的美丽女孩被捆绑并训练成中桥舞花狩",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "内射",
+      "单人作品",
+      "女学生",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240922-1/124a635bb704ef4b720f3ec5d1e1aafd.jpg",
+    "publish_date": "2022-02-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-180.jpg",
     "actress": [
       "花狩舞"
     ],
@@ -1067,22 +1461,28 @@ window.PAGE_DATA = [
   {
     "id": 85616,
     "IDcode": "MUDR-182",
-    "title": "無垢15周年記念作品-工藤ララ",
+    "title": "MUDR-182 乡村固体 15 周年纪念作品 Lara Kudo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
       "原作改编",
-      "放尿",
+      "中出",
       "平胸",
-      "瘦小身型"
+      "迷你",
+      "内射",
+      "瘦小身型",
+      "洛丽塔",
+      "单人作品",
+      "原创合作",
+      "放尿",
+      "美胸",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/47e1acebf88d33a01f9c3cf12634ec59.jpg",
+    "publish_date": "2022-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-182.jpg",
     "actress": [
       "工藤拉拉"
     ],
@@ -1091,83 +1491,109 @@ window.PAGE_DATA = [
   {
     "id": 81199,
     "IDcode": "MUDR-183",
-    "title": "吊縛の監禁輪-さつき芽衣",
+    "title": "MUDR-183 即使如此 我还是… 吊缚监禁轮奸 哭喊的少女 中出彻底调教",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
-      "捆绑",
+      "3P",
       "SM",
+      "单体作品",
       "多P",
-      "制服"
+      "拘束",
+      "内射",
+      "捆绑",
+      "制服",
+      "4P",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/c4b49d74758551fac19e97296d884bea.jpg",
+    "publish_date": "2022-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-183.jpg",
     "actress": [
-      "沙月芽衣"
+      "沙月芽衣",
+      "ダウ兄",
+      "工藤健太"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-183"
   },
   {
     "id": 81197,
     "IDcode": "MUDR-184",
-    "title": "放課後調教倶楽部 緊縛露出に酔い痴れる変態美少女 ～自ら緊縛を望む調教志願マゾヒズム。～ 高橋りほ",
+    "title": "MUDR-184 课余训练俱乐部 - 沉醉于捆绑暴露的变态美女 - 渴望被自己捆绑的受虐狂训练志愿者。～ 高桥礼穗",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
+      "SM",
       "户外",
-      "巨乳",
       "高中女生",
       "捆绑",
-      "SM"
+      "拘束",
+      "单人作品",
+      "女学生",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20eeddb8c77d79bb69708/cover.jpg",
-    "actress": [],
+    "publish_date": "2022-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-184.jpg",
+    "actress": [
+      "白橋里帆"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-184"
   },
   {
     "id": 85628,
     "IDcode": "MUDR-185",
-    "title": "心地纯洁的女孩-夏巳ゆりか",
+    "title": "MUDR-185 你愿意成为主要提名人吗？ 她是一个很好的倾听者，也是一个很好的地板女孩。头号主提名人，抓住老人的心不放手。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
+      "礼仪小姐",
       "中出",
       "美少女电影",
-      "礼仪小姐",
+      "美少女",
+      "内射",
+      "女招待",
+      "单人作品",
+      "巨乳",
+      "单体作品",
       "苗条"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/e431aeb19dce06308b816d0afbd1f286.jpg",
-    "actress": [],
+    "publish_date": "2022-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-185.jpg",
+    "actress": [
+      "夏巳百合香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-185"
   },
   {
     "id": 155635,
     "IDcode": "MUDR-186",
-    "title": "透明感出眾的純白美少女肛交解禁肛門處女喪失",
+    "title": "MUDR-186 透明纯白美女，肛门释放，肛门失贞，Yuzu Shirakawa。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "美少女",
+      "内射",
+      "肛门",
+      "单人作品",
+      "深喉"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/ee3ba4df420a79b3bea3ac337970a5c7.jpg",
+    "publish_date": "2022-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-186.jpg",
     "actress": [
       "白川柚子"
     ],
@@ -1176,22 +1602,26 @@ window.PAGE_DATA = [
   {
     "id": 85623,
     "IDcode": "MUDR-187",
-    "title": "G罩杯女学生-さつき芽衣",
+    "title": "MUDR-187 我作为一名男性和一名女性，一名 G 杯女学生和一名同龄男孩，长期单独呆在同一屋檐下，了解性爱的美妙感觉，并像猴子一样互相操弄 Mei Satsuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "巨乳",
-      "单体作品",
-      "中出",
       "原作改编",
-      "高中女生"
+      "中出",
+      "高中女生",
+      "内射",
+      "口交",
+      "单人作品",
+      "原创合作",
+      "女学生",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/43d09ecfc002d377879d878af5dfe094.jpg",
+    "publish_date": "2022-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-187.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -1200,87 +1630,125 @@ window.PAGE_DATA = [
   {
     "id": 556441,
     "IDcode": "MUDR-188",
-    "title": "Yuri 枯萎男汁染纯 Yuri 情侣 NTR Les ● Pu Tsukino Kasumi Satsuki Ena - 沙月惠奈",
+    "title": "MUDR-188 Yuri Kare Rashi 纯情百合情侣 NTR le-rape, dirty with male juices Kasumi Tsukino Ena Sazuki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "女同",
+      "FFM",
+      "NTR",
+      "内射",
+      "淫妻",
+      "深喉",
+      "女同接吻"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230320-1/954aaf7aca1fae1cd6754121d5c8d1d6.jpg",
-    "actress": [],
+    "publish_date": "2022-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-188.jpg",
+    "actress": [
+      "沙月惠奈",
+      "月野香澄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-188"
   },
   {
     "id": 556434,
     "IDcode": "MUDR-189",
-    "title": "性欲太色情的制服美少女出汗吞食男人佐野夏的无与伦比的性交 - 佐野なつ",
+    "title": "MUDR-189 性欲泛滥，穿着性感制服的美丽女孩浑身是汗，在一场巨大的性交中吞食了一名男子，Natsu Sano。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "制服",
+      "3P",
+      "出汗",
+      "4P",
+      "内射",
+      "单人作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ad5f054d34f7a25930803b117bb5ba63.jpg",
-    "actress": [],
+    "publish_date": "2022-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-189.jpg",
+    "actress": [
+      "佐野なつ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-189"
   },
   {
     "id": 156399,
     "IDcode": "MUDR-190",
-    "title": "神秘G罩杯北欧混血儿桃爱夕映桃爱ゆえ出道",
+    "title": "MUDR-190 从那天起 穿着制服的美丽女孩被捆绑并训练成为 Nakadashi Noa Uika",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "SM",
+      "出道作",
+      "内射",
+      "单人作品",
+      "女学生",
       "巨乳",
-      "出道作"
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2022-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-190.jpg",
+    "actress": [
+      "桃愛ゆえ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-190"
   },
   {
     "id": 556437,
     "IDcode": "MUDR-191",
-    "title": "偷窥、入屋、遮盖熟睡的少女……睡眠学习。阴道射精继续愉快地种植的女孩的身体",
+    "title": "MUDR-191 偷窥、入室抢劫、掩护熟睡的女孩...... 睡眠研究一个不断被灌输 Nakadashi 快感的女孩的身体...... 仓本堇",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "女学生",
+      "偷窥者",
+      "内射",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/14abe4e098a8f0298a08f6737c128aa7.jpg",
-    "actress": [],
+    "publish_date": "2022-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-191.jpg",
+    "actress": [
+      "倉本菫"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-191"
   },
   {
     "id": 85664,
     "IDcode": "MUDR-192",
-    "title": "地雷系美少女-横宮七海 白石かんな",
+    "title": "MUDR-192 FANZA Limited W sickly cute mine type beautiful girl Brush down a dull virgin old man. 横宫奈奈美白石加奈，附 3 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "水手服",
-      "中出",
       "处男",
+      "中出",
+      "3P",
       "美少女电影",
+      "美少女",
+      "4P",
+      "内射",
+      "水手服",
       "多P"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841762b41a147ed1a5f0fc7/cover.jpg",
+    "publish_date": "2022-05-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-192.jpg",
     "actress": [
+      "横宮七海",
       "白石環奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-192"
@@ -1288,17 +1756,24 @@ window.PAGE_DATA = [
   {
     "id": 155814,
     "IDcode": "MUDR-193",
-    "title": "無碼破解版紧缚露出羞耻觉醒的变态美少女",
+    "title": "MUDR-193 变态美女被捆绑唤醒暴露羞耻 东条夏子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "无码"
+      "下流",
+      "户外",
+      "制服",
+      "无码",
+      "单人作品",
+      "重口味",
+      "羞辱",
+      "拘束"
     ],
     "type": "无码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20dd7cf22ae3e04a81e24/cover.jpg",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-193.jpg",
     "actress": [
       "東條夏"
     ],
@@ -1307,53 +1782,73 @@ window.PAGE_DATA = [
   {
     "id": 565766,
     "IDcode": "MUDR-194",
-    "title": "家赁の代わりに母亲に売られた少女 监禁调教7日间 工藤ララ 微乳少女を饲いならす",
+    "title": "MUDR-194 女孩被母亲卖掉以换取房租 7 天的禁闭和训练 驯服乳房过小的女孩 Lara Kudo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "乱伦",
+      "单人作品",
+      "监禁",
+      "美胸",
+      "拘束"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e9ed92fd020076d6085b0b6bde860b99.jpg",
-    "actress": [],
+    "publish_date": "2022-06-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-194.jpg",
+    "actress": [
+      "工藤拉拉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-194"
   },
   {
     "id": 556433,
     "IDcode": "MUDR-195",
-    "title": "关在笼子里的纯爱女孩 爱上变态老师的女孩接受了男人的全部",
+    "title": "MUDR-195 笼中的纯情少女 爱上变态老师的女孩接受男人的一切...... 过度扭曲的纯情宠物和被囚禁的老师诺艾卡。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "口交",
+      "剧情",
+      "单人作品",
+      "监禁",
+      "女学生"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1e06f337e217b4d2110bef7c9a0acc62.jpg",
-    "actress": [],
+    "publish_date": "2022-06-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-195.jpg",
+    "actress": [
+      "桃愛ゆえ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-195"
   },
   {
     "id": 68925,
     "IDcode": "MUDR-197",
-    "title": "催眠家访-渚みつき",
+    "title": "MUDR-197 催眠家访 - 七濑美奈的案例 - 种子确认！ 乳房上有个洞的漂亮女孩，被一个控制催眠术的猥琐老头夺去了贞操，并让 Nakadashi 在她身上射满了精液。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "中出",
       "原作改编",
+      "白虎",
+      "中出",
       "美少女电影",
-      "无毛"
+      "美少女",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "无毛",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/b548f5353fda4d124314b74a38e1361c.jpg",
+    "publish_date": "2022-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-197.jpg",
     "actress": [
       "渚光希"
     ],
@@ -1362,22 +1857,27 @@ window.PAGE_DATA = [
   {
     "id": 85613,
     "IDcode": "MUDR-198",
-    "title": "巨乳の少女-小梅えな",
+    "title": "MUDR-198 隔壁的牺牲 童年好友重逢，家中发生了什么？ 乱伦 NTR 大胸女孩成了父亲的安慰奖...... Ena Koume",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
-      "乱伦",
       "原作改编",
+      "白虎",
+      "乱伦",
+      "白天出轨",
+      "侮辱",
+      "NTR",
+      "单人作品",
+      "原创合作",
       "无毛",
-      "白天出轨"
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/794cb9975ccba025cb13575976975a07.jpg",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-198.jpg",
     "actress": [
       "小梅惠奈"
     ],
@@ -1386,37 +1886,50 @@ window.PAGE_DATA = [
   {
     "id": 556401,
     "IDcode": "MUDR-199",
-    "title": "十字架上的酷刑束缚实验欣快感 Lara Kudo - 工藤ララ",
+    "title": "MUDR-199 酷刑捆绑实验 十字架上的极乐世界 Lara Kudo",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "制服",
+      "美少女",
+      "内射",
+      "单人作品",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/VBlGW70D.jpg",
-    "actress": [],
+    "publish_date": "2022-08-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-199.jpg",
+    "actress": [
+      "工藤拉拉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-199"
   },
   {
     "id": 104160,
     "IDcode": "MUDR-200",
-    "title": "【FANZA限定】絶頂を知った日、私は大人になった 天然少女 無垢専属 AV DEBUT 日向ひかげ 生写真3枚付き",
+    "title": "MUDR-200 FANZA 独家 在我知道自己达到高潮的那天，我成为了一个成年人 自然女孩，纯真 独家 AV DEBUT 日向雏田 包括 3 张现场照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
-      "首次亮相",
+      "制服",
       "中出",
+      "出道作",
       "高中女生",
-      "制服"
+      "内射",
+      "首次亮相",
+      "口交",
+      "单人作品",
+      "女学生",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2022-08-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-200.jpg",
     "actress": [
       "日向ひかげ"
     ],
@@ -1425,58 +1938,76 @@ window.PAGE_DATA = [
   {
     "id": 68690,
     "IDcode": "MUDR-201",
-    "title": "叔叔的女孩-新井リマ",
+    "title": "MUDR-201 一个太喜欢她叔叔的女孩，只要他要求她做什么，她都会去做，甚至在他体内射精、射精！ 新井理马",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
-      "中出",
       "原作改编",
+      "制服",
+      "中出",
+      "辣妹",
       "女生",
-      "制服"
+      "内射",
+      "单人作品",
+      "原创合作",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250327-1/a86f984f5fee0d4f108cd3465612ff60.jpg",
-    "actress": [],
+    "publish_date": "2022-09-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-201.jpg",
+    "actress": [
+      "新井里真"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-201"
   },
   {
     "id": 565765,
     "IDcode": "MUDR-202",
-    "title": "仆をイジメる不良の妹は超生意気なメスガキ！ 松本いちか ‘よわよわ雑鱼おち×ちんっ いちかのパンツでイけっ、イッちゃえ’",
+    "title": "MUDR-202 欺负我的不良少年的妹妹是个超级骚货！ 我要射在一花的内裤里，我要射了！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "女上位",
+      "足交",
+      "内射",
+      "妹妹",
+      "单人作品",
+      "美胸"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4dd5460ebc6c760346993c667bb512ed.jpg",
-    "actress": [],
+    "publish_date": "2022-09-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-202.jpg",
+    "actress": [
+      "松本一香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-202"
   },
   {
     "id": 85657,
     "IDcode": "MUDR-203",
-    "title": "想被喉頭開發的超苗條美少女讓她從順超M校內調教 支配口腔憧憬強迫口交的少女被大肉棒抽插到喉頭發出聲音… 日向日景",
+    "title": "MUDR-203 超级苗条美丽的女孩，希望在喉咙深处得到开发，她被训练成一个霸道的母狗和母夜叉......她渴望一个irrumatio来支配她的口腔，她悸动的大肉棒......日向彦...",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "中出",
       "美少女电影",
+      "美少女",
+      "内射",
+      "单人作品",
+      "单体作品",
       "苗条",
       "深喉"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2022-10-18",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2e65acb917a8c54a48c4b3a208bddbad.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-203.jpg",
     "actress": [
       "日向ひかげ"
     ],
@@ -1485,45 +2016,55 @@ window.PAGE_DATA = [
   {
     "id": 67933,
     "IDcode": "MUDR-204",
-    "title": "最好的手淫者-天野碧 高瀬りな",
+    "title": "MUDR-204 我的妹妹是最棒的手淫者 天野明高濑丽奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "巨乳",
-      "中出",
       "原作改编",
-      "美少女电影"
+      "中出",
+      "美少女电影",
+      "美少女",
+      "内射",
+      "口交",
+      "原创合作",
+      "巨乳"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/7fb2793787e443d18f9940084864dac7.jpg",
+    "publish_date": "2022-10-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-204.jpg",
     "actress": [
-      "高瀬りな"
+      "高瀬りな",
+      "天野碧"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-204"
   },
   {
     "id": 68377,
     "IDcode": "MUDR-205",
-    "title": "浓稠的精液达到了高-横宮七海",
+    "title": "MUDR-205 用压抑的禁欲和超浓的精液交融，J○ \"老师，你要射吗？\" 她看上去是个黑发整洁的漂亮女孩，但她的变态瞳孔却每天都在管理着她的射精。 横宫奈奈美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "中出",
-      "美少女电影",
       "高中女生",
-      "运动短裤"
+      "灯笼裤",
+      "运动短裤",
+      "美少女电影",
+      "美少女",
+      "内射",
+      "单人作品",
+      "女学生",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/2b24c17e3c3e399d66e50a77f5538ca9.jpg",
+    "publish_date": "2022-10-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-205.jpg",
     "actress": [
+      "横宮七海",
       "Qべぇ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-205"
@@ -1531,65 +2072,83 @@ window.PAGE_DATA = [
   {
     "id": 85647,
     "IDcode": "MUDR-206",
-    "title": "制服美少女-花のん",
+    "title": "MUDR-206 FANZA 独家报道 与叔叔 Non Kohana 发生体液交换接吻的制服美少女，胸部大得离谱，附 3 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "巨乳",
+      "白虎",
+      "3P",
+      "4P",
+      "接吻",
+      "单人作品",
       "水手服",
       "无毛",
-      "接吻",
-      "多P"
+      "多P",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/24/68812798f0620ff98b2eebea/cover.jpg",
-    "actress": [],
+    "publish_date": "2022-10-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-206.jpg",
+    "actress": [
+      "小花暖"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-206"
   },
   {
     "id": 104452,
     "IDcode": "MUDR-207",
-    "title": "旅行丑恶老爸们-仓本堇",
+    "title": "MUDR-207 温泉环游：一个被丑陋的父亲和他的手下的汗水、奸情活塞不断强奸并达到高潮的居委会女孩 仓本堇。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "潮吹",
       "中出",
+      "潮吹",
+      "3P",
+      "4P",
+      "内射",
+      "单人作品",
       "颜射",
-      "多P"
+      "多P",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6dd589def9b1b80dca2b/cover.jpg",
-    "actress": [],
+    "publish_date": "2022-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-207.jpg",
+    "actress": [
+      "倉本菫"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-207"
   },
   {
     "id": 69531,
     "IDcode": "MUDR-208",
-    "title": "狂妄的小婊子-希咲那奈",
+    "title": "MUDR-208 一个自大的小婊子J -chan对我说，\"叔叔，你是个三流的工薪族，但你的鸡巴是一流的\"。我被当成了鸡巴机器，在被一个贱贱的小婊子虐待的同时，我只得到了性爱的赞美。 木崎奈奈与 5 张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "中出",
-      "美少女电影",
       "高中女生",
+      "平胸",
+      "美少女电影",
+      "美少女",
+      "内射",
+      "单人作品",
+      "美胸",
       "淫语",
-      "平胸"
+      "脏话",
+      "女学生",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/9596d41a4247b874676d85484c15580c.jpg",
+    "publish_date": "2022-11-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-208.jpg",
     "actress": [
       "希咲那奈"
     ],
@@ -1598,88 +2157,123 @@ window.PAGE_DATA = [
   {
     "id": 556333,
     "IDcode": "MUDR-209",
-    "title": "完全未切割的溺水壹岐Irrumatio让一个想要被Guchuguchu弄脏的美少女连续高潮深喉Mai Hanagari - 花狩舞",
+    "title": "MUDR-209 FANZA 独家 完全无删减，无剪辑，全部尿液、浴尿、bukkake、溺水、深喉高潮，一个想下流又下流的美丽霸气女孩，附带 4 张花梨麻衣的新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "单人作品",
+      "饮尿",
+      "内射",
+      "深喉"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ee67c256ba8652656d0df84f87aa1664.jpg",
-    "actress": [],
+    "publish_date": "2022-11-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-209.jpg",
+    "actress": [
+      "花狩舞"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-209"
   },
   {
     "id": 556305,
     "IDcode": "MUDR-210",
-    "title": "窥淫癖、入室盗窃和挂在熟睡的女孩身上……睡眠学习。一个女孩的身体已经被阴道射精种植了快乐......由良佳奈 - 由良かな",
+    "title": "MUDR-210 偷窥、入室抢劫、掩护熟睡的女孩...... 睡眠研究一个女孩的身体不断被灌输被操的快感...... 尤拉-卡娜",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "美少女",
+      "内射",
+      "单人作品",
+      "女学生",
+      "偷窥者"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221227/apGTcdCT/1.jpg",
-    "actress": [],
+    "publish_date": "2022-12-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-210.jpg",
+    "actress": [
+      "由良佳奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-210"
   },
   {
     "id": 100598,
     "IDcode": "MUDR-211",
-    "title": "肉便器にされていく部活少女 教師に付け狙われ…セクハラされ…校内中出しレ×プ 月乃ひな",
+    "title": "MUDR-211 女社员被当成厕所、被老师盯上......性骚扰......在校内表演时被强奸 Hina Tsukino",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
       "中出",
       "高中女生",
-      "运动短裤"
+      "灯笼裤",
+      "运动短裤",
+      "内射",
+      "单人作品",
+      "女学生",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f51925cf22ae3e04f0bae3/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-01-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-211.jpg",
+    "actress": [
+      "月乃雛"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-211"
   },
   {
     "id": 92528,
     "IDcode": "MUDR-212",
-    "title": "与性骚扰的老板同房-日向ゆら",
+    "title": "MUDR-212 实习女学生, 与性骚扰上司共处一室, 出差, 涂满唾液的舔脸, Nakadashi, 深喉, NTR, 日向由良",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "中出",
       "高中女生",
+      "白天出轨",
+      "NTR",
       "接吻",
-      "深喉",
-      "白天出轨"
+      "内射",
+      "单人作品",
+      "女学生",
+      "单体作品",
+      "深喉"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/9ebf621b2cd2cbe9198f2a51607f3461.jpg",
-    "actress": [],
+    "publish_date": "2023-01-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-212.jpg",
+    "actress": [
+      "広瀬みつき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-212"
   },
   {
     "id": 155473,
     "IDcode": "MUDR-213",
-    "title": "我的父母抛弃了我-皆瀬あかり",
+    "title": "MUDR-213 我的父母抛弃了我，所以我别无选择，只能出卖肉体和玩游戏。 我只要做爱，就能随时玩游戏，还能付账单。食物和床都包括在内！游戏女孩有最好的环境！ 明濑明日香",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "胸部",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "苗条"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/cc175328fa48be9ded4b020de8a81840.jpg",
+    "publish_date": "2023-02-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-213.jpg",
     "actress": [
       "皆瀨明里"
     ],
@@ -1688,22 +2282,26 @@ window.PAGE_DATA = [
   {
     "id": 92527,
     "IDcode": "MUDR-214",
-    "title": "我失去了处女之身-さつき芽衣",
+    "title": "MUDR-214 我无法抗拒梅田先生的诱惑，在意外地与班上最优秀的女生梅樱子进行了活体性交和原始中达志之后，我的处女之身就要毕业了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "原作改编",
+      "女佣",
+      "中出",
+      "内射",
       "口交",
+      "单人作品",
+      "原创合作",
       "巨乳",
       "单体作品",
-      "中出",
-      "原作改编",
-      "女佣"
+      "女仆"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/f0674fd5f124b87ae0f6da239096cc62.jpg",
+    "publish_date": "2023-02-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-214.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -1712,163 +2310,229 @@ window.PAGE_DATA = [
   {
     "id": 100715,
     "IDcode": "MUDR-215",
-    "title": "和美黑少女的尽情做爱-仓本堇",
+    "title": "MUDR-215 崇拜女孩 - 对晒黑的女孩为所欲为！ 丰富的接吻、舔肛、gokkun 和 Nakadashi！ 仓本堇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
-      "潮吹",
-      "中出",
       "原作改编",
-      "晒黑"
+      "晒黑",
+      "中出",
+      "潮吹",
+      "内射",
+      "口交",
+      "单人作品",
+      "原创合作",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/7ac6560483540c22500bd26a6a713e2b.jpg",
-    "actress": [],
+    "publish_date": "2023-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-215.jpg",
+    "actress": [
+      "倉本菫"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-215"
   },
   {
     "id": 168286,
     "IDcode": "MUDR-216",
-    "title": "喜欢废柴大叔的少女-柏木小夏",
+    "title": "MUDR-216 女孩和有恋物癖的老男人无良×大叔--舌吻和中二病妓女与来到无业中年男子家的贴心女孩柏木近松。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "恋物",
+      "3P",
+      "4P",
+      "重口味",
+      "单人作品",
+      "女学生"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/d0dcb02ef4e98d18f4e9f6fea58f9b07.jpg",
-    "actress": [],
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-216.jpg",
+    "actress": [
+      "柏木小夏"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-216"
   },
   {
     "id": 456315,
     "IDcode": "MUDR-218",
-    "title": "すっかり大きくなった思春期真っ盛りの近所の娘さんを… 隣人盗撮。 彼氏ができた記念に侵入・悪戯・睡眠姦中出し。ついでに彼氏とのハメ撮り映像を流出された少女…。 樞木葵",
+    "title": "MUDR-218 邻居家正处于青春期的女儿已经长大成人......邻居偷拍。 破门而入、恶作剧、睡前强奸和中田希（Nakadashi），以纪念有了男朋友。被泄露了她和男友视频的女孩... 仓木葵",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "NTR",
+      "情侣",
+      "单人作品",
+      "女学生",
+      "偷窥者"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6e9289def9b1b80dcbf7/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-04-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-218.jpg",
+    "actress": [
+      "枢木葵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-218"
   },
   {
     "id": 92531,
     "IDcode": "MUDR-221",
-    "title": "白虎纯白地雷系女子-美云空",
+    "title": "MUDR-221 太漂亮的肛门和阴部的主人是【确认为 Ketsuana】Shaipan 纯白矿山型女孩，第一次肛交。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "美少女电影",
+      "平胸",
       "肛交",
-      "平胸"
+      "美少女电影",
+      "美少女",
+      "内射",
+      "肛门",
+      "美胸"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/c831b795f4b6ea6183b3805f694d5b9e.jpg",
-    "actress": [],
+    "publish_date": "2023-04-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-221.jpg",
+    "actress": [
+      "美雲そら"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-221"
   },
   {
     "id": 107156,
     "IDcode": "MUDR-222",
-    "title": "我的青梅竹马-吉冈美樱 朝日凛",
+    "title": "MUDR-222 樱祭散落的花瓣 --我的青梅竹马吉冈美央，落入了一个愚蠢的老人--朝日凛的手中。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
-      "中出",
       "原作改编",
       "制服",
-      "白天出轨"
+      "中出",
+      "白天出轨",
+      "NTR",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/757bc3e1119c95939efbba05537f9e1c.jpg",
-    "actress": [],
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-222.jpg",
+    "actress": [
+      "朝日凜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-222"
   },
   {
     "id": 168176,
     "IDcode": "MUDR-223",
-    "title": "大叔的口水好黏哦-圆井萌华",
+    "title": "MUDR-223 叔叔，你的口水真多。我会让你流很多口水的，我的贱侄女，想用浓浓的口水吻让你流口水的萌卡-丸井。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "美少女",
+      "接吻",
+      "内射",
+      "单人作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/3a919f89b15be3ff9256c2ff1eec7eeb.jpg",
-    "actress": [],
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-223.jpg",
+    "actress": [
+      "円井萌華"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-223"
   },
   {
     "id": 563546,
     "IDcode": "MUDR-224",
-    "title": "大好きな大量精子をお口にグチュグチュ溜め込み味わいごっくんシェイク！ ぶっかけ颜射にドロドロ笑",
+    "title": "MUDR-224 她喜欢品尝和摇晃满嘴的精液！ 精液上瘾的优等生北山优（Kitayama Yuu），在面对 BUKKAKE 面部射精时，用荡气回肠的微笑来安抚自己。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "单人作品",
+      "颜射",
+      "滥交",
+      "射精"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/ZOxKQ76r/1.jpg",
-    "actress": [],
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-224.jpg",
+    "actress": [
+      "北山憂"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-224"
   },
   {
     "id": 168368,
     "IDcode": "MUDR-225",
-    "title": "跟小妹子干炮-松元一香",
+    "title": "MUDR-225 女鬼干了我 与爸爸的表妹松本一花的性爱之夏",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "内射",
+      "单人作品",
+      "原创合作",
+      "丧服",
+      "和服"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c43a1ae3235deaa3fcd55/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-225.jpg",
+    "actress": [
+      "松本一香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-225"
   },
   {
     "id": 18250,
     "IDcode": "MUDR-226",
-    "title": "姐姐被老爸抱着的父子NTR-美園和花",
+    "title": "MUDR-226 我的妹妹被父亲 NTR 父子抱着，我心爱的妹妹被继父 Kazuka Misono 戴上了绿帽子。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "淫妻",
-      "出軌",
-      "乱伦",
       "中出",
-      "原作改編",
+      "乱伦",
+      "NTR",
+      "侮辱",
+      "内射",
+      "淫妻",
+      "单人作品",
+      "出軌",
+      "原创合作",
       "亂倫",
-      "NTR"
+      "巨乳",
+      "原作改編"
     ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/5684a8021d7ba0441e5697ba3205bee4.jpg",
+    "publish_date": "2023-10-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-226.jpg",
     "actress": [
       "美園和花"
     ],
@@ -1877,78 +2541,63 @@ window.PAGE_DATA = [
   {
     "id": 17728,
     "IDcode": "MUDR-227",
-    "title": "复出 ~ 好想和大家再次相逢 奏音かのん 無垢専属 復活 RE DEBUT",
+    "title": "MUDR-227 我一直想见你天真 独家属性 复活 RE DEBUT 卡农 卡农 卡农 卡农",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "舔陰",
-      "兩男一女",
-      "中出",
-      "女優",
-      "企畫",
-      "苗條",
-      "女優訪談",
-      "美少女電影",
-      "紀錄片",
       "女學生",
-      "接吻",
-      "手指插入",
+      "兩男一女",
+      "女優訪談",
       "亂交 • 群P",
       "JK校服",
-      "3P・4P"
+      "苗條",
+      "美少女",
+      "接吻",
+      "内射",
+      "单人作品",
+      "女優",
+      "苗条",
+      "中出",
+      "美少女電影",
+      "口交",
+      "女学生",
+      "紀錄片",
+      "舔陰",
+      "3P・4P",
+      "手指插入",
+      "企畫"
     ],
     "type": "有码",
     "company": "無垢",
     "publish_date": "2023-11-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231120/20231119235623863863.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-227.jpg",
+    "actress": [
+      "奏音花音"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-227"
   },
   {
     "id": 563547,
     "IDcode": "MUDR-228",
-    "title": "あの日からずっと…。 紧缚调教中出しされる制服美少女",
+    "title": "MUDR-228 从那天起 穿着制服的美丽女孩在接受捆绑训练，她就是中桥兰绯野",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "剧情",
+      "单人作品",
+      "女学生",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/DSKaxIM8/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUDR-228.jpg",
+    "actress": [
+      "姫野らん"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-228"
-  },
-  {
-    "id": 456190,
-    "IDcode": "MUDR-229",
-    "title": "両親のいない数日間、私は隣人のオジサンに犯●れ続けました。 若宮穂乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f210f9a2e9b1d4aef37a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-229"
-  },
-  {
-    "id": 467688,
-    "IDcode": "MUDR-230",
-    "title": "緊縛露出羞恥覺醒 超變態被虐制服美少女 足立夢流",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "無垢",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5de58f1cbfc7a9c7dbce/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-230"
   }
 ];

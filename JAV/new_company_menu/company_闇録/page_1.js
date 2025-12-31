@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/RrredpS6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-011"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/i3ibbMFf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-013"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240628-1/9e89d9c1c3068df9ee0151e9d8b7ec09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-014"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/8zVzb4B2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-021"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/jpcQWszM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-025"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/6MxOqVGE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-026"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/CSzDRx9V/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-027"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/vbdJslht/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-028"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/WYA2xXhS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-029"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/4bdc68897dd27506a49bda256835abe0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-030"
   },
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240917/sv7XXDaX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-031"
   },
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/e40acdf199b907435985061beca98b6c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-032"
   },
@@ -291,7 +291,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250118/YAKV4oI4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-033"
   },
@@ -306,7 +306,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/eace151e2169fd45d6f617bdd3cf8d58.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-034"
   },
@@ -321,7 +321,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/b87b00048a86a669ede92b38fb1ed983.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-035"
   },
@@ -336,7 +336,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250304/2XA0OzJO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-037"
   },
@@ -351,7 +351,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250304/d69bFM1C/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-038"
   },
@@ -366,7 +366,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250304/lvAAF1G4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-039"
   },
@@ -381,7 +381,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/07/2ff7aa95850fe3a90263907fffac474c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-040"
   },
@@ -396,7 +396,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/v9OVoY2y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-042"
   },
@@ -411,7 +411,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250502/KxBfZEa4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-044"
   },
@@ -480,7 +480,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/18425649ab73824f137ebec2a5ab993a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-045"
   },
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250601/20250601234305629629_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-046.jpg",
     "actress": [
       "小島美子"
     ],
@@ -617,7 +617,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416065349725725_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-047"
   },
@@ -690,7 +690,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/06/a823d4bcb9c29e3ba148db9215ed9c16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-048.jpg",
     "actress": [
       "宮西光"
     ],
@@ -761,7 +761,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623103751826826_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-049"
   },
@@ -836,7 +836,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/453993d6d549cdd138c2eab6c9f82ca6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-050.jpg",
     "actress": [
       "虹村由美"
     ],
@@ -913,7 +913,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "闇録",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623103718419419_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YMRK-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMRK-051"
   }

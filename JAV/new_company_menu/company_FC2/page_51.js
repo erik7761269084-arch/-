@@ -1,86 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 115612,
-    "IDcode": "FC2-PPV-3743489",
-    "title": "隔壁的漂亮OL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489"
-  },
-  {
-    "id": 574385,
-    "IDcode": "FC2-PPV-3743489-CD1",
-    "title": "【有码】 【マンション邻人SEX】-cd1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250610/bsLb23Xx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489-CD1"
-  },
-  {
-    "id": 574383,
-    "IDcode": "FC2-PPV-3743489-CD2",
-    "title": "【有码】 【マンション邻人SEX】-cd2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250610/AuDKU1y2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489-CD2"
-  },
-  {
-    "id": 115627,
-    "IDcode": "FC2-PPV-3745440",
-    "title": "我是单亲妈妈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-28",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/aa662ec6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3745440"
-  },
-  {
-    "id": 115631,
-    "IDcode": "FC2-PPV-3745445",
-    "title": "和身穿浴衣的性感夏希酱约会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3745445"
-  },
-  {
     "id": 115613,
     "IDcode": "FC2-PPV-3746259",
     "title": "看起来比实际年龄大五岁的混血时装模特",
@@ -561,24 +480,6 @@ window.PAGE_DATA = [
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Lcbj9H3V.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3756451"
-  },
-  {
-    "id": 115629,
-    "IDcode": "FC2-PPV-3757388",
-    "title": "拥有丰满F罩杯全身性感带的漂亮人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3757388"
   },
   {
     "id": 570755,
@@ -1302,23 +1203,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3793004"
   },
   {
-    "id": 570752,
-    "IDcode": "FC2-PPV-3793031",
-    "title": "[无码高清]FC2 PPV 3793031 最初で最后！ 【无】【颜射中出しSEX】18歳デカ尻Fカップをイラマ、颜射、首〆でオモチャぁぁ〦〦〦”！事后は仲良くシャワー♡レビュー特典あり！part1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "2025-08-27",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/cjDguH0n.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3793031"
-  },
-  {
     "id": 570710,
     "IDcode": "FC2-PPV-3794100",
     "title": "[无码高清]FC2 PPV 3794100 スーパースリムガール♥大人しそうに见えおダチチチうにえウチチ出しのプレゼント！ 高清版＆レビュー特典付き♪ part1",
@@ -1598,5 +1482,118 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3806678"
+  },
+  {
+    "id": 115682,
+    "IDcode": "FC2-PPV-3808403",
+    "title": "拥有3个性伴侣的G罩杯女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-27",
+    "cover_url": "https://tutu1.space/images/2025/08/26/90799c5c084f6ea2e00c71659115a127.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3808403"
+  },
+  {
+    "id": 115651,
+    "IDcode": "FC2-PPV-3808415",
+    "title": "刚成年的小美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/82ae19a9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3808415"
+  },
+  {
+    "id": 574408,
+    "IDcode": "FC2-PPV-3808415-CD3",
+    "title": "【有码】  18才、元キッズモデル！-cd3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250617/h318JY79/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3808415-CD3"
+  },
+  {
+    "id": 570716,
+    "IDcode": "FC2-PPV-3808437",
+    "title": "[无码高清]FC2 PPV 3808437 可爱すぎる美女と燃えるようなＳＥＸがしたいんじゃ！part1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "2025-08-27",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/dBKhsE8y.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3808437"
+  },
+  {
+    "id": 115660,
+    "IDcode": "FC2-PPV-3809155",
+    "title": "身高144厘米的娇小前童星",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-27",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/5e104f6f/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3809155"
+  },
+  {
+    "id": 119758,
+    "IDcode": "FC2-PPV-3809162",
+    "title": "アナウンサー志望の京都美女19歳。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3809162"
+  },
+  {
+    "id": 115690,
+    "IDcode": "FC2-PPV-3811376",
+    "title": "一位拥有78万粉丝的社交媒体超级网红",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-27",
+    "cover_url": "https://tutu1.space/images/2025/08/26/ecf81387935c7047b82f760efe95bea4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3811376"
   }
 ];

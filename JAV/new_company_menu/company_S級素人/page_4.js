@@ -2,84 +2,977 @@ window.PAGE_DATA = [
   {
     "id": 173255,
     "IDcode": "SABA-958",
-    "title": "死ぬほどシコれる卑猥なドスケベ肉感おま○こドアップ指ズボオナニー 貴方に向かって見せつける変態オナ娘20人4時間54分",
+    "title": "SABA-958 淫秽、下流、下贱的阴部自慰手指拍打，让你欲仙欲死。20 个变态的自慰女孩为你炫耀，4 小时 54 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "素人",
+      "巨乳",
       "素人企画",
-      "素人"
+      "自慰",
+      "4小时以上",
+      "荡妇",
+      "美少女"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2025-10-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SABA-958.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-958"
   },
   {
     "id": 173271,
     "IDcode": "SABA-959",
-    "title": "kawaii素人娘初めての膣イキ中出しアへ顔記念日濃厚な精子が子宮にぶち当たる最高に気持ちい中出しSEX30本番",
+    "title": "SABA-959 卡哇伊业余女孩///第一次阴道内射精阴道内射精脸周年///30最好的感觉精液内做爱与厚厚的精子打子宫//。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "素人",
+      "内射",
+      "合集",
+      "精选",
       "素人企画",
-      "素人"
+      "4小时以上",
+      "美少女"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2025-10-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SABA-959.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-959"
   },
   {
-    "id": 216844,
-    "IDcode": "SUPA-013",
-    "title": "supa-013 貧乳家庭教師",
+    "id": 409729,
+    "IDcode": "SAMA-027",
+    "title": "SAMA-027 活跃女职员的后门工作 03",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "3P",
+      "主观视角",
+      "4P",
+      "OL",
+      "虐待"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2008-09-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-027.jpg",
+    "actress": [
+      "雪见纱弥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-027"
+  },
+  {
+    "id": 409661,
+    "IDcode": "SAMA-069",
+    "title": "SAMA-069 活跃的办公室女职员的后门工作 07",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "内射",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2009-01-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-069.jpg",
+    "actress": [
+      "横須賀ねね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-069"
+  },
+  {
+    "id": 409556,
+    "IDcode": "SAMA-119",
+    "title": "SAMA-119 丛小姐 3：未来播音员羞辱报告。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4P",
+      "3P",
+      "药物",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2009-06-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-119.jpg",
+    "actress": [
+      "長谷川ココ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-119"
+  },
+  {
+    "id": 409551,
+    "IDcode": "SAMA-130",
+    "title": "SAMA-130 现任秘书-Rina",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "拘束",
+      "秘书",
+      "内射",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2009-07-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-130.jpg",
+    "actress": [
+      "川菜美铃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-130"
+  },
+  {
+    "id": 533845,
+    "IDcode": "SAMA-217",
+    "title": "SAMA-217 小依，一个出卖肉体的 S 级业余爱好者",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "主观视角",
+      "模特",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2010-02-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-217.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-217"
+  },
+  {
+    "id": 578909,
+    "IDcode": "SAMA-267",
+    "title": "SAMA-267 东京中桥女学生 26",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "内射",
+      "制服",
+      "主观视角",
+      "女学生"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2010-06-18",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-267.jpg",
+    "actress": [
+      "青空小夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-267"
+  },
+  {
+    "id": 578620,
+    "IDcode": "SAMA-326",
+    "title": "SAMA-326 活跃女职员的最佳幕后工作",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "合集",
+      "精选",
+      "制服",
+      "主观视角",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2010-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-326.jpg",
+    "actress": [
+      "雪见纱弥",
+      "北原多香子",
+      "みついあんな",
+      "香坂百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-326"
+  },
+  {
+    "id": 578908,
+    "IDcode": "SAMA-367",
+    "title": "SAMA-367 太漂亮的驾校教练。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "制服",
+      "主观视角",
+      "丝袜",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2010-12-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-367.jpg",
+    "actress": [
+      "神田ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-367"
+  },
+  {
+    "id": 578907,
+    "IDcode": "SAMA-368",
+    "title": "SAMA-368 如何识别 \"被炒鱿鱼 \"的女性 压力山大的漂亮女上班族在工作中 \"被炒鱿鱼 \"了。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "制服",
+      "主观视角",
+      "丝袜",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2010-12-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-368.jpg",
+    "actress": [
+      "妃光莉",
+      "神納花",
+      "大沢のぞみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-368"
+  },
+  {
+    "id": 556502,
+    "IDcode": "SAMA-454",
+    "title": "SAMA-454 大学里的长曲棍球社突然来了一个非常可爱的女孩，我一时兴起就约了她，结果出乎意料地轻松就上了床 Yayoi-chan",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "内射",
+      "口交",
+      "无码泄露",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-07-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-454.jpg",
+    "actress": [
+      "廣田ゆみこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-454"
+  },
+  {
+    "id": 523702,
+    "IDcode": "SAMA-470",
+    "title": "SAMA-470 若妻不倫温泉 23",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "户外",
+      "情侣",
+      "人妻",
+      "内射",
+      "熟女"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-08-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-470.jpg",
+    "actress": [
+      "安達莉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-470"
+  },
+  {
+    "id": 534276,
+    "IDcode": "SAMA-474",
+    "title": "SAMA-474 我公司的一名下属是个非常可爱的女孩，我一时兴起就勾引了她，她竟然很容易就出演了色情电影，春树",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "OL",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-09-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-474.jpg",
+    "actress": [
+      "佐藤遥希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-474"
+  },
+  {
+    "id": 534423,
+    "IDcode": "SAMA-481",
+    "title": "SAMA-481 若妻不倫温泉 24",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "新娘",
+      "人妻",
+      "出轨",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-09-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-481.jpg",
+    "actress": [
+      "真木今日子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-481"
+  },
+  {
+    "id": 204099,
+    "IDcode": "SAMA-484",
+    "title": "SAMA-484 又是太漂亮的化装团成员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码破解",
+      "美胸",
+      "角色扮演"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-10-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-484.jpg",
+    "actress": [
+      "絵色千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-484"
+  },
+  {
+    "id": 534383,
+    "IDcode": "SAMA-485",
+    "title": "SAMA-485 我就是这样把她变成我的东西的。 春树",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "放尿",
+      "内射",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-10-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-485.jpg",
+    "actress": [
+      "佐藤遥希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-485"
+  },
+  {
+    "id": 534275,
+    "IDcode": "SAMA-486",
+    "title": "SAMA-486 特许 S 级业余少女。 若菜，21 岁。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "户外",
+      "内射",
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-10-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-486.jpg",
+    "actress": [
+      "木下若菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-486"
+  },
+  {
+    "id": 523514,
+    "IDcode": "SAMA-492",
+    "title": "SAMA-492 尤娜，一个出卖肉体的 S 级业余爱好者。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "3P",
+      "巨乳",
+      "内衣",
+      "4P",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-492.jpg",
+    "actress": [
+      "椎名由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-492"
+  },
+  {
+    "id": 534274,
+    "IDcode": "SAMA-497",
+    "title": "SAMA-497 东京中桥女学生 39",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "内射",
+      "学校泳装",
+      "女学生"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2011-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-497.jpg",
+    "actress": [
+      "北川瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-497"
+  },
+  {
+    "id": 593200,
+    "IDcode": "SAMA-602",
+    "title": "SAMA-602 特许 S 级业余少女。 朱莉，20 岁。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "户外",
+      "内射",
+      "玩具"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2012-11-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-602.jpg",
+    "actress": [
+      "さくらじゅり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-602"
+  },
+  {
+    "id": 593201,
+    "IDcode": "SAMA-608",
+    "title": "SAMA-608 我只是想上床 希娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "潮吹",
+      "颜射",
+      "乳交"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2012-12-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-608.jpg",
+    "actress": [
+      "神川ひな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-608"
+  },
+  {
+    "id": 518341,
+    "IDcode": "SAMA-612",
+    "title": "SAMA-612 天真贪婪的女学生 02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "内射",
+      "调教",
+      "女学生"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2012-12-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-612.jpg",
+    "actress": [
+      "立花くるみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-612"
+  },
+  {
+    "id": 73230,
+    "IDcode": "SAMA-662",
+    "title": "SAMA-662 如果被抓，你就得离开学校！打工女大学生的危险兼职 3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "大学生",
+      "业余",
+      "即兴性爱",
+      "美胸",
+      "4小时以上作品",
+      "4小时以上",
+      "女大学生",
+      "立即口交",
+      "平胸"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2013-05-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-662.jpg",
+    "actress": [
+      "杉崎杏梨",
+      "白咲碧",
+      "凉宫琴音",
+      "中谷美结",
+      "五十岚纯子",
+      "南野ゆきな",
+      "平原みなみ",
+      "五十嵐純子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-662"
+  },
+  {
+    "id": 216953,
+    "IDcode": "SAMA-709",
+    "title": "SAMA-709 操美乳女大学生讲师送上门 4 1Y（22 岁）H 罩杯 2S（20 岁）E 罩杯 3M（23 岁）F 罩杯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "姐姐",
+      "主观视角",
+      "大学生",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2013-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-709.jpg",
+    "actress": [
+      "水無瀬優夏",
+      "野宫里美",
+      "鳥井美希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-709"
+  },
+  {
+    "id": 224008,
+    "IDcode": "SAMA-778",
+    "title": "SAMA-778 操美乳女大学生讲师送上门 5 1A（23 岁）、F 罩杯 2R（19 岁）、D 罩杯 3H（22 岁）、F 罩杯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "姐姐",
+      "主观视角",
+      "大学生",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2014-05-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-778.jpg",
+    "actress": [
+      "水野朝陽",
+      "吉田花",
+      "大空美緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-778"
+  },
+  {
+    "id": 590299,
+    "IDcode": "SAMA-815",
+    "title": "SAMA-815 山梨县甲府市农村地区的美胸女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "姐姐",
+      "中文字幕",
+      "即兴性爱",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2014-09-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-815.jpg",
+    "actress": [
+      "白咲碧",
+      "宫下真衣",
+      "桜ゆい",
+      "蒼すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-815"
+  },
+  {
+    "id": 579512,
+    "IDcode": "SAMA-845",
+    "title": "SAMA-845 异常饥渴的女上班族，在下班回家的路上与男友以外的男人发生了 Nakadashi 性关系。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "制服",
+      "丝袜",
+      "4小时以上",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2014-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-845.jpg",
+    "actress": [
+      "水原姬香",
+      "海野空诗",
+      "水樹心春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-845"
+  },
+  {
+    "id": 166807,
+    "IDcode": "SAMA-846",
+    "title": "SAMA-846 太极端的业余女孩 4 小时特别节目 22",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "姐姐",
+      "中文字幕",
+      "即兴性爱",
+      "4小时以上",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-01-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-846.jpg",
+    "actress": [
+      "森川凉花",
+      "美咲杏",
+      "紺野まこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-846"
+  },
+  {
+    "id": 467945,
+    "IDcode": "SAMA-861",
+    "title": "SAMA-861 毕业旅行上了大学的女孩 所有户外篝火狂欢性爱-在学生时代与最好的伙伴们最后一次户外狂欢性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱交",
+      "户外",
+      "羞辱",
+      "企划",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-03-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-861.jpg",
+    "actress": [
+      "海野空诗",
+      "里咲しおり",
+      "糸永まき",
+      "新井流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-861"
+  },
+  {
+    "id": 579536,
+    "IDcode": "SAMA-869",
+    "title": "SAMA-869 不能告诉父母或学校，女学生只能在课后兼职 5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "4小时以上",
+      "制服",
+      "女学生",
+      "口交",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-04-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-869.jpg",
+    "actress": [
+      "阿部乃美久",
+      "安部藍",
+      "今井まい",
+      "葉月七瀬"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-869"
+  },
+  {
+    "id": 579587,
+    "IDcode": "SAMA-918",
+    "title": "SAMA-918 不能告诉父母或学校，女学生只能在课后兼职 6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "4小时以上",
+      "制服",
+      "女学生",
+      "口交",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-10-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-918.jpg",
+    "actress": [
+      "青山未来",
+      "凪沙ゆう",
+      "并木杏梨",
+      "花月ひな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-918"
+  },
+  {
+    "id": 579609,
+    "IDcode": "SAMA-938",
+    "title": "SAMA-938 不能告诉父母或学校，女学生课后兼职 7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "制服",
+      "女学生",
+      "口交",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-11-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-938.jpg",
+    "actress": [
+      "宫崎彩",
+      "まゆのゆま",
+      "宇佐美まい",
+      "前田のの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-938"
+  },
+  {
+    "id": 533844,
+    "IDcode": "SAMA-944",
+    "title": "SAMA-944 美丽的已婚妇女乞求她们的抱怨者在家里与她们发生性关系 8.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳",
+      "人妻",
+      "内射",
+      "4小时以上"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2015-12-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-944.jpg",
+    "actress": [
+      "森春流",
+      "奏自由",
+      "爱咲绘奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-944"
+  },
+  {
+    "id": 544037,
+    "IDcode": "SAMA-960",
+    "title": "SAMA-960 指着一个穷家教的胸部强奸了她。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "纪录片",
+      "姐姐",
+      "家教",
+      "美胸"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2016-01-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-960.jpg",
+    "actress": [
+      "葵玲奈",
+      "聖妃羽里",
+      "明日美さき",
+      "ひなたりこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-960"
+  },
+  {
+    "id": 517614,
+    "IDcode": "SAMA-972",
+    "title": "SAMA-972 美丽的姐妹花，在业界大受欢迎！姐姐是职业高尔夫球手！专职球童的妹妹瞒着姐姐首次出演成人电影！ 塞丽娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "户外",
+      "出道作",
+      "各种职业",
+      "制服",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2016-02-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-972.jpg",
+    "actress": [
+      "月宮こはる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-972"
+  },
+  {
+    "id": 348030,
+    "IDcode": "SAMA-991",
+    "title": "SAMA-991 柔软，当日性爱 男性，21 岁，自由职业者。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "姐姐",
+      "中文字幕",
+      "搭讪",
+      "即兴性爱",
+      "嫩妹",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2016-04-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAMA-991.jpg",
+    "actress": [
+      "坂咲美穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-991"
+  },
+  {
+    "id": 216844,
+    "IDcode": "SUPA-013",
+    "title": "SUPA-013 指着一个穷家教的胸部强奸了她 2.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "纪录片",
+      "姐姐",
+      "家教",
+      "美胸"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2016-06-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-013.jpg",
+    "actress": [
+      "堀口奈津美",
+      "天月叶菜",
+      "江奈るり",
+      "日向朱莉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-013"
   },
   {
     "id": 517722,
     "IDcode": "SUPA-028",
-    "title": "夏日淫亂野砲狂歡！ 20人4小時",
+    "title": "SUPA-028 业余onna色情夏天！ 露营、海滩和车内性爱 20 个男人被接走，瞬间被干 蓝色性爱 4 小时",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "户外",
+      "车震",
+      "搭讪",
+      "泳装",
+      "4小时以上"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa9b97d6fbef4e90091a78/poster2.jpg",
-    "actress": [],
+    "publish_date": "2016-06-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-028.jpg",
+    "actress": [
+      "绀野光",
+      "滝川かのん",
+      "里咲しおり"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-028"
   },
   {
     "id": 554518,
     "IDcode": "SUPA-106",
-    "title": "_软派即日セックス_Rさん_21歳_歯科助手",
+    "title": "SUPA-106 Soft, same-day sex R, 21, dental assistant.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹"
+      "素人",
+      "各种职业",
+      "搭讪",
+      "即兴性爱",
+      "嫩妹",
+      "苗条",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2016-12-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-106.jpg",
+    "actress": [
+      "清本玲奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-106"
   },
   {
@@ -95,260 +988,364 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "S級素人",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230316/h_244supa00174pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-174.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-174"
   },
   {
     "id": 166732,
     "IDcode": "SUPA-177",
-    "title": "好奇心旺盛完美大學妹也下海啦！",
+    "title": "SUPA-177 有钱人也是正常的淘气女孩...... \"尤拉，一个有着好奇心的完美女大学生。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "中文字幕",
+      "内射",
+      "主观视角",
+      "美少女",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230316/h_244supa00177pl.jpg",
-    "actress": [],
+    "publish_date": "2017-05-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-177.jpg",
+    "actress": [
+      "心花ゆら"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-177"
   },
   {
     "id": 166992,
     "IDcode": "SUPA-179",
-    "title": "和大學妹乃乃香周遊東京一日約會！",
+    "title": "SUPA-179 在东京与一个生猛的大学生进行为期一天的全天候约会！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "巨乳",
+      "中文字幕",
+      "傲娇",
+      "内射",
+      "主观视角",
+      "玩具",
+      "荡妇"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230509/h_244supa00179pl.jpg",
-    "actress": [],
+    "publish_date": "2017-05-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-179.jpg",
+    "actress": [
+      "泉ののか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-179"
   },
   {
     "id": 68052,
     "IDcode": "SUPA-196",
-    "title": "业余女大学生",
+    "title": "SUPA-196 彻底调查这些业余女孩在多大程度上愿意满足色情要求，明知她们可能会涉及色情内容......但她们会放心地说：\"如果我和朋友在一起......\"！ 2 包括 8 名业余女大学生！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "素人",
       "业余",
-      "口交",
-      "中出",
       "女大学生",
-      "企画"
+      "企划",
+      "内射",
+      "中出",
+      "口交",
+      "企画",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250414-1/bbf36a444380bb1e513017bf0e4fc895.jpg",
+    "publish_date": "2017-06-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-196.jpg",
     "actress": [
       "推川悠里",
+      "櫻千奈美",
       "南梨央奈",
       "羽生ありさ",
       "水野朝陽",
       "松本芽依",
       "ちなみん",
       "生驹はるな",
-      "心花ゆら"
+      "心花ゆら",
+      "渡里麻穂",
+      "小日向まい"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-196"
   },
   {
     "id": 166993,
     "IDcode": "SUPA-212",
-    "title": "搭訕泳裝素人妹in湘南南方海灘",
+    "title": "SUPA-212 在沼南南部海滩游泳的业余爱好者 Gachi-Soft",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "中文字幕"
+      "巨乳",
+      "中文字幕",
+      "搭讪",
+      "即兴性爱",
+      "泳装"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-07-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-212.jpg",
+    "actress": [
+      "天野美優",
+      "心花ゆら",
+      "星井笑"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-212"
   },
   {
     "id": 166854,
     "IDcode": "SUPA-220",
-    "title": "現役女大生中出實況轉播10",
+    "title": "SUPA-220 中桥（Nakadashi）职业女性大学生的生活 10.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "姐姐",
+      "中文字幕",
+      "内射",
+      "大学生",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00220pl.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-220.jpg",
+    "actress": [
+      "今井由亞",
+      "星井笑",
+      "来栖麻友",
+      "青山みな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-220"
   },
   {
     "id": 166855,
     "IDcode": "SUPA-221",
-    "title": "有感觉的今天-Rさん",
+    "title": "SUPA-221 温柔、直接的性 R，25 岁，网络设计师。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "姐姐",
+      "内射",
+      "搭讪",
+      "即兴性爱"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00221pl.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-221.jpg",
+    "actress": [
+      "香椎梨亞"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-221"
   },
   {
     "id": 166490,
     "IDcode": "SUPA-222",
-    "title": "最可愛素人婊子女大生下海給幹 惠奈",
+    "title": "SUPA-222 希望首次拍摄。大学里最可爱的业余荡妇，女大学生。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "中文字幕"
+      "中文字幕",
+      "口交",
+      "内射",
+      "美少女",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-222.jpg",
+    "actress": [
+      "铃代绘奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-222"
   },
   {
     "id": 166491,
     "IDcode": "SUPA-223",
-    "title": "穿衣顯瘦清純巨乳學生妹 小舞",
+    "title": "SUPA-223 小麦，一个纯洁的女学生，居然有一对大乳房",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "中文字幕"
+      "素人",
+      "中文字幕",
+      "主观视角",
+      "女学生",
+      "美少女"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://c0.jdbstatic.com/covers/7y/7yd61.jpg",
+    "actress": [
+      "天野美優"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-223"
   },
   {
     "id": 166492,
     "IDcode": "SUPA-224",
-    "title": "搭訕海邊巨乳素人妹來幹砲！女大生特別版！",
+    "title": "SUPA-224 勾搭肤色黝黑、贪玩的 S 级业余爱好者，并立即与她们发生性关系！女大学生 SP！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
       "素人",
-      "中文字幕"
+      "晒黑",
+      "中文字幕",
+      "内射",
+      "搭讪",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-224.jpg",
+    "actress": [
+      "葵玲奈",
+      "霧島さくら",
+      "佳苗瑠華",
+      "月本爱"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-224"
   },
   {
     "id": 166856,
     "IDcode": "SUPA-226",
-    "title": "完全初拍素人妹小M",
+    "title": "SUPA-226 完全陌生的业余爱好者，M-chan。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "中文字幕"
+      "纪录片",
+      "中文字幕",
+      "内射",
+      "美少女",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00226pl.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-226.jpg",
+    "actress": [
+      "七瀬萌"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-226"
   },
   {
     "id": 166857,
     "IDcode": "SUPA-227",
-    "title": "素人辣妹從大阪跑來東京下海拍片真理奈",
+    "title": "SUPA-227 从大阪搬到东京的美国人 首次亮相玛丽娜。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "中文字幕"
+      "中文字幕",
+      "傲娇",
+      "内射",
+      "辣妹",
+      "苗条"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230319/h_244supa00227pl.jpg",
-    "actress": [],
+    "publish_date": "2017-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-227.jpg",
+    "actress": [
+      "真田京"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-227"
   },
   {
     "id": 591960,
     "IDcode": "SUPA-334",
-    "title": "放学后制服美少女 沙理",
+    "title": "SUPA-334 放学后 校服 漂亮女孩 纱丽",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "白虎",
+      "内射",
+      "女学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2018-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-334.jpg",
+    "actress": [
+      "香坂紗梨"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-334"
   },
   {
     "id": 593116,
     "IDcode": "SUPA-344",
-    "title": "どんなに犯してもヤリ足りない色情症の女 ユイ ～笔おろし・中出し・イラマチオの记录～",
+    "title": "SUPA-344 小依，一个无论怎么被操都操不够的性障碍女性--刷-下、Nakadashi 和 Irrumatio 的记录。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "处男",
+      "内射",
+      "潮吹",
+      "深喉",
+      "胸部"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/eef583da28aef6ba108d40f72f7527ef.jpg",
-    "actress": [],
+    "publish_date": "2018-07-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-344.jpg",
+    "actress": [
+      "富田优衣"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-344"
   },
   {
     "id": 593114,
     "IDcode": "SUPA-367",
-    "title": "満たされない人妻 まなみ",
+    "title": "SUPA-367 未得到满足的已婚妇女 Manami",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人",
+      "人妻",
+      "内射",
+      "即兴性爱",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/6bf9858154809337131c0dc994fcb149.jpg",
-    "actress": [],
+    "publish_date": "2018-09-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-367.jpg",
+    "actress": [
+      "永野司"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-367"
   },
   {
@@ -365,351 +1362,504 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "S級素人",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/eb2870961272eda379838ddb08b1c6df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-368.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-368"
   },
   {
     "id": 593110,
     "IDcode": "SUPA-371",
-    "title": "人妻不伦温泉 りの",
+    "title": "SUPA-371 已婚妇女、通奸温泉、理子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人",
+      "和服",
+      "人妻",
+      "内射",
+      "丧服",
+      "温泉"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/8380b637a608f46e8d9d28f5ba95ca8d.jpg",
-    "actress": [],
+    "publish_date": "2018-09-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-371.jpg",
+    "actress": [
+      "立花瑠莉",
+      "巨人广田"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-371"
   },
   {
     "id": 538980,
     "IDcode": "SUPA-379",
-    "title": "新村あかり- イベント帰りの浮かれコスプレ女子大生をお持ち帰りナンパ！！",
+    "title": "SUPA-379 在参加完活动回家的路上，捡到一个漂浮在空中的 Cosplay 女大学生带回家！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "企划",
+      "内射",
+      "搭讪",
+      "角色扮演"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250320/2czxXYMb/1.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-379.jpg",
+    "actress": [
+      "天馬唯",
+      "皆月光",
+      "新村朱里",
+      "速海りん"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-379"
   },
   {
     "id": 209802,
     "IDcode": "SUPA-382",
-    "title": "東京中出し女子校生 のあ",
+    "title": "SUPA-382 东京 Nakadashi 女学生 Noa",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "水手服",
+      "内射",
+      "深喉",
+      "女学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-382.jpg",
+    "actress": [
+      "水原乃亜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-382"
   },
   {
     "id": 593111,
     "IDcode": "SUPA-383",
-    "title": "スリムジーンズが似合うS级素人 Tさん",
+    "title": "SUPA-383 穿修身牛仔裤很好看的 S 级业余选手 T 女士。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳",
+      "内射",
+      "即兴性爱",
+      "苗条"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/4f1dfda9d73c7936b9fef7b6e653df48.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-383.jpg",
+    "actress": [
+      "川口ともか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-383"
   },
   {
     "id": 536931,
     "IDcode": "SUPA-385",
-    "title": "有坂深雪- 现役OL的秘密打工 小M",
+    "title": "SUPA-385 现任办公室工作人员的后门工作，M.",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "内射",
+      "即兴性爱",
+      "OL",
+      "口交"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250823/j5vf77K6/1.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-385.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-385"
   },
   {
     "id": 593112,
     "IDcode": "SUPA-386",
-    "title": "放课后ワリキリバイト 3",
+    "title": "SUPA-386 课外活动 3",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "内射",
+      "即兴性爱",
+      "女学生",
+      "美少女"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/49bee69fbf1c3ad4f4a7df878367efba.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-386.jpg",
+    "actress": [
+      "咲々原リン"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-386"
   },
   {
     "id": 593113,
     "IDcode": "SUPA-387",
-    "title": "一日中使い放题の人妻お贷しします。 ゆいさん 28歳",
+    "title": "SUPA-387 已婚女子出租，全天无限次使用。 由依，28 岁。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人",
+      "人妻",
+      "内射",
+      "荡妇",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/68e8419be3bd28f5b1b762e246aa11ef.jpg",
-    "actress": [],
+    "publish_date": "2018-10-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-387.jpg",
+    "actress": [
+      "鹰宫唯"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-387"
   },
   {
     "id": 589659,
     "IDcode": "SUPA-392",
-    "title": "软派即ハメ中出しシロウト人妻スペシャル2第01集",
+    "title": "SUPA-392 软核即时性爱和 Nakadashi-Shiroouto Married Woman Special 2。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "素人",
+      "人妻",
+      "内射",
+      "搭讪",
+      "即兴性爱"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2018-11-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-392.jpg",
+    "actress": [
+      "一条美緒",
+      "立花瑠莉",
+      "清本玲奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-392"
   },
   {
     "id": 69867,
     "IDcode": "SUPA-401",
-    "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
+    "title": "SUPA-401 穿着暴露和极端服装的婊子业余搭讪！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
       "巨乳",
-      "中出",
+      "素人",
+      "业余",
+      "内射",
       "猎艳",
-      "素人"
+      "搭讪",
+      "中出"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62cd3a0f0ac9e9e6468acaea35f74138.jpg",
+    "publish_date": "2018-12-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-401.jpg",
     "actress": [
+      "有岡みう",
+      "花音うらら",
       "寶生莉莉",
       "椎叶みくる",
       "一二三铃",
-      "柳川まこ"
+      "柳川まこ",
+      "ナルシス小林",
+      "小野晃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
   },
   {
     "id": 595549,
     "IDcode": "SUPA-406",
-    "title": "ぶっかけできるインターンシップ女子大生、お届けします。 1",
+    "title": "SUPA-406 实习女大学生谁可以做bukkake，交付.1",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "短裙",
+      "美腿控",
+      "内射",
+      "丝袜",
+      "OL",
+      "大学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/023cd53e32e591c3585ccf9cbe1a28ec.jpg",
-    "actress": [],
+    "publish_date": "2018-12-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-406.jpg",
+    "actress": [
+      "こずえまき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-406"
   },
   {
     "id": 595504,
     "IDcode": "SUPA-409",
-    "title": "S级素人殿堂入り 50人4时间 Part3",
+    "title": "SUPA-409 SUPA-409 S 级业余名人堂，50 人，4 小时，第 3 部分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳",
+      "姐姐",
+      "合集",
+      "精选",
+      "4小时以上",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2c5259415c3c4baf7bb4e236c83bf814.jpg",
-    "actress": [],
+    "publish_date": "2018-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-409.jpg",
+    "actress": [
+      "堀口奈津美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-409"
   },
   {
     "id": 595501,
     "IDcode": "SUPA-410",
-    "title": "超絶品ボディを持つ若妻と中出しSEX 50人4时间BEST2",
+    "title": "SUPA-410 SUPA-410 与 50 位身材极佳的年轻妻子进行中桥性爱，4 小时 BEST2",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "新娘",
+      "内射",
+      "合集",
+      "精选",
+      "4小时以上",
+      "少妇"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/62c55d509f83e75b3467b9dcd74d8175.jpg",
+    "publish_date": "2018-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-410.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-410"
   },
   {
     "id": 595396,
     "IDcode": "SUPA-425",
-    "title": "独自ルートで入手したガチ素人カップルの温泉盗撮映像を、そのまま発売しちゃいました。",
+    "title": "SUPA-425 我们通过自己的渠道，原封不动地发布了几位业余爱好者的温泉偷窥录像。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "情侣",
+      "口交",
+      "内射",
+      "浴衣",
+      "偷窥者"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b4bfb02d12111bba10d8ac4733e73c17.jpg",
+    "publish_date": "2019-02-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-425.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-425"
   },
   {
     "id": 534465,
     "IDcode": "SUPA-430",
-    "title": "カラダを売りにするS级素人Yさん（21歳）T160B82W56H90Hカップ",
+    "title": "SUPA-430 S 级业余卖身者 Y（21 岁） T160B82W56H90 H 罩杯",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "嫩妹"
+      "巨乳",
+      "姐姐",
+      "内射",
+      "嫩妹",
+      "苗条"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230223/h_244supa00430pl.jpg",
-    "actress": [],
+    "publish_date": "2019-02-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-430.jpg",
+    "actress": [
+      "百永纱里奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-430"
   },
   {
     "id": 578665,
     "IDcode": "SUPA-439",
-    "title": "新卒アイドル女子社员 Mさん",
+    "title": "SUPA-439 刚毕业的赋闲女职工 M",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "内射",
+      "制服",
+      "丝袜",
+      "OL"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2019-03-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-439.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-439"
   },
   {
     "id": 213194,
     "IDcode": "SUPA-440",
-    "title": "有很多女孩聚集的搭讪地点",
+    "title": "SUPA-440 Raw Nakadashi 在一个传闻中吸引荡妇的搭讪地点，对一个泼妇 J-说。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "内射",
+      "潮吹",
+      "女学生",
+      "胸部"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-03-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-440.jpg",
+    "actress": [
+      "亜矢みつき",
+      "夏原唯",
+      "今井まい",
+      "高牟礼れな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-440"
   },
   {
     "id": 595260,
     "IDcode": "SUPA-445",
-    "title": "GET跑业务的纯真OL！用玩具使其高潮不断并无套抽插！",
+    "title": "SUPA-445 一名正在巡回推销的年轻上班族突然被人抓住，用性玩具让她射精，然后被生生操死！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "姐姐",
+      "内射",
+      "丝袜",
+      "4小时以上",
+      "OL"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/aHToZ7ry.jpg",
-    "actress": [],
+    "publish_date": "2019-04-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-445.jpg",
+    "actress": [
+      "御坂りあ",
+      "伊吹彩",
+      "今泉花菜",
+      "大仓美优"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-445"
   },
   {
     "id": 69864,
     "IDcode": "SUPA-446",
-    "title": "就職活動でお悩み中の首都圏有名私立大学に通うウブな女子大生をオイシイ話で騙して生ハメ、そのままナカに出させてもらいました",
+    "title": "SUPA-446 东京都内一所著名私立大学的一名年轻女学生在找工作时遇到了麻烦，她被一个美好的故事骗进了一场现场性爱课程，然后被原封不动地放出了体内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
       "巨乳",
-      "中出",
+      "素人",
+      "业余",
+      "内射",
       "美少女电影",
-      "女大学生"
+      "中出",
+      "美少女",
+      "女大学生",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/97d1b8e9cf09a82c71f7ab55b3e4359c.jpg",
+    "publish_date": "2019-04-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-446.jpg",
     "actress": [
       "椿井惠美",
       "白咲柚子",
-      "梦咲ひなみ"
+      "梦咲ひなみ",
+      "月山なのは",
+      "夢咲ひなみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-446"
   },
   {
     "id": 514470,
     "IDcode": "SUPA-447",
-    "title": "变态大叔贪求年轻肉体插入内射享乐的援●影像",
+    "title": "SUPA-447 我他妈的能看完变态男性吞噬年轻身体、享受现场播种和插入的辅助镜头\"。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "3P",
+      "内射",
+      "4P",
+      "玩具",
+      "女学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4b29e7bec0c005d5c4083590a725f0e.jpg",
+    "publish_date": "2019-04-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-447.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-447"
   },
   {
     "id": 69952,
     "IDcode": "SUPA-449",
-    "title": "高確率でヤレると噂のマッチングアプリで会った爆乳Nさん（広島県出身/上京し一人暮らし/丸の内の証券会社勤務）",
+    "title": "SUPA-449 N，有大奶子，在一个相亲软件上认识，据说上床几率很高（来自广岛县/独居东京/在丸之内的一家证券公司工作）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
       "巨乳",
-      "中出",
-      "素人作品",
+      "素人",
+      "业余",
       "姐姐",
+      "内射",
+      "即兴性爱",
+      "素人作品",
+      "中出",
       "立即口交"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/855e7a3c144ba5873286fd3a6b35c51a.jpg",
+    "publish_date": "2019-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-449.jpg",
     "actress": [
+      "松本菜奈実",
       "服部义"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-449"
@@ -717,1105 +1867,599 @@ window.PAGE_DATA = [
   {
     "id": 534314,
     "IDcode": "SUPA-450",
-    "title": "酔っ払った女はヤバいエロい！！话しているだけでエロい事务职のOLさん。昼间は真面目に动いているが、夜はお酒でもっとエロい女に…。お酒を口実に饮む场所のレベルをどんどんステップアップしていったら、ホテルでハメちゃった件",
+    "title": "SUPA-450 醉酒的女人既坏又性感！办公室职员，只需与她交谈，就会让人欲火焚身。她白天兢兢业业地工作，但到了晚上，她在酒精的作用下变得更加色情......当她以喝酒为借口提高自己的酒量时，结果却在酒店里被人干了...",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "姐姐",
+      "烂醉",
+      "搭讪",
+      "内射",
+      "苗条"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/f9af2734e447d731893f77ae7d70d6b6.jpg",
-    "actress": [],
+    "publish_date": "2019-04-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-450.jpg",
+    "actress": [
+      "新山枫"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-450"
   },
   {
     "id": 595221,
     "IDcode": "SUPA-451",
-    "title": "极品肉体超级美女内射SEX50人4小时BEST 2",
+    "title": "SUPA-451 超棒的身体，超棒的美，Nakadashi 性爱，50 人，4 小时，BEST2",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "素人",
+      "内射",
+      "合集",
+      "精选",
+      "4小时以上"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/4f65f4bf6f28618df1b2260031f3bbfd.jpg",
+    "publish_date": "2019-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-451.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-451"
   },
   {
     "id": 590376,
     "IDcode": "SUPA-454",
-    "title": "为您献上任你射精的实习女大生 02",
+    "title": "SUPA-454 实习女学生，能做 bukkake，已交付 2.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "短裙",
+      "中文字幕",
+      "美腿控",
+      "内射",
+      "丝袜",
+      "OL"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230218-1/2296510fab3f71f6a0718dcab656c6bf.jpg",
+    "publish_date": "2019-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-454.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-454"
   },
   {
     "id": 595170,
     "IDcode": "SUPA-455",
-    "title": "行车记录器拍下的素人女大生鲜明性爱",
+    "title": "SUPA-455 拍摄到的业余女大学生的性爱画面。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "车震",
+      "口交",
+      "内射",
+      "美少女",
+      "虐待"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/JZ1Mhpuw.jpg",
+    "publish_date": "2019-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-455.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-455"
   },
   {
     "id": 590285,
     "IDcode": "SUPA-456",
-    "title": "清楚系S级素人AV出道！！",
+    "title": "SUPA-456 清楚系S級素人AV Debut！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
+      "姐姐",
+      "中文字幕",
       "出道作",
-      "中文字幕"
+      "内射",
+      "即兴性爱",
+      "潮吹"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221014-1/85e175df09d127029d89a4766ee53654.jpg",
-    "actress": [],
+    "publish_date": "2019-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-456.jpg",
+    "actress": [
+      "加濑七穗"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-456"
   },
   {
     "id": 590375,
     "IDcode": "SUPA-457",
-    "title": "究极扭腰的现役女大学生 梓沙 20歳",
+    "title": "SUPA-457 现年 20 岁的大学生 AZUSA-chan，将臀部运用到了极致。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "中文字幕",
+      "内射",
+      "女上位",
+      "震动",
+      "大学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230218-1/f5e7971015fbb82bcfcb469fff4f9c13.jpg",
+    "publish_date": "2019-05-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-457.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-457"
   },
   {
     "id": 70082,
     "IDcode": "SUPA-460",
-    "title": "一人じゃ無理だけど友達と一緒だったからノリと勢いでAV出演しちゃった素人娘達全69人 4時間スペシャル",
+    "title": "SUPA-460 69 名业余女孩无法独自完成，但因为有了朋友的陪伴，她们在色情片中尽情挥洒激情--4 小时特辑。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
-      "业余",
       "纪录片",
-      "素人作品",
+      "素人",
+      "业余",
+      "企划",
+      "合集",
+      "精选，综合",
+      "精选",
       "4小时以上作品",
-      "企画",
-      "素人"
+      "素人作品",
+      "4小时以上",
+      "企画"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/36ee6deff98ebe846db1666ef104bc07.jpg",
+    "publish_date": "2019-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-460.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-460"
   },
   {
     "id": 595117,
     "IDcode": "SUPA-465",
-    "title": "完全素人实录！限定已婚者的酒池肉林联谊",
+    "title": "SUPA-465 业余爱好者的完整而真实的记录！拍摄了在已婚夫妇中掀起热潮的 \"已婚夫妇聚会\"！已婚夫妇因为已婚，所以可以享受轻松惬意的氛围！本片汇集了业余爱好者拍摄的最色情、最情色的派对片段！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "3P",
+      "人妻",
+      "内射",
+      "出轨",
+      "4P"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/UsaxJbEg.jpg",
-    "actress": [],
+    "publish_date": "2019-06-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-465.jpg",
+    "actress": [
+      "植村恵名",
+      "小田切ありさ",
+      "黒宮えいみ",
+      "桥本诚吾",
+      "TJ本田",
+      "阿部ノボル",
+      "キンポー"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-465"
   },
   {
     "id": 69954,
     "IDcode": "SUPA-466",
-    "title": "マッチングアプリ（ギャラ飲み）で男漁りしているAちゃんは超スレンダー巨乳",
+    "title": "SUPA-466 在配对应用程序（Gala Drink）上钓男人的 A-chan，身材超级苗条，胸部很大。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
       "巨乳",
-      "中出",
-      "乳房",
+      "素人",
+      "业余",
       "姐姐",
-      "立即口交"
+      "内射",
+      "即兴性爱",
+      "乳房",
+      "中出",
+      "立即口交",
+      "胸部"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/841cf12d13f9fc5d71884ffdf469434d.jpg",
-    "actress": [],
+    "publish_date": "2019-06-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-466.jpg",
+    "actress": [
+      "池田径"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-466"
   },
   {
     "id": 593272,
     "IDcode": "SUPA-471",
-    "title": "CN 第1回 夏の风物诗流しソーメン？ならぬ流しザーメン赏金GETチャレンジ！ザーメンをすくえなければ过激な罚ゲーム！ りいなさんのパンティとチェキ付き",
+    "title": "SUPA-471 第 1 项夏日传统--漂流索门？这不仅是夏季传统，也是获得奖金的挑战！如果舀不到精液，就会受到极端惩罚！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "企划",
+      "内射",
+      "玩具"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190901-1/7e7fa0b5e7750c67d154407ad124ff38.jpg",
-    "actress": [],
+    "publish_date": "2019-07-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-471.jpg",
+    "actress": [
+      "桥本诚吾",
+      "つよぽん",
+      "阿部ノボル"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-471"
   },
   {
     "id": 593275,
     "IDcode": "SUPA-473",
-    "title": "CN 现役女子大生耻じらいAV出演 陆上とダンスで锻えあげた身体能力を生かす腰使いで性の快楽に目覚めた美尻体育会系美少女あおりさん",
+    "title": "SUPA-473 羞于在成人电影中露面的在校女大学生 美丽的运动女孩 Aori，拥有美丽的臀部，通过利用臀部来唤醒性快感，她的身体技能是通过田径和舞蹈锻炼出来的。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "3P",
+      "内射",
+      "美少女",
+      "4P",
+      "口交",
+      "大学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190908-1/e55deccf32aab58351f848efc9a5f782.jpg",
-    "actress": [],
+    "publish_date": "2019-07-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-473.jpg",
+    "actress": [
+      "有星青理",
+      "奥村友真",
+      "阿部ノボル"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-473"
   },
   {
     "id": 523770,
     "IDcode": "SUPA-474",
-    "title": "谁にでもお股を开く愈しのむっちりパイパンのヤリマン女子大生 Rちゃん AVDebut",
+    "title": "SUPA-474 R-chan，一个治愈系、丰满、放荡的大学生，她的双腿为任何人张开 AVDebut",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "巨乳",
+      "内射",
+      "美少女",
+      "大学生"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191009-1/88e1c64eeedf5da7724bb311a27c467f.jpg",
-    "actress": [],
+    "publish_date": "2019-07-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-474.jpg",
+    "actress": [
+      "莉莉遙香",
+      "ナルシス小林",
+      "巨人广田"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-474"
   },
   {
     "id": 593303,
     "IDcode": "SUPA-478",
-    "title": "CN 【巷でウワサの■■ナンパser】チ●ポの形をした饴をペロペロ舐めている女のコに声をかけたらヤレるのか！？チ●ポの形をした御神体が町を练り歩くチ●ポ祭りに潜入ナンパ！ まみさんのパンティとチェキ付き",
+    "title": "SUPA-478 最受欢迎的搭讪Ser 如果你和一个正在舔阴茎形状糖果的女孩聊天，你能泡到妞吗？本片收集了对一些女性的采访，她们都是 \"最受欢迎的搭讪者\"！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "内射",
+      "搭讪",
+      "美少女",
+      "胸部"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200129-1/70db1ebe56a4f2c4aa82372679259897.jpg",
-    "actress": [],
+    "publish_date": "2019-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-478.jpg",
+    "actress": [
+      "友利ほのか",
+      "北浦真美",
+      "巨人广田",
+      "狼田中"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-478"
   },
   {
     "id": 593304,
     "IDcode": "SUPA-479",
-    "title": "CN 夏休み特别企画！プール帰りの女子限定！‘水着でヌルヌルマットプレイ体験してみませんか？’という谢礼アリの企画に集められた素人娘たちはローションでヌルヌルになってカラダが火照ってしまい… めいさんのパンティとチェキ付き",
+    "title": "SUPA-479 暑假特辑！只适合从游泳池回来的女孩！想体验穿着泳装玩滑垫子吗？有奖征集的业余女孩们饥渴难耐，无法拒绝鸡巴的诱惑！215 分钟 SP！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳",
+      "内射",
+      "搭讪",
+      "美少女"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200131-1/69229f2aa5f7b4663f4e8bf7d5c0c143.jpg",
-    "actress": [],
+    "publish_date": "2019-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-479.jpg",
+    "actress": [
+      "奥村友真",
+      "阿部ノボル",
+      "キンポー"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-479"
   },
   {
     "id": 591167,
     "IDcode": "SUPA-480",
-    "title": "夫ではイケない若妻たちの絶顶を求めた発情他人棒SEX",
+    "title": "SUPA-480 无法与丈夫达到高潮的年轻妻子们为寻求性高潮而进行色情陌生人棍棒性爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "巨乳",
+      "素人",
+      "中文字幕",
+      "人妻",
+      "内射"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220721-1/f05d48a6f7ce0587e27e155604aacbac.jpg",
-    "actress": [],
+    "publish_date": "2019-08-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-480.jpg",
+    "actress": [
+      "蓝井优太",
+      "平田司",
+      "キンポー"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-480"
   },
   {
     "id": 166337,
     "IDcode": "SUPA-481",
-    "title": "Iカップ巨乳素人（19歳）完全プライベート撮影",
+    "title": "SUPA-481 I-cup 大胸业余爱好者（19 岁），完全私下拍摄。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳",
       "素人",
-      "中文字幕"
+      "巨乳",
+      "姐姐",
+      "中文字幕",
+      "内射",
+      "嫩妹",
+      "泳装"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/bff936a176893d59267baaa6839703b4.jpg",
-    "actress": [],
+    "publish_date": "2019-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-481.jpg",
+    "actress": [
+      "佐知子",
+      "服部义"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-481"
   },
   {
     "id": 565371,
     "IDcode": "SUPA-482",
-    "title": "S级素人奉献的精选美巨乳×内射40人4小时Part",
+    "title": "SUPA-482 40 位 S 级业余选手的美丽大奶子和 Nakadashi，4 小时 第 2 部分",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "素人"
+      "素人",
+      "内射",
+      "合集",
+      "精选",
+      "4小时以上"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191112-1/a97e37a8a6cbc323c97d9786f076185c.jpg",
+    "publish_date": "2019-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-482.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-482"
   },
   {
     "id": 166338,
     "IDcode": "SUPA-483",
-    "title": "5J●のはれんち生せっくす 清楚系J●長尺すぺしゃる",
+    "title": "SUPA-483 5J● no harenchi sekkusu Seijunkei J● long supeseru",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "中文字幕",
+      "内射",
+      "合集",
+      "4小时以上",
+      "精选",
+      "女学生"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4ef59444620623198bd2ea1535eaf559.jpg",
-    "actress": [],
+    "publish_date": "2019-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-483.jpg",
+    "actress": [
+      "愛名光莉",
+      "飞鸟铃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-483"
   },
   {
     "id": 547547,
     "IDcode": "SUPA-485",
-    "title": "アリバイ対策完璧の人里离れた会员制温泉旅馆で密に交わる W不伦カップル観察记录",
+    "title": "SUPA-485 观察一对在隐蔽的会员制温泉酒店偷情的情侣，他们有完美的不在场证明。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "情侣",
+      "人妻",
+      "内射",
+      "出轨",
+      "浴衣"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191128-1/d71114c385eac4b60f5e1d9de1176024.jpg",
-    "actress": [],
+    "publish_date": "2019-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-485.jpg",
+    "actress": [
+      "優梨舞奈",
+      "岬梓沙",
+      "小日向まい",
+      "でこすけ",
+      "桥本诚吾",
+      "キンポー"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-485"
   },
   {
     "id": 166136,
     "IDcode": "SUPA-486",
-    "title": "Gカップ巨乳素人（19歳）完全プライベート撮影",
+    "title": "SUPA-486 G 罩杯大胸业余爱好者（19 岁），完全私下拍摄。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "嫩妹",
-      "巨乳",
       "素人",
-      "中文字幕"
+      "巨乳",
+      "姐姐",
+      "中文字幕",
+      "内射",
+      "嫩妹",
+      "泳装"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-486.jpg",
+    "actress": [
+      "服部义",
+      "森本つぐみ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-486"
   },
   {
     "id": 593302,
     "IDcode": "SUPA-488",
-    "title": "CN うっかり饮み过ぎて路线バス最终便に乘り遅れたOLさんと朝までナマはめ撮り",
+    "title": "SUPA-488 与一名办公室职员发生性关系，直到早晨，该职员不小心喝多了，错过了最后一班公交车",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "短裙",
+      "美腿控",
+      "内射",
+      "丝袜",
+      "OL"
+    ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200129-1/1dfec7110254c65624b69c570e202cfd.jpg",
-    "actress": [],
+    "publish_date": "2019-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-488.jpg",
+    "actress": [
+      "美園和花",
+      "巨人广田"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-488"
   },
   {
     "id": 166339,
     "IDcode": "SUPA-489",
-    "title": "「第1回チキチキ！箱の中身はなんだろな！？",
+    "title": "SUPA-489 第一个小鸡鸡！我想知道盒子里是什么！\"如果你回答正确，就会得到奖品！那些害羞却故意摸着自己放进去的生鸡巴的业余少女们，暴露了她们的本性，并进行了荡气回肠的性爱！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "纪录片",
+      "素人",
+      "中文字幕",
+      "企划",
+      "搭讪",
+      "即兴性爱"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-09-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-489.jpg",
+    "actress": [
+      "服部义",
+      "池田径",
+      "宫崎"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-489"
   },
   {
     "id": 538981,
     "IDcode": "SUPA-490",
-    "title": "新村あかり- 本物全裸素人 セクシーヌードポーズファイル",
+    "title": "SUPA-490 真正的裸体业余爱好者 性感裸体姿势文件。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "恋物",
+      "企划",
+      "4小时以上",
+      "特写"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250320/A2Ldb7zf/1.jpg",
+    "publish_date": "2019-09-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-490.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-490"
   },
   {
     "id": 166340,
     "IDcode": "SUPA-493",
-    "title": "地味で清楚系な文学美女限定ナンパ！",
+    "title": "SUPA-493 只和清醒、整洁、文艺的美女搭讪！这些一脸严肃的女孩是不是很脏？她们对与女士们的第一次亲密接触充满兴趣！她们照着吩咐和指示，做着严肃的色情动作！美丽的文艺美女们，她们的朦胧龌龊之心被点燃，她们的情欲被唤醒，她们无法拒绝处女的原始鸡巴！220 分钟 SP！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "素人",
+      "中文字幕",
+      "处男",
+      "内射",
+      "搭讪",
+      "眼镜",
+      "美少女"
     ],
     "type": "有码",
     "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2019-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SUPA-493.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-493"
-  },
-  {
-    "id": 594980,
-    "IDcode": "SUPA-494",
-    "title": "搭讪Ｓ级素人！温柔可爱药剂师数度温柔破处男SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/b1ce404660804536ccd7289ecfe2eaa3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-494"
-  },
-  {
-    "id": 166341,
-    "IDcode": "SUPA-495",
-    "title": "Gカップ黒ギャル かほりん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4753976032786308440e5052faea675e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-495"
-  },
-  {
-    "id": 516026,
-    "IDcode": "SUPA-499",
-    "title": "比護士還色的是藥劑師！？搭訕假裝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/28/690020cf7de28f4edead2d65/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-499"
-  },
-  {
-    "id": 75999,
-    "IDcode": "SUPA-503",
-    "title": "休憩中の保母さんナンパ！！普段子供の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中文字幕",
-      "中出",
-      "处男",
-      "素人作品",
-      "猎艳",
-      "苗条",
-      "裸体围裙"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-503"
-  },
-  {
-    "id": 512774,
-    "IDcode": "SUPA-503-CN",
-    "title": "休憩中の保母さんナンパ！！普段子供のおちんちんしか見ていない保母さんはビンビンに勃起した童貞チ●ポに大興奮！普段子供に優しく接する保母さんの優しさに付け込んで童貞チ●ポがHな事しちゃいました230分SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d40be48947b7a6eb3fea56ba62c69374.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-503-CN"
-  },
-  {
-    "id": 521067,
-    "IDcode": "SUPA-504",
-    "title": "河北春菜- LetsParty！ NONSTOP！ ヤリマン乱交忘年会24H",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250914/J4S4gIj9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-504"
-  },
-  {
-    "id": 83856,
-    "IDcode": "SUPA-506",
-    "title": "最高級巨乳素人と極上SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "巨乳",
-      "素人作品",
-      "猎艳",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-12-27",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230101-34/8be941349814def90d03c49b4ce278af.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-506"
-  },
-  {
-    "id": 82041,
-    "IDcode": "SUPA-510",
-    "title": "「お願い！中に出してください！」中出しを切に懇願するS級素人 40人240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "中出",
-      "素人作品",
-      "4小时以上作品",
-      "淫语",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-01-31",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221106-1/5b30dda1912ed36e51301161f3d8b4ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-510"
-  },
-  {
-    "id": 526356,
-    "IDcode": "SUPA-511",
-    "title": "_B S级素人2019年下半期プレミアムBEST30 4时间 Part 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-511"
-  },
-  {
-    "id": 166197,
-    "IDcode": "SUPA-512",
-    "title": "「お願いします、お金貸してください",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/e6c489017842c03c9df5b6b753b1b979.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-512"
-  },
-  {
-    "id": 82033,
-    "IDcode": "SUPA-513",
-    "title": "実はナンパ待ちだったんじゃないの？超ド級のエロ過ぎるS級素人とリアル中出しSEX4時間！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "中出",
-      "素人作品",
-      "猎艳",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-02-28",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221106-1/3d11d6a710cc08312f26d86520fd7212.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-513"
-  },
-  {
-    "id": 82032,
-    "IDcode": "SUPA-514",
-    "title": "身も心もアソコもポッカポカ！温泉地でHな素人娘としっぽりSEX30人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "浴衣",
-      "中出",
-      "素人作品",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-02-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-514"
-  },
-  {
-    "id": 538867,
-    "IDcode": "SUPA-515",
-    "title": "河北春菜- 本物全裸素人 局部パーツ接写＆アクリル板に圧着ファイル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/qMybLw6O/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-515"
-  },
-  {
-    "id": 533911,
-    "IDcode": "SUPA-516",
-    "title": "_B 街中を走っている美人ジョガーにター",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-516"
-  },
-  {
-    "id": 82199,
-    "IDcode": "SUPA-518",
-    "title": "BEST BAKUNYU MEGA盛りMIX！ Gカップ以上の爆乳素人娘だけの240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "巨乳",
-      "中出",
-      "乳房",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-03-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/de5d3a855c9297ed84d80135dfe07850.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-518"
-  },
-  {
-    "id": 564901,
-    "IDcode": "SUPA-520",
-    "title": "P1 [第1集]亲や先生たちは知らない、放课后中出し部活动2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-520"
-  },
-  {
-    "id": 593658,
-    "IDcode": "SUPA-524",
-    "title": "【真实素人】“就说了不能射在里面！”未经许可阴道内射精4次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-524"
-  },
-  {
-    "id": 530472,
-    "IDcode": "SUPA-526",
-    "title": "ビンカンすぎる微乳娘に中出しSEX30人4时间 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200716-1/4285c065aa64636ee2bae8738074a0a9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-526"
-  },
-  {
-    "id": 538736,
-    "IDcode": "SUPA-527",
-    "title": "河北春菜- 本物全裸素人 局部パーツ接写 全裸ストレッチ编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240925/A3kdJAtY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-527"
-  },
-  {
-    "id": 559837,
-    "IDcode": "SUPA-547",
-    "title": "讨厌的姐姐的密集口交和背部打手枪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/25/48136_cover_2025-06-25_083527.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-547"
-  },
-  {
-    "id": 88233,
-    "IDcode": "SUPA-555",
-    "title": "人妻の本懐 ゆうかさん 26歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "人妻",
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "第一人称摄影"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b91b27b73f24472902bf360d1d30f424.jpg",
-    "actress": [
-      "星优香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-555"
-  },
-  {
-    "id": 72513,
-    "IDcode": "SUPA-556",
-    "title": "＃首都圏発 ひなこ（20歳・エステティシャン）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "口交",
-      "美少女电影",
-      "多P",
-      "平胸"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f484871106c54791b8bfc4e1c11769d6.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-556"
-  },
-  {
-    "id": 79090,
-    "IDcode": "SUPA-582",
-    "title": "爆乳素人 奇跡のAV初出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "巨乳",
-      "巨大屁股",
-      "中出",
-      "女上位",
-      "姐姐",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-582"
-  },
-  {
-    "id": 79107,
-    "IDcode": "SUPA-593",
-    "title": "愛嬌のかたまりで底なしに明るい巨乳女子。身近に一人は居てほしい親近感バツグンの女子がハードファックでガチアヘ顔連発！まさかのギャップに死ぬほど興奮した。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "玩具",
-      "中出",
-      "按摩",
-      "女生"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221018-1/ea92d849afcd943fcbe068d6cb47c02f.jpg",
-    "actress": [
-      "夏川海"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-593"
-  },
-  {
-    "id": 89445,
-    "IDcode": "SUPA-626",
-    "title": "もう時効だから若気の至りで出演した女子校生62人一挙大放出ALL本番中出し4時間SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "中出",
-      "乳房",
-      "美少女电影",
-      "高中女生",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/f0c0de9f6241f1fc1ba615010cb4523f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-626"
-  },
-  {
-    "id": 563308,
-    "IDcode": "SUPA-627",
-    "title": "どこで覚えたの！？カワイイ颜してフェラ上手すぎる素人娘 射精までの最高に気持ちいいフェラチオB",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230925/P9bxmvGp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-627"
-  },
-  {
-    "id": 89444,
-    "IDcode": "SUPA-628",
-    "title": "本物全裸素人 セクシーヌードポーズファイル3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恋物癖",
-      "业余",
-      "素人",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/cf650606a01a372126dc5dbe9bac87c2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-628"
-  },
-  {
-    "id": 94770,
-    "IDcode": "SUPA-630",
-    "title": "中出しを切に懇願するS級素人50人240分 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "已婚妇女",
-      "中出",
-      "高中女生",
-      "猎艳",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-01-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/5670b90bfcc281fe012e7ee5065a5125.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-630"
-  },
-  {
-    "id": 94771,
-    "IDcode": "SUPA-631",
-    "title": "エッチな素人娘のつるっつるおま○こを責めまくる！！パイパン美少女50人4時間BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "中出",
-      "美少女电影",
-      "无毛",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-02-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/8862c7371b8aabf7bd11ec1680fd2a0f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-631"
-  },
-  {
-    "id": 78544,
-    "IDcode": "SUPA-632",
-    "title": "全35人ギャル、襲来 ビッチ4時間SP 素人の中でもエロ度最上級の最強ギャル軍団 乱れまくり、中出ししまくり、抜かれすぎても逃げちゃだめだ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "荡妇",
-      "中出",
-      "女生",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-03-26",
-    "cover_url": "https://tuaskbgnekr.com/20240705/I7LF9GKZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-632"
-  },
-  {
-    "id": 94767,
-    "IDcode": "SUPA-633",
-    "title": "奇跡のパーフェクトBODY！超絶品！極上素人中出しSEX50連発BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "巨乳",
-      "中出",
-      "美少女电影",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-04-23",
-    "cover_url": "https://tuaskbgnekr.com/20240705/cms5lug9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-633"
-  },
-  {
-    "id": 94765,
-    "IDcode": "SUPA-634",
-    "title": "えっ？旦那よりもキモチいいって？それじゃあ…中出ししてあげるね笑 無自覚すぎるシロウト人妻たちに無許可でナマ中出しBEST！厳選40人！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "人妻",
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-06-11",
-    "cover_url": "https://tuaskbgnekr.com/20240705/8PdPEpKA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-634"
-  },
-  {
-    "id": 94769,
-    "IDcode": "SUPA-635",
-    "title": "素人の桃尻をメッタ突きで激イカセ！！至高のバックピストンBEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "巨大屁股",
-      "高中女生",
-      "4小时以上作品",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/0cdffaf4ec4bc360f05d34207d161ff1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-635"
-  },
-  {
-    "id": 94766,
-    "IDcode": "SUPA-636",
-    "title": "おっきい！おっぱい！魅力的！！！S級巨乳J● SUPER KAWAII H BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "巨乳",
-      "中出",
-      "美少女电影",
-      "高中女生",
-      "4小时以上作品"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-08-13",
-    "cover_url": "https://tuaskbgnekr.com/20240825/1AJ9Y9dJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-636"
-  },
-  {
-    "id": 544212,
-    "IDcode": "SUPA-637",
-    "title": "ショートカットが似合うカワイイ素人娘限定 た～っぷり中出し50発 SPECIAL BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-637"
   }
 ];

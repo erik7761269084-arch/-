@@ -1,5 +1,274 @@
 window.PAGE_DATA = [
   {
+    "id": 7237,
+    "IDcode": "FSDSS-997",
+    "title": "FSDSS-997 被红线牵引的缘分…被一米距离束缚的男女，能否在24小时内抵达真挚的性交？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美人",
+      "慾求不滿",
+      "巨乳",
+      "偶像",
+      "手指插入",
+      "女神",
+      "蠻橫嬌羞",
+      "舔陰",
+      "药物",
+      "舔腳",
+      "中出",
+      "口交",
+      "美臀",
+      "口爆",
+      "明星臉",
+      "紀念作",
+      "深喉",
+      "高顏值",
+      "脚控・戀足癖",
+      "滥交",
+      "美腳",
+      "極品美人",
+      "足交",
+      "騎乗位",
+      "後入",
+      "臀控",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "接吻",
+      "飯店",
+      "絕頂高潮",
+      "企畫",
+      "芸能人",
+      "純粹的慾望",
+      "真人秀",
+      "性感",
+      "癡女",
+      "苗條",
+      "女優",
+      "感官作品",
+      "濕身",
+      "形象俱樂部",
+      "潮吹",
+      "女上位",
+      "单人作品",
+      "女優訪談",
+      "真實拍攝"
+    ],
+    "type": "有码",
+    "company": "FALENO",
+    "publish_date": "2025-04-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSDSS-997.jpg",
+    "actress": [
+      "天使萌",
+      "肌肉泽野"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-997"
+  },
+  {
+    "id": 7477,
+    "IDcode": "FSDSS-998",
+    "title": "FSDSS-998 受虐肉便器堕落拘禁性交 高级空姐美人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美人",
+      "亂交 • 群P",
+      "4P",
+      "魔鬼系",
+      "高跟鞋",
+      "黑絲",
+      "中出",
+      "口交",
+      "空姐制服",
+      "按摩棒",
+      "M男・M女",
+      "脚控・戀足癖",
+      "高顏值",
+      "美腳",
+      "騎乗位",
+      "後入",
+      "羞恥",
+      "美乳",
+      "美腿",
+      "3P",
+      "劇情",
+      "3P・4P",
+      "拘束",
+      "剧情",
+      "空姐",
+      "兩男一女",
+      "飯店",
+      "絕頂高潮",
+      "性感",
+      "玩具",
+      "輪姦",
+      "肉絲",
+      "苗條",
+      "高妹",
+      "私房攝影",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
+      "女上位",
+      "监禁",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "FALENO",
+    "publish_date": "2025-04-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSDSS-998.jpg",
+    "actress": [
+      "森彩美",
+      "七尾神",
+      "野岛诚",
+      "上田昌宏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-998"
+  },
+  {
+    "id": 7732,
+    "IDcode": "FSDSS-999",
+    "title": "FSDSS-999 我无法满足男友的......我在老家父母家沉迷于叔叔的大鸡巴沼泽。 山下泽，带内裤和照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美人",
+      "慾求不滿",
+      "手指插入",
+      "不倫",
+      "蠻橫嬌羞",
+      "舔陰",
+      "小隻馬",
+      "中出",
+      "口交",
+      "美臀",
+      "指交",
+      "探親",
+      "高顏值",
+      "極品美人",
+      "出汗",
+      "大雞巴",
+      "騎乗位",
+      "鄉下",
+      "後入",
+      "美少女電影",
+      "美乳",
+      "劇情",
+      "接吻",
+      "剧情",
+      "出軌",
+      "絕頂高潮",
+      "性感",
+      "癡女",
+      "流汗",
+      "濕身",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
+      "女上位",
+      "NTR",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "FALENO",
+    "publish_date": "2025-04-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSDSS-999.jpg",
+    "actress": [
+      "山下紗和",
+      "东尼大木"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-999"
+  },
+  {
+    "id": 11914,
+    "IDcode": "FSFST-001",
+    "title": "奇跡復活前夜的珍貴祕藏鏡頭 ~ 小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "美臀",
+      "癡女",
+      "感官作品",
+      "奇聞趣事",
+      "淫亂",
+      "中出",
+      "紀錄片",
+      "明星臉",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
+      "口交",
+      "巨乳",
+      "女上位",
+      "胸控・戀乳癖",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FALENO",
+    "publish_date": "2024-10-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSFST-001.jpg",
+    "actress": [
+      "小沢菜穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-001"
+  },
+  {
+    "id": 11242,
+    "IDcode": "FSFST-002",
+    "title": "AVデビュー前の秘蔵ハメ撮り映像 女神ジュン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "美腳",
+      "美臀",
+      "奇異的",
+      "奇聞趣事",
+      "中出",
+      "紀錄片",
+      "美少女電影",
+      "女優",
+      "企畫",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美乳",
+      "美腿",
+      "口交",
+      "巨乳",
+      "女優訪談",
+      "胸控・戀乳癖",
+      "女上位",
+      "AV拍攝現場",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "FALENO",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSFST-002.jpg",
+    "actress": [
+      "女神純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-002"
+  },
+  {
     "id": 6650,
     "IDcode": "FSFST-003",
     "title": "AV出道前夜…珍藏私拍影片 ~ 濱邊彌生",
@@ -36,7 +305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423084118812812_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FSFST-003.jpg",
     "actress": [
       "濱邊彌生"
     ],
@@ -53,7 +322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e302fc5fbdc03a687d2db48fe9c48cb4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-001"
   },
@@ -68,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/aL5yqdvb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-002"
   },
@@ -90,7 +359,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2022-07-21",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9845e0a561b4f0bb3e622bb0ee4f2832.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-003"
   },
@@ -112,7 +381,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2022-08-25",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/062deb15c00aa63ce49bb98c488b4e95.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-004"
   },
@@ -127,7 +396,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/76bb3ff0a536e1304905816b6b816927.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-006"
   },
@@ -144,7 +413,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/7d819a353d0f74e084257ceed4714a44.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-007"
   },
@@ -159,7 +428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/0e14843483ce48be8fe0e2b54cb164cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-008"
   },
@@ -174,7 +443,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/fc3de31ee6547aefdc866cde46a36dc5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-009"
   },
@@ -191,7 +460,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ba828816cdfa2cce2dda628ac00dac0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-010"
   },
@@ -206,7 +475,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a415209fffdce9158c07a36a88d4c45b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-011"
   },
@@ -227,7 +496,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/1424d11d96458802c50931301748c737.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-012.jpg",
     "actress": [
       "二之宮りえな"
     ],
@@ -244,7 +513,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221226/2S9VsGNu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-014"
   },
@@ -265,7 +534,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/1db7e3fdfaac553867daedc212f13d62.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-015.jpg",
     "actress": [
       "二之宮りえな"
     ],
@@ -288,7 +557,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/9aa2a65f5ca2b6598dc6926fbd4cd786.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-016.jpg",
     "actress": [
       "菜月光"
     ],
@@ -305,7 +574,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68890c6f98bc99dfddbda512/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-017.jpg",
     "actress": [
       "菜月光"
     ],
@@ -353,7 +622,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2023-09-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240409/7a2ca050-545f-4478-9bda-47abafd9d9cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-018.jpg",
     "actress": [
       "瀬戸ひなこ"
     ],
@@ -372,7 +641,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240313/ZVLcYDT9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-020"
   },
@@ -406,7 +675,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-05-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020224807807.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-021.jpg",
     "actress": [
       "朝日凜"
     ],
@@ -445,7 +714,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240502/20240502182630962962.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-022.jpg",
     "actress": [
       "朝日凜"
     ],
@@ -469,7 +738,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240819-1/cf517e66c1961d03ab30b5d74a4f1285.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-023.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -508,7 +777,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-05-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240403/20240403072254430430.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-024.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -542,7 +811,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240502/202405020001534848.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-025.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -589,7 +858,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-07-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240603/20240603031350942942.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-026.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -638,7 +907,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-08-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240808/202408080514126868.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-027.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -655,7 +924,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4a6a6e4a73d4f15a1a4a7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-028"
   },
@@ -697,7 +966,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-07-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607213201779779.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-029.jpg",
     "actress": [
       "松下莉子"
     ],
@@ -745,7 +1014,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-08-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703005023382382.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-030.jpg",
     "actress": [
       "松下莉子"
     ],
@@ -776,7 +1045,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908234055663663.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-032.jpg",
     "actress": [
       "松下莉子"
     ],
@@ -824,7 +1093,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2024-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20240917/20240917062541865865.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-033.jpg",
     "actress": [
       "月見若葉"
     ],
@@ -890,7 +1159,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/04/3f5826bc8b9433808e8baa01ef6e58b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-034.jpg",
     "actress": [
       "姉宮玲亞"
     ],
@@ -973,7 +1242,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2025-05-08",
-    "cover_url": "https://picture.yoshiclub.xyz/20250404/20250404061452750750.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-035.jpg",
     "actress": [
       "姉宮玲亞"
     ],
@@ -1038,7 +1307,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "2025-05-03",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503103519972972_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-036.jpg",
     "actress": [
       "姉宮玲亞"
     ],
@@ -1109,7 +1378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/49835b1a/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-037.jpg",
     "actress": [
       "姉宮玲亞"
     ],
@@ -1157,7 +1426,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/81dc057d/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-038.jpg",
     "actress": [
       "宮野櫻"
     ],
@@ -1228,7 +1497,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630221640915915_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-040.jpg",
     "actress": [
       "宮野櫻"
     ],
@@ -1296,7 +1565,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203803610610_48867_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-043.jpg",
     "actress": [
       "宮野櫻"
     ],
@@ -1357,7 +1626,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/09ca30e37d38dc1c971c7bb94c154903.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-045.jpg",
     "actress": [
       "澪奈明日見",
       "鲛岛",
@@ -1424,7 +1693,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FALENO",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203745249249_74314_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MGOLD-046.jpg",
     "actress": [
       "澪奈明日見"
     ],

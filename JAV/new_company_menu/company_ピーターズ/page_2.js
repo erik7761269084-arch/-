@@ -1,0 +1,1123 @@
+window.PAGE_DATA = [
+  {
+    "id": 518741,
+    "IDcode": "PTS-491",
+    "title": "PTS-491 与闺蜜的第一次刺激狂欢！ 黑历史在醉酒、无序、粗俗和禁忌的三人行中得到证实！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "3P",
+      "4P",
+      "重口味",
+      "颜射",
+      "辣妹"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2022-06-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-491.jpg",
+    "actress": [
+      "白雪ひめ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-491"
+  },
+  {
+    "id": 90011,
+    "IDcode": "PTS-493",
+    "title": "PTS-493 性爱调查 与完全敞开心扉和阴部的美女进行大胸业余性交和阴部性交 SP 视频。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "第一人称摄影",
+      "中出",
+      "内射",
+      "素人",
+      "各种职业",
+      "主观视角",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2022-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-493.jpg",
+    "actress": [
+      "天晴乃愛",
+      "鈴木真夕",
+      "皇柚子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-493"
+  },
+  {
+    "id": 410778,
+    "IDcode": "PTS-495",
+    "title": "PTS-495 名人已婚女同性恋美容师 - 首次了解女性之间的快感 - 疯狂高潮 - 12 对情侣，5 个小时。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "润滑液",
+      "4小时以上",
+      "美容店",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2022-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-495.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-495"
+  },
+  {
+    "id": 534567,
+    "IDcode": "PTS-497",
+    "title": "PTS-497 东京倒计时 VOL.01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "口交",
+      "巨乳",
+      "辣妹",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2022-12-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-497.jpg",
+    "actress": [
+      "工藤拉拉",
+      "南見つばさ",
+      "桜和ことこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-497"
+  },
+  {
+    "id": 536368,
+    "IDcode": "PTS-498",
+    "title": "PTS-498 FANZA 独家 美艳人妻猛烈潮药女同美容--连续喷射高潮！ 包括内裤和新鲜照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "潮吹",
+      "女同",
+      "重口味",
+      "人妻",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-01-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-498.jpg",
+    "actress": [
+      "葵百合香",
+      "望月綾香",
+      "佐伯由美香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-498"
+  },
+  {
+    "id": 536367,
+    "IDcode": "PTS-499",
+    "title": "PTS-499 名人已婚女同性恋美容师唤醒了与其他女性在一起的快感，吞食对方的阴部并射精。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "肛门",
+      "人妻",
+      "4小时以上",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-02-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-499.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-499"
+  },
+  {
+    "id": 535131,
+    "IDcode": "PTS-500",
+    "title": "PTS-500 六对大胸女变态情侣 偷窥海滨别墅 ，即刻帕科记录。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳装",
+      "素人",
+      "情侣",
+      "巨乳",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-500.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-500"
+  },
+  {
+    "id": 536399,
+    "IDcode": "PTS-501",
+    "title": "PTS-501 名人已婚女同性恋的审美观--沉醉于快乐，为之疯狂，寻找快乐，让快乐来临！ 14 对夫妇，5 个小时",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "人妻",
+      "4小时以上",
+      "美容店",
+      "女同接吻"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-04-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-501.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-501"
+  },
+  {
+    "id": 89997,
+    "IDcode": "PTS-503",
+    "title": "PTS-503 美丽人妻激烈潮药女同审美连续喷射高潮！ 第二卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "美容院",
+      "下流",
+      "潮吹",
+      "女同",
+      "淫乱，真实",
+      "重口味",
+      "人妻",
+      "女同性恋",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-06-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-503.jpg",
+    "actress": [
+      "望月綾香",
+      "紫月由香里",
+      "赤城憂紀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-503"
+  },
+  {
+    "id": 90012,
+    "IDcode": "PTS-504",
+    "title": "PTS-504 Aifun 业余操蛋一代。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "业余",
+      "第一人称摄影",
+      "口交",
+      "素人",
+      "情侣",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-07-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-504.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-504"
+  },
+  {
+    "id": 90007,
+    "IDcode": "PTS-505",
+    "title": "PTS-505 街道快照 2021 年的最新接送情况！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "车震",
+      "猎艳",
+      "素人",
+      "4小时以上作品",
+      "搭讪",
+      "姐姐",
+      "4小时以上",
+      "汽车性爱"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-505.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-505"
+  },
+  {
+    "id": 90004,
+    "IDcode": "PTS-506",
+    "title": "PTS-506 第一性 第 01 卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "苗条",
+      "口交",
+      "69"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-09-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-506.jpg",
+    "actress": [
+      "水川蓳",
+      "鳳美優",
+      "真白みのり",
+      "叶芽遥希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-506"
+  },
+  {
+    "id": 89990,
+    "IDcode": "PTS-507",
+    "title": "PTS-507  第一性 第 02 卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性感的",
+      "口交",
+      "69",
+      "性感",
+      "姐姐",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-507.jpg",
+    "actress": [
+      "Nia",
+      "加賀美さら",
+      "NATSUKA",
+      "加贺美さら",
+      "岬野まなつ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-507"
+  },
+  {
+    "id": 89980,
+    "IDcode": "PTS-508",
+    "title": "PTS-508 PEA 第 6 频道 如果妹妹在客厅看黄片，你的哥哥会作何反应！ 当我在一个爸爸应用程序上为她和她的亲生父亲牵线搭桥时，她的反应让我大吃一惊！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "感官作品",
+      "内射",
+      "巨大屁股",
+      "感官魅惑",
+      "巨臀",
+      "姐姐",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-508.jpg",
+    "actress": [
+      "香澄せな",
+      "矢野沙衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-508"
+  },
+  {
+    "id": 89978,
+    "IDcode": "PTS-509",
+    "title": "PTS-509 在活塞的追击和未经授权的 Nakadashi 的情况下，对一名入店行窃的妇女实施强奸。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "中出",
+      "偷窥",
+      "内射",
+      "素人",
+      "羞辱",
+      "放尿",
+      "羞耻",
+      "4小时以上作品",
+      "4小时以上",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-509.jpg",
+    "actress": [
+      "柏木小夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-509"
+  },
+  {
+    "id": 90009,
+    "IDcode": "PTS-510",
+    "title": "PTS-510 仅限女生用墙上的乳头和阴茎猜男友游戏！如果她猜对了，就会得到一份丰厚的奖品！如果没猜中，她将受到意想不到的惩罚，生平第一次射精！第一次 NTR！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "美少女电影",
+      "美少女",
+      "NTR",
+      "4小时以上",
+      "淫妻",
+      "校服",
+      "手交",
+      "手淫",
+      "女学生",
+      "4小时以上作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2023-12-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-510.jpg",
+    "actress": [
+      "千石もなか",
+      "Nia",
+      "鈴音杏夏",
+      "百咲未色"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-510"
+  },
+  {
+    "id": 546801,
+    "IDcode": "PTS-511",
+    "title": "PTS-511 美丽的大胸 S 级变性人、激烈的女同性恋性交、大胸美女、喷油美学。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "跨性别",
+      "4P",
+      "姐姐",
+      "巨乳",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-01-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-511.jpg",
+    "actress": [
+      "望月綾香",
+      "夏目未來",
+      "桃谷りり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-511"
+  },
+  {
+    "id": 550328,
+    "IDcode": "PTS-512",
+    "title": "PTS-512 漂亮姐姐、奸夫哥哥、奸夫弟弟和漂亮姐姐的影响者们为了获得更多浏览量而尝试情色游戏时，他们疯狂了！现场直播一系列亲密家庭 Nakadashi！ 国王游戏、椅子游戏、棒球拳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "侮辱",
+      "内射",
+      "妹妹",
+      "用户投稿"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-01-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-512.jpg",
+    "actress": [
+      "美澄玲衣",
+      "柊有希",
+      "小野寺舞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-512"
+  },
+  {
+    "id": 579566,
+    "IDcode": "PTS-513",
+    "title": "PTS-513 睡梦强奸淫秽体检--五名女员工被这一恶劣行为玷污。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "短裙",
+      "姐姐",
+      "4小时以上",
+      "特写"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-02-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-513.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-513"
+  },
+  {
+    "id": 546363,
+    "IDcode": "PTS-514",
+    "title": "PTS-514 处女对着街上捡来的女孩自慰！她应该是在乞求，但是......业余女孩生平第一次责怪 M-男人，连续射精，被干得生不如死！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "素人",
+      "搭讪",
+      "4小时以上",
+      "大学生",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-02-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-514.jpg",
+    "actress": [
+      "柏木小夏",
+      "由良佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-514"
+  },
+  {
+    "id": 561323,
+    "IDcode": "PTS-515",
+    "title": "PTS-515 高级男士美容院 诱人的美容师将大奶子贴在脸上，玩弄着勃起的阴茎。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "内射",
+      "巨乳",
+      "偷窥者",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-515.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-515"
+  },
+  {
+    "id": 561316,
+    "IDcode": "PTS-516",
+    "title": "PTS-516 东京倒计时 VOL.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "潮吹",
+      "4P",
+      "巨乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-516.jpg",
+    "actress": [
+      "波多野结衣",
+      "朱桜しお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-516"
+  },
+  {
+    "id": 93887,
+    "IDcode": "PTS-517",
+    "title": "PTS-517 在社交网络粉丝网站上人气飙升！ 小暴露-爱放荡的女孩，现场性爱冲击，5个离家出走的女人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "户外",
+      "素人",
+      "重口味",
+      "主观视角",
+      "4小时以上"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-06-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-517.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-517"
+  },
+  {
+    "id": 545494,
+    "IDcode": "PTS-519",
+    "title": "PTS-519 穿着校服的女学生被带到家中偷拍！ 我真想和一个有男朋友的非常可爱的女孩做爱！ 一名穿着校服、有男朋友的年轻女孩被带到家中并被偷拍！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主观视角",
+      "NTR",
+      "4小时以上",
+      "女学生",
+      "巨乳",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-05-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-519.jpg",
+    "actress": [
+      "堀北実来",
+      "夢川りあ",
+      "紺野美衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-519"
+  },
+  {
+    "id": 93881,
+    "IDcode": "PTS-520",
+    "title": "PTS-520 高级已婚妇女的精油美学 母亲的乳汁喷涌 M激起女同性恋的性欲 10 人，5 小时，合集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "美容院",
+      "精选，综合",
+      "合集",
+      "女同",
+      "母乳",
+      "精选",
+      "人妻",
+      "女同性恋",
+      "按摩",
+      "4小时以上作品",
+      "4小时以上",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-06-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-520.jpg",
+    "actress": [
+      "望月綾香",
+      "本田桃",
+      "羽月希",
+      "美咲結衣",
+      "杉崎みさき",
+      "弘前綾香",
+      "美咲结衣",
+      "成泽ひなみ",
+      "瀬戸すみれ",
+      "桥野爱琉",
+      "秋山しほり",
+      "橋野愛琉",
+      "綾川ふみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-520"
+  },
+  {
+    "id": 93906,
+    "IDcode": "PTS-521",
+    "title": "PTS-521 美丽人妻女同美容沙龙，女性唤醒彼此的性高潮，阴部高潮循环性爱，8 人，5 小时，合集。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "美容院",
+      "精选，综合",
+      "合集",
+      "潮吹",
+      "女同",
+      "精选",
+      "人妻",
+      "女同性恋",
+      "按摩",
+      "4小时以上作品",
+      "4小时以上",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-07-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-521.jpg",
+    "actress": [
+      "葵百合香",
+      "望月綾香",
+      "加藤ツバキ",
+      "塩見彩",
+      "佐伯由美香",
+      "紫月由香里",
+      "丹羽すみれ",
+      "夏树カオル",
+      "塩见彩",
+      "赤城憂紀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-521"
+  },
+  {
+    "id": 560171,
+    "IDcode": "PTS-522",
+    "title": "PTS-522 美女互相挤压，高潮循环！ 追逐阴部阴道挖掘女同性恋审美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "胸部",
+      "女同",
+      "重口味",
+      "姐姐",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-09-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-522.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-522"
+  },
+  {
+    "id": 503289,
+    "IDcode": "PTS-523",
+    "title": "PTS-523 有年龄差异的女同性恋相互审美--18 对相互追逐阴部和 geki acme，5 小时，共收录。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "女同",
+      "重口味",
+      "熟女",
+      "姐姐",
+      "4小时以上"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-523.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-523"
+  },
+  {
+    "id": 466648,
+    "IDcode": "PTS-524",
+    "title": "PTS-524 120% 的支持率！ 淫荡的女孩在户外羞羞答答地展示自己湿润的阴部，并与男主角的鸡巴疯狂厮磨！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "羞辱",
+      "户外"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-524.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-524"
+  },
+  {
+    "id": 411673,
+    "IDcode": "PTS-525",
+    "title": "PTS-525 S 级美女变性美容师 不要告诉你妈妈...... 江川性油按摩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "乱伦",
+      "女同",
+      "跨性别",
+      "美少女",
+      "4P",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2024-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-525.jpg",
+    "actress": [
+      "円井萌華",
+      "美咲音",
+      "ちびとり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-525"
+  },
+  {
+    "id": 440287,
+    "IDcode": "PTS-526",
+    "title": "PTS-526 我走不动了我来了 与业余大胸无胸罩女孩约会的恐慌轿车",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "玩具",
+      "素人",
+      "羞辱",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-01-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-526.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-526"
+  },
+  {
+    "id": 440327,
+    "IDcode": "PTS-527",
+    "title": "PTS-527 S 级女孩 新半厚女同性恋性交 Dos 大胸女孩 Nakadashi 油画美学",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "女同",
+      "跨性别",
+      "4P",
+      "巨乳",
+      "辣妹",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-01-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-527.jpg",
+    "actress": [
+      "椿莉香",
+      "瀬那瑠美奈",
+      "涼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-527"
+  },
+  {
+    "id": 68715,
+    "IDcode": "PTS-529",
+    "title": "PTS-529 大胸女孩相互奸淫、Acme 循环、肛门 G 点兴奋、女同性恋美学。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "女同",
+      "肛交",
+      "淫乱，真实",
+      "肛门",
+      "重口味",
+      "女同性恋",
+      "姐姐",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-529.jpg",
+    "actress": [
+      "波多野结衣",
+      "乙愛麗絲",
+      "皇柚子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-529"
+  },
+  {
+    "id": 445093,
+    "IDcode": "PTS-530",
+    "title": "PTS-530 第一性 第 03 卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "口交",
+      "巨乳",
+      "苗条",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-05-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-530.jpg",
+    "actress": [
+      "彌生美月",
+      "春陽萌花",
+      "新井里真"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-530"
+  },
+  {
+    "id": 64027,
+    "IDcode": "PTS-531",
+    "title": "PTS-531 豪华已婚妇女肛门精油美容 2 孔升天 责备唤醒女同性恋 11 人, 5 小时, 编译",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "美容院",
+      "女同",
+      "玩具",
+      "肛交",
+      "肛门",
+      "人妻",
+      "女同性恋",
+      "4小时以上作品",
+      "4小时以上",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-06-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-531.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-531"
+  },
+  {
+    "id": 62884,
+    "IDcode": "PTS-532",
+    "title": "PTS-532 高大的 S 级变性人、粗壮的女同性恋性交、矮小的美女、Nakadashi 油美容。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "美容院",
+      "3P",
+      "迷你",
+      "跨性别",
+      "4P",
+      "多P",
+      "姐姐",
+      "瘦小身型",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-07-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-532.jpg",
+    "actress": [
+      "由良佳奈",
+      "松井日奈子",
+      "姫岡しあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-532"
+  },
+  {
+    "id": 61806,
+    "IDcode": "PTS-533",
+    "title": "PTS-533 14 家男士美容沙龙，5 个小时的痛苦后门技术，让您在他们的厚实护理下射精。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "乳液",
+      "美容院",
+      "偷窥",
+      "润滑液",
+      "按摩",
+      "4小时以上作品",
+      "4小时以上",
+      "偷窥者",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-533.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-533"
+  },
+  {
+    "id": 59990,
+    "IDcode": "PTS-534",
+    "title": "PTS-534 业余女性淫荡双孔高潮循环肛门治疗性爱女同沙龙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "女同",
+      "肛交",
+      "肛门",
+      "素人",
+      "女同性恋",
+      "按摩",
+      "姐姐",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-09-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PTS-534.jpg",
+    "actress": [
+      "由良佳奈",
+      "佐久間津奈",
+      "わさび"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-534"
+  },
+  {
+    "id": 2699,
+    "IDcode": "YYPP-001",
+    "title": "YYPP-001 泳装×搭讪 10 位夏日撩妹高手",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美人",
+      "巨乳",
+      "素人",
+      "手指插入",
+      "豐滿",
+      "蠻橫嬌羞",
+      "舔陰",
+      "小隻馬",
+      "中出",
+      "辣妹",
+      "口交",
+      "美臀",
+      "辣妹/GAL系",
+      "口爆",
+      "搭讪",
+      "無毛",
+      "故事集",
+      "脚控・戀足癖",
+      "高顏值",
+      "美腳",
+      "極品美人",
+      "乳交",
+      "精選綜合",
+      "後入",
+      "騎乗位",
+      "臀控",
+      "美少女電影",
+      "美乳",
+      "美腿",
+      "大奶头",
+      "色白",
+      "4小時以上作品",
+      "企畫",
+      "性感",
+      "癡女",
+      "苗條",
+      "4小时以上",
+      "胸控・戀乳癖",
+      "女優",
+      "精選總編集",
+      "泳裝",
+      "清純",
+      "形象俱樂部",
+      "女上位",
+      "泳装"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-09-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YYPP-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YYPP-001"
+  },
+  {
+    "id": 174208,
+    "IDcode": "YYPP-002",
+    "title": "YYPP-002 肮脏美丽的女性 cosplayers 非柏乔私人拍摄。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "接吻",
+      "模特",
+      "4小时以上",
+      "Cosplay"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2025-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/YYPP-002.jpg",
+    "actress": [
+      "椿莉香",
+      "木下日葵",
+      "辻井穗乃果",
+      "鈴音杏夏",
+      "河合乃乃花",
+      "志恩まこ",
+      "山岸ゆり",
+      "藤沢ひな",
+      "百合川雅",
+      "桃瀬くるみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YYPP-002"
+  },
+  {
+    "id": 468099,
+    "IDcode": "ZEX-004",
+    "title": "ZEX-004 艾莉-阿基拉的仙境-学校博客粉丝赏析-首届导演计划！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "企划",
+      "户外",
+      "射精",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2010-08-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ZEX-004.jpg",
+    "actress": [
+      "晶エリー"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-004"
+  },
+  {
+    "id": 516457,
+    "IDcode": "ZEX-006",
+    "title": "ZEX-006 请上我的妻子，川上优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单人作品",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "ピーターズ",
+    "publish_date": "2010-08-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ZEX-006.jpg",
+    "actress": [
+      "川上優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-006"
+  }
+];

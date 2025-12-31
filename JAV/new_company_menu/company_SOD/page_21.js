@@ -1,935 +1,1618 @@
 window.PAGE_DATA = [
   {
-    "id": 74407,
-    "IDcode": "STARS-084",
-    "title": "ヤリたい放題いいなり調教イカセダンジョン 本庄鈴",
+    "id": 165423,
+    "IDcode": "SDNM-211",
+    "title": "SDNM-211 她笑起来的样子有些脆弱，但其实她比谁都龌龊，不是吗？ 樱井萌，29 岁，最终章--背着家人在离家 200 米远的温泉旅馆里和中达志秘密偷情。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "魔鬼系",
-      "轮奸",
-      "拘束",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-06-20",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/df260386f545969c1d40903b51b4c1d1.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-084"
-  },
-  {
-    "id": 74412,
-    "IDcode": "STARS-085",
-    "title": "連射性交-小泉ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "小泉日向",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-085"
-  },
-  {
-    "id": 1653,
-    "IDcode": "STARS-086",
-    "title": "濃厚精子14発注入-竹田ゆめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "感謝祭",
-      "中出",
-      "苗條",
-      "美少女電影",
-      "無碼流出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230405/a9049119-a17e-44ef-9a11-187758b82358.jpg",
-    "actress": [
-      "竹田夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-086"
-  },
-  {
-    "id": 74413,
-    "IDcode": "STARS-087",
-    "title": "永野いち夏 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "首次亮相",
-      "美少女电影",
-      "苗条",
-      "瘦小身型"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "永野一夏",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-087"
-  },
-  {
-    "id": 70567,
-    "IDcode": "STARS-088",
-    "title": "処女のフリした絶倫地味子のイッても止めない追撃騎乗位 紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "凌辱",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/412830280349e1ea1079d6b44d6765d6.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-088"
-  },
-  {
-    "id": 69955,
-    "IDcode": "STARS-089",
-    "title": "文系制服美少女は、オヤジの乳首が大好物。 戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "美少女电影",
-      "校服",
-      "高中女生",
-      "淫语"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a7dfdfee009f7021665672f486141710.jpg",
-    "actress": [
-      "戸田真琴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-089"
-  },
-  {
-    "id": 74409,
-    "IDcode": "STARS-090",
-    "title": "小仓由菜首次化身痴女女神超S属性让你射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "纪录片",
-      "美少女电影",
-      "素人作品",
-      "女上位",
-      "拘束"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "小倉由菜",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-090"
-  },
-  {
-    "id": 74402,
-    "IDcode": "STARS-091",
-    "title": "ヤリたい放題いいなり調教イカセダンジョン 唯井まひろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "魔鬼系",
-      "素人作品",
-      "轮奸",
-      "调教",
-      "拘束",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-07-11",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/aea728f25eb731f3166e2794317169a0.jpg",
-    "actress": [
-      "唯井真寻",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-091"
-  },
-  {
-    "id": 69421,
-    "IDcode": "STARS-092",
-    "title": "巨乳看護師-みながわ千遥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "护士",
-      "单体作品",
-      "性骚扰",
-      "素人作品",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/48e8c4d611151c94b5ace6a6b6f9ba00.jpg",
-    "actress": [
-      "皆川千遙",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-092"
-  },
-  {
-    "id": 74406,
-    "IDcode": "STARS-093",
-    "title": "如果能和AV引退后的市川雅美相遇再公司内偷偷谈恋爱的话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "玩具",
-      "素人作品",
-      "恋爱",
-      "戏剧",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6344c0d0d708b94a75897ad12627a7fa.jpg",
-    "actress": [
-      "市川雅美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-093"
-  },
-  {
-    "id": 1613,
-    "IDcode": "STARS-094",
-    "title": "女上司-古川いおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "素人作品",
-      "無碼流出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230403/2f5ba9fa-ab61-4260-a498-d575d2472f33.jpg",
-    "actress": [
-      "古川伊織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-094"
-  },
-  {
-    "id": 69960,
-    "IDcode": "STARS-095",
-    "title": "妻が旅行で不在中-本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "高",
-      "苗条",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/91a949a8ff17a562610e6202b8027d79.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-095"
-  },
-  {
-    "id": 404967,
-    "IDcode": "STARS-096",
-    "title": "SODstar×青春時代竹田ゆめおじさんと体液交換接吻、舐めあい、唾飲みせっくす",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/c18f7ad5a8c34189ed962e923f4a5079.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-096"
-  },
-  {
-    "id": 74410,
-    "IDcode": "STARS-097",
-    "title": "密着性交 紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "姐姐",
-      "接吻",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "纱仓真菜",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-097"
-  },
-  {
-    "id": 208719,
-    "IDcode": "STARS-098",
-    "title": "8年前の過去に戻って-戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678691c730833b4bf5c3b7ed/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-098"
-  },
-  {
-    "id": 74404,
-    "IDcode": "STARS-099",
-    "title": "小泉ひなた 夏、汗だく汁まみれびしょ濡れ痴漢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "流汗",
-      "痴汉",
-      "性骚扰",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784eb8789def9b1b8f34336/cover.jpg",
-    "actress": [
-      "小泉日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-099"
-  },
-  {
-    "id": 74405,
-    "IDcode": "STARS-100",
-    "title": "和久井まりあ SODstar AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "苗条",
-      "首次亮相",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-07-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e0e2cd5adab72b4e0edb2ed2f1b46e15.jpg",
-    "actress": [
-      "和久井瑪麗亞",
-      "森林原人",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-100"
-  },
-  {
-    "id": 74341,
-    "IDcode": "STARS-101",
-    "title": "美人キャビンアテンダントを高級ホテルの一室でいいなり調教 市川まさみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "空中小姐",
-      "调教",
-      "姐姐",
-      "苗条",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f16145f03a092cf5e566a/cover.jpg",
-    "actress": [
-      "市川雅美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-101"
-  },
-  {
-    "id": 191582,
-    "IDcode": "STARS-102",
-    "title": "皆川千遥内射解禁人生中第一次被射进去",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e6749c179ffb1db5db1ea/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-102"
-  },
-  {
-    "id": 97569,
-    "IDcode": "STARS-103",
-    "title": "汗だく汁だくスポコスSEX 七海ティナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "流汗",
-      "运动",
-      "偶像",
-      "素人作品",
-      "讲师"
+      "出轨",
+      "中文字幕",
+      "内射",
+      "浴衣",
+      "单人作品",
+      "熟女",
+      "人妻"
     ],
     "type": "有码",
     "company": "SOD",
     "publish_date": "2019-08-08",
-    "cover_url": "https://ll.lasha250923.top/20241026/VFXWtigW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-211.jpg",
     "actress": [
-      "七海蒂娜",
-      "鲛岛",
-      "イセドン内村"
+      "桜井萌"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-211"
   },
   {
-    "id": 1679,
-    "IDcode": "STARS-104",
-    "title": "尽情地强奸-小倉由菜",
+    "id": 70772,
+    "IDcode": "SDNM-213",
+    "title": "SDNM-213 受到笑脸的鼓励。笨拙而严肃的两个孩子的母亲。 Yusa Nishimura，41 岁，AV 首播。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人作品",
-      "美少女電影",
-      "紀錄片",
-      "无码",
-      "無碼流出",
-      "輪姦"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6785283e478d611da774d806/cover.jpg",
-    "actress": [
-      "小倉由菜",
-      "葵玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-104"
-  },
-  {
-    "id": 73962,
-    "IDcode": "STARS-105",
-    "title": "電車で寄りかかってきた夏服女子○生に欲情 ズブ濡れ追跡痴漢 唯井まひろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "羞耻",
-      "美少女电影",
-      "性骚扰",
-      "素人作品",
-      "高中女生"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f647cf9a2e9b1d46c118b/cover.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-105"
-  },
-  {
-    "id": 69166,
-    "IDcode": "STARS-107",
-    "title": "纱仓真菜在被窝里紧裹着的贴身内射性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "流汗",
-      "中出",
-      "美少女电影",
-      "素人作品",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4c7d0f3aab3a1d1a802282080e86307.jpg",
-    "actress": [
-      "纱仓真菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-107"
-  },
-  {
-    "id": 70251,
-    "IDcode": "STARS-108",
-    "title": "竹田ゆめ 嫁の妹に叱られて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
+      "已婚妇女",
+      "出道作",
       "中文字幕",
-      "中出",
-      "素人作品",
-      "放尿",
-      "苗条",
-      "妹妹"
+      "首次亮相",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c79a9e3b14d4bd7ee731afddf06afdcd.jpg",
+    "publish_date": "2019-08-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-213.jpg",
     "actress": [
-      "竹田夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-108"
-  },
-  {
-    "id": 166095,
-    "IDcode": "STARS-109",
-    "title": "被最讨厌的人侵犯-戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/88bc23f91aa33af6214f2e58bfdb56a5.jpg",
-    "actress": [
-      "户田真琴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-109"
-  },
-  {
-    "id": 73398,
-    "IDcode": "STARS-110",
-    "title": "禁欲了一个月的本庄铃三个小时内不喊卡的疯狂做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "身体意识",
-      "素人作品",
-      "淫乱，真实",
-      "高",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1e882e6b759ad987fd93e441da31a99b.jpg",
-    "actress": [
-      "本庄鈴",
       "森林原人",
-      "鲛岛"
+      "鲛岛",
+      "イセドン内村",
+      "西村有纱",
+      "西村有紗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-213"
   },
   {
-    "id": 73400,
-    "IDcode": "STARS-111",
-    "title": "小泉ひなた 日帰りで12発射精しちゃうヤリ",
+    "id": 70823,
+    "IDcode": "SDNM-214",
+    "title": "SDNM-214 受到笑脸的鼓励。笨拙而严肃的两个孩子的母亲。 西村，尤萨，41 岁，第 2 章：两个孩子的母亲，在丈夫上班的 10 个小时里，快乐而羞耻地达到了第一次高潮，里里外外，无时无刻--痛苦地昏厥过去，到处都是性爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "浴衣",
-      "巨乳",
+      "已婚妇女",
+      "下流",
       "中文字幕",
-      "中出",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67869e0a30833b4bf5cba3b8/cover.jpg",
-    "actress": [
-      "小泉日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-111"
-  },
-  {
-    "id": 166098,
-    "IDcode": "STARS-112",
-    "title": "AV Debut 2nd 性・欲・開・放 3本番 和久井まりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-112"
-  },
-  {
-    "id": 73957,
-    "IDcode": "STARS-113",
-    "title": "业界老将西野翔的AV引退纪录片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
+      "淫乱，真实",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "重口味",
+      "熟女",
+      "人妻",
       "素人作品",
       "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/f1138321443bb06c66b30d4f4472ef0a.jpg",
-    "actress": [
-      "西野翔",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-113"
-  },
-  {
-    "id": 73605,
-    "IDcode": "STARS-115",
-    "title": "在婚礼上色诱新郎内射的痴女美人婚庆策划员古川伊织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "戏剧",
-      "素人作品",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/a2addce77366a190bbba7c806521298c.jpg",
-    "actress": [
-      "古川伊織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-115"
-  },
-  {
-    "id": 73958,
-    "IDcode": "STARS-116",
-    "title": "如果和SOD女职员时代就憧憬的市川雅美在同辈的婚礼上同住一晚你会怎么办",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "偷窥",
-      "素人作品",
-      "姐姐",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67840df289def9b1b8f34103/cover.jpg",
-    "actress": [
-      "市川雅美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-116"
-  },
-  {
-    "id": 73960,
-    "IDcode": "STARS-117",
-    "title": "被小恶魔制服学生妹小仓由菜诱惑在校园内公共场合直接露出偷偷做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "无码破解",
-      "美少女电影",
-      "素人作品",
-      "校服",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/c30d99a55539497962b3d22b6f77ace2.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-117"
-  },
-  {
-    "id": 1617,
-    "IDcode": "STARS-118",
-    "title": "從順溫泉旅行",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "和服・浴衣・喪服",
-      "拘束・拷問",
-      "素人作品",
-      "美少女電影",
-      "無碼流出"
-    ],
-    "type": "有码",
-    "company": "SOD",
     "publish_date": "2019-09-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20230404/65479485-2110-48b4-a783-4ea416ac9b8d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-214.jpg",
     "actress": [
-      "唯井真寻"
+      "西村有纱",
+      "西村有紗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-214"
   },
   {
-    "id": 73965,
-    "IDcode": "STARS-119",
-    "title": "みながわ千遥 童貞のフリした絶倫兄弟が姉の",
+    "id": 165658,
+    "IDcode": "SDNM-216",
+    "title": "SDNM-216 我想保护你可爱的笑容。 桥本奈奈，35 岁，第 3 章：不道德的中田希，白天刚送完儿子上幼儿园，这是她六年来第一次拒绝但又接受的原始性行为。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
       "中文字幕",
-      "中出",
-      "处男",
-      "素人作品",
-      "无毛",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/21ccfb834885c2351428d065f65847c4.jpg",
-    "actress": [
-      "皆川千遙",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-119"
-  },
-  {
-    "id": 124,
-    "IDcode": "STARS-120",
-    "title": "SODstar 11 SEX BUBBLE PARTY 2019 ～泡泡泳池大亂交感覺超好 ～ 小倉由菜 古川伊織 本莊鈴 戸田真琴 七海蒂娜 小泉日向 紗倉真菜 市川雅美 唯井真尋 竹田夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "臀控",
-      "亂交 • 群P",
-      "深喉",
-      "癡女",
-      "泳池",
-      "舔腳",
-      "極品美人",
-      "御姐系",
-      "美少女電影",
-      "拜金女",
-      "淫蕩・硬核",
-      "港區女子",
-      "苗條",
-      "傲嬌",
-      "插入異物",
-      "騎乗位",
-      "美乳",
-      "巨尻",
-      "肌肉",
-      "乳交",
-      "乱交",
-      "潮吹",
-      "胸控・戀乳癖",
-      "無碼流出",
-      "多P",
-      "濕身",
-      "清楚系",
-      "舔陰",
-      "淫亂",
-      "接吻",
-      "絕頂高潮",
-      "女優",
-      "羞恥",
-      "短髮",
-      "美腿",
+      "内射",
+      "单人作品",
+      "熟女",
+      "人妻",
       "巨乳",
-      "真人秀",
-      "綠茶婊",
-      "後入",
-      "性感",
-      "豐滿",
-      "童顔",
-      "蘿莉控",
-      "高妹",
-      "小隻馬",
-      "口爆",
-      "紀錄片",
-      "美少女",
-      "明星臉",
-      "辣妹/GAL系",
-      "企畫",
-      "顏射",
-      "手指插入",
-      "脚控・戀足癖",
-      "校花",
-      "感謝祭",
-      "清純",
-      "女上位",
-      "足交",
-      "紀念作",
-      "聚會・PARTY",
-      "少女",
-      "真實拍攝",
-      "蠻橫嬌羞",
-      "正統派",
-      "美腳",
-      "美臀",
-      "中出",
-      "大亂交",
-      "無毛",
-      "色白",
-      "高顏值",
-      "阪道系",
-      "超爆乳",
-      "形象俱樂部",
-      "美人",
-      "泳裝",
-      "口交",
-      "吞精",
-      "雙馬尾",
-      "大奶头"
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dafd6dd6fbef4e90d24bd4/cover.jpg",
+    "publish_date": "2019-09-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-216.jpg",
     "actress": [
-      "唯井真寻",
-      "小倉由菜",
-      "本庄鈴",
-      "纱仓真菜",
-      "竹田夢",
-      "七海蒂娜",
-      "市川雅美",
-      "古川伊織",
-      "戸田真琴",
-      "小泉日向",
-      "皆川千遙"
+      "橋本菜々"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-216"
   },
   {
-    "id": 166106,
-    "IDcode": "STARS-121",
-    "title": "七海ティナ 精巣吸引バキュームエステサロン",
+    "id": 95042,
+    "IDcode": "SDNM-217",
+    "title": "SDNM-217 我要保护你可爱的笑容。 Nana Hashimoto，35 岁，最终章，在自己家中与一家三口生活的禁忌拍摄，Nakadashi 4P 狂欢，精液染红了幸福的家。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-121"
-  },
-  {
-    "id": 166107,
-    "IDcode": "STARS-122",
-    "title": "性欲開放4本番-石原める",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200201-1/8ff5a2d2316d8fcfe096d719b7d107c2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-122"
-  },
-  {
-    "id": 1553,
-    "IDcode": "STARS-123",
-    "title": "無制限発射-紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "風俗娘",
+      "已婚妇女",
       "中出",
+      "3P",
+      "滥交",
+      "4P",
+      "内射",
+      "多P",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
       "素人作品",
-      "美少女電影",
-      "无码",
+      "单体作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-10-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-217.jpg",
+    "actress": [
+      "森林原人",
+      "イセドン内村",
+      "桥本菜々",
+      "橋本菜々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-217"
+  },
+  {
+    "id": 165657,
+    "IDcode": "SDNM-219",
+    "title": "SDNM-219 受到笑脸的鼓励。笨拙而严肃的两个孩子的母亲。 Yusa Nishimura，41 岁，最后一章：我很久没有体验过这种快感了......在我最后一次被允许的现场性爱中，我自己要求体验这种快感。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内射",
+      "素人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-219.jpg",
+    "actress": [
+      "西村有紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-219"
+  },
+  {
+    "id": 524392,
+    "IDcode": "SDNM-220",
+    "title": "SDNM-220 我不敢相信我的丈夫离开这个美人长达 10 年之久 Yuka Hirose，39 岁，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "素人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-220.jpg",
+    "actress": [
+      "広瀬結香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-220"
+  },
+  {
+    "id": 567249,
+    "IDcode": "SDNM-221",
+    "title": "SDNM-221 如果有你的微笑相送，我觉得我每天都能做到最好。 杉田美和，38 岁，最终章：我一直想要个孩子，但我丈夫直到最后才做，8 回合的 Nakadashi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "素人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-11-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-221.jpg",
+    "actress": [
+      "タケゾー",
+      "杉田美和"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-221"
+  },
+  {
+    "id": 78126,
+    "IDcode": "SDNM-222",
+    "title": "SDNM-222 真不敢相信，我的丈夫离开这个美人儿长达 10 年之久。 广濑由香，39 岁，第 2 章：妻子在丈夫不知情的情况下重逢，无休止地喷射，无休止地高潮。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "潮吹",
+      "中文字幕",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-222.jpg",
+    "actress": [
+      "広瀬結香",
+      "森林原人",
+      "鲛岛",
+      "広瀬结香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-222"
+  },
+  {
+    "id": 81951,
+    "IDcode": "SDNM-223",
+    "title": "SDNM-223 10 个真实已婚女性首次公开亮相前的秘密片段和 12 个最佳 Nakadashi 性爱片段，共 23 种性别。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "精选，综合",
+      "中出",
+      "合集",
+      "内射",
+      "素人",
+      "4小时以上作品",
+      "成熟的女人",
+      "精选",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "4小时以上",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-223.jpg",
+    "actress": [
+      "愛弓涼",
+      "优木なお",
+      "加藤沙季",
+      "我妻澪",
+      "吉田枫",
+      "铃木理子",
+      "松本麗子",
+      "小日向まい",
+      "優木なお",
+      "鈴木理子",
+      "吉田楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
+  },
+  {
+    "id": 76897,
+    "IDcode": "SDNM-224",
+    "title": "SDNM-224 Maki Sakashita，39 岁，AV 首播：每天都开开心心、充满活力的理想母亲。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "中文字幕",
+      "首次亮相",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-12-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-224.jpg",
+    "actress": [
+      "坂下真希",
+      "小田切ジュン",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-224"
+  },
+  {
+    "id": 95040,
+    "IDcode": "SDNM-225",
+    "title": "SDNM-225 真不敢相信，我的丈夫竟然忽视了这个美人 10 年 广濑由香，39 岁，最终章 这是最后一次，我想体验最大的快感......大量的精液涌入她的体内，让她满溢而出！从早到晚的原始性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "中文字幕",
+      "内射",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-225.jpg",
+    "actress": [
+      "広瀬結香",
+      "市川润",
+      "広瀬结香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-225"
+  },
+  {
+    "id": 81982,
+    "IDcode": "SDNM-226",
+    "title": "SDNM-226 她清澈的眼睛里绽放出笑容。我们遇到了一位神奇的已婚女性相马明日香，32 岁，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "首次亮相",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-226.jpg",
+    "actress": [
+      "相馬茜",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-226"
+  },
+  {
+    "id": 565485,
+    "IDcode": "SDNM-227",
+    "title": "SDNM-227 神奇的音乐会 超级奢华的后宫狂欢 真正的已婚妇女团聚 太多奢华的梦想 180 分钟--上帝的时间--。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "潮吹",
+      "内射",
+      "素人",
+      "乱交",
+      "重口味",
+      "熟女",
+      "人妻",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-227.jpg",
+    "actress": [
+      "永野司",
+      "久保今日子",
+      "桜井萌"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-227"
+  },
+  {
+    "id": 219316,
+    "IDcode": "SDNM-228",
+    "title": "SDNM-228 坂下真希，39 岁，一位理想的母亲，每天都很开朗，让我充满活力 第二章：丈夫上班时的八个小时......强烈的活塞式连续狂喜！家里人并不知道下午的高潮。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "潮吹",
+      "素人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-228.jpg",
+    "actress": [
+      "坂下真希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-228"
+  },
+  {
+    "id": 1698,
+    "IDcode": "SDNM-229",
+    "title": "SDNM-229 美得过分的两个孩子的妈妈 邻居们绝不能知道的淫荡本性 饭山香织 32岁 特别篇可能被发现的怦然心动让兴奋值飙升东京约会途中偷偷溜走 与丈夫保持五米距离捂住嘴反复进行即兴中出性爱 14连发！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
       "無碼流出",
-      "抹油"
+      "人妻",
+      "内射",
+      "潮吹",
+      "高跟鞋",
+      "单人作品",
+      "熟女",
+      "素人作品",
+      "中出",
+      "无码泄露"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-229.jpg",
+    "actress": [
+      "飯山香織",
+      "武田大树",
+      "巨人广田",
+      "狼田中"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-229"
+  },
+  {
+    "id": 70814,
+    "IDcode": "SDNM-230",
+    "title": "SDNM-230 她清澈的眼睛里绽放出笑容。我们遇到了一位神奇的已婚妇女相马明日香，32 岁 第 2 章：连续六次性爱，九个小时都和精明的男人射精，直到坐上回家的子弹头列车！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "出轨",
+      "滥交",
+      "4P",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-230.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-230"
+  },
+  {
+    "id": 81948,
+    "IDcode": "SDNM-231",
+    "title": "SDNM-231 真正的短发美女 神田智美，34 岁，AV 首播。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "首次亮相",
+      "素人",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "素人作品",
+      "少妇",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-02-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-231.jpg",
+    "actress": [
+      "イセドン内村",
+      "市川润",
+      "神田知美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-231"
+  },
+  {
+    "id": 165655,
+    "IDcode": "SDNM-232",
+    "title": "SDNM-232 Maki Sakashita，39 岁，每天都振作起来的理想妈妈，最后一章：8 轮中田性交，从早到晚忘记家人，在内疚和快乐之间徘徊。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内射",
+      "素人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-02-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-232.jpg",
+    "actress": [
+      "坂下真希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-232"
+  },
+  {
+    "id": 211888,
+    "IDcode": "SDNM-233",
+    "title": "SDNM-233 她清澈的眼睛里绽放出笑容。我们认识了一位神奇的已婚妇女相马赤金，32 岁 第 3 章：她抛下儿子，离家出走，在温泉旅行中与四根大鸡巴进行了两天一夜的性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "浴衣",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-03-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-233.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-233"
+  },
+  {
+    "id": 81946,
+    "IDcode": "SDNM-235",
+    "title": "SDNM-235 正牌已婚妇女史上最美F罩杯软年糕奶片濑千夏，30岁，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "首次亮相",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-04-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-235.jpg",
+    "actress": [
+      "鲛岛",
+      "小田切ジュン",
+      "片瀬千纱",
+      "タケゾー",
+      "片瀬千紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-235"
+  },
+  {
+    "id": 81914,
+    "IDcode": "SDNM-236",
+    "title": "SDNM-236 她清澈的眼睛里绽放出笑容。我们遇到了一位神奇的已婚妇女相马明日香，32 岁 第 4 章：用满溢的母爱包裹处女的小弟弟，给它刷洗性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "处男",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-04-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-236.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-236"
+  },
+  {
+    "id": 222867,
+    "IDcode": "SDNM-237",
+    "title": "SDNM-237 一个真正的美女，剪着适合她的短发。 神田友美，34 岁，最终章--从福冈出发的子弹一日风流之旅--与她 8 年未尝的生猛老二内射 7 次！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "内射",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-04-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-237.jpg",
+    "actress": [
+      "神田知美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-237"
+  },
+  {
+    "id": 529281,
+    "IDcode": "SDNM-238",
+    "title": "SDNM-238 她清澈的眼睛里绽放出笑容。我们见到了一位神奇的已婚妇女相马赤金，32 岁 第五章：四年来第一次分娩后，她第一次允许丈夫以外的人进行活体性交。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-05-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-238.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-238"
+  },
+  {
+    "id": 210044,
+    "IDcode": "SDNM-245",
+    "title": "SDNM-245 她清澈的眼睛里绽放出笑容。我们遇到了一个奇迹般的已婚女人相马赤音，32 岁，最终章，第一部电视剧作品 Netorare Nakadashi ，在丈夫出差的三天时间里，她与前男友激情拥吻。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "内射",
+      "剧情",
+      "单人作品",
+      "熟女",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-08-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-245.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-245"
+  },
+  {
+    "id": 407570,
+    "IDcode": "SDNM-248",
+    "title": "SDNM-248 柏原爱，42 岁，被汹涌澎湃的快感浪潮吞没的冲浪者之妻 第 2 章：喝了酒，本性暴露，眼神迷离......身体被撩拨起来，她醉了，达到了人生中第一次喷薄欲出的高潮！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-08-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-248.jpg",
+    "actress": [
+      "柏原あい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-248"
+  },
+  {
+    "id": 102511,
+    "IDcode": "SDNM-249",
+    "title": "SDNM-249 田原凛香（Rinka Tahara），35 岁，开朗的妻子，在母亲的朋友中总是充满刺激 第 3 章：在别人家里释放性欲 长久以来第一次达到高潮，将精液全部浇在脸上。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "熟女",
+      "人妻",
+      "颜射",
+      "巨乳",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-09-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-249.jpg",
+    "actress": [
+      "田原凛花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-249"
+  },
+  {
+    "id": 70825,
+    "IDcode": "SDNM-251",
+    "title": "SDNM-251 33 岁的古濑明美带着对丈夫的感情进行了长达 4 小时的单程旅行，第二章：在通奸的旅途中，她连续被五个陌生人用大鸡巴弄得射精，直到临近回家的时间。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-11-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-251.jpg",
+    "actress": [
+      "イセドン内村",
+      "古瀬朱美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-251"
+  },
+  {
+    "id": 78726,
+    "IDcode": "SDNM-278",
+    "title": "SDNM-278 28 岁的栗田美优（Miyu Kurita）是一位漂亮的女佣，每天乐呵呵地照顾老人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "潮吹",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-05-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-278.jpg",
+    "actress": [
+      "栗田みゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-278"
+  },
+  {
+    "id": 79173,
+    "IDcode": "SDNM-283",
+    "title": "SDNM-283 33 岁的疗愈美容师 Yui Izumi 希望尽可能多次重复这一微笑 第 2 章：机智的家庭主妇，会准备自制点心，喝醉后非常敏感 娇生惯养，嗜酒如命。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "4P",
+      "口交",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-05-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-283.jpg",
+    "actress": [
+      "泉結氷"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-283"
+  },
+  {
+    "id": 79242,
+    "IDcode": "SDNM-293",
+    "title": "SDNM-293 前模特、日裔美国人妻子现在是居委会的受欢迎成员 Shigemori Aya，30 岁，最终章：对丈夫的愧疚抵不过她感受到的快感，她任由自己被活活干死。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "内射",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-07-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-293.jpg",
+    "actress": [
+      "小田切ジュン",
+      "市川润",
+      "シゲモリ・アヤ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-293"
+  },
+  {
+    "id": 79271,
+    "IDcode": "SDNM-294",
+    "title": "SDNM-294 28 岁的栗田美优（Miyu Kurita）是一名漂亮的女佣，每天都精力充沛地照顾老人......暴露、克制、排尿......在温泉过夜，因为远离丈夫，她可以毫无顾虑地暴露自己的真实欲望。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "户外",
+      "浴衣",
+      "单人作品",
+      "放尿",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-07-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-294.jpg",
+    "actress": [
+      "栗田みゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-294"
+  },
+  {
+    "id": 79563,
+    "IDcode": "SDNM-296",
+    "title": "SDNM-296 孕妇般的肚皮是母亲的标志 Akina Rui，30 岁，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "首次亮相",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-296.jpg",
+    "actress": [
+      "鲛岛",
+      "小田切ジュン",
+      "秋名るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-296"
+  },
+  {
+    "id": 79719,
+    "IDcode": "SDNM-297",
+    "title": "SDNM-297 木下绫，23 岁，初为人母的第二年，梦想着女儿长大后能和她一起逛街 第 2 章：一家三口生活的家中，裸体性爱无时无刻不在进行 母亲的乳汁飞溅，喷射声不绝于耳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "4P",
+      "母乳",
+      "单人作品",
+      "人妻",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-297.jpg",
+    "actress": [
+      "木下彩芽",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-297"
+  },
+  {
+    "id": 79736,
+    "IDcode": "SDNM-299",
+    "title": "SDNM-299 人们认为我无所不能......但有时我真的很想被宠爱 Airi Suenaga，29，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出道作",
+      "首次亮相",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-09-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-299.jpg",
+    "actress": [
+      "小田切ジュン",
+      "末永愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-299"
+  },
+  {
+    "id": 214633,
+    "IDcode": "SDNM-300",
+    "title": "SDNM-300 梦想着女儿长大后和她一起逛街 木下绫美，23 岁，初为人母第二年 第 3 章：每天三小时的恩爱...... 光天化日下的酒店恋情 被狠狠亲吻的三天，直到去幼儿园接女儿之前",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母乳",
+      "单人作品",
+      "人妻",
+      "主观视角",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-09-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-300.jpg",
+    "actress": [
+      "木下彩芽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-300"
+  },
+  {
+    "id": 81116,
+    "IDcode": "SDNM-303",
+    "title": "SDNM-303 两天来，我沉浸在与七个男人的性爱中，直到臀部碎裂，我的意识在前所未有的感觉和快感中逐渐消失。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "4P",
+      "成熟的女人",
+      "单人作品",
+      "熟女",
+      "人妻",
+      "多P",
+      "单体作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-10-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-303.jpg",
+    "actress": [
+      "末永愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-303"
+  },
+  {
+    "id": 214463,
+    "IDcode": "SDNM-304",
+    "title": "SDNM-304 木下绫美，23 岁，初为人母的第二年，梦想着女儿长大后能和她一起去逛街，最后一章：\"即使有心爱的女儿，我也要生下她\"，她一边泼洒着母亲的乳汁，一边在体内射出 12 滴充满第二次怀孕精液的精液！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出轨",
+      "4P",
+      "内射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-10-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-304.jpg",
+    "actress": [
+      "木下彩芽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-304"
+  },
+  {
+    "id": 79894,
+    "IDcode": "SDNM-305",
+    "title": "SDNM-305 因为爱爷爷奶奶而成为照顾者的微笑妻子 酒井千春，30 岁 第 2 章：与传说中的有夫之妇神奇重逢，距离她唯一的一次露面已过去 10 个月！穿着工作服做爱，人生第一次三人行，一次又一次达到高潮！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "出轨",
+      "4P",
+      "无码破解",
+      "单人作品",
+      "人妻",
+      "多P",
+      "单体作品",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-10-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-305.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-305"
+  },
+  {
+    "id": 214593,
+    "IDcode": "SDNM-306",
+    "title": "SDNM-306 藤崎本奈美（Honami Fujisaki），32 岁，是一个孩子的母亲，她在日本古都京都相识，利用带薪假期，在丈夫不知情的情况下，独自从京都前往东京。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出轨",
+      "乱伦",
+      "4P",
+      "单人作品",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-10-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-306.jpg",
+    "actress": [
+      "藤崎ほなみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-306"
+  },
+  {
+    "id": 215575,
+    "IDcode": "SDNM-307",
+    "title": "SDNM-307 26 岁的新婚夫妇椿小春（Koharu Tsubaki，AV DEBUT）一天到晚想着丈夫的晚餐、员工的手淫和手淫菜肴。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-10-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-307.jpg",
+    "actress": [
+      "椿こはる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-307"
+  },
+  {
+    "id": 214586,
+    "IDcode": "SDNM-309",
+    "title": "SDNM-309 无法在孩子面前展示的教育母亲的幕后故事 34 岁的石井惠理子（Eriko Ishii），最后一章 五个陌生人造访了她的家，她在那里一个接一个地抚养两个孩子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "乱伦",
+      "4P",
+      "内射",
+      "单人作品",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-09-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-309.jpg",
+    "actress": [
+      "石井江梨子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-309"
+  },
+  {
+    "id": 80854,
+    "IDcode": "SDNM-311",
+    "title": "SDNM-311 人们认为我无所不能......但有时我真的想被宠坏...... 末永爱理，29 岁，第 3 章：我会去滨松的家里拜访你......当我丈夫出差时......一个陌生人独自留在我的爱巢里，我喝得微醺。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "4P",
+      "成熟的女人",
+      "熟女",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-311.jpg",
+    "actress": [
+      "末永愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-311"
+  },
+  {
+    "id": 106909,
+    "IDcode": "SDNM-312",
+    "title": "SDNM-312 酒井千春（Chiharu Sakai），30 岁，一个爱笑的妻子，因为爱她的祖母和祖父而成为一名护理员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "无码破解",
+      "手交",
+      "手淫",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-312.jpg",
+    "actress": [
+      "森林原人",
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-312"
+  },
+  {
+    "id": 79997,
+    "IDcode": "SDNM-313",
+    "title": "SDNM-313 终于现身的超级巨星--该品牌史上压倒性第一美女羽月凉子，32 岁，AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "出道作",
+      "首次亮相",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-313.jpg",
+    "actress": [
+      "葉月涼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-313"
+  },
+  {
+    "id": 80330,
+    "IDcode": "SDNM-314",
+    "title": "SDNM-314 终于出现的超级巨星--该品牌历史上压倒性的第一美女羽月凉子，32 岁 第 2 章：离丈夫回家还有 5 个小时 性爱后又一次毫无停顿地做爱 四个男人不断地将自己插入一串珠子中！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出轨",
+      "4P",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-12-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-314.jpg",
+    "actress": [
+      "葉月涼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-314"
+  },
+  {
+    "id": 223731,
+    "IDcode": "SDNM-316",
+    "title": "SDNM-316 26 岁的椿小春（Tsubaki Koharu）是一位新婚夫妇，一天结束时都在想着丈夫的晚餐、员工的饭菜和自慰菜肴，第 2 章：第一次深喉、束缚和排尿受虐释放文档中，她忘记了自己的丈夫，淫秽地高潮了。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-316.jpg",
+    "actress": [
+      "椿こはる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-316"
+  },
+  {
+    "id": 223730,
+    "IDcode": "SDNM-319",
+    "title": "SDNM-319 人们认为我无所不能......但有时我真的很想被宠坏......Airi Suenaga，29 岁，最终章--一个稳重的职业女性的妻子第一次允许与丈夫以外的人现场射精......因为这是最后一次......我一生中最美好的性爱体验。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "苗条",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-12-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-319.jpg",
+    "actress": [
+      "末永愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-319"
+  },
+  {
+    "id": 80375,
+    "IDcode": "SDNM-320",
+    "title": "SDNM-320 因为爱爷爷奶奶而成为照顾者的微笑妻子酒井千春，30 岁，第 4 章：丈夫、家务、工作。忘记一切，让快乐占据一切：在温泉里住上一晚，泡上两天。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称摄影",
+      "无码破解",
+      "羞辱",
+      "羞耻",
+      "主观视角",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-12-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-320.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-320"
+  },
+  {
+    "id": 216994,
+    "IDcode": "SDNM-323",
+    "title": "SDNM-323 终于出现的超级巨星--该品牌历史上压倒性的第一美女榛木凉子，32 岁 第 3 章：这个妻子舔得真好 她通过粗暴的亲吻和口交榨取年轻男子的精液......这是她的第一次射精！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "口交",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-01-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-323.jpg",
+    "actress": [
+      "葉月涼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-323"
+  },
+  {
+    "id": 408382,
+    "IDcode": "SDNM-324",
+    "title": "SDNM-324 终于出现的超级巨星--该品牌历史上压倒性的第一美女羽月凉子，32 岁 第 4 章：一夜风流的温泉之旅，两人互相吞食，整天都在射精 \"我们在旅途中被干了\"。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-02-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-324.jpg",
+    "actress": [
+      "葉月涼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-324"
+  },
+  {
+    "id": 80674,
+    "IDcode": "SDNM-327",
+    "title": "SDNM-327 已婚的娱乐经理人，想让自己像名人一样闪耀一次 安田正树，34 岁，第 2 章：\"我想知道我有多 H\"，绽放出丈夫所不知道的 M 欲望......Irruma、束缚和限制性，打开了未知的大门。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "潮吹",
+      "素人",
+      "人妻",
+      "滥交",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-02-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-327.jpg",
+    "actress": [
+      "保田真咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-327"
+  },
+  {
+    "id": 86242,
+    "IDcode": "SDNM-329",
+    "title": "SDNM-329 她有五个孩子，从初中生到幼儿！家里每天都像过节一样 仓宗惠，36 岁 第 2 章 忙于养育孩子的母亲要想获得自由，唯一的办法就是连续被五个人干，每天不停地干上 3 个小时，而且每天都要来 67 次 下午早些时候的短时风流韵事。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "潮吹",
+      "4P",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-329.jpg",
+    "actress": [
+      "倉園めぐみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-329"
+  },
+  {
+    "id": 532995,
+    "IDcode": "SDNM-330",
+    "title": "SDNM-330 她第一次和丈夫以外的人做爱...... \"她的阴道内部轻轻包裹着他的阴茎的感觉，抽筋的感觉久久不能停止，有史以来最高潮的感觉，期待已久的第一次体内射精的感觉。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "内射",
+      "无码",
+      "无码破解",
+      "滥交",
+      "巨乳"
     ],
     "type": "无码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1585c265cc99a79488a22fe2055a4dc5.jpg",
+    "publish_date": "2022-02-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-330.jpg",
     "actress": [
-      "纱仓真菜"
+      "坂井千晴"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-330"
   },
   {
-    "id": 224773,
-    "IDcode": "STARS-124",
-    "title": "老爸再婚对象带来的女儿-戸田真琴",
+    "id": 86199,
+    "IDcode": "SDNM-331",
+    "title": "SDNM-331 已婚的娱乐经理 Masaki Yasuda，34 岁，希望自己也能像名人一样发光发热 最终章 寻求快乐...... 生平第一次淹没在别人的精液中 共 8 次拍摄，2 天 1 夜的温泉旅行训练。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "吞精",
+      "内射",
+      "人妻",
+      "滥交",
+      "射精",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-331.jpg",
+    "actress": [
+      "保田真咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-331"
+  },
+  {
+    "id": 80980,
+    "IDcode": "SDNM-332",
+    "title": "SDNM-332 身高 171 厘米、活跃的凹版模特、奇迹般地 41 岁的 Shirakawa Kakiyo AVDEBUT - 某次美体大赛的冠军，是史上最美丽、最有风格的已婚妇女。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "出道作",
+      "素人",
+      "成熟的女人",
+      "熟女",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-332.jpg",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-332"
+  },
+  {
+    "id": 86255,
+    "IDcode": "SDNM-333",
+    "title": "SDNM-333 用大量母乳养育三个孩子的岛国芭蕾舞 \"妈妈桑 \"玉木菜穗（Naho Tamaki，29 岁）在家乡冲绳进行了 AV DEBUT。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "出道作",
+      "首次亮相",
+      "母乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-333.jpg",
+    "actress": [
+      "玉城夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-333"
+  },
+  {
+    "id": 86241,
+    "IDcode": "SDNM-335",
+    "title": "SDNM-335 她有五个孩子，从初中生到幼儿园儿童！她的小穴生了五个孩子，还接二连三地与她在配对应用程序上认识的业余男人发生性关系！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "内射",
+      "成熟的女人",
+      "熟女",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-04-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-335.jpg",
+    "actress": [
+      "倉園めぐみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-335"
+  },
+  {
+    "id": 80985,
+    "IDcode": "SDNM-336",
+    "title": "SDNM-336 酒井千春（Chiharu Sakai），30 岁，因为爱奶奶和爷爷而成为一名护工。丈夫回家后，她就和丈夫睡在一起......在家里进行了 7 天不道德的拍摄，可能会被发现。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "3P",
+      "4P",
+      "内射",
+      "乱交",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-336.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-336"
+  },
+  {
+    "id": 81020,
+    "IDcode": "SDNM-337",
+    "title": "SDNM-337 终于现身的超级巨星--压倒性的美貌，该品牌历史上的 No.1，榛木凉子，32 岁，最终章--丈夫外出时在家通奸......在夫妻家中沾满大量精液，与陌生人 11 个男人狂欢。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交",
+      "滥交",
+      "中出",
+      "内射"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-337.jpg",
+    "actress": [
+      "葉月涼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-337"
+  },
+  {
+    "id": 80760,
+    "IDcode": "SDNM-338",
+    "title": "SDNM-338 新婚夫妇，一天结束时都在想着丈夫的晚餐、员工的餐点和自慰的菜肴 新婚夫妇，椿小春，26 岁，最后一章 \"我想做爱，最后我会永远记得\" 在不道德和对丈夫的快乐之间接受不使用避孕药具的性生活 她人生的最高峰 第一次生活的记录 Nakadashi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "胸部",
+      "中出",
+      "潮吹",
+      "内射",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-02-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-338.jpg",
+    "actress": [
+      "椿こはる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-338"
+  },
+  {
+    "id": 218466,
+    "IDcode": "SDNM-340",
+    "title": "SDNM-340 用大量母乳养育三个孩子的妈妈 29 岁的玉木菜穗（Naho Tamaki）在她的家乡日本冲绳（Okinawa） 第 2 章：大鸡巴比丈夫的还大，奶汁逼汁达达达连续 3 天通奸。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母乳",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-04-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-340.jpg",
+    "actress": [
+      "玉城夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-340"
+  },
+  {
+    "id": 218505,
+    "IDcode": "SDNM-341",
+    "title": "SDNM-341 身高 171 厘米，美丽的八头身妻子，也活跃在凹版印刷界。 41 岁的白川花清第 3 章：她越是被虐待，就越能感受到她的超强支配力 第一次克制、硬核性爱、狂欢 她不断高潮喷水，达到高潮。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "拘束",
+      "潮吹",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-05-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-341.jpg",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-341"
+  },
+  {
+    "id": 220469,
+    "IDcode": "SDNM-342",
+    "title": "SDNM-342 一位用大量母乳养育三个孩子的岛国芭蕾舞女妈妈玉木菜穗（Naho Tamaki），29 岁，第 3 章：一位冲绳母亲，通过母乳喂养，治愈了希望通过婴儿游戏得到治愈的城市男人。",
     "year": "",
     "country": "",
     "genre": "",
@@ -938,1268 +1621,833 @@ window.PAGE_DATA = [
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/239b67138d746077350211cc79c6b470.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-124"
-  },
-  {
-    "id": 462232,
-    "IDcode": "STARS-125",
-    "title": "本庄铃 长腿美容师让你享受近距离性爱治疗的乐趣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e73767631cc64eb5a25aad/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-125"
-  },
-  {
-    "id": 1684,
-    "IDcode": "STARS-126",
-    "title": "不穿裤子的女孩-小泉ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "素人作品",
-      "角色扮演",
-      "美少女電影",
-      "无码",
-      "無碼流出"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/35fbec3a21485997d6d06ff350a9ca15.jpg",
+    "publish_date": "2022-05-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-342.jpg",
     "actress": [
-      "小泉日向"
+      "玉城夏帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-342"
   },
   {
-    "id": 99605,
-    "IDcode": "STARS-127",
-    "title": "身高149cm体重38kg的小萝莉",
+    "id": 68387,
+    "IDcode": "SDNM-344",
+    "title": "SDNM-344 F-cup 知性人妻，毕业于名牌大学，就职于知名企业，丈夫是公司高管 Yurika Hiyama，34 岁，AV 首播",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "纪录片",
-      "美少女电影",
-      "素人作品",
-      "女生",
-      "苗条",
-      "瘦小身型"
+      "乳交",
+      "业余",
+      "口交",
+      "素人",
+      "巨乳"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2022-05-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-344.jpg",
     "actress": [
-      "永野一夏"
+      "檜山百合香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-344"
   },
   {
-    "id": 166254,
-    "IDcode": "STARS-128",
-    "title": "大学で初めて付き合ったモデル体型スレンダー彼",
+    "id": 69511,
+    "IDcode": "SDNM-345",
+    "title": "SDNM-345 身高 171 厘米，神奇的八头身美艳人妻，也从事凹版印刷活动 白川花清，41 岁，第 4 章：\"我很尴尬，因为感觉就像在和亲生儿子做爱\" 母爱在宠爱的后宫狂欢中温柔地包裹着年幼男孩的阴茎。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "业余",
+      "胸部",
+      "素人",
+      "人妻",
+      "手淫",
+      "手交",
+      "乳房"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/433a2b593582d4eef33fa43312dc422d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-128"
-  },
-  {
-    "id": 565396,
-    "IDcode": "STARS-129",
-    "title": "ジェンド女优・西野翔，前代未闻の大型プロジェクト始动！〜引退までの180日间，素人男子を一流のAV男优に育成する〜第1弾“逸材発掘男优オーディション”ガチンコ审查！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191117-1/be731b0d8e0ce061dbca030f6c53ece5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-129"
-  },
-  {
-    "id": 592611,
-    "IDcode": "STARS-130",
-    "title": "我心爱的战士武田梦 - 竹田梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-130"
-  },
-  {
-    "id": 211144,
-    "IDcode": "STARS-131",
-    "title": "短发狂想曲-紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/06/ad6340d408682cc4a915476435d38b78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-131"
-  },
-  {
-    "id": 461812,
-    "IDcode": "STARS-132",
-    "title": "お願いされたら断れない絶品クリーミー泡立ちフェラナース 市川雅美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/12568e9b3e844defacf85e2467f529fc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-132"
-  },
-  {
-    "id": 1633,
-    "IDcode": "STARS-133",
-    "title": "極上美貌女-小倉由菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "性騷擾",
-      "素人作品",
-      "美少女電影",
-      "美臀",
-      "无码",
-      "無碼流出"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/72fa156726972a0624fd8a0710f58497.jpg",
+    "publish_date": "2022-06-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-345.jpg",
     "actress": [
-      "小倉由菜"
+      "白河花清"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-345"
   },
   {
-    "id": 1676,
-    "IDcode": "STARS-134",
-    "title": "競泳水着-唯井まひろ",
+    "id": 70587,
+    "IDcode": "SDNM-348",
+    "title": "SDNM-348 名牌大学毕业，知性人妻，丈夫是公司高管，胜券在握，但她的内心并不满足......日山百合香，34岁，终章--名门有夫之妇变得淫荡不检点，自己求生鸡巴--生中轮奸至宵禁20:00。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "素人作品",
-      "无码",
-      "無碼流出",
-      "泳裝"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/67852411f9a2e9b1d49a582e/cover.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-134"
-  },
-  {
-    "id": 166256,
-    "IDcode": "STARS-135",
-    "title": "みながわ千遥ちゃん タオル一枚男湯入",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678359e9f9a2e9b1d486c3ed/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-135"
-  },
-  {
-    "id": 166257,
-    "IDcode": "STARS-136",
-    "title": "健身美女-七海ティナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/85e5984d987cbae12e783b41eb4ae159.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-136"
-  },
-  {
-    "id": 166258,
-    "IDcode": "STARS-137",
-    "title": "我儿时的朋友-石原める",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-137"
-  },
-  {
-    "id": 461865,
-    "IDcode": "STARS-138",
-    "title": "青空ひかり AV DEBUT 青空光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/269ee84b25f0289711a8d6e516055187.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-138"
-  },
-  {
-    "id": 166259,
-    "IDcode": "STARS-139",
-    "title": "竹田ゆめ アニオタの兄（巨根ニート）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-139"
-  },
-  {
-    "id": 166260,
-    "IDcode": "STARS-140",
-    "title": "超豪华中出俱乐部-戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/a4b60eb8f5bd0a5402b1d74439826c84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-140"
-  },
-  {
-    "id": 1680,
-    "IDcode": "STARS-141",
-    "title": "捆綁强奸 ~ 本庄鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
       "中出",
-      "拘束・拷問",
-      "素人作品",
-      "SM",
-      "無碼流出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20230330/0bbf2dd1-969f-4ca7-a909-f811146cbef4.jpg",
-    "actress": [
-      "本庄鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-141"
-  },
-  {
-    "id": 166261,
-    "IDcode": "STARS-143",
-    "title": "限界突破-和久井まりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8fabb2189b5cc69eb287c3f4b37084db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-143"
-  },
-  {
-    "id": 69165,
-    "IDcode": "STARS-144",
-    "title": "快要引退的西野翔发出禁欲宣言后派出男优假扮漫画家和她搭讪拍下她偷偷做爱的视频",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "素人作品",
+      "3P",
+      "4P",
+      "内射",
+      "多P",
+      "巨乳",
       "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/277b7e14c3d5b1380e9253fb8ae2cd13.jpg",
+    "publish_date": "2022-06-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-348.jpg",
     "actress": [
-      "西野翔"
+      "檜山百合香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-144"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-348"
   },
   {
-    "id": 1681,
-    "IDcode": "STARS-145",
-    "title": "淫秽性交-永野いち夏",
+    "id": 594647,
+    "IDcode": "SDNM-350",
+    "title": "SDNM-350 仅仅一个吻，就足以让她心惊肉跳。高岛樱，年轻的人妻，皮肤姣好，全身都有性敏感。 第 2 章：在坚持了一个月的手淫后，她挑战自己的极度敏感，迎来了人生中最美妙的性高潮。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "苗條",
-      "素人作品",
-      "小隻馬",
-      "无码",
-      "無碼流出",
-      "抹油"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d062c09d4b99f244def5f7facd578453.jpg",
-    "actress": [
-      "永野一夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-145"
-  },
-  {
-    "id": 75203,
-    "IDcode": "STARS-146",
-    "title": "全裸航班的长腿空姐的小穴可以随乘客喜欢任意使用",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "素人作品",
-      "女上位",
-      "空中小姐",
-      "制服"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d33c6d6e3f977181c4e7728cc9c376c6.jpg",
-    "actress": [
-      "市川雅美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-146"
-  },
-  {
-    "id": 75204,
-    "IDcode": "STARS-147",
-    "title": "和便利店里超可爱的兼职学生妹小仓由菜交换了身体有义气的我肯定是让兄弟们先爽一下随便内射不用客气",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "淫妻",
-      "纪录片",
-      "美少女电影",
-      "淫乱，真实",
-      "素人作品",
-      "调教"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/b455e42dc58511cd0b17f9f8367939f0.jpg",
-    "actress": [
-      "小倉由菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-147"
-  },
-  {
-    "id": 75191,
-    "IDcode": "STARS-148",
-    "title": "在魔法号出南门看着路边来往的车里和行人被AV女优破处破处",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "处男",
-      "美少女电影",
-      "素人作品",
-      "感谢祭",
-      "企画"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/03a1a22a54168581607f1f7722298cba.jpg",
-    "actress": [
-      "唯井真寻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-148"
-  },
-  {
-    "id": 188574,
-    "IDcode": "STARS-149",
-    "title": "皆川千遥禁欲45天后欲望炸裂抓住男优就不给走连续12发内射侍候",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d38d4a58107377c2a0d8574feac4c41.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-149"
-  },
-  {
-    "id": 524346,
-    "IDcode": "STARS-150",
-    "title": "勃起的七海蒂娜看到来救我的资深女调查员马虎被邪恶组织包围",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250121-1/be03db06b49b84b63cf0399e7762b2a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-150"
-  },
-  {
-    "id": 69162,
-    "IDcode": "STARS-151",
-    "title": "暗黑经纪人的套路就是骗纯真小女孩上钩然后一步步引诱变成AV女优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "美少女电影",
-      "偶像",
-      "素人作品",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4b9579976fd3353fab5d7bfc3bc3504e.jpg",
-    "actress": [
-      "ゆうき",
-      "南佳也",
-      "石原める"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-151"
-  },
-  {
-    "id": 1575,
-    "IDcode": "STARS-152",
-    "title": "首次射精4次-青空ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人作品",
-      "美少女電影",
-      "无码",
-      "無碼流出",
-      "美乳"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230403/a36c0669-8fc9-4538-8549-5586106e6e15.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-152"
-  },
-  {
-    "id": 68772,
-    "IDcode": "STARS-153",
-    "title": "美人女医-古川いおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "单体作品",
-      "素人作品",
-      "捆绑",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250327-1/1e5bb941c850f6e9249c6f731db0298e.jpg",
-    "actress": [
-      "古川伊織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-153"
-  },
-  {
-    "id": 88230,
-    "IDcode": "STARS-154",
-    "title": "奇妙姐弟10年间的故事-紗倉まな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "乱伦",
-      "素人作品",
-      "高中女生",
-      "妹妹",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/85b9e5e9ad969f24ebb9f22743de1804.jpg",
-    "actress": [
-      "纱仓真菜",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-154"
-  },
-  {
-    "id": 214206,
-    "IDcode": "STARS-156",
-    "title": "戸田真琴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-156"
-  },
-  {
-    "id": 565395,
-    "IDcode": "STARS-157",
-    "title": "本庄铃が好きすぎてサキュバスを召唤してしまった仆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cdc212271e37ed14e4e18c8f5835fb04.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-157"
-  },
-  {
-    "id": 530600,
-    "IDcode": "STARS-158",
-    "title": "脳がとろける浓・密・接・吻！音を响かせながら射精后も求めあう连射ベロチュウ性交 和久井玛丽亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/DVfr88hK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-158"
-  },
-  {
-    "id": 70088,
-    "IDcode": "STARS-159",
-    "title": "初体験の男の子にヤリ過ぎですよ西野さん！一回り年下の田舎の純情童貞君を筆下ろし4本番～ポツンと地方にいた童貞探し旅～ 西野翔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "处男",
-      "业余",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7d2afe11d780c9069eef6e6fc6e5e723.jpg",
-    "actress": [
-      "西野翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-159"
-  },
-  {
-    "id": 1578,
-    "IDcode": "STARS-160",
-    "title": "SOD集团主力全出动超级大乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "多P",
-      "乱交",
-      "蕩婦",
-      "亂交 • 群P",
-      "無碼流出"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/3d7170fc996e7e05af5dfd4e38013aa9.jpg",
-    "actress": [
-      "小倉由菜",
-      "本庄鈴",
-      "纱仓真菜",
-      "七海蒂娜",
-      "市川雅美",
-      "古川伊織",
-      "小泉日向",
-      "皆川千遙"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-160"
-  },
-  {
-    "id": 99533,
-    "IDcode": "STARS-161",
-    "title": "学校一の美少女がなぜか僕にだけパンチラを見せて挑発してくる小悪魔誘惑セックス 永野いち夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "偶像",
-      "素人作品",
-      "高中女生",
-      "内衣",
-      "瘦小身型"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67875e8f5d57b64bfde22d21/cover.jpg",
-    "actress": [
-      "永野一夏",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-161"
-  },
-  {
-    "id": 99275,
-    "IDcode": "STARS-162",
-    "title": "小泉ひなた 家出少女に好き放題強制エロコスさせてハメ倒した5日間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演者",
-      "巨乳",
-      "高中女生",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67875ff15d57b64bfde22e73/cover.jpg",
-    "actress": [
-      "小泉日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-162"
-  },
-  {
-    "id": 526357,
-    "IDcode": "STARS-163",
-    "title": "_A 豪华共演！市川まさみ＆超人気女优たちがイカせてくれる 梦のハーレム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-163"
-  },
-  {
-    "id": 78969,
-    "IDcode": "STARS-164",
-    "title": "小仓由菜本庄铃共演第二部双S痴女超豪华无限射精全套餐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
+      "胸部",
       "潮吹",
-      "素人作品",
-      "淫乱，真实",
-      "淫语"
+      "素人"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/f28ceb31e00e0b83840743b4dd8f67b2.jpg",
+    "publish_date": "2022-06-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-350.jpg",
     "actress": [
-      "小倉由菜",
-      "本庄鈴"
+      "高嶋桜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-350"
   },
   {
-    "id": 166112,
-    "IDcode": "STARS-165",
-    "title": "唯井真寻下海后第十作舔遍全身浓密性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67874951478d611da77510fd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-165"
-  },
-  {
-    "id": 69168,
-    "IDcode": "STARS-166",
-    "title": "在下暴雨的夜晚和憧憬已久的女上司在公司独处不停做爱到天亮",
+    "id": 565484,
+    "IDcode": "SDNM-352",
+    "title": "SDNM-352 光是亲吻她就让她心惊肉跳。敏感的白种美少妇高岛樱（Sakura Takashima），29 岁，全身都是性爱地带 第 3 章：8 个男人用舌头无情地爱抚她 宵禁到 18:00，但......她无法停止性高潮 舔她全身，开发她的性感觉",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "单体作品",
-      "无码破解",
-      "偶像",
-      "素人作品",
-      "OL",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/422f7a1b7ee3634103f2b20f53e3524c.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-166"
-  },
-  {
-    "id": 406083,
-    "IDcode": "STARS-166-CN",
-    "title": "七海ティナ ゲリラ豪雨の夜に憧れの女上司と会社で2人きり…帰れなくなった僕らは朝までSEXしまくった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/cf6bc38d28f6471b615856f3aa4c45ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-166-CN"
-  },
-  {
-    "id": 75190,
-    "IDcode": "STARS-167",
-    "title": "欲情偶像的感谢祭一人面对68名男人的围观释放本性",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "羞耻",
+      "胸部",
       "潮吹",
-      "偶像",
-      "素人作品"
+      "手交"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d563030ce78058cb8fcd6233d9cd4b17.jpg",
+    "publish_date": "2022-07-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-352.jpg",
     "actress": [
-      "鲛岛",
-      "石原める"
+      "高嶋桜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-167"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-352"
   },
   {
-    "id": 406097,
-    "IDcode": "STARS-167-CN",
-    "title": "石原める 男の中に女一人祭り開催！！68本チ〇ポVS 1欲情アイドル パンティと生写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/7f379a74d3634f38b64da5f412031d46.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-167-CN"
-  },
-  {
-    "id": 1588,
-    "IDcode": "STARS-168",
-    "title": "清纯萝莉女优-青空ひかり",
+    "id": 224590,
+    "IDcode": "SDNM-353",
+    "title": "SDNM-353 身高171厘米，奇迹般的八头身美丽妻子，也从事凹版印刷活动 白川花清，41岁，最后一章 我对丈夫和孩子撒了谎......就在今天，我想忘掉日常生活中的一切......放荡的温泉之旅，我在Nakadashi狂欢中射精，结束了我的性狂欢",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
+      "4P",
+      "3P",
+      "内射"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-353.jpg",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-353"
+  },
+  {
+    "id": 222688,
+    "IDcode": "SDNM-354",
+    "title": "SDNM-354 性感优雅，让任何日本男人一见倾心。来自异国的美丽人妻 Suiran Shishido，32 岁，AV 首播",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
       "潮吹",
-      "素人作品",
-      "美少女電影",
-      "無碼流出"
+      "纪录片"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1d4e17b235d24c59af3954444b808fc5.jpg",
+    "publish_date": "2022-08-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-354.jpg",
     "actress": [
-      "青空光"
+      "宍戸翠兰"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-354"
   },
   {
-    "id": 78899,
-    "IDcode": "STARS-169",
-    "title": "勾引新郎的婚庆策划小姐纱仓真菜遭到报复被轮奸内射成肉便器",
+    "id": 86244,
+    "IDcode": "SDNM-355",
+    "title": "SDNM-355 妈妈的芭蕾舞嘎嘎岛民玉木奈穗（Naho Tamaki），29 岁，最终章：肛交处女 冲绳妈妈在她的第一次肛交中让她的肠子一览无余。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "凌辱",
-      "素人作品",
-      "白天出轨"
+      "3P",
+      "4P",
+      "肛门",
+      "灌肠",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2022-08-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-355.jpg",
     "actress": [
-      "纱仓真菜"
+      "玉城夏帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-355"
   },
   {
-    "id": 78887,
-    "IDcode": "STARS-170",
-    "title": "隔壁两个贵族姐妹天天练钢琴吵死了看来解决办法只有用我这个臭老头的肉棒堵住她们嘴巴把精液给她们射满",
+    "id": 224589,
+    "IDcode": "SDNM-356",
+    "title": "SDNM-356 这是最后一次......我想尽我所能去感受。高岛樱，29 岁，终章，人生第一次，在被生涩的阴茎插入阴道后壁后，她迎来了自己满是爱液的阴道，迎来了人生第一次妩媚的现场中桥。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "美少女电影",
-      "妹妹",
-      "素人作品"
+      "4P",
+      "3P",
+      "出轨",
+      "内射"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/fea4e20fb5cc4060f13cd1345c083441.jpg",
+    "publish_date": "2022-08-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-356.jpg",
     "actress": [
-      "有栖露露",
-      "戸田真琴"
+      "高嶋桜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-170"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-356"
   },
   {
-    "id": 78999,
-    "IDcode": "STARS-171",
-    "title": "小仓由菜本庄铃奴隶姐妹花捆绑调教固定16发大量轮奸内射",
+    "id": 565483,
+    "IDcode": "SDNM-357",
+    "title": "SDNM-357 39 岁的 Rio Tokiwa 是一位拥有完美颈部线条的 F 罩杯美丽妻子，结婚八年来，她骑马、教茶道，通过每天的自我提升来培养自己。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "魔鬼系",
-      "中出",
-      "素人作品",
-      "拘束"
+      "3P",
+      "4P",
+      "内射",
+      "人妻",
+      "4K",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/67854e4dc179ffb1db852a41/cover.jpg",
+    "publish_date": "2022-09-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-357.jpg",
     "actress": [
-      "小倉由菜",
-      "本庄鈴",
-      "Qべぇ"
+      "藤咲紫"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-171"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-357"
   },
   {
-    "id": 1593,
-    "IDcode": "STARS-172",
-    "title": "温泉旅行-和久井まりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "溫泉",
-      "和服・浴衣・喪服",
-      "淫亂",
-      "拘束・拷問",
-      "素人作品",
-      "4小時以上作品",
-      "无码",
-      "無碼流出"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/812a1d12f2951582c62e56dde85542be.jpg",
-    "actress": [
-      "和久井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-172"
-  },
-  {
-    "id": 75081,
-    "IDcode": "STARS-173",
-    "title": "要引退的西野翔如愿以偿和合得来的五位圈内女优拍摄久违的百合作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女电影",
-      "素人作品",
-      "姐姐",
-      "女同性恋",
-      "女同接吻"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-12-26",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f567937f2fbd8a4a4bd7f17e39c00aaf.jpg",
-    "actress": [
-      "宫泽千春",
-      "古川伊織",
-      "有栖露露",
-      "西野翔",
-      "管野静香",
-      "野々宫みさと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-173"
-  },
-  {
-    "id": 79005,
-    "IDcode": "STARS-174",
-    "title": "想要当偶像的永野一夏舌尖轻点唾液交换浓密舌吻性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "美少女电影",
-      "偶像",
-      "素人作品",
-      "女生",
-      "接吻",
-      "平胸",
-      "瘦小身型"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d59374c498f60d00290ed054628dc0aa.jpg",
-    "actress": [
-      "永野一夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-174"
-  },
-  {
-    "id": 75184,
-    "IDcode": "STARS-175",
-    "title": "周末的晚上瞒着老婆和最棒的情人小泉日向度过遗忘时间的一整晚不停断内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "巨乳",
-      "素人作品"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/66e295f5a05bb37b44517e9fa5700058.jpg",
-    "actress": [
-      "小泉日向",
-      "鲛岛",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-175"
-  },
-  {
-    "id": 75043,
-    "IDcode": "STARS-177",
-    "title": "刚满18岁的01年超可爱小姑娘白川柚子AV出道作",
+    "id": 106723,
+    "IDcode": "SDNM-358",
+    "title": "SDNM-358 在病房办公室工作 7 年，勤奋、一心一意的妻子，实际上是该品牌历史上最有主见的女性，33 岁，AV DEBUT：Hitomi Mochizuki。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "首次亮相",
+      "出轨",
       "出道作",
-      "乳房",
-      "美少女电影",
-      "素人作品",
-      "瘦小身型"
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/caf0e6e75576b0ee037aa5e82d66620d.jpg",
+    "publish_date": "2022-09-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-358.jpg",
     "actress": [
-      "白川柚子"
+      "望月瞳",
+      "森林原人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-358"
   },
   {
-    "id": 1682,
-    "IDcode": "STARS-178",
-    "title": "解除禁令-市川まさみ",
+    "id": 73095,
+    "IDcode": "SDNM-359",
+    "title": "SDNM-359 年轻的中国人妻 宍戸翠兰 32岁 第二章 中国少妻超受虐花开花落1晚2天调教温泉之旅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4P",
+      "3P",
+      "多P",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-09-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-359.jpg",
+    "actress": [
+      "宍戸翠蘭",
+      "宍戸翠兰"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-359"
+  },
+  {
+    "id": 86212,
+    "IDcode": "SDNM-360",
+    "title": "SDNM-360 在病房办公室工作 7 年，勤奋工作的妻子竟是该品牌历史上最有支配欲的女人 望月瞳，33 岁 第 2 章：向丈夫谎称工作，在 SM 爱情酒店秘密接受训练，手脚被束缚，被逼射精，她在陶醉中微笑！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "拘束",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-10-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-360.jpg",
+    "actress": [
+      "望月瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-360"
+  },
+  {
+    "id": 73093,
+    "IDcode": "SDNM-361",
+    "title": "SDNM-361 她的性感和优雅会让所有日本男人一见倾心。来自他乡的年轻漂亮的妻子，32 岁的狮子堂水兰，最后一章 \"重温\"，燃烧到极致，因为她再也见不到他了，她在与深爱她的丈夫回国前为自己要求的生中桥。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "出轨",
+      "内射"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-10-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-361.jpg",
+    "actress": [
+      "鲛岛",
+      "宍戸翠蘭",
+      "宍戸翠兰"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-361"
+  },
+  {
+    "id": 565482,
+    "IDcode": "SDNM-362",
+    "title": "SDNM-362 一位养家糊口 15 年、育有三个孩子的温柔母亲被一位陌生男子拥抱，寻找她几乎失去的性快感。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出道作",
+      "4P",
+      "少妇",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-09-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-362.jpg",
+    "actress": [
+      "市川七海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-362"
+  },
+  {
+    "id": 106492,
+    "IDcode": "SDNM-364",
+    "title": "SDNM-364 Nanami Ichikawa，36 岁，一个以家庭为重的母亲球童，养育着三个性格暴躁的儿子 第 2 章：家务和兼职之间的短时恋情 在儿子接受青少年棒球训练之前，就已经开始了禁止的生活渗透。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "苗條",
-      "素人作品",
-      "無碼流出"
+      "出轨",
+      "内射",
+      "成熟的女人",
+      "熟女"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/a5fe05eb3632c1e21d852916276afd9d.jpg",
+    "publish_date": "2022-11-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-364.jpg",
     "actress": [
-      "市川雅美"
+      "市川七海"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-364"
   },
   {
-    "id": 218714,
-    "IDcode": "STARS-179",
-    "title": "素人男性超特濃本物-小倉由菜",
+    "id": 590054,
+    "IDcode": "SDNM-3643",
+    "title": "人のわんぱく男児を育てる家族想いなお母さんキャディ市川ななみ36歳第2章家事とパート第07集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/487b3b429bc1b8f052e63166c26efcec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-179"
-  },
-  {
-    "id": 75069,
-    "IDcode": "STARS-180",
-    "title": "职业电竞战队的女辅助-唯井まひろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "处男",
-      "多P",
-      "素人作品",
-      "潮吹"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/58863d17acf8d41cb0f8491793f34e23.jpg",
-    "actress": [
-      "唯井真寻",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-180"
-  },
-  {
-    "id": 75182,
-    "IDcode": "STARS-181",
-    "title": "第一次出演痴女-七海ティナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "荡妇",
-      "偶像",
-      "素人作品"
+      "少妇",
+      "中文字幕"
     ],
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "七海蒂娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-181"
-  },
-  {
-    "id": 1688,
-    "IDcode": "STARS-182",
-    "title": "絶頂開発-青空ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "大雞巴",
-      "素人作品",
-      "美少女電影",
-      "无码",
-      "無碼流出"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230403/17c7e814-4978-4b44-9af7-3d73e3db23bb.jpg",
-    "actress": [
-      "青空光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-182"
-  },
-  {
-    "id": 83892,
-    "IDcode": "STARS-183",
-    "title": "1年と3ヵ月振りのAV復帰…そしてSODstar卒業 白石茉莉奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑人演员",
-      "巨乳",
-      "已婚妇女",
-      "素人作品",
-      "正太控"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/eea35dba7dd61adab84496b311f4248d.jpg",
-    "actress": [
-      "白石茉莉奈",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-183"
-  },
-  {
-    "id": 519171,
-    "IDcode": "STARS-1831",
-    "title": "年と3ヵ月振りのAV复帰…そしてSODstar卒业白石茉莉奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250811-1/b58cc15df269ee6c02fba0355d44c0e2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-1831"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-3643"
   },
   {
-    "id": 69961,
-    "IDcode": "STARS-184",
-    "title": "異常精飲癖の妻-川いおり",
+    "id": 86228,
+    "IDcode": "SDNM-365",
+    "title": "SDNM-365 在区办公室工作 7 年，勤奋工作的妻子，实际上是有史以来最有支配欲的女职员 望月瞳，33 岁，最终章 请给我一个真正的鸡巴，而不是振动器。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "素人作品",
-      "吞精"
+      "出轨",
+      "中出",
+      "苗条",
+      "内射"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a7ed7a2042296aaac66190c3078ba159.jpg",
+    "publish_date": "2022-11-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-365.jpg",
     "actress": [
-      "古川伊織"
+      "望月瞳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-365"
   },
   {
-    "id": 76682,
-    "IDcode": "STARS-185",
-    "title": "整蛊盗摄企划-紗倉まな",
+    "id": 167352,
+    "IDcode": "SDNM-367",
+    "title": "SDNM-367 Nanami Ichikawa，36 岁，以家庭为重的母亲，养育着三个淘气的男孩，最后一章 \"我不在乎是否怀孕...... \"她忘记了家人，含着眼泪认真地乞求生鸡巴。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
+      "3P",
+      "乱伦",
+      "4P",
+      "内射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-02-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-367.jpg",
+    "actress": [
+      "市川七海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-367"
+  },
+  {
+    "id": 592837,
+    "IDcode": "SDNM-369",
+    "title": "SDNM-369 Sarara Kobayashi，29 岁，她是一位知名的妻子，笑容和蔼可亲，与丈夫一起经营着一家咖啡馆，深受当地顾客的喜爱 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "泳装",
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-03-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-369.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-369"
+  },
+  {
+    "id": 77613,
+    "IDcode": "SDNM-370",
+    "title": "SDNM-370 大月亮，28 岁，来自东北地区的普通妻子，与丈夫一起经营一家小餐馆 大月亮，28 岁，AV 首播",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "出道作",
+      "内射",
+      "首次亮相",
+      "4K",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-03-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-370.jpg",
+    "actress": [
+      "南佳也",
+      "大槻りょう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-370"
+  },
+  {
+    "id": 168071,
+    "IDcode": "SDNM-372",
+    "title": "SDNM-372 29 岁的小林沙罗是个有名的妻子，笑容和蔼可亲，和丈夫一起经营着一家咖啡馆，深受当地顾客的喜爱。 第二章：在东京的七个小时里，一个娇小的身躯被比她丈夫还要高大的男人吞噬到最后一刻，这些男人比她丈夫还要高大，折断了她的腰。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "4P",
+      "3P",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-04-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-372.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-372"
+  },
+  {
+    "id": 223319,
+    "IDcode": "SDNM-374",
+    "title": "SDNM-374 Haruka Katsuragi，32 岁，AV 首播：性感的健康教师，对青春期男孩有很强的刺激性。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出道作",
+      "4P",
+      "人妻",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-04-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-374.jpg",
+    "actress": [
+      "桂木春香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-374"
+  },
+  {
+    "id": 518296,
+    "IDcode": "SDNM-376",
+    "title": "SDNM-376 她从未谈过恋爱！伊吹玲奈，28 岁，美丽害羞的幼儿园老师，AV 首播。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "出道作",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-376.jpg",
+    "actress": [
+      "伊吹玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-376"
+  },
+  {
+    "id": 168342,
+    "IDcode": "SDNM-378",
+    "title": "SDNM-378 性感的声音和美丽的胸部。家庭餐厅女经理小田沙耶香（Sayaka Koda），29 岁，AV DEBUT。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "震动",
+      "出道作",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-378.jpg",
+    "actress": [
+      "倖田沙耶花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-378"
+  },
+  {
+    "id": 107516,
+    "IDcode": "SDNM-380",
+    "title": "SDNM-380 小桥由纪，35 岁，AV 首播：在银座百货公司的一家日本甜品店工作的善良妻子的真实面目是一匹 \"发情的母马\"。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "3P",
+      "4P",
+      "素人",
+      "多P",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-380.jpg",
+    "actress": [
+      "小橋由希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-380"
+  },
+  {
+    "id": 225584,
+    "IDcode": "SDNM-381",
+    "title": "SDNM-381 小林萨拉（Sarara Kobayashi），29 岁，因笑容亲切而深受当地顾客喜爱，是一位有名的妻子，与丈夫一起经营着一家咖啡馆。 第 3 章：她瞒着丈夫，偷偷溜出正在营业的咖啡馆，在汽车、停车场或后巷里进行了短暂的户外性爱 忘却羞耻、渴望快乐的贪婪妻子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-381.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-381"
+  },
+  {
+    "id": 168343,
+    "IDcode": "SDNM-382",
+    "title": "SDNM-382 只是接吻就会抽搐，美肌少妇高嶋桜29岁 全身性感带再现第2话 上班酒后躺在老公身边 早上回家醉酒狼吞虎咽到半夜 第二天早上生抽阴道射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "纪录片",
-      "美少女电影",
-      "偷窥",
-      "素人作品"
+      "人妻",
+      "内射"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/489a97cea289a3bbf3e4db1e45bd957d.jpg",
+    "publish_date": "2023-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-382.jpg",
     "actress": [
-      "纱仓真菜"
+      "高嶋桜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-382"
+  },
+  {
+    "id": 225574,
+    "IDcode": "SDNM-383",
+    "title": "SDNM-383 她几乎没有恋爱经验！美丽害羞的托儿所老师伊吹玲奈，28 岁 第 2 章：已婚托儿所老师休息日在家拍摄！沉浸在不道德的性爱中，直到丈夫回家之前！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "3P",
+      "潮吹",
+      "4P",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-383.jpg",
+    "actress": [
+      "伊吹玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-383"
+  },
+  {
+    "id": 225575,
+    "IDcode": "SDNM-384",
+    "title": "SDNM-384 Haruka Katsuragi，32 岁，最终章 自从生育失败后，她一直远离丈夫生猛的鸡巴，这次是她很久以来最后一次来到东京，接受现场射精。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4P",
+      "3P",
+      "内射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-384.jpg",
+    "actress": [
+      "桂木春香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-384"
+  },
+  {
+    "id": 107515,
+    "IDcode": "SDNM-385",
+    "title": "SDNM-385 32岁的妈妈涩谷夏子（Natsu Shibuya，32岁，AV DEBUT）聪明活泼，只有在女儿上幼儿园时才会变回女人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "潮吹",
+      "乱伦",
+      "出道作",
+      "首次亮相",
+      "单人作品",
+      "人妻",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-385.jpg",
+    "actress": [
+      "渋谷夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-385"
+  },
+  {
+    "id": 107514,
+    "IDcode": "SDNM-386",
+    "title": "SDNM-386 在 \"真正的已婚妇女\"（Genuine Married Women）标签下出道的妻子们的一次性重聚 三位真正的已婚妇女一起进行了精彩的表演！瞒着丈夫在温泉旅行中大肆饮酒狂欢 高岛樱 白川花千代 望月瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "3P",
+      "4P",
+      "内射",
+      "乱交",
+      "洗澡",
+      "浴室",
+      "人妻",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-386.jpg",
+    "actress": [
+      "白河花清",
+      "望月瞳",
+      "高嶋桜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-386"
+  },
+  {
+    "id": 107513,
+    "IDcode": "SDNM-387",
+    "title": "SDNM-387 她几乎没有恋爱经验！伊吹玲奈，28 岁，害羞而美丽的幼儿园教师 第 3 章：学前班孩子和丈夫的面孔浮现在脑海中，她的心因内疚而颤抖。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "3P",
+      "4P",
+      "内射",
+      "单人作品",
+      "人妻",
+      "多P",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-387.jpg",
+    "actress": [
+      "伊吹玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-387"
+  },
+  {
+    "id": 562461,
+    "IDcode": "SDNM-388",
+    "title": "SDNM-388 29 岁的萨拉-小林（Sara Kobayashi）现在是一对夫妻，经营着一家咖啡吧，她亲切的笑容深受当地顾客的喜爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主观视角",
+      "内射",
+      "出轨"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-388.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-388"
+  },
+  {
+    "id": 107301,
+    "IDcode": "SDNM-389",
+    "title": "SDNM-389 29 岁的小林沙拉（Sara Kobayashi），终章：\"明天我将回归普通妻子的身份......所以我想在余生疯狂地享受难忘的性爱！\"不间断的活塞运动让她的阴道颤抖，她的体内被大量操弄！这是她生命中的最后一天，她仍在寻找对她来说还不够的快感。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "出轨",
+      "3P",
+      "4P",
+      "内射",
+      "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-08-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-389.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-389"
+  },
+  {
+    "id": 106704,
+    "IDcode": "SDNM-390",
+    "title": "SDNM-390 35 第 2 章：不道德的假期，她窝在邻家的爱情旅馆里，与几个男人舔来舔去，交替沉迷于性爱之中。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "乱伦",
+      "4P",
+      "拘束",
+      "单人作品",
+      "人妻",
+      "多P",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SDNM-390.jpg",
+    "actress": [
+      "小橋由希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-390"
   }
 ];

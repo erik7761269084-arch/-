@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/016186466f80a51e701d154c83436d60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0748.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0748"
   },
@@ -31,7 +31,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231214/pb_e_300maan-749.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0749.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0749"
   },
@@ -49,7 +49,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/8f05c92a664c53f52d6ffed6ef6761e0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0750.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0750"
   },
@@ -67,7 +67,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20f66db8c77d79bb69715/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0751.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0751"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2b204c9501d50ffe16b35092c21ca838.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0752.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0752"
   },
@@ -105,7 +105,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2022-12-13",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/fdcd7b8817cd7583ad050ddecb4b56bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0753.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0753"
   },
@@ -123,7 +123,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d03ac87bbe53a0bf92900236bca1555.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0754.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0754"
   },
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a21006db8c77d79bb69724/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0755.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0755"
   },
@@ -159,7 +159,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c453157dffbb412f18bf4b78242c6c9a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0756.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0756"
   },
@@ -178,7 +178,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/1964d9a472f6d3baa4ae4a406d1e332c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0757.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0757"
   },
@@ -196,7 +196,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4e5d7998fa72e127c3bdd1904fb27cf5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0761.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0761"
   },
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/74f40d8eb2440d89607dbd5712ba9a2d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0765.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0765"
   },
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d86a6e1937010ec8d24784897ed970e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0770.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0770"
   },
@@ -251,7 +251,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ed/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0771.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0771"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ee/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0778.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0778"
   },
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b098d5f7f87f038b15a852b9593bbd37.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0781.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0781"
   },
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20c82db8c77d79bb6966e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0785.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0785"
   },
@@ -323,7 +323,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2e191e672bd7da5d7ae195b229bd36a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0786.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0786"
   },
@@ -341,7 +341,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/eabce36671c7f63d2be13fa6985f6756.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0788.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0788"
   },
@@ -360,7 +360,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2022-12-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/2e9a0658b8e521c1b569046179785127.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0790.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0790"
   },
@@ -381,7 +381,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-02-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/77b2522e1ee4d55851f2acf72c0ca034.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0793.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0793"
   },
@@ -417,7 +417,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20bcecf22ae3e04a81cb8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0799.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0799"
   },
@@ -455,7 +455,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-08-29",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/974a28bd7114c7f330708e45e2166f18.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0802.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0802"
   },
@@ -473,7 +473,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5c95502906000fae1b3782b9721684a1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0811.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0811"
   },
@@ -492,7 +492,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/279c4466b4c1c042547d0745d555b8e2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0813.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0813"
   },
@@ -511,7 +511,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9ecfce4ad6d6b88d2aa3f4511921cecd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0814.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0814"
   },
@@ -530,7 +530,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f1e370f730e7367299bb4416ab82b45a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0821.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0821"
   },
@@ -567,7 +567,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://pic40.anzise.com/pic/20230122/5a3b679cd40279812af43a76cba88df2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0823.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0823"
   },
@@ -585,7 +585,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221205/E7dAfEQL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0826.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0826"
   },
@@ -603,7 +603,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221212/WLUO9wXR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0827.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0827"
   },
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f5a31a713b25e990a15f5708f8757078.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0829.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0829"
   },
@@ -640,7 +640,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f3e9649cdb1fc4d05abf515268261990.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0831.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0831"
   },
@@ -658,7 +658,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a6c08c128979c67d27443e03ef0c549e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0833.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0833"
   },
@@ -677,7 +677,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/890d9ba8c5079310729bdeba58bf44c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0834.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0834"
   },
@@ -696,7 +696,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/St712LMc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0835.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0835"
   },
@@ -715,7 +715,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230608/pb_e_maan-836.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0836.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0836"
   },
@@ -734,7 +734,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_maan-837.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0837.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0837"
   },
@@ -753,7 +753,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Hy34F0k8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0841.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0841"
   },
@@ -771,7 +771,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/Nt7sgiT8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0842.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0842"
   },
@@ -789,7 +789,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2035ddb8c77d79bb694f0/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0843.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0843"
   },
@@ -834,7 +834,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230223/6hcn0WOY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0847.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0847"
   },
@@ -853,7 +853,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240107/pb_e_maan-851.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0851.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0851"
   },
@@ -871,7 +871,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/IEfVrsuG.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0853.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0853"
   },
@@ -907,7 +907,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XpqLW8hT.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0859.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0859"
   },
@@ -925,7 +925,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20475db8c77d79bb69568/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0861.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0861"
   },
@@ -943,7 +943,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20476db8c77d79bb69569/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0863.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0863"
   },
@@ -961,7 +961,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/tUiYAmhC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0864.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0864"
   },
@@ -980,7 +980,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/7ZgksZoC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0865.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0865"
   },
@@ -998,7 +998,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/YF8gIM9o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0867.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0867"
   },
@@ -1016,7 +1016,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/BYDPWnGx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0868.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0868"
   },
@@ -1035,7 +1035,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/VUB0HopN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0869.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0869"
   },
@@ -1053,7 +1053,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230527/ZeYhcium/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0870.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0870"
   },
@@ -1090,7 +1090,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240420/QYjS3n7I/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0886.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0886"
   },
@@ -1126,7 +1126,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240420/cGtX2EFx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0888.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0888"
   },
@@ -1144,7 +1144,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240420/tHpp17so/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0889.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0889"
   },
@@ -1162,7 +1162,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240420/PimSr4fB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0890.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0890"
   },
@@ -1181,7 +1181,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/08/18921_cover_2025-06-08_221257.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0891.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0891"
   },
@@ -1200,7 +1200,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240420/vJHEJ7fP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0892.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0892"
   },
@@ -1218,7 +1218,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240502/iYr7SMGq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0893.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0893"
   },
@@ -1236,7 +1236,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240502/JV5sVghM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0894.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0894"
   },
@@ -1254,7 +1254,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/7cfa9a4347bede3b8abd773331a6af3a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0895.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0895"
   },
@@ -1272,7 +1272,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240502/PiO1XCDd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0896.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0896"
   },
@@ -1290,7 +1290,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/16/684fa53043d6972716bd9613/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0897.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0897"
   },
@@ -1416,7 +1416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-10",
-    "cover_url": "https://tuaskbgnekr.com/20240504/PerQ5IcT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0903.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0903"
   },
@@ -1520,7 +1520,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-24",
-    "cover_url": "https://tuaskbgnekr.com/20240504/1uLYbeNA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0907.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0907"
   },
@@ -1543,7 +1543,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-30",
-    "cover_url": "https://tuaskbgnekr.com/20240506/oMECIucg/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0908.jpg",
     "actress": [
       "みなみ"
     ],
@@ -1645,7 +1645,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b152645f13d063bcc27af9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0912.jpg",
     "actress": [
       "永野司",
       "つばさ"
@@ -1722,7 +1722,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-10-22",
-    "cover_url": "https://tuaskbgnekr.com/20240507/J3HJOGLm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0915.jpg",
     "actress": [
       "うた"
     ],
@@ -1775,7 +1775,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/17/68505f0d3ed39b57c081705c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0917.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0917"
   },
@@ -1861,7 +1861,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-11-05",
-    "cover_url": "https://tuaskbgnekr.com/20240508/KXhVBXbc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0920.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0920"
   },
@@ -1929,7 +1929,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240509/SW9JTYrl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0923.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0923"
   },
@@ -2009,7 +2009,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "DOC",
     "publish_date": "2023-11-26",
-    "cover_url": "https://tuaskbgnekr.com/20240509/KrXwVZHc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/300MAAN-0926.jpg",
     "actress": [
       "ニック"
     ],

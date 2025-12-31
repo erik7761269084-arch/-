@@ -1,67 +1,174 @@
 window.PAGE_DATA = [
   {
-    "id": 469946,
-    "IDcode": "MISM-016",
-    "title": "H奶超正奴隷風俗店 木南日菜",
+    "id": 2446,
+    "IDcode": "CKCK-011",
+    "title": "CKCK-011 最疯狂的喉部凹陷平胸女孩艾玛-双叶（Emma Futaba）。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "淫蕩・硬核",
+      "少女",
+      "潮吹",
+      "兩男一女",
+      "明星臉",
+      "阪道系",
+      "重口味",
+      "早漏",
+      "白絲",
+      "羞恥",
+      "亂交 • 群P",
+      "按摩棒",
+      "性虐癖",
+      "美臀",
+      "口爆",
+      "跳蛋",
+      "深喉",
+      "女上位",
+      "蠻橫嬌羞",
+      "下流",
+      "絕頂高潮",
+      "美少女",
+      "女奴",
+      "单人作品",
+      "流汗",
+      "單體作品",
+      "調教",
+      "苗条",
+      "插入異物",
+      "美乳",
+      "乳交",
+      "淫亂",
+      "中出",
+      "M男・M女",
+      "白眼失神",
+      "打屁股",
+      "濕身",
+      "角色扮演",
+      "變態",
+      "口交",
+      "色白",
+      "女僕",
+      "貓耳裝飾",
+      "騎乗位",
+      "殘忍畫面",
+      "SM",
+      "舔陰",
+      "拘束・拷問",
+      "緊縛",
+      "後入",
+      "形象俱樂部",
+      "豐滿",
+      "美人",
+      "3P・4P",
+      "鬼畜片",
+      "手指插入",
+      "風俗娘",
+      "極品美人",
+      "凌辱",
+      "企畫",
+      "顏射",
+      "高顏值",
+      "COSPLAY服飾",
+      "美腿"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/18/68cbd14ebf45974ea6e52c9e/cover.jpg",
-    "actress": [],
+    "publish_date": "2025-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CKCK-011.jpg",
+    "actress": [
+      "二葉惠麻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-011"
+  },
+  {
+    "id": 469946,
+    "IDcode": "MISM-016",
+    "title": "MISM-016 视频拍摄OK！精英奴隶专业性服务 \"Emu Musume Labo \"预订立即售罄！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "虐待",
+      "妓女",
+      "无码破解",
+      "单人作品",
+      "调教",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "えむっ娘ラボ",
+    "publish_date": "2016-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-016.jpg",
+    "actress": [
+      "木南日菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-016"
   },
   {
     "id": 531851,
     "IDcode": "MISM-028",
-    "title": "mism00028 セックスに目覚めた母乳M妻（19才） 旦那に黙って自ら応募してきました。 岸田杏里",
+    "title": "MISM-028 母亲的 M 型妻子（19 岁）被性爱唤醒，瞒着丈夫自行涂抹。 岸田安里",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "母乳",
+      "人妻",
+      "调教",
+      "纪录片"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240526-1/ee54bcc4e319f9e5d3f68f9dfa3ee4f0.jpg",
-    "actress": [],
+    "publish_date": "2016-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-028.jpg",
+    "actress": [
+      "新美もも"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-028"
   },
   {
     "id": 539043,
     "IDcode": "MISM-040",
-    "title": "新村あかり- 性欲旺盛な変态M女の拗れた性愿望",
+    "title": "MISM-040 性欲旺盛的变态 M 女性的撩人性欲 新村明里",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "虐待",
+      "内射",
+      "单人作品",
+      "调教",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/clOGll7T/1.jpg",
-    "actress": [],
+    "publish_date": "2016-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-040.jpg",
+    "actress": [
+      "新村朱里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-040"
   },
   {
     "id": 88111,
     "IDcode": "MISM-060",
-    "title": "昼は地域で1番人気の美人女医 夜は緊縛姿でロウソク垂らされバイブで何度もエクスタシーする勃起ペニス大好きドMマゾ",
+    "title": "MISM-060 白天，她是该地区最受欢迎的漂亮女医生；晚上，她是一个霸道的受虐狂，喜欢被捆绑的勃起阴茎、滴落的蜡烛，以及反复使用振动器获得快感。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女医生",
       "SM",
-      "苗条",
       "拘束",
+      "苗条",
+      "女医生",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f78b64c319fc8d69f0a807d7fbcfd4d1.jpg",
+    "publish_date": "2017-07-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-060.jpg",
     "actress": [
       "桜木エリナ"
     ],
@@ -70,41 +177,54 @@ window.PAGE_DATA = [
   {
     "id": 166671,
     "IDcode": "MISM-063",
-    "title": "某教育組織役員の真面目系カワイイ若妻の正体は淫乱臭ぷんぷん漂わせ無毛パイパンマ○コに中出し繰り返す羞恥オシッコしーしーしてアヘ顔ダブルピースでキメるドマゾ奥様",
+    "title": "MISM-063 某教育組織役員の真面目系カワイイ若妻の正体は淫乱臭ぷんぷん漂わせ無毛パイパンマ○コに中出し繰り返す羞恥オシッコしーしーしてアヘ顔ダブルピースでキメるドマゾ奥様",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "中文字幕",
+      "新娘",
+      "内射",
+      "臀部",
+      "放尿",
+      "羞辱",
+      "少妇"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230305/mism00063pl.jpg",
-    "actress": [],
+    "publish_date": "2017-07-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-063.jpg",
+    "actress": [
+      "前田可奈子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-063"
   },
   {
     "id": 104758,
     "IDcode": "MISM-088",
-    "title": "渴望被主人调教肛门的两只小女仆姐妹",
+    "title": "MISM-088 听话的肛门女仆系列",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "无码破解",
-      "调教",
-      "两男两女",
-      "滥交",
       "女佣",
-      "肛交"
+      "两男两女",
+      "肛交",
+      "肛门",
+      "无码破解",
+      "灌肠",
+      "MMFF",
+      "调教",
+      "滥交",
+      "女仆"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e546789def9b1b8c7b4cb/cover.jpg",
+    "publish_date": "2018-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-088.jpg",
     "actress": [
+      "篠田優",
+      "西内萌菜",
       "イセドン内村",
       "篠田优",
       "桜咲姫莉"
@@ -114,158 +234,243 @@ window.PAGE_DATA = [
   {
     "id": 539276,
     "IDcode": "MISM-090",
-    "title": "痉挛腰跳ね絶顶マゾ",
+    "title": "MISM-090 痉挛性跳臀高潮受虐狂佐佐木亚纪",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "单人作品",
+      "重口味",
+      "人妻",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221013/hraWk2sk/1.jpg",
-    "actress": [],
+    "publish_date": "2018-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-090.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-090"
   },
   {
     "id": 591338,
     "IDcode": "MISM-100",
-    "title": "私が何度もアクメる姿を见てください 高杉麻里",
+    "title": "MISM-100 看着我一次又一次地射精吧，高杉玛丽。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "胸部",
+      "美少女",
+      "单人作品",
+      "重口味",
+      "子宫颈"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230720-1/645a81d124a2e11715f7375c20493f0d.jpg",
-    "actress": [],
+    "publish_date": "2018-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-100.jpg",
+    "actress": [
+      "高杉麻里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-100"
   },
   {
     "id": 594532,
     "IDcode": "MISM-104",
-    "title": "おじさんの宝物にしてください。 肛门がなんだかムズムズするんです。お尻の穴でなんどもイッちゃう纯白美少女みさちゃん 凉海みさ",
+    "title": "MISM-104 让它成为你叔叔的宝藏吧 我的肛门有点糊美莎，一个纯白美丽的女孩，在她的屁眼里反复射精 美莎-凉美。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "肛门",
+      "灌肠",
+      "单人作品",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240303-1/866c37cf6b2008c65d7b329333001bad.jpg",
-    "actress": [],
+    "publish_date": "2018-08-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-104.jpg",
+    "actress": [
+      "凉海美沙",
+      "キョンシ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-104"
   },
   {
     "id": 539042,
     "IDcode": "MISM-108",
-    "title": "新村あかり- 最狂イラマチオ秘书喉奥御奉仕勤务",
+    "title": "MISM-108 最疯狂的 Irrumatio 秘书深喉服务工作。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "秘书",
+      "眼镜",
+      "滥交",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250429/SRvC91wO/1.jpg",
-    "actress": [],
+    "publish_date": "2018-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-108.jpg",
+    "actress": [
+      "新村朱里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-108"
   },
   {
     "id": 214982,
     "IDcode": "MISM-112",
-    "title": "绝对服主人的命令",
+    "title": "MISM-112 品行端正的变态支配者。她绝对服从主人的命令。她的阴部非常湿润，流出一串串爱液。她不好意思地尽量张开阴部和肛门。请让我一边舔她的大阴户，一边把她的大阴户塞得满满的。我湿透了，敏感的乳头和阴蒂正被顽皮的按摩器按摩着......",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "虐待",
+      "内射",
+      "其他恋物",
+      "调教",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/10/0d9cf92cd0c827fe9d6d289b4c5cc950.jpg",
-    "actress": [],
+    "publish_date": "2018-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-112.jpg",
+    "actress": [
+      "高野しずか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-112"
   },
   {
     "id": 536225,
     "IDcode": "MISM-116",
-    "title": "SM解禁！！ ハードビザール紧缚レズビアン 全てを晒しなさい！最高の快楽を",
+    "title": "MISM-116 SM 解放！ 硬视捆绑女同暴露一切！我会给你最好的快乐 工藤真奈美、蓬莱霞",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "女同",
+      "丧服",
+      "SM",
+      "拘束",
+      "和服",
+      "女同接吻"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2018-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-116.jpg",
+    "actress": [
+      "永野司",
+      "塩見彩"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-116"
   },
   {
     "id": 213180,
     "IDcode": "MISM-119",
-    "title": "純白美少女-高牟礼れな",
+    "title": "MISM-119 MISM-119 请让我成为你叔叔的宝物。 爱穿制服的 SM 和尚的淘气法术 Mojiko 却满脑子都是鸡巴，Rena-chan，一个美丽、丰满、纯白的女孩 Rena Takamure Rena",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "单人作品",
+      "女学生",
+      "SM",
+      "拘束",
+      "巨乳",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/03/c62dd2392749166826b63c86e769533d.jpg",
-    "actress": [],
+    "publish_date": "2018-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-119.jpg",
+    "actress": [
+      "高牟礼れな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-119"
   },
   {
     "id": 595540,
     "IDcode": "MISM-120",
-    "title": "SM経験のない女を紧缚蝋烛喉奥マゾ开発",
+    "title": "MISM-120 MISM-120 没有 SM 经验的女性的束缚烛光深喉受虐发展。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "调教",
+      "SM",
+      "拘束",
+      "苗条",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4c56cd196d77ab44f4259f47d9a9bf40.jpg",
-    "actress": [],
+    "publish_date": "2018-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-120.jpg",
+    "actress": [
+      "坂咲美穗"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-120"
   },
   {
     "id": 595541,
     "IDcode": "MISM-121",
-    "title": "拡张しすぎて开いた尻穴が塞がらないウェディングプランナー",
+    "title": "MISM-121 MISM-121 屁眼过度扩张和张开的婚礼策划师。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "[",
+      "肛交",
+      "肛门",
+      "内射",
+      "重口味",
+      "]",
+      "各种职业",
+      "滥交",
+      "性奴调教"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1a63a4bd4b88b0255888a33fa9fa2665.jpg",
-    "actress": [],
+    "publish_date": "2018-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-121.jpg",
+    "actress": [
+      "凉海美沙"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-121"
   },
   {
     "id": 77254,
     "IDcode": "MISM-123",
-    "title": "素人マゾFILE 奴隷No.1みか（仮名）28歳 自ら調教志願してきた規格外の脳イキ変態鬼マゾ美人妻",
+    "title": "MISM-123 MISM-123 业余受虐狂档案 1 号奴隶米卡（化名），28 岁，是个脑筋急转弯的变态美女，也是个自愿接受自己训练的受虐狂妻子。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "人妻",
       "已婚妇女",
-      "纪录片",
+      "业余",
       "捆绑",
+      "饮尿",
+      "素人",
+      "人妻",
       "SM",
-      "素人"
+      "拘束",
+      "纪录片"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/03e08aac73d950778655783406d308b3.jpg",
+    "publish_date": "2019-01-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-123.jpg",
     "actress": [
       "雨村梨花",
       "鲛岛"
@@ -275,128 +480,193 @@ window.PAGE_DATA = [
   {
     "id": 536119,
     "IDcode": "MISM-126",
-    "title": "祝 究极真正マゾ生诞 スペシャルコアお诞生会",
+    "title": "MISM-126 庆祝终极真正受虐狂诞生 特别核心生日派对",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "女同",
+      "虐待",
+      "美少女",
+      "SM",
+      "拘束"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-126.jpg",
+    "actress": [
+      "神納花",
+      "叶月桃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-126"
   },
   {
     "id": 589592,
     "IDcode": "MISM-127",
-    "title": "最疯狂的屁股洞他妈的秘书",
+    "title": "MISM-127 最疯狂的操屁眼秘书",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "双穴",
+      "肛门",
+      "灌肠",
+      "姐姐",
+      "拘束",
+      "射精",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/22/54514_cover_2025-09-22_053832.jpg",
-    "actress": [],
+    "publish_date": "2019-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-127.jpg",
+    "actress": [
+      "新村朱里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-127"
   },
   {
     "id": 589589,
     "IDcode": "MISM-128",
-    "title": "厕所约会叔叔最喜欢的Mojimoji 精致美丽的女孩和秘密生马鞍束缚中出厕所操！",
+    "title": "MISM-128 与喜欢叔叔的苗条漂亮女孩进行茅坑性交秘密现场捆绑和中桥茅坑性交！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "内射",
+      "眼镜",
+      "拘束",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/01/52015_cover_2025-07-01_124141.jpg",
-    "actress": [],
+    "publish_date": "2019-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-128.jpg",
+    "actress": [
+      "水川えみる"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-128"
   },
   {
     "id": 589594,
     "IDcode": "MISM-129",
-    "title": "Hard Mazo Idol AV 出道打破粉丝梦葵心 - 苍井こころ",
+    "title": "MISM-129 硬汉受虐偶像色情处女作，粉碎粉丝们的梦想 元气地下偶像将麦克风换成鸡巴，潇洒地演绎一系列极致受虐高潮！ 苍井空",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作"
+      "出道作",
+      "单人作品",
+      "偶像",
+      "SM",
+      "拘束",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/22/93046_cover_2025-09-22_051900.jpg",
-    "actress": [],
+    "publish_date": "2019-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-129.jpg",
+    "actress": [
+      "蒼井こころ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-129"
   },
   {
     "id": 536957,
     "IDcode": "MISM-131",
-    "title": "有坂深雪- カミングアウト 本当の私を见てください。 デビュー1周年！エッチ経験极少の原石王道美少女！冲撃",
+    "title": "MISM-131 出柜 见真我 出道一周年！一个缺乏性经验的粗野美女！令人震惊的崩溃！AV 女优有坂美雪自白性癖好。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "单人作品",
+      "SM",
+      "拘束",
+      "深喉",
+      "纪录片"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250805/ZAZl4X2T/1.jpg",
-    "actress": [],
+    "publish_date": "2019-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-131.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-131"
   },
   {
     "id": 523596,
     "IDcode": "MISM-133",
-    "title": "便器の妖精",
+    "title": "MISM-133 厕所仙子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "滥交",
+      "饮尿",
+      "肛门"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/5418089f3564abefaa4f4d4ec037256b.jpg",
-    "actress": [],
+    "publish_date": "2019-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-133.jpg",
+    "actress": [
+      "倉野遥"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-133"
   },
   {
     "id": 572440,
     "IDcode": "MISM-134",
-    "title": "カミングアウト 本当の私を见てください。 成长した私を见てください纯正マゾお嬢様が刺激を求めてカムバック。心もエグるドM専用プレイに感谢の涙。A new",
+    "title": "MISM-134 走出来 看看真实的我。 看看长大的我！真正的受虐狂少女卷土重来，寻找刺激。AV女优 Momo Hazuki 的性嗜好自白书。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "虐待",
+      "美少女",
+      "灌肠",
+      "单人作品",
+      "滥交",
+      "SM",
+      "纪录片"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://pic37.anzise.com/pic/20221019/bdc23662f236dfb2063601c20bbd11f0/1.jpg",
-    "actress": [],
+    "publish_date": "2019-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-134.jpg",
+    "actress": [
+      "叶月桃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-134"
   },
   {
     "id": 77337,
     "IDcode": "MISM-136",
-    "title": "尻穴の女神",
+    "title": "MISM-136 爱神",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "二穴同时挿入",
-      "淫乱，真实",
-      "滥交",
+      "下流",
+      "双穴",
       "肛交",
-      "新娘，年轻妻子"
+      "淫乱，真实",
+      "肛门",
+      "新娘",
+      "重口味",
+      "二穴同时挿入",
+      "新娘，年轻妻子",
+      "滥交",
+      "少妇"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecd4fed4266e37214130fec075414090.jpg",
+    "publish_date": "2019-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-136.jpg",
     "actress": [
       "松ゆきの",
       "鲛岛"
@@ -406,37 +676,48 @@ window.PAGE_DATA = [
   {
     "id": 595166,
     "IDcode": "MISM-139",
-    "title": "肛门NTS～老公拍摄心爱的Ｍ妻被人干屁眼的调教日记",
+    "title": "MISM-139 肛交 NTS 我要让我的妻子肛交了。 Megumi，26 岁，受虐狂爱妻 Megumi 的肛交绿帽子训练日记，由丈夫拍摄。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "双穴",
+      "肛门",
+      "人妻",
+      "SM",
+      "深喉",
+      "纪录片"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/hTxPCUeE.jpg",
-    "actress": [],
+    "publish_date": "2019-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-139.jpg",
+    "actress": [
+      "柏木恵"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-139"
   },
   {
     "id": 77172,
     "IDcode": "MISM-140",
-    "title": "夫に内緒でフィスト解禁！ 膣穴に拳！ケツ穴に肉棒！鬼太2穴ハードファック！ 男優の極太チ○ポでも物足りない淑やか変態マゾ美人妻が拳で絶叫イキ狂い！ 藍川美夏",
+    "title": "MISM-140 瞒着丈夫解除拳头禁令 拳头进阴道拳头进阴道狠狠干两个洞 美丽的受虐狂妻子对男演员的肥大鸡巴欲罢不能，疯狂地用拳头尖叫！ 相川美香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "已婚妇女",
       "拳交",
-      "SM",
       "肛交",
+      "肛门",
+      "单人作品",
+      "人妻",
+      "SM",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0ae347a4a2077451f19b7a0fa36fe651.jpg",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-140.jpg",
     "actress": [
       "蓝川美夏"
     ],
@@ -445,36 +726,47 @@ window.PAGE_DATA = [
   {
     "id": 589521,
     "IDcode": "MISM-141",
-    "title": "AF感觉好到大脑都融化了！ De M 鹤满无尽肛门他妈的爱女孩！日月睿 - 妃月类",
+    "title": "MISM-141 AF的感觉如此美妙，让你的大脑都融化了！霸道鹤男变态肛交情人！ Rui Hizuki",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "内射",
+      "肛门",
+      "单人作品",
+      "调教",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/05/31803_cover_2025-07-05_075311.jpg",
-    "actress": [],
+    "publish_date": "2019-06-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-141.jpg",
+    "actress": [
+      "妃月るい"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-141"
   },
   {
     "id": 73790,
     "IDcode": "MISM-144",
-    "title": "えむっ娘ユーザーKさん撮影作品 デニムがパツパツむちむちメス尻がエロ過ぎる男勝りな元ヤンマゾ娘めいちゃんを温泉でたっぷり肉棒調教してきました。 長距離トラック運転手 めい 27歳",
+    "title": "MISM-144 该片由 Emu Musume 用户 K.拍摄，牛仔裤太紧，她的紧臀太色情。 美美，27 岁，长途卡车司机",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "业余",
-      "浴衣",
       "户外",
+      "浴衣",
+      "臀部",
+      "素人",
       "屁股",
       "SM"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-07-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b04b4b010c9916c5080180782bde8b60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-144.jpg",
     "actress": [
       "中尾芽衣子"
     ],
@@ -483,22 +775,24 @@ window.PAGE_DATA = [
   {
     "id": 73788,
     "IDcode": "MISM-145",
-    "title": "素人マゾFILE 奴隷No.2 ゆり（仮名）27歳 自ら調教志願してきた性癖異常のアブノーマル敏感マダム",
+    "title": "MISM-145 业余受虐狂 2 号奴隶尤里（化名），27 岁，性情异常敏感，自愿接受训练。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
       "已婚妇女",
-      "纪录片",
+      "业余",
       "捆绑",
+      "素人",
+      "人妻",
+      "拘束",
       "深喉",
-      "素人"
+      "纪录片"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-07-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8708a22462e0e37019de76bf7c780461.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-145.jpg",
     "actress": [
       "森林原人",
       "本多かおり"
@@ -508,21 +802,22 @@ window.PAGE_DATA = [
   {
     "id": 73775,
     "IDcode": "MISM-146",
-    "title": "吐き出すまで突きまくる、地獄のコンビネーションイラマチオ",
+    "title": "MISM-146 地狱般的舔舐和插入组合，直到你呕吐为止。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "美少女电影",
-      "SM",
+      "美少女",
       "滥交",
+      "SM",
       "拘束",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-08-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/71d6d258c48c4a2948ccc8fdf1dd2191.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-146.jpg",
     "actress": [
       "有村希",
       "河合乃乃花",
@@ -533,20 +828,21 @@ window.PAGE_DATA = [
   {
     "id": 73789,
     "IDcode": "MISM-147",
-    "title": "便器の妖精2匹目",
+    "title": "MISM-147 第二个马桶仙子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "美少女电影",
-      "深喉",
+      "美少女",
       "滥交",
-      "饮尿"
+      "饮尿",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-08-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/71b5de8fae8b583c328577acdeb82655.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-147.jpg",
     "actress": [
       "神楽アイネ",
       "鲛岛",
@@ -557,58 +853,87 @@ window.PAGE_DATA = [
   {
     "id": 410041,
     "IDcode": "MISM-148",
-    "title": "國寶肛交者祥子的私人肛門鍛錬",
+    "title": "MISM-148 由国宝级肛交高手 Shoko 进行私人肛交培训。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "异物",
+      "肛门",
+      "重口味",
+      "调教",
+      "苗条"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6897481655337d7f7bb62afe/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-148.jpg",
+    "actress": [
+      "松ゆきの"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-148"
   },
   {
     "id": 592617,
     "IDcode": "MISM-150",
-    "title": "喉咙恶魔重塑超级快感！ Deep Throat De M Throat Ma Co ○ 所有的肉棒都疯了！",
+    "title": "MISM-150 深喉魔法改装 超级快感！专用于深喉的霸主级阴部，让所有肉头都为之疯狂！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "口交",
+      "素人",
+      "调教",
+      "拘束",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/44995_cover_2025-06-10_235736.jpg",
-    "actress": [],
+    "publish_date": "2019-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-150.jpg",
+    "actress": [
+      "唯乃光"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-150"
   },
   {
     "id": 556589,
     "IDcode": "MISM-151",
-    "title": "美丽的喉咙后厕所的妻子Nanako-san Gebo高宫菜菜子",
+    "title": "MISM-151  高宫奈奈子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "单人作品",
+      "人妻",
+      "调教",
+      "SM",
+      "射精",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230601-1/beb398fcc6a42bd90247267e8eeff972.jpg",
-    "actress": [],
+    "publish_date": "2019-10-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-151.jpg",
+    "actress": [
+      "櫻井菜々子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-151"
   },
   {
     "id": 104213,
     "IDcode": "MISM-153",
-    "title": "ガールmeetsイラマチオ 加藤ももか",
+    "title": "MISM-153 女孩遇见irrumatio Momoka Kato",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
       "美少女电影",
+      "虐待",
+      "美少女",
+      "凌辱",
+      "单人作品",
       "调教",
       "滥交",
       "深喉"
@@ -616,7 +941,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-11-25",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mism153/mism153pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-153.jpg",
     "actress": [
       "加藤桃香",
       "鲛岛"
@@ -626,47 +951,56 @@ window.PAGE_DATA = [
   {
     "id": 99828,
     "IDcode": "MISM-154",
-    "title": "素人マゾFILE 奴隷No.3 現役介護士 ありさ（仮名）25歳 自ら調教志願してきた美意識過剰なコンプレックスマゾヒストAV初出演",
+    "title": "MISM-154 业余受虐狂 FILE 3 号奴隶 主动照顾者阿里萨（化名），25 岁，过度自尊的复杂受虐狂，自愿接受培训，首次出演色情片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "群交",
       "业余",
       "轮奸",
-      "SM",
       "捆绑",
-      "深喉",
-      "素人"
+      "素人",
+      "SM",
+      "拘束",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-11-25",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/f1cf71e070dd7c2c46555093f37d3d78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-154.jpg",
     "actress": [
       "鲛岛",
-      "爱実ありあ"
+      "爱実ありあ",
+      "タケゾー",
+      "愛実ありあ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-154"
   },
   {
     "id": 99827,
     "IDcode": "MISM-155",
-    "title": "尻穴をイラマのように激しく突いて欲しいあやみさん",
+    "title": "MISM-155 绫波希望自己的屁眼被用力戳，就像被捅了一窟窿一样。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "灌肠",
-      "二穴同时挿入",
+      "下流",
+      "双穴",
       "美少女电影",
+      "肛交",
       "淫乱，真实",
-      "滥交",
-      "肛交"
+      "肛门",
+      "美少女",
+      "灌肠",
+      "重口味",
+      "二穴同时挿入",
+      "滥交"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2019-11-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-155.jpg",
     "actress": [
       "叶芽ゆきな"
     ],
@@ -675,42 +1009,48 @@ window.PAGE_DATA = [
   {
     "id": 81782,
     "IDcode": "MISM-157",
-    "title": "便器の妖精 3匹目",
+    "title": "MISM-157 第三个马桶仙子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "美少女电影",
       "肛交",
+      "美少女电影",
+      "美少女",
+      "内射",
+      "肛门",
       "饮尿"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678754b5478d611da77511cd/cover.jpg",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-157.jpg",
     "actress": [
-      "千种ちな"
+      "千种ちな",
+      "千種ちな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-157"
   },
   {
     "id": 78983,
     "IDcode": "MISM-158",
-    "title": "カミングアウト 本当の私を見てください 誰にでも笑顔でセックスしてしまう八方美人スケベの私を調教してください。本当は強引に責め尽くされたい。AV女優佐知子の性癖告白ドキュメント",
+    "title": "MISM-158 出柜 看看真实的我 请训练我，一个笑着和所有人做爱的全能淫荡女孩。我真的很想被强迫，被折磨得体无完肤 AV 女优 Sachiko 的性癖好告白 Document.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "虐待",
       "凌辱",
-      "SM",
+      "单人作品",
       "滥交",
+      "SM",
       "巨乳"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/02b73791d39c2a90186867bbb980b937.jpg",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-158.jpg",
     "actress": [
       "佐知子"
     ],
@@ -719,20 +1059,24 @@ window.PAGE_DATA = [
   {
     "id": 75187,
     "IDcode": "MISM-159",
-    "title": "優等生はやがてMになる。制服少女調教録 柊るい",
+    "title": "MISM-159 优等生最终成为硕士。制服女孩培训记录 - Rui Hiiragi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "戏剧",
       "户外",
-      "高中女生"
+      "高中女生",
+      "美少女电影",
+      "美少女",
+      "剧情",
+      "单人作品",
+      "戏剧",
+      "女学生"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/c5c7b2e63de7f9a12480a668a908af8a.jpg",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-159.jpg",
     "actress": [
       "柊留衣"
     ],
@@ -741,59 +1085,78 @@ window.PAGE_DATA = [
   {
     "id": 83109,
     "IDcode": "MISM-161",
-    "title": "眩しい程の美貌！溢れ出る品格！禍々しい変態オーラ！ 現役中学教師の実況型インテリ肛門マゾヒストAVデビューで覚醒！ 教え子の育ち盛りの肉棒でアナルを犯させるのを想像しながらスマイル3穴アクメ！",
+    "title": "MISM-161 令人目眩的美貌溢于言表的尊严反常的恶作剧光环！ 现实生活中的知识分子肛门受虐狂在她的色情处女作中觉醒，成为一名活跃的中学教师！ 当她想象着自己的学生正在长大的肉棒正在操她的肛门时，她微笑着三孔射精！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "业余",
-      "二穴同时挿入",
-      "首次亮相",
+      "双穴",
+      "出道作",
       "女教师",
-      "SM",
       "肛交",
+      "肛门",
+      "首次亮相",
+      "素人",
+      "二穴同时挿入",
+      "SM",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/9fbffe664bb311ed9de46803a7b0b40a.jpg",
-    "actress": [],
+    "publish_date": "2019-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-161.jpg",
+    "actress": [
+      "望月雪"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-161"
   },
   {
     "id": 526170,
     "IDcode": "MISM-163",
-    "title": "カミングアウト 本当の私を见てください。 狂気の母性を拥したマゾヒストが憧",
+    "title": "MISM-163 出柜 看到真实的我。 出演疯狂母性受虐狂渴望的系列片后，身心都得到了极大的满足 AV 女优大浦真奈美（Manami Oura）的自白书，记录了她的性癖好。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "重口味",
+      "单人作品",
+      "滥交",
+      "SM"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-01-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-163.jpg",
+    "actress": [
+      "大浦真奈美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-163"
   },
   {
     "id": 81792,
     "IDcode": "MISM-164",
-    "title": "豪穴アナルファッカーしょうこさんのファンサービス肛門訪問",
+    "title": "MISM-164 澳大利亚肛交爱好者 Shoko 的肛门访问。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "业余",
       "已婚妇女",
+      "业余",
+      "下流",
+      "肛交",
       "淫乱，真实",
-      "肛交"
+      "肛门",
+      "素人",
+      "重口味",
+      "人妻",
+      "荡妇"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2020-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/40e423935dce951528daabfc73360357.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-164.jpg",
     "actress": [
       "松ゆきの"
     ],
@@ -802,66 +1165,94 @@ window.PAGE_DATA = [
   {
     "id": 526169,
     "IDcode": "MISM-165",
-    "title": "吐き出すまで突きまくり、それを饮ませて再び吐かす史上最狂のリバースイラ",
+    "title": "MISM-165 史上最疯狂的反向囚禁，插到吐，然后喝了再吐。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "迷你",
+      "饮尿",
+      "深喉",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/10/vy4o5wfyiqp.jpg",
-    "actress": [],
+    "publish_date": "2020-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-165.jpg",
+    "actress": [
+      "豊岡さつき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-165"
   },
   {
     "id": 526168,
     "IDcode": "MISM-166",
-    "title": "_B 自分でベロを切り裂いた気狂いマゾに喉奥ご褒美 滝川ほのか Part 2",
+    "title": "MISM-166 对割破自己舌头的疯狂受虐狂泷川本冈的深喉奖励。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "重口味",
+      "单人作品",
+      "滥交",
+      "辣妹",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-166.jpg",
+    "actress": [
+      "滝川ほのか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-166"
   },
   {
     "id": 516637,
     "IDcode": "MISM-167",
-    "title": "天上肛交者祥子的熱OO獻身肛門指",
+    "title": "MISM-167 丰中爱丽丝，由天籁般的肛交高手祥子激情奉献的肛交教学。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "女同",
+      "肛门",
+      "重口味",
+      "单人作品",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69094a90e264e6282dff408f/poster2.jpg",
-    "actress": [],
+    "publish_date": "2020-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-167.jpg",
+    "actress": [
+      "豊岡さつき",
+      "松ゆきの"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-167"
   },
   {
     "id": 83666,
     "IDcode": "MISM-169",
-    "title": "今まで旦那に尽くす立派な人妻を演じていましたが本当の私は調教されたがりな変態女で心の底からドM開発が大好きです。 河北麻衣",
+    "title": "MISM-169 我曾经扮演过一个对丈夫一往情深的已婚女人，但真实的我是一个渴望被训练的变态女人，从心底里，我喜欢发展成为一个支配者。 川北舞",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "已婚妇女",
+      "单人作品",
       "人妻",
-      "巨乳",
       "SM",
-      "已婚妇女"
+      "巨乳"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2020-03-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221229-1/f963a4d860c6c47a607783df68403d9e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-169.jpg",
     "actress": [
+      "平野蒼",
       "河北麻衣"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-169"
@@ -869,20 +1260,22 @@ window.PAGE_DATA = [
   {
     "id": 82158,
     "IDcode": "MISM-170",
-    "title": "尻穴中毒狂嬢",
+    "title": "MISM-170 尻穴中毒狂嬢",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "肛交",
+      "双穴",
       "姐姐",
-      "滥交",
-      "二穴同时挿入"
+      "肛交",
+      "肛门",
+      "二穴同时挿入",
+      "滥交"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2020-03-25",
-    "cover_url": "https://tuaskbgnekr.com/20221126/qQordUKk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-170.jpg",
     "actress": [
       "藤谷咲"
     ],
@@ -891,37 +1284,52 @@ window.PAGE_DATA = [
   {
     "id": 529300,
     "IDcode": "MISM-171",
-    "title": "肛门尖叫～大臀屁眼中毒Ｍ女",
+    "title": "MISM-171 肛门尖叫 大屁股肛门上瘾 М-情妇",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "双穴",
+      "内射",
+      "肛门",
+      "重口味",
+      "巨臀",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-171.jpg",
+    "actress": [
+      "佐倉陽菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-171"
   },
   {
     "id": 77173,
     "IDcode": "MISM-172",
-    "title": "えむっ娘ユーザーTさん撮影作品 SNSで見つけたどちゃくそアナルがしたいパーティ系ケツ穴ヤリマンマゾ娘をラブホで肛門調教した後ハプバーで豪快にアナル乱交かましてやりました。 裏垢肛門パリピスト 穴にゃん（ゆの）26歳",
+    "title": "MISM-172 Emu Musume 用户 T 的拍摄 在爱情旅馆进行肛交训练后，她去了一家 hap 酒吧，并与她在社交网站上找到的一名派对女郎进行了肛交狂欢。 Ana-nyan (Yuno), 26 岁",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "业余",
-      "二穴同时挿入",
-      "乱交",
+      "下流",
+      "双穴",
+      "肛交",
       "淫乱，真实",
-      "滥交",
-      "肛交"
+      "肛门",
+      "素人",
+      "乱交",
+      "重口味",
+      "二穴同时挿入",
+      "滥交"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1289370bba2da8b92e456e95c010ee74.jpg",
+    "publish_date": "2020-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-172.jpg",
     "actress": [
       "要ゆの"
     ],
@@ -930,49 +1338,69 @@ window.PAGE_DATA = [
   {
     "id": 529299,
     "IDcode": "MISM-175",
-    "title": "顺从的屁眼女仆收藏",
+    "title": "MISM-175 肛门 W 疯狂 顺从的肛门女仆集合 Mihina Yukina Sakurami",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "肛门",
+      "灌肠",
+      "滥交",
+      "女仆",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/04/82048_cover_2025-06-04_234003.jpg",
-    "actress": [],
+    "publish_date": "2020-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-175.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "叶芽ゆきな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-175"
   },
   {
     "id": 555394,
     "IDcode": "MISM-176",
-    "title": "史上最疯狂的精液逆转Deep Throating Akira Erie，直到精子被吐出 - 晶爱丽 (新井爱丽，大泽佑香)",
+    "title": "MISM-176 史上最疯狂的精液反向口交，插入直到她吐出精液，让她喝下艾丽-阿基拉的精液",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "单人作品",
+      "调教",
+      "SM",
+      "射精",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/04/15928_cover_2025-06-04_233302.jpg",
-    "actress": [],
+    "publish_date": "2020-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-176.jpg",
+    "actress": [
+      "晶エリー"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-176"
   },
   {
     "id": 88069,
     "IDcode": "MISM-182",
-    "title": "兵庫県出身のお嬢様大学生のイラマチオで失神絶頂したい願望 上京喉奥物語 るかちゃん",
+    "title": "MISM-182 来自兵库县的年轻女大学生渴望达到高潮，因irrumatio Kamikyo Throat Story Ruka-chan 而昏厥。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
       "美少女电影",
-      "深喉",
-      "淫乱，真实"
+      "美少女",
+      "淫乱，真实",
+      "重口味",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/65d6acc037219e7d35898f256373054f.jpg",
+    "publish_date": "2020-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-182.jpg",
     "actress": [
       "流川帆波"
     ],
@@ -981,159 +1409,235 @@ window.PAGE_DATA = [
   {
     "id": 529298,
     "IDcode": "MISM-184",
-    "title": "正统绝闷口交 Ver",
+    "title": "MISM-184 正统的极端痛苦 irrumatio ver.",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "虐待",
+      "巨乳",
+      "深喉",
+      "滥交"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-184.jpg",
+    "actress": [
+      "河西乃愛"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-184"
   },
   {
     "id": 470565,
     "IDcode": "MISM-186",
-    "title": "腹パンされて膣濡らす 緊縛されて白目イキ 喉奥責めで嗚咽良し 歪な性欲マゾ解放記念日 まゆみさん26歳\t塩見彩",
+    "title": "MISM-186 肚脐和阴道湿润，束缚和白眼，呜咽好与深喉咙折磨，周年纪念释放扭曲的性受虐狂 Mayumi，26 岁。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "SM",
+      "美少女",
+      "拘束",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d9178b4e7d663df4ff84f2/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-186.jpg",
+    "actress": [
+      "塩見彩"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-186"
   },
   {
     "id": 470559,
     "IDcode": "MISM-188",
-    "title": "喉奥ワンダーランド 泣けど嘔吐けど止まらない最狂ハードイラマチオ 樋口三葉",
+    "title": "MISM-188 喉咙奇观 哭泣、呕吐却停不下来，最疯狂的用力口交 樋口光夏",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "单人作品",
+      "重口味",
+      "拘束",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d90f0a4e7d663df4ff84de/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-188.jpg",
+    "actress": [
+      "樋口三葉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-188"
   },
   {
     "id": 470568,
     "IDcode": "MISM-189",
-    "title": "尻穴界の新星 肛門深すぎ女 春香",
+    "title": "MISM-189 屁眼界的后起之秀，肛门太深的女人。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "双穴",
+      "肛门",
+      "滥交",
+      "SM",
+      "苗条"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/18/67d91a7c4e7d663df4ff84f8/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-189.jpg",
+    "actress": [
+      "川菜美铃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-189"
   },
   {
     "id": 592847,
     "IDcode": "MISM-190",
-    "title": "女优不详新人 喉ボコ×デスイラマ",
+    "title": "MISM-190 新人喉博科 x Desuirama。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "滥交",
+      "虐待",
+      "深喉",
+      "姐姐"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://pic53.anzise.com/pic/20230518/b33e7819798f6525c9f81f318ec20f63/1.jpg",
-    "actress": [],
+    "publish_date": "2020-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-190.jpg",
+    "actress": [
+      "七宮ゆりあ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-190"
   },
   {
     "id": 592823,
     "IDcode": "MISM-196",
-    "title": "うずうず…私、3穴パコられに来ちゃいました 极悪マゾ悟り素人オフ会 応募：ケツ喉マ●コちゃん",
+    "title": "MISM-196 我太饥渴了......我在这里被三个洞包住了！ 极端受虐开明的业余爱好者线下聚会 申请：屁股-喉咙-阴-子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "双穴",
+      "肛门",
+      "素人",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://pic48.anzise.com/pic/20230324/afcec1d9702e484c70446b073f7dc868/1.jpg",
-    "actress": [],
+    "publish_date": "2021-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-196.jpg",
+    "actress": [
+      "川原かなえ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-196"
   },
   {
     "id": 218678,
     "IDcode": "MISM-198",
-    "title": "肛門解禁-七瀬ひまり",
+    "title": "MISM-198 肛门解禁 被迫开花的大花菊花 七濑绯里",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "肛门",
+      "重口味",
+      "单人作品",
+      "滥交",
+      "拘束"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/081444327ce44cf4eec7fd0b5a99bcfc.jpg",
-    "actress": [],
+    "publish_date": "2021-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-198.jpg",
+    "actress": [
+      "七瀬ひまり"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-198"
   },
   {
     "id": 536735,
     "IDcode": "MISM-199",
-    "title": "肛门解禁 ブレイントリップケツ穴マゾ娘 花咲かすみ",
+    "title": "MISM-199 肛门释放 Braintrip 屁眼受虐女孩 Kasumi Hanasaki",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "女同",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "滥交",
+      "SM"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231127/mism199pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-199.jpg",
+    "actress": [
+      "神納花",
+      "叶月桃",
+      "花咲かすみ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-199"
   },
   {
     "id": 588959,
     "IDcode": "MISM-207",
-    "title": "最高级强迫口交专家佐伯由美香的私人喉头锻錬 佐伯由美香",
+    "title": "MISM-207 顶级伊鲁玛专家佐伯由美嘉（Yumika Saeki）的私人喉咙后部训练。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "滥交",
+      "荡妇",
+      "深喉",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/21/26242_cover_2025-07-21_153628.jpg",
-    "actress": [],
+    "publish_date": "2021-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-207.jpg",
+    "actress": [
+      "佐伯由美香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-207"
   },
   {
     "id": 79644,
     "IDcode": "MISM-209",
-    "title": "最狂イラマチオ秘書 W喉凹献身SP 塩見彩 一条みお",
+    "title": "MISM-209 Craziest Irrumatio Secretary W Throat Concave Devotion SP Aya Shiomi Mio Ichijo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫乱，真实",
-      "滥交",
-      "4小时以上作品",
+      "下流",
       "秘书",
-      "深喉"
+      "淫乱，真实",
+      "重口味",
+      "4小时以上作品",
+      "4小时以上",
+      "深喉",
+      "滥交"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-08-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/eda42f1dc6546939b81ce288c8c36605.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-209.jpg",
     "actress": [
+      "一条美緒",
+      "塩見彩",
       "一条美绪",
       "塩见彩"
     ],
@@ -1142,41 +1646,50 @@ window.PAGE_DATA = [
   {
     "id": 79521,
     "IDcode": "MISM-210",
-    "title": "最狂喉奥育成会 大森優里",
+    "title": "MISM-210 最狂喉奥育成会 大森優里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "深喉",
-      "滥交",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "2021-08-25",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220929-1/cf9814284d92260dfa7a534f5ce40f11.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-210"
-  },
-  {
-    "id": 79561,
-    "IDcode": "MISM-211",
-    "title": "肛門喉奥膣穴 欲張り3ツ穴マゾファッカー 望月あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
+      "下流",
       "淫乱，真实",
+      "单人作品",
+      "重口味",
       "滥交",
-      "肛交",
+      "巨乳",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-08-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/aa7bf0c201288a3e508100e84bdf6ca9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-210.jpg",
+    "actress": [
+      "大森優里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-210"
+  },
+  {
+    "id": 79561,
+    "IDcode": "MISM-211",
+    "title": "MISM-211 肛门喉咙阴道穴贪婪的三穴受虐狂性交者望月绫香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "肛交",
+      "淫乱，真实",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "滥交",
+      "巨乳",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "えむっ娘ラボ",
+    "publish_date": "2021-08-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-211.jpg",
     "actress": [
       "望月綾香"
     ],
@@ -1185,57 +1698,76 @@ window.PAGE_DATA = [
   {
     "id": 85590,
     "IDcode": "MISM-215",
-    "title": "極限尻穴調教 覚醒肛門オルガズム 大森優里",
+    "title": "MISM-215 极限屁眼训练 兴奋肛门高潮 Yuri Omori",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
+      "BBW",
       "肛交",
-      "滥交",
       "淫乱，真实",
-      "胖女人"
+      "肛门",
+      "单人作品",
+      "胖女人",
+      "重口味",
+      "滥交"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-09-28",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230126-1/ba13624839ae887b73613720b82e0b63.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-215.jpg",
+    "actress": [
+      "大森優里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-215"
   },
   {
     "id": 470689,
     "IDcode": "MISM-219",
-    "title": "自分の限界知りたくて自ら志願 気持ち良くて泣くマゾ イラマチオで喉奥イキ 初愛寧寧",
+    "title": "MISM-219 自愿了解自己的极限、因为感觉太好而哭泣、受虐狂、深喉深吸、初恋、妮妮。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "重口味",
+      "单人作品",
+      "SM",
+      "巨乳",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb54ebcf22ae3e04f0f53b/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-10-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-219.jpg",
+    "actress": [
+      "初愛寧寧"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-219"
   },
   {
     "id": 85589,
     "IDcode": "MISM-220",
-    "title": "肛門をもっと開発して欲しい。苦痛を全て快楽に変えたい。 アナルカミングアウト 本当の私を見てください。 三穴を差し出し限界を超えた快楽に浸る。AV女優日泉舞香の性癖告白ドキュメント",
+    "title": "MISM-220 我想让我的肛门更加发达。我想把所有的痛苦变成快乐。 肛门即将开放，请看真实的我。 献出她的三个洞，尽情享受超越极限的快感：色情明星 Maika Hiizumi 的性嗜好自白记录。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "无码破解",
-      "美少女电影",
-      "SM",
       "肛交",
+      "美少女电影",
+      "美少女",
+      "肛门",
+      "无码破解",
+      "单人作品",
+      "SM",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-11-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230126-1/a7ab7b2c05a848c0646520ac4bb94567.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-220.jpg",
     "actress": [
       "日泉舞香"
     ],
@@ -1244,42 +1776,48 @@ window.PAGE_DATA = [
   {
     "id": 85597,
     "IDcode": "MISM-221",
-    "title": "イラマッチングアプリ 七宮ゆりあ",
+    "title": "MISM-221 照明匹配应用 七宫由里亚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
+      "淫乱，真实",
+      "单人作品",
+      "重口味",
       "姐姐",
       "SM",
-      "深喉",
-      "淫乱，真实"
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-11-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-221.jpg",
     "actress": [
-      "七宫ゆりあ"
+      "七宫ゆりあ",
+      "七宮ゆりあ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-221"
   },
   {
     "id": 85599,
     "IDcode": "MISM-222",
-    "title": "最狂喉凹ピンサロ嬢 竹田まい",
+    "title": "MISM-222 武田舞（Mai Takeda），最疯狂的喉咙凹陷平沙龙女孩。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "礼仪小姐",
-      "SM",
+      "女招待",
+      "单人作品",
       "滥交",
+      "SM",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-11-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-222.jpg",
     "actress": [
       "今井まい"
     ],
@@ -1288,50 +1826,62 @@ window.PAGE_DATA = [
   {
     "id": 85604,
     "IDcode": "MISM-223",
-    "title": "喉凹姉妹 七宮ゆりあ 前乃菜々",
+    "title": "MISM-223 凹喉妹妹 七宫由里亚 前野奈奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "妹妹",
       "美少女电影",
-      "深喉",
-      "滥交"
+      "美少女",
+      "妹妹",
+      "滥交",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2021-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/d6071a6e4635b8779d8f52692f7626b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-223.jpg",
     "actress": [
       "前乃菜菜",
-      "七宫ゆりあ"
+      "七宫ゆりあ",
+      "七宮ゆりあ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-223"
   },
   {
     "id": 525705,
     "IDcode": "MISM-229",
-    "title": "自ら応募した美人大学生に残酷イラマチオ服従物语 喉破壊DEBUT あみちゃん",
+    "title": "MISM-229 美丽的女大学生被残酷的摧残所征服的故事。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "重口味",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230224/mism229pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-01-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-229.jpg",
+    "actress": [
+      "戸川あゆ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-229"
   },
   {
     "id": 85574,
     "IDcode": "MISM-231",
-    "title": "アリス in 肛門ランド 乙アリス",
+    "title": "MISM-231 爱丽丝肛门乐园 B-爱丽丝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "肛交",
+      "肛门",
+      "单人作品",
       "SM",
       "单体作品",
       "巨乳"
@@ -1339,7 +1889,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-231.jpg",
     "actress": [
       "乙愛麗絲"
     ],
@@ -1348,48 +1898,61 @@ window.PAGE_DATA = [
   {
     "id": 85577,
     "IDcode": "MISM-232",
-    "title": "大学では教えてくれないマゾファック性育。 森川華名",
+    "title": "MISM-232 大学不进行受虐狂性教育 森川花名",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "淫乱，真实",
-      "SM",
-      "多P",
+      "下流",
+      "3P",
       "肛交",
+      "4P",
+      "淫乱，真实",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "多P",
+      "SM",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-02-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/3110d7ef9a610092ca6788a126f0b98e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-232.jpg",
     "actress": [
+      "铃木里美",
       "鲛岛",
       "タイ",
-      "白沢比吕"
+      "白沢比吕",
+      "森川華名"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-232"
   },
   {
     "id": 80721,
     "IDcode": "MISM-233",
-    "title": "雌穴遊戯 プッシーtoイラマチオ 前乃菜々",
+    "title": "MISM-233 女性洞穴游戏 Pussy to irrumatio Nana Maeno",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "美少女电影",
-      "淫乱，真实",
-      "滥交",
+      "下流",
       "女佣",
+      "美少女电影",
+      "美少女",
+      "淫乱，真实",
+      "重口味",
+      "单人作品",
+      "滥交",
+      "单体作品",
+      "女仆",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-03-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/03220caa4730cd6dc097a4ed78253f51.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-233.jpg",
     "actress": [
       "前乃菜菜"
     ],
@@ -1398,20 +1961,24 @@ window.PAGE_DATA = [
   {
     "id": 80722,
     "IDcode": "MISM-234",
-    "title": "圧倒的肛門沼 最狂アナルモンスター 望月あやか",
+    "title": "MISM-234 铺天盖地的肛门沼泽 疯狂的肛门怪物望月绫香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
       "肛交",
+      "淫乱，真实",
+      "肛门",
+      "单人作品",
+      "重口味",
       "姐姐",
-      "单体作品",
-      "淫乱，真实"
+      "单体作品"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683ffefc0b69f1d81659e60e/cover.jpg",
+    "publish_date": "2022-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-234.jpg",
     "actress": [
       "望月綾香"
     ],
@@ -1420,71 +1987,94 @@ window.PAGE_DATA = [
   {
     "id": 565871,
     "IDcode": "MISM-235",
-    "title": "真正ノドキチ女 喉凹SUPER4シチュエーション あかりちゃん",
+    "title": "MISM-235 真正的点头吉女人，喉咙凹陷 SUPER4 情况，Akari。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "重口味",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e40c7df6b92f63fcc4d5b1a00598b1d.jpg",
-    "actress": [],
+    "publish_date": "2022-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-235.jpg",
+    "actress": [
+      "綾瀬さくら"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-235"
   },
   {
     "id": 80740,
     "IDcode": "MISM-236",
-    "title": "母乳ダダ漏れ 美人若妻アナルファッカー",
+    "title": "MISM-236 母亲的乳汁渗出 美丽少妇的肛门操器",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "少妇",
+      "肛交",
+      "新娘",
+      "肛门",
       "灌肠",
       "母乳",
-      "肛交",
-      "深喉",
-      "新娘，年轻妻子"
+      "新娘，年轻妻子",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-03-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c977ec65d7e9b663bdb929f82d6e6220.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-236.jpg",
+    "actress": [
+      "杉崎みさき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-236"
   },
   {
     "id": 565870,
     "IDcode": "MISM-239",
-    "title": "屁眼姬的肛门贯通白皮书",
+    "title": "MISM-239 完全唤醒 屁眼公主京香的肛门插入白皮书。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "重口味",
+      "肛门"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a5237a6acf3070d21056f7f4f0c0628f.jpg",
-    "actress": [],
+    "publish_date": "2022-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-239.jpg",
+    "actress": [
+      "鈴音杏夏"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-239"
   },
   {
     "id": 85530,
     "IDcode": "MISM-243",
-    "title": "ドMでSEX大好き筋トレインフルエンサーの喉チ○コをクリトリス並の敏感性感帯に調教して喉ポルチオでイラマオーガズム",
+    "title": "MISM-243 训练支配性爱的肌肉训练影响者的喉部阴茎，使其像阴蒂一样敏感，用喉部阴茎达到性高潮。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "深喉",
-      "SM",
       "恋物癖",
-      "淫乱，真实"
+      "恋物",
+      "下流",
+      "淫乱，真实",
+      "重口味",
+      "SM",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-06-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/d6b3d9bb73d63223bf83e3c40eccd7e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-243.jpg",
     "actress": [
       "倉與田"
     ],
@@ -1493,82 +2083,96 @@ window.PAGE_DATA = [
   {
     "id": 85594,
     "IDcode": "MISM-244",
-    "title": "真性ケツ穴看護師デビュー 3穴すべてをイジメ抜いてください。",
+    "title": "MISM-244 真正的屁眼护士首次亮相 挑逗所有三个洞。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
+      "3P",
+      "出道作",
+      "肛交",
+      "4P",
+      "肛门",
       "首次亮相",
       "多P",
-      "肛交",
+      "巨乳",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-06-28",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2e617cfdcca855ea708a31f5d722952d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-244.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-244"
   },
   {
     "id": 85588,
     "IDcode": "MISM-245",
-    "title": "喉椿 しおかわ雲丹",
+    "title": "MISM-245 喉茶花 Shikawawa Undan",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "滥交",
       "单体作品",
       "深喉",
-      "滥交"
+      "单人作品"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-07-26",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230126-1/61dbd0f1276b0223a15c9f47a749c831.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-245.jpg",
+    "actress": [
+      "石川雲丹"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-245"
   },
   {
     "id": 85534,
     "IDcode": "MISM-246",
-    "title": "応募いらまがーる。全力素人！喉奥でイッちゃった！（2）",
+    "title": "MISM-246 申请 Iramagaaru。完全业余我的喉咙深陷其中！(2)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "业余",
+      "下流",
       "淫乱，真实",
       "猎艳",
-      "深喉",
-      "素人"
+      "素人",
+      "重口味",
+      "搭讪",
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-07-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/7ddc08595440ee341da87d4f10deedfc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-246.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-246"
   },
   {
     "id": 87019,
     "IDcode": "MISM-247",
-    "title": "肛門喉奥膣穴-音琴るい",
+    "title": "MISM-247 肛门喉咙阴道洞口贪婪的三孔受虐狂操逼者 Rui Otokoto",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "淫乱，真实",
-      "滥交",
+      "下流",
       "肛交",
+      "淫乱，真实",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "滥交",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/f4c8622f7a76c5c37d91af59a7ce8351.jpg",
+    "publish_date": "2022-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-247.jpg",
     "actress": [
       "妃月るい"
     ],
@@ -1577,77 +2181,102 @@ window.PAGE_DATA = [
   {
     "id": 588039,
     "IDcode": "MISM-248",
-    "title": "请你看最真实的我。我是一个很悲观的人 很没有自信…唯一最有自信的就是性爱！ 花狩舞",
+    "title": "MISM-248 走出来 看看真实的我。 我很消极，从不自信。唯一能让我自信的事情就是被搞得一团糟。 如果没有发生，请把我当成一件物品，而不是一件可怜的东西。色情明星花加里舞（Mai Hanakari）对自己性取向的坦白文件。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "重口味",
+      "单人作品",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250821/stTcqvPz/1.jpg",
-    "actress": [],
+    "publish_date": "2022-08-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-248.jpg",
+    "actress": [
+      "花狩舞"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-248"
   },
   {
     "id": 103940,
     "IDcode": "MISM-249",
-    "title": "喉凹ダイヤモンド まい",
+    "title": "MISM-249 喉部凹面钻石 Mai",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
       "美少女电影",
+      "美少女",
+      "淫乱，真实",
+      "重口味",
       "SM",
-      "深喉",
-      "淫乱，真实"
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-08-23",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-249.jpg",
+    "actress": [
+      "白川柚子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-249"
   },
   {
     "id": 73412,
     "IDcode": "MISM-250",
-    "title": "私…エグイ程、精子が大好き 喉奥精飲女 みゆちゃん",
+    "title": "MISM-250 我......太爱精子了，让喉咙深处嗜精如命的 Miyu-chan 恶心不已",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "下流",
+      "3P",
+      "4P",
       "吞精",
       "淫乱，真实",
-      "SM",
+      "重口味",
       "多P",
+      "SM",
+      "射精",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/63b15e66735b3e69b267e30caca53f7f.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-250.jpg",
+    "actress": [
+      "盛岡みゆ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-250"
   },
   {
     "id": 85595,
     "IDcode": "MISM-251",
-    "title": "喉凹イラマ、緊縛蝋燭、鼻フック…お前のデビュー無茶苦茶にしてやるよ 全力でぶっ壊す。純朴純真ドマゾ美少女 超バイオレンスお披露目会 篠宮花音",
+    "title": "MISM-251 深喉灌肠、捆绑蜡烛、鼻钩......我要让你的首秀荒诞不经，我要用我的一切摧毁你。纯洁无暇的受虐美少女，超级暴力的揭幕，筱宫加农。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
+      "出道作",
       "捆绑",
       "首次亮相",
+      "拘束",
+      "单人作品",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-09-27",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ebf4494c5fb1f6f786cdddff241a193e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-251.jpg",
     "actress": [
+      "篠宮友里",
       "鲛岛",
       "篠宮花音"
     ],
@@ -1656,64 +2285,75 @@ window.PAGE_DATA = [
   {
     "id": 85547,
     "IDcode": "MISM-252",
-    "title": "最狂喉凹ピンサロ嬢 白鳥すわん",
+    "title": "MISM-252 最疯狂的喉部凹陷销魂女孩--白鸟素云（Suwan Shiratori）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "美少女电影",
       "礼仪小姐",
+      "美少女电影",
+      "美少女",
+      "女招待",
+      "单人作品",
       "SM",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-09-27",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230621-1/27110563accf27435052d3e784ddc987.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-252.jpg",
     "actress": [
-      "白鸟すわん"
+      "白鸟すわん",
+      "白鳥すわん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-252"
   },
   {
     "id": 85563,
     "IDcode": "MISM-253",
-    "title": "鍛鍊而成至高的乳頭 汐川雲丹",
+    "title": "MISM-253 训练有素、至高无上的乳头 Undan Shikawa",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "无码破解",
+      "单人作品",
+      "滥交",
       "单体作品",
-      "深喉",
-      "滥交"
+      "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-09-27",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/640c298c323ef5b206b26993ef0344b2.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-253.jpg",
+    "actress": [
+      "石川雲丹"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-253"
   },
   {
     "id": 85602,
     "IDcode": "MISM-254",
-    "title": "喉頭小穴陰道肛門狂亂3穴都吞下的變態被虐辣妹直播主 夏目未來",
+    "title": "MISM-254 喉咙阴道阴道肛门狂热3孔轮只有变态受虐狂女孩爱好者Mirai Natsume",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "淫乱，真实",
-      "SM",
+      "下流",
       "肛交",
+      "淫乱，真实",
+      "肛门",
+      "单人作品",
+      "重口味",
+      "SM",
+      "单体作品",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
     "publish_date": "2022-10-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/0d5cc5df8e458a49b700ee08ede669b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-254.jpg",
     "actress": [
       "夏目未來"
     ],
@@ -1722,22 +2362,26 @@ window.PAGE_DATA = [
   {
     "id": 92354,
     "IDcode": "MISM-255",
-    "title": "想被强奸的人-有加里ののか",
+    "title": "MISM-255 20 岁的纯洁主义者希望被玷污 Z 世代是一个渴望被强奸的受虐狂。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "吞精",
-      "单体作品",
       "美少女电影",
+      "吞精",
+      "美少女",
+      "单人作品",
       "滥交",
+      "单体作品",
+      "射精",
       "深喉"
     ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/993f89c0e1af1b7a75836f11deea73d7.jpg",
+    "publish_date": "2022-12-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-255.jpg",
     "actress": [
+      "有加里乃乃花",
       "鲛岛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-255"
@@ -1745,121 +2389,172 @@ window.PAGE_DATA = [
   {
     "id": 222348,
     "IDcode": "MISM-257",
-    "title": "超级国宝级的肛交高手-望月あやか",
+    "title": "MISM-257 超级国宝级肛交师太深，看不到她的阴部招待 Sin 唤醒屁股洞的肥皂女孩 Ayaka Mochizuki。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "潮吹",
+      "肛门",
+      "单人作品",
+      "润滑液",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/94a2a3d4db1f68e0840ef03a50bccbce.jpg",
-    "actress": [],
+    "publish_date": "2023-01-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-257.jpg",
+    "actress": [
+      "望月綾香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-257"
   },
   {
     "id": 564446,
     "IDcode": "MISM-258",
-    "title": "肛门喉奥膣穴欲张り3ツ穴マゾファッカー",
+    "title": "MISM-258 肛门喉咙阴道穴贪婪的三穴受虐狂操逼者 Hina Serizawa",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "肛门",
+      "重口味",
+      "单人作品",
+      "滥交",
+      "荡妇",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230510/sOXKoL1w/1.jpg",
-    "actress": [],
+    "publish_date": "2023-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-258.jpg",
+    "actress": [
+      "芹沢ひな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-258"
   },
   {
     "id": 563742,
     "IDcode": "MISM-259",
-    "title": "喉凹処女 最狂イラマ向上委员会2人同时お披露目SP vol.② まちちゃん れんちゃん",
+    "title": "MISM-259 凹喉处女 - 疯狂灌肠改良委员会 - 两名成员同时亮相 SP vol.2 Machi-chan, Ritsuren-chan",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "美少女",
+      "素人",
+      "重口味",
+      "SM",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/1IE0z3yC/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-259.jpg",
+    "actress": [
+      "幾田真知",
+      "藤野つかさ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-259"
   },
   {
     "id": 549674,
     "IDcode": "MISM-260",
-    "title": "120分止まらないノンストップ呜咽！！激スプラッシュ喉奥调教イラマパーティー ご招待リナちゃん",
+    "title": "MISM-260 120 分钟的不停啜泣密集喷溅深喉训练和深喉灌洗派对邀请函：Rina",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "重口味",
+      "调教",
+      "滥交",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230308/GwoY6lcd/1.jpg",
-    "actress": [],
+    "publish_date": "2023-02-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-260.jpg",
+    "actress": [
+      "美月リナ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-260"
   },
   {
     "id": 564629,
     "IDcode": "MISM-261",
-    "title": "146cm［无毛］いちか 祝贯通！！つるつるリトル喉に极悪チ●ポ 最狂イラマチオ",
+    "title": "MISM-261 146 厘米 无毛 Ichika 庆祝插入！极致的鸡巴插入湿滑的小喉咙",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "3P",
+      "迷你",
+      "4P",
+      "重口味",
+      "SM",
+      "辣妹",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230307/1kwysRUC/1.jpg",
-    "actress": [],
+    "publish_date": "2023-02-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-261.jpg",
+    "actress": [
+      "天海一華"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-261"
   },
   {
     "id": 549397,
     "IDcode": "MISM-262",
-    "title": "肛门フィスト解禁 HAND IN アナル狂の絶顶ケツ穴アドベンチャーSP",
+    "title": "MISM-262 Anal Fist Liberation HAND IN Anal Madness Climax Asshole Adventure SP Ayaka Mochizuki",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "拳交",
+      "3P",
+      "4P",
+      "肛门",
+      "重口味",
+      "单人作品",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-262.jpg",
+    "actress": [
+      "望月綾香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-262"
   },
   {
     "id": 549396,
     "IDcode": "MISM-263",
-    "title": "アナル喉奥マ〇コ最狂赘沢3穴フルコース深～くホジクリ轮奸してブッ飞び笑颜全穴快楽者の优雅な休日",
+    "title": "MISM-263 肛门喉咙深处的阴户 疯狂奢华的三孔全套课程 深深束缚环抱的灿烂笑容，全孔取悦者的优雅假日性交 健康的公司员工 Misa。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "下流",
+      "肛门",
+      "重口味",
+      "荡妇",
+      "深喉"
+    ],
     "type": "有码",
     "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MISM-263.jpg",
+    "actress": [
+      "前乃菜菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-263"
-  },
-  {
-    "id": 564539,
-    "IDcode": "MISM-264",
-    "title": "喉凹マリーゴールド ～贵方のぬくもりに～晴れた日だから…溢れる想いとエヅキ大好きが止まらない",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "えむっ娘ラボ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230418/pShoTkAn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-264"
   }
 ];

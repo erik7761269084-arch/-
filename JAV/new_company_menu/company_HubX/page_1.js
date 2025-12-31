@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HubX",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240528/sl6dZhWi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECBM-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECBM-003"
   },
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HubX",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240801/c8vMERjH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECBM-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECBM-005"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HubX",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/f3df586b/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECBM-011.jpg",
     "actress": [
       "小那海綾"
     ],
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "HubX",
     "publish_date": "2025-06-28",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224634991991_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ECBM-012.jpg",
     "actress": [
       "小那海綾"
     ],

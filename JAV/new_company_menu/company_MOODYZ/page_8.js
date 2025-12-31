@@ -1,154 +1,269 @@
 window.PAGE_DATA = [
   {
-    "id": 100611,
-    "IDcode": "MIAA-802",
-    "title": "淫荡女人-花柳杏奈",
+    "id": 456361,
+    "IDcode": "MIAA-800",
+    "title": "MIAA-800 一个已服刑 10 年的强奸犯在一个被禁止进行性行为的妓女身上，用他那淫荡狂野的鸡巴生生干了她。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "巨乳",
-      "单体作品",
-      "美容院",
-      "中出",
-      "淫语"
+      "重口味",
+      "下流",
+      "内射",
+      "监禁",
+      "颜射",
+      "单人作品",
+      "女招待"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c1853e7e672bea5f78d22/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-800.jpg",
+    "actress": [
+      "横宮七海",
+      "畑中哲也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-800"
+  },
+  {
+    "id": 77562,
+    "IDcode": "MIAA-801",
+    "title": "MIAA-801 FANZA 独家报道 童年好友的巨乳被窥见-童年好友的不知不觉的诱惑，她从小就不穿胸罩来玩，无法抗拒日益增长的美丽乳房......新井理马带来 3 张新鲜照片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "内射",
+      "乳交",
+      "美少女电影",
+      "中出",
+      "美少女",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-801.jpg",
+    "actress": [
+      "新井里真"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-801"
+  },
+  {
+    "id": 100611,
+    "IDcode": "MIAA-802",
+    "title": "MIAA-802 FANZA 独家 绝对连拍-Megumi 近距离接触耳语淫荡语言淫荡女人嫩肤护理-Anna Hanayagi-包含 3 张新鲜照片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "美容院",
+      "美容店",
+      "内射",
+      "淫语",
+      "脏话",
+      "中出",
+      "荡妇",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-802.jpg",
+    "actress": [
+      "花柳杏奈",
+      "武田大树",
+      "平田司"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-802"
   },
   {
     "id": 549533,
     "IDcode": "MIAA-804",
-    "title": "喉ボコ颜面マ〇コ女 お下劣エグ乳首引っ张りイラマチオ女上司人间卒业SP",
+    "title": "MIAA-804 喉咙晃动的脸阴部女人卑鄙恶劣的乳头拉扯和irrumatio女老板人类毕业SP志川Undan (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "3P",
+      "下流",
+      "4P",
+      "深喉",
+      "OL",
+      "单人作品",
+      "虐待"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230327/Xjv8GUv5/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-804.jpg",
+    "actress": [
+      "石川雲丹"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-804"
   },
   {
     "id": 579216,
     "IDcode": "MIAA-805",
-    "title": "亲父の再婚で突然できた妹と仆のゴミ部屋でまさかの相部屋。3次元女性に我慢できず抜かずの连撃中出し 日向ひかげ",
+    "title": "MIAA-805 父亲再婚后，我和妹妹突然发现我们在同一个房间里，我忍不住给一个三维立体的女人做了一系列的插入而没有拔出来。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "潮吹",
+      "制服",
+      "妹妹",
+      "单人作品",
+      "Cosplay"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-805.jpg",
+    "actress": [
+      "日向ひかげ",
+      "くりぼ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-805"
   },
   {
     "id": 579215,
     "IDcode": "MIAA-807",
-    "title": "男を见下す生意気パパ活J系を拘束スローピストンで中出しまでの反応を楽しみながらわからせたい さつき芽衣",
+    "title": "MIAA-807 我想让看不起男人的自大的爸爸 J-kei 理解，同时享受他们对克制慢活塞的反应，直到 Nakadashi（蓝光光盘）（BOD）Mei Satsuki。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "拘束",
+      "内射",
+      "制服",
+      "女学生",
+      "美少女",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230328/xaNkrc35/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-807.jpg",
+    "actress": [
+      "沙月芽衣",
+      "吉村卓"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-807"
   },
   {
     "id": 100548,
     "IDcode": "MIAA-809",
-    "title": "我的胸罩被偷了-綾瀬こころ",
+    "title": "MIAA-809 FANZA 独家 我的胸罩被偷了！ 晨练时，我把游泳社一位大胸前辈的胸罩藏了起来，她的乳头整天都变得透明，没穿胸罩的她勾引了我 Kokoro Ayase 包括 3 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
       "单体作品",
+      "内射",
+      "学校泳装",
+      "制服",
       "乳交",
       "中出",
-      "学校泳装",
-      "制服"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/5ec49fac31cf1a245f740eec288997e3.jpg",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-809.jpg",
     "actress": [
-      "绫濑心"
+      "绫濑心",
+      "平田司",
+      "芦田阳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-809"
   },
   {
     "id": 104426,
     "IDcode": "MIAA-810",
-    "title": "甜美笑容对着我看的妹妹-新井里真",
+    "title": "MIAA-810 FANZA限定 甜美笑容对着我看的妹妹 看到内裤夹在屁缝里面 理性大崩溃 暴走插入",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
+      "内衣",
       "单体作品",
+      "短裙",
+      "内射",
+      "制服",
+      "妹妹",
       "乱伦",
       "中出",
-      "内衣",
-      "妹妹",
-      "制服"
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/dbd57915aef85bf1fc4e5d869446c98e.jpg",
-    "actress": [],
+    "publish_date": "2023-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-810.jpg",
+    "actress": [
+      "新井里真",
+      "平ボンド"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-810"
   },
   {
     "id": 579258,
     "IDcode": "MIAA-811",
-    "title": "イラマチオNTR 初めて结ばれた仆の彼女が上级生のイイナリドMに成り下がっていたなんて... 円井萌华",
+    "title": "MIAA-811 FANZA 独家报道 Irrumatio NTR-我第一次联系的女友竟然是高年级学生的饭... 萌香丸井2张最新写真",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫妻"
+      "重口味",
+      "下流",
+      "内射",
+      "制服",
+      "深喉",
+      "NTR",
+      "淫妻",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230930/miaa811pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2023-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-811.jpg",
+    "actress": [
+      "円井萌華",
+      "结城结弦"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-811"
   },
   {
     "id": 77563,
     "IDcode": "MIAA-812",
-    "title": "一个大阴茎的男人-川すみれ",
+    "title": "MIAA-812 FANZA 独家报道 我是一个大鸡巴男人，一位已婚按摩师免费为我做春季按摩，她的丈夫是个早泄无籽男，我多次在他体内射出大量精液。 黑川堇（Sumire Kurokawa） 附 3 张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
-      "女上位",
+      "白天出轨",
+      "人妻",
+      "内射",
       "出轨",
-      "白天出轨"
+      "女上位",
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/28a646d9a82c4a4de31238951d4c6e27.jpg",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-812.jpg",
     "actress": [
       "黑川堇",
       "左慈半造"
@@ -158,165 +273,202 @@ window.PAGE_DATA = [
   {
     "id": 92155,
     "IDcode": "MIAA-813",
-    "title": "女友姐姐-藤森里穗",
+    "title": "MIAA-813 “咦？这是家居服？”女友的姐姐以性感服装诱惑他！理性崩溃直到精子逆流疯狂地射精中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演者",
       "巨乳",
       "单体作品",
+      "姐姐",
+      "白天出轨",
+      "内射",
+      "角色扮演者",
+      "NTR",
       "乱伦",
       "中出",
-      "姐姐",
-      "白天出轨"
+      "单人作品",
+      "Cosplay"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/6af4ed0a2e92f7c217ca9eb3a6ce927e.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-813.jpg",
     "actress": [
-      "藤森里穂"
+      "藤森里穂",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-813"
   },
   {
     "id": 77588,
     "IDcode": "MIAA-814",
-    "title": "吞精中出-日向日景",
+    "title": "MIAA-814 FANZA限定 我想要将精子大量射入快要哭出来的学妹",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
       "单体作品",
-      "口交",
+      "射精",
+      "内射",
+      "制服",
       "中出",
-      "制服"
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/3743a3b1bac9812af8e8f3514c8ce878.jpg",
+    "publish_date": "2023-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-814.jpg",
     "actress": [
-      "日向ひかげ"
+      "日向ひかげ",
+      "北山白"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-814"
   },
   {
     "id": 104443,
     "IDcode": "MIAA-815",
-    "title": "淫语三分钟-永井玛利亚 姫咲はな",
+    "title": "MIAA-815 Bakunyu Bakunyu Bakunyu Hiri-带走肢体动作和淫秽语言 Sandbig Lascivious Press！Megaton M sex harem Maria Nagai Himezaki Hana (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
-      "巨大屁股",
+      "3P",
+      "多P",
       "M男",
-      "多P"
+      "4P",
+      "荡妇",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/de4553dd2e6b8ee84f55e3c443be4734.jpg",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-815.jpg",
     "actress": [
       "姫咲華",
-      "永井瑪麗亞"
+      "永井瑪麗亞",
+      "大泽真司",
+      "吉野笃史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-815"
   },
   {
     "id": 104427,
     "IDcode": "MIAA-817",
-    "title": "看到人妻女教师的不伦场景-黑川堇",
+    "title": "MIAA-817 FANZA 独家报道：我发现一名已婚女教师有外遇，于是我没有让她给我封口费，而是雇她做了三天女佣，并让她用 Nakadashi 报答我。 黑川澄（Sumire Kurokawa） 附 3 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "角色扮演者",
-      "人妻",
-      "口交",
+      "3P",
       "单体作品",
+      "多P",
+      "人妻",
+      "内射",
+      "角色扮演者",
+      "4P",
       "中出",
-      "女教师",
-      "多P"
+      "口交",
+      "单人作品",
+      "Cosplay",
+      "女教师"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/3ce80837721154ba463a1a0f9a49f9cb.jpg",
+    "publish_date": "2023-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-817.jpg",
     "actress": [
       "黑川堇",
-      "日森一"
+      "日森一",
+      "芦田阳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-817"
   },
   {
     "id": 104428,
     "IDcode": "MIAA-818",
-    "title": "被迷惑女人的大肉棒極道患者盯上… 毎晩忍住不出聲被中出高潮的少妻護理師 末廣純",
+    "title": "MIAA-818 FANZA限定 年轻护士被一名长着大鸡巴的黑帮病人盯上，每晚低声中出的人妻护士",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
+      "3P",
+      "单体作品",
+      "多P",
+      "人妻",
+      "内射",
+      "4P",
       "护士",
       "已婚妇女",
-      "单体作品",
+      "凌辱",
       "中出",
-      "多P"
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/6f444b86e82c13a41cdedd58c21f65ac.jpg",
-    "actress": [],
+    "publish_date": "2023-04-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-818.jpg",
+    "actress": [
+      "末広純",
+      "小沢彻",
+      "吉村文孝"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-818"
   },
   {
     "id": 92156,
     "IDcode": "MIAA-819",
-    "title": "和部下的后庭性爱社内不伦-竹内夏希",
+    "title": "MIAA-819 我喜欢你，上司，把它插进我的屁眼里吧......我为肛交而疯狂与喜欢我的新毕业下属发生内部恋情。 竹内夏树 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
+      "内射",
+      "肛门",
+      "单人作品",
       "中出",
-      "苗条",
-      "肛交"
+      "口交",
+      "肛交",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/ad77ec9114b5c9217b70afe7a2697c47.jpg",
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-819.jpg",
     "actress": [
-      "竹内夏希"
+      "竹内夏希",
+      "皮埃尔剑"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-819"
   },
   {
     "id": 107548,
     "IDcode": "MIAA-822",
-    "title": "美人女将-黒川すみれ",
+    "title": "MIAA-822 清纯美女老板娘超喜欢年纪比她小的男生 通过中出次数来决定我的兼职工资",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
       "单体作品",
+      "内射",
+      "淫语",
+      "脏话",
       "中出",
-      "苗条",
-      "淫语"
+      "荡妇",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/0166703bcd4a8b5d627c8880ae2cc932.jpg",
+    "publish_date": "2023-03-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-822.jpg",
     "actress": [
       "黑川堇",
       "日森一"
@@ -326,197 +478,280 @@ window.PAGE_DATA = [
   {
     "id": 104424,
     "IDcode": "MIAA-823",
-    "title": "肉体自慰器-木下ひまり",
+    "title": "MIAA-823 FANZA 独家 播种成瘾的肉体自慰者 CA、飞行后受孕服务人员木下妃魅，3 张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
+      "重口味",
       "无码破解",
+      "单体作品",
+      "下流",
+      "内射",
       "连裤袜",
+      "丝袜",
+      "淫乱，真实",
       "中出",
-      "淫乱，真实"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/2de8006b2dbc05dae8ab02818306c54d.jpg",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-823.jpg",
     "actress": [
-      "木下日葵"
+      "木下日葵",
+      "东尼大木"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-823"
   },
   {
     "id": 456163,
     "IDcode": "MIAA-828",
-    "title": "引っ越してきた隣人は10年の刑期を終えたレ●プ魔だった… 再犯種付けレ●プで犯●れた美少女アイドル 圓井萌華",
+    "title": "MIAA-828 搬进来的邻居是个麻风病人，曾服刑10年......美丽的偶像萌卡-丸井，被播种麻风病人的惯犯强奸（蓝光光碟） (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "虐待",
+      "口交",
+      "内射",
+      "美少女",
+      "单人作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789e88ef9a2e9b1d4ad3f81/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-828.jpg",
+    "actress": [
+      "円井萌華",
+      "皮埃尔剑"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-828"
   },
   {
     "id": 564398,
     "IDcode": "MIAA-829",
-    "title": "びちゃびちゃ失禁ガールズバーおしっこ饮ませW圣水痴女",
+    "title": "MIAA-829 喋喋不休的失禁少女酒吧撒尿喝W圣水的淫荡女舞花狩野英川(蓝光影碟)(BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "放尿",
+      "辣妹",
+      "荡妇",
+      "苗条"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/HUOsrzr0/1.jpg",
-    "actress": [],
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-829.jpg",
+    "actress": [
+      "花狩舞",
+      "荣川乃亚",
+      "鲛岛健介",
+      "羽田贵史"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-829"
   },
   {
     "id": 77606,
     "IDcode": "MIAA-830",
-    "title": "乳頭被開發到足以高潮的瞬間突然停下 身體忍不住失禁的我... 末廣純",
+    "title": "MIAA-830 我，已经发育到可以用乳头射精的地步，即使在高潮的那一刻，我的乳头也不会受到影响，我已经变成了一个靠便便失禁来达到高潮的人......（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "重口味",
+      "3P",
       "单体作品",
-      "中出",
-      "淫乱，真实",
-      "放尿",
       "多P",
-      "白天出轨"
+      "下流",
+      "白天出轨",
+      "内射",
+      "4P",
+      "NTR",
+      "淫乱，真实",
+      "中出",
+      "放尿",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/0afa4da91629234428434d10cad8a9b6.jpg",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-830.jpg",
     "actress": [
-      "大岛丈"
+      "末広純",
+      "大岛丈",
+      "桥本诚吾"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-830"
   },
   {
     "id": 92157,
     "IDcode": "MIAA-831",
-    "title": "温柔义母-黑川堇",
+    "title": "MIAA-831 我成了垃圾房的爸爸，为了拯救婆婆的大屁股，我发情了，我背叛了婆婆，我的后背立刻连续被操！ 黑川堇 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
       "单体作品",
-      "巨大屁股",
+      "凌辱",
+      "内射",
+      "继母",
+      "单人作品",
+      "婆婆",
       "中出",
-      "婆婆"
+      "巨大屁股",
+      "巨臀",
+      "虐待"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/afc75b8d19355d9ea0f2058d8fa6ba85.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-831.jpg",
     "actress": [
-      "黑川堇"
+      "黑川堇",
+      "桥本诚吾"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-831"
   },
   {
     "id": 564351,
     "IDcode": "MIAA-832",
-    "title": "超高级中出し専门ソープ",
+    "title": "MIAA-832 超高级 Nakadashi 特效肥皂 Nogi Ai (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内衣",
+      "内射",
+      "润滑液",
+      "单人作品",
+      "女招待",
+      "胸部"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230526/Jf5YDkZ7/1.jpg",
-    "actress": [],
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-832.jpg",
+    "actress": [
+      "乃木絢愛",
+      "吉村卓",
+      "鲛岛健介",
+      "Oyoyo 中野"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-832"
   },
   {
     "id": 223551,
     "IDcode": "MIAA-833",
-    "title": "和妻子处于倦怠期的我-小花暖",
+    "title": "MIAA-833 最近持续不伦中的老婆…倦怠期的我（老公）浓厚口水直流 紧密性爱 猛烈再次中出她！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "重口味",
+      "下流",
+      "接吻",
+      "内射",
+      "口交",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/301ba610234f1c9f4739736c4cc5c213.jpg",
-    "actress": [],
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-833.jpg",
+    "actress": [
+      "小花暖",
+      "吉村卓"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-833"
   },
   {
     "id": 167947,
     "IDcode": "MIAA-836",
-    "title": "前輩 要不要一起泡溫泉啊？ 在出差住宿時被上司的巨乳部下邀一起溫泉混浴然後就無數次中出了… 彌生美月",
+    "title": "MIAA-836 FANZA Limited 前辈，想和我一起去泡温泉吗？ 我上司的大胸下属（后辈）邀请我去出差时的旅馆混浴温泉，我在她体内反复表演...... Mizuki Yayoi 附 3 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "内射",
+      "女上位",
+      "浴衣",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/b16dc3a11f22f921d323fd11d82755b6.jpg",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-836.jpg",
     "actress": [
-      "彌生美月"
+      "彌生美月",
+      "桥本诚吾"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-836"
   },
   {
     "id": 104444,
     "IDcode": "MIAA-837",
-    "title": "有人要来了赶快结束吧-新井里真",
+    "title": "MIAA-837 M-man x Watchman NTR-快点结束吧，因为有人来了！ 我爱慕已久的青梅竹马任命我为看守，与她发生性关系，让我一次又一次地看着她在我体内射精...... 新井莉麻 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
       "单体作品",
-      "中出",
-      "高中女生",
+      "射精",
+      "白天出轨",
       "M男",
-      "白天出轨"
+      "内射",
+      "高中女生",
+      "NTR",
+      "女学生",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/0f0bbdc19904acdd346744b61374a6b2.jpg",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-837.jpg",
     "actress": [
+      "新井里真",
       "輝大",
-      "ハメ鳥の人"
+      "ハメ鳥の人",
+      "塔拉奥"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-837"
   },
   {
     "id": 92153,
     "IDcode": "MIAA-842",
-    "title": "只有我知道班长的秘密-新井里真",
+    "title": "MIAA-842 只有我知道班长的神秘面纱。 我，这个学年里最纯洁的同学，被她用非常不雅的方式展示了肛交，并被她勾引、盯梢、中二。 新井麗瑪 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "单体作品",
-      "中出",
+      "内射",
       "女上位",
-      "苗条",
-      "肛交"
+      "肛门",
+      "单人作品",
+      "中出",
+      "荡妇",
+      "肛交",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/f33f596c095088c0cfb6942685a38dc0.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-842.jpg",
     "actress": [
+      "新井里真",
       "Qべぇ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-842"
@@ -524,47 +759,54 @@ window.PAGE_DATA = [
   {
     "id": 92154,
     "IDcode": "MIAA-843",
-    "title": "色气满满的义母-小早川怜子",
+    "title": "MIAA-843 你愿意做我小姨的训练场吗？ 性感的婆婆要去男士美容院工作了，而我正处于理智的悬崖边，勃起练习在所难免...... 小早川玲子（蓝光碟）（BOD）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
-      "已婚妇女",
-      "单体作品",
       "无码破解",
+      "单体作品",
+      "美容院",
+      "人妻",
+      "内射",
+      "美容店",
+      "已婚妇女",
       "中出",
-      "美容院"
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/aff2d42db64cbb14903c34b79b92ec7b.jpg",
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-843.jpg",
     "actress": [
-      "小早川怜子"
+      "小早川怜子",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-843"
   },
   {
     "id": 92144,
     "IDcode": "MIAA-844",
-    "title": "舔阴越来越熟练了-天川空",
+    "title": "MIAA-844 舔阴变得很在行！ 成人舔阴训练室，与人气色情明星天川索拉单独相处，奖励表现出色的她 (Blu-ray disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
       "单体作品",
-      "舔阴",
       "姐姐",
-      "教学"
+      "教学",
+      "教程",
+      "舔阴",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/76e05959d28bf6ec723bc73ffdff1ed8.jpg",
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-844.jpg",
     "actress": [
       "天川空"
     ],
@@ -573,548 +815,740 @@ window.PAGE_DATA = [
   {
     "id": 168191,
     "IDcode": "MIAA-845",
-    "title": "下午的美麗人妻的背後 因為老公沒有生育能力，只好找鄰居倦怠期男人來家裡 一次又一次的中出按摩性愛 森澤佳奈",
+    "title": "MIAA-845 美丽已婚妇女晚景的幕后花絮：为无种丈夫积累精子的疲惫不堪的妻子，多次邀请邻居男子到她家的美容沙龙享受按摩和中田希 森泽香奈（蓝光碟）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "3P",
+      "美容店",
+      "人妻",
+      "内射",
+      "4P",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/b91ad4b5f39a0652971f393f9bb37408.jpg",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-845.jpg",
     "actress": [
-      "森澤佳奈"
+      "森澤佳奈",
+      "贞松大辅",
+      "肌肉泽野",
+      "矢野慎二"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-845"
   },
   {
     "id": 468412,
     "IDcode": "MIAA-846",
-    "title": "就算有女朋友還是無法抗拒！雙人小惡魔後宮中出！趁女友不在家差一點被學妹強暴的我&amp;hellip;如果你有要回來 我就被帶出外面緊密接吻 勃起之後直接去開房間 新井里真 松本一香",
+    "title": "MIAA-846 我差点被两名趁她不在家时来到我家的下级员工袭击，当她准备回家时，他们把我带到空地上，紧紧地吻我，当我勃起时，我们立即去了酒店 新井理马、松本一花（BOD）",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "内射",
+      "M男",
+      "4P",
+      "美少女",
+      "苗条"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204c6cf22ae3e04a817df/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-09-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-846.jpg",
+    "actress": [
+      "松本一香",
+      "新井里真",
+      "矢野慎二"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-846"
   },
   {
     "id": 92145,
     "IDcode": "MIAA-849",
-    "title": "无责任随意留种-泽北南 沙月惠奈",
+    "title": "MIAA-849 无限次发射的不负责任下种！就算射精也不会停的二轮车泡泡浴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "中出",
-      "乳房",
+      "3P",
+      "多P",
       "礼仪小姐",
-      "多P"
+      "内射",
+      "4P",
+      "乳房",
+      "中出",
+      "荡妇",
+      "女招待",
+      "胸部"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/97fcab61910761b44993a054fb27ef8a.jpg",
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-849.jpg",
     "actress": [
       "沙月惠奈",
       "鳳美優",
-      "小田切ジュン"
+      "吉村卓",
+      "小田切ジュン",
+      "小田切淳",
+      "野岛诚"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-849"
   },
   {
     "id": 92149,
     "IDcode": "MIAA-852",
-    "title": "酔いつぶれて終電なくした彼女の親友を見つけたので介抱してホテルに運んだら逆に誘惑されて、朝まで生SEXしていた… 末廣純",
+    "title": "MIAA-852 我发现她最好的朋友喝醉了，失去了最后一班火车，于是我照顾他，把他背到一家旅馆，但他勾引我，我们现场做爱，直到天亮...... 末广纯（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "中出",
+      "白天出轨",
+      "内射",
       "女上位",
-      "苗条",
-      "白天出轨"
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20231221/miaa852pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-852.jpg",
+    "actress": [
+      "末広純",
+      "黑井优"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-852"
   },
   {
     "id": 92146,
     "IDcode": "MIAA-853",
-    "title": "五年没见的表哥-绫濑心",
+    "title": "MIAA-853 五年未见的表哥偷看了我洗澡--我的阳具在三秒钟内完全勃起，G罩杯的奶子正在发情。我的头发都湿透了，泡在浴缸里，里面都是精液。 绫濑国光 (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
       "单体作品",
+      "内射",
       "乳交",
+      "妹妹",
       "中出",
-      "妹妹"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/42579c2d3a89ec3004d0f955fdb13fc4.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-853.jpg",
     "actress": [
-      "绫濑心"
+      "绫濑心",
+      "滝本"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-853"
   },
   {
     "id": 203731,
     "IDcode": "MIAA-854",
-    "title": "中出创伤确定-白夜美来",
+    "title": "MIAA-854 被所有请求帮助的人背叛的 J 型人，他们被弄得精疲力竭，以至于得了脑虫（蓝光光盘）（BOD）。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "3P",
+      "下流",
+      "内射",
+      "4P",
+      "颜射",
+      "女学生",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a61c789def9b1b80dac9c/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-05-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-854.jpg",
+    "actress": [
+      "白夜みくる"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-854"
   },
   {
     "id": 456283,
     "IDcode": "MIAA-856",
-    "title": "僕を助けてくれた生徒会長が犯●れマ●コ丸出しで助けを求めてきたので…たまらず追姦レ×プしてしまい… その後も何度も犯●れ終わらない中出し輪●に加担してしまった僕。 圓井萌華",
+    "title": "MIAA-856 帮助过我的学生会长被侵犯后，赤裸着身体向我求救…我忍不住追着她干了下去，之后我竟多次参与了那永无止境的强奸与内射…",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "内射",
+      "制服",
+      "美少女",
+      "单人作品",
+      "虐待"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a675f89def9b1b80dba4e/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-856.jpg",
+    "actress": [
+      "円井萌華",
+      "今井勇太",
+      "细田敦史",
+      "西岛雄介"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-856"
   },
   {
     "id": 548552,
     "IDcode": "MIAA-857",
-    "title": "大嫌いな义父とメンズエステで遭遇过剰マッサージ强要される都合のいいタダマン肉便器に指名された",
+    "title": "MIAA-857 在一家男士美容院邂逅她讨厌的公公，公公被迫对她进行过度按摩，并被提名为方便的免费阴部肉盆。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "美容店",
+      "人妻",
+      "内射",
+      "NTR",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/uSTgTDVF/1.jpg",
-    "actress": [],
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-857.jpg",
+    "actress": [
+      "津久叶芽衣",
+      "吉村卓"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-857"
   },
   {
     "id": 92148,
     "IDcode": "MIAA-858",
-    "title": "内腔被迫放尿-波多野结衣",
+    "title": "MIAA-858 我，在阴道被小便的快感中觉醒 波多野结衣 (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
-      "已婚妇女",
+      "重口味",
       "无码破解",
-      "中出",
+      "单体作品",
+      "下流",
+      "人妻",
+      "内射",
+      "已婚妇女",
       "淫乱，真实",
-      "放尿"
+      "中出",
+      "放尿",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/0d2662ec3ee450bf37f265d8be260359.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-858.jpg",
     "actress": [
-      "波多野结衣"
+      "波多野结衣",
+      "泽地真人"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-858"
   },
   {
     "id": 92143,
     "IDcode": "MIAA-859",
-    "title": "欲求不满的巨尻-AIKA",
+    "title": "MIAA-859 她邀请我去她家做客，她让我在一个晚上和她的大屁股干了十次，她那沮丧的大屁股让我的巨大的年轻鸡巴硬了起来。 爱卡 (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
       "巨大屁股",
-      "中出",
+      "内射",
+      "辣妹",
       "女上位",
+      "单人作品",
+      "中出",
+      "口交",
+      "巨臀",
       "女生"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/50ce8bd0e18e87847187255577a305aa.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-859.jpg",
     "actress": [
-      "AIKA"
+      "AIKA",
+      "平ボンド"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-859"
   },
   {
     "id": 92147,
     "IDcode": "MIAA-860",
-    "title": "AV界天才痴女双人组的天堂",
+    "title": "MIAA-860 令和的天才还是昭和的天才？AV界双天才痴女后宫！！哪需要什么剧本！靠即兴淫语和绝技五秒轻松搞定你 奢侈逆向3P中出特别篇！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "中出",
+      "重口味",
+      "姐姐",
+      "下流",
+      "内射",
       "美少女电影",
       "淫乱，真实",
-      "姐姐"
+      "中出",
+      "荡妇",
+      "美少女"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/fcbd0a05c649b4dfc6a4236dcb9565cb.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-860.jpg",
     "actress": [
       "波多野结衣",
-      "松本一香"
+      "松本一香",
+      "贞松大辅",
+      "肌肉泽野",
+      "江里口匡史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-860"
   },
   {
     "id": 548551,
     "IDcode": "MIAA-861",
-    "title": "亲の再婚でできた义姊二人と相部屋で生活する事に！W杭打ち骑乘位＆W乳首责めで毎日朝まで中出しさ",
+    "title": "MIAA-861 我被迫与父母再婚后的两个嫂子住在一起！ 未久未央葵本冈（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "3P",
+      "下流",
+      "内射",
+      "女上位",
+      "4P",
+      "妹妹"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/dkPHbQhn/1.jpg",
-    "actress": [],
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-861.jpg",
+    "actress": [
+      "三尾惠",
+      "穂花あいり",
+      "结城结弦"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-861"
   },
   {
     "id": 548550,
     "IDcode": "MIAA-862",
-    "title": "押しに弱いコンビニバイトの朗らか若妻を粘着セクハラで媚薬渍け！変态オヤジ店长が絶伦ナマハメ管理",
+    "title": "MIAA-862 便利店临时工的年轻妻子性格开朗，却无力推动，被粘着性骚扰者泡在春药里！变态的老男人经理管理着她与性欲旺盛的女人的性传播。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "人妻",
+      "内射",
+      "4P",
+      "NTR",
+      "单人作品",
+      "虐待"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/SbISl8gS/1.jpg",
-    "actress": [],
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-862.jpg",
+    "actress": [
+      "末広純",
+      "吉村卓",
+      "大岛丈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-862"
   },
   {
     "id": 92150,
     "IDcode": "MIAA-863",
-    "title": "温柔体贴的JCUP看护士-日下部加奈",
+    "title": "MIAA-863 一位体贴善良的 J-cup 护士将我从失恋中拯救出来 24 场身临其境的裸体性交，无需拔出草壁香奈（蓝光光盘）（BOD）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "单体作品",
-      "乳交",
       "无码破解",
+      "单体作品",
+      "姐姐",
+      "重口味",
+      "下流",
+      "内射",
       "中出",
       "淫乱，真实",
-      "姐姐"
+      "乳交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683d86170b69f1d81648f11c/cover.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-863.jpg",
     "actress": [
-      "日下部加奈"
+      "日下部加奈",
+      "细田敦史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-863"
   },
   {
     "id": 92160,
     "IDcode": "MIAA-864",
-    "title": "帮不伦的护士保密-森泽佳奈",
+    "title": "MIAA-864 我让婚外情期间负责照顾我孩子的护士在出院前用精液服侍我一周 森泽加奈 (蓝光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "吞精",
-      "护士",
       "单体作品",
+      "射精",
+      "剧情",
       "出轨",
-      "戏剧"
+      "戏剧",
+      "护士",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/0ecb339891ba2332541b29ae1d5262f0.jpg",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-864.jpg",
     "actress": [
-      "森澤佳奈"
+      "森澤佳奈",
+      "畑中哲也"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-864"
   },
   {
     "id": 92162,
     "IDcode": "MIAA-865",
-    "title": "沾满汗液的巨尻-弥生美月",
+    "title": "MIAA-865 我被一个汗流浃背、翘着大屁股的培训师弄得射了十次精，她摇晃着她的屁股引诱我。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "单体作品",
+      "内射",
+      "女上位",
+      "单人作品",
       "流汗",
-      "巨大屁股",
       "中出",
-      "女上位"
+      "荡妇",
+      "巨大屁股",
+      "出汗",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250603-1/5546fd4393e7fe3d4e52760963f48d0c.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-865.jpg",
     "actress": [
-      "弥生美月"
+      "彌生美月",
+      "弥生美月",
+      "小梅",
+      "肌肉泽野",
+      "阿部"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-865"
   },
   {
     "id": 456272,
     "IDcode": "MIAA-866",
-    "title": "薬で眠らせた娘を異常絶倫のオヤジ達に売ってます。 （1時間/ピル服用済/現金のみ/各種オプション相談） 倉本蓳",
+    "title": "MIAA-866 我把用药物催眠的女儿卖给了异常通奸的老男人。 (1 小时/服药/只收现金/咨询各种方案） Sumire Kuramoto",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "无码破解",
+      "恋物",
+      "内射",
+      "美少女",
+      "口交",
+      "单人作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a643489def9b1b80db283/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-866.jpg",
+    "actress": [
+      "倉本菫",
+      "野岛诚",
+      "结城结弦",
+      "梅田吉雄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-866"
   },
   {
     "id": 92164,
     "IDcode": "MIAA-870",
-    "title": "和初恋前男友在东京再会",
+    "title": "MIAA-870 初恋 初恋 从她与有男朋友的初恋前女友在东京重逢的那天起，他们一次又一次地相遇，忘记了时间，有了很多的 Nakadashi。 新井麗瑪 (藍光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "乳交",
+      "剧情",
+      "内射",
+      "美少女",
+      "戏剧",
       "中出",
       "美少女电影",
-      "戏剧"
+      "乳交",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/40d5f5ae43762fd68ef67d8cc6931112.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-870.jpg",
     "actress": [
-      "新井里真"
+      "新井里真",
+      "堀内始"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-870"
   },
   {
     "id": 92163,
     "IDcode": "MIAA-871",
-    "title": "被下媚药的女教师-美咲佳奈",
+    "title": "MIAA-871 在一次家访（垃圾屋）中，被监护人（肮脏的老人）关起来亲吻，并浸泡在春药（恩典）中的辛勤教师（快活） 女教师 kimesec 7 天 Misaki Kana (Blu-ray disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
+      "重口味",
       "无码破解",
-      "中出",
+      "单体作品",
+      "下流",
+      "内射",
       "淫乱，真实",
-      "女教师",
-      "苗条"
+      "中出",
+      "口交",
+      "单人作品",
+      "苗条",
+      "女教师"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/f19b1364fde519101eeb27d866ae2950.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-871.jpg",
     "actress": [
-      "美咲佳奈"
+      "美咲佳奈",
+      "吉村卓",
+      "北公次"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-871"
   },
   {
     "id": 92161,
     "IDcode": "MIAA-873",
-    "title": "被媚药刺激的连续调教-天马优衣",
+    "title": "MIAA-873 7 天内达到 4015 次高潮的记录，使用春药和粘性活塞训练，直到她成为喷水阴户。 大屁股俱乐部女孩基梅塞克开发按摩天间由依（蓝光光盘） (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "巨大屁股",
-      "药物",
-      "中出",
+      "内射",
       "潮吹",
-      "乳液"
+      "乳液",
+      "药物",
+      "单人作品",
+      "中出",
+      "巨大屁股",
+      "巨臀",
+      "润滑液"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c198fe7e672bea5f7c479/cover.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-873.jpg",
     "actress": [
-      "天馬唯"
+      "天馬唯",
+      "吉村文孝"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-873"
   },
   {
     "id": 92165,
     "IDcode": "MIAA-874",
-    "title": "打工处欲求不满的人妻-末广纯",
+    "title": "MIAA-874 一个沮丧的兼职者的妻子问：\"你想让我做个反向婊子吗？\"她恶魔般地对他低语。我已经在射精了，但我已经变成了一个中桥鸡巴操-末广淳 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "人妻",
+      "内射",
       "女上位",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/3c15af82bfc12a1a1ead28c2aa37d31b.jpg",
-    "actress": [],
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-874.jpg",
+    "actress": [
+      "末広純",
+      "真田京"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-874"
   },
   {
     "id": 90853,
     "IDcode": "MIAA-875",
-    "title": "果然还是喜欢妻子-藤森里穗",
+    "title": "MIAA-875 我依然爱我的妻子！我们很久以来第一次做爱......毕竟我们的身体发生了巨大的化学反应，我们一再要求对方，直到天亮！ 藤森理穗（蓝光光碟）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
       "巨乳",
-      "中出",
+      "单体作品",
+      "接吻",
+      "内射",
       "女上位",
-      "接吻"
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/644e86a764456e001c7d84a55be5ded1.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-875.jpg",
     "actress": [
-      "藤森里穂"
+      "藤森里穂",
+      "羽田贵史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-875"
   },
   {
     "id": 456220,
     "IDcode": "MIAA-876",
-    "title": "痴●はダメ絶対なのに… 電車内で助けを求めてきた制服J系の悶絶アへ顔に我慢できず便乗レ×プで中出し輪●してしまった僕… 柏木小夏",
+    "title": "MIAA-876 我绝对不允许自己是个变态，但是......我无法忍受穿着制服的J-types在电车上求救时痛苦晕倒的表情，我只能在电车上强奸......柏木近松 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "内射",
+      "4P",
+      "女学生",
+      "单人作品",
+      "虐待"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4d1dc179ffb1db9cdf62/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-876.jpg",
+    "actress": [
+      "柏木小夏",
+      "辻隼人",
+      "塔拉奥",
+      "吉野笃史"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-876"
   },
   {
     "id": 92167,
     "IDcode": "MIAA-878",
-    "title": "「処女じゃなくてごめんね」彼女との初SEX直後に過去の性体験を尋ねたら元カレとのマゾ調教",
+    "title": "MIAA-878 我们第一次做爱后，我就问她过去的性经历，她告诉我她和前男友的受虐性爱...... Kokoro Ayase (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
+      "3P",
       "单体作品",
-      "中文字幕",
-      "中出",
       "多P",
-      "白天出轨"
+      "中文字幕",
+      "白天出轨",
+      "内射",
+      "4P",
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/09c89ba62719bbe119e544dcb63e1bbc.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-878.jpg",
     "actress": [
       "绫濑心",
-      "小田切ジュン"
+      "小田切ジュン",
+      "小田切淳",
+      "おたに"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-878"
   },
   {
     "id": 92180,
     "IDcode": "MIAA-879",
-    "title": "我的女友也借你一晚-桥本莉子",
+    "title": "MIAA-879 我把我的女朋友借给你过夜，我能借你的女朋友过夜吗？ 我和一个大四学生交换了一个晚上的女朋友，只是为了好玩，结果他在我女朋友体内射精了......(绝望）桥本丽子 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "中出",
+      "白天出轨",
+      "内射",
+      "美少女",
       "美少女电影",
+      "NTR",
       "颜射",
-      "白天出轨"
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/c24851fd9ceb3e2adfcbc1065bd43013.jpg",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-879.jpg",
     "actress": [
       "日森一",
-      "橋本りこ"
+      "橋本りこ",
+      "平田司"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-879"
   },
   {
     "id": 92166,
     "IDcode": "MIAA-886",
-    "title": "让你随时吐精的痴女护士-天川空",
+    "title": "MIAA-886 淫荡护士，让你射精的吸吮和阴部护理，9次射精和男潮的极端住院天川索拉 (蓝光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "口交",
       "单体作品",
+      "内射",
       "护士",
       "中出",
+      "荡妇",
+      "口交",
+      "单人作品",
       "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/c07f01f2bed43cb2f6e9231dae5fa68d.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-886.jpg",
     "actress": [
       "天川空"
     ],
@@ -1123,155 +1557,203 @@ window.PAGE_DATA = [
   {
     "id": 548549,
     "IDcode": "MIAA-887",
-    "title": "会社のデカ尻后辈2人と嗫きハーレム社内不伦 饮み会で目覚めるとまさかの相部屋 川の字で同时に不",
+    "title": "MIAA-887 低声下气的后宫公司风流韵事，公司里有两个大屁股的后辈 当我在酒会上醒来时，我们意外地被迫同时在一个房间里偷情...... 我在W桩牛郎的姿势下一次又一次地射精。 末广纯、水木弥生 (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "下流",
+      "女上位",
+      "OL",
+      "巨臀"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/I0ASR8rS/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-887.jpg",
+    "actress": [
+      "彌生美月",
+      "末広純",
+      "小田切淳"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-887"
   },
   {
     "id": 92169,
     "IDcode": "MIAA-889",
-    "title": "专程去沙龙店享受口交-黑川堇",
+    "title": "MIAA-889 你这么喜欢口交，以至于你去了性爱俱乐部......？ 我要给你（她的男友）口交，让你再也不会去性爱俱乐部！ 黑川堇 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "口交",
+      "重口味",
       "单体作品",
       "巨大屁股",
+      "下流",
+      "内射",
+      "单人作品",
+      "淫乱，真实",
       "中出",
-      "淫乱，真实"
+      "荡妇",
+      "口交",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/79a676af480922a0e83b6b52f3247b06.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-889.jpg",
     "actress": [
-      "黑川堇"
+      "黑川堇",
+      "くりぼ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-889"
   },
   {
     "id": 92179,
     "IDcode": "MIAA-890",
-    "title": "被女友的姐姐们逆3P夹击",
+    "title": "MIAA-890 我，被她的姐妹们以反向三人夹击的方式强占了鸡巴，被迫成为中田希的后宫。 木下妃魅丽、森桧子 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦",
       "无码破解",
-      "中出",
-      "苗条",
+      "3P",
       "姐姐",
       "多P",
-      "白天出轨"
+      "白天出轨",
+      "内射",
+      "4P",
+      "NTR",
+      "中出",
+      "乱伦",
+      "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/678835b368205a4a52af63c15086b162.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-890.jpg",
     "actress": [
       "森日向子",
-      "木下日葵"
+      "木下日葵",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-890"
   },
   {
     "id": 92168,
     "IDcode": "MIAA-892",
-    "title": "把我当傻瓜的青梅竹马-斋藤艾米丽",
+    "title": "MIAA-892 我是个处男，也是个傻子，但我是一个 J 型女孩的青梅竹马，我的下体马上就被干得一塌糊涂，拔都拔不出来！ 后来我的鸡巴太像她的，她就糟蹋了，不肯拔出来！ 斋藤亚美莉 (蓝光光盘) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "童年朋友",
+      "重口味",
       "单体作品",
-      "中出",
-      "淫乱，真实",
+      "下流",
+      "青梅竹马",
+      "童年朋友",
+      "内射",
+      "辣妹",
       "高中女生",
+      "女学生",
+      "淫乱，真实",
+      "中出",
+      "单人作品",
       "女生"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/1726bba1c27519f4688b70e5379944c7.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-892.jpg",
     "actress": [
-      "斋藤亚美里"
+      "齋藤亞美里",
+      "斋藤亚美里",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-892"
   },
   {
     "id": 92178,
     "IDcode": "MIAA-893",
-    "title": "担心着每天自慰的我的义母-AIKA",
+    "title": "MIAA-893 “只能用舔的哦”百人斩丈母娘担心有着大肉棒每天手淫的我，最终我受不了诱惑 直接让她口爆16发的我，深深反省",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
       "单体作品",
-      "已婚妇女",
+      "射精",
+      "人妻",
+      "内射",
       "中出",
-      "女生",
-      "婆婆"
+      "已婚妇女",
+      "继母",
+      "婆婆",
+      "辣妹",
+      "单人作品",
+      "女生"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/914e69aab7b73f02d75ab342805509a9.jpg",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-893.jpg",
     "actress": [
-      "AIKA"
+      "AIKA",
+      "桐岛达也"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-893"
   },
   {
     "id": 92172,
     "IDcode": "MIAA-894",
-    "title": "最讨厌的上司-和久井美兔",
+    "title": "MIAA-894 让我恨得牙痒痒的老板的小弟弟太像罢工了......我被性骚扰的性爱弄得精尽人亡，然后我们又来了一次中二的性交，就像互相吞噬一样（蓝光碟）（BOD）美咲若井。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "中出",
+      "内射",
+      "美少女",
       "美少女电影",
-      "OL"
+      "中出",
+      "OL",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/ad714a9bef1e0d6a5df018fe0a3db51b.jpg",
-    "actress": [],
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-894.jpg",
+    "actress": [
+      "和久井美兎",
+      "畑中哲也"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-894"
   },
   {
     "id": 92171,
     "IDcode": "MIAA-901",
-    "title": "叫巨乳新人應召女後只來了一人不安又帶另一位巨乳朋友來的故事 1人分價格與兩位巨乳女大生後宮逆3P 星乃夏月 綾瀨心",
+    "title": "MIAA-901 FANZA 当我打电话给一个新手神志不清的大胸女时，她带来了另一个大胸朋友，因为她不喜欢只和一个人在一起。 我花了一个人的钱，就得到了两个大胸女大学生--星野夏树和绫濑小五郎--的后宫反向三人组，还附带三张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "乳交",
+      "3P",
+      "重口味",
+      "多P",
+      "下流",
+      "4P",
       "淫乱，真实",
+      "乳交",
       "女大学生",
-      "多P"
+      "大学生"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/440f23ed643221ca89612b88d29cbddd.jpg",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-901.jpg",
     "actress": [
       "绫濑心",
       "星乃夏月"
@@ -1281,48 +1763,63 @@ window.PAGE_DATA = [
   {
     "id": 92177,
     "IDcode": "MIAA-903",
-    "title": "和丈夫的拖油瓶一起玩時間停止扮家家酒 被騷擾繼父逗弄性感帶無法出聲愛液牽絲… 通野未帆",
+    "title": "MIAA-903 FANZA独家 与丈夫的继女玩 \"时间停止 \"游戏时，被性骚扰的公公玩弄她的性敏感区，使她无法发出声音，爱液也随之流出...... Miho Torino 包括2张新鲜照片...",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "已婚妇女",
+      "重口味",
       "单体作品",
-      "乱伦",
+      "下流",
+      "人妻",
+      "内射",
+      "淫乱，真实",
+      "已婚妇女",
+      "单人作品",
+      "凌辱",
       "中出",
-      "淫乱，真实"
+      "乱伦",
+      "虐待"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/c454a95e44d6d166490939fc23f39ed1.jpg",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-903.jpg",
     "actress": [
-      "通野未帆"
+      "通野未帆",
+      "杉浦树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-903"
   },
   {
     "id": 92173,
     "IDcode": "MIAA-904",
-    "title": "無法忍耐大嫂的緊身褲巨臀誘惑在哥哥不在時背後位抽插屁眼持續中出暫住的我 末廣純",
+    "title": "MIAA-904 FANZA Limited 我这个舍友抵挡不住嫂子紧身裤和大屁股的诱惑，趁哥哥不在的时候，用反抽的方式在嫂子的屁眼里反复射精。 末广纯与 2 张原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
+      "姐姐",
+      "臀部",
+      "人妻",
+      "内射",
       "已婚妇女",
-      "巨大屁股",
-      "乱伦",
+      "巨臀",
+      "单人作品",
       "屁股",
       "中出",
-      "姐姐"
+      "巨大屁股",
+      "乱伦"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/c8f8361957c3e88283640a2019326b0b.jpg",
-    "actress": [],
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-904.jpg",
+    "actress": [
+      "末広純",
+      "Oyoyo 中野"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-904"
   },
   {
@@ -1343,419 +1840,556 @@ window.PAGE_DATA = [
   {
     "id": 456223,
     "IDcode": "MIAA-907",
-    "title": "今からこの母子家庭を犯して壊します… 10数年前にレ×プした女が孕んだ愛娘のワレメを監禁中出し輪● 森澤佳奈 由良佳奈",
+    "title": "MIAA-907 FANZA独家】现在我要强奸并破坏这对母子的家庭......十多年前被强奸的女子将受孕爱女的钱包锁起来，中田环●森泽加奈、由良加奈，3张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "3P",
+      "侮辱",
+      "内射",
+      "监禁",
+      "4P",
+      "乱伦",
+      "虐待"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4d93c179ffb1db9cdf63/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-907.jpg",
+    "actress": [
+      "森澤佳奈",
+      "由良佳奈",
+      "桥本诚吾",
+      "东尼大木"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-907"
   },
   {
     "id": 563784,
     "IDcode": "MIAA-908",
-    "title": "WKS ボクのドM遗伝子と絶伦デカチン欲しがる2人のすみれと子作り同栖",
+    "title": "MIAA-908 FANZA 独家 WKS Boku no Dom Gene 和两个想要无比颓废的鸡巴的 Sumire Kurokawa Sumire Kuramoto Sumire，附 2 张现场照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "内射",
+      "女上位",
+      "4P",
+      "脏话",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/78Nz86sL/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-908.jpg",
+    "actress": [
+      "倉本菫",
+      "黑川堇",
+      "Oyoyo 中野"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-908"
   },
   {
     "id": 92170,
     "IDcode": "MIAA-909",
-    "title": "只有口交偏差値超高的同學笨蛋辣妹代替教導讀書十發以上吞精 沙月惠奈",
+    "title": "MIAA-909 我教了我的同学，一个愚蠢的女孩，她的口交偏差值非常高，但作为学习的交换，我让她吞了十多次",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "吞精",
-      "口交",
       "单体作品",
+      "射精",
       "女上位",
+      "辣妹",
+      "荡妇",
+      "口交",
+      "单人作品",
       "女生"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/3a76c25fecdc332f55241a49800458e9.jpg",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-909.jpg",
     "actress": [
-      "沙月惠奈"
+      "沙月惠奈",
+      "桥本诚吾",
+      "优生"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-909"
   },
   {
     "id": 92175,
     "IDcode": "MIAA-910",
-    "title": "立場逆轉！M性感的女王様總是對後輩部下施以性騷擾！龜頭責罰把男子潮潮濕濕地追擊到悶絶，在公司也被搞得毫無遮掩，被迫不斷射精的我… 天川空",
+    "title": "MIAA-910 FANZA Limited 逆转地位 我在 M 性爱俱乐部遇到的女王是一名下级，她总是对我进行性骚扰！ 即使在公司里，我也会被强迫射精...... 天川索拉 附 2 张新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "单体作品",
-      "中出",
       "M男",
+      "内射",
+      "中出",
+      "荡妇",
+      "单人作品",
       "OL"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/eecfb93b5bfa412afac65dfdcb94551c.jpg",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-910.jpg",
     "actress": [
-      "天川空"
+      "天川空",
+      "小沢彻"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-910"
   },
   {
     "id": 92174,
     "IDcode": "MIAA-915",
-    "title": "【FANZA限定】Wデカ尻おばさんに連れていかれてケツ肉圧迫挟み撃ちハーレム中出し！！ 弥生みづき・美園和花 生写真3枚付き",
+    "title": "MIAA-915 FANZA独家 W大屁股阿姨带我到她的屁股肉压钳后宫Nakadashi！ 水木弥生和美野和香-附3张新鲜照片",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "重口味",
+      "FFM",
+      "臀部",
+      "下流",
+      "人妻",
+      "内射",
       "已婚妇女",
-      "巨大屁股",
-      "中出",
-      "屁股",
+      "巨臀",
       "淫乱，真实",
-      "两女一男"
+      "中出",
+      "巨大屁股",
+      "两女一男",
+      "屁股"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/998cde754a49a9e41add4e48f2bbc176.jpg",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-915.jpg",
     "actress": [
       "美園和花",
+      "彌生美月",
       "左慈半造",
       "タイ",
-      "弥生美月"
+      "弥生美月",
+      "小梅×"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-915"
   },
   {
     "id": 92184,
     "IDcode": "MIAA-916",
-    "title": "只要是吻和口交就不算出轨-森日向子",
+    "title": "MIAA-916 如果只是接吻和口交，那就不算出轨了吧？我知道你和女友半同居了，但是…公司前辈来家里用接吻引诱我，还追求口交，我被射精了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "单体作品",
       "无码破解",
-      "中出",
+      "单体作品",
       "姐姐",
       "接吻",
-      "白天出轨"
+      "白天出轨",
+      "内射",
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/9f9f597a74d8c4378fa4c56fab18d6fb.jpg",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-916.jpg",
     "actress": [
-      "森日向子"
+      "森日向子",
+      "法兰克福·林"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-916"
   },
   {
     "id": 92185,
     "IDcode": "MIAA-917",
-    "title": "被監禁在垃圾屋裡面貴婦人妻 下藥之後猛烈高潮不斷 苗條身材扭來扭去 汗水潮吹滿天飛 森澤佳奈",
+    "title": "MIAA-917 被关在垃圾屋的名流妻子不断被催情药弄得射精，扭动纤腰和美臀，流汗喷水，森泽加奈 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
-      "单体作品",
-      "潮吹",
+      "重口味",
       "无码破解",
-      "中出",
+      "单体作品",
+      "下流",
+      "人妻",
+      "内射",
+      "潮吹",
       "淫乱，真实",
+      "中出",
+      "口交",
+      "单人作品",
       "苗条"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/c95c031cb3f4afad5ec09a467c0d9322.jpg",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-917.jpg",
     "actress": [
-      "森澤佳奈"
+      "森澤佳奈",
+      "北公次",
+      "吉村文孝"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-917"
   },
   {
     "id": 401247,
     "IDcode": "MIAA-918",
-    "title": "到处被仆人强奸并怀孕的年轻女调查员松本一香。",
+    "title": "MIAA-918 松本一花，被仆人惩罚到每个角落的年轻女调查员，在圈子里受孕 (Blu-ray disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "3P",
+      "下流",
+      "内射",
+      "4P",
+      "单人作品",
+      "Cosplay",
+      "虐待"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/6820964c197cffa350f87256/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-918.jpg",
+    "actress": [
+      "松本一香",
+      "日森一",
+      "杉浦树",
+      "中田一平"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-918"
   },
   {
     "id": 456154,
     "IDcode": "MIAA-919",
-    "title": "娘の進学のために、肛門ボッカリ限界拡張アナルファック中出しを受け入れた母親の私… 望月彩花",
+    "title": "MIAA-919 我，为了女儿的高等教育而接受肛门博狗娱乐网址是多少限制延长肛交中田希的母亲......望月绫香（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "人妻",
+      "内射",
+      "深喉",
+      "肛门",
+      "巨臀",
+      "乱伦",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789e594f9a2e9b1d4acd78b/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-919.jpg",
+    "actress": [
+      "望月綾香",
+      "野岛诚",
+      "皮埃尔剑",
+      "市川哲也"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-919"
   },
   {
     "id": 18898,
     "IDcode": "MIAA-920",
-    "title": "行列中的3穴中出肉便器 全穴精子逆流追击乙愛麗絲",
+    "title": "MIAA-920 队列 3 孔中桥肉包肉包所有孔精子反流大通出版社爱丽丝大津（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
-      "絕頂高潮",
-      "淫亂",
-      "中出",
-      "無碼破解",
-      "黑絲",
       "猥褻穿著",
-      "蕩婦",
-      "亂交 • 群P",
       "多P",
+      "亂交 • 群P",
+      "肛门",
+      "黑絲",
+      "中出",
+      "口交",
+      "按摩棒",
+      "滥交",
+      "荡妇",
       "羞恥",
+      "絕頂高潮",
+      "蕩婦",
+      "無碼破解",
       "肛交",
-      "按摩棒"
+      "内射",
+      "淫亂",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
     "publish_date": "2023-08-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20230827/20230827024007672672.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-920.jpg",
     "actress": [
-      "乙愛麗絲"
+      "乙愛麗絲",
+      "まーち",
+      "野岛诚",
+      "桥本诚吾"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-920"
   },
   {
     "id": 92186,
     "IDcode": "MIAA-921",
-    "title": "無自覺的大屁股人妻 透明內褲誘惑 以為可以跟她不倫性愛的我…猛烈暴走插入她的肉肉大屁股裡面 一次又一次的中出 月乃露娜",
+    "title": "MIAA-921 我的邻居误认为透明内裤对不知情的大屁股妻子的诱惑是可以偷情的信号，他多次在妻子体内射精，失控的活塞晃动着她的肉臀。 月野露娜 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
       "单体作品",
-      "巨大屁股",
+      "姐姐",
+      "口交",
+      "人妻",
+      "内射",
+      "单人作品",
       "中出",
-      "姐姐"
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/123713cc42f0e56fcb7d3dcdb010a734.jpg",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-921.jpg",
     "actress": [
-      "月乃露娜"
+      "月乃露娜",
+      "桥本诚吾",
+      "阿部",
+      "平ボンド"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-921"
   },
   {
     "id": 18503,
     "IDcode": "MIAA-922",
-    "title": "M男把一直當女王的她綁起來強姦！ 調教成一個聽話的母狗",
+    "title": "MIAA-922 我在M女熟食店遇到了曾经欺负过我的前燕前辈......我颠倒了立场，被迫戴着束缚带撒尿并进行性行为！ 被训练成为肉仆的怨念斗恶人（BOD）日木由纪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "調教",
-      "凌辱",
-      "口球",
-      "絕頂高潮",
-      "M男・M女",
-      "淫亂",
-      "潮吹",
       "慾求不滿",
-      "拘束・拷問",
-      "緊縛",
-      "女王",
+      "口球",
+      "調教",
       "中出",
-      "監禁",
-      "放尿",
+      "重口味",
+      "M男・M女",
       "足交",
+      "女王",
+      "放尿",
+      "拘束・拷問",
       "SM",
+      "羞恥",
       "劇情",
-      "羞恥"
+      "拘束",
+      "絕頂高潮",
+      "監禁",
+      "緊縛",
+      "凌辱",
+      "虐待",
+      "下流",
+      "潮吹",
+      "淫亂",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68377710a0b87615b2db7373/cover.jpg",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-922.jpg",
     "actress": [
-      "柊有希"
+      "柊有希",
+      "くりぼ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-922"
   },
   {
     "id": 548547,
     "IDcode": "MIAA-923",
-    "title": "スゴ指技とじゅる舐めテクで痴女られる女上司エステティシャン姊妹の射精诱発マッサージ",
+    "title": "MIAA-923 姐妹们的射精诱导按摩，美容师是女老板，她们淫荡的指法和舔jizz的技巧都很高超 黑川堇，若宫 Honoo（蓝光影碟）（BOD）。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "按摩",
+      "内射",
+      "手交",
+      "女上位"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230805/MPftGuam/1.jpg",
-    "actress": [],
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-923.jpg",
+    "actress": [
+      "黑川堇",
+      "若宮穂乃",
+      "たむらあゆむ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-923"
   },
   {
     "id": 92182,
     "IDcode": "MIAA-924",
-    "title": "在同一屋檐下-弥生美月",
+    "title": "MIAA-924 在一个屋檐下......一个大屁股、性饥渴的奸夫，把她的挑衅看在眼里，沉迷于她娴熟的肛交技巧，迫使她在调情的打桩机中反复得到中田志......水木弥生。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "口交",
       "单体作品",
       "巨大屁股",
+      "白天出轨",
+      "内射",
+      "NTR",
+      "单人作品",
       "中出",
-      "白天出轨"
+      "荡妇",
+      "口交",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/260489fab09255e2370d5647ded880cf.jpg",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-924.jpg",
     "actress": [
-      "弥生美月"
+      "彌生美月",
+      "弥生美月",
+      "畑中哲也",
+      "塔拉奥"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-924"
   },
   {
     "id": 92181,
     "IDcode": "MIAA-933",
-    "title": "自然剛毛小穴真實性教育！舔鮑高潮的話就褒獎無套中出開苞破處 倉本蓳",
+    "title": "MIAA-933 天然鬃毛的真实性教育！如果你利用舔阴，你会得到奖励原始中出渗透",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "中出",
+      "局部特写",
       "舔阴",
+      "内射",
+      "中出",
+      "口交",
+      "单人作品",
       "苗条",
-      "局部特写"
+      "特写"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/8e88e3f0a8642013cb0c08b87c6043f5.jpg",
-    "actress": [],
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-933.jpg",
+    "actress": [
+      "倉本菫"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-933"
   },
   {
     "id": 92183,
     "IDcode": "MIAA-934",
-    "title": "愛人們彼此相互競爭誰才是我的摯愛 通野未帆 森澤佳奈",
+    "title": "MIAA-934 比一比，鸟野美穗和森泽加奈谁才是最适合我的情妇 (蓝光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "中出",
-      "淫乱，真实",
+      "重口味",
+      "3P",
       "姐姐",
-      "多P"
+      "多P",
+      "下流",
+      "内射",
+      "4P",
+      "淫乱，真实",
+      "中出",
+      "荡妇"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/b9ad9cf450f9d55993f5672bdde9524d.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-934.jpg",
     "actress": [
       "森澤佳奈",
-      "通野未帆"
+      "通野未帆",
+      "东尼大木"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-934"
   },
   {
     "id": 90849,
     "IDcode": "MIAA-935",
-    "title": "単身赴任中、妻からのアナル中出し実況キメセクビデオレター 吉根ゆりあ （ブルーレイディスク） （BOD）",
+    "title": "MIAA-935 在独自工作时，Yuria Yoshine 从妻子那里收到了肛交 Nakadashi（蓝光光盘）（BOD）的真实姬交视频信。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
+      "3P",
       "单体作品",
-      "中出",
       "多P",
-      "肛交",
-      "白天出轨"
+      "白天出轨",
+      "内射",
+      "4P",
+      "肛门",
+      "NTR",
+      "单人作品",
+      "中出",
+      "肛交"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/2dae71d5fc31b54244ebfb549267e016.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-935.jpg",
     "actress": [
-      "吉根柚莉爱"
+      "吉根柚莉爱",
+      "野岛诚",
+      "皮埃尔剑",
+      "梅田吉雄"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-935"
   },
   {
     "id": 18822,
     "IDcode": "MIAA-937",
-    "title": "最喜欢哥哥的小恶魔辣妹-松本一花",
+    "title": "MIAA-937 超喜欢我（兄）的小恶魔辣妹，因露内裤挑逗而失去理性往巨臀顶撞中出开始的生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "少女",
+      "中出",
+      "辣妹",
+      "短裙",
+      "姐姐・妹妹",
+      "女學生",
+      "JK校服",
+      "亂倫",
       "勾引・誘惑",
+      "短裙・迷你裙",
+      "美少女電影",
+      "劇情",
+      "美少女",
+      "巨臀",
+      "内射",
+      "淫亂",
       "巨尻",
       "姐弟・兄妹",
-      "淫亂",
-      "中出",
-      "美少女電影",
-      "短裙・迷你裙",
-      "女學生",
-      "姐姐・妹妹",
-      "劇情",
-      "JK校服",
-      "亂倫"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c1a36e7e672bea5f7d7f0/cover.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-937.jpg",
     "actress": [
       "松本一香",
       "タイ"
@@ -1765,23 +2399,27 @@ window.PAGE_DATA = [
   {
     "id": 92188,
     "IDcode": "MIAA-938",
-    "title": "这样下流的口交-末广纯",
+    "title": "MIAA-938 “你太太…没办法做这种下流的口交吧？”可爱的部下因嫉妒而变成发狂吹舔的蛇舌女！被无数次追击扫除口交射精的我 玩弄出轨口交逆NTR",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
+      "白天出轨",
+      "内射",
+      "NTR",
+      "颜射",
       "中出",
       "OL",
-      "颜射",
-      "白天出轨"
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/dc93df3020b1d3f96b39c9d9fa37f0ca.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-938.jpg",
     "actress": [
+      "末広純",
       "Qべぇ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-938"
@@ -1789,62 +2427,85 @@ window.PAGE_DATA = [
   {
     "id": 456194,
     "IDcode": "MIAA-939",
-    "title": "輪●狂室 黒パンスト女教師を徹底的に●す種付けカリキュラム 前田美波",
+    "title": "MIAA-939 凛●共生：黑裤袜女教师的彻底●播种课程前田南（蓝光影碟） (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "无码破解",
+      "下流",
+      "内射",
+      "丝袜",
+      "单人作品",
+      "女教师"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f344f9a2e9b1d4af1955/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-939.jpg",
+    "actress": [
+      "前田美波",
+      "狼田中",
+      "桥本诚吾",
+      "今井勇太",
+      "结城结弦"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-939"
   },
   {
     "id": 92187,
     "IDcode": "MIAA-940",
-    "title": "W小恶魔中出-松本一花 森日向子",
+    "title": "MIAA-940 不伦是文化，也是灾难！双小恶魔后宫中出 把闺蜜的外遇男友彻底的玩弄惩罚取精！让他再也不敢在外面乱搞！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "中出",
+      "重口味",
+      "下流",
+      "M男",
+      "手交",
+      "内射",
       "手淫",
       "淫乱，真实",
-      "M男"
+      "中出",
+      "荡妇"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68355756d6dba345750f7dd9/cover.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-940.jpg",
     "actress": [
       "松本一香",
-      "森日向子"
+      "森日向子",
+      "畑中哲也"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-940"
   },
   {
     "id": 92189,
     "IDcode": "MIAA-941",
-    "title": "修学旅行中-美园和花 花柳杏奈",
+    "title": "MIAA-941 在一次学校旅行中，我邀请了一个戴着清醒眼镜的大胸女孩去洗澡......我浑身湿透，搓揉着她的双排扣奶子，还射了......我平时是个简单的人... 花柳安娜, 和歌未生 (蓝光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "浴衣",
       "巨乳",
+      "重口味",
+      "浴衣",
+      "下流",
+      "内射",
       "乳交",
-      "中出",
-      "淫乱，真实"
+      "淫乱，真实",
+      "中出"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/4bd7d932965a0f7c01af514e4b47c00c.jpg",
+    "publish_date": "2023-08-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-941.jpg",
     "actress": [
       "美園和花",
+      "花柳杏奈",
       "日森一"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-941"
@@ -1852,259 +2513,336 @@ window.PAGE_DATA = [
   {
     "id": 92191,
     "IDcode": "MIAA-948",
-    "title": "ガキのパンツに興奮するの？脱ぎたてふかふか綿パンで叔父の精子を一滴残らず搾りとる小悪魔姪っ子 百瀨飛鳥",
+    "title": "MIAA-948 对小屁孩的内裤有兴趣吗？小恶魔侄女用刚脱下的毛茸茸的棉内裤把叔叔的每一滴精液都榨干了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "单体作品",
+      "内射",
+      "手交",
+      "淫语",
+      "脏话",
+      "手淫",
+      "中出",
       "荡妇",
       "口交",
-      "单体作品",
-      "中出",
-      "手淫",
-      "淫语"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/52f8baeae29983a544015c58fd296f15.jpg",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-948.jpg",
     "actress": [
-      "小栗操"
+      "小栗操",
+      "小沢彻"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-948"
   },
   {
     "id": 18324,
     "IDcode": "MIAA-949",
-    "title": "以為我喜歡NTR-柏木小夏",
+    "title": "MIAA-949 她发现了我的一个朋友留下的戴绿帽子的色情片，误解了，就去被一个放荡的男人在一个应用程序 Konatsu Kashiwagi（BOD）上抱住了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "淫妻",
-      "自拍性愛",
-      "出軌",
-      "中出",
-      "報復",
       "美少女電影",
       "劇情",
-      "NTR"
+      "淫妻",
+      "出軌",
+      "内射",
+      "報復",
+      "主观视角",
+      "NTR",
+      "中出",
+      "美少女",
+      "单人作品",
+      "自拍性愛"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/de16635f59c5818d36c702c4a57ceb1e.jpg",
+    "publish_date": "2023-10-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-949.jpg",
     "actress": [
-      "柏木小夏"
+      "柏木小夏",
+      "浅野亚太"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-949"
   },
   {
     "id": 103460,
     "IDcode": "MIAA-950",
-    "title": "被老公上司狂暴深喉七天的我-通野未帆",
+    "title": "MIAA-950 被丈夫的上司用喉咙撞击七天后，我失去了人权...... Miho Torino (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "吞精",
-      "单体作品",
-      "已婚妇女",
       "无码破解",
-      "淫乱，真实",
+      "单体作品",
+      "重口味",
       "多P",
-      "深喉"
+      "3P",
+      "射精",
+      "下流",
+      "人妻",
+      "深喉",
+      "4P",
+      "已婚妇女",
+      "淫乱，真实",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/318fab04d45c31419dcad29b0f65ac7c.jpg",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-950.jpg",
     "actress": [
-      "通野未帆"
+      "通野未帆",
+      "皮埃尔剑",
+      "西岛雄介"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-950"
   },
   {
     "id": 90852,
     "IDcode": "MIAA-951",
-    "title": "超高级中出专门-汐川云丹",
+    "title": "MIAA-951 超高级中桥专家肥皂 Shikawawa Undan (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
+      "内衣",
       "单体作品",
-      "中出",
       "礼仪小姐",
+      "内射",
       "乳液",
-      "内衣"
+      "中出",
+      "单人作品",
+      "女招待",
+      "润滑液"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/f8a2666ba9310171553ca45235a74aad.jpg",
-    "actress": [],
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-951.jpg",
+    "actress": [
+      "石川雲丹",
+      "野岛诚",
+      "井口",
+      "江里口匡史"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-951"
   },
   {
     "id": 563427,
     "IDcode": "MIAA-952",
-    "title": "チ〇ポとアナル同时に舐め犯しハーレム“足腰ガクガク震えるまで交互に何度も射精させてヤルからなッ★”",
+    "title": "MIAA-952 同时舔阴茎和肛门并干后宫 \"我会让你反复交替射精，直到你的双腿和后背颤抖\" 仓本堇 Ena Satsuki (蓝光影碟) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "口交",
+      "下流",
+      "荡妇",
+      "美少女"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230914/IOiURxWV/1.jpg",
-    "actress": [],
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-952.jpg",
+    "actress": [
+      "倉本菫",
+      "沙月惠奈",
+      "Oyoyo 中野",
+      "法兰克福·林"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-952"
   },
   {
     "id": 92196,
     "IDcode": "MIAA-953",
-    "title": "看到媳婦的奶頭-上戶真理",
+    "title": "MIAA-953 我儿子的妻子有浮动的胸罩乳头！我，在被我变态的公公马里-韦托（Mari Ueto）粘粘地揉捏和强奸后，学会了让乳头高潮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "已婚妇女",
+      "重口味",
       "单体作品",
-      "中出",
+      "凌辱",
+      "下流",
+      "人妻",
+      "内射",
+      "已婚妇女",
+      "美胸",
       "淫乱，真实",
+      "中出",
+      "单人作品",
+      "虐待",
       "平胸"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/29/683778e2a0b87615b2db7bfa/cover.jpg",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-953.jpg",
     "actress": [
-      "上戶真理"
+      "上戶真理",
+      "阿部智広"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-953"
   },
   {
     "id": 92194,
     "IDcode": "MIAA-954",
-    "title": "人妻堕落-大槻响",
+    "title": "MIAA-954 请原谅我......\"-失禁来了疯狂的美容治疗-已婚女人谁爱她的丈夫陷入淫秽按摩壮阳药kimekusek NTR-Hibiki Ootsuki（蓝光光盘）（BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "单体作品",
-      "已婚妇女",
       "无码破解",
+      "单体作品",
+      "美容院",
+      "白天出轨",
+      "人妻",
+      "内射",
+      "美容店",
+      "已婚妇女",
+      "NTR",
       "中出",
       "放尿",
-      "美容院",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/8bc0c829f0a73c5e8719da8db9d2f77c.jpg",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-954.jpg",
     "actress": [
-      "大槻响"
+      "大槻响",
+      "巨人广田",
+      "耶伊高岛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-954"
   },
   {
     "id": 92197,
     "IDcode": "MIAA-955",
-    "title": "巨尻奉仕W女仆-田中宁宁",
+    "title": "MIAA-955 用屁股为你服务！大屁股双女仆！气喘吁吁的小恶魔面对面颜骑",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "巨大屁股",
-      "中出",
+      "3P",
       "多P",
-      "女佣"
+      "内射",
+      "女仆",
+      "4P",
+      "女佣",
+      "中出",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/36533e4bfa0679067c85659dac152c5b.jpg",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-955.jpg",
     "actress": [
       "田中寧寧",
-      "鬼塚萌奈美"
+      "鬼塚萌奈美",
+      "池沼美喜雄"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-955"
   },
   {
     "id": 18840,
     "IDcode": "MIAA-956",
-    "title": "回憶起那個夏天的生日 哥哥和我之間的性愛 潮吹噴湧潮濕永難忘卻",
+    "title": "MIAA-956 回忆夏天，哥哥的友谊女孩教我如何喷水和做爱，作为生日礼物 爱丽丝-大津 (Blu-ray Disc) (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "淫亂",
       "巨乳",
-      "潮吹"
+      "重口味",
+      "下流",
+      "内射",
+      "辣妹",
+      "潮吹",
+      "淫亂",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
     "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230901/202309012137445353.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-956.jpg",
     "actress": [
-      "乙愛麗絲"
+      "乙愛麗絲",
+      "Nick",
+      "塔拉奥"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-956"
   },
   {
     "id": 92195,
     "IDcode": "MIAA-957",
-    "title": "母亲的再婚对象是我喜欢过的班主任-新井莉玛",
+    "title": "MIAA-957 母亲再婚的对象竟是初恋的导师…数年来的“喜欢”与“嫉妬”爆发！危险日子却被反夜袭活动多次中出！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
+      "白天出轨",
+      "内射",
+      "高中女生",
       "乳交",
-      "中出",
+      "NTR",
       "乳房",
       "乱伦",
-      "高中女生",
-      "白天出轨"
+      "女学生",
+      "中出",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/781b556d062a343d8e2ccd9e17e17628.jpg",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-957.jpg",
     "actress": [
-      "小田切ジュン"
+      "新井里真",
+      "小田切ジュン",
+      "小田切淳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-957"
   },
   {
     "id": 18504,
     "IDcode": "MIAA-958",
-    "title": "G CUP巨乳家庭教師 成績UP 生中出個別指導 森下悠莉",
+    "title": "MIAA-958 由一位体贴入微、身材火辣的 G 杯奶子辅导员进行彻底的成绩管理-成绩突飞猛进-Nakadashi 辅导-Yuuri Morishita (BOD)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
-      "乳交",
-      "中出",
-      "胸控・戀乳癖",
-      "蕩婦",
       "劇情",
+      "内射",
+      "胸控・戀乳癖",
+      "性感",
+      "乳交",
+      "家教",
+      "蕩婦",
+      "中出",
+      "荡妇",
+      "口交",
       "家庭教師",
-      "性感"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/cc23ab559d5a80a8503a19a9c73fdd0e.jpg",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-958.jpg",
     "actress": [
       "森下悠莉",
       "ふれんち"
@@ -2114,92 +2852,56 @@ window.PAGE_DATA = [
   {
     "id": 548141,
     "IDcode": "MIAA-964",
-    "title": "ごっくん大好き花狩さんのフェラチオ见张り番をさせられているボク",
+    "title": "MIAA-964 Mai Hanakari 被迫看管喜欢狼吞虎咽（BOD）的 Hanakari 先生的口交。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "重口味",
+      "射精",
+      "下流",
+      "口交",
+      "女学生",
+      "美少女",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230919/TzAKc9AS/1.jpg",
-    "actress": [],
+    "publish_date": "2023-09-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-964.jpg",
+    "actress": [
+      "花狩舞",
+      "吉村卓",
+      "塔拉奥"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-964"
   },
   {
     "id": 92198,
     "IDcode": "MIAA-965",
-    "title": "让你体验最厉害的口交-森泽佳奈",
+    "title": "MIAA-965 这么喜欢口交到去喇叭店…？ 让你（男友）无法再次光顾风俗店般10 回转分超棒口交！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "重口味",
+      "无码破解",
+      "单体作品",
+      "下流",
+      "女上位",
+      "颜射",
+      "淫乱，真实",
       "荡妇",
       "口交",
-      "单体作品",
-      "无码破解",
-      "淫乱，真实",
-      "女上位",
-      "颜射"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/f1de3868c293e7505b117633d43eca2d.jpg",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MIAA-965.jpg",
     "actress": [
       "森澤佳奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-965"
-  },
-  {
-    "id": 18502,
-    "IDcode": "MIAA-966",
-    "title": "超高級中出油压泡泡浴服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "風俗娘",
-      "中出",
-      "按摩女郎",
-      "內衣",
-      "按摩・物理治療・美容",
-      "抹油",
-      "美乳"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/7565f92cda88ede716970652b305fd94.jpg",
-    "actress": [
-      "天川空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-966"
-  },
-  {
-    "id": 92199,
-    "IDcode": "MIAA-968",
-    "title": "性爱魔人的人妻-新村晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "人妻",
-      "吞精",
-      "已婚妇女",
-      "单体作品",
-      "中出",
-      "淫乱，真实"
-    ],
-    "type": "有码",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836e738a0b87615b2d5bc52/cover.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-968"
   }
 ];

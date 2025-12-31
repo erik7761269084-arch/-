@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240502/m5KcW5gq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-041"
   },
@@ -31,7 +31,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec03e452c12b4e68461517/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-042"
   },
@@ -49,7 +49,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/rs6A0Bia/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-043"
   },
@@ -68,7 +68,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/WzFJ2HNU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-044"
   },
@@ -86,7 +86,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/fiCrjdbS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-046"
   },
@@ -105,7 +105,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/Gp0I6sU6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/052PES-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052PES-047"
   },
@@ -122,7 +122,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240227/XsmUVpY8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/168SPES-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168SPES-007"
   },
@@ -156,7 +156,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9aa51e4a73d4f15e5daa1/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-068"
   },
@@ -188,7 +188,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/50c64d7fe5d9abfbb481ee0829d5d5c1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-136"
   },
@@ -203,7 +203,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230222/d5WpvcpF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-138.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-138"
   },
@@ -218,7 +218,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/PCzbMoFL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-141.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-141"
   },
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/1vM8XX5X/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-142.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-142"
   },
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231022/6xbMyNFt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-144.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-144"
   },
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/rxBaRvO7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-145.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-145"
   },
@@ -278,7 +278,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/u14kpOqp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-146.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-146"
   },
@@ -293,7 +293,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/klqZycBR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-147.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-147"
   },
@@ -308,7 +308,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/F0I2c07Q/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-148.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-148"
   },
@@ -323,7 +323,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/pRfCGrdQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-149"
   },
@@ -338,7 +338,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240522/DLrWEH60/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-150.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-150"
   },
@@ -353,7 +353,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d9964ace5a404e9bbba252/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-151"
   },
@@ -368,7 +368,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240722/ISXj3IKv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-152"
   },
@@ -383,7 +383,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/6dc0d32791f280a4b987d02f415586d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-153"
   },
@@ -405,7 +405,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/25/7466475f551de4d0e778d898a0d93ec8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-155.jpg",
     "actress": [
       "五十嵐美月"
     ],
@@ -441,7 +441,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "2024-12-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20241225/fb232691-a816-431e-971c-af8c45d62f42.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-156.jpg",
     "actress": [
       "浅海なな"
     ],
@@ -458,7 +458,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250824-1/128b9afa1b98b26266b69462e36a9ca7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-157"
   },
@@ -473,7 +473,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/19d1c32d4ddb29095a405ed6a4407da7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-158.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-158"
   },
@@ -527,7 +527,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622045922929929_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-159.jpg",
     "actress": [
       "一条美緒",
       "椎名琪琪"
@@ -570,7 +570,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827105509694694_28221_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GHAT-160.jpg",
     "actress": [
       "大原理央",
       "藤沢ユリア"
@@ -590,7 +590,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221004/h_254jckl189pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JCKL-189.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-189"
   },
@@ -644,993 +644,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/4a0bb599ca744062e54f57ee136bbb08.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JCKL-195.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JCKL-195"
-  },
-  {
-    "id": 83674,
-    "IDcode": "KIR-001",
-    "title": "パワハラ女上司の弱みを握って…生意気な女上司とSEXできる方法とは 鈴木さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "乳交",
-      "中出",
-      "素人作品",
-      "眼镜"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2020-01-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "铃木里美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-001"
-  },
-  {
-    "id": 75220,
-    "IDcode": "KIR-003",
-    "title": "兄嫁 一ノ瀬あやめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2020-02-20",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/38f019b177e055f10b526440e5eca345.jpg",
-    "actress": [
-      "Qべぇ",
-      "一ノ瀬あやめ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-003"
-  },
-  {
-    "id": 83678,
-    "IDcode": "KIR-004",
-    "title": "隣の団地妻 優木なお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "偷窥",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2020-02-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "优木なお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-004"
-  },
-  {
-    "id": 516068,
-    "IDcode": "KIR-005",
-    "title": "妻子開始當家政婦…被介紹到有錢人家",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/21/68f7339b7de28f4ede9a4c60/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-005"
-  },
-  {
-    "id": 81774,
-    "IDcode": "KIR-006",
-    "title": "夫が単身赴任でSEXレスな奥さんが配達のお兄さんに夢中な件…二宮和香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "巨乳",
-      "已婚妇女",
-      "出轨"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2020-03-20",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/cf7d93cb609f169129c18e4ffa5472fc.jpg",
-    "actress": [
-      "二宮和香",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-006"
-  },
-  {
-    "id": 516053,
-    "IDcode": "KIR-007",
-    "title": "掌握權力騷擾女上司的弱點…中村知恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68fa1497eb67774efbfc2318/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-007"
-  },
-  {
-    "id": 593634,
-    "IDcode": "KIR-009",
-    "title": "目睹高傲巨乳护士羞耻场面的住院患者",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-009"
-  },
-  {
-    "id": 226103,
-    "IDcode": "KIR-010",
-    "title": "老公被裁员付不出房租巨乳太太",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-010"
-  },
-  {
-    "id": 516089,
-    "IDcode": "KIR-011",
-    "title": "歡迎來到有著大奶戴眼鏡管理人的單身",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f334fddd88d14f063f7b07/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-011"
-  },
-  {
-    "id": 209523,
-    "IDcode": "KIR-012",
-    "title": "義兄の出張-日向うみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-012"
-  },
-  {
-    "id": 594925,
-    "IDcode": "KIR-013",
-    "title": "美脚×修长的新员工OL 在研修中被性骚扰 让她无法跟上司告状的方法是…香苗玲音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/d743f57f5753ccf04647ed4e8172a277.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-013"
-  },
-  {
-    "id": 96871,
-    "IDcode": "KIR-014",
-    "title": "太太的妹妹從鄉下來到東京、而且、妻子剛好回老家…真宮彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-014"
-  },
-  {
-    "id": 516105,
-    "IDcode": "KIR-015",
-    "title": "「我什麼都做」搞上就職活動中女大O",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed45bb52c12b4e684984e0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-015"
-  },
-  {
-    "id": 549952,
-    "IDcode": "KIR-016",
-    "title": "博多から上京してきた侄っ子と过ごすアブないイタズラ生活 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231126/1597928924-h_254kir016pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-016"
-  },
-  {
-    "id": 516122,
-    "IDcode": "KIR-021",
-    "title": "對高傲權力騷擾肉感女上司掌握弱點性",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e50e39e4a73d4f15c2baf1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-021"
-  },
-  {
-    "id": 88145,
-    "IDcode": "KIR-023",
-    "title": "「誘ったわけじゃないんです。エアコンが壊れて薄着なだけで」無意識に男を勃たせてしまった団地妻 大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乳房",
-      "巨乳",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dae2d895e9e00f0450de42a4a60a2385.jpg",
-    "actress": [
-      "大浦真奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-023"
-  },
-  {
-    "id": 104145,
-    "IDcode": "KIR-028",
-    "title": "為獨居男性提供性服務便能GET簽約 巨乳女業務 赤瀬尚子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-028"
-  },
-  {
-    "id": 212152,
-    "IDcode": "KIR-036",
-    "title": "美丽的零食妈妈-山口珠理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-036"
-  },
-  {
-    "id": 212145,
-    "IDcode": "KIR-037",
-    "title": "巨乳妹-牧村柚希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-037"
-  },
-  {
-    "id": 97774,
-    "IDcode": "KIR-039",
-    "title": "女子大生-天上みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "魔鬼系",
-      "中出",
-      "妹妹",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_254kir039/h_254kir039pl.jpg",
-    "actress": [
-      "斎藤みくる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-039"
-  },
-  {
-    "id": 79384,
-    "IDcode": "KIR-043",
-    "title": "バスタオル姿の叔母と鉢合わせした事をきっかけに…峰田ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "戏剧",
-      "乱伦",
-      "女上位"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2021-09-20",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221024-1/a2ca523e1fcca0e93c632139d0c7226c.jpg",
-    "actress": [
-      "峰田奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-043"
-  },
-  {
-    "id": 79386,
-    "IDcode": "KIR-044",
-    "title": "巨乳セールスレディの義姉がリストラされて 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "各种职业",
-      "巨乳",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2021-09-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2950bb2b6f7e523baf42a65f56640662.jpg",
-    "actress": [
-      "椿莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-044"
-  },
-  {
-    "id": 516234,
-    "IDcode": "KIR-045",
-    "title": "拉麵店的妹子 葵 清楚巨乳妹來送貨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d446dbd6fbef4e90c40fdc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-045"
-  },
-  {
-    "id": 85140,
-    "IDcode": "KIR-049",
-    "title": "爆乳女医のセックスカウンセリング 夜のお悩み専門診療 野々宮蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨乳",
-      "巨大屁股",
-      "中出",
-      "女医生"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2021-12-20",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230120-1/1e28584117ecf609337923b4d1370974.jpg",
-    "actress": [
-      "岩下たろう",
-      "野々宫兰"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-049"
-  },
-  {
-    "id": 85183,
-    "IDcode": "KIR-050",
-    "title": "美人OL上司の弱みを握ってSEXする方法 180分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "羞耻",
-      "巨大屁股",
-      "中出",
-      "OL"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2021-12-20",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "铃木里美",
-      "朝桐光",
-      "中村知恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-050"
-  },
-  {
-    "id": 85139,
-    "IDcode": "KIR-052",
-    "title": "長身スレンダー美人義母とどうしてもヤリたくて… 武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "巨乳",
-      "中出",
-      "高",
-      "苗条",
-      "婆婆"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2022-02-20",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230120-1/2d085d49c91e5fcd4fb92086327b99cd.jpg",
-    "actress": [
-      "武藤彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-052"
-  },
-  {
-    "id": 85141,
-    "IDcode": "KIR-054",
-    "title": "パンティラインくっきり！ムチ尻家事代行サービス 庄司ゆり奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "屁股",
-      "中出",
-      "各种职业",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2022-03-20",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230120-1/c22a55571fadcaaef304619538540d57.jpg",
-    "actress": [
-      "庄司ゆり奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-054"
-  },
-  {
-    "id": 224415,
-    "IDcode": "KIR-059",
-    "title": "在我妻子住院期间-宝生めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "宝生めい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-059"
-  },
-  {
-    "id": 68104,
-    "IDcode": "KIR-061",
-    "title": "我无法停止充分勃起-宇野栞菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "中出",
-      "自慰",
-      "高",
-      "苗条",
-      "婆婆"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/15/6875fcf643d69727164994d5/cover.jpg",
-    "actress": [
-      "今井栞菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-061"
-  },
-  {
-    "id": 167428,
-    "IDcode": "KIR-062",
-    "title": "射精管理-岸和水",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-062"
-  },
-  {
-    "id": 563974,
-    "IDcode": "KIR-063",
-    "title": "上司に焦らし寸止め射精管理までしちゃうOL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230720/k93SOPop/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-063"
-  },
-  {
-    "id": 547120,
-    "IDcode": "KIR-064",
-    "title": "お邻のヤンキー奥さんのTバック姿をオナネタにしていたら见つかってハチャメチャに犯されたけど、后日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/X60XqoWM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-064"
-  },
-  {
-    "id": 546337,
-    "IDcode": "KIR-065",
-    "title": "ワタシの下着を盗む邻人と性欲処理で暇つぶし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/A9CNJk3Z/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-065"
-  },
-  {
-    "id": 545687,
-    "IDcode": "KIR-066",
-    "title": "时间を止めて！！爆乳OLにイタズラ三昧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/XrAsT9oT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-066"
-  },
-  {
-    "id": 12408,
-    "IDcode": "KIR-068",
-    "title": "鄰居美人妻愛勾引男人！ ？慢慢開始絕對不能公開的不倫關系 ~ 淺海なな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "勾引・誘惑",
-      "人妻",
-      "口交",
-      "慾求不滿",
-      "出軌",
-      "鄰居",
-      "中出",
-      "苗條",
-      "黑絲",
-      "女上位",
-      "高妹",
-      "按摩・物理治療・美容",
-      "蕩婦",
-      "騎乗位",
-      "艷遇",
-      "劇情",
-      "NTR",
-      "美腿"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "2024-08-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240826/78bebfc5-a836-429a-803e-524c53e3243f.jpg",
-    "actress": [
-      "浅海なな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-068"
-  },
-  {
-    "id": 544532,
-    "IDcode": "KIR-069",
-    "title": "Hな诱惑ばかりしてくるヤンキーギャルの嫁の妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20241031/N2JVppiI/1.jpg?t=1730423647",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-069"
-  },
-  {
-    "id": 444066,
-    "IDcode": "KIR-070",
-    "title": "ムチムチ体型でいつもパンティラインが浮き出るお姉ちゃんは僕のことを誘っているの？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/8913a327af89c560db53ad1e14513e30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-070"
-  },
-  {
-    "id": 5986,
-    "IDcode": "KIR-071",
-    "title": "さっき覗いていたでしょ！いつも過激なエロ下着を履いているお隣のヤンキーギャルの巨乳妻が中出しオッケーで僕を誘惑 白崎水麗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "豐滿",
-      "出軌",
-      "美腳",
-      "高妹",
-      "口爆",
-      "美臀",
-      "單體作品",
-      "癡女",
-      "人妻",
-      "舔陰",
-      "鄰居",
-      "中出",
-      "舔腳",
-      "極品美人",
-      "自宅",
-      "劇情",
-      "家庭主妇",
-      "勾引・誘惑",
-      "絕頂高潮",
-      "辣妹/GAL系",
-      "高顏值",
-      "苗條",
-      "顏射",
-      "美人妻",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "超爆乳",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "美腿",
-      "脚控・戀足癖",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "內衣",
-      "後入",
-      "性感",
-      "NTR"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250520/20250520013253475475_thumbnail.webp",
-    "actress": [
-      "白崎水麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-071"
-  },
-  {
-    "id": 403182,
-    "IDcode": "KIR-072",
-    "title": "美人妻が膣穴をクパァ～と痙攣させて昇天するオナニー180分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250621-1/126446b703d7a2818080c6d577a78a2c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-072"
-  },
-  {
-    "id": 2510,
-    "IDcode": "KIR-074",
-    "title": "社内で課長に毎日セクハラ痴●され絶頂…抗っていたはずの快感が忘れられず自らデカ尻で誘惑し中出し懇願するアラサーOL 祈山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "清楚系",
-      "美腳",
-      "單體作品",
-      "舔陰",
-      "中出",
-      "劇情",
-      "調教",
-      "阪道系",
-      "手指插入",
-      "騎乗位",
-      "美人",
-      "巨尻",
-      "口交",
-      "清純",
-      "女上位",
-      "OL",
-      "熟女",
-      "後入",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/04/e32cc87e576f642f6a724f18a8a555e2.jpg",
-    "actress": [
-      "祈山愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-074"
-  },
-  {
-    "id": 174778,
-    "IDcode": "KIR-075",
-    "title": "妻の連れ子とのいけない日常。145cm小さなアソコに義父が生挿入「そんなことしたら赤ちゃんできちゃうよ」 西野乙音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-075"
-  },
-  {
-    "id": 347419,
-    "IDcode": "PES-041",
-    "title": "汐河佳奈2枚组 美母の絶品な肉体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20250925/q5Yo8b1R/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-041"
-  },
-  {
-    "id": 347420,
-    "IDcode": "PES-044",
-    "title": "寺岛志保 爆乳熟女乱れ咲く 2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20250925/6V9Qwk9h/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-044"
-  },
-  {
-    "id": 347418,
-    "IDcode": "PES-046",
-    "title": "二ノ宫庆子 寝取られ五十路妻 2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://xing.sex8sex833.com/20250925/hhZhRNYX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-046"
-  },
-  {
-    "id": 87815,
-    "IDcode": "PES-056",
-    "title": "Hカップ熟女 極上の豊乳ボディと中出しセックス2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恋乳癖",
-      "巨乳",
-      "巨大屁股",
-      "中出",
-      "婆婆"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/268ece91f3c1c2eadb0696175bba3679.jpg",
-    "actress": [
-      "上岛美都子",
-      "菊川まり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-056"
-  },
-  {
-    "id": 87792,
-    "IDcode": "PES-059",
-    "title": "未亡人とやもめ男 恥じらい性交お見合い 2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "企画",
-      "中出",
-      "猎艳",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/00f0d9819056ffd7a235ac4ecbabdad2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-059"
-  },
-  {
-    "id": 592840,
-    "IDcode": "PES-067",
-    "title": "妹のオナニー见つけて袭撃した兄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://pic54.anzise.com/pic/20230508/9e2d42c1d6d5b707cc5f087a3e16db16/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-067"
-  },
-  {
-    "id": 564756,
-    "IDcode": "PES-074",
-    "title": "絶品！华月さくら どスケベな熟女の浓厚すぎるセックス 2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230129/yGVhU3hW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-074"
-  },
-  {
-    "id": 564755,
-    "IDcode": "PES-075",
-    "title": "超A级美少女と浓密イチャラブPLAY！チビッ子＆カワイイ娘専门ヘルス 12人2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230130/6B9ckgTL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-075"
-  },
-  {
-    "id": 410819,
-    "IDcode": "PES-076",
-    "title": "B 深吻接吻蕾絲邊絶頂性愛 2片裝 下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c04c9c735bb663f776b7ee/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-076"
   },
   {
     "id": 516822,
@@ -1643,26 +659,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c04c9c735bb663f776b7ee/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PES-076A.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-076A"
-  },
-  {
-    "id": 535192,
-    "IDcode": "PES-078",
-    "title": "村上凉子 巨乳巨尻な淫乱妻 2枚组",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240305/h_1664pes078pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-078"
   },
   {
     "id": 517907,
@@ -1677,7 +676,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20502cf22ae3e04a81809/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PES-079A.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-079A"
   },
@@ -1694,255 +693,165 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204eecf22ae3e04a817fb/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PES-079B.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-079B"
   },
   {
-    "id": 90332,
-    "IDcode": "PES-082",
-    "title": "友田真希 麗しの美熟女が淫れる官能遊戯 2枚組",
+    "id": 517651,
+    "IDcode": "TAMA-007",
+    "title": "嫁去鄉下人妻被農家內射睡走… 千",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "NEXT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-007"
+  },
+  {
+    "id": 521442,
+    "IDcode": "TAMA-026",
+    "title": "波多野结衣- 邻の奥さんが无防备ポロリで诱惑してくる…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "NEXT",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-026.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-026"
+  },
+  {
+    "id": 97497,
+    "IDcode": "TAMA-028",
+    "title": "僕の前でわざとチラリ露出する人妻OLが淫語で挑発してきて…佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "荡妇",
-      "单体作品",
-      "滥交",
-      "多P",
-      "戏剧"
+      "人妻",
+      "已婚妇女",
+      "OL",
+      "淫语"
     ],
     "type": "有码",
     "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240122-1/215072340f832a229243750bd91ae63f.jpg",
+    "publish_date": "2018-03-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "友田真希"
+      "佐佐木明希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-082"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-028"
   },
   {
-    "id": 90365,
-    "IDcode": "PES-083",
-    "title": "超A級美少女と鬼畜エロ×ギリ合法PLAY！びっちメスガキ×幼なマ○コに生パコ！2枚組",
+    "id": 595615,
+    "IDcode": "TAMA-030",
+    "title": "美人妻 乳首舐め手コキ＆ねっとりジュルジュルフェラ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "礼仪小姐",
-      "按摩",
-      "4小时以上作品",
-      "运动短裤",
-      "制服"
+      "人妻"
     ],
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/3e3bda10a121a75fb6036a36e03cd83f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-030.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-030"
   },
   {
-    "id": 433655,
-    "IDcode": "PES-085",
-    "title": "超A級美少女と濃密イチャラブPLAY！チビッ子＆カワイイ娘専門店2枚組",
+    "id": 595611,
+    "IDcode": "TAMA-031",
+    "title": "NTR夫は知らない 美人妻が他人男に寝取られるSEX集",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/18a4acd390aa2f4a200190b6bc44d269.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-031"
   },
   {
-    "id": 87783,
-    "IDcode": "PES-087",
-    "title": "超A級美少女と鬼畜エロ痴姦PLAY！ぼっちメスガキ×幼なマ○コにブチ込み！2枚組",
+    "id": 514557,
+    "IDcode": "TAMA-032",
+    "title": "原来是赛车女郎的嫂子故意在我面前走光 还用淫语勾引我 郡司结子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "迷你裙",
-      "制服",
-      "恶作剧"
+      "人妻"
     ],
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/75f12dc2b8fc013a88acf204b313d009.jpg",
-    "actress": [
-      "小泉のぞみ",
-      "佐伯ひなた",
-      "百瀬ゆきな",
-      "河爱杏里",
-      "朝比奈みおり",
-      "青岛かえで",
-      "佐山杏里",
-      "HIKARU",
-      "まひろ芽唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-087"
-  },
-  {
-    "id": 90366,
-    "IDcode": "PES-088",
-    "title": "夏季合宿の女子部員を隠し撮り＆淫虐PLAY！若きアスリートに猥褻セクハラ特訓！2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "业余",
-      "学校泳装",
-      "偷窥"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/ca7e7d378c20c3ade30f1da59945f517.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-032.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-032"
   },
   {
-    "id": 90357,
-    "IDcode": "PES-089",
-    "title": "昭和の婦女拷問史 2枚組",
+    "id": 578693,
+    "IDcode": "TAMA-034",
+    "title": "ファミレス店员の爆乳人妻を研修中にイタズラ 羽生ありさ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "NEXT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-034"
+  },
+  {
+    "id": 78259,
+    "IDcode": "TAMA-036",
+    "title": "仕事中なのに濡れ濡れに感じちゃう敏感妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "故事集",
       "精选，综合",
-      "戏剧",
-      "重印版",
-      "捆绑"
+      "已婚妇女",
+      "乳交",
+      "中出",
+      "乱伦",
+      "巨大屁股",
+      "素人作品",
+      "各种职业",
+      "成熟的女人"
     ],
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/d28f3ab0ce3e5eba1487d15a43b1c2ad.jpg",
-    "actress": [
-      "赤坂エレナ",
-      "原田静香",
-      "藤原恵美",
-      "饭田博美",
-      "奥野あさみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-089"
-  },
-  {
-    "id": 90360,
-    "IDcode": "PES-091",
-    "title": "民家侵入痴姦！卑劣な計画的凶行 2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "口交",
-      "恶作剧",
-      "平胸",
-      "深喉"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/19161e06cae0596418f4bd2e59016dff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-036.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-036"
   },
   {
-    "id": 90362,
-    "IDcode": "PES-093",
-    "title": "イベント会場でオタ暴走！！ガチ勢の性玩具になった地下アイドル2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演者",
-      "业余",
-      "运动短裤",
-      "平胸",
-      "深喉"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/ddd6c33d86bb43df095ca0ae36a5ba30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-093"
-  },
-  {
-    "id": 90359,
-    "IDcode": "PES-094",
-    "title": "女子大生痴姦 卑劣な性加害凶行 2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "巨乳",
-      "恶作剧",
-      "女大学生",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/c620b2b4893e6c1a9d88b015ef25b4a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-094"
-  },
-  {
-    "id": 90356,
-    "IDcode": "PES-096",
-    "title": "遊郭 美女と戯れる極上の性接待2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "礼仪小姐",
-      "女上位",
-      "戏剧",
-      "和服，丧服"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/921e49ed5a38d69d676c4a3d38b3b398.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-096"
-  },
-  {
-    "id": 90358,
-    "IDcode": "PES-097",
-    "title": "制服痴姦 私塾の送迎車内で…卑劣な性加害凶行 2枚組",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "过膝袜",
-      "羞耻",
-      "汽车性爱",
-      "手淫",
-      "高中女生"
-    ],
-    "type": "有码",
-    "company": "NEXT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240122-1/592632fbfc311faa675f5df07a1d0e68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-097"
-  },
-  {
-    "id": 517977,
-    "IDcode": "PES-098",
-    "title": "與超A級美OO濃密恩愛抽插玩法！雌",
+    "id": 541239,
+    "IDcode": "TAMA-036 ",
+    "title": "仕事中なのに濡れ濡れに感じちゃう敏感妻",
     "year": "",
     "country": "",
     "genre": "",
@@ -1950,8 +859,64 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NEXT",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c453a6b81af1f85392da9/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-036 .jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-098"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-036 "
+  },
+  {
+    "id": 5105,
+    "IDcode": "TAMA-037",
+    "title": "老爸調教辣妹兒媳 絕對保密的不貞關系 ~ 椎名琪琪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "小隻馬",
+      "美臀",
+      "單體作品",
+      "癡女",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "自宅",
+      "劇情",
+      "調教",
+      "寢取",
+      "後入",
+      "絕頂高潮",
+      "辣妹/GAL系",
+      "港區女子",
+      "高顏值",
+      "金髮",
+      "手指插入",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "兒媳",
+      "性感睡衣",
+      "美乳",
+      "美人",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "公公",
+      "女上位",
+      "大奶头",
+      "性感",
+      "NTR",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "NEXT",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TAMA-037.jpg",
+    "actress": [
+      "椎名琪琪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-037"
   }
 ];

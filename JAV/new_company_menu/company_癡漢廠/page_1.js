@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c295f5c6d1004ed42997c4/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/775HRSM-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=775HRSM-054"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230910/U5vrjIhY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-001"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230910/BuJpe5Wz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-002"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230910/mfxuuJFL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-003"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230926/uR4P3LTp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-004"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230924/OMfXVQTJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-005"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230926/6dM8DH5n/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-006"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231014/zuL5rSJm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-007"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231014/nomrzDVq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-008"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250519/MRQd3EUL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-009"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/VRt2LXpH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-010"
   },
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/knzUORqH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-011"
   },
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/BejNuaqy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-012"
   },
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231112/o04DQ51h/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-014"
   },
@@ -237,7 +237,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231112/aqY4e399/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-015"
   },
@@ -257,7 +257,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240325-1/a94774194d3f08cb36e66fa7115cd52e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-016"
   },
@@ -272,7 +272,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231129/xNoHC8id/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-017"
   },
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231129/3qk1Ls8y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-018"
   },
@@ -302,7 +302,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231210/TQjSC1yg/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-019"
   },
@@ -317,7 +317,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231210/LkkdsAsA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-020"
   },
@@ -332,7 +332,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231210/80f4sQ5C/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-021"
   },
@@ -347,7 +347,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231226/ckCeT2by/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-022"
   },
@@ -362,7 +362,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231226/WjQPMjVc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-023"
   },
@@ -377,7 +377,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231226/dpjfK7mr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-024"
   },
@@ -392,7 +392,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/FpEdqnNb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-025"
   },
@@ -409,7 +409,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/TFGsbM2O/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-026"
   },
@@ -424,7 +424,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/CGDEqFpU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-028"
   },
@@ -441,7 +441,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/QV2bOzvX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-029"
   },
@@ -456,7 +456,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/lCzjRgDC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-030"
   },
@@ -490,7 +490,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-02-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240209/645befac-3b03-43be-977e-216f25da5eed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-031.jpg",
     "actress": [
       "皆月光",
       "胡桃櫻花"
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240211/FwLDJKMI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-032"
   },
@@ -523,7 +523,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240211/EdXa92WX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-033"
   },
@@ -538,7 +538,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240225/bTbrOOM5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-034"
   },
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240225/EbdchUmy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-035"
   },
@@ -572,7 +572,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240225/6woP8l8y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-036"
   },
@@ -587,7 +587,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240312/EH1iTmh0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-037"
   },
@@ -604,7 +604,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240310/zhutpc8j/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-038"
   },
@@ -619,7 +619,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240312/3qzs62B4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-039"
   },
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-03-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240323/7408860d-1d7f-4dc7-b0e7-ea6568e2d851.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-040"
   },
@@ -667,7 +667,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240324/viWo3z1k/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-041.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-041"
   },
@@ -695,7 +695,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-03-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240323/02579464-b880-4d0d-a237-7c65bc27266d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-042.jpg",
     "actress": [
       "齋藤亞美里"
     ],
@@ -712,7 +712,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240414/sfiIPA6U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-043"
   },
@@ -727,7 +727,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240414/czkwJsBT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-044"
   },
@@ -774,7 +774,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240609/h_1745hrsm047pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-047"
   },
@@ -789,7 +789,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240512/kro2ATtO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-048"
   },
@@ -814,7 +814,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7c0b679f1ac4ec45ac1fd/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-049.jpg",
     "actress": [
       "美咲佳奈",
       "友田彩也香",
@@ -834,7 +834,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240526/w0ldzLnd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-050"
   },
@@ -849,7 +849,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240616/lk9F9xb9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-051"
   },
@@ -864,7 +864,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240616/5jQzyF2z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-052.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-052"
   },
@@ -879,7 +879,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c29c04c6d1004ed429c201/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-053"
   },
@@ -894,7 +894,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c295f5c6d1004ed42997c4/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-054"
   },
@@ -911,7 +911,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a963eb67774efbb87c64/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-055"
   },
@@ -926,7 +926,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240716/bTIjGgqH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-056"
   },
@@ -962,7 +962,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-07-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240727/de985125-d82b-44c6-b818-212190457a27.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-057"
   },
@@ -977,7 +977,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/8kI42Sei/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-058"
   },
@@ -992,7 +992,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240814/uM2vPlvd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-059"
   },
@@ -1007,7 +1007,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba7ded4898416418383acf/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-060"
   },
@@ -1022,7 +1022,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240918-1/82d0f141642bd913f233b84aab568865.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-061"
   },
@@ -1037,7 +1037,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240930/DFZ8IWhN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-062"
   },
@@ -1052,7 +1052,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240930/WDin3OYz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-063"
   },
@@ -1069,7 +1069,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b43ef55fdaf263a25ce5f9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-064"
   },
@@ -1084,7 +1084,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/c4452382651dbb5c85717445fcfa5afe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-065"
   },
@@ -1099,7 +1099,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/8858629d276783648676eeb066f7db1b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-066"
   },
@@ -1116,7 +1116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/e0795df54e8ef66d0017c6e30f6c2aed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-067"
   },
@@ -1131,7 +1131,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/51747d1c735151a2552bbe05e49b9bb6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-068"
   },
@@ -1148,7 +1148,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/3b7c53c120652255fc9506d06d841fbc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-069"
   },
@@ -1179,7 +1179,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68997a9855337d7f7bd28cd5/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-070.jpg",
     "actress": [
       "月見若葉",
       "相月菜緒",
@@ -1200,7 +1200,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc27375f13d063bcd296d2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-071"
   },
@@ -1215,7 +1215,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/3c731263f5f747460c86c386bc783713.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-072"
   },
@@ -1261,7 +1261,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-11-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/bad71f94-6788-4951-889a-6b963567d655.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-073.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-073"
   },
@@ -1305,7 +1305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2024-11-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/c5073485-cd02-47dd-bfd6-79f65d809955.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-074.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-074"
   },
@@ -1320,7 +1320,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241225/f4vgOtYt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-075"
   },
@@ -1335,7 +1335,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c24218a681bb640dc30cbf/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-076"
   },
@@ -1379,7 +1379,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68b0696ca681bb640da966ad/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-077.jpg",
     "actress": [
       "美木雛乃",
       "恵沙也香",
@@ -1399,7 +1399,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250203/KgYhZSk3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-078"
   },
@@ -1414,7 +1414,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1606f5f13d063bcc2beed/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-079"
   },
@@ -1429,7 +1429,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b15ddd5fdaf263a256e467/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-080"
   },
@@ -1444,7 +1444,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250326/1Uq9Yyto/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-081"
   },
@@ -1461,7 +1461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250326/eFFMByIw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-082.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-082"
   },
@@ -1514,7 +1514,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4eddce4a73d4f15c25ff2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-083.jpg",
     "actress": [
       "羽月乃蒼",
       "鹿野愛萌"
@@ -1575,7 +1575,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2025-02-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250217/78e7fc94-7c3f-4288-a093-93ba8d0be53f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-084.jpg",
     "actress": [
       "美木雛乃",
       "片寄しゅうか"
@@ -1593,7 +1593,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250326/N2OxS8NL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-085"
   },
@@ -1642,7 +1642,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4a900d7791f9273fda4c7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-086.jpg",
     "actress": [
       "柏木小夏",
       "高城なぎさ",
@@ -1685,7 +1685,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2025-03-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250319/0f6f449e-c2b6-4b76-804c-794b07e5238f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-087.jpg",
     "actress": [
       "柏木小夏",
       "松井日奈子",
@@ -1704,7 +1704,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689aba0155337d7f7be488d7/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-088"
   },
@@ -1727,7 +1727,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68caa20aeb67774efba3fff2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-089"
   },
@@ -1750,7 +1750,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7b29f79f1ac4ec45a7256/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-090.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-090"
   },
@@ -1767,7 +1767,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994f3755337d7f7bcfa95c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-091.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-091"
   },
@@ -1784,7 +1784,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250719-1/bdf2cce1087d4f2f783cd3517b1310dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-092"
   },
@@ -1843,7 +1843,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426021842512512_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-093.jpg",
     "actress": [
       "松井日奈子",
       "花音うらら",
@@ -1901,7 +1901,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015911265265_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-094.jpg",
     "actress": [
       "浜辺栞帆",
       "逢月日葵",
@@ -1923,7 +1923,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250619-1/6422c044e4e2fb0e661b140c951203dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-095.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-095"
   },
@@ -1938,7 +1938,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7dc4d682e2e92819a4862/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-096.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-096"
   },
@@ -1953,7 +1953,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/68933532c92318f97d88d9e6/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-097"
   },
@@ -1968,7 +1968,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250619-1/774af5bda4e93a2a8f1346cf05f8bc2b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-098.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-098"
   },
@@ -2011,7 +2011,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2025-06-13",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071433859859_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-099.jpg",
     "actress": [
       "柏木小夏",
       "桃瀨日葵",
@@ -2065,7 +2065,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071448476476_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-100.jpg",
     "actress": [
       "末広純",
       "皆瀨明里",

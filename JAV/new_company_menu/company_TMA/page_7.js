@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 525360,
-    "IDcode": "AKID-112",
-    "title": "年中発情！妊娠OK！サセ妻たちのやりすぎハメ撮り（个撮）",
+    "id": 411004,
+    "IDcode": "AUKT-008",
+    "title": "蕾絲邊接吻狂 ～蕾絲邊接吻中毒的女人們～",
     "year": "",
     "country": "",
     "genre": "",
@@ -10,14 +10,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241019/Ax4rvwCI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-008.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-008"
   },
   {
-    "id": 550482,
-    "IDcode": "AKID-113",
-    "title": "年中発情！妊娠OK！サセ妻たちのやりすぎハメ撮り（个撮）vol.2 もえ#Gカップ#30才 み",
+    "id": 410999,
+    "IDcode": "AUKT-009",
+    "title": "交緣蕾絲邊 ～站壁女子與做愛目的大姊～",
     "year": "",
     "country": "",
     "genre": "",
@@ -25,541 +25,199 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241118/xSSNaWdl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-009.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-009"
   },
   {
-    "id": 76140,
-    "IDcode": "AKID-114",
-    "title": "年中発情！妊娠OK！サセ妻たちのやりすぎハメ撮り（個撮）vol.3 高身長妻たちが年下君と本気SEX 梨花さん",
+    "id": 546221,
+    "IDcode": "AUKT-010",
+    "title": "レズ接吻 淫乱ベロ交尾 ～私たち口吸い爱戏に梦中です～",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "第一人称摄影",
-      "偷窥",
-      "高"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-114"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-010.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-010"
   },
   {
-    "id": 448952,
-    "IDcode": "AKID-115",
-    "title": "全年发情！怀孕好啦！佐濑人妻的过度性爱镜头（个人拍摄）vol.4 Aiko#E罩杯# 未知演员",
+    "id": 545907,
+    "IDcode": "AUKT-011",
+    "title": "腋マニア潮吹きレズビアン ～お愿いだからその腋食べさせて～",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250309/qloh0kdQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AUKT-011.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKT-011"
   },
   {
-    "id": 7987,
-    "IDcode": "AKID-116",
-    "title": "全年高溫！懷孕是沒事的！ Off-paco 女孩的過度性愛視頻（個人拍攝）~ 加藤桃香 星空めい",
+    "id": 521715,
+    "IDcode": "AVOP-206",
+    "title": "AVOP-206 钓鱼白痴大叔的日记--与麦当娜-初崎的亲吻钓鱼挑战赛！~~",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "清楚系",
-      "蠻橫嬌羞",
-      "美腳",
-      "美臀",
-      "濕身",
-      "癡女",
-      "淫亂",
-      "中出",
-      "美少女電影",
-      "自宅",
-      "劇情",
-      "早漏",
-      "明星臉",
-      "絕頂高潮",
-      "辣妹/GAL系",
-      "高顏值",
-      "苗條",
-      "黑絲",
-      "美人妻",
-      "阪道系",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "脚控・戀足癖",
+      "企划",
       "口交",
-      "巨乳",
-      "約炮",
-      "女上位",
-      "後入",
-      "性感"
+      "姐姐",
+      "单人作品"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250224/b08755bc-5ef0-467f-b238-731de2307953.jpg",
+    "publish_date": "2016-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-206.jpg",
     "actress": [
-      "加藤桃香",
-      "星空めい"
+      "初美沙希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-206"
   },
   {
-    "id": 67711,
-    "IDcode": "AKID-117",
-    "title": "超级美人妻子年龄的差不伦爱花先生",
+    "id": 74991,
+    "IDcode": "AVOP-378",
+    "title": "AVOP-378 回家后瞒着父母与许久未见的妹妹发生乱伦和中二病性行为",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
+      "侮辱",
+      "内射",
+      "妹妹",
       "中出",
-      "偷窥",
-      "出轨",
-      "白天出轨"
+      "乱伦",
+      "苗条"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250502-1/efe02836b401119cc29b312766ccebdd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-117"
-  },
-  {
-    "id": 449904,
-    "IDcode": "AKID-118",
-    "title": "人妻さんいらっしゃい僕の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。21今回は特",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-118"
-  },
-  {
-    "id": 5094,
-    "IDcode": "AKID-119",
-    "title": "在我家偷拍了熟女-宮西ひかる 流川莉央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "蕩婦",
-      "口爆",
-      "臀控",
-      "美臀",
-      "NTR",
-      "人妻",
-      "舔陰",
-      "淫亂",
-      "中出",
-      "極品美人",
-      "御姐系",
-      "自宅",
-      "劇情",
-      "明星臉",
-      "後入",
-      "絕頂高潮",
-      "色白",
-      "高顏值",
-      "企畫",
-      "素人作品",
-      "美人妻",
-      "阪道系",
-      "手指插入",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "美腿",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "偷拍・盜撮",
-      "約炮",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "三十路",
-      "熟女",
-      "大奶头",
-      "性感",
-      "寢取",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622052727231231_thumbnail.webp",
+    "publish_date": "2017-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-378.jpg",
     "actress": [
-      "宮西光",
-      "流川莉央",
-      "ひょこり"
+      "安部未華子",
+      "迹美珠里",
+      "堀尾吉晴"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-378"
   },
   {
-    "id": 62658,
-    "IDcode": "AKID-120",
-    "title": "人妻さんいらっしゃい 僕の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。23 雛さんFカップ33才欲求不満で年下くんに手を出すヌルマン痴女妻 芽衣さんFカップ31才ヤリタイ盛りの常時発情妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "人妻",
-      "已婚妇女",
-      "偷窥",
-      "出轨",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-120"
-  },
-  {
-    "id": 3355,
-    "IDcode": "AKID-121",
-    "title": "人妻さんいらっしゃい 僕の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。24 結花さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出軌",
-      "人妻",
-      "舔陰",
-      "自宅",
-      "企畫",
-      "素人作品",
-      "美人妻",
-      "手指插入",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "口交",
-      "偷拍・盜撮",
-      "約炮",
-      "女上位",
-      "熟女",
-      "後入",
-      "NTR",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250822/20250822015812481481_71724_thumbnail.webp",
-    "actress": [
-      "美澄玲衣",
-      "恵沙也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-121"
-  },
-  {
-    "id": 178838,
-    "IDcode": "AKID-122",
-    "title": "人妻さんいらっしゃい 僕の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。25 奈緒子さんEカップ34才欲求不満で見境の無い人妻 唯さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-122"
-  },
-  {
-    "id": 175114,
-    "IDcode": "AKID-123",
-    "title": "人妻さんいらっしゃい 僕の自宅でハメ狂った熟女さんをひっそりすべて盗撮しました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-123"
-  },
-  {
-    "id": 545715,
-    "IDcode": "AOKT-001",
-    "title": "禁断中出し契约交尾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240421/rCLBPyXu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOKT-001"
-  },
-  {
-    "id": 476932,
-    "IDcode": "AOKT-002",
-    "title": "禁忌中出契约性交 Akiko Kadowaki 门胁晶子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/8ad436b8b897ec4a31639103a1b226a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AOKT-002"
-  },
-  {
-    "id": 214827,
-    "IDcode": "APLT-003",
-    "title": "她有一张性感的嘴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APLT-003"
-  },
-  {
-    "id": 589335,
-    "IDcode": "APPT-002",
-    "title": "我是 [Girl Raw] 男孩的屁股厕所 Kotori Haruse - 春瀬ことり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/31321_cover_2025-09-10_232800.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APPT-002"
-  },
-  {
-    "id": 529986,
-    "IDcode": "AST-053",
-    "title": "ast00053 绮丽でいやらしい叔母さん24人4时间 スペシャルコレクションVOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240429-1/bba6e3dda81faa6b794c35dd1f91da9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-053"
-  },
-  {
-    "id": 541005,
-    "IDcode": "AST-063",
-    "title": "近亲相奸五十路母膣中出し第2巻8时间2枚组第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-063"
-  },
-  {
-    "id": 541009,
-    "IDcode": "AST-067",
-    "title": "复刻コンプリートディスクシリーズ艶熟五十路母中出し相奸2枚组340分第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-067"
-  },
-  {
-    "id": 549908,
-    "IDcode": "AST-102",
-    "title": "cd5 お母さんの玩具になった仆 痴女义母12人4时间スペシャルコレクション vol.5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230208/d4Qu6qiI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-102"
-  },
-  {
-    "id": 516883,
-    "IDcode": "AST-106",
-    "title": "近親相姦 五字頭母親與兒子 四小時",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ee3396b81af1f853f0858/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-106"
-  },
-  {
-    "id": 547889,
-    "IDcode": "AST-109",
-    "title": "绮丽でいやらしい叔母さん12人4时间 スペシャルコレクションVol.6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231001/kEHonEUz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-109"
-  },
-  {
-    "id": 545569,
-    "IDcode": "AST-116",
-    "title": "近亲相奸 母のお尻12人 4时间スペシャルコレクションvol.4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240506/6QdbqAZs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-116"
-  },
-  {
-    "id": 525648,
-    "IDcode": "AST-118",
-    "title": "熟女オナニーコレクション 巨乳美熟女の自慰行为20人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240702/7KpMeGyw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-118"
-  },
-  {
-    "id": 560095,
-    "IDcode": "AST-121",
-    "title": "フェラチオ熟女五十路熟母の口淫编24人4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241019/zWSATYSe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-121"
-  },
-  {
-    "id": 412317,
-    "IDcode": "AST-125",
-    "title": "重印全碟系列：热火！淫荡美人后妈的肉欲第二卷 双碟套装 360 分钟 矢部寿恵,美月祥子,矢吹凉华等演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/453f7d1a38e2adb192e7c3259d10649f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-125"
-  },
-  {
-    "id": 587468,
-    "IDcode": "AST-126",
-    "title": "成为母亲玩具的我 痴女继母 12人 4小时特别收藏 vol.6 素人",
+    "id": 541007,
+    "IDcode": "AVOP-469",
+    "title": "AVOP-469 长达 8 小时的录像记录了一位恶魔父亲的野蛮行径，他在夜间继续在 30 个心爱的女儿体内爬行。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
+      "侮辱",
+      "迷你",
+      "内射",
+      "合集",
+      "精选",
+      "4小时以上",
+      "辣妹",
+      "美少女",
+      "恶女"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-469.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-469"
+  },
+  {
+    "id": 408024,
+    "IDcode": "BDST-019-02",
+    "title": "「請深入我的子宮！！」已婚女子的陰部已經在J時代發育了！雖然我們現在的關係很不好...坐完末班車後,他又重新燃起熱情,把所有的時間都花在了婚外性行為上。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-019-02.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-019-02"
+  },
+  {
+    "id": 408027,
+    "IDcode": "BDST-019-03",
+    "title": "「你想射多少次都可以……」和媽媽朋友喝完酒後,我錯過了末班車,毫無防護地入住了酒店！極致的彈幕接受了大量玩具的洗禮！作為感謝,我們提供從卡利到肛門的舔和足交服務！強鼠尾草模式,無橡膠的原始性愛 ● 射精後立即口交,連續3次勃起和中出！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-019-03.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-019-03"
+  },
+  {
+    "id": 408048,
+    "IDcode": "BDST-020-02",
+    "title": "吃了房地產經紀人M男的肉食系痴女  「你想射在我體內對吧？就讓它出來......」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-020-02.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-020-02"
+  },
+  {
+    "id": 183593,
+    "IDcode": "BDST-035",
+    "title": "AV debut 2nd 美丘さとみ セクシー女優が忘れられない1本ドキュメンタリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-035.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-035"
+  },
+  {
+    "id": 454375,
+    "IDcode": "BDST-039",
+    "title": "你喜歡頑皮的繼母嗎？ 2 今晚我會讓你成為一個優秀的成年人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦"
     ],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250906-1/784b55a0cefc78f3f99f0d96e4c606e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-039.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-039"
   },
   {
-    "id": 566898,
-    "IDcode": "AST-127",
-    "title": "绮丽でいやらしい叔母さん12人4时间 スペシャルコレクションvol.7",
+    "id": 454367,
+    "IDcode": "BDST-040",
+    "title": "你討厭你調皮的岳父嗎？ 2 我不再許諾了",
     "year": "",
     "country": "",
     "genre": "",
@@ -567,14 +225,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250506/j7LkWaVo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-040.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-040"
   },
   {
-    "id": 186029,
-    "IDcode": "AST-132",
-    "title": "熟女オナニーコレクション 淫乱美熟女の自慰行為20人4時間",
+    "id": 454432,
+    "IDcode": "BDST-049",
+    "title": "姪女的胸部急成長 無防備無袖胸部的橫乳讓我忍耐到極限 親密愛戀全肯定SEX 中丸未來",
     "year": "",
     "country": "",
     "genre": "",
@@ -582,44 +240,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-049.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-049"
   },
   {
-    "id": 173828,
-    "IDcode": "AST-134",
-    "title": "隣の超乳奥様12人4時間デラックスvol.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AST-134"
-  },
-  {
-    "id": 98290,
-    "IDcode": "AT-105",
-    "title": "私と先生の初レズ 媚薬で乱れた家庭教師を見てヌルヌルし出したロリ校生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2012-02-14",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-105"
-  },
-  {
-    "id": 544181,
-    "IDcode": "AT-113",
-    "title": "私と先生の初レズ2媚薬で乱れた家庭教师を见てヌ第02集",
+    "id": 192360,
+    "IDcode": "BDST-066-01",
+    "title": "命令淫語でダメ男調教 五感を支配する甘サド キャリアアドバイザー 月野かすみ",
     "year": "",
     "country": "",
     "genre": "",
@@ -629,12 +257,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-066-01"
   },
   {
-    "id": 544196,
-    "IDcode": "AT-121",
-    "title": "私と先生の初レズ3媚薬で乱れた家庭教师を见てヌ第01集",
+    "id": 61652,
+    "IDcode": "BDST-066-02",
+    "title": "女上司のチ○ポ奴○ 私を癒やして孕ませて 金玉空っぽになるまで痴女られる！月野かすみ",
     "year": "",
     "country": "",
     "genre": "",
@@ -644,12 +272,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-066-02"
   },
   {
-    "id": 595192,
-    "IDcode": "AT-168",
-    "title": "用催眠APP操控肉体＆完全征服！ 和超H化的女高中生禁断内射SEX",
+    "id": 61069,
+    "IDcode": "BDST-067-01",
+    "title": "おっぱい誘惑 ムギュッ！甘あま指導でダメ男調教 世話焼きキャリアアドバイザー 星乃夏月",
     "year": "",
     "country": "",
     "genre": "",
@@ -657,61 +285,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e3938e424f59dc226fe7f4411725dd09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-067-01.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-067-01"
   },
   {
-    "id": 548466,
-    "IDcode": "AT-170",
-    "title": "【FANZA限定】ヌキ无しお触り絶対禁止の健全メンズエステ あんだ～小悪魔ギャルメンエス嬢の精子カ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230816/Vkql2zth/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-170"
-  },
-  {
-    "id": 547675,
-    "IDcode": "AT-171",
-    "title": "原液J系塩対応コスプレイヤー 中出しオフパコわーくまん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231016/wW1QO3T6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-171"
-  },
-  {
-    "id": 547408,
-    "IDcode": "AT-172",
-    "title": "“素人个撮” 女子〇生卑猥ドライブ连れ込み性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231116/3Kp0Q3Qh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-172"
-  },
-  {
-    "id": 547413,
-    "IDcode": "AT-173",
-    "title": "激カワ巨乳OL ストーキング睡眠テロパコ中出し",
+    "id": 61055,
+    "IDcode": "BDST-067-02",
+    "title": "都合のイイ女上司 爆乳中出し肉便器 2人きりになるとデレデレ残業 星乃夏月",
     "year": "",
     "country": "",
     "genre": "",
@@ -723,12 +304,283 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-173"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-067-02"
   },
   {
-    "id": 547139,
-    "IDcode": "AT-174",
-    "title": "【完全盗撮】人妻わいせつ検诊クリニック D～Kcupのおっぱい検诊 27人",
+    "id": 61650,
+    "IDcode": "BDST-068",
+    "title": "NTRドッキリ企画！マジックミラーパネルPart4 産後マ〇コに他人棒ナマ挿入！媚薬のせいで産後レス美人ママが爆イキ中、突如旦那と対面させたらどうなるの！？ 性欲解放アクメ連発スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-068.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-068"
+  },
+  {
+    "id": 61056,
+    "IDcode": "BDST-069",
+    "title": "NTRドッキリ企画！マジックミラーパネルPart5 出産してるのにイッたことが無い！？産後マ〇コを開発＆ナマハメ中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-069.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-069"
+  },
+  {
+    "id": 61203,
+    "IDcode": "BDST-071",
+    "title": "妹のおっぱいは僕のモノ すっごく優しく褒められ見下されて犯●れる…甘やかしダメ男製造機 星乃夏月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-071.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-071"
+  },
+  {
+    "id": 186730,
+    "IDcode": "BDST-078",
+    "title": "お姉ちゃんの射精管理は絶対！！おっぱい爆揺れ淫語騎乗位でご褒美中出し 玉木くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-078.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-078"
+  },
+  {
+    "id": 186665,
+    "IDcode": "BDST-079",
+    "title": "100％デレギャルの溺愛ケアタイム 焦らし×寸止め接近戦でカウントダウン射精 星乃夏月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-079"
+  },
+  {
+    "id": 186722,
+    "IDcode": "BDST-080",
+    "title": "レ〆プはお金のかからない最高の風俗 連れ込み押し込み強● 潮吹き美人とド派手巨乳と豊満爆乳の3名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-080.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-080"
+  },
+  {
+    "id": 177580,
+    "IDcode": "BDST-081",
+    "title": "クソ生意気な爆乳J系が万引き！！おじさんチ○ポで鉄槌！！【T沢○園 Hちゃん】 わか菜ほの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-081.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-081"
+  },
+  {
+    "id": 177634,
+    "IDcode": "BDST-082",
+    "title": "デカ尻お嬢様優等生が万引きした代償！！子宮種付け妊娠堕ち【H凰○園 Mちゃん】 桃瀬ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-082.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-082"
+  },
+  {
+    "id": 177630,
+    "IDcode": "BDST-084",
+    "title": "「最近のコはみんなしてるよ…」尻軽巨乳美少女に分からせセックス 桃瀬ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BDST-084.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-084"
+  },
+  {
+    "id": 92279,
+    "IDcode": "BEST-01",
+    "title": "淫乱人妻BEST01淫乱人妻的本能暴露SEX！！超量必至的特浓480min未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-01.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-01"
+  },
+  {
+    "id": 92389,
+    "IDcode": "BEST-12",
+    "title": "スタイル抜群の美熟女BEST12人-君岛美绪,森泽佳奈,大槻响等演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-12"
+  },
+  {
+    "id": 92394,
+    "IDcode": "BEST-17",
+    "title": "刚毛美熟女BEST17人VOL.02-高城彩,浜崎真绪,北条麻妃等演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-17.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-17"
+  },
+  {
+    "id": 92390,
+    "IDcode": "BEST-19",
+    "title": "第一次拍摄人妻BEST19名8小时vol.07无底性欲×中出×娇淫身材-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-19"
+  },
+  {
+    "id": 92393,
+    "IDcode": "BEST-20",
+    "title": "瘦腰美熟女BEST20人-神波多一花,若菜奈央,森山绫乃等演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-20.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-20"
+  },
+  {
+    "id": 92313,
+    "IDcode": "BEST-7",
+    "title": "感臀部美学BEST7小时包含12人-未知演员。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-7"
+  },
+  {
+    "id": 90894,
+    "IDcode": "BEST-8",
+    "title": "性感恋物癖BEST8小时vol.01终极恋物癖影像春咲凉,爱音麻里亚,有村のぞみ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-8"
+  },
+  {
+    "id": 537038,
+    "IDcode": "BEST-CD2",
+    "title": "希岛爱理-ATTACKERS PRESENTS 强く美しい女たちの屈服レ●プ 8时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-CD2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-CD2"
+  },
+  {
+    "id": 542687,
+    "IDcode": "BEST-JULIA",
+    "title": "从下往上刺向人妻的子宫！把结合部完全看见状态的太太睡去的起动活塞,藤浦惠,永井玛丽亚等演员。",
     "year": "",
     "country": "",
     "genre": "",
@@ -738,59 +590,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231218/2KjYjWQr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-JULIA.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-JULIA"
   },
   {
-    "id": 562266,
-    "IDcode": "AT-175",
-    "title": "絶対手を出してはいけない受験生にした 塾讲师种付け性记录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240117/zOc590BB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-175"
-  },
-  {
-    "id": 546367,
-    "IDcode": "AT-176",
-    "title": "原液J●制服美少女ストーキング睡眠カン中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240217/XAgK7Q1h/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-176"
-  },
-  {
-    "id": 518085,
-    "IDcode": "AT-177",
-    "title": "放學中懷孕指導 【私拍】 偷東西女O",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fb4524bf45974ea6403790/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-177"
-  },
-  {
-    "id": 545760,
-    "IDcode": "AT-178",
-    "title": "美人巨乳看护师ストーキング睡眠カン中出し",
+    "id": 568899,
+    "IDcode": "BEST-PART",
+    "title": "神爆乳 2",
     "year": "",
     "country": "",
     "genre": "",
@@ -800,668 +607,165 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240417/BFEdi5dC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BEST-PART.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEST-PART"
   },
   {
-    "id": 545313,
-    "IDcode": "AT-179",
-    "title": "羞耻イタズラ膣検诊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240617/as3mcGku/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-179"
-  },
-  {
-    "id": 525588,
-    "IDcode": "AT-180",
-    "title": "部活女子スポーツ整体 鬼性开発マッサージ院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240717/23gyWZXP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-180"
-  },
-  {
-    "id": 525519,
-    "IDcode": "AT-181",
-    "title": "素人ちびはめフレンズ！ 先生とTRYせっくすドキュメンッ",
+    "id": 75836,
+    "IDcode": "BMST-001",
+    "title": "温泉旅館にて、寝てる旦那のすぐ横でスゴテクの悶絶オイルマッサージ。声が出せない状況でガマンできずに中出しセックスする寝取られ巨乳妻！ りな 音海里奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240818/B5RJuN7m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-181"
-  },
-  {
-    "id": 174891,
-    "IDcode": "AT-182",
-    "title": "電動キックボードで帰宅する小生意気な巨乳女先輩 不登校デカチン童貞後輩に-天羽りりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-182"
-  },
-  {
-    "id": 439935,
-    "IDcode": "AT-192",
-    "title": "迷路小貓咪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/24/6793a269ac813dc779e7c6b6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-192"
-  },
-  {
-    "id": 439934,
-    "IDcode": "AT-199",
-    "title": "專屬於我的大姊姊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/24/6793a19aac813dc779e7c6a8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-199"
-  },
-  {
-    "id": 439931,
-    "IDcode": "AT-203",
-    "title": "辣妹圈套",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/24/6793a2a9ac813dc779e7c6b7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AT-203"
-  },
-  {
-    "id": 411881,
-    "IDcode": "ATID-034",
-    "title": "淫魔CINEMASHOW 4 淫魔病栋 2 紫彩乃,林由美香,上原留华等演员 ID034",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/50a298cb0ed409de81f54775e962522c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-034"
-  },
-  {
-    "id": 87993,
-    "IDcode": "ATID-039",
-    "title": "突撃取材！乱交・露出 変態サークル 仙台バスツアー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "露出",
-      "乱交",
-      "放尿",
-      "SM",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d54b5ebc8495bf15b41bf68fe698b50d.jpg",
-    "actress": [
-      "明乃夕奈",
-      "响乃えみる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-039"
-  },
-  {
-    "id": 467790,
-    "IDcode": "ATID-041",
-    "title": "股間レイプ 女子校生バレー部員",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cedf944e7d663df4e2a7cc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-041"
-  },
-  {
-    "id": 409965,
-    "IDcode": "ATID-104",
-    "title": "レズフィスト 被虐女の愛憎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a529c48cce1a927afca0ad/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-104"
-  },
-  {
-    "id": 409774,
-    "IDcode": "ATID-134",
-    "title": "これで最後にしてください。 神田美穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7e37379f1ac4ec45adc47/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-134"
-  },
-  {
-    "id": 409670,
-    "IDcode": "ATID-142",
-    "title": "宇宙刑事マリィ 連鎖の罠！敗北オーバードライブ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2e70ece5a404e9bac2760/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-142"
-  },
-  {
-    "id": 221432,
-    "IDcode": "ATID-145",
-    "title": "牺牲自己的人妻-青木りん 姫咲りりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-145"
-  },
-  {
-    "id": 206710,
-    "IDcode": "ATID-148",
-    "title": "特殊搜查官洗脑凌辱的陷阱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbc3cbce5a404e9bc0f697/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-148"
-  },
-  {
-    "id": 572448,
-    "IDcode": "ATID-153",
-    "title": "公开痴汉裁判所 青木玲 new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-153"
-  },
-  {
-    "id": 99579,
-    "IDcode": "ATID-157",
-    "title": "女捜査官、堕ちるまで… THE END 雪見紗弥 姫咲りりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "强奸",
-      "女上位"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-03-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "雪见纱弥",
-      "姫咲りりあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-157"
-  },
-  {
-    "id": 206561,
-    "IDcode": "ATID-158",
-    "title": "潜入堕落搜查官原田纯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-158"
-  },
-  {
-    "id": 78954,
-    "IDcode": "ATID-159",
-    "title": "女武術家アナルレイプ 犯されたプライド 管野しずか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肛交",
-      "SM",
-      "强奸",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/2c09888f46f9d93f885217721c7502ca.jpg",
-    "actress": [
-      "管野静香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-159"
-  },
-  {
-    "id": 78841,
-    "IDcode": "ATID-160",
-    "title": "麻薬捜査官、堕ちるまで… ―屈服せず― 亜希菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "各种职业",
-      "凌辱",
-      "拘束"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-09-07",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230616-1/845a67ea4faa400c5a665102800d751b.jpg",
-    "actress": [
-      "亜希菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-160"
-  },
-  {
-    "id": 98735,
-    "IDcode": "ATID-161",
-    "title": "美人捜査官 梨花 コールドケース ～迷宮事件を解決せよ～ 愛内梨花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "凌辱",
-      "拘束",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-10-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid161/atid161pl.jpg",
-    "actress": [
-      "爱内梨花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-161"
-  },
-  {
-    "id": 104815,
-    "IDcode": "ATID-162",
-    "title": "女怪盗月见栞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "女上位",
-      "调教",
-      "拘束",
-      "强奸"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "月见栞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-162"
-  },
-  {
-    "id": 225640,
-    "IDcode": "ATID-164",
-    "title": "哀愁的女狼-亜希菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-164"
-  },
-  {
-    "id": 98281,
-    "IDcode": "ATID-165",
-    "title": "特殊捜査官、堕ちるまで… ましろ杏 姫咲りりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "凌辱",
-      "强奸",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-12-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid165/atid165pl.jpg",
-    "actress": [
-      "真城杏",
-      "姫咲りりあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-165"
-  },
-  {
-    "id": 78865,
-    "IDcode": "ATID-166",
-    "title": "潜入捜査官、堕ちるまで… 白咲舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "手指插入",
-      "女上位"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-01-07",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230315-1/973329a190e04e234f4a0855fda48e80.jpg",
-    "actress": [
-      "白咲舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-166"
-  },
-  {
-    "id": 78919,
-    "IDcode": "ATID-167",
-    "title": "女拳法家-若葉くるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "拘束",
-      "强奸"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "若叶くるみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-167"
-  },
-  {
-    "id": 98734,
-    "IDcode": "ATID-169",
-    "title": "女忍者凌辱傳 ―活在影子下的命運― 小川朝美 糸矢芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "无码破解",
-      "女忍者",
-      "女上位",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-02-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid169/atid169pl.jpg",
-    "actress": [
-      "小川阿佐美",
-      "糸矢芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-169"
-  },
-  {
-    "id": 97975,
-    "IDcode": "ATID-170",
-    "title": "潜入教師 AYA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女教师",
-      "拘束",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-02-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "AYA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-170"
-  },
-  {
-    "id": 183132,
-    "IDcode": "ATID-171",
-    "title": "被凌辱内射的黑丝制服潜入搜查官",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-171"
-  },
-  {
-    "id": 98276,
-    "IDcode": "ATID-172",
-    "title": "女流剣豪レイプ 犯されたプライド 凌辱免許皆伝 亜希菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "捆绑",
-      "强奸",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-03-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid172/atid172pl.jpg",
-    "actress": [
-      "亜希菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-172"
-  },
-  {
-    "id": 98057,
-    "IDcode": "ATID-173",
-    "title": "潜入捜査官 沢本あすか 凌辱レスキューミッション",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "凌辱",
-      "拘束"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-04-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid173/atid173pl.jpg",
-    "actress": [
-      "沢本あすか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-173"
-  },
-  {
-    "id": 98495,
-    "IDcode": "ATID-175",
-    "title": "女捜査官アリサ 汚された白い肌 黒木アリサ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "强奸",
-      "拘束",
-      "多P"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-05-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid175/atid175pl.jpg",
-    "actress": [
-      "黒木アリサ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-175"
-  },
-  {
-    "id": 77392,
-    "IDcode": "ATID-176",
-    "title": "被干到堕落后内射-小川阿佐美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "无码流出",
+      "巨乳",
+      "已婚妇女",
+      "浴衣",
       "中出",
-      "女上位",
-      "拘束",
-      "强奸"
+      "素人作品",
+      "按摩",
+      "乳液",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/16be11404df9220f121ba3573a2ae714.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BMST-001.jpg",
     "actress": [
-      "小川阿佐美"
+      "音海里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-176"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-001"
   },
   {
-    "id": 77384,
-    "IDcode": "ATID-177",
-    "title": "バレットリヴァース SIDE A -絆",
+    "id": 75837,
+    "IDcode": "BMST-002",
+    "title": "温泉旅館にて、寝てる旦那のすぐ横でスゴテクの悶絶オイルマッサージ。声が出せない状況でガマンできずに中出しセックスする寝取られ巨乳妻！ まゆ 南まゆ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "战斗行动",
-      "强奸",
-      "多P"
+      "巨乳",
+      "已婚妇女",
+      "浴衣",
+      "中出",
+      "素人作品",
+      "按摩",
+      "乳液",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/8bd3b74b57b69d5fe4621b0552df104c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BMST-002.jpg",
     "actress": [
-      "妃光莉",
-      "天海丽",
-      "あすか伊央"
+      "南真悠"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-002"
   },
   {
-    "id": 77383,
-    "IDcode": "ATID-178",
-    "title": "バレットリヴァース SIDE B -恩讐",
+    "id": 75838,
+    "IDcode": "BMST-003",
+    "title": "温泉旅館にて、寝てる旦那のすぐ横でスゴテクの悶絶オイルマッサージ。声が出せない状況でガマンできずに中出しセックスする寝取られ巨乳妻！ ちえ 新垣智江",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "强奸",
-      "战斗行动"
+      "巨乳",
+      "已婚妇女",
+      "浴衣",
+      "中出",
+      "素人作品",
+      "按摩",
+      "乳液",
+      "白天出轨"
     ],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a1214c3631464501b5fc9e3f5d066a88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BMST-003.jpg",
     "actress": [
-      "妃光莉",
-      "天海丽",
-      "あすか伊央"
+      "新垣智江"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-003"
   },
   {
-    "id": 526069,
-    "IDcode": "ATID-179",
-    "title": "_A女スパイ女狼II-哀しみのサイレントシグナル-爱咲れいらPart1",
+    "id": 97937,
+    "IDcode": "BMST-004",
+    "title": "【25歳超ムッチリ太もも】鳥貴○玉川勤務 くるみ 下乳最高Gカップ おしっこ潮吹きダム決壊【アクメ我慢制御不能！】変態って言われると喜んじゃう【首絞め唾のみベロチュー大好き】 完全服従系メス犬浮気セックス 玉木くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "已婚妇女",
+      "潮吹",
+      "第一人称摄影",
+      "素人作品",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大島愛里亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-004"
+  },
+  {
+    "id": 97938,
+    "IDcode": "BMST-005",
+    "title": "【25歳Hカップ人妻】イ○ンのパン屋勤務 つぐみ下乳最高Hカップ【ノーブラニットで乳首浮き】マシュマロオパーイ【着衣パイズリ＆オイルテカテカ】全編パイオツブルブル【全オッパイマニアに捧ぐ】エチエチニット巨乳ちゃんセックス 森本つぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "乳交",
+      "第一人称摄影",
+      "素人作品",
+      "乳液"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森本つぐみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-005"
+  },
+  {
+    "id": 97941,
+    "IDcode": "BMST-006",
+    "title": "【32歳Hカップ人妻】デ○ーズ勤務 かんな 下乳最高Hカップ【ノーブラニットで乳首浮き】チンチン大好き【舐めるのも大好き】激ピスで半狂乱イキ【声我慢できず、怒られる】 篠崎かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳",
+      "已婚妇女",
+      "口交",
+      "第一人称摄影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠崎环奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-006"
+  },
+  {
+    "id": 530804,
+    "IDcode": "BMST-01",
+    "title": "温泉旅馆にて、寝てる旦那のすぐ横でスゴテクの闷絶オ第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1471,54 +775,27 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-179"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-01"
   },
   {
-    "id": 98221,
-    "IDcode": "ATID-180",
-    "title": "捜査官、堕ちるまで… 愛澄玲花",
+    "id": 530803,
+    "IDcode": "BMST-02",
+    "title": "温泉旅馆にて、寝てる旦那のすぐ横でスゴテクの闷絶オ第01集",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "戏剧",
-      "各种职业",
-      "凌辱",
-      "捆绑"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-07-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "爱澄玲花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-180"
-  },
-  {
-    "id": 98062,
-    "IDcode": "ATID-181",
-    "title": "忍道凌-鈴木麻奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "女忍者"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid181/atid181pl.jpg",
-    "actress": [
-      "铃木麻奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-181"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BMST-02.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-02"
   },
   {
-    "id": 548588,
-    "IDcode": "ATID-182",
-    "title": "女捜查官、藤本リーナ～武器密売组织を壊灭せよ～",
+    "id": 530802,
+    "IDcode": "BMST-03",
+    "title": "温泉旅馆にて、寝てる旦那のすぐ横でスゴテクの闷絶オ第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1528,34 +805,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-182"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-03"
   },
   {
-    "id": 97958,
-    "IDcode": "ATID-183",
-    "title": "为了解救女性被监禁拘束的检察官-一ノ瀬アメリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "无码破解",
-      "各种职业",
-      "凌辱"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "一ノ瀬アメリ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-183"
-  },
-  {
-    "id": 212906,
-    "IDcode": "ATID-184",
-    "title": "女怪盗-KAORI",
+    "id": 530798,
+    "IDcode": "BMST-04",
+    "title": "【25歳超ムッチリ太もも】鸟贵○玉川勤务くるみ下乳第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1565,139 +820,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-04"
   },
   {
-    "id": 548870,
-    "IDcode": "ATID-185",
-    "title": "凌辱探侦ファイル CASE1-令嬢_アヤ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-185"
-  },
-  {
-    "id": 220697,
-    "IDcode": "ATID-186",
-    "title": "被坏人拘束轮奸内射的两姐妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-186"
-  },
-  {
-    "id": 212899,
-    "IDcode": "ATID-187",
-    "title": "潜入教師-藤本リーナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-187"
-  },
-  {
-    "id": 213614,
-    "IDcode": "ATID-188",
-    "title": "女医-麻奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-188"
-  },
-  {
-    "id": 97923,
-    "IDcode": "ATID-189",
-    "title": "捜査官、堕ちるまで… 瞳りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "凌辱",
-      "强奸"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-10-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "瞳りん",
-      "春本优菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-189"
-  },
-  {
-    "id": 98059,
-    "IDcode": "ATID-190",
-    "title": "奴隷捜査官2 椎名ゆな 矢吹杏 小滝みい菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "女检察官",
-      "轮奸"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-10-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid190/atid190pl.jpg",
-    "actress": [
-      "椎名由奈",
-      "矢吹杏",
-      "小滝みい菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-190"
-  },
-  {
-    "id": 98058,
-    "IDcode": "ATID-191",
-    "title": "私があなたを守るから。悲しみのSP奴隷 矢吹杏 藤北彩香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "各种职业",
-      "凌辱",
-      "强奸"
-    ],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-11-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid191/atid191pl.jpg",
-    "actress": [
-      "藤北彩香",
-      "矢吹杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-191"
-  },
-  {
-    "id": 549085,
-    "IDcode": "ATID-192",
-    "title": "触手に溺れて― 人妻强制受胎 Hitomi",
+    "id": 530801,
+    "IDcode": "BMST-05",
+    "title": "【25歳Hカップ人妻】イ○ンのパン屋勤务つぐみ下乳最第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1709,159 +837,981 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-05"
   },
   {
-    "id": 220455,
-    "IDcode": "ATID-193",
-    "title": "犯罪搜查官",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-193"
-  },
-  {
-    "id": 225645,
-    "IDcode": "ATID-194",
-    "title": "为了替哥哥报仇-北川瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-194"
-  },
-  {
-    "id": 98055,
-    "IDcode": "ATID-196",
-    "title": "犯罪捜査官外伝 哀しみの復讐者 まりか 桃井早苗 白鳥るり",
+    "id": 530800,
+    "IDcode": "BMST-06",
+    "title": "【32歳Hカップ人妻】デ○ーズ勤务かんな下乳最高Hカ第01集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMST-06"
+  },
+  {
+    "id": 347977,
+    "IDcode": "BNST-073",
+    "title": "BNST-073 我的好姑娘 友则（25 岁） Koko na Tomonori",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主观视角",
+      "内射",
+      "出轨",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2023-11-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BNST-073.jpg",
+    "actress": [
+      "友野あやみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNST-073"
+  },
+  {
+    "id": 564591,
+    "IDcode": "BSET-011",
+    "title": "女装美少年杰作选9",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSET-011.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSET-011"
+  },
+  {
+    "id": 546981,
+    "IDcode": "BSET-012",
+    "title": "女装美少年杰作选10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSET-012.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSET-012"
+  },
+  {
+    "id": 438513,
+    "IDcode": "BSET-013",
+    "title": "性感女装美少年激情精选第11弹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSET-013.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSET-013"
+  },
+  {
+    "id": 516194,
+    "IDcode": "BST-023",
+    "title": "旅行代理店營業課長 與處男的商談性",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BST-023.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BST-023"
+  },
+  {
+    "id": 566630,
+    "IDcode": "BST-026",
+    "title": "旅行代理业者推川営业课长 童贞君との商谈性交しました",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BST-026.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BST-026"
+  },
+  {
+    "id": 100518,
+    "IDcode": "BST-027",
+    "title": "童貞君との商談性交しました よしい美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "单体作品",
+      "户外",
+      "乳交",
+      "OL",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BST-027.jpg",
+    "actress": [
+      "しみけん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BST-027"
+  },
+  {
+    "id": 547136,
+    "IDcode": "BST-030",
+    "title": "素人大図鉴 BEST 8时间 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BST-030.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BST-030"
+  },
+  {
+    "id": 155218,
+    "IDcode": "BT-101",
+    "title": "日本制服恍惚菊原圓-菊原まどか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BT-101.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-101"
+  },
+  {
+    "id": 463661,
+    "IDcode": "BT-108",
+    "title": "絲襪癖好 ～絲襪依存症性愛～ : 相島奈央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BT-108.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-108"
+  },
+  {
+    "id": 407546,
+    "IDcode": "BT-170",
+    "title": "快速抽插爽的呻吟连连",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BT-170.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-170"
+  },
+  {
+    "id": 438435,
+    "IDcode": "BT-198",
+    "title": "淫蕩大姊 : 澀谷愛華, 齋藤良子, 木村美羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BT-198.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-198"
+  },
+  {
+    "id": 516339,
+    "IDcode": "BT-69",
+    "title": "櫃子裡的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BT-69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-69"
+  },
+  {
+    "id": 572406,
+    "IDcode": "BT-76",
+    "title": "プレミアムモデル 执事爱抚吃茶 ： 琥珀 大槻ひびき new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BT-76"
+  },
+  {
+    "id": 534113,
+    "IDcode": "BYHT-001",
+    "title": "巨乳淫乱ボーイッシュ 长友优希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BYHT-001"
+  },
+  {
+    "id": 589303,
+    "IDcode": "CAT-343",
+    "title": "站在女校厕所自慰尿尿的女学生们气势惊人 Vol.8",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CAT-343.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAT-343"
+  },
+  {
+    "id": 554547,
+    "IDcode": "CLT-069",
+    "title": "初性体验第2弹：清纯素人绝顶高潮实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-069.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-069"
+  },
+  {
+    "id": 60174,
+    "IDcode": "CLT-098",
+    "title": "田中 (40)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-098.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-098"
+  },
+  {
+    "id": 60170,
+    "IDcode": "CLT-099",
+    "title": "松本 (41)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-099.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-099"
+  },
+  {
+    "id": 60173,
+    "IDcode": "CLT-100",
+    "title": "堀北 (44)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-100.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-100"
+  },
+  {
+    "id": 515863,
+    "IDcode": "CLT-101",
+    "title": "從夜店回家路上娶大胸少婦！ ！在心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-101.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-101"
+  },
+  {
+    "id": 515861,
+    "IDcode": "CLT-102",
+    "title": "用遊戲發洩老公的不滿！ ！國王的命",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-102.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-102"
+  },
+  {
+    "id": 515874,
+    "IDcode": "CLT-106",
+    "title": "第三性3P蕾絲邊性交 一之瀨拉姆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CLT-106.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLT-106"
+  },
+  {
+    "id": 179035,
+    "IDcode": "CNT-001",
+    "title": "田舎少女の妊娠体験1日目 紺野ゆうみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CNT-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CNT-001"
+  },
+  {
+    "id": 544410,
+    "IDcode": "CRT-017",
+    "title": "女优不详17时间着用【低身长145cm】白パン×制服×黒髪最强美小女※人生初のラブホに戸惑う娘と本番有りのP活 new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRT-017"
+  },
+  {
+    "id": 441104,
+    "IDcode": "CRT-045",
+    "title": "穿著18小时个人拍摄身材矮小巨乳大屁股红裤_棕发美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CRT-045.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRT-045"
+  },
+  {
+    "id": 445384,
+    "IDcode": "CRT-047",
+    "title": "极为罕见的个人拍摄穿著Airim材质的米色裤子的现场视讯公开连事后的情况都被记录得很清楚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CRT-047.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRT-047"
+  },
+  {
+    "id": 445370,
+    "IDcode": "CRT-065",
+    "title": "穿著12小时个人写真拍摄一个穿著淡紫色裤子穿著口角的女孩_我现场就这么做了结果就这么做了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CRT-065.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRT-065"
+  },
+  {
+    "id": 155355,
+    "IDcode": "CSCT-002",
+    "title": "鬼滅之穴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CSCT-002.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-002"
+  },
+  {
+    "id": 83073,
+    "IDcode": "CSCT-003",
+    "title": "名器の子 枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "美少女电影",
+      "COSPLAY",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CSCT-003.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-003"
+  },
+  {
+    "id": 73023,
+    "IDcode": "CSCT-004",
+    "title": "Faith/Grand Orgasm-絶対性獣戦線エロマニア- Episode0 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "美少女电影",
+      "COSPLAY",
+      "素人作品",
+      "女战士"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CSCT-004.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-004"
+  },
+  {
+    "id": 72265,
+    "IDcode": "CSCT-005",
+    "title": "Re:エロから始める異世界性活 発情姉妹の絆 阿部乃みく＆麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "妹妹",
+      "COSPLAY",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "阿部乃美久",
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-005"
+  },
+  {
+    "id": 175885,
+    "IDcode": "CSCT-011",
+    "title": "集鬼之穴無限発射編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-011"
+  },
+  {
+    "id": 524384,
+    "IDcode": "CSCT-012",
+    "title": "痴术回戦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CSCT-012.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-012"
+  },
+  {
+    "id": 564412,
+    "IDcode": "CSCT-013",
+    "title": "ディルドーマン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "COSPLAY"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CSCT-013.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSCT-013"
+  },
+  {
+    "id": 87393,
+    "IDcode": "CSFT-05",
+    "title": "コスフェチ05 チャージマーメイド 横宮七海",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CSFT-05"
+  },
+  {
+    "id": 589278,
+    "IDcode": "CT-021",
+    "title": "我的女朋友在我男朋友面前.... Vol.2 : 素人少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CT-021.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CT-021"
+  },
+  {
+    "id": 578774,
+    "IDcode": "DART-000001",
+    "title": "特别警护队の女～夸り高きアルテミスの无惨なる肉虐～Episode-1红莲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DART-000001"
+  },
+  {
+    "id": 99526,
+    "IDcode": "DART-003",
+    "title": "特別警護隊の女 ～誇り高きアルテミスの無惨なる肉虐～ 鉄壁の防御は破られて堕ちゆく女体 その屈辱、妖しい香りを放ちつつ 梨々花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "凌辱",
+      "羞耻",
+      "连裤袜",
+      "素人作品",
+      "捆绑",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-05-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "梨々花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DART-003"
+  },
+  {
+    "id": 575602,
+    "IDcode": "DART-03",
+    "title": "特别警护队の女～夸り高きアルテミスの无惨なる肉虐～Epi第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DART-03"
+  },
+  {
+    "id": 467694,
+    "IDcode": "DAVK-012",
+    "title": "DAVK-012 复兴！桥田隆光的催眠术--日本首次全面公开整个催眠诱导过程。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "户外",
+      "内射",
+      "艺人",
+      "素人",
+      "放尿",
+      "催眠"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2016-10-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-012.jpg",
+    "actress": [
+      "植田陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-012"
+  },
+  {
+    "id": 467676,
+    "IDcode": "DAVK-013",
+    "title": "DAVK-013 未发育的E罩杯清醒少女，不懂性的感觉，羞耻与受虐的户外曝露考验，5个中年男人【中天阴部轮奸精液浸泡】，抽搐高潮 \"如果怀孕了，我就当男朋友的孩子生下来...... \"太顺从的霸道女厕母狗繁殖文档。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "户外",
       "调教",
-      "凌辱",
-      "奴隶"
+      "巨乳",
+      "深喉"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2012-02-07",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2016-10-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-013.jpg",
     "actress": [
-      "桃井早苗",
-      "白鸟るり",
-      "まりか"
+      "水泽莉子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-013"
   },
   {
-    "id": 98639,
-    "IDcode": "ATID-197",
-    "title": "美人捜査官 淫具の運命2 かすみゆら",
+    "id": 465894,
+    "IDcode": "DAVK-027",
+    "title": "DAVK-027 在 SNS 上发现的太白 101cm 超大胸 18 岁美少女 室外变态自慰秀 连续与 6 名业余男性发生性关系 拍摄间隙的 Paizuri 体内射精 连续高潮射精，太霸道的极端狂欢 北关东地区某城镇杂志最受欢迎的 No.1 读者记录。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "强奸"
+      "群交",
+      "乳交",
+      "户外",
+      "胸部",
+      "潮吹",
+      "内射",
+      "乱交",
+      "巨乳",
+      "深喉"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2012-04-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid197/atid197pl.jpg",
+    "publish_date": "2017-12-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-027.jpg",
     "actress": [
-      "かすみゆら"
+      "天野美優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-197"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-027"
   },
   {
-    "id": 225655,
-    "IDcode": "ATID-198",
-    "title": "国家机密谍报女特工-えりりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-198"
-  },
-  {
-    "id": 98009,
-    "IDcode": "ATID-199",
-    "title": "剣道教師-当真ゆき",
+    "id": 465869,
+    "IDcode": "DAVK-029",
+    "title": "DAVK-029 身高144cm超迷你身材【18岁刚失身】【户外指操羞耻高潮】【连续插入过大鸡巴濒临摧残下体】【为5名男子注射精液子宫】【喷水痉挛高潮反复爽快大量面部射精女主角摔倒6P圈文档。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女教师",
-      "强奸"
+      "户外",
+      "潮吹",
+      "迷你",
+      "内射",
+      "淫妻",
+      "颜射"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid199/atid199pl.jpg",
+    "publish_date": "2018-03-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-029.jpg",
     "actress": [
-      "玉木玲",
-      "当真ゆき"
+      "結菜はるか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-199"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-029"
   },
   {
-    "id": 98498,
-    "IDcode": "ATID-200",
-    "title": "潜入捜査官、堕ちるまで… 西野翔",
+    "id": 468029,
+    "IDcode": "DAVK-040",
+    "title": "DAVK-040 105cm I罩杯大奶，从山形到东京的乡下妹，震撼人心的霸道性爱【狭路相逢，大量唾液射精】【连续射精，喉咙射精】【将精液灌入阴部自慰】7P大环中年男人浸泡在体液中【无尽的性爱记录】。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "女检察官",
-      "监禁",
-      "强奸"
+      "乳交",
+      "户外",
+      "内射",
+      "巨乳",
+      "深喉"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2012-07-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid200/atid200pl.jpg",
+    "publish_date": "2019-02-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-040.jpg",
     "actress": [
-      "西野翔"
+      "新山枫"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-040"
   },
   {
-    "id": 98005,
-    "IDcode": "ATID-201",
-    "title": "暴走凌辱救护车-えりりか",
+    "id": 468043,
+    "IDcode": "DAVK-041",
+    "title": "DAVK-041 全天持续高潮的公升级尿液喷射 - 难以置信的整洁干净的霸气女主人隐藏的母狗宝藏被发现 - 全身性爱区与深喉射精痉挛 尖叫高潮与屁股殴打和打屁股 阴部注射所有中年男子的精液 。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "鸭嘴",
-      "艺人"
+      "户外",
+      "潮吹",
+      "美少女",
+      "内射",
+      "深喉"
     ],
     "type": "有码",
     "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2019-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-041.jpg",
     "actress": [
-      "片桐Eririka, 片桐えりりか"
+      "皆月光"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-041"
+  },
+  {
+    "id": 523684,
+    "IDcode": "DAVK-042",
+    "title": "DAVK-042 2920 天霸道总裁培训进度报告 数学老师，26 岁，结过婚 背叛了善良的丈夫 ，无法控制自己异常的性欲 连续乞求 6 个不忠的男人在她体内射精 ，作为一个圈子团体的性工作者，她已经被完全支配了 8 年，即使现在已经成为新婚妻子，仍然是一个 6P 轮奸骚体液浸泡的 SEX 上瘾文档报告。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "户外",
+      "内射",
+      "素人",
+      "人妻",
+      "调教",
+      "深喉",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-042.jpg",
+    "actress": [
+      "長谷川美裸"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-042"
+  },
+  {
+    "id": 94965,
+    "IDcode": "DAVK-043",
+    "title": "DAVK-043 一位年轻的名人妻子，拥有名人级别的美貌，却坦言自己没有性生活：\"我对我和蔼可亲的丈夫和富裕的生活方式毫无怨言。只是......当我想到我的生命可能会在没有性生活的情况下结束......",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "群交",
+      "户外",
+      "轮奸",
+      "中出",
+      "下流",
+      "淫乱，真实",
+      "内射",
+      "素人",
+      "重口味",
+      "人妻",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-05-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-043.jpg",
+    "actress": [
+      "有賀遊空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-043"
+  },
+  {
+    "id": 468073,
+    "IDcode": "DAVK-045",
+    "title": "DAVK-045 记录日本性欲最旺盛的已婚妇女在心爱的丈夫上班时与陌生人的匪夷所思的偷情生活 光天化日之下，路人目睹闹市中的精液gokkun ， 咖啡馆中的自慰，瞬间口交 ， 长时间的D吻和连续的深喉，全部精液阴部注射6P轮奸 ......",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "户外",
+      "潮吹",
+      "内射",
+      "接吻",
+      "口交",
+      "素人",
+      "人妻",
+      "射精",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-07-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-045.jpg",
+    "actress": [
+      "铃木里美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-045"
+  },
+  {
+    "id": 465970,
+    "IDcode": "DAVK-047",
+    "title": "DAVK-047 真正的性瘾女人文档 G罩杯整洁干净的美丽人妻是现实中所有男员工共享的骚货除老公外的【大屁股骑来骑去强行舔阴高潮迭起】【街头阴户畸形秀自慰高潮迭起】【初见鸡巴吞噬5P轮奸】出轨精液不断中田希公然霸占厕所的女人无穷无尽的SEX记录。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "群交",
+      "下流",
+      "户外",
+      "素人",
+      "重口味",
+      "人妻",
+      "巨臀",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-09-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-047.jpg",
+    "actress": [
+      "篠崎環奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-047"
+  },
+  {
+    "id": 83532,
+    "IDcode": "DAVK-050",
+    "title": "DAVK-050 美丽的大胸G罩杯整洁人妻'我将为你成为中年人的性玩具......' 室外无胸罩被人拍来拍去无胸罩吞精 未清洗肛门舌头清洗人体小便器 ...",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乳交",
+      "户外",
+      "中出",
+      "肛交",
+      "吞精",
+      "虐待",
+      "凌辱",
+      "内射",
+      "肛门",
+      "素人",
+      "人妻",
+      "素人作品",
+      "巨乳",
+      "射精"
+    ],
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-12-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAVK-050.jpg",
+    "actress": [
+      "森本つぐみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-050"
   }
 ];

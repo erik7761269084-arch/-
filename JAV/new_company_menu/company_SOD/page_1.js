@@ -33,7 +33,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/43c1f8fefe7adbbd1f85adb5096bcc2c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/07STZY-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=07STZY-013"
   },
@@ -48,7 +48,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/LhoWPHnA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAB-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAB-003"
   },
@@ -65,7 +65,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231002/2NgN5wdF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-001"
   },
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250428-1/59087558a4a7d639cf85e17092126c75.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-002"
   },
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250428-1/d4344ad69ddc67059b042fe5aa418db4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-003"
   },
@@ -110,7 +110,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231208/6QA1HzPH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-005"
   },
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/1mOy89s6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-009"
   },
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/19/68f457a1ce5a404e9beba9c8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HSDAM-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HSDAM-017"
   },
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/98370bb19ccba42b92854f3008fd59b9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-018"
   },
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/NFEMUhhS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-019"
   },
@@ -187,7 +187,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250502-1/f64f2b1a7cb4dcc2eb17e1f045d5dd81.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-019-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-019-CD3"
   },
@@ -202,7 +202,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/09bf3813ffd60acdd74ade1815680356.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-020"
   },
@@ -217,7 +217,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250429-1/763ca3156c6d3ab47c7ed17e5fc51184.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-020-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-020-CD3"
   },
@@ -232,7 +232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/b474afd175816067f36c9143383aaa40.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-021"
   },
@@ -262,7 +262,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240206-1/71ed91b043ac25efe8bbd08996f26df3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-033"
   },
@@ -292,7 +292,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_107hypn-051.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107HYPN-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107HYPN-051"
   },
@@ -307,7 +307,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230902/IvSuJseE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07201"
   },
@@ -322,7 +322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230902/bfbY9spG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07202.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07202"
   },
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/guFpnmbO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07203.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07203"
   },
@@ -352,7 +352,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/7rU7eKPw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07204.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07204"
   },
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/nXUuQplP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07205.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07205"
   },
@@ -382,7 +382,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230903/pn3GAuX7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07206.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07206"
   },
@@ -397,7 +397,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230709/SfLaVdwo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07301.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07301"
   },
@@ -412,7 +412,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230729/73aP38JY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDAM-07303.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDAM-07303"
   },
@@ -461,7 +461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f088b131a2714f1c5b627c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-09601.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-09601"
   },
@@ -476,7 +476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e47fbf944bbe4ef030898f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-09604.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-09604"
   },
@@ -491,7 +491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e47db5944bbe4ef0307c8f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-09605.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-09605"
   },
@@ -506,7 +506,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e47f96944bbe4ef030898e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-09606.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-09606"
   },
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/4kBqdykH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11201"
   },
@@ -536,7 +536,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/cPjYrdMw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11202.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11202"
   },
@@ -551,7 +551,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/t9sAC1e0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11203.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11203"
   },
@@ -566,7 +566,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/wFAYJznO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11204.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11204"
   },
@@ -581,7 +581,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/sFgO7TR8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11205.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11205"
   },
@@ -596,7 +596,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/IMHFGIGF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11206.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11206"
   },
@@ -611,7 +611,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/85P9ii7Q/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-11207.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-11207"
   },
@@ -673,7 +673,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230624/cC9B39f0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13102.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13102"
   },
@@ -690,7 +690,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230624/9HqgmBL4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13103.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13103"
   },
@@ -705,7 +705,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230624/1BYPX5oU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13201"
   },
@@ -720,7 +720,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230625/g60vWHX0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13202.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13202"
   },
@@ -735,7 +735,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230625/5WFDqx98/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13501.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13501"
   },
@@ -750,7 +750,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230625/E6chpbeU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SDMM-13502.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SDMM-13502"
   },
@@ -780,7 +780,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/da81d49b25b635ff01039109433cd37e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-084"
   },
@@ -795,7 +795,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/473b983213ab9db251dcd41c486cd65f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-085"
   },
@@ -810,7 +810,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/YL8u22JY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-088-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-088-CD3"
   },
@@ -825,7 +825,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/nTP65Gsv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-089-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-089-CD3"
   },
@@ -840,7 +840,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/8b83beb6f12ba55567a75e5927768ef5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-097-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-097-CD3"
   },
@@ -855,7 +855,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/t2RsLNNg/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-108"
   },
@@ -870,7 +870,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/1e7c845b01c67a67e544e43757e5b689.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-108-CD3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-108-CD3"
   },
@@ -885,7 +885,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/GhC2ohZk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-115116.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-115116"
   },
@@ -900,7 +900,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/0c2c5ddb227867fa1cb57a8f36fc795b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-129.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-129"
   },
@@ -915,7 +915,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/22/a0389a71/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-130.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-130"
   },
@@ -930,7 +930,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/17/5beef3f3d2e881662c2347866b825076.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-131.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-131"
   },
@@ -945,7 +945,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/17/1c52231d/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-132.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-132"
   },
@@ -975,7 +975,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/e9f8d01316caf1999d04dd8fbc80ff15.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-134.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-134"
   },
@@ -990,7 +990,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/20/c5ab5d9318a328495e88e5f3597ee92f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-136"
   },
@@ -1005,7 +1005,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/689a17c6b9b4f6a1e79c5127ec552246.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-152"
   },
@@ -1020,7 +1020,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/nQnV0NgS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-153"
   },
@@ -1035,7 +1035,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/206825ecdfeb156802e34a83733b6122.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-154.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-154"
   },
@@ -1050,7 +1050,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/oyOKikzC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-155.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-155"
   },
@@ -1065,7 +1065,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/4mbeYinI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-156.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-156"
   },
@@ -1080,7 +1080,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/wd2NJLqN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-157"
   },
@@ -1125,7 +1125,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231003/ex6IrRrK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-160.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-160"
   },
@@ -1142,7 +1142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231126/XzNBAsVi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-161.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-161"
   },
@@ -1157,7 +1157,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231030/87Vcjv8n/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-165.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-165"
   },
@@ -1172,7 +1172,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/ZHlvEYA0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-168.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-168"
   },
@@ -1189,7 +1189,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231228/zVwBsQwQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-169.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-169"
   },
@@ -1206,7 +1206,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231229/LRG0tOP7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-170.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-170"
   },
@@ -1221,7 +1221,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/aaeeH7v4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-171.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-171"
   },
@@ -1236,7 +1236,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231126/bMcTB1Ru/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-174.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-174"
   },
@@ -1253,7 +1253,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/V0SGFL3z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-176.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-176"
   },
@@ -1270,7 +1270,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240821/WLzRwbdo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-183.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-183"
   },
@@ -1285,7 +1285,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240821/O6njhc71/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-196.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-196"
   },
@@ -1300,7 +1300,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240622/oLoG7gUA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107SHYN-200.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107SHYN-200"
   },
@@ -1315,7 +1315,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231030/Tj3VQCp0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107STZY-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107STZY-008"
   },
@@ -1330,7 +1330,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/8erUjvND/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107STZY-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107STZY-010"
   },
@@ -1347,7 +1347,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/kCmHZY7o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/107STZY-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=107STZY-012"
   },
@@ -1377,7 +1377,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230103/bPnJq3m0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/576STZY-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=576STZY-004"
   },
@@ -1392,7 +1392,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250624/17FQlusZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/576STZY-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=576STZY-007"
   },
@@ -1407,7 +1407,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f3747ed6fbef4e90febea1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/787HNAMH-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=787HNAMH-012"
   },
@@ -1424,7 +1424,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/YVKLxUeR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/787NAMH-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=787NAMH-003"
   },
@@ -1439,7 +1439,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/63010_cover_2025-09-30_022844.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888STARS-A858.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888STARS-A858"
   },
@@ -1456,7 +1456,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/71687_cover_2025-09-30_022844.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888STARS-A889.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888STARS-A889"
   },
@@ -1471,7 +1471,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/54228_cover_2025-09-30_030446.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888STARS-A890.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888STARS-A890"
   },
@@ -1488,7 +1488,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/72746_cover_2025-09-30_122234.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888START-A039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888START-A039"
   },
@@ -1503,7 +1503,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/78056_cover_2025-10-01_011808.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888START-A040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888START-A040"
   },
@@ -1518,32 +1518,34 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/74210_cover_2025-10-02_022640.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/888START-A046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888START-A046"
   },
   {
-    "id": 13729,
-    "IDcode": "FTAV-001",
-    "title": "到夏天，我要結婚了。I cup，現役護士，22歲，千葉縣君津市，不隸屬於任何制作公司，住在鄉下的天然巨乳妹子AV出道 笹本優",
+    "id": 221518,
+    "IDcode": "AVOP-126",
+    "title": "AVOP-126 Haruka Kasumi AVDebut",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
       "出道作",
-      "企畫",
-      "護士",
-      "出道作品",
-      "業餘",
-      "素人",
-      "美乳"
+      "美少女",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2024-06-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240626/a3fd408c-ab7f-49e8-90ba-703c0a37bb48.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-001"
+    "publish_date": "2015-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-126.jpg",
+    "actress": [
+      "香澄はるか",
+      "贞松大辅",
+      "一条真斗",
+      "皮埃尔剑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-126"
   }
 ];

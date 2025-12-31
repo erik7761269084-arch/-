@@ -1,104 +1,112 @@
 window.PAGE_DATA = [
   {
-    "id": 516200,
-    "IDcode": "SAN-004",
-    "title": "可愛白皙亮麗身材超棒少妻書道家 現",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d9f5ef631cc64eb58a2fae/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-004"
-  },
-  {
     "id": 79746,
     "IDcode": "SAN-016",
-    "title": "最高の寝取り！旦那のいない三日間の間に再びあの体を手に入れる！ / 高瀬りな",
+    "title": "SAN-016 最好的绿帽子在我丈夫离开的三天里，我将再次拥有这样的身体！ / Rina Takase",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-08-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7b50cfbdb80a1be0423e8a79124c9dbe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-016.jpg",
     "actress": [
-      "高瀬りな"
+      "高瀬りな",
+      "矢野慎二"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-016"
   },
   {
     "id": 79756,
     "IDcode": "SAN-017",
-    "title": "主従逆転！高飛車な美人妻は夫の部下の言いなりになり犯●れる / 宮村ななこ",
+    "title": "SAN-017 主从逆转！高贵美丽的妻子被丈夫的下属强奸 / 宫村奈奈子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "剧情",
+      "内射",
       "人妻",
-      "已婚妇女",
-      "中出",
-      "乳房",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "中出",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-08-31",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/6482116701b37fe3dfa15236970f200a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-017.jpg",
     "actress": [
-      "宫村ななこ"
+      "宮村菜菜子",
+      "宫村ななこ",
+      "桐岛达也"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-017"
   },
   {
     "id": 79759,
     "IDcode": "SAN-018",
-    "title": "モチモチおっぱいの初接客シングルマザー回春エステ嬢が手籠めにされるまで / 神楽りん",
+    "title": "SAN-018 第一次当美容师的单身母亲如何被戴上手铐/神乐凛。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "纪录片",
+      "人妻",
       "礼仪小姐",
       "已婚妇女",
-      "巨乳",
-      "纪录片"
+      "单人作品",
+      "女招待"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-08-31",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/f3f5c43ff6b385f875e0881c7781de0b.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-018.jpg",
+    "actress": [
+      "最上もも",
+      "樱井辰太郎"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-018"
   },
   {
     "id": 79399,
     "IDcode": "SAN-019",
-    "title": "男手一つで育ててくれた兄に妻を寝取られた弟の悲劇 / 瀬名ひかり",
+    "title": "SAN-019 妻子被亲手养大的哥哥戴绿帽子的弟弟的悲剧/Hikari Sena。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
       "巨乳",
+      "侮辱",
+      "白天出轨",
       "深喉",
-      "乱伦"
+      "NTR",
+      "乱伦",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-09-21",
-    "cover_url": "https://xing.sex8sex833.com/20251003/YPGcUXQw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-019.jpg",
     "actress": [
+      "広瀬藍子",
       "瀨名光"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-019"
@@ -106,19 +114,21 @@ window.PAGE_DATA = [
   {
     "id": 79398,
     "IDcode": "SAN-020",
-    "title": "配達員に自分の妻を寝取らせたED（勃起不全）夫の計画 / 成海美雨",
+    "title": "SAN-020 ED（勃起功能障碍）丈夫让送货员睡自己妻子的计划 / Miu Narumi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "白天出轨",
+      "潮吹",
       "玩具",
-      "潮吹"
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-09-21",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221022-1/83ccfd781c4af0a11259fdc1ee3f3fc6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-020.jpg",
     "actress": [
       "成海美雨"
     ],
@@ -127,43 +137,51 @@ window.PAGE_DATA = [
   {
     "id": 79397,
     "IDcode": "SAN-021",
-    "title": "夫の上司に寝取られ！桃尻と巨乳輪を汚されNTRチ○ポに夢中になった妻 / 黒井愛菜",
+    "title": "SAN-021 被丈夫的上司戴绿帽子！被玷污了桃臀和大奶环的妻子为 NTR 鸡巴疯狂 / 黑井爱奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
+      "羞辱",
       "淫妻",
+      "白天出轨",
+      "内射",
       "羞耻",
-      "中出",
       "NTR",
-      "白天出轨"
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-09-21",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221022-1/89b0fd2c79fdff96311cfd403c8483b5.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-021.jpg",
+    "actress": [
+      "黒井愛菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-021"
   },
   {
     "id": 79389,
     "IDcode": "SAN-022",
-    "title": "出張ホストを喰いまくる欲望が抑えきれないバツイチ性欲怪獣 / 浅宮ちなつ",
+    "title": "SAN-022 离过婚的性怪物，对出差的主人有无法抑制的吞噬欲望 / 朝宫千夏。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "拘束",
+      "内射",
+      "玩具",
       "中出",
       "荡妇",
-      "玩具",
-      "拘束"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2021-09-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c13eba2d5769e02e49811934ac1af845.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-022.jpg",
     "actress": [
+      "幾田真知",
       "浅宫ちなつ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-022"
@@ -171,155 +189,203 @@ window.PAGE_DATA = [
   {
     "id": 86166,
     "IDcode": "SAN-027",
-    "title": "理不尽なパワハラ上司に復讐した部下の主従逆転劇場 / 碓氷れん",
+    "title": "SAN-027 下属向无理取闹的上司报复的主从反转剧 / Ren Usui",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
       "已婚妇女",
+      "NTR",
       "OL",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7767509a507ee9ec2d24ef2a923f0f82.jpg",
+    "publish_date": "2021-11-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-027.jpg",
     "actress": [
-      "碓冰莲"
+      "碓冰莲",
+      "碓氷れん",
+      "ゴッドマーラ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-027"
   },
   {
     "id": 86138,
     "IDcode": "SAN-028",
-    "title": "壮絶レ●プ！バイオレンスセックス。客の性玩具にされたバツイチメンズエステ嬢。被害者＃001 / 前嶋美樹",
+    "title": "SAN-028 壮观的淫乱！暴力性行为被客户当作性玩具的离异男士美容师。受害者编号 001 / Miki Maejima",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "已婚妇女",
       "纪录片",
+      "白天出轨",
       "礼仪小姐",
-      "白天出轨"
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "女招待",
+      "凌辱",
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/0323701733f9e28d14eb19535db7c53e.jpg",
+    "publish_date": "2021-11-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-028.jpg",
     "actress": [
-      "平川琴菜"
+      "花音うらら",
+      "平川琴菜",
+      "ゴッドマーラ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-028"
   },
   {
     "id": 86153,
     "IDcode": "SAN-029",
-    "title": "無防備すぎた美爆乳妻は義理の父に寝取られ彼を愛してしまう。 / 姫咲はな",
+    "title": "SAN-029 拥有美丽大奶子的无助妻子被公公戴上绿帽子，并爱上了公公。 / Hana Himesaki。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
+      "新娘",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
+      "已婚妇女",
+      "NTR",
+      "少妇",
       "新娘，年轻妻子",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3bcbaa81089a253a95805a71ed466911.jpg",
+    "publish_date": "2021-11-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-029.jpg",
     "actress": [
-      "姫咲華"
+      "姫咲華",
+      "黄桜花瓶"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-029"
   },
   {
     "id": 86151,
     "IDcode": "SAN-030",
-    "title": "旦那よりデカくて固い寝取りチンポが忘れられずチンポをデリバリーする美巨乳妻 / 高橋りほ",
+    "title": "SAN-030 美丽的大胸妻子忘不了比丈夫更大更硬的绿帽子鸡巴，并将它送了出去 / Riho Takahashi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
+      "新娘",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
+      "已婚妇女",
+      "NTR",
+      "少妇",
       "新娘，年轻妻子",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/0a21a48f90ae7f34d8559f84a1ccf5fd.jpg",
-    "actress": [],
+    "publish_date": "2021-11-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-030.jpg",
+    "actress": [
+      "白橋里帆",
+      "黄桜花瓶"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-030"
   },
   {
     "id": 86135,
     "IDcode": "SAN-031",
-    "title": "花屋の略奪愛！ダリアの花言葉に込められた妻の思い / のあういか",
+    "title": "SAN-031 花商的掠夺之爱！大丽花花语中的妻子之思 / Noa Uika",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "苗条",
+      "新娘",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
+      "已婚妇女",
+      "NTR",
+      "少妇",
       "新娘，年轻妻子",
-      "白天出轨"
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d6eda2c048fb78de3474f44e71ae7e83.jpg",
-    "actress": [],
+    "publish_date": "2021-11-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-031.jpg",
+    "actress": [
+      "桃愛ゆえ",
+      "黄桜花瓶"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-031"
   },
   {
     "id": 86123,
     "IDcode": "SAN-032",
-    "title": "夫の計画に加担し全てを失い復讐され自らの命を絶った女の転落人生 / 永野楓果",
+    "title": "SAN-032 一个参与丈夫计划、失去一切、被复仇并自杀的女人的堕落故事 / 长野香香（Kaeka Nagano）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6c730ae0dc3c8ca6c779105c88c6086c.jpg",
+    "publish_date": "2021-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-032.jpg",
     "actress": [
-      "永野枫果"
+      "永野枫果",
+      "永野楓果"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-032"
   },
   {
     "id": 86145,
     "IDcode": "SAN-033",
-    "title": "家賃のカタに鬼畜大家に体を捧げ身も心もやさぐれて廃人になった人妻 / 桐山結羽",
+    "title": "SAN-033 为了房租而把身体交给魔鬼房东，成为身体和灵魂残缺的已婚妇女 / 桐山裕叶",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "剧情",
+      "内射",
       "人妻",
-      "已婚妇女",
-      "中出",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/39fe756b53337b1ec920ecbc64c6f027.jpg",
+    "publish_date": "2021-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-033.jpg",
     "actress": [
       "桐香悠裡"
     ],
@@ -328,93 +394,116 @@ window.PAGE_DATA = [
   {
     "id": 86144,
     "IDcode": "SAN-034",
-    "title": "勤務先のクリニックの院長に寝取られた美しすぎる美乳を持つ人妻 / 冨安れおな",
+    "title": "SAN-034 被诊所主任戴绿帽子的美胸已婚妇女/Reona Tomiyasu",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "已婚妇女",
+      "白天出轨",
+      "人妻",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/68501f80d2518bf24bf0bb6dca6ecc0c.jpg",
-    "actress": [],
+    "publish_date": "2021-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-034.jpg",
+    "actress": [
+      "冨安玲於奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-034"
   },
   {
     "id": 86148,
     "IDcode": "SAN-035",
-    "title": "マンションの管理人に寝取られたセックスレスのマンネリ妻 / 七瀬いおり",
+    "title": "SAN-035 无性癞皮妻被单位经理戴绿帽子 / 七濑伊织",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/710f284186d6f6c33e1caa405607a118.jpg",
+    "publish_date": "2022-01-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-035.jpg",
     "actress": [
-      "七瀬いおり"
+      "七瀬いおり",
+      "中田一平"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-035"
   },
   {
     "id": 86120,
     "IDcode": "SAN-036",
-    "title": "旦那に逃げられ不倫相手にも捨てられ全てを失った人妻 / 一条みお",
+    "title": "SAN-036 因丈夫出走和奸夫抛弃而失去一切的已婚妇女 / Mio Ichijo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "剧情",
+      "内射",
       "人妻",
-      "已婚妇女",
-      "中出",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d7412ad871d52ad3daf24d4d194eaae1.jpg",
+    "publish_date": "2022-01-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-036.jpg",
     "actress": [
+      "一条美緒",
       "岩下たろう",
-      "一条美绪"
+      "一条美绪",
+      "岩下太郎"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-036"
   },
   {
     "id": 80594,
     "IDcode": "SAN-039",
-    "title": "俺の自慢の嫁は上司の女だった。その関係は今でも続いていた。 / 児玉れな",
+    "title": "SAN-039 我引以为豪的妻子是我老板的女人。我们的关系仍在继续。 / 儿玉玲奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-02-22",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-039.jpg",
     "actress": [
+      "児玉れな",
       "儿玉玲奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-039"
@@ -422,46 +511,58 @@ window.PAGE_DATA = [
   {
     "id": 80595,
     "IDcode": "SAN-040",
-    "title": "隣の旦那を寝取ったつもりが言う事を聞かされ寝取られたサド人妻 / 星乃星良",
+    "title": "SAN-040 自以为给邻居丈夫戴了绿帽子，却不得不听信他的话给他戴绿帽子的已婚伤心女人 / Hoshino Hoshira",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-02-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/afc3ff43d1242fb0e52909e4b6e48241.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-040.jpg",
+    "actress": [
+      "雪乃繪留"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-040"
   },
   {
     "id": 80630,
     "IDcode": "SAN-041",
-    "title": "無断で一時的に借用した現金を着服と義父に疑われ始まった羞恥の日々 / 宮崎リン",
+    "title": "SAN-041 从公公怀疑我擅自挪用临时借来的现金开始的羞愧日子/Lynn Miyazaki。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "羞辱",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "羞耻",
-      "苗条",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-02-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/1d7dfaac553707e807515f23ad7b7be3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-041.jpg",
     "actress": [
+      "宮崎玲",
       "宫崎リン"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-041"
@@ -469,68 +570,86 @@ window.PAGE_DATA = [
   {
     "id": 80596,
     "IDcode": "SAN-042",
-    "title": "使用人のベロチューとデカ○ンに魅了され底なし沼にハマったセレブ妻 / 愛須みのん",
+    "title": "SAN-042 被仆人的舌头和大阴户迷住而坠入无底沼泽的名流妻子 / Minon Aisu。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-02-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/e2304dff0df0b740b0d824aa959beb51.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-042.jpg",
     "actress": [
-      "爱须みのん"
+      "爱须みのん",
+      "愛須みのん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-042"
   },
   {
     "id": 86142,
     "IDcode": "SAN-043",
-    "title": "同窓会で再会した昔の彼氏にあっさりと寝取られた黒髪桃尻妻 / 宇佐美玲奈",
+    "title": "SAN-043 黑发桃臀的妻子，被重逢的旧男友轻易戴上绿帽子 / Reina Usami",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "迷你",
+      "剧情",
+      "人妻",
       "出轨",
       "瘦小身型",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/66107079b22c62ff7f6a0d55f7cf715a.jpg",
-    "actress": [],
+    "publish_date": "2022-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-043.jpg",
+    "actress": [
+      "宇佐美玲奈",
+      "成上"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-043"
   },
   {
     "id": 86136,
     "IDcode": "SAN-045",
-    "title": "夫の友人にお金をもらって性的サービスを繰り返す巨乳巨尻妻 / 玉木くるみ",
+    "title": "SAN-045 胸大屁股大的妻子，多次收受丈夫朋友的性服务费 / Kurumi Tamaki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
-      "巨大屁股",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "巨臀",
+      "巨大屁股",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ef0211c6e7ebbec65a2ba7540e66764d.jpg",
+    "publish_date": "2022-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-045.jpg",
     "actress": [
       "大島愛里亞"
     ],
@@ -539,22 +658,28 @@ window.PAGE_DATA = [
   {
     "id": 86122,
     "IDcode": "SAN-046",
-    "title": "父親に反発する引きこもりの童貞な義理の息子を筆おろしする義母 / 宮沢ちはる",
+    "title": "SAN-046 丈母娘笔下的女婿，一个反抗父亲的隐居处男 / Chiharu Miyazawa。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "侮辱",
       "单体作品",
-      "已婚妇女",
-      "乱伦",
-      "婆婆",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "继母",
+      "单人作品",
+      "婆婆",
+      "乱伦"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2467365fbfd79f9523ddf5a5b6d7de5a.jpg",
+    "publish_date": "2022-03-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-046.jpg",
     "actress": [
       "宫泽千春"
     ],
@@ -563,69 +688,85 @@ window.PAGE_DATA = [
   {
     "id": 86131,
     "IDcode": "SAN-049",
-    "title": "鬼畜上司-新村あかり",
+    "title": "SAN-049 FANZA 独家 为了让挪用公司资金并失踪的丈夫放过自己，她将自己的身体献给了魔鬼上司，成为了一个身体和灵魂都残缺不全的人/Akari Niimura（新村明里） 内裤、清新写真和花格子写真均已收录。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c643492bd68a667670c55ce4535684b9.jpg",
+    "publish_date": "2022-04-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-049.jpg",
     "actress": [
-      "新村晶"
+      "新村朱里",
+      "新村晶",
+      "杉浦树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-049"
   },
   {
     "id": 86149,
     "IDcode": "SAN-051",
-    "title": "【FANZA限定】旦那がいない三日間に昔の男に復讐リベンジレ●プされて身も心も壊れた人妻 / 及川うみ パンティと生写真とチェキ付き",
+    "title": "SAN-051 FANZA 独家报道 已婚妇女在丈夫不在家的三天里遭到一名老人的报复性强奸，身心俱碎/大川海美，附内裤、新鲜照片和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "潮吹",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
+      "潮吹",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/29dc69c7d1290eb2cbb80e1bba9dd6ec.jpg",
-    "actress": [],
+    "publish_date": "2022-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-051.jpg",
+    "actress": [
+      "及川海"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-051"
   },
   {
     "id": 86121,
     "IDcode": "SAN-052",
-    "title": "【FANZA限定】異常なる一族。父、兄、兄嫁、弟の複雑な関係に巻き込まれた豊満超爆乳の悲劇 / 夕季ちとせ パンティと生写真とチェキ付き",
+    "title": "SAN-052 FANZA 独家 异常家庭。一个被父亲、哥哥、姐夫和弟弟之间错综复杂的关系所困的丰满、超级丰满的女人的悲剧 / Chitose Yuki 内裤、新鲜照片和 chekis 包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
-      "巨大屁股",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "巨臀",
+      "巨大屁股",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f722cf4833ff34c4ec053f808aa77d8c.jpg",
+    "publish_date": "2022-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-052.jpg",
     "actress": [
       "七草千歲"
     ],
@@ -634,44 +775,55 @@ window.PAGE_DATA = [
   {
     "id": 86146,
     "IDcode": "SAN-053",
-    "title": "【FANZA限定】同じマンションの学生を誘惑したら本気になってしまい全てが破滅した妻 / かぐや凛 パンティと生写真とチェキ付き",
+    "title": "SAN-053 FANZA独家 当我勾引同一公寓的学生时，她变得严肃起来，一切都毁了 妻子/辉夜凛，带着内裤、新鲜照片和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/22e650f9301f42f77746d6bd8080f84b.jpg",
-    "actress": [],
+    "publish_date": "2022-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-053.jpg",
+    "actress": [
+      "櫻田桃羽"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-053"
   },
   {
     "id": 86167,
     "IDcode": "SAN-054",
-    "title": "【FANZA限定】遺産目当てでドンファンと結婚した妻の浅はかすぎたもくろみ / 三岳ゆうな パンティと生写真とチェキ付き",
+    "title": "SAN-054 FANZA 独家 为继承遗产而嫁给唐璜的妻子太肤浅 / Yuna Mitake 内裤、新鲜照片和支票都包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f04e0f4f90c3247c0d207b8aaada8ca1.jpg",
+    "publish_date": "2022-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-054.jpg",
     "actress": [
       "三岳祐奈"
     ],
@@ -680,116 +832,146 @@ window.PAGE_DATA = [
   {
     "id": 86189,
     "IDcode": "SAN-055",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス",
+    "title": "SAN-055 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "4小时以上作品",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4ca5d2f54dc7067acd2ed7c55fb2f04a.jpg",
+    "publish_date": "2022-05-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-055.jpg",
     "actress": [
       "美園和花",
+      "藍澤りく",
+      "雪乃繪留",
       "一色さゆり",
       "希望美",
-      "凪泽诗音"
+      "凪泽诗音",
+      "凪澤詩音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-055"
   },
   {
     "id": 89834,
     "IDcode": "SAN-061",
-    "title": "【FANZA限定】夫の目の前でドSの幼馴染に寝取られるエロ乳首妻 / 野咲美桜 パンティと生写真とチェキ付き",
+    "title": "SAN-061 FANZA独家 情色娇妻在丈夫面前被DOSS青梅竹马戴绿帽子/野崎美咲 内裤、新鲜照片和支票包含在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
       "淫妻",
-      "中出",
+      "白天出轨",
+      "人妻",
+      "剧情",
+      "内射",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-07-26",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-061.jpg",
+    "actress": [
+      "野咲美桜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-061"
   },
   {
     "id": 89847,
     "IDcode": "SAN-062",
-    "title": "【FANZA限定】托卵妻 / 入間茜 パンティと生写真とチェキ付き",
+    "title": "SAN-062 FANZA Limited Mendicant Wife / Akane Iruma 内裤，附带新鲜照片和 chekki。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-07-26",
-    "cover_url": "https://xing.sex8sex833.com/20251008/PosRf95C/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-062.jpg",
+    "actress": [
+      "冴島翔子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-062"
   },
   {
     "id": 89860,
     "IDcode": "SAN-063",
-    "title": "【FANZA限定】夫の親友に寝取られて完堕ちしてしまい家に帰らなくなった不倫妻 / 美井ひなの パンティと生写真とチェキ付き",
+    "title": "SAN-063 FANZA独家】被丈夫好友戴绿帽子的淫荡人妻，彻底沦陷再也不回家/日野三井内裤，内附新鲜照片和小票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-07-26",
-    "cover_url": "https://xing.sex8sex833.com/20251008/FmynNwsD/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-063.jpg",
+    "actress": [
+      "美井ひなの"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-063"
   },
   {
     "id": 89865,
     "IDcode": "SAN-064",
-    "title": "【FANZA限定】子供が生まれてから育児ノイローゼになり義父に体を弄ばれ身も心もやさぐれて廃人になった爆乳妻 / 春菜はな パンティと生写真とチェキ付き",
+    "title": "SAN-064 FANZA 独家报道 孩子出生后，她对养育孩子产生了神经质，公公玩弄了她的身体，导致她的身体和灵魂都成了残废/花春奈（附内裤、新鲜照片和支票）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "超乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "超乳",
+      "超巨乳",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-07-26",
-    "cover_url": "https://xing.sex8sex833.com/20251008/62DGCtBq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-064.jpg",
     "actress": [
       "春菜华"
     ],
@@ -798,301 +980,385 @@ window.PAGE_DATA = [
   {
     "id": 89846,
     "IDcode": "SAN-065",
-    "title": "マザードキュメンタリー長尺6本番250分BEST",
+    "title": "SAN-065 母亲 纪录片长篇 6 部曲 250 分钟 BEST",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
+      "纪录片",
+      "内射",
       "乳房",
       "4小时以上作品",
-      "纪录片"
+      "4小时以上",
+      "中出",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-07-26",
-    "cover_url": "https://xing.sex8sex833.com/20251008/r1KKSFL4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-065.jpg",
     "actress": [
       "秋元千早",
       "七瀬もな",
-      "咲乃にいな"
+      "咲乃にいな",
+      "伊佐木リアン"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-065"
   },
   {
     "id": 89862,
     "IDcode": "SAN-066",
-    "title": "【FANZA限定】隣のご主人に本気になってしまい子供まで妊娠したムッチリ巨乳巨尻妻 希咲アリス パンティと生写真とチェキ付き",
+    "title": "SAN-066 FANZA 独家报道 爱丽丝-木崎（Alice Kisaki）是一位拥有大屁股和大乳房的妻子，她爱上了邻居的丈夫，甚至怀上了他的孩子，她带着内裤、新鲜照片和格子旗来了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-08-09",
-    "cover_url": "https://xing.sex8sex833.com/20251008/s6a1Edu6/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-066.jpg",
+    "actress": [
+      "希咲愛莉絲",
+      "中田一平"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-066"
   },
   {
     "id": 89867,
     "IDcode": "SAN-067",
-    "title": "【FANZA限定】シリコンリング入りのチ○ポに夢中になり他人の子供を妊娠し罪を犯した妻 夏巳ゆりか パンティと生写真とチェキ付き",
+    "title": "SAN-067 FANZA 独家报道 夏美百合香是一个迷恋带硅胶环阴茎的妻子，她怀上了别人的孩子，并犯下了罪行。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-08-09",
-    "cover_url": "https://xing.sex8sex833.com/20251008/teOSanx7/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-067.jpg",
+    "actress": [
+      "夏巳百合香",
+      "ゆーきゅん"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-067"
   },
   {
     "id": 89843,
     "IDcode": "SAN-068",
-    "title": "【FANZA限定】出来心でマッチングアプリに手を出したら火遊びのつもりが大火事になった妻 宮名遥 パンティと生写真とチェキ付き",
+    "title": "SAN-068 FANZA 独家报道 当妻子一时兴起使用配对应用程序时，本应是一场艳遇却变成了一场风暴，宫奈春香的内裤、新鲜的照片和红旗都包含在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2022-08-09",
-    "cover_url": "https://xing.sex8sex833.com/20251008/O1Jr8EGY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-068.jpg",
     "actress": [
-      "ニック"
+      "宮名遥",
+      "ニック",
+      "Nick"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-068"
   },
   {
     "id": 86139,
     "IDcode": "SAN-069",
-    "title": "【FANZA限定】義兄に弱みを握られ寝取られたベロが異様に長い不倫妻 如月ゆの パンティと生写真とチェキ付き",
+    "title": "SAN-069 FANZA 独家 如月 Yuno，一个被姐夫戴了绿帽子的长舌通奸妻子，带着内裤、新鲜照片和红旗而来。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/e39668d0b34c12b111fef5289f6a3b23.jpg",
-    "actress": [],
+    "publish_date": "2022-08-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-069.jpg",
+    "actress": [
+      "如月ゆの"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-069"
   },
   {
     "id": 86190,
     "IDcode": "SAN-070",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス240分",
+    "title": "SAN-070 6 名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子，240 分钟的性爱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "4小时以上作品",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b41a82e792f220a09cfb36e0b9dc3cc9.jpg",
+    "publish_date": "2022-08-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-070.jpg",
     "actress": [
       "木下日葵",
       "高瀬りな",
+      "平井栞奈",
+      "広瀬藍子",
+      "宮村菜菜子",
       "瀨名光",
-      "宫村ななこ"
+      "宫村ななこ",
+      "真白れいな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-070"
   },
   {
     "id": 86133,
     "IDcode": "SAN-071",
-    "title": "【FANZA限定】托卵妻2 / 上白美央 パンティと生写真とチェキ付き",
+    "title": "SAN-071 FANZA独家 补妻2/上白宫美穗内裤新鲜写真和chekki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "人妻",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/980ecfc1560a3370fdfd7a6d18a827ab.jpg",
-    "actress": [],
+    "publish_date": "2022-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-071.jpg",
+    "actress": [
+      "上白美央",
+      "龟次郎"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-071"
   },
   {
     "id": 86124,
     "IDcode": "SAN-072",
-    "title": "【FANZA限定】義父をイカせまくり、あの世にも逝かせた白衣の巨乳天使 / 唯奈みつき パンティと生写真とチェキ付き",
+    "title": "SAN-072 FANZA 独家 让公公射得满身精液、来世已逝的大胸白衣天使/田名光树 附内裤、新鲜照片和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4804e6dd67001b164234df032657b881.jpg",
-    "actress": [],
+    "publish_date": "2022-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-072.jpg",
+    "actress": [
+      "唯奈みつき",
+      "ドラゴン"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-072"
   },
   {
     "id": 86132,
     "IDcode": "SAN-073",
-    "title": "【FANZA限定】逃亡中の殺●犯は初恋相手のおにいちゃんだった。 / 深月めい チェキ付き",
+    "title": "SAN-073 FANZA Limited 在逃的凶手是我的初恋情人鬼子。 /深槻美 附支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "已婚妇女",
       "纪录片",
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "戏剧",
       "监禁",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/cd5c1f9d31c41076cd606362db3d5c85.jpg",
-    "actress": [],
+    "publish_date": "2022-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-073.jpg",
+    "actress": [
+      "深月芽衣",
+      "一马"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-073"
   },
   {
     "id": 86134,
     "IDcode": "SAN-074",
-    "title": "【FANZA限定】極悪兄弟に調教される決して終わる事のない日々 / 佐伯由美香 チェキ付き",
+    "title": "SAN-074 FANZA 独家 被恶棍兄弟训练的永无止境的日子/佐伯由美香，附支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "羞辱",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "羞耻",
-      "放尿",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "放尿",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2159a674b959eead80dca20abcc85f3a.jpg",
+    "publish_date": "2022-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-074.jpg",
     "actress": [
-      "佐伯由美香"
+      "佐伯由美香",
+      "樱井辰太郎"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-074"
   },
   {
     "id": 86150,
     "IDcode": "SAN-076",
-    "title": "【FANZA限定】中出し二連発の後に胸発射！絶倫上司との不倫に揺れまくる美巨乳 / 早見依桜 パンティと生写真とチェキ付き",
+    "title": "SAN-076 FANZA Limited 连拍两张中田希后的乳交！与奸夫老板通奸摇摆的美丽大奶子 / Yorozu Hayami 内裤、新鲜照片和支票都包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/db8917d449ca034344c8a8435bd00d59.jpg",
-    "actress": [],
+    "publish_date": "2022-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-076.jpg",
+    "actress": [
+      "早見依桜",
+      "河村"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-076"
   },
   {
     "id": 86137,
     "IDcode": "SAN-077",
-    "title": "【FANZA限定】夫の上司に抱かれ過ぎて誰の子かわからない子供を妊娠してしまった妻 / 皆瀬あかり チェキ付き",
+    "title": "SAN-077 FANZA 独家 被丈夫的上司抱得太紧而怀上不知是谁的孩子的妻子/Akari Minase，附支票卡。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8c6a7dcb7d1d0d3e97408e3d4d745f52.jpg",
+    "publish_date": "2022-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-077.jpg",
     "actress": [
-      "皆瀨明里"
+      "皆瀨明里",
+      "ドラゴン"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-077"
   },
   {
     "id": 86165,
     "IDcode": "SAN-078",
-    "title": "【FANZA限定】義理の息子に繰り返しレ●プされ完全服従してしまった継母 / 中条りの パンティと生写真付き",
+    "title": "SAN-078 FANZA 独家 被继子多次强奸并完全征服的继母/中条理乃（Rino Nakajo） 内附内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2bd4200f39f8f0826610f38116d1f519.jpg",
+    "publish_date": "2022-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-078.jpg",
     "actress": [
+      "中条りの",
       "ゆーと"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-078"
@@ -1100,23 +1366,29 @@ window.PAGE_DATA = [
   {
     "id": 86143,
     "IDcode": "SAN-079",
-    "title": "【FANZA限定】パート先の店長に媚薬を盛られトロトロ状態で妊娠させられた幼妻 / 市井結夏 パンティと生写真とチェキ付き",
+    "title": "SAN-079 FANZA 独家 被打工经理下春药并怀孕的年轻妻子 / Yuka Ichii 内裤、清新写真和格子衫写真。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "平胸",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "美胸",
+      "单人作品",
+      "平胸"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5d8580767ed8660c2a790ae70f321d36.jpg",
+    "publish_date": "2022-10-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-079.jpg",
     "actress": [
+      "市井結夏",
       "まーち"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-079"
@@ -1124,325 +1396,379 @@ window.PAGE_DATA = [
   {
     "id": 565533,
     "IDcode": "SAN-080",
-    "title": "结婚生活のストレスでノイローゼになり身も心もやさぐれて廃人になった巨乳妻 浜崎真绪",
+    "title": "SAN-080 FANZA 独家 因婚姻生活压力而神经质，失去肉体和灵魂后成为瘸子的大胸妻子/滨崎步（Mao Hamasaki） 内附内裤、新鲜照片和格子旗。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d6c32dcc2a36fd715272018d89f93053.jpg",
-    "actress": [],
+    "publish_date": "2022-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-080.jpg",
+    "actress": [
+      "浜崎真緒",
+      "中田一平"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-080"
   },
   {
     "id": 565532,
     "IDcode": "SAN-081",
-    "title": "家赁が支払えず鬼畜大家に体を捧げ身も心もやさぐれて廃人になった人妻 有马美玖",
+    "title": "SAN-081 FANZA 独家 已婚女子因付不起房租，将身体献给了恶魔房东，成了身体和灵魂的残废/有马美空 内裤、新鲜照片和支票都包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/22d20f74a40987eb56b6a609d7690165.jpg",
-    "actress": [],
+    "publish_date": "2022-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-081.jpg",
+    "actress": [
+      "有馬美玖",
+      "工藤健太"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-081"
   },
   {
     "id": 565531,
     "IDcode": "SAN-082",
-    "title": "义理の息子にレ●プされ精子中毒の奴●になった継母",
+    "title": "SAN-082 FANZA 独家 被女婿强奸后成为精子上瘾者的继母 / Kaho Kashii 内附内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "剧情",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品",
+      "胸部"
+    ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/188579d3a4edce59dc079cd72e5ee323.jpg",
-    "actress": [],
+    "publish_date": "2022-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-082.jpg",
+    "actress": [
+      "香椎佳穂"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-082"
   },
   {
     "id": 565530,
     "IDcode": "SAN-083",
-    "title": "借金を残した旦那が拉致られ蒸発し风俗に売り飞ばされる人妻 千叶あやめ",
+    "title": "SAN-083 FANZA 独家 丈夫欠债不还、被绑架蒸发、被卖到色情行业的已婚女子 / 千叶绫音 内附内裤和原始照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "剧情",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca6cffdc06ccf6307a0498fbb846ae60.jpg",
-    "actress": [],
+    "publish_date": "2022-11-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-083.jpg",
+    "actress": [
+      "千葉彩芽",
+      "ダウ兄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-083"
   },
   {
     "id": 167394,
     "IDcode": "SAN-092",
-    "title": "姨妈与侄子的汗水激情性爱-翔田千里",
+    "title": "SAN-092 FANZA 独家 被侄子拥抱后想起被遗忘的女人的阿姨的汗水激情性爱！ / 正田千里 附内裤、新鲜照片和Chekis",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "剧情",
+      "人妻",
+      "NTR",
+      "熟女",
+      "出汗",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230812/h_796san092pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2023-01-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-092.jpg",
+    "actress": [
+      "翔田千里"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-092"
   },
   {
     "id": 544364,
     "IDcode": "SAN-099",
-    "title": "名前も知らない寝取り男の体を求める黒髪ロングヘアーの巨乳奥さん 高瀬りな",
+    "title": "SAN-099 黑色长发的大胸妻子想要一个连名字都不知道的绿帽子的身体 / Rina Takase",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/SuTXwBOp.jpg",
-    "actress": [],
+    "publish_date": "2023-02-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-099.jpg",
+    "actress": [
+      "高瀬りな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-099"
-  },
-  {
-    "id": 592842,
-    "IDcode": "SAN-103",
-    "title": "総集编アブナイ素人バレなきゃいいの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://pic54.anzise.com/pic/20230508/e5707b0d6388cbaaad1e1701ed2590ed/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-103"
   },
   {
     "id": 535227,
     "IDcode": "SAN-105",
-    "title": "访问贩売员から入手した怪しげな媚薬で精神崩壊して廃人になった巨乳妻 _ 新村あかり",
+    "title": "SAN-105 FANZA 独家 从上门推销员那里获得可疑春药而精神崩溃并致残的大胸妻子 / Akari Niimura 内裤，内附新鲜照片和方格照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230513/qHcdO2B1/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-105.jpg",
+    "actress": [
+      "新村朱里",
+      "中田一平"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-105"
   },
   {
     "id": 549189,
     "IDcode": "SAN-106",
-    "title": "媚薬の代金を体で払いすぎて廃人になってしまった爆乳妻 #",
+    "title": "SAN-106 用身体买春药买贵了，成了瘸子的大胸人妻 / Hana Haruna",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "剧情",
+      "人妻",
+      "出轨",
+      "NTR",
+      "超巨乳",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230513/tqGXXdwM/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-106.jpg",
+    "actress": [
+      "春菜华",
+      "佐川银次"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-106"
   },
   {
     "id": 549179,
     "IDcode": "SAN-107",
-    "title": "行き过ぎた过保护が原因で新しい爱の形を见つけてしまった后妻 #",
+    "title": "SAN-107 FANZA 独家 因过度保护而找到新的恋爱方式的后妻 / Sakura Misaki 内附内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "剧情",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品",
+      "胸部"
+    ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230515/laqP1dB1/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-107.jpg",
+    "actress": [
+      "岬櫻"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-107"
   },
   {
     "id": 549186,
     "IDcode": "SAN-108",
-    "title": "义理の兄に弱みを握られて言いなりになり精神に支障をきたし廃人になった巨乳妻 #",
+    "title": "SAN-108 FANZA 独家报道】大胸人妻因小叔子趁虚而入、为所欲为而精神失常、致残/Leona，有内裤、新鲜照片和格子旗。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/12e5iJ1G/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-108.jpg",
+    "actress": [
+      "冨安玲於奈",
+      "池沼美喜雄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-108"
   },
   {
     "id": 535226,
     "IDcode": "SAN-109",
-    "title": "再就职を愿う夫の为にカラダを捧げどんな凌●行为にも耐える健気な人妻 _ 结城りの",
+    "title": "SAN-109 Rino Yuki：包括内裤、新鲜照片和方格旗。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳",
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/gatwRPfK/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-109.jpg",
+    "actress": [
+      "結城蘭",
+      "樱井辰太郎"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-109"
   },
   {
     "id": 549185,
     "IDcode": "SAN-110",
-    "title": "夫妇生活のストレスでいけない媚薬に手を出してしまい廃人になった人妻 #",
+    "title": "SAN-110 FANZA 独家 因婚姻生活压力大而服用春药致残的已婚女子 / 川奈美铃 内裤、新鲜照片和支票都包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "剧情",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/2CVPwqFD/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-110.jpg",
+    "actress": [
+      "川菜美铃",
+      "中田一平"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-110"
-  },
-  {
-    "id": 549184,
-    "IDcode": "SAN-111",
-    "title": "离婚した夫の友人は大学时代の元恋人。开けてはいけないパンドラの箱を开け堕ちてしまったくびれ际立つ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/a6nTqbWh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-111"
-  },
-  {
-    "id": 549183,
-    "IDcode": "SAN-112",
-    "title": "义父の五十路チ○ポに魅了されてしまい三下り半を突き付けられた人妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/q6RP7ptH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-112"
-  },
-  {
-    "id": 549182,
-    "IDcode": "SAN-113",
-    "title": "もう、私を开放して…。たった一度の过ちで人生のどん底に堕ちてしまった人妻 #",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/r6MvXdiI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-113"
   },
   {
     "id": 549181,
     "IDcode": "SAN-114",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス8",
+    "title": "SAN-114 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性生活 8 230 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "人妻",
+      "剧情",
+      "合集",
+      "出轨",
+      "精选",
+      "NTR"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230514/AUwo8UKP/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-114.jpg",
+    "actress": [
+      "一条美緒",
+      "桐香悠裡",
+      "白橋里帆",
+      "七瀬いおり",
+      "永野楓果",
+      "音風ねる"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-114"
   },
   {
     "id": 89833,
     "IDcode": "SAN-127",
-    "title": "妻をピザ屋の配達員に寝取らせて快楽を得る変態夫とその快楽に堕ちてしまった淫乱美巨乳妻 / 三田サクラ",
+    "title": "SAN-127 变态丈夫从披萨外卖员给妻子戴绿帽子中获得快感，放荡的妻子拥有美丽的大乳房，为他的快感所倾倒 / Sakura Mita",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-127.jpg",
+    "actress": [
+      "三田櫻"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-127"
   },
   {
     "id": 89841,
     "IDcode": "SAN-128",
-    "title": "【FANZA限定】近所の畜生男に不倫がバレた色ボケ不貞妻は拘束具を付けたまま犯●れ穢されそして壊れてしまう / 緒川はる パンティとチェキ付き",
+    "title": "SAN-128 FANZA Limited 邻居的私生子发现了她的通奸行为，色盲的不忠妻子被强奸、玷污，并在戴着束缚带的情况下被打破了身体/小川春 内附内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/E5iXR5ng/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-128.jpg",
     "actress": [
       "緒川春"
     ],
@@ -1451,22 +1777,26 @@ window.PAGE_DATA = [
   {
     "id": 89832,
     "IDcode": "SAN-129",
-    "title": "【FANZA限定】親友の奥さんに筆おろしされたら僕のチ●コがよかったみたいで旦那と別れて結婚しました。 / 香澄せな パンティ付き",
+    "title": "SAN-129 FANZA Limited 当我最好朋友的妻子给了我一记耳光时，她似乎喜欢上了我的阳具，于是我离开了她的丈夫，结了婚。 / Sena Kasumi 内裤包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/5tjxbSnX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-129.jpg",
     "actress": [
       "香澄せな"
     ],
@@ -1475,154 +1805,82 @@ window.PAGE_DATA = [
   {
     "id": 89831,
     "IDcode": "SAN-130",
-    "title": "【FANZA限定】義父との不倫セックスでストレスを発散する巨乳妻はそのままの勢いで義父の命を散らせてしまう / 伊織羽音 パンティとチェキ付き",
+    "title": "SAN-130 FANZA 独家：大胸妻子与公公通奸做爱释放压力，让公公的生活也随之消散 / Hane Iori 内附内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/67472b2fa7067e9cf9cae52c24e53914.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-130"
-  },
-  {
-    "id": 89966,
-    "IDcode": "SAN-131",
-    "title": "どうしようもない男と結婚したせいで義父に犯●れ壊れてしまった巨乳妻 大原あむ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "故事集",
-      "荡妇",
-      "巨乳",
-      "已婚妇女",
-      "单体作品",
-      "淫乱，真实",
-      "素人作品",
-      "出轨",
-      "女教师",
-      "多P",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/V1pdL1XM/1.jpg",
-    "actress": [
-      "绀野沙织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-131"
-  },
-  {
-    "id": 89938,
-    "IDcode": "SAN-132",
-    "title": "メンエス健全店でストーカーの男に媚薬を飲まされ完堕ちした人妻嬢 朝日まこと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
+      "白天出轨",
+      "剧情",
       "人妻",
-      "巨乳",
-      "已婚妇女",
-      "护士",
-      "单体作品",
-      "淫乱，真实",
-      "素人作品",
       "出轨",
-      "多P",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/gGvtAi2x/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-130.jpg",
     "actress": [
-      "朝日まこと"
+      "伊織羽音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-132"
-  },
-  {
-    "id": 89969,
-    "IDcode": "SAN-133",
-    "title": "信じていた妻の裏切りを目撃した夫は異次元の興奮を覚え新たな性癖が目覚めてしまう 日々樹梨花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨乳",
-      "已婚妇女",
-      "单体作品",
-      "素人作品",
-      "校服",
-      "高中女生",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/4c1018c30e159aa796049b48a550cf90.jpg",
-    "actress": [
-      "日々樹梨花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-130"
   },
   {
     "id": 89970,
     "IDcode": "SAN-134",
-    "title": "【FANZA限定】夫のために…悪質雇主の性玩具にされたムチムチ爆乳家政婦妻は決して逃げる事が出来ない地獄に堕ちる / 月見伊織 パンティとチェキ付き",
+    "title": "SAN-134 FANZA Exclusive 为了丈夫......被恶毒雇主变成性玩具的大胸管家婆陷入了永远无法摆脱的地狱/Iori Tsukimi 附内裤和格子照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/1d30fdf29b6d87a1918005d58ff42519.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-134.jpg",
+    "actress": [
+      "月見伊織"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-134"
   },
   {
     "id": 89937,
     "IDcode": "SAN-135",
-    "title": "【FANZA限定】親友の妻は昔の元カノ。夫の目を盗んで元カレを誘惑する巨乳妻 / 南ゆうな チェキ付き",
+    "title": "SAN-135 FANZA 独家 好友的妻子是我的前女友。偷看丈夫眼睛勾引前男友的大胸妻子/南由奈与支票",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/o1o4Dp1J/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-135.jpg",
     "actress": [
       "南ゆうな"
     ],
@@ -1631,23 +1889,26 @@ window.PAGE_DATA = [
   {
     "id": 89939,
     "IDcode": "SAN-136",
-    "title": "【FANZA限定】料理の動画配信が趣味な美人妻が巨根ファンに凸られ寝取られ信じていた夫にも棄てらてしまった悲劇 / 遥奈杏美 チェキ付き",
+    "title": "SAN-136 FANZA 独家 喜欢传播烹饪视频的漂亮妻子，被大鸡巴粉丝戴绿帽子，被相信她的丈夫抛弃的悲剧/安美春奈，附棋盘格。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/YXCAbymr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-136.jpg",
     "actress": [
       "遥奈杏美"
     ],
@@ -1656,97 +1917,125 @@ window.PAGE_DATA = [
   {
     "id": 89936,
     "IDcode": "SAN-137",
-    "title": "夫の仏前で男二人に犯●れる未亡人三人のセックス150分",
+    "title": "SAN-137 三名寡妇在其丈夫的佛寺前被两名男子强奸 150 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
-      "已婚妇女",
+      "白天出轨",
+      "人妻",
+      "合集",
       "出轨",
-      "成熟的女人",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "熟女",
+      "成熟的女人"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/jk6LhADd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-137.jpg",
     "actress": [
       "松本痲里奈",
-      "松嶋友里恵"
+      "松嶋友里恵",
+      "寺崎泉"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-137"
   },
   {
     "id": 89958,
     "IDcode": "SAN-138",
-    "title": "夫婦で温泉旅行に出かけたら夫が近くにいるのに知らない人にイヤらしいコトされました250分",
+    "title": "SAN-138 我和丈夫一起去泡温泉，一个陌生人对我做了一些下流的事情，而我的丈夫就在附近250分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
-      "已婚妇女",
-      "4小时以上作品",
+      "白天出轨",
+      "人妻",
+      "合集",
       "出轨",
-      "成熟的女人",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "熟女",
+      "4小时以上作品",
+      "4小时以上",
+      "成熟的女人"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/u8ZyPgaG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-138.jpg",
     "actress": [
       "佐佐木明希",
-      "京野美丽"
+      "京野美丽",
+      "京野美麗"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-138"
   },
   {
     "id": 89963,
     "IDcode": "SAN-139",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス9 230分",
+    "title": "SAN-139 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性生活 9 230 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "中出",
+      "内射",
+      "合集",
       "出轨",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "中出"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-05-30",
-    "cover_url": "https://tuaskbgnekr.com/20231122/17WpcyKo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-139.jpg",
     "actress": [
+      "宮崎玲",
+      "児玉れな",
+      "雪乃繪留",
+      "桃愛ゆえ",
       "儿玉玲奈",
       "爱须みのん",
-      "宫崎リン"
+      "宫崎リン",
+      "愛須みのん",
+      "片瀬みさ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-139"
   },
   {
     "id": 89967,
     "IDcode": "SAN-140",
-    "title": "【FANZA限定】お金のために成金オヤジにセックス動画を記録撮影される幼妻 / 市井結夏 チェキ付き",
+    "title": "SAN-140 FANZA 独家 年轻妻子的性爱视频被富翁录制并拍摄以换取金钱/一井由香与支票",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "平胸",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "美胸",
+      "单人作品",
+      "平胸"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-140.jpg",
     "actress": [
       "市井結夏"
     ],
@@ -1755,70 +2044,55 @@ window.PAGE_DATA = [
   {
     "id": 89972,
     "IDcode": "SAN-141",
-    "title": "【FANZA限定】夫の暴力に耐えきれず、縋る思いで頼った親方には身体を弄ばれて身も心もやさぐれて廃人になった人妻 / 望月あやか パンティとチェキ付き",
+    "title": "SAN-141 FANZA 独家 无法忍受丈夫的暴力，她求助的主人玩弄她的身体，使她身心俱疲、残缺不全 /望月绫香（Ayaka Mochizuki） 内含内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "药物",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "药物",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/405dad25de52c456383715fae0725d13.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-141.jpg",
     "actress": [
       "望月綾香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-141"
   },
   {
-    "id": 89971,
-    "IDcode": "SAN-142",
-    "title": "レ●プの美学 女どもの悲鳴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "凌辱",
-      "户外",
-      "多P",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2000-11-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/13a170195b7011322bb3504193721fcf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-142"
-  },
-  {
     "id": 89960,
     "IDcode": "SAN-143",
-    "title": "【FANZA限定】夫の出世のために上司をハニトラにかけたら他人の子供を妊娠してしまった美人妻 / 岬さくら パンティ付き",
+    "title": "SAN-143 FANZA 独家 为丈夫事业成功而与上司蜜月后怀上别人孩子的漂亮妻子 / Sakura Misaki 内附内裤。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/elKS8c4c/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-143.jpg",
     "actress": [
       "岬櫻"
     ],
@@ -1827,22 +2101,26 @@ window.PAGE_DATA = [
   {
     "id": 89974,
     "IDcode": "SAN-144",
-    "title": "【FANZA限定】会社の上司に媚薬を飲まされ完堕ちしたイキっぷりが素晴らしすぎる妻 / 美空みく パンティとチェキ付き",
+    "title": "SAN-144 FANZA 独家 被公司老板下了春药的妻子彻底沦陷，高潮迭起 / Miku Misora 内附内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "苗条",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/aa3c2d949b9af655c488deb0ff5ebfb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-144.jpg",
     "actress": [
       "美空",
       "美空みく"
@@ -1852,147 +2130,188 @@ window.PAGE_DATA = [
   {
     "id": 89964,
     "IDcode": "SAN-145",
-    "title": "【FANZA限定】夫の後輩は●校時代に憧れていた先輩！？久々の再会で芽生えた感情を抑えることが出来ず卑しい女に成り下がった人妻 / 南條みや子 パンティとチェキ付き",
+    "title": "SAN-145 FANZA独家】我丈夫的晚辈是我上学时崇拜的前辈！已婚女人在久别重逢时抑制不住萌动的感情，变成了下贱的女人/南条美雅子 带着内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/cMskz9g2/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-145.jpg",
+    "actress": [
+      "綾瀬舞菜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-145"
   },
   {
     "id": 89959,
     "IDcode": "SAN-146",
-    "title": "【FANZA限定】パチンコにハマり負けまくった負債を援助してくれる常連の男にいつの間にかハマってしまった人妻熟女 / 大島未華子 パンティとチェキ付き",
+    "title": "SAN-146 FANZA 独家 已婚熟女莫名其妙地迷上了一个普通男人，这个男人帮她还清了她一直输掉的柏青哥欠款 / 大岛美香子 内附内裤和支票卡。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
+      "已婚妇女",
+      "NTR",
+      "熟女",
       "成熟的女人",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/Uh9V33N7/1.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-146.jpg",
+    "actress": [
+      "大島未華子"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-146"
   },
   {
     "id": 89975,
     "IDcode": "SAN-147",
-    "title": "【FANZA限定】酒に溺れ不倫チンポにも溺れ気が付けば全てを失ってしまった哀れな女の物語 / 高園ゆり子 パンティとチェキ付き",
+    "title": "SAN-147 一个沉迷于酒精和奸夫淫妇并发现自己失去一切的可悲女人的故事/高园百合子（Yuriko Takazono） 内附内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
+      "已婚妇女",
+      "NTR",
+      "熟女",
       "成熟的女人",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/dece894e96d2ccfc83867c071766f5a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-147.jpg",
     "actress": [
-      "三云ゆり子"
+      "三云ゆり子",
+      "三雲ゆり子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-147"
   },
   {
     "id": 89973,
     "IDcode": "SAN-148",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス10 240分",
+    "title": "SAN-148 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子后的性生活 10 240 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "中出",
-      "4小时以上作品",
+      "内射",
+      "合集",
       "出轨",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "中出"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/25e82dd20322d0c865ec53a13e3cff26.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-148.jpg",
     "actress": [
+      "雪乃繪留",
       "碓冰莲",
-      "伊藤くるみ"
+      "伊藤くるみ",
+      "藤沢ひな",
+      "宇佐美玲奈",
+      "碓氷れん",
+      "江本あやみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-148"
   },
   {
     "id": 89930,
     "IDcode": "SAN-149",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス11 280分",
+    "title": "SAN-149 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性爱 11 280 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "中出",
-      "4小时以上作品",
+      "内射",
+      "合集",
       "出轨",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "中出"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-06-27",
-    "cover_url": "https://tuaskbgnekr.com/20231122/IIAvFzjk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-149.jpg",
     "actress": [
+      "新村朱里",
+      "花音うらら",
       "宫泽千春",
       "大島愛里亞",
+      "宮崎玲",
       "新村晶",
       "平川琴菜",
-      "宫崎リン"
+      "宫崎リン",
+      "春木菜々水"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-149"
   },
   {
     "id": 89957,
     "IDcode": "SAN-150",
-    "title": "最近妻子的样子有些奇怪-大槻响",
+    "title": "SAN-150 最近，妻子的样子很奇怪…怀着轻松的心情沉迷于出轨小混混的人妻子同时失去了重要的东西",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "人妻",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2023-07-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-150.jpg",
     "actress": [
       "大槻响"
     ],
@@ -2001,94 +2320,57 @@ window.PAGE_DATA = [
   {
     "id": 89976,
     "IDcode": "SAN-151",
-    "title": "【FANZA限定】夫が作った莫大な借金を返済するため自分の身を売り性に覚醒した美人妻 / 百永さりな パンティとチェキ付き",
+    "title": "SAN-151 FANZA 独家 为偿还丈夫欠下的巨额债务而出卖自己并性奋的美丽妻子 / Sarina Momonaga 内附内裤和支票。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/mdZFpDyB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-151.jpg",
     "actress": [
+      "百永纱里奈",
       "黑川纱里奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-151"
   },
   {
-    "id": 89961,
-    "IDcode": "SAN-152",
-    "title": "まんぐりベストコレクション",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "内衣",
-      "多P",
-      "女同性恋",
-      "成熟的女人",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2000-12-15",
-    "cover_url": "https://tuaskbgnekr.com/20231122/hYx7Dw3n/1.jpg",
-    "actress": [
-      "嶋田爱子",
-      "寺田美由纪",
-      "白石雪",
-      "白石美树"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-152"
-  },
-  {
-    "id": 89965,
-    "IDcode": "SAN-153",
-    "title": "THE 盗撮 プライベートを覗いたれ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "护士",
-      "偷窥",
-      "自慰"
-    ],
-    "type": "有码",
-    "company": "マザー",
-    "publish_date": "2000-12-15",
-    "cover_url": "https://tuaskbgnekr.com/20231122/xAZh6Kt6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-153"
-  },
-  {
     "id": 89962,
     "IDcode": "SAN-154",
-    "title": "【FANZA限定】マッドドクターに中出しされ誰の子かわからない子供を妊娠した妻 / 千石もなか パンティとチェキ付き",
+    "title": "SAN-154 FANZA 独家 被疯狂医生中刀的妻子怀上了不知道是谁的孩子 / Monaka Sengoku 内附内裤和支票卡。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-08-01",
-    "cover_url": "https://tuaskbgnekr.com/20231122/QqeM8Glc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-154.jpg",
     "actress": [
       "千石もなか"
     ],
@@ -2097,22 +2379,27 @@ window.PAGE_DATA = [
   {
     "id": 89931,
     "IDcode": "SAN-155",
-    "title": "【FANZA限定】フードデリバリーの童貞君を騙して金を取るつもりが逆襲された美人局妻 / 安達ゆら パンティとチェキ付き",
+    "title": "SAN-155 FANZA 独家 本想骗处女送餐员的钱却遭到反击的美女官僚之妻 / 足立由良 内裤和支票都包括在内。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/JYU6pK31/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-155.jpg",
     "actress": [
       "安達ゆら"
     ],
@@ -2121,126 +2408,493 @@ window.PAGE_DATA = [
   {
     "id": 89951,
     "IDcode": "SAN-156",
-    "title": "过于严酷的社会现实-藤井蕾拉",
+    "title": "SAN-156 FANZA限定 社会的残酷现实。因金钱的力量而崩溃的家庭的故事",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "人妻",
+      "剧情",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-07-31",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-156.jpg",
+    "actress": [
+      "藤井蕾菈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-156"
   },
   {
     "id": 89921,
     "IDcode": "SAN-157",
-    "title": "【FANZA限定】家賃が工面できず鬼畜大家に体を捧げ身も心もやさぐれて廃人になった人妻 / 美波こづえ パンティとチェキ付き",
+    "title": "SAN-157 FANZA Limited 交不起房租的已婚妇女把身体交给了恶魔房东，成了身体和灵魂的残废/南小梢，内裤和格子图案",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "药物",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "药物",
+      "单人作品"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-07-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/b3ae2b683f59af528e2511c5e1c2b49d.jpg",
-    "actress": [],
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-157.jpg",
+    "actress": [
+      "美波梢"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-157"
   },
   {
     "id": 89934,
     "IDcode": "SAN-158",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス12 250分サブタイトル 巨乳すぎる奥様編",
+    "title": "SAN-158 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性爱 12 250 分钟字幕 奶子太大的妻子版。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
-      "人妻",
       "巨乳",
-      "已婚妇女",
-      "中出",
-      "4小时以上作品",
+      "白天出轨",
+      "人妻",
+      "内射",
+      "合集",
       "出轨",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "中出"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-07-31",
-    "cover_url": "https://tuaskbgnekr.com/20231122/1e8VsNE2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-158.jpg",
     "actress": [
       "美園和花",
       "吉根柚莉爱",
-      "瀨名光"
+      "白橋里帆",
+      "最上もも",
+      "広瀬藍子",
+      "瀨名光",
+      "真白れいな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-158"
   },
   {
     "id": 89903,
     "IDcode": "SAN-159",
-    "title": "旦那以外の他人棒に寝取られた人妻6人のセックス13 260分",
+    "title": "SAN-159 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性爱 13 260 分钟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "精选，综合",
+      "白天出轨",
       "人妻",
-      "已婚妇女",
-      "中出",
-      "4小时以上作品",
+      "内射",
+      "合集",
       "出轨",
-      "白天出轨"
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "中出"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-07-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/f110178e47b879bedc5bfc68d62a5dbe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-159.jpg",
     "actress": [
       "姫咲華",
       "三岳祐奈",
-      "七草千歲"
+      "七草千歲",
+      "及川海",
+      "冨安玲於奈",
+      "櫻田桃羽"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-159"
   },
   {
     "id": 89943,
     "IDcode": "SAN-160",
-    "title": "【FANZA限定】人の良さそうな外国人に拉致監禁され飲まず食わずで犯●れる人妻 / 浜崎真緒 パンティとチェキ付き",
+    "title": "SAN-160 FANZA独家 已婚女子被帅哥老外绑架禁锢，不吃不喝被强暴/滨崎步内裤和支票也包括在内",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
-      "乳房",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
     ],
     "type": "有码",
     "company": "マザー",
     "publish_date": "2023-08-29",
-    "cover_url": "https://tuaskbgnekr.com/20231122/iByCNyGa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-160.jpg",
     "actress": [
+      "浜崎真緒",
       "浜崎真绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-160"
+  },
+  {
+    "id": 89954,
+    "IDcode": "SAN-162",
+    "title": "SAN-162 FANZA Limited 被空调修理工绑架并禁闭后失踪的大胸妻子 / Satomi Mioka 内附内裤和支票。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-162.jpg",
+    "actress": [
+      "美丘さとみ",
+      "爱花みちる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-162"
+  },
+  {
+    "id": 89935,
+    "IDcode": "SAN-164",
+    "title": "SAN-164 FANZA 独家 性瘾已婚熟女瞒着丈夫勾引邻家男子并引诱他们发生性关系 / 姫川玲子 内附内裤和支票。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "熟女",
+      "成熟的女人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-164.jpg",
+    "actress": [
+      "姫川礼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-164"
+  },
+  {
+    "id": 89942,
+    "IDcode": "SAN-165",
+    "title": "SAN-165 FANZA 独家 讲述了一个沉迷于酒精的可怜女人的故事，她的丈夫已经对她失去了爱，她别无选择，只能依靠隔壁的男人 / Sumire Mihara 内附内裤和支票。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "熟女",
+      "成熟的女人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-165.jpg",
+    "actress": [
+      "美原すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-165"
+  },
+  {
+    "id": 89947,
+    "IDcode": "SAN-166",
+    "title": "SAN-166 仍然活跃Reiko Kobayakawa，传奇的传奇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "内射",
+      "合集",
+      "出轨",
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-166.jpg",
+    "actress": [
+      "小早川怜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-166"
+  },
+  {
+    "id": 89956,
+    "IDcode": "SAN-167",
+    "title": "SAN-167 美神降临这是一场历史上最伟大女演员的竞赛！后藤真纪和波多野结衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "人妻",
+      "内射",
+      "合集",
+      "出轨",
+      "精选，综合",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-167.jpg",
+    "actress": [
+      "波多野结衣",
+      "北条麻妃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-167"
+  },
+  {
+    "id": 89945,
+    "IDcode": "SAN-168",
+    "title": "SAN-168 S感太强的已婚女人，因为玩弄丈夫太多而毁了他 / 木下绯里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-168.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-168"
+  },
+  {
+    "id": 89900,
+    "IDcode": "SAN-169",
+    "title": "SAN-169 FANZA 独家 一个太爱儿子的破碎母亲的疯狂 / Miho Torino 内附内裤和支票。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "乳房",
+      "单人作品",
+      "胸部"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-169.jpg",
+    "actress": [
+      "通野未帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-169"
+  },
+  {
+    "id": 89948,
+    "IDcode": "SAN-170",
+    "title": "SAN-170 FANZA 独家 与妻子订婚取乐的丈夫，一觉醒来发现自己戴了绿帽子，失去了一切，而纯情的妻子却背叛了丈夫，爱上了另一个男人的阴茎 / Sora Nakagawa，附内裤和格子照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
+      "已婚妇女",
+      "NTR",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-170.jpg",
+    "actress": [
+      "仲川空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-170"
+  },
+  {
+    "id": 89953,
+    "IDcode": "SAN-174",
+    "title": "SAN-174 她的风采非凡！一位真正的传奇女演员。泽村玲子豪华版。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "合集",
+      "出轨",
+      "精选，综合",
+      "戏剧",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-174.jpg",
+    "actress": [
+      "高坂ますみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-174"
+  },
+  {
+    "id": 89932,
+    "IDcode": "SAN-175",
+    "title": "SAN-175 太可爱、太漂亮的女巫了！总之，筱田步美豪华版。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "合集",
+      "出轨",
+      "精选，综合",
+      "戏剧",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-175.jpg",
+    "actress": [
+      "篠田步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-175"
+  },
+  {
+    "id": 89902,
+    "IDcode": "SAN-176",
+    "title": "SAN-176 六名已婚妇女被丈夫以外的陌生人的肉棒戴上绿帽子的性爱 14 240 分钟。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "剧情",
+      "人妻",
+      "合集",
+      "出轨",
+      "精选，综合",
+      "戏剧",
+      "精选",
+      "已婚妇女",
+      "NTR",
+      "4小时以上作品",
+      "4小时以上"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SAN-176.jpg",
+    "actress": [
+      "弘中優",
+      "香椎佳穂",
+      "春日惠奈",
+      "野咲美桜",
+      "冴島翔子",
+      "あさみ潤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-176"
   }
 ];

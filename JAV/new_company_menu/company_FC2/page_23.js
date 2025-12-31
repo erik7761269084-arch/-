@@ -1,20 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 178125,
-    "IDcode": "FC2-PPV-2905930",
-    "title": "拥有绝美容颜和曼妙身材的混血美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2905930"
-  },
-  {
     "id": 113661,
     "IDcode": "FC2-PPV-2906321",
     "title": "美女治疗师",
@@ -860,21 +845,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2935820"
   },
   {
-    "id": 573557,
-    "IDcode": "FC2-PPV-2937177",
-    "title": "3 次射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-10-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20231008-1/107579a0221bbe0ade1219eb0a5cef67.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2937177"
-  },
-  {
     "id": 113694,
     "IDcode": "FC2-PPV-2938219",
     "title": "健身结束后她与一位年长男性见面并在危险的一天中进行了中出",
@@ -1552,5 +1522,35 @@ window.PAGE_DATA = [
     "cover_url": "https://fm.sl25914.com/upload/vod/20220910-1/f50e0fb557ff3785eac30e158ae99f35.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2957863"
+  },
+  {
+    "id": 178368,
+    "IDcode": "FC2-PPV-2958156",
+    "title": "能激起被保护欲的美少女大学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2958156"
+  },
+  {
+    "id": 178387,
+    "IDcode": "FC2-PPV-2959512",
+    "title": "乌黑长发的少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/10/b76003fdbd87499356a5b75114010851.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2959512"
   }
 ];

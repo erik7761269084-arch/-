@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Urakin",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251001-1/35cc103f4dba89b3edb3dfe83cfae269.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/865URKN-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=865URKN-008"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Urakin",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250927/kQwvp3ht/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/URKN-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-002"
   },
@@ -68,7 +68,7 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "天月梓",
+      "天月杏",
       "花音うらら",
       "矢澤なの"
     ],
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Urakin",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820121228523523_96156_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/URKN-004.jpg",
     "actress": [
       "都月楓",
       "白石渚",
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "天月梓",
+      "天月杏",
       "若月もあ",
       "あおい藍"
     ],

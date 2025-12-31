@@ -29,7 +29,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://pic31.anzise.com/pic/20220706/3697aa8167b87b2086c857de69bd291f/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-026"
   },
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/30/38549_cover_2025-06-30_213955.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-030"
   },
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/addf19c48a871b16cc5a859c3103e2e2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-031"
   },
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/05/81539_cover_2025-07-05_000634.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-033"
   },
@@ -97,7 +97,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6784090a89def9b1b8f340ea/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-037"
   },
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/d3d2dc9c1aa1183bb9e1a77079dd1f13.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-038.jpg",
     "actress": [
       "葵玲奈"
     ],
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ef29cf536060699d58482c1f21e5d755.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-039"
   },
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "2020-05-29",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/82cd81960d8c3c92906689a8427f6f3c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-041.jpg",
     "actress": [
       "内海みう"
     ],
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/12b8ea24dd9172a25ec43c543ffebce4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-042.jpg",
     "actress": [
       "宫泽千春"
     ],
@@ -205,7 +205,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/01b4aa2bb0d8411b38b29eb9e8ac1d50.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-048"
   },
@@ -222,7 +222,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/214fd58fa178d27e17665a6ff6880025.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-051"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a46b0faad3946dad98cd9fd5a4b848dd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-057"
   },
@@ -256,7 +256,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230721/oCvVYuyL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-059"
   },
@@ -273,7 +273,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230818/7Gm7yecH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-060"
   },
@@ -295,7 +295,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "2023-09-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20230922/d499e8fb-02ad-44f8-adf1-8210c8d558b4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-061.jpg",
     "actress": [
       "藤田梢"
     ],
@@ -325,7 +325,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "2023-10-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20231020/119402f8-0944-4c54-832f-d51bb82095bd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-062.jpg",
     "actress": [
       "皆瀨明里"
     ],
@@ -344,7 +344,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240615/WgC9q30p/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-064"
   },
@@ -361,7 +361,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/e31577a17401aa9d45d684797e44cde7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-067"
   },
@@ -378,7 +378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/7756eed5a3d829bb7443073676a41ed9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-068"
   },
@@ -395,7 +395,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c4ba22a47ebb1a8683b55/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-997.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-997"
   },
@@ -418,7 +418,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "最強屬性",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/942daf22903e925d62e96e8247b1b682.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CPDE-998.jpg",
     "actress": [
       "川越ゆい",
       "小西真理繪"

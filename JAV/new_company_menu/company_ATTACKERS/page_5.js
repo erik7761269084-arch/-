@@ -1,813 +1,186 @@
 window.PAGE_DATA = [
   {
-    "id": 66814,
-    "IDcode": "ADN-405",
-    "title": "允许我的继父插入我的身体-白峰ミウ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "乱伦",
-      "无码破解",
-      "中出",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/7dd9af16612e19490ff81082d30ab5b7.jpg",
-    "actress": [
-      "白峰美羽",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-405"
-  },
-  {
-    "id": 67310,
-    "IDcode": "ADN-406",
-    "title": "被我姐姐的男朋友强奸-櫻井まみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "乱伦",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/5fc924a0c995d838edb675ef2f2c0754.jpg",
-    "actress": [
-      "樱井まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-406"
-  },
-  {
-    "id": 73535,
-    "IDcode": "ADN-407",
-    "title": "我希望这是个梦-椎花乃 広仲みなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码破解",
-      "戏剧",
-      "女大学生"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/02728eecb4c763bea3080d193d8e810f.jpg",
-    "actress": [
-      "香椎花乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-407"
-  },
-  {
-    "id": 66732,
-    "IDcode": "ADN-408",
-    "title": "沉迷于放荡的性爱-夏目彩春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "单体作品",
-      "已婚妇女",
-      "滥交",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250503-1/85782e04c31acf440e5482490f090be2.jpg",
-    "actress": [
-      "夏目彩春",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-408"
-  },
-  {
-    "id": 86994,
-    "IDcode": "ADN-409",
-    "title": "好色之徒-日下部加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "已婚妇女",
-      "单体作品",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/a7091b2a630100a57b27d40260fe6647.jpg",
-    "actress": [
-      "日下部加奈",
-      "田渊正浩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-409"
-  },
-  {
-    "id": 156142,
-    "IDcode": "ADN-410",
-    "title": "妻子在半年里每天都被一个男人内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/ce44ec15b6514eaadf7f58569940c905.jpg",
-    "actress": [
-      "希島愛理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-410"
-  },
-  {
-    "id": 86993,
-    "IDcode": "ADN-411",
-    "title": "不显眼的邻居-月乃ルナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "美少女电影",
-      "单体作品",
-      "口交"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "月乃露娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-411"
-  },
-  {
-    "id": 66743,
-    "IDcode": "ADN-412",
-    "title": "男士美容治疗-夏目彩春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "单体作品",
-      "按摩",
-      "乳液",
-      "美容院"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/4a4153176c2101e1f40bab454569dd7b.jpg",
-    "actress": [
-      "夏目彩春",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-412"
-  },
-  {
-    "id": 67136,
-    "IDcode": "ADN-413",
-    "title": "女教師玩具化計画-白峰ミウ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "无码破解",
-      "中出",
-      "女教师",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/ee21d366119e69433fcec5461c93f81f.jpg",
-    "actress": [
-      "白峰美羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-413"
-  },
-  {
-    "id": 66631,
-    "IDcode": "ADN-414",
-    "title": "在她丈夫不在的时候-三宮つばき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "流汗",
-      "无码破解",
-      "中出",
-      "接吻",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "三宫つばき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-414"
-  },
-  {
-    "id": 89977,
-    "IDcode": "ADN-415",
-    "title": "当我允许继父插入我的身体-希島あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "乱伦",
-      "苗条",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/2f757dcb76c453c2e953144b1e5e9801.jpg",
-    "actress": [
-      "希島愛理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-415"
-  },
-  {
-    "id": 67788,
-    "IDcode": "ADN-416",
-    "title": "禁止的不道德行为-岬ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白天出轨",
-      "单体作品",
-      "婆婆",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250422-1/fa7438fab4b6b8119a94525f1d5349ee.jpg",
-    "actress": [
-      "岬奈奈美",
-      "日森一"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-416"
-  },
-  {
-    "id": 66744,
-    "IDcode": "ADN-417",
-    "title": "人妻女上司-黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "单体作品",
-      "连裤袜",
-      "OL",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/59a5f1aa51c155e6792f66d653848b0a.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-417"
-  },
-  {
-    "id": 66751,
-    "IDcode": "ADN-418",
-    "title": "已婚妇女被人干来干去的故事-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-418"
-  },
-  {
-    "id": 68126,
-    "IDcode": "ADN-419",
-    "title": "被强奸的夫妇还有未来吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "秘书",
-      "戏剧",
-      "OL",
-      "出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/14204921d37495632cb2212bf1a56fb0.jpg",
-    "actress": [
-      "香椎花乃",
-      "樱井まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-419"
-  },
-  {
-    "id": 67253,
-    "IDcode": "ADN-420",
-    "title": "被我丈夫最好的朋友拥抱了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/683557dad6dba345750f82e6/cover.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-420"
-  },
-  {
-    "id": 67224,
-    "IDcode": "ADN-421",
-    "title": "愛人女上司-夏目彩春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "中出",
-      "OL",
-      "出轨",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/30545374b9cdf140fe6fefee499c1d14.jpg",
-    "actress": [
-      "夏目彩春",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-421"
-  },
-  {
-    "id": 67958,
-    "IDcode": "ADN-422",
-    "title": "把一个喝醉的下属带回家-二宮ひかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "单体作品",
-      "美少女电影",
-      "OL",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/1fd753e229a10da63f12eb9fec84e3d0.jpg",
-    "actress": [
-      "二宫ひかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-422"
-  },
-  {
-    "id": 67420,
-    "IDcode": "ADN-423",
-    "title": "为公公的亲吻-希島あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "舔阴",
-      "单体作品",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a2f719827bc943dee08633f01878b08e.jpg",
-    "actress": [
-      "希島愛理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-423"
-  },
-  {
-    "id": 66742,
-    "IDcode": "ADN-424",
-    "title": "夫婦交換-岬ななみ 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "夫妻交换",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/5dfa044acc251b763d3d80f7d9536c6e.jpg",
-    "actress": [
-      "大槻响",
-      "岬奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-424"
-  },
-  {
-    "id": 61500,
-    "IDcode": "ADN-425",
-    "title": "与梦想中的女老板-三宮つばき",
+    "id": 166833,
+    "IDcode": "ADN-433",
+    "title": "ADN-433 被恶毒邻居 Kramer 弄得精疲力尽的美丽妻子。 加藤由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "流汗",
-      "单体作品",
-      "无码破解",
-      "戏剧"
+      "人妻",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/75b64c2b5f5c4608f8f2bec20d331bc7.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-433.jpg",
     "actress": [
-      "三宫つばき"
+      "加藤結衣",
+      "阿部智広"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-425"
-  },
-  {
-    "id": 90105,
-    "IDcode": "ADN-426",
-    "title": "被我女儿的男朋友抱着-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "乱伦",
-      "母亲",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7b44d54ef79b0c9a35986e85a4c097be.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-426"
-  },
-  {
-    "id": 66724,
-    "IDcode": "ADN-427",
-    "title": "【FANZA限定】失楽妻 抑えきれない愛欲 有賀みなほ 生写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "有贺みなほ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-427"
-  },
-  {
-    "id": 67118,
-    "IDcode": "ADN-428",
-    "title": "你的妻子-夏目彩春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "中出",
-      "苗条",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9bae43bc49f172de69a3d041972ea35d.jpg",
-    "actress": [
-      "夏目彩春",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-428"
-  },
-  {
-    "id": 67239,
-    "IDcode": "ADN-429",
-    "title": "社長秘書-岬ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "中出",
-      "接吻",
-      "秘书",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e076c373f120cfd7220389beac2b4c0d.jpg",
-    "actress": [
-      "岬奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-429"
-  },
-  {
-    "id": 67182,
-    "IDcode": "ADN-430",
-    "title": "在一次商务旅行中-希島あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "OL",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d3dfbdeaacee30f4d640bf22ad20f61e.jpg",
-    "actress": [
-      "希島愛理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-430"
-  },
-  {
-    "id": 453843,
-    "IDcode": "ADN-431",
-    "title": "父親が再婚相手として連れてきたのは僕が密かに憧れていた担任の三宮先生だった。 三宮椿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/4618d0af9dff2ec7c88d5659cb8b9912.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-431"
-  },
-  {
-    "id": 104499,
-    "IDcode": "ADN-432",
-    "title": "密室接吻社長室-蜜美杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "无码破解",
-      "中出",
-      "接吻",
-      "秘书",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/52f644e532189cc9daa6369e652ade50.jpg",
-    "actress": [
-      "藤井蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-432"
-  },
-  {
-    "id": 166833,
-    "IDcode": "ADN-433",
-    "title": "沮丧的美丽妻子-加藤結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9c1437fc70703b1aaba63a7c24075764.jpg",
-    "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-433"
   },
   {
     "id": 67571,
     "IDcode": "ADN-434",
-    "title": "长大后成为一个荡妇-月妃さら",
+    "title": "ADN-434 父亲，对不起 原谅我长大后成为一个妓女...... Sara Tsukihi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "单体作品",
-      "OL"
+      "剧情",
+      "戏剧",
+      "OL",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/b9198254064ad093dff6f01a8d5a6220.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-434.jpg",
     "actress": [
-      "月妃さら"
+      "月妃さら",
+      "上田昌宏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-434"
   },
   {
     "id": 66746,
     "IDcode": "ADN-435",
-    "title": "羞辱性地使用臀部-櫻井まみ",
+    "title": "ADN-435 丈夫不知情，羞辱性使用臀部 Mami Sakurai",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/772a2d9a20b6a7fdc63a61b1b380f6e8.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-435.jpg",
     "actress": [
+      "櫻井麻美",
       "田渊正浩",
       "樱井まみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-435"
   },
   {
-    "id": 90183,
-    "IDcode": "ADN-436",
-    "title": "被她丈夫的老板强奸-夏目彩春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "单体作品",
-      "已婚妇女",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/b0a031d856e070310b0e7523f0e4d37b.jpg",
-    "actress": [
-      "夏目彩春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-436"
-  },
-  {
     "id": 67120,
     "IDcode": "ADN-437",
-    "title": "对我进行性处理-二宮ひかり",
+    "title": "ADN-437 我妻子的妹妹趁我妻子在老家生产时闯入我家，对我进行性侵犯，以阻止我和别的女人偷情的故事。 Hikari Ninomiya.",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "单体作品",
-      "中出",
+      "白天出轨",
+      "内射",
       "美少女电影",
-      "白天出轨"
+      "NTR",
+      "中出",
+      "荡妇",
+      "美少女",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685d9d3a3ed39b57c003f89e/cover.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-437.jpg",
     "actress": [
-      "二宫ひかり"
+      "二宮光",
+      "二宫ひかり",
+      "真田京"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-437"
   },
   {
     "id": 67131,
     "IDcode": "ADN-438",
-    "title": "女教师玩具表-岬ななみ",
+    "title": "ADN-438 女教师玩弄项目 Nanami Misaki",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
       "无码破解",
-      "中出",
-      "女教师",
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "内射",
       "戏剧",
-      "白天出轨"
+      "NTR",
+      "中出",
+      "单人作品",
+      "女教师"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/5617dd7579c1b652cae7aa8839888b0b.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-438.jpg",
     "actress": [
-      "岬奈奈美"
+      "岬奈奈美",
+      "久道实"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-438"
   },
   {
     "id": 66917,
     "IDcode": "ADN-439",
-    "title": "你的岳父-櫻井まみ",
+    "title": "ADN-439 你岳父怎么看我？ 樱井麻美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "单体作品",
+      "剧情",
+      "人妻",
+      "出轨",
+      "戏剧",
       "已婚妇女",
-      "出轨"
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/a6bd43f0dc994fd73c26eaa92527708c.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-439.jpg",
     "actress": [
-      "樱井まみ"
+      "櫻井麻美",
+      "樱井まみ",
+      "杉浦树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-439"
   },
   {
     "id": 67132,
     "IDcode": "ADN-440",
-    "title": "制造回忆-末広純",
+    "title": "ADN-440 关于一个女孩的故事，她和我进了同一家公司，在我订婚的时候，她来找我，因为她想给末广纯留下美好的回忆。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "恋爱",
-      "戏剧",
       "单体作品",
-      "OL"
+      "剧情",
+      "戏剧",
+      "OL",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/93956b0902f1739fee87ffee5a6e0533.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-440.jpg",
     "actress": [
+      "末広純",
       "蓝井优太"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-440"
@@ -815,46 +188,56 @@ window.PAGE_DATA = [
   {
     "id": 66673,
     "IDcode": "ADN-441",
-    "title": "在她丈夫面前被侵犯-本田瞳",
+    "title": "ADN-441 在丈夫面前被侵犯--仲夏的风流韵事 本多仁美",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "淫妻",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "淫妻",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/ab6e3fdc63afb502f2180b9fff55f5d8.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-441.jpg",
     "actress": [
-      "本田瞳"
+      "本田瞳",
+      "佐川银次"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-441"
   },
   {
     "id": 67168,
     "IDcode": "ADN-442",
-    "title": "允许我的继父插入我-花柳杏奈",
+    "title": "ADN-442 当我允许我的公公插入我的身体，并承诺只有 10 秒钟的时候......我达到了高潮，因为化学反应太强烈了。 花柳安娜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
+      "侮辱",
       "单体作品",
-      "乱伦",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "乱伦"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/e88585e60de8283c9e26f427d089ab92.jpg",
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-442.jpg",
     "actress": [
+      "花柳杏奈",
       "田渊正浩"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-442"
@@ -862,179 +245,218 @@ window.PAGE_DATA = [
   {
     "id": 67250,
     "IDcode": "ADN-443",
-    "title": "被我丈夫的童年朋友拥抱-田中なな実",
+    "title": "ADN-443 你，原谅我 被丈夫的青梅竹马田中奈奈美拥抱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/6c608955156d262d45cad5c7b7274f14.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-443.jpg",
+    "actress": [
+      "田中奈奈實",
+      "梅田吉雄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-443"
   },
   {
     "id": 102515,
     "IDcode": "ADN-444",
-    "title": "地味で無口な隣のお姉さん 黒川すみれ",
+    "title": "ADN-444 朴实、安静的邻家妹妹黑川澄美（Sumire Kurokawa）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "单体作品",
       "巨乳",
-      "白天出轨"
+      "单体作品",
+      "白天出轨",
+      "剧情",
+      "戏剧",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-12-30",
-    "cover_url": "https://tuaskbgnekr.com/20230103/935SbUVq/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-01-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-444.jpg",
     "actress": [
-      "黑川堇"
+      "黑川堇",
+      "真田京"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-444"
   },
   {
     "id": 90258,
     "IDcode": "ADN-445",
-    "title": "ADN-445",
+    "title": "ADN-445 明天我老婆在家生完孩子回来...记录女老板在她体内射精直至受孕的两个月。 三宫椿",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
+      "白天出轨",
+      "内射",
+      "出轨",
+      "NTR",
       "中出",
       "OL",
-      "出轨",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682814e05d899f636101a8e2/cover.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-02-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-445.jpg",
     "actress": [
-      "三宫つばき"
+      "三宮椿",
+      "三宫つばき",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-445"
   },
   {
     "id": 90257,
     "IDcode": "ADN-447",
-    "title": "人妻女上司-希島あいり",
+    "title": "ADN-447 看到人妻女主管的透明丁字裤，我的理性瞬间崩溃",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "单体作品",
       "无码破解",
-      "中出",
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "内射",
       "连裤袜",
-      "白天出轨"
+      "NTR",
+      "丝袜",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/06f87e43401639ed5e25e3ed5730d59d.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-447.jpg",
     "actress": [
-      "希島愛理"
+      "希島愛理",
+      "细田敦史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-447"
   },
   {
     "id": 67227,
     "IDcode": "ADN-448",
-    "title": "与我儿子的朋友做爱-夏目彩春",
+    "title": "ADN-448 我，和儿子的朋友做爱了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
+      "人妻",
+      "内射",
+      "剧情",
+      "戏剧",
       "已婚妇女",
       "乱伦",
       "中出",
-      "戏剧"
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836b1f1a0b87615b2d38146/cover.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-448.jpg",
     "actress": [
-      "夏目彩春"
+      "夏目彩春",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-448"
   },
   {
     "id": 67641,
     "IDcode": "ADN-449",
-    "title": "女教師玩具化計画-藤井いよな",
+    "title": "ADN-449 女教师的玩具化计划",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "女教师",
+      "单体作品",
       "凌辱",
-      "单体作品"
+      "单人作品",
+      "虐待",
+      "女教师"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa1fa89def9b1b80e49fd/cover.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-449.jpg",
     "actress": [
-      "藤井一夜"
+      "藤井一夜",
+      "久道实"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-449"
   },
   {
     "id": 67898,
     "IDcode": "ADN-450",
-    "title": "刚毕业就教我工作-月乃ルナ",
+    "title": "ADN-450 刚进去公司对我很好又亲切的月乃…被主管们发现她在做风俗小姐 因此成为部长们的性爱处理玩具",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "口交",
       "单体作品",
-      "OL"
+      "剧情",
+      "戏剧",
+      "OL",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/d6a6e2f6ebccd6b228379501245e8f2f.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-450.jpg",
     "actress": [
-      "月乃露娜"
+      "月乃露娜",
+      "中田一平",
+      "北公次",
+      "寺桥春斗"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-450"
   },
   {
     "id": 66940,
     "IDcode": "ADN-451",
-    "title": "义父仅十秒的插入-三宫椿",
+    "title": "ADN-451 答应只给公公插入十秒…想不到太过合拍便高潮了的我",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "已婚妇女",
-      "乱伦",
       "无码破解",
-      "白天出轨"
+      "侮辱",
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "乱伦",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/dd10c683b30e4278ffd272a95ac60194.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-451.jpg",
     "actress": [
+      "三宮椿",
       "田渊正浩",
       "三宫つばき"
     ],
@@ -1043,22 +465,26 @@ window.PAGE_DATA = [
   {
     "id": 66719,
     "IDcode": "ADN-452",
-    "title": "即使我想射精也不让我射-加藤結衣",
+    "title": "ADN-452 不耐烦地玩弄我，即使我想射精也不让我射的沮丧的兼职妻子。 加藤由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
-      "已婚妇女",
       "单体作品",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b095d43d69727162935c2/cover.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-452.jpg",
     "actress": [
+      "加藤結衣",
       "左慈半造"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-452"
@@ -1066,141 +492,184 @@ window.PAGE_DATA = [
   {
     "id": 68049,
     "IDcode": "ADN-453",
-    "title": "抱着我-君塚ひなた",
+    "title": "ADN-453 拜托了，管理人…睡我吧",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "已婚妇女",
       "恋爱",
+      "单体作品",
+      "人妻",
+      "剧情",
       "出轨",
-      "戏剧"
+      "戏剧",
+      "已婚妇女",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/b8e2a037cbb73bb6f4e5b13510ecacaa.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-03-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-453.jpg",
     "actress": [
-      "君塚ひなた"
+      "君塚ひなた",
+      "冴山敏树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-453"
   },
   {
     "id": 225388,
     "IDcode": "ADN-455",
-    "title": "社长室的密室接吻-小松杏",
+    "title": "ADN-455 总裁办公室秘密接吻唾液混合",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "秘书",
+      "接吻",
+      "NTR",
+      "单人作品",
+      "苗条"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/764259d7512b926347cefea18d404846.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-455.jpg",
+    "actress": [
+      "小松杏",
+      "小沢彻"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-455"
   },
   {
     "id": 106919,
     "IDcode": "ADN-456",
-    "title": "丈夫所不知道的-小野寺真优",
+    "title": "ADN-456 小野寺真由（Mayu Onodera）羞辱性地使用自己的臀部，而她的丈夫却毫不知情",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/8f7d7cef6ec7b3a3accd4bd6781ae31d.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-456.jpg",
+    "actress": [
+      "小野寺真優",
+      "上田昌宏",
+      "梅田吉雄"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-456"
   },
   {
     "id": 589394,
     "IDcode": "ADN-458",
-    "title": "对不起...善良的陷阱 金冢日向 - 君冢ひなた",
+    "title": "ADN-458 你，原谅我... 善良的陷阱 木冢日奈",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "人妻",
+      "剧情",
+      "出轨",
+      "NTR",
+      "单人作品"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-458.jpg",
+    "actress": [
+      "君塚ひなた",
+      "佐川银次"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-458"
   },
   {
     "id": 90374,
     "IDcode": "ADN-459",
-    "title": "为了最爱的丈夫守住身体-加藤结衣",
+    "title": "ADN-459 我用我的身体保护了我深爱的丈夫...... 加藤由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/bceaf95a4fc8d1fcd72f65ff754fe0d6.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-459.jpg",
     "actress": [
-      "加藤結衣"
+      "加藤結衣",
+      "佐川银次"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-459"
   },
   {
     "id": 90375,
     "IDcode": "ADN-460",
-    "title": "妻子和闺蜜们去旅行-藤井伊由奈",
+    "title": "ADN-460 我妻子在一次与闺蜜的旅行中被一个陌生人搭讪。 伊尼奥，藤井",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "凌辱",
       "单体作品",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "凌辱",
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/21f609ea540b58e30153429b98795676.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-460.jpg",
     "actress": [
       "藤井一夜",
-      "足立める"
+      "足立める",
+      "平田司",
+      "寺桥春斗"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-460"
   },
   {
     "id": 90373,
     "IDcode": "ADN-461",
-    "title": "拿着备用钥匙和人妻沉溺SEX-希岛爱理",
+    "title": "ADN-461 每周四 我都会拿着复制钥匙去找人妻情人做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
       "接吻",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/426f3bed565f6e20bd08017b0ccb9d97.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-461.jpg",
     "actress": [
       "希島愛理",
       "まーち"
@@ -1210,70 +679,87 @@ window.PAGE_DATA = [
   {
     "id": 90377,
     "IDcode": "ADN-462",
-    "title": "意外看到公公自慰-三宫椿",
+    "title": "ADN-462 我偷看到了继父自慰",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女",
-      "单体作品",
       "无码破解",
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "内射",
+      "已婚妇女",
+      "NTR",
       "中出",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/12091454f601516dc3fa54d64f844bbb.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-462.jpg",
     "actress": [
       "三宮椿",
-      "三宫つばき"
+      "三宫つばき",
+      "小沢彻"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-462"
   },
   {
     "id": 90383,
     "IDcode": "ADN-463",
-    "title": "半夜起来发现妻子不在旁边-夏目彩春",
+    "title": "ADN-463 我半夜醒来，发现妻子不在身边。我没想到，在我们的蜜月旅行中，她会被一个花花公子搭讪...... 夏目绫晴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "人妻",
+      "内射",
       "猎艳",
-      "白天出轨"
+      "搭讪",
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/60cc60fb7ba9ff50110dfdd94127b06d.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-463.jpg",
     "actress": [
       "夏目彩春",
-      "小田切ジュン"
+      "小田切ジュン",
+      "武田大树",
+      "小田切淳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-463"
   },
   {
     "id": 90385,
     "IDcode": "ADN-464",
-    "title": "禁忌之淫8太年轻的后妈-纱纱原百合",
+    "title": "ADN-464 被禁止的不道德行为 8 太年轻的岳母 Yuri Sasahara",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
+      "侮辱",
       "单体作品",
+      "白天出轨",
+      "NTR",
+      "继母",
+      "单人作品",
       "婆婆",
       "乱伦"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/6d35f697f4de0d42bd5592627be75877.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-464.jpg",
     "actress": [
+      "紗紗原百合",
       "蓝井优太",
       "纱々原ゆり"
     ],
@@ -1282,77 +768,103 @@ window.PAGE_DATA = [
   {
     "id": 90386,
     "IDcode": "ADN-465",
-    "title": "那个让人火大的男人-藤井伊由奈",
+    "title": "ADN-465 雇佣恼羞成怒男子的妻子担任总统秘书，并为所欲为。 Moist blowjob NTR Fujii Inyo",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "单体作品",
-      "已婚妇女",
       "秘书",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/4ac624345fbb8c6789a876a7ceca8627.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-465.jpg",
     "actress": [
-      "藤井一夜"
+      "藤井一夜",
+      "梅田吉雄"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-465"
   },
   {
     "id": 90384,
     "IDcode": "ADN-466",
-    "title": "侄女的胸部已经发育的很好了",
+    "title": "ADN-466 我的侄女几年来第一次回家，她的乳房发育得非常好，我啃着她的乳房和她做爱。 绫濑幸子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "流汗",
       "单体作品",
+      "美少女电影",
       "乱伦",
-      "美少女电影"
+      "流汗",
+      "出汗",
+      "美少女",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/68d686315f3e6552572e42be63aa5ca8.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-466.jpg",
     "actress": [
-      "绫濑心"
+      "绫濑心",
+      "中田一平"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-466"
   },
   {
     "id": 168289,
     "IDcode": "ADN-467",
-    "title": "用視訊電話跟愛人打炮-夏目彩春",
+    "title": "ADN-467 如果你要欺骗我，我也要欺骗你\"，已婚妇女通过视频通话向丈夫展示了她与出轨对象的性关系 Ayaharu Natsume",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "人妻",
+      "内射",
+      "出轨",
+      "NTR",
+      "单人作品"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/733da28b3bcff717e5e82ad17e82e0c3.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-467.jpg",
+    "actress": [
+      "夏目彩春",
+      "平ボンド"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-467"
   },
   {
     "id": 168290,
     "IDcode": "ADN-468",
-    "title": "青梅竹马女子想做出回忆逼迫已有婚约的我的故事【宫西光】",
+    "title": "ADN-468 关于一个与我一起长大的女孩的故事，她在我订婚时向我示爱，因为她想给我留下美好的回忆 Hikaru Miyanishi。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "[",
+      "剧情",
+      "]",
+      "NTR",
+      "OL",
+      "单人作品"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/12883a0d2fdb00196fa70f41261d0cb8.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-468.jpg",
     "actress": [
+      "宮西光",
+      "蓝井优太",
       "宫西光"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-468"
@@ -1360,22 +872,24 @@ window.PAGE_DATA = [
   {
     "id": 91689,
     "IDcode": "ADN-470",
-    "title": "被轻视的公公强迫不期待的怀孕的人妻 岬奈奈美",
+    "title": "ADN-470 被迫帮藐视的公公怀上小孩的巨乳人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "已婚妇女",
-      "单体作品",
       "无码破解",
-      "白天出轨"
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/d556acd642d4cd4dfe223d6e8d0f5c99.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-470.jpg",
     "actress": [
       "岬奈奈美",
       "田渊正浩"
@@ -1385,57 +899,75 @@ window.PAGE_DATA = [
   {
     "id": 157510,
     "IDcode": "ADN-471",
-    "title": "被已故丈夫的父亲弄怀孕的未亡人",
+    "title": "ADN-471 寡妇藤井伊代被丈夫的卑鄙父亲（藤井伊代的父亲已经过世）弄怀孕了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "寡妇",
+      "内射",
+      "NTR",
+      "乱伦",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250111-1/68432de0ffcceedce80828860e97f928.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-471.jpg",
+    "actress": [
+      "藤井一夜",
+      "吉村文孝"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-471"
   },
   {
     "id": 155528,
     "IDcode": "ADN-472",
-    "title": "比常人性欲强一倍的人妻-夏目彩春",
+    "title": "ADN-472 一位性欲比大多数人都强的已婚妇女，自从继父搬进来之后，已经独身两周了。她很沮丧，于是和公公的阳具一起进入了发情期。 夏目绫春",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "接吻",
+      "人妻",
+      "内射",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240810/l1lPHL4S/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-472.jpg",
     "actress": [
-      "夏目西春"
+      "夏目彩春",
+      "夏目西春",
+      "小沢彻",
+      "平ボンド"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-472"
   },
   {
     "id": 106881,
     "IDcode": "ADN-473",
-    "title": "性欲很强的义父-二宫光",
+    "title": "ADN-473 性欲很强的公公吃了勃起药，变成了绝伦淫魔并强奸儿子的媳妇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "已婚妇女",
       "无码破解",
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "内射",
+      "已婚妇女",
+      "NTR",
       "中出",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/20480be0e858c4ecd70255f3f73acde4.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-473.jpg",
     "actress": [
       "二宮光",
       "田渊正浩",
@@ -1447,141 +979,180 @@ window.PAGE_DATA = [
   {
     "id": 168558,
     "IDcode": "ADN-474",
-    "title": "堕落于媚药沙龙的人妻-末广纯",
+    "title": "ADN-474 爱上春药美学的已婚妇女末广纯",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "美容店",
+      "人妻",
+      "NTR",
+      "药物",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/1bf9db0b73c31f88d05cb1eaa39258b7.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-474.jpg",
+    "actress": [
+      "末広純",
+      "武田大树"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-474"
   },
   {
     "id": 168559,
     "IDcode": "ADN-475",
-    "title": "刺激的代价 偷东西人妻堕落成为便利店店主的性玩具 岬奈奈美",
+    "title": "ADN-475 刺激的代价。偷窃人妻堕落成为便利店老板的性玩具",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳",
+      "无码破解",
+      "人妻",
+      "内射",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240810/t6mXARwC/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-475.jpg",
     "actress": [
-      "岬奈奈美"
+      "岬奈奈美",
+      "冴山敏树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-475"
   },
   {
     "id": 91691,
     "IDcode": "ADN-476",
-    "title": "父亲对不起-宫西光",
+    "title": "ADN-476 父亲，对不起 原谅我长大后成为一个好色之徒......宫西彦春。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
-      "凌辱",
       "单体作品",
-      "乱伦"
+      "剧情",
+      "戏剧",
+      "单人作品",
+      "凌辱",
+      "乱伦",
+      "虐待"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/5d355815f4a632164ab1a97f4114d726.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-476.jpg",
+    "actress": [
+      "宮西光",
+      "上田昌宏"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-476"
   },
   {
     "id": 107501,
     "IDcode": "ADN-477",
-    "title": "下班回家中的人妻会迷上的媚药失禁按摩沙龙 藤井一夜",
+    "title": "ADN-477 下班回家的人妻堕入媚药失禁按摩沙龙的陷阱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
       "按摩",
+      "白天出轨",
+      "人妻",
       "乳液",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "润滑液"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240810/B9rxRZNk/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-477.jpg",
     "actress": [
       "藤井一夜",
-      "大岛丈"
+      "大岛丈",
+      "滝本"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-477"
   },
   {
     "id": 107500,
     "IDcode": "ADN-478",
-    "title": "妻子怀孕中无法做爱的我禁欲状态忍耐达到极限 被邻居人妻引诱持续做爱 末广纯",
+    "title": "ADN-478 我的妻子怀孕了，不能做爱，我是独身主义者，我的忍耐已经到了极限。隔壁的已婚妇女多次邀请我与她发生性关系。 末广淳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "人妻",
       "潮吹",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240811/RygpDp0n/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-478.jpg",
     "actress": [
-      "末广纯"
+      "末広純",
+      "末广纯",
+      "细田敦史"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-478"
   },
   {
     "id": 456171,
     "IDcode": "ADN-479",
-    "title": "脱獄者 宮西光",
+    "title": "ADN-479 越狱者 Hikaru Miyanishi",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "新娘",
+      "剧情",
+      "少妇",
+      "单人作品",
+      "虐待"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789eb80f9a2e9b1d4adbe02/cover.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-479.jpg",
+    "actress": [
+      "宮西光",
+      "今井勇太"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-479"
   },
   {
     "id": 107499,
     "IDcode": "ADN-480",
-    "title": "我会安慰你的… 妃光莉",
+    "title": "ADN-480 我会安慰你... 光女王",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/a6dcf6a063669400e6e2c23df871a955.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-480.jpg",
     "actress": [
       "妃光莉",
       "大岛丈"
@@ -1591,156 +1162,191 @@ window.PAGE_DATA = [
   {
     "id": 107498,
     "IDcode": "ADN-481",
-    "title": "老公原谅我…湿濡的再会 一场莉乃",
+    "title": "ADN-481 老公，请原谅我…湿湿的再次相遇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "凌辱",
-      "已婚妇女",
       "单体作品",
+      "白天出轨",
+      "人妻",
       "出轨",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "凌辱",
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/b3102262bb492c8c4b2629e135c5abdc.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-481.jpg",
     "actress": [
-      "一場れいか"
+      "一場れいか",
+      "杉浦树"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-481"
   },
   {
     "id": 168695,
     "IDcode": "ADN-482",
-    "title": "被讨厌性骚扰上司大肉棒搞到高潮连连耻辱的按摩师 希岛爱里",
+    "title": "ADN-482 持续被超级讨厌的主管粗肉棒强插高潮 我的羞耻心也没有了…",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "无码破解",
+      "按摩",
+      "美容店",
+      "单人作品",
+      "润滑液"
+    ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/6f27aba4a2d312fb0e158f681ce8bd5f.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-482.jpg",
     "actress": [
-      "希島愛理"
+      "希島愛理",
+      "田渊正浩"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-482"
   },
   {
     "id": 18838,
     "IDcode": "ADN-483",
-    "title": "代替无精症的父亲-藤井伊由奈",
+    "title": "ADN-483 藤井一夜 AV引退 代替没有生育能力的爸爸我来中出让后母怀孕",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "劇情",
+      "繼母",
       "人妻",
+      "内射",
       "出軌",
+      "性感",
+      "NTR",
+      "单人作品",
       "乱伦",
       "中出",
-      "退休作品",
-      "繼母",
-      "劇情",
-      "性感"
+      "退休作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240811/WWsnxHPK/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-483.jpg",
     "actress": [
-      "藤井一夜"
+      "藤井一夜",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-483"
   },
   {
     "id": 18007,
     "IDcode": "ADN-484",
-    "title": "老婆連續半年被黑道大哥插入-倉本堇",
+    "title": "ADN-484 我不知道我的妻子已经被一个极端的男人中刀了六个月。 仓本堇",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "凌辱",
-      "口交",
-      "中出",
-      "黑幫",
-      "欠債肉償",
-      "脅迫做愛",
+      "跳蛋",
       "劇情",
+      "人妻",
+      "黑幫",
+      "脅迫做愛",
       "性感",
-      "跳蛋"
+      "NTR",
+      "凌辱",
+      "中出",
+      "口交",
+      "单人作品",
+      "欠債肉償",
+      "虐待"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105082115182182.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-484.jpg",
     "actress": [
       "倉本菫",
-      "仓本堇"
+      "仓本堇",
+      "吉村文孝"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-484"
   },
   {
     "id": 168933,
     "IDcode": "ADN-485",
-    "title": "和人妻秘书在出差旅馆-希岛爱理",
+    "title": "ADN-485 跟人妻秘书一起出差住进同间房 陷入在浓厚不伦性爱当中",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "秘书",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240812/BaBA1ZvF/1.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-485.jpg",
+    "actress": [
+      "希島愛理",
+      "志良玉弾吾"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-485"
   },
   {
     "id": 107125,
     "IDcode": "ADN-486",
-    "title": "与大嫂约束好只插入前端3公分后相性出众过头肉棒不拔出就这样中出 夏目彩春",
+    "title": "ADN-486 哥哥和嫂子允许我插入阴茎，并承诺顶端只有三厘米，但化学反应是如此之大，以至于我无法拔出阴茎，直接在她体内射精。 夏目绫晴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "乱伦",
-      "中出",
+      "白天出轨",
+      "人妻",
+      "内射",
       "女上位",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品",
+      "中出",
+      "乱伦"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/760f4714e657e41fc62974e4bc381b86.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-486.jpg",
     "actress": [
-      "夏目彩春"
+      "夏目彩春",
+      "桥本诚吾"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-486"
   },
   {
     "id": 107124,
     "IDcode": "ADN-487",
-    "title": "继妹女子想做出回忆逼迫已有婚约的我的故事 河东实里",
+    "title": "ADN-487 嫂子在我订婚期间主动找我的故事，因为她想给我留下美好回忆 Jisato Kawato",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "妹妹",
-      "戏剧",
       "单体作品",
-      "白天出轨"
+      "白天出轨",
+      "剧情",
+      "戏剧",
+      "妹妹",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/aedb4805532d1b843790db4d7f0cb7dc.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-487.jpg",
     "actress": [
       "河南実里",
       "蓝井优太",
@@ -1751,68 +1357,79 @@ window.PAGE_DATA = [
   {
     "id": 107123,
     "IDcode": "ADN-488",
-    "title": "虽然还是喜欢妻子 但是已经有更喜欢的人出现了 远距离不伦中出SEX 三尾惠",
+    "title": "ADN-488 我爱我的妻子，但我更爱另一个人。 异地恋 Nakadashi 性爱，Megu Mio。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "中出",
+      "白天出轨",
+      "人妻",
+      "内射",
       "出轨",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240812/8vXN9Y4D/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-488.jpg",
     "actress": [
-      "三尾惠"
+      "三尾惠",
+      "小梅"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-488"
   },
   {
     "id": 91688,
     "IDcode": "ADN-489",
-    "title": "父亲 对不起 请原谅逐渐淫乱的我... 樱萌子",
+    "title": "ADN-489 父亲，对不起 原谅我长大后成为一个好色之徒...... 木子樱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "单体作品",
-      "乱伦"
+      "剧情",
+      "戏剧",
+      "乱伦",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/db267f88aebb7fb798b98b627a0864c3.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-489.jpg",
     "actress": [
-      "櫻萌子"
+      "櫻萌子",
+      "上田昌宏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-489"
   },
   {
     "id": 91693,
     "IDcode": "ADN-490",
-    "title": "老公不知道我的臀部被羞辱性地使用NTR！ 通野未帆",
+    "title": "ADN-490 老公不知道的淫荡扭腰摆臀",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "已婚妇女",
-      "淫妻",
       "无码破解",
+      "单体作品",
+      "白天出轨",
+      "人妻",
+      "剧情",
       "出轨",
       "戏剧",
+      "已婚妇女",
       "NTR",
-      "白天出轨"
+      "淫妻",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/b5fe6e234d4fea278d0509a1ac957f9a.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-490.jpg",
     "actress": [
       "通野未帆",
       "大岛丈"
@@ -1822,26 +1439,28 @@ window.PAGE_DATA = [
   {
     "id": 16978,
     "IDcode": "ADN-491",
-    "title": "从居酒屋带回来-三宫椿",
+    "title": "ADN-491 饮酒店带回家的人妻，做爱不停直到天亮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "口交",
-      "出軌",
-      "中出",
-      "報復",
+      "无码破解",
       "劇情",
-      "艷遇",
+      "人妻",
+      "出軌",
+      "報復",
       "性感",
-      "NTR"
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品",
+      "艷遇"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240101/20240101100044299299.jpg",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-491.jpg",
     "actress": [
       "三宮椿",
       "蓝井优太",
@@ -1853,41 +1472,46 @@ window.PAGE_DATA = [
   {
     "id": 91697,
     "IDcode": "ADN-492",
-    "title": "每晚做爱声都很大的邻居-黑川堇",
+    "title": "ADN-492 我的邻居每天晚上都吵着要做爱，她丈夫不在家时，她很沮丧，就勾引我。我满头大汗地和她干了一个星期。 黑川澄",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "白天出轨",
       "单体作品",
+      "白天出轨",
+      "人妻",
+      "出轨",
       "已婚妇女",
-      "出轨"
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/843e8d989685ed0872da62dc352b9a91.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-492.jpg",
     "actress": [
-      "黑川堇"
+      "黑川堇",
+      "滝本"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-492"
   },
   {
     "id": 106842,
     "IDcode": "ADN-493",
-    "title": "美女人妻森沢佳奈被陌生人挟持",
+    "title": "ADN-493 仅限周末，妻子被陌生人挟持时的婚姻交换之夜 森泽加奈、八野翼",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "已婚妇女",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "NTR"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/gZToAIqT/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-493.jpg",
     "actress": [
       "森澤佳奈",
       "八乃翼",
@@ -1898,291 +1522,343 @@ window.PAGE_DATA = [
   {
     "id": 106841,
     "IDcode": "ADN-494",
-    "title": "老公原谅我-玉城夏帆",
+    "title": "ADN-494 你，原谅我... 奸夫淫妇的不道德行为 玉木菜穗",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/Gpjwt1Rb/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-494.jpg",
     "actress": [
-      "玉城夏帆"
+      "玉城夏帆",
+      "上田昌宏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-494"
   },
   {
     "id": 106839,
     "IDcode": "ADN-495",
-    "title": "在丈夫面前被侵犯-西野绘",
+    "title": "ADN-495 西野惠美在丈夫面前被强奸的羞辱视频信。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
-      "淫妻",
+      "白天出轨",
+      "剧情",
+      "人妻",
       "出轨",
       "戏剧",
-      "白天出轨"
+      "已婚妇女",
+      "NTR",
+      "淫妻",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/SiRWv7E4/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-495.jpg",
     "actress": [
-      "西野絵美"
+      "西野絵美",
+      "上田昌宏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-495"
   },
   {
     "id": 106838,
     "IDcode": "ADN-496",
-    "title": "堕入孕期美容院的人妻-夏目彩春",
+    "title": "ADN-496 爱上生育治疗的已婚妇女夏目绫晴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
-      "已婚妇女",
       "按摩",
+      "美容院",
+      "人妻",
+      "美容店",
       "乳液",
-      "美容院"
+      "已婚妇女",
+      "单人作品",
+      "润滑液"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240813/gfOtEW9N/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-496.jpg",
     "actress": [
-      "夏目彩春"
+      "夏目彩春",
+      "阿部智広",
+      "阿部"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-496"
   },
   {
     "id": 106837,
     "IDcode": "ADN-497",
-    "title": "被弄到高潮-武藤彩香",
+    "title": "ADN-497 已婚美容师，被丈夫鄙视的上司武藤绫香（Ayaka Muto）逼迫在不能说话的情况下射精。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "单体作品",
-      "已婚妇女",
       "按摩",
       "美容院",
-      "白天出轨"
+      "白天出轨",
+      "人妻",
+      "美容店",
+      "已婚妇女",
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240814/ww43FoD6/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-497.jpg",
     "actress": [
-      "武藤彩香"
+      "武藤彩香",
+      "东尼大木"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-497"
   },
   {
     "id": 169132,
     "IDcode": "ADN-498",
-    "title": "お父さん、ごめんね。 淫らに成長した私を許して… 工藤ゆら",
+    "title": "ADN-498 父亲，对不起 原谅我长大后成为一个妓女...... 工藤由良。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕"
+      "中文字幕",
+      "剧情",
+      "制服",
+      "单人作品",
+      "虐待"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/8f14cc8f63280c57cdcbdd5edd84a779.jpg",
-    "actress": [],
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-498.jpg",
+    "actress": [
+      "工藤由羅",
+      "市川哲也"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-498"
   },
   {
     "id": 106836,
     "IDcode": "ADN-499",
-    "title": "人妻女上司毫无防备的丁字裤让我的理智瞬间消失 白峰美羽",
+    "title": "ADN-499 我的理智已经被已婚女老板毫无保护的透明丁字裤弄疯了。 苗白敏",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "单体作品",
+      "白天出轨",
+      "人妻",
       "已婚妇女",
-      "白天出轨"
+      "NTR",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240814/j6I3gLUz/1.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-499.jpg",
     "actress": [
-      "白峰美羽"
+      "白峰美羽",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-499"
   },
   {
     "id": 18009,
     "IDcode": "ADN-500",
-    "title": "跟喝醉酒的人妻女主管-夏目彩春",
+    "title": "ADN-500 我和一个喝醉酒的已婚女老板在酒店里鬼混到天亮。 夏目绫春",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "劇情",
       "人妻",
       "出軌",
-      "女上司",
-      "酒醉",
       "女上位",
-      "蕩婦",
-      "OL",
-      "劇情",
       "性感",
-      "NTR"
+      "NTR",
+      "蕩婦",
+      "荡妇",
+      "酒醉",
+      "OL",
+      "单人作品",
+      "女上司"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105080817178178.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-500.jpg",
     "actress": [
-      "夏目彩春"
+      "夏目彩春",
+      "平ボンド"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-500"
   },
   {
     "id": 18011,
     "IDcode": "ADN-501",
-    "title": "老婆時間到了就會回家-希島愛理",
+    "title": "ADN-501 妻子平时都会按时回家，今天却说要加班，直到早上才回家。深夜加班 NTR 木岛爱理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
+      "无码破解",
       "女同事",
+      "劇情",
+      "剧情",
       "出軌",
+      "人妻",
+      "性感",
+      "NTR",
       "中出",
       "OL",
-      "劇情",
-      "性感",
-      "NTR"
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105074950560560.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-501.jpg",
     "actress": [
-      "希島愛理"
+      "希島愛理",
+      "松本健"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-501"
   },
   {
     "id": 18013,
     "IDcode": "ADN-502",
-    "title": "丈夫所不知道的-织田真",
+    "title": "ADN-502 丈夫不为人知的侮辱性使用臀部 Mako Oda",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "劇情",
       "人妻",
-      "口交",
       "出軌",
-      "中出",
+      "剧情",
+      "出轨",
       "誘騙女性",
       "按摩・物理治療・美容",
-      "劇情",
-      "NTR"
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105074452215215.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-502.jpg",
     "actress": [
-      "織田真子"
+      "織田真子",
+      "梅田吉雄"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-502"
   },
   {
     "id": 18010,
     "IDcode": "ADN-503",
-    "title": "舔舐着我的义父-白峰美由",
+    "title": "ADN-503 我岳父的吻来舔我苗白敏。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "巨乳",
-      "強姦",
-      "公公",
-      "出軌",
-      "接吻",
+      "兒媳",
       "劇情",
-      "兒媳"
+      "接吻",
+      "人妻",
+      "出軌",
+      "公公",
+      "NTR",
+      "单人作品",
+      "強姦"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105075951883883.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-503.jpg",
     "actress": [
-      "白峰美羽"
+      "白峰美羽",
+      "小沢彻"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-503"
   },
   {
     "id": 17460,
     "IDcode": "ADN-504",
-    "title": "透过裙子看到的内裤-夏目彩春",
+    "title": "ADN-504 隔壁人妻穿着无防备的透明内裤诱惑我",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "勾引・誘惑",
-      "人妻",
-      "口交",
-      "出軌",
-      "中出",
-      "情趣內衣",
-      "蕩婦",
-      "色誘",
       "劇情",
-      "性感"
+      "情趣內衣",
+      "人妻",
+      "出軌",
+      "色誘",
+      "剧情",
+      "性感",
+      "NTR",
+      "蕩婦",
+      "中出",
+      "荡妇",
+      "口交",
+      "勾引・誘惑",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/f14083df-2981-410d-a91b-6957f9fcc321.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-504.jpg",
     "actress": [
-      "夏目彩春"
+      "夏目彩春",
+      "平ボンド"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-504"
   },
   {
     "id": 18014,
     "IDcode": "ADN-505",
-    "title": "只要見面就中出打炮-長谷川夕奈",
+    "title": "ADN-505 我和她姐姐已经恋爱六个月了。每次见面，我们都会在对方体内做爱。 长谷川由奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
-      "出軌",
-      "中出",
       "劇情",
+      "剧情",
+      "内射",
+      "出軌",
       "NTR",
+      "中出",
+      "口交",
+      "单人作品",
       "女友姐姐"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/43ae07dcfd5b36e2da1a8036374f89ee.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-505.jpg",
     "actress": [
       "長谷川夕奈",
       "日森一"
@@ -2190,83 +1866,1115 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-505"
   },
   {
-    "id": 18144,
-    "IDcode": "ADN-506",
-    "title": "我心愛的妻子對我說：“我找到了我愛的人。”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳",
-      "口交",
-      "出軌",
-      "中出",
-      "劇情",
-      "性感",
-      "NTR",
-      "按摩棒"
-    ],
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20231028/f7dc7dc4-3e0a-40b2-9d24-6d6ce82b845a.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-506"
-  },
-  {
     "id": 18000,
     "IDcode": "ADN-507",
-    "title": "太太是町內会的专属肉便器-三宫椿",
+    "title": "ADN-507 妻子是小区里的肉便器",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "凌辱",
-      "出軌",
+      "无码破解",
       "慾求不滿",
-      "中出",
-      "亂交 • 群P",
-      "劇情",
       "多P",
-      "性感"
+      "劇情",
+      "人妻",
+      "内射",
+      "出軌",
+      "亂交 • 群P",
+      "性感",
+      "NTR",
+      "凌辱",
+      "中出",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/b099ae96d519890039f3d292cc6e92a6.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-507.jpg",
     "actress": [
-      "三宮椿"
+      "三宮椿",
+      "左慈半造",
+      "大岛丈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-507"
   },
   {
     "id": 17423,
     "IDcode": "ADN-508",
-    "title": "没穿胸罩-希岛爱理",
+    "title": "ADN-508 我的嫂子和我哥哥吵了一架，她想让我在她家过夜，并在没有任何保护措施的情况下勾引我，还不戴胸罩。 木岛爱理",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
-      "出軌",
-      "中出",
+      "嫂嫂",
       "劇情",
+      "剧情",
+      "出軌",
+      "人妻",
       "性感",
       "NTR",
-      "嫂嫂"
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/e5a4c19e3e9efc9b82ae8a87486690eb.jpg",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-508.jpg",
     "actress": [
-      "希島愛理"
+      "希島愛理",
+      "结城结弦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-508"
+  },
+  {
+    "id": 18002,
+    "IDcode": "ADN-509",
+    "title": "ADN-509 你，原谅我... 玩弄淫火的塞里诺-奥瑞洪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "剧情",
+      "出軌",
+      "偷竊",
+      "人妻",
+      "NTR",
+      "凌辱",
+      "单人作品",
+      "虐待"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-509.jpg",
+    "actress": [
+      "織本せりの",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-509"
+  },
+  {
+    "id": 17487,
+    "IDcode": "ADN-510",
+    "title": "ADN-510 每晚打炮声音都很吵！隔壁欲求不满人妻趁老公不在诱惑我…汗水直流猛烈干一个礼拜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "劇情",
+      "鄰居",
+      "人妻",
+      "出軌",
+      "NTR",
+      "蕩婦",
+      "流汗",
+      "中出",
+      "荡妇",
+      "口交",
+      "出汗",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-510.jpg",
+    "actress": [
+      "二宮光",
+      "二宫ひかり",
+      "滝本"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-510"
+  },
+  {
+    "id": 17477,
+    "IDcode": "ADN-511",
+    "title": "ADN-511 当我允许我的岳父插入我的身体，并承诺只有 10 秒钟的时候......我达到了高潮，因为化学反应太强烈了。 森泽加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "兒媳",
+      "劇情",
+      "剧情",
+      "出軌",
+      "人妻",
+      "公公",
+      "亂倫",
+      "NTR",
+      "舔陰",
+      "中出",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-511.jpg",
+    "actress": [
+      "森澤佳奈",
+      "阿部智広"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-511"
+  },
+  {
+    "id": 16970,
+    "IDcode": "ADN-512",
+    "title": "ADN-512 被我解雇的下属当着我的面不停地强奸我的妻子，她逐渐开始有了感觉，并在快感中达到了高潮。 二宫光里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "劇情",
+      "調教",
+      "人妻",
+      "報復",
+      "淫亂",
+      "性感",
+      "在丈夫面前被操",
+      "单人作品",
+      "NTR",
+      "緊縛",
+      "凌辱",
+      "中出",
+      "口交",
+      "暗黑系",
+      "強姦",
+      "上司女友・妻子"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-512.jpg",
+    "actress": [
+      "二宮光",
+      "东尼大木"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-512"
+  },
+  {
+    "id": 16971,
+    "IDcode": "ADN-513",
+    "title": "ADN-513 中年自由职业大叔被新来的兼职女孩骚扰的故事 漂流少女Episode：02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "猥褻穿著",
+      "劇情",
+      "情趣內衣",
+      "剧情",
+      "少女",
+      "淫亂",
+      "性感",
+      "黑絲",
+      "癡女",
+      "荡妇",
+      "美少女",
+      "勾引・誘惑",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-513.jpg",
+    "actress": [
+      "工藤由羅",
+      "工藤由罗",
+      "神健太郎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-513"
+  },
+  {
+    "id": 17473,
+    "IDcode": "ADN-514",
+    "title": "ADN-514 独居的美好，光女王。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "剧情",
+      "出軌",
+      "人妻",
+      "出轨",
+      "熟女",
+      "勾引・誘惑",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-514.jpg",
+    "actress": [
+      "妃光莉",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-514"
+  },
+  {
+    "id": 17479,
+    "IDcode": "ADN-515",
+    "title": "ADN-515 故事讲述了一名与妻子分居的中年男子，在妻子的妹妹前来探望他时，与她发生性关系的故事 Hikaru Miyanishi。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "姐姐・妹妹",
+      "剧情",
+      "出軌",
+      "小姨子",
+      "妹妹",
+      "NTR",
+      "单人作品",
+      "蕩婦",
+      "中出",
+      "荡妇",
+      "口交",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-515.jpg",
+    "actress": [
+      "宮西光",
+      "滝本"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-515"
+  },
+  {
+    "id": 17472,
+    "IDcode": "ADN-516",
+    "title": "ADN-516 NTR 独自工作：\"我每天都被你的老板'Nakadashi'，我的妻子给我打电话。 白岭苗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "劇情",
+      "淫妻",
+      "人妻",
+      "内射",
+      "出軌",
+      "NTR",
+      "中出",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-516.jpg",
+    "actress": [
+      "白峰美羽",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-516"
+  },
+  {
+    "id": 17467,
+    "IDcode": "ADN-517",
+    "title": "ADN-517 寡妇，悲伤的怀孕报告。 三宫椿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫂嫂",
+      "劇情",
+      "寡妇",
+      "剧情",
+      "報復",
+      "喪夫",
+      "和服・浴衣・喪服",
+      "NTR",
+      "黑絲",
+      "未亡人・寡婦",
+      "亂倫",
+      "凌辱",
+      "中出",
+      "口交",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-517.jpg",
+    "actress": [
+      "三宮椿",
+      "三宫つばき",
+      "梅田吉雄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-517"
+  },
+  {
+    "id": 16974,
+    "IDcode": "ADN-518",
+    "title": "ADN-518 我被女儿的男朋友抱住了。 从那天他强行把我压在白木优子的身下开始，我就一直被操的故事。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "人妻",
+      "性感",
+      "NTR",
+      "单人作品",
+      "熟女",
+      "母亲",
+      "中出",
+      "口交",
+      "乱伦",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-518.jpg",
+    "actress": [
+      "白木優子",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-518"
+  },
+  {
+    "id": 16972,
+    "IDcode": "ADN-519",
+    "title": "ADN-519 Nakadashi 从妻子 NTR Ayaharu Natsume 报道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "女同事",
+      "劇情",
+      "淫妻",
+      "迷姦",
+      "溫泉",
+      "出軌",
+      "人妻",
+      "性感",
+      "和服・浴衣・喪服",
+      "NTR",
+      "单人作品",
+      "滥交",
+      "舔陰",
+      "中出",
+      "OL",
+      "口交",
+      "出差"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-519.jpg",
+    "actress": [
+      "夏目彩春",
+      "野岛诚",
+      "阿部"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-519"
+  },
+  {
+    "id": 16975,
+    "IDcode": "ADN-520",
+    "title": "ADN-520 妻子曾经说过：“即使我们没有任何种子，我们也要永远在一起…”现在她告诉我，她希望我离开她，因为她怀孕了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "劇情",
+      "情趣內衣",
+      "人妻",
+      "内射",
+      "出軌",
+      "性感",
+      "舔陰",
+      "NTR",
+      "黑絲",
+      "中出",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-520.jpg",
+    "actress": [
+      "希島愛理",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-520"
+  },
+  {
+    "id": 16999,
+    "IDcode": "ADN-521",
+    "title": "ADN-521 你，原谅我... 湿身重逢 5 西野惠美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "剧情",
+      "出軌",
+      "人妻",
+      "出轨",
+      "NTR",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-521.jpg",
+    "actress": [
+      "西野絵美",
+      "西野绘美",
+      "河村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-521"
+  },
+  {
+    "id": 16977,
+    "IDcode": "ADN-522",
+    "title": "ADN-522 我肚子里的孩子是我丈夫的还是我公公的？ 不断强奸儿子妻子的公公，远藤沙耶。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码破解",
+      "兒媳",
+      "劇情",
+      "人妻",
+      "内射",
+      "公公",
+      "性感",
+      "NTR",
+      "中出",
+      "口交",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-522.jpg",
+    "actress": [
+      "遠藤沙耶",
+      "远藤沙耶",
+      "小沢彻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-522"
+  },
+  {
+    "id": 17002,
+    "IDcode": "ADN-523",
+    "title": "ADN-523 在丈夫面前被侵犯-通奸妻子三竹由奈的高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "淫妻",
+      "剧情",
+      "人妻",
+      "出轨",
+      "性感",
+      "在丈夫面前被操",
+      "NTR",
+      "凌辱",
+      "中出",
+      "口交",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-523.jpg",
+    "actress": [
+      "三岳祐奈",
+      "阪本隆太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-523"
+  },
+  {
+    "id": 17000,
+    "IDcode": "ADN-524",
+    "title": "ADN-524 唾液在密室中交融，与社长办公室的伊藤清香接吻。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同事",
+      "劇情",
+      "秘书",
+      "接吻",
+      "辦公室",
+      "制服",
+      "性感",
+      "NTR",
+      "黑絲",
+      "女秘書",
+      "脅迫做愛",
+      "中出",
+      "OL",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-524.jpg",
+    "actress": [
+      "伊藤聖夏",
+      "中田一平"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-524"
+  },
+  {
+    "id": 16998,
+    "IDcode": "ADN-525",
+    "title": "ADN-525 串环 ● 公司旅行 Miu Hakumine",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "大小姐",
+      "无码破解",
+      "旅行",
+      "劇情",
+      "溫泉",
+      "人妻",
+      "淫亂",
+      "性感",
+      "輪姦",
+      "单人作品",
+      "NTR",
+      "凌辱",
+      "中出",
+      "口交",
+      "暗黑系"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-525.jpg",
+    "actress": [
+      "白峰美羽",
+      "左慈半造",
+      "滝本",
+      "志良玉弾吾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-525"
+  },
+  {
+    "id": 16453,
+    "IDcode": "ADN-526",
+    "title": "ADN-526 可耻的押滨通勤 被困在电梯里失控撒尿的末广，没穿裤子面试被抓的末广，沉溺在上司和自己毫不掩饰的性欲中的故事。 末广纯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "羞恥",
+      "女同事",
+      "劇情",
+      "新人面試",
+      "制服",
+      "脅迫做愛",
+      "辦公室",
+      "NTR",
+      "奇異的",
+      "中出",
+      "放尿",
+      "口交",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-526.jpg",
+    "actress": [
+      "末広純",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-526"
+  },
+  {
+    "id": 15995,
+    "IDcode": "ADN-527",
+    "title": "ADN-527 我的下属因为想留下美好的回忆而向即将再婚的我搭讪的故事。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "手指插入",
+      "不倫",
+      "黑絲",
+      "中出",
+      "OL",
+      "口交",
+      "按摩棒",
+      "深喉",
+      "內衣",
+      "美腳",
+      "女友・妻子",
+      "後入",
+      "羞恥",
+      "美乳",
+      "剧情",
+      "出軌",
+      "人妻",
+      "出轨",
+      "絕頂高潮",
+      "熟女",
+      "苗條",
+      "蕩婦",
+      "胸控・戀乳癖",
+      "自宅",
+      "潮吹",
+      "女上位",
+      "淫亂",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-527.jpg",
+    "actress": [
+      "櫻萌子",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-527"
+  },
+  {
+    "id": 14283,
+    "IDcode": "ADN-528",
+    "title": "ADN-528 广濑里欧娜羞辱性地使用臀部，而她的丈夫却不知情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "劇情",
+      "剧情",
+      "出軌",
+      "色白",
+      "出轨",
+      "不倫",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "蕩婦",
+      "偷竊",
+      "单人作品",
+      "短髮"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-06-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-528.jpg",
+    "actress": [
+      "廣瀨里緒菜",
+      "上田昌宏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-528"
+  },
+  {
+    "id": 16459,
+    "IDcode": "ADN-529",
+    "title": "ADN-529 失恋的我在姐姐的安慰下沉溺于一个夏天的恋情数日间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "美少女電影",
+      "劇情",
+      "剧情",
+      "純粹的慾望",
+      "黑絲",
+      "純愛・戀愛",
+      "足交",
+      "乱伦",
+      "中出",
+      "荡妇",
+      "口交",
+      "单人作品",
+      "自宅"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-529.jpg",
+    "actress": [
+      "森日向子",
+      "结城结弦"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-529"
+  },
+  {
+    "id": 16455,
+    "IDcode": "ADN-530",
+    "title": "ADN-530 被看不起的继父中出受孕的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "羞恥",
+      "无码破解",
+      "兒媳",
+      "劇情",
+      "人妻",
+      "公公",
+      "不倫",
+      "脅迫做愛",
+      "NTR",
+      "苗條",
+      "中出",
+      "口交",
+      "单人作品",
+      "自宅"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-530.jpg",
+    "actress": [
+      "希島愛理",
+      "希岛爱理",
+      "小沢彻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-530"
+  },
+  {
+    "id": 16451,
+    "IDcode": "ADN-531",
+    "title": "ADN-531 我妻子一喝酒就变得爱接吻，所以我不想让她参加酒会。 夏目绫春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "接吻",
+      "人妻",
+      "出軌",
+      "酒後亂性",
+      "淫亂",
+      "性感",
+      "NTR",
+      "蕩婦",
+      "中出",
+      "荡妇",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-531.jpg",
+    "actress": [
+      "夏目彩春",
+      "中田一平"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-531"
+  },
+  {
+    "id": 16460,
+    "IDcode": "ADN-532",
+    "title": "ADN-532 你，原谅我... 失落的回忆5：久野和昭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "羞恥",
+      "劇情",
+      "剧情",
+      "人妻",
+      "出轨",
+      "不倫",
+      "NTR",
+      "单人作品",
+      "強姦",
+      "自宅"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-532.jpg",
+    "actress": [
+      "久野和咲",
+      "佐川银次"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-532"
+  },
+  {
+    "id": 16461,
+    "IDcode": "ADN-533",
+    "title": "ADN-533 我的邻居每天晚上都吵着要做爱，她丈夫不在家时，她很沮丧，就勾引我。我满头大汗地和她干了一个星期。 苗白敏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "艷遇",
+      "鄰居",
+      "人妻",
+      "出軌",
+      "公共場所",
+      "出轨",
+      "不倫",
+      "女上位",
+      "NTR",
+      "蕩婦",
+      "中出",
+      "荡妇",
+      "口交",
+      "单人作品",
+      "騎乗位",
+      "自宅"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-533.jpg",
+    "actress": [
+      "白峰美羽",
+      "结城结弦"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-533"
+  },
+  {
+    "id": 15994,
+    "IDcode": "ADN-534",
+    "title": "ADN-534 只有那个男人的性爱可以满足我…却已经一个月没有做爱了 我的禁欲状态即将爆炸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "調教",
+      "舔陰",
+      "中出",
+      "口交",
+      "深喉",
+      "內衣",
+      "邻居",
+      "後入",
+      "騎乗位",
+      "羞恥",
+      "美乳",
+      "剧情",
+      "人妻",
+      "絕頂高潮",
+      "性感",
+      "熟女",
+      "苗條",
+      "蕩婦",
+      "自宅",
+      "潮吹",
+      "女上位",
+      "淫亂",
+      "NTR",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-534.jpg",
+    "actress": [
+      "夏目彩春",
+      "小沢彻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-534"
+  },
+  {
+    "id": 15993,
+    "IDcode": "ADN-535",
+    "title": "ADN-535 丧子之妻。 森泽加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "手指插入",
+      "寡妇",
+      "公公",
+      "舔陰",
+      "黑絲",
+      "中出",
+      "口交",
+      "深喉",
+      "乳交",
+      "騎乗位",
+      "後入",
+      "美乳",
+      "兒媳",
+      "人妻",
+      "絕頂高潮",
+      "性感",
+      "熟女",
+      "苗條",
+      "未亡人・寡婦",
+      "胸控・戀乳癖",
+      "自宅",
+      "潮吹",
+      "女上位",
+      "淫亂",
+      "NTR",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-535.jpg",
+    "actress": [
+      "森澤佳奈",
+      "小沢彻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-535"
+  },
+  {
+    "id": 15992,
+    "IDcode": "ADN-536",
+    "title": "ADN-536 当我允许我的岳父插入我的身体，并承诺只有 10 秒钟的时候......我达到了高潮，因为化学反应太强烈了。 5下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "少女",
+      "中出",
+      "口交",
+      "按摩棒",
+      "口爆",
+      "深喉",
+      "亂倫",
+      "內衣",
+      "騎乗位",
+      "後入",
+      "吞精",
+      "羞恥",
+      "美乳",
+      "美少女電影",
+      "接吻",
+      "剧情",
+      "人妻",
+      "絕頂高潮",
+      "性感",
+      "苗條",
+      "美少女",
+      "自宅",
+      "潮吹",
+      "女上位",
+      "淫亂",
+      "NTR",
+      "单人作品",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-536.jpg",
+    "actress": [
+      "五芭",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-536"
+  },
+  {
+    "id": 15990,
+    "IDcode": "ADN-537",
+    "title": "ADN-537 老师，你毕业后会和我约会吗？ 木岛爱理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码破解",
+      "手指插入",
+      "女教師",
+      "舔陰",
+      "黑絲",
+      "中出",
+      "口交",
+      "內衣",
+      "美腳",
+      "騎乗位",
+      "美乳",
+      "人妻",
+      "飯店",
+      "絕頂高潮",
+      "性感",
+      "熟女",
+      "苗條",
+      "潮吹",
+      "NTR",
+      "单人作品",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-537.jpg",
+    "actress": [
+      "希島愛理",
+      "左慈半造",
+      "希岛爱理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-537"
+  },
+  {
+    "id": 15989,
+    "IDcode": "ADN-538",
+    "title": "ADN-538 我和搬进我家的姐姐发生了疯狂的性爱故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "少女",
+      "中出",
+      "口交",
+      "乱伦",
+      "姐姐・妹妹",
+      "女學生",
+      "內衣",
+      "乳交",
+      "荡妇",
+      "騎乗位",
+      "美少女電影",
+      "美乳",
+      "剧情",
+      "出軌",
+      "絕頂高潮",
+      "性感",
+      "苗條",
+      "蕩婦",
+      "胸控・戀乳癖",
+      "美少女",
+      "自宅",
+      "女上位",
+      "淫亂",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "Attackers",
+    "publish_date": "2024-03-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ADN-538.jpg",
+    "actress": [
+      "白峰美羽",
+      "輝大"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-538"
   }
 ];

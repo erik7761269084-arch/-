@@ -1,52 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 570153,
-    "IDcode": "FC2-PPV-3241897",
-    "title": "期间限定❤️青森で见つけた天然で不思议ちゃんは超爆乳のぽっちゃり娘❤️さらに异次元宇宙の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230616/7RzSrDLq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3241897"
-  },
-  {
-    "id": 114550,
-    "IDcode": "FC2-PPV-3242573",
-    "title": "送她一份浓稠的精液作为礼物",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3242573"
-  },
-  {
-    "id": 114875,
-    "IDcode": "FC2-PPV-3243143",
-    "title": "性感的女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-11",
-    "cover_url": "https://tuaskbgnekr.com/20230617/OkFwbiW6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3243143"
-  },
-  {
     "id": 570168,
     "IDcode": "FC2-PPV-3243171",
     "title": "【セット贩売·番外编·女同志】経験有の熟女妻と初レズプレイの若妻女が女に逝かされる女同士",
@@ -436,21 +389,6 @@ window.PAGE_DATA = [
     "cover_url": "https://guzwiayz.com/20230620/ikcYuVHM/1.jpg?t=1687261967",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3245794"
-  },
-  {
-    "id": 114888,
-    "IDcode": "FC2-PPV-3245878",
-    "title": "美丽的俄罗斯妻子怀孕了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-11",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/dcaffc00/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3245878"
   },
   {
     "id": 570194,
@@ -1567,5 +1505,68 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20230627/zcErQRIP/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3253192"
+  },
+  {
+    "id": 184679,
+    "IDcode": "FC2-PPV-3253372",
+    "title": "阴毛浓密的阴部仍在发育",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/712fa4f5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3253372"
+  },
+  {
+    "id": 570237,
+    "IDcode": "FC2-PPV-3253383",
+    "title": "初撮影！！4#15まで限定！！“イカせてください···”自闭症を患い部屋に引き篭もり自己",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230627/p9DM7I83/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3253383"
+  },
+  {
+    "id": 570232,
+    "IDcode": "FC2-PPV-3253426",
+    "title": "【无修正】おじさんに何度も絶顶させられて本気汁もでちゃう美巨乳くるみちゃんにガチ生中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230627/M4fwPj2s/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3253426"
+  },
+  {
+    "id": 184685,
+    "IDcode": "FC2-PPV-3253504",
+    "title": "身材火辣的美女学生在车里深喉口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3253504"
   }
 ];

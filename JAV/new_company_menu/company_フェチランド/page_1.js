@@ -1,0 +1,51 @@
+window.PAGE_DATA = [
+  {
+    "id": 8563,
+    "IDcode": "FTNL-001",
+    "title": "FTNL-001 我对小魔女那充满冲力的松袜足交失去了耐心，隔着裤子搓揉着自己的小弟弟，反复射精。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "過膝襪・小腿襪",
+      "局部特寫",
+      "巨尻",
+      "戀物癖",
+      "舔腳",
+      "辣妹/GAL系",
+      "泡泡袜",
+      "脚控・戀足癖",
+      "蠻橫嬌羞",
+      "JK校服",
+      "美少女",
+      "奇異的",
+      "女優",
+      "癡女",
+      "足交",
+      "無做愛場面",
+      "美少女電影",
+      "金髮",
+      "女学生",
+      "美腳",
+      "恋物",
+      "形象俱樂部",
+      "美人",
+      "制服",
+      "企畫"
+    ],
+    "type": "有码",
+    "company": "フェチランド",
+    "publish_date": "2025-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTNL-001.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "宮西光",
+      "辻井穗乃果",
+      "星乃夏月",
+      "愛瀬優里",
+      "辻いまる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTNL-001"
+  }
+];

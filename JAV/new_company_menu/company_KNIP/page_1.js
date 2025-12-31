@@ -34,7 +34,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241110/9480f84d-28f9-48db-a2d0-9a524c023310.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-001.jpg",
     "actress": [
       "初咲*ロラ"
     ],
@@ -79,7 +79,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241207/fea48189-6fe6-4476-bd08-e4f58df2ca34.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNIP-002"
   },
@@ -128,7 +128,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250121/beeaefaf-8caa-47bb-abd9-55982fa8dd26.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNIP-003"
   },
@@ -168,7 +168,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250209/48135836-61dc-4819-859f-a5dbde2d8835.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-004.jpg",
     "actress": [
       "神島*キララ"
     ],
@@ -191,7 +191,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250718-1/e38c5206d1bfbcbb21a425d66ca1e5b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-005.jpg",
     "actress": [
       "辰美アカリ"
     ],
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052228215215_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-006.jpg",
     "actress": [
       "友田彩也香"
     ],
@@ -290,7 +290,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "2025-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013558809809_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-007.jpg",
     "actress": [
       "有岡みう"
     ],
@@ -355,7 +355,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "KNIP",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507032358072727_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KNIP-008.jpg",
     "actress": [
       "前乃菜菜"
     ],

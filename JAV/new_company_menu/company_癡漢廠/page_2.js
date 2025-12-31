@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006462462_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-101.jpg",
     "actress": [
       "那賀崎雪音",
       "那津乃千奈美",
@@ -84,7 +84,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006585585_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-102.jpg",
     "actress": [
       "望月蕾",
       "小野坂唯香",
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724043452367367_96226_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-105.jpg",
     "actress": [
       "真白風羽里",
       "響かれん",
@@ -202,7 +202,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68891c9898bc99dfddbf1c9c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-106.jpg",
     "actress": [
       "椿莉香",
       "依本詩織",
@@ -243,7 +243,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68996cda55337d7f7bd117d9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-108"
   },
@@ -344,7 +344,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022550333333_29808_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-111.jpg",
     "actress": [
       "皆月光",
       "渡來楓",
@@ -410,7 +410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "癡漢廠",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec190c52c12b4e6846991e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HRSM-112.jpg",
     "actress": [
       "柏木小夏",
       "牧野怜奈",

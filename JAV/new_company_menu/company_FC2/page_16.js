@@ -1,20 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 302583,
-    "IDcode": "FC2-PPV-2378395",
-    "title": "日裔美女桃酱轻松连续四次射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/10/b42610a8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2378395"
-  },
-  {
     "id": 308197,
     "IDcode": "FC2-PPV-2379198",
     "title": "S级公司美女前台接待员",
@@ -1534,5 +1519,20 @@ window.PAGE_DATA = [
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/d32e0a6b/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2458873"
+  },
+  {
+    "id": 173353,
+    "IDcode": "FC2-PPV-2464303",
+    "title": "立志成为空姐的少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/e0a7ea39/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2464303"
   }
 ];

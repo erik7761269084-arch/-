@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/iG7ZJ7GG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231128/fjBpIpQv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-002"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/cqiSipLz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-003"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/TaWT0E4s/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-004"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240227/QbkrqLpV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-005"
   },
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240326/UyGLGVOa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-006"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240428/5qmTpUiC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-007"
   },
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240527/ggAOBCEZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-008"
   },
@@ -130,7 +130,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240624/ptNhKXLK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-009"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/zeyWEZ3X/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-010"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240924/SJAzBbVG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-011"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/1ffcc0538b44e28f5b98b286610c191b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-012"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/98a4b8b0d26fa99039dcbd263fccefa2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-013"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/f7b877ddaf71d3819757c4e7549589ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-014"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250124/zWsF3Lr8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-015"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/0526af37b090294aebdde677127e2078.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-016"
   },
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "2025-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427004427727727_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-017"
   },
@@ -291,7 +291,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250707-1/0a3c5d6b8137708be501e769bc4c526d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-018"
   },
@@ -317,7 +317,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003733725725_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-019.jpg",
     "actress": [
       "音羽美鈴"
     ],
@@ -376,7 +376,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525021831496496_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-020.jpg",
     "actress": [
       "花乃春日"
     ],
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "2025-06-28",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095246187187_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-021"
   },
@@ -464,7 +464,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044222319319_50225_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-023.jpg",
     "actress": [
       "紫月由香里"
     ],
@@ -518,7 +518,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "CHC工作室",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/22227da7/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CHC-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-025"
   }

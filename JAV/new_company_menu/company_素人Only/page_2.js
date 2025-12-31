@@ -1,180 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 74415,
-    "IDcode": "KMHR-073",
-    "title": "望月あられ 童貞のフリしたルームメイト4名がハードピストン連続中出しエビ反り痙攣爆イキ大絶頂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "处男",
-      "素人作品",
-      "姐姐",
-      "巨大阴茎"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/220b7ea94a2f79f8c5a961515314b00b.jpg",
-    "actress": [
-      "望月憧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-073"
-  },
-  {
-    "id": 74354,
-    "IDcode": "KMHR-074",
-    "title": "献身的な先生の卵がほんわか笑顔で全身ベロベロ舐めしゃぶるご奉仕SEX 古賀まつな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "恋物癖",
-      "素人作品",
-      "女教师",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/f8686235fd0ba0e954724ccfd6b84715.jpg",
-    "actress": [
-      "鲛岛",
-      "古贺まつな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-074"
-  },
-  {
-    "id": 73859,
-    "IDcode": "KMHR-077",
-    "title": "先生になる前に人生初の中出し！追撃＋逆追撃で貪欲にイカせ合う！イッても抜かずの連続中出し計12発！ 古賀まつな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "滥交",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/362644e08b8f49a3e349bfce32a5c6b5.jpg",
-    "actress": [
-      "鲛岛",
-      "イセドン内村",
-      "古贺まつな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-077"
-  },
-  {
-    "id": 165839,
-    "IDcode": "KMHR-079",
-    "title": "四葉さなが指舐め顔舐め乳首舐め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678290c9c179ffb1db75fdb5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-079"
-  },
-  {
-    "id": 78177,
-    "IDcode": "KMHR-081",
-    "title": "家庭教師-望月あられ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "家教",
-      "女大学生",
-      "内衣"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1731d045f0c3010d8438f910a5eeebf7.jpg",
-    "actress": [
-      "望月憧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-081"
-  },
-  {
-    "id": 165988,
-    "IDcode": "KMHR-083",
-    "title": "いつもは奉仕しているほうだけど、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/67853d9a8a48711d81b838e0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-083"
-  },
-  {
-    "id": 76696,
-    "IDcode": "KMHR-085",
-    "title": "超人气风俗孃教您如何玩风俗 绫音诗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "第一人称摄影",
-      "礼仪小姐",
-      "素人作品",
-      "苗条",
-      "教学"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/69c884e23b2699fbb43e96b8289e59ca.jpg",
-    "actress": [
-      "ゆうき",
-      "绫音うた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-085"
-  },
-  {
-    "id": 76613,
-    "IDcode": "KMHR-086",
-    "title": "ご奉仕するのが好きすぎてお店に内緒でこっそり本番してくれるおっパブ嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "巨乳",
-      "乳房",
-      "礼仪小姐",
-      "素人作品",
-      "主观视角"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/16b3aa6a9e62fc181831dec512c8045b.jpg",
-    "actress": [
-      "四葉さな",
-      "四叶さな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-086"
-  },
-  {
     "id": 576249,
     "IDcode": "MEK-008",
     "title": "职女。 File 08",
@@ -187,24 +12,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230926/118mek008pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MEK-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEK-008"
-  },
-  {
-    "id": 221782,
-    "IDcode": "MEK-011",
-    "title": "職女-絵色千佳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEK-011"
   },
   {
     "id": 516568,
@@ -217,7 +27,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f32873dd88d14f063f4c5c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-094.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-094"
   },
@@ -232,7 +42,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd08f6944bbe4ef05b197e/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-350.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-350"
   },
@@ -247,7 +57,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dca489ce5a404e9bc2dc0f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-388.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-388"
   },
@@ -268,7 +78,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a3b0c0ea643764b00984c3f46ed02ef5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-507.jpg",
     "actress": [
       "高井露娜"
     ],
@@ -302,7 +112,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b93bc979027e4fe2be1b804ecd93edd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-601.jpg",
     "actress": [
       "吉沢明歩"
     ],
@@ -319,7 +129,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/14909ccc3b6212ac5bec1f23ee7afc59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-606.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-606"
   },
@@ -349,7 +159,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190919-1/5d741276db38558e8329afaadbe78693.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-613B.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-613B"
   },
@@ -390,7 +200,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2019-12-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/2a613f2735c240487fffb61f74957a3b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-629.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-629"
   },
@@ -405,7 +215,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2020-01-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/df166a9929f5ef7db247d87338b4a646.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-633.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-633"
   },
@@ -420,7 +230,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2020-02-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/7698a918bce681c1eeaa95aa22e7d382.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-637.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-637"
   },
@@ -435,7 +245,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2020-02-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/6771a36d103d51b284432dbd19439b09.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-638.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-638"
   },
@@ -450,7 +260,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2020-03-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/02195aef05294bf3c93119eb4a138c7d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-643.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-643"
   },
@@ -480,7 +290,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201014-1/983afbdc55695018b99c7cc2a049c1b0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-646.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-646"
   },
@@ -495,7 +305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201015-1/957fda250ae2e3ec5bebaced97da2b5c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-649.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-649"
   },
@@ -510,7 +320,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230308/h_068mxsps00650pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-650.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-650"
   },
@@ -525,7 +335,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d44784d6fbef4e90c40fe5/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-669.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-669"
   },
@@ -540,7 +350,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240217/h_068mxsps677pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-677.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-677"
   },
@@ -555,7 +365,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250904/kj8y6w99/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-688.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-688"
   },
@@ -570,7 +380,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250904/ZSli618B/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-689.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-689"
   },
@@ -585,7 +395,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250904/engLJsqQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-690.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-690"
   },
@@ -600,7 +410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/wOdOCesl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-691.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-691"
   },
@@ -615,7 +425,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/WXkrIGc9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-692.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-692"
   },
@@ -630,7 +440,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/tltYFj6W/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-693.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-693"
   },
@@ -645,7 +455,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/1OfnIlTa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-694.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-694"
   },
@@ -660,7 +470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/InkZCNJP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-695.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-695"
   },
@@ -675,7 +485,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230901/rWFdIACe/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MXSPS-696.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-696"
   },
@@ -718,223 +528,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241027/c0be40e9-7976-4ed6-b9d8-58a1e92af5f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NAPS-001.jpg",
     "actress": [
       "天馬唯"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-001"
-  },
-  {
-    "id": 11048,
-    "IDcode": "NAPS-002",
-    "title": "即興搭訕 2 - 接送20歲有着可愛關西腔的兼職藝術學生，她正在新宿閒逛！性感區就是目前從F發育到G的乳房！很害羞，但在性方面卻很有攻擊性 ~ 逢月ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "真實拍攝",
-      "獵豔",
-      "美腳",
-      "蘿莉控",
-      "女學生",
-      "美臀",
-      "搭訕",
-      "舔陰",
-      "中出",
-      "美少女電影",
-      "美少女",
-      "絕頂高潮",
-      "色白",
-      "企畫",
-      "飯店",
-      "純粹的慾望",
-      "手指插入",
-      "騎乗位",
-      "形象俱樂部",
-      "美乳",
-      "美腿",
-      "脚控・戀足癖",
-      "口交",
-      "校花",
-      "乳交",
-      "清純",
-      "女上位",
-      "胸控・戀乳癖",
-      "後入",
-      "JK校服",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b39530833b4bf53bd0a8/cover.jpg",
-    "actress": [
-      "逢月日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-002"
-  },
-  {
-    "id": 78159,
-    "IDcode": "NAPS-004",
-    "title": "ナンパ即パコ04 大阪出身で遠距離彼氏がいる女子大生は「内緒で会ったら浮気！」というがバスト92センチのGカップを揺らしてナンパされちゃう！ひなのちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "巨乳",
-      "中出",
-      "女优按摩棒",
-      "猎艳"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250930-1/d052b0864a727bfba966a811fd1c94eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-004"
-  },
-  {
-    "id": 444169,
-    "IDcode": "NAPS-005",
-    "title": "搭讪马上抽插 05 身为学生在主题咖啡厅工作的萌花 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250904-1/a00175cda3766d14c3bf2793b5298148.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-005"
-  },
-  {
-    "id": 8755,
-    "IDcode": "NAPS-006",
-    "title": "ナンパ即パコ06 学校近くの美容院に向かう超絶美人な女子大生は野球部のマネージャー！頑張り過ぎる可愛いつぼみちゃんをとことん癒してあげちゃいます",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "少女",
-      "清楚系",
-      "獵豔",
-      "美腳",
-      "小隻馬",
-      "搭訕",
-      "中出",
-      "美少女電影",
-      "美少女",
-      "絕頂高潮",
-      "運動女孩",
-      "色白",
-      "企畫",
-      "飯店",
-      "顏射",
-      "純粹的慾望",
-      "手指插入",
-      "騎乗位",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "口交",
-      "校花",
-      "潮吹",
-      "清純",
-      "自慰",
-      "女上位",
-      "後入"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250127/b4665242-e914-40ee-b502-ad317f1b4077.jpg",
-    "actress": [
-      "望月蕾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-006"
-  },
-  {
-    "id": 7607,
-    "IDcode": "NAPS-007",
-    "title": "ナンパ即パコ07 ひとりカラオケにやって来たパイスラでオッパイ強調のGカップ！ツンデレな猫が好き20歳のトリマー専門学校に通うアンナさんに中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "真實拍攝",
-      "豐滿",
-      "獵豔",
-      "美臀",
-      "搭訕",
-      "舔陰",
-      "中出",
-      "KTV夜總會",
-      "顏射",
-      "素人作品",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "乳交",
-      "自慰",
-      "女上位",
-      "胸控・戀乳癖",
-      "後入",
-      "JK校服",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250312/baf586b4-43ae-4ad9-ace0-a05ef22fbffb.jpg",
-    "actress": [
-      "沢北あんな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-007"
-  },
-  {
-    "id": 66990,
-    "IDcode": "NAPS-008",
-    "title": "ナンパ即パコ08 ひとりで買い物に来ていたギャル系だけど真面目な感じのFカップの専門学校生をバレなきゃ大丈夫とナンパして即ハメ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "中出",
-      "自慰",
-      "猎艳",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/9a47bb2f63efeac9f50bc9a89d516d90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAPS-008"
-  },
-  {
-    "id": 223909,
-    "IDcode": "NPS-175",
-    "title": "给她做阴部工作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-175"
   },
   {
     "id": 536005,
@@ -966,7 +564,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-272.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-272"
   },
@@ -1000,111 +598,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-286.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-286"
-  },
-  {
-    "id": 526188,
-    "IDcode": "NPS-307",
-    "title": "女监督ハルナの素人レズナンパ106 あべみかこ×女友达同",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps307pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-307"
-  },
-  {
-    "id": 536004,
-    "IDcode": "NPS-317",
-    "title": "女监督ハルナの素人レズナンパ108超ハズイっ！同じ大学の友达同士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-317"
-  },
-  {
-    "id": 526700,
-    "IDcode": "NPS-322",
-    "title": "ガチナンパ！素人女子とラブラブSEXしたい男子が优しい女神にヌルッと挿入！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230608/h_021nps00322pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-322"
-  },
-  {
-    "id": 526187,
-    "IDcode": "NPS-324",
-    "title": "女监督ハルナの素人レズナンパ110 友达同士と加藤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20221018/h_021nps00324pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-324"
-  },
-  {
-    "id": 526186,
-    "IDcode": "NPS-326",
-    "title": "女监督ハルナの素人レズナンパ111 豪华ナビ女优4名SP",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps326pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-326"
-  },
-  {
-    "id": 526185,
-    "IDcode": "NPS-329",
-    "title": "女监督ハルナの素人レズナンパ112 友达同士のキス大",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/78426.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-329"
   },
   {
     "id": 526184,
@@ -1119,7 +615,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps332pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-332.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-332"
   },
@@ -1136,427 +632,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps334pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-334.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-334"
-  },
-  {
-    "id": 536003,
-    "IDcode": "NPS-336",
-    "title": "女监督ハルナの素人レズナンパ115姊妹で耻じらい初レズ！絶顶イカせ合いゲーム！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-336"
-  },
-  {
-    "id": 535973,
-    "IDcode": "NPS-338",
-    "title": "女监督ハルナの素人レズナンパ116 豪华ナビ女优4名SP！友达同士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps338pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-338"
-  },
-  {
-    "id": 526196,
-    "IDcode": "NPS-340",
-    "title": "女监督ハルナの素人レズナンパ117 真木今日子ちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/h_021nps340pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-340"
-  },
-  {
-    "id": 536073,
-    "IDcode": "NPS-342",
-    "title": "_A 女监督ハルナの素人レズナンパ 48人8时间ベストコレクション 9 Part 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-342"
-  },
-  {
-    "id": 536002,
-    "IDcode": "NPS-344",
-    "title": "女监督ハルナの素人レズナンパ118友达同士のおっぱいのGスポットスペンス乳腺",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-344"
-  },
-  {
-    "id": 536001,
-    "IDcode": "NPS-346",
-    "title": "素人レズナンパ 119 女监督ハルナと碧しのちゃんが女子たちの生乳首をず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-346"
-  },
-  {
-    "id": 536000,
-    "IDcode": "NPS-348",
-    "title": "エロいおっぱい女子20人集めましたSP！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-348"
-  },
-  {
-    "id": 535999,
-    "IDcode": "NPS-350",
-    "title": "女监督ハルナの素人レズナンパ 120 亲友同士で初めての弄り合い！浓厚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-350"
-  },
-  {
-    "id": 535972,
-    "IDcode": "NPS-352",
-    "title": "女监督ハルナの素人レズナンパ121超耻ずかしいんですけど…初めて亲友の生マ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-352"
-  },
-  {
-    "id": 535825,
-    "IDcode": "NPS-354",
-    "title": "女监督ハルナの素人レズナンパ 絶顶潮吹き女同士スプラッシュ祭り 素人女子31人SP！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-354"
-  },
-  {
-    "id": 536156,
-    "IDcode": "NPS-359",
-    "title": "女监督ハルナの素人レズナンパ 122 人気ナビ赘沢仕様！！ 亲友同士の女子と初レズ本気",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-359"
-  },
-  {
-    "id": 526699,
-    "IDcode": "NPS-360",
-    "title": "ママ友3人まとめてAV出演！！ 人妻ナンパ発掘ドキュメント 旦那とはレス気味",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230610/h_021nps00360pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-360"
-  },
-  {
-    "id": 535971,
-    "IDcode": "NPS-362",
-    "title": "女监督ハルナの素人レズナンパ 123 碧しのちゃんが女友达同士を何度イっても止めない",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-362"
-  },
-  {
-    "id": 536014,
-    "IDcode": "NPS-364",
-    "title": "女监督ハルナの素人レズナンパ ウブでHな女子20人！オマ○コ同士を擦り合せて初",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-364"
-  },
-  {
-    "id": 536013,
-    "IDcode": "NPS-368",
-    "title": "女监督ハルナの素人レズナンパ 124 亲友同士の初めてのチュウ！！兴奋して止まら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-368"
-  },
-  {
-    "id": 77706,
-    "IDcode": "NPS-369",
-    "title": "ガチナンパ！池袋産直！ ウブかわ女子大生狙い打ち！妊娠しちゃうよぉ～！イっても止めないガン無視ピストン！合計15発射！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "女上位",
-      "猎艳",
-      "4小时以上作品",
-      "女大学生"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df00dc4631c1b3c07c1d4610fd7cd2f0.jpg",
-    "actress": [
-      "立花瑠莉",
-      "望月理沙",
-      "梦咲ひなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-369"
-  },
-  {
-    "id": 99035,
-    "IDcode": "NPS-372",
-    "title": "女監督真咲と波多野結衣ちゃんの素人女子にガチンコ！レズ指南！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "素人作品",
-      "舔阴",
-      "女同性恋",
-      "女同接吻",
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "2019-02-15",
-    "cover_url": "https://sex8sex8sex8.com/20250604/zVfUKGMh/1.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-372"
-  },
-  {
-    "id": 536012,
-    "IDcode": "NPS-374",
-    "title": "女监督ハルナの素人レズナンパ 一般女子20人！双头ディルドで合体絶顶SP！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-374"
-  },
-  {
-    "id": 98832,
-    "IDcode": "NPS-385",
-    "title": "熟女監督！近藤郁がイク！ お家イってイイですか？ 一般女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "素人作品",
-      "姐姐",
-      "感谢祭",
-      "女同性恋",
-      "女同接吻",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "2019-10-15",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914dd3f4a81c2286fcc6c07/poster2.jpg",
-    "actress": [
-      "西田卡莉娜",
-      "三田杏",
-      "爱里るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-385"
-  },
-  {
-    "id": 83139,
-    "IDcode": "NPS-388",
-    "title": "ガチナンパ！IN真夏の湘南 今夏撮りたて！ビキニ女子大生を追い込みピストンで連続潮吹き！失神寸前SEX！142イキ！17発射！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "潮吹",
-      "中出",
-      "素人作品",
-      "泳装",
-      "猎艳",
-      "4小时以上作品",
-      "女大学生"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-388"
-  },
-  {
-    "id": 83140,
-    "IDcode": "NPS-390",
-    "title": "ガチナンパ！大宮発！ 黒ストッキング女子大生限定！ 何度も寸止めしてたら発情しちゃってずっと腰振りイキっぱい！ 78イキ！16発射！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "中出",
-      "连裤袜",
-      "素人作品",
-      "猎艳",
-      "4小时以上作品",
-      "女大学生"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "笠木いちか",
-      "杉咲しずか",
-      "森本つぐみ",
-      "优木しの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-390"
-  },
-  {
-    "id": 432133,
-    "IDcode": "NPS-393",
-    "title": "P1[第一集]ガチナンパ！東海産直！ド素人さんクンニでマジイキ！チ○ポでガチイキ！全員潮吹き失禁2020cc！93イキ15射精！(乱伦)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/e1e72e69325b88ac8dc2bbeba1158338.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-393"
   },
   {
     "id": 453410,
@@ -1572,7 +650,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d67c041e8dce2a1aeddf3a6e98dc720d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-393-P1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-393-P1"
   },
@@ -1590,185 +668,123 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/51437bde494bb566e7021f4acaec27fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-393-P2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-393-P2"
   },
   {
-    "id": 538853,
-    "IDcode": "NPS-395",
-    "title": "河北春菜- ガチナンパ！大阪発！キスしただけでお口もマ○コもトロトロ！涎とマン汁だだ漏れSEX 140イキ17発射！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241008/oPbxMEkK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-395"
-  },
-  {
-    "id": 516697,
-    "IDcode": "NPS-401",
-    "title": "女導演春菜搭訕素人蕾絲邊 60人",
+    "id": 7436,
+    "IDcode": "NPS-458",
+    "title": "硬核搭訕！只限正經清純又憋得慌的酒店妹和美容員！首次逆向撩漢挑戰！10分鍾內射出來就給100萬！大屌面前臉紅發騷，興奮過頭制服都不脫連射不停！壓力滿滿的小穴爽到不行，懷孕級無限高潮！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe7938dd88d14f065661e4/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-401"
-  },
-  {
-    "id": 516715,
-    "IDcode": "NPS-405",
-    "title": "女導演春菜搭訕素人蕾絲邊 50人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fa8e53d6fbef4e9008ca1c/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-405"
-  },
-  {
-    "id": 536757,
-    "IDcode": "NPS-408",
-    "title": "女监督ハルナの素人レズナンパ 60人8时间 ベストコレクション 16",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231205/1613373142-h_021nps408pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-408"
-  },
-  {
-    "id": 592746,
-    "IDcode": "NPS-421",
-    "title": "ガチナンパ 下着チェックだけの约束がソノ気にさせて赤面生ハメ 特盛60分106イキ13発中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://pic37.anzise.com/pic/20221028/2e88849c0d4bf2bd46fa56570aa66927/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-421"
-  },
-  {
-    "id": 540344,
-    "IDcode": "NPS-427",
-    "title": "ガチナンパ！ 憧れのCAキャビンアテンダントさんにお愿い！ 仆のチ○ポに性処理サポートしてくれま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250917/J6QP7bN6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-427"
-  },
-  {
-    "id": 579122,
-    "IDcode": "NPS-429",
-    "title": "ガチナンパ！ 一流百货店に勤务する清楚な美容部员さん！ 人生初の人前でのベロキスと羞耻公开オナニー！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_042nps-429.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-429"
-  },
-  {
-    "id": 549691,
-    "IDcode": "NPS-433",
-    "title": "ガチナンパ！ 赏金かけて姐弟で野球拳！ 姊ちゃんでボッキする訳ないっ！と言いつつ弟バッキバキ！ ガチ欲情！近亲中出し11発！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230923/h_021nps433pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-433"
-  },
-  {
-    "id": 87030,
-    "IDcode": "NPS-437",
-    "title": "ガチナンパ！ 手コキNG！口マ○コだけでイカせたら100万円！失敗したら生ハメ罰ゲーム！ 顔！口内！マ○コ！ザーメン放出17発！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
+      "清楚系",
+      "精選綜合",
+      "獵豔",
+      "美腳",
+      "服務生",
+      "蕩婦",
+      "口爆",
+      "美臀",
+      "深喉",
+      "舔陰",
+      "中出",
+      "極品美人",
+      "美少女電影",
+      "性感",
+      "明星臉",
+      "地味",
+      "高顏值",
+      "飯店",
+      "苗條",
+      "企畫",
+      "顏射",
+      "黑絲",
+      "純粹的慾望",
+      "手指插入",
+      "騎乗位",
+      "精選總編集",
+      "制服",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "脚控・戀足癖",
       "口交",
       "巨乳",
-      "中出",
-      "猎艳",
-      "4小时以上作品"
+      "潮吹",
+      "約炮",
+      "乳交",
+      "女上位",
+      "胸控・戀乳癖",
+      "4小時以上作品",
+      "後入",
+      "業餘"
     ],
     "type": "有码",
     "company": "素人Only",
-    "publish_date": "2023-06-15",
-    "cover_url": "https://tuaskbgnekr.com/20231011/jWHnCaY1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-437"
+    "publish_date": "2025-03-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NPS-458.jpg",
+    "actress": [
+      "十束流羽",
+      "花里明理",
+      "一色さら",
+      "白雪美月",
+      "渋谷夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-458"
   },
   {
-    "id": 87724,
-    "IDcode": "NPS-438",
-    "title": "ガチナンパ！ 絶対にイっちゃダメ！痴●イキ我慢チャレンジ！ 全身まさぐられながらも快感に「恥ずかしいっ！これ以上は止めて！もう…声も潮もガマンできない…！」",
+    "id": 107083,
+    "IDcode": "NSPS-086",
+    "title": "到处欠债的女社员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "潮吹",
-      "中出",
-      "猎艳",
-      "4小时以上作品"
+      "戏剧",
+      "制服",
+      "OL"
     ],
     "type": "有码",
     "company": "素人Only",
-    "publish_date": "2023-07-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/f317a0d152bd2543cca0a3f637774d3e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-438"
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-086.jpg",
+    "actress": [
+      "南まりん",
+      "秋乃ひとみ",
+      "菊岛夕子",
+      "冈山凉花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-086"
   },
   {
-    "id": 563113,
-    "IDcode": "NPS-439",
-    "title": "ガチナンパ！ 性交报酬100万！人生初の逆ナンパ！真面目な美容部员さん ド紧张で耻じらいつつも生",
+    "id": 106822,
+    "IDcode": "NSPS-087",
+    "title": "纯情女仆物语",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "女佣",
+      "户外"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-087.jpg",
+    "actress": [
+      "辻本亮"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-087"
+  },
+  {
+    "id": 225620,
+    "IDcode": "NSPS-252",
+    "title": "赎罪-樹花凜",
     "year": "",
     "country": "",
     "genre": "",
@@ -1776,14 +792,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231011/XkLdjMwY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-252.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-439"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-252"
   },
   {
-    "id": 516935,
-    "IDcode": "NPS-440",
-    "title": "真实搭讪！ 有奖金的姊弟野球拳！",
+    "id": 64126,
+    "IDcode": "NSPS-330",
+    "title": "溺爱父女杀人犯-七咲风花",
     "year": "",
     "country": "",
     "genre": "",
@@ -1791,29 +807,31 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69028cbe79f1ac4ec4ca20d5/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-330.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-440"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-330"
   },
   {
-    "id": 563037,
-    "IDcode": "NPS-441",
-    "title": "ガチナンパ！ しつこく勧诱してくるマルチの女に见返り枕営业交渉！ エグすぎるエロさに无许可中出し",
+    "id": 314571,
+    "IDcode": "NSPS-340",
+    "title": "借人妻用一个月为了治疗恐婚症-堀内秋美",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/2KncbOZH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-340.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-441"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-340"
   },
   {
-    "id": 562826,
-    "IDcode": "NPS-442",
-    "title": "ガチナンパ！ 赏金100万！ 时间内に4発！チ○ポ早ヌキゲーム 钝感になっていくチ○ポに焦って过",
+    "id": 589908,
+    "IDcode": "NSPS-358",
+    "title": "就算心灵受创小穴还是等著... 淫乱痴",
     "year": "",
     "country": "",
     "genre": "",
@@ -1823,12 +841,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-442"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-358"
   },
   {
-    "id": 547125,
-    "IDcode": "NPS-443",
-    "title": "ガチナンパ！ 成功报酬100万！男女の友达同士は欲情しないのか？検证ゲーム 快感·兴奋には敌わない？",
+    "id": 547527,
+    "IDcode": "NSPS-843A",
+    "title": "[第1集]夫の遗影の前で 何度もイカされて・・ ベスト",
     "year": "",
     "country": "",
     "genre": "",
@@ -1836,14 +854,48 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231220/6gGaWdfM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-843A.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-443"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-843A"
   },
   {
-    "id": 562264,
-    "IDcode": "NPS-444",
-    "title": "ガチナンパ！成功报酬100万！ 女先辈·童贞后辈！どこまでヤレる？兴奋ガマンHゲーム",
+    "id": 475513,
+    "IDcode": "NSPS-858A",
+    "title": "[第一集]永久保存版不倫淫乱妻ベスト(乱伦)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-858A.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-858A"
+  },
+  {
+    "id": 476578,
+    "IDcode": "NSPS-858B",
+    "title": "[第二集]永久保存版 不倫淫乱妻ベスト(乱伦)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-858B"
+  },
+  {
+    "id": 210641,
+    "IDcode": "NSPS-930",
+    "title": "部下的妻子-舞原聖",
     "year": "",
     "country": "",
     "genre": "",
@@ -1851,8 +903,639 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240117/5OnAlf7V/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSPS-930.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-444"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-930"
+  },
+  {
+    "id": 463669,
+    "IDcode": "PPS-221",
+    "title": "人妻黑絲襪 近藤玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPS-221.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPS-221"
+  },
+  {
+    "id": 556689,
+    "IDcode": "PPS-227",
+    "title": "淫乱肉体女医生的射精诊所 JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPS-227.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPS-227"
+  },
+  {
+    "id": 102484,
+    "IDcode": "PS-016",
+    "title": "素人初撮り16 「アナタ許してね…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2007-12-18",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-016"
+  },
+  {
+    "id": 102486,
+    "IDcode": "PS-018",
+    "title": "素人初撮り18 「お父さんゴメンね…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2008-01-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-018"
+  },
+  {
+    "id": 104075,
+    "IDcode": "PS-023",
+    "title": "素人初撮り23 「お父さんゴメンね…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2008-02-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-023"
+  },
+  {
+    "id": 104074,
+    "IDcode": "PS-024",
+    "title": "素人初撮り24 「アナタ許してね…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2008-02-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-024"
+  },
+  {
+    "id": 104073,
+    "IDcode": "PS-025",
+    "title": "素人初撮り25 「お父さんゴメンね…」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2008-03-14",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-025"
+  },
+  {
+    "id": 102455,
+    "IDcode": "PS-026",
+    "title": "素人初撮り26 「許してね…パパ」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2008-03-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-026.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-026"
+  },
+  {
+    "id": 102458,
+    "IDcode": "PS-029",
+    "title": "咖啡店搭讪温柔姐姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-029.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-029"
+  },
+  {
+    "id": 102459,
+    "IDcode": "PS-030",
+    "title": "B級素人初撮り 「園長先生、ゴメンなさい」 後藤十希子さん 22歳 保育士",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2010-07-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-030.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-030"
+  },
+  {
+    "id": 103570,
+    "IDcode": "PS-033",
+    "title": "B級素人初撮り 「アナタ、ゴメンなさい」 鳥井敬子さん 28歳 専業主婦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2010-09-12",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-033"
+  },
+  {
+    "id": 103587,
+    "IDcode": "PS-034",
+    "title": "B級素人初撮り 「アナタ、赤ちゃん、ゴメンなさい」 寺田真奈美さん 22歳 妊婦人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2010-11-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-034.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-034"
+  },
+  {
+    "id": 103589,
+    "IDcode": "PS-036",
+    "title": "B級素人初撮り 「部長、スミマセン」 浅香みゆりさん 23歳 派遣社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2011-01-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-036"
+  },
+  {
+    "id": 106133,
+    "IDcode": "PS-037",
+    "title": "B級素人初撮り 「パパ、ゴメンなさい」 轟真紀子 24歳 花屋店員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2011-01-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-037"
+  },
+  {
+    "id": 592066,
+    "IDcode": "PS-6",
+    "title": "ペットショップ店员様のコンバース颜蹴りと２分间全体重颜面乘りを耐えた変态男",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-6"
+  },
+  {
+    "id": 529936,
+    "IDcode": "PS-890",
+    "title": "私の妻は絶対に堕ちない、やれるもんならやってみろ！ 妻を口说かせた。 ベスト版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PS-890.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-890"
+  },
+  {
+    "id": 400349,
+    "IDcode": "SCPS-455",
+    "title": "【人妻の勘違い逆NTR】义母中出し即堕！禁断快感实录 -C☆未知女优冲击作",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCPS-455.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPS-455"
+  },
+  {
+    "id": 516501,
+    "IDcode": "SGSPS-022",
+    "title": "這個女人超變態。 第三卷",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SGSPS-022.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSPS-022"
+  },
+  {
+    "id": 579065,
+    "IDcode": "SRSY-038",
+    "title": "ゆりな 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SRSY-038.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SRSY-038"
+  },
+  {
+    "id": 516571,
+    "IDcode": "SY-070",
+    "title": "素人妹窄房無套中出 70",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SY-070.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-070"
+  },
+  {
+    "id": 578952,
+    "IDcode": "TCHR-004",
+    "title": "欲求腐満子 れおな（24歳） 真面目そうに见られるのか、いつもエッチするとエロすぎるって引かれます。本当はもっと色々したいことがあるんですが、相手に言えません。どうしたらいいですか？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-004"
+  },
+  {
+    "id": 469989,
+    "IDcode": "TCHR-008",
+    "title": "調教巨乳女寵實況影片 靜香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-008.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-008"
+  },
+  {
+    "id": 470077,
+    "IDcode": "TCHR-011",
+    "title": "逃不掉就爱上也好 梦咲日南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-011.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-011"
+  },
+  {
+    "id": 83341,
+    "IDcode": "TCHR-015",
+    "title": "調教ペットちゃん わか 泥酔していた巨乳女を拾って監禁～調教～完堕ちさせるまでの一部始終 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "巨乳",
+      "魔鬼系",
+      "素人作品",
+      "烂醉如泥的",
+      "调教",
+      "监禁"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-12-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-015.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-015"
+  },
+  {
+    "id": 544996,
+    "IDcode": "TCHR-021",
+    "title": "头がおかしい男の动画 颜面偏差値最强ミニマム女编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-021.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-021"
+  },
+  {
+    "id": 517084,
+    "IDcode": "TCHR-022",
+    "title": "瘦瘦的妻子戴綠帽並潮吹許多靈魂伴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-022.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-022"
+  },
+  {
+    "id": 544997,
+    "IDcode": "TCHR-023",
+    "title": "头がおかしい男の动画 超超超完璧极美美やせ巨乳编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-023.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-023"
+  },
+  {
+    "id": 544998,
+    "IDcode": "TCHR-025",
+    "title": "とある男のコラボ录 かわゆすぎる女女女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-025.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-025"
+  },
+  {
+    "id": 493151,
+    "IDcode": "TCHR-026",
+    "title": "头脑有问题的男人影片 脸蛋与身材最高级A5等级女编 未知演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-026.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-026"
+  },
+  {
+    "id": 550477,
+    "IDcode": "TCHR-027",
+    "title": "猫猫美人奥様寝取られ奔放ご奉仕 オホ声さんの奥様",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-027.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-027"
+  },
+  {
+    "id": 565023,
+    "IDcode": "TCHR-028",
+    "title": "头がおかしい男の动画 伝说の至上最凶最高イイオンナ编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-028.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-028"
+  },
+  {
+    "id": 525776,
+    "IDcode": "TCHR-029",
+    "title": "パーフェクト奥様寝取られ敏感痉挛イキ そばめしさんの奥様",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-029.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-029"
+  },
+  {
+    "id": 525815,
+    "IDcode": "TCHR-030",
+    "title": "头がおかしい男の动画 パツやわでかでかパイパイ最＆高编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-030.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-030"
+  },
+  {
+    "id": 463284,
+    "IDcode": "TCHR-031",
+    "title": "瘋狂男人的影片：真是可愛的女OO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-031.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-031"
+  },
+  {
+    "id": 444606,
+    "IDcode": "TCHR-032",
+    "title": "ボーイッシュ奥様寝取られ性欲大爆発玉埼さんの奥様",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-032.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-032"
+  },
+  {
+    "id": 412745,
+    "IDcode": "TCHR-033",
+    "title": "とある男のコラボ録ちこい子いっぴょ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-033.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-033"
+  },
+  {
+    "id": 540274,
+    "IDcode": "TCHR-034",
+    "title": "暗黒 最强アマゾネス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TCHR-034.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHR-034"
+  },
+  {
+    "id": 92892,
+    "IDcode": "XSPS-661",
+    "title": "REQUEST究極美女波多野結衣。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/XSPS-661.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XSPS-661"
+  },
+  {
+    "id": 540057,
+    "IDcode": "YNPS-001",
+    "title": "美少女ビッチ即ハメナンパ 真夏のプール编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YNPS-001"
   }
 ];

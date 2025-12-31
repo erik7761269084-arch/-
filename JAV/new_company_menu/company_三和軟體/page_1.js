@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acb7f98bc99dfddd1749b/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LABY-001.jpg",
     "actress": [
       "天乃のあ"
     ],
@@ -88,7 +88,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acb8998bc99dfddd1749c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LABY-002.jpg",
     "actress": [
       "岸永みりな"
     ],
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235629548548_67443_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LABY-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-003"
   },
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004139799799_38749_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/LABY-004.jpg",
     "actress": [
       "安堂はるの"
     ],

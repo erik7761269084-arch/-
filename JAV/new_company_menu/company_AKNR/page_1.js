@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/b71b8712254ece2c216a0beb16061091.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-019"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/4SHYpxzO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-208.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-208"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/4qZ7Cinm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-209.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-209"
   },
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221210/C37VmcrM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-210.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-210"
   },
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221230/1567mrnO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-211.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-211"
   },
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221230/DLLt05mv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-212.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-212"
   },
@@ -136,7 +136,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/Epavnw6d/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-213.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-213"
   },
@@ -151,7 +151,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/gBTJ4T7x/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-214.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-214"
   },
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/xXivwCAU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-215.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-215"
   },
@@ -181,7 +181,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/FZBUbCkN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-216"
   },
@@ -196,7 +196,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230212/E9AkUo8O/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-217.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-217"
   },
@@ -211,7 +211,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230212/dT9WAWWC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-218.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-218"
   },
@@ -226,7 +226,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/ucMuLdSu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-219.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-219"
   },
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/HZ9NPpiW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-220.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-220"
   },
@@ -256,7 +256,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/lz5dpxtg/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-221.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-221"
   },
@@ -271,7 +271,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/SxUtx6oP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-223.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-223"
   },
@@ -288,7 +288,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/4HQSEPfv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-225.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-225"
   },
@@ -303,7 +303,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/3XoFSYD7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-226.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-226"
   },
@@ -318,7 +318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/v8F8E5ad/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-227.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-227"
   },
@@ -333,7 +333,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250228/eqgaEYEB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-228.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-228"
   },
@@ -348,7 +348,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230519/9u62S6lb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-229.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-229"
   },
@@ -363,7 +363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230519/YfceMecr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-230.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-230"
   },
@@ -378,7 +378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230627/Tc8OYzTb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-233.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-233"
   },
@@ -393,7 +393,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230701/SneEWegk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-235.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-235"
   },
@@ -408,7 +408,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230701/tY9JPoPS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-236.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-236"
   },
@@ -423,7 +423,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230730/3cEudjVU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-241.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-241"
   },
@@ -438,7 +438,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230815/oLnaFKiZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-243.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-243"
   },
@@ -455,7 +455,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230920/cnfxX5JG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/110AKDL-247.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110AKDL-247"
   },
@@ -472,7 +472,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200716/1akdl00001pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-001"
   },
@@ -489,7 +489,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/RR8TvZLI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-002"
   },
@@ -506,7 +506,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200527-1/38f4ffd1dff3062f31a23a96fa5dd684.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-008"
   },
@@ -529,7 +529,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2019-12-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/32abcacdd651ba4b9c07dec0498e1e4f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-009.jpg",
     "actress": [
       "森澤佳奈"
     ],
@@ -553,7 +553,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2019-12-26",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/c01fa7f6ae7bdb7255e2b97bff0558b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-010.jpg",
     "actress": [
       "爱里るい"
     ],
@@ -570,7 +570,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677de64089def9b1b8c76132/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-011"
   },
@@ -585,7 +585,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/11/l5s1s14sjnf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-015"
   },
@@ -636,7 +636,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/b71b8712254ece2c216a0beb16061091.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-019.jpg",
     "actress": [
       "岬梓沙"
     ],
@@ -659,7 +659,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/640fcdbd2e92341e5bdb02c125614855.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-023.jpg",
     "actress": [
       "永野司",
       "羽生ありさ"
@@ -679,7 +679,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200815-1/408fe7bd42e4dc1e355139b15e6dcdef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-026"
   },
@@ -700,7 +700,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/4994b88d6a3df824cb5857b192f6bcb8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-036.jpg",
     "actress": [
       "夏原唯",
       "桐嶋あみな",
@@ -724,7 +724,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e2060cd6fbef4e90e076d3/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-059"
   },
@@ -739,7 +739,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e39dd6dbf24d4ed321569e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-060"
   },
@@ -754,7 +754,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/2ee009f47a7464fc8ac1e41b6bebe84e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-068"
   },
@@ -769,7 +769,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/9e29600b34471f111a7f0867127847e9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-069"
   },
@@ -787,7 +787,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/9fbc65ee3fb4d243ddef8f47d0a6b845.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-070"
   },
@@ -809,7 +809,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/945be49fece54c29d16899106e15b312.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-074.jpg",
     "actress": [
       "白鸟すわん"
     ],
@@ -833,7 +833,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/2d908f1495a5e2b585bd73e0980d1b10.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-090.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-090"
   },
@@ -854,7 +854,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/c2ba2bc08111bccf37dacbc138478cb2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-105.jpg",
     "actress": [
       "白石環奈"
     ],
@@ -874,7 +874,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250921-1/5cce36a50293c2148346a8aeeb8bcb59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-151.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-151"
   },
@@ -891,7 +891,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231005/9D1axsu5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-202.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-202"
   },
@@ -909,7 +909,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230409/cap_e_0_110akdl-213.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-213.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-213"
   },
@@ -924,7 +924,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/d3e8ef60cfbbd2a2f250dd97d4d4e68b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-215.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-215"
   },
@@ -939,7 +939,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230404/UxkjCwzO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-224.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-224"
   },
@@ -957,7 +957,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240514/1akdl00225pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-225.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-225"
   },
@@ -974,7 +974,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240514/1akdl00226pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-226.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-226"
   },
@@ -989,7 +989,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://pic57.anzise.com/pic/20230608/80e8d8d9e541e55dfbb9dc8c5e3caa42/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-230.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-230"
   },
@@ -1004,7 +1004,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230603/vLmYZFj0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-231.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-231"
   },
@@ -1019,7 +1019,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230603/GreCy4Rr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-232.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-232"
   },
@@ -1034,7 +1034,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230629/iUTNGKfB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-235.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-235"
   },
@@ -1049,7 +1049,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230629/hxzh6iWQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-236.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-236"
   },
@@ -1064,7 +1064,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/X8fdSrZJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-237.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-237"
   },
@@ -1079,7 +1079,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230710/TfwsiOl3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-238.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-238"
   },
@@ -1124,7 +1124,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230812/a4U4VYZT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-242.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-242"
   },
@@ -1139,48 +1139,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/uXKKKRbT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-244.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-244"
-  },
-  {
-    "id": 563582,
-    "IDcode": "AKDL-245",
-    "title": "【精饮セフレ】 近所に住む女子校生は精子が大好きで毎回会う度に饮ませています",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "AKNR",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/QGMx1qLB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-245"
-  },
-  {
-    "id": 91649,
-    "IDcode": "AKDL-246",
-    "title": "【精飲セフレ】 近所に住む女子校生は精子が大好きで毎回会う度に飲ませています",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "4K",
-      "美少女电影",
-      "素人作品",
-      "高中女生",
-      "接吻"
-    ],
-    "type": "有码",
-    "company": "AKNR",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/a6fb21ac3b04bca162df86d7d8249a23.jpg",
-    "actress": [
-      "雅子裡菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-246"
   },
   {
     "id": 548122,
@@ -1193,7 +1154,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/oVRbCmAw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-248.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-248"
   },
@@ -1208,7 +1169,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230923/YQN1HHZ3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-249.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-249"
   },
@@ -1231,7 +1192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/e9f9e857151a3250768a23be6d25bd88.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-250.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-250"
   },
@@ -1246,7 +1207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231014/RYkVtTZn/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-251.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-251"
   },
@@ -1261,7 +1222,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/iQYAv9As/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-252.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-252"
   },
@@ -1276,7 +1237,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231029/z0UXaxPD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-253.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-253"
   },
@@ -1291,7 +1252,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/tqomf6yK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-254.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-254"
   },
@@ -1306,7 +1267,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231111/h4k61lOR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-255.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-255"
   },
@@ -1321,7 +1282,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231126/zoJMUTCz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-256.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-256"
   },
@@ -1336,7 +1297,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/4815db4dbd23382062cd583d4489df46.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-257.jpg",
     "actress": [
       "安倍亜沙美"
     ],
@@ -1353,7 +1314,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231213/G5cI5fM9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-258.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-258"
   },
@@ -1368,7 +1329,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231213/Uv4CEwp1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-259.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-259"
   },
@@ -1383,7 +1344,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/vBZWNAdp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-260.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-260"
   },
@@ -1398,7 +1359,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/1j1vf5Ub/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-261.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-261"
   },
@@ -1413,7 +1374,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/0f4ee39467d27b133e4a0e3dfa1181d8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-262.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-262"
   },
@@ -1430,7 +1391,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/rwszcXHN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-264.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-264"
   },
@@ -1445,7 +1406,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/HbY5YyYM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-265.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-265"
   },
@@ -1467,7 +1428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240327-1/97a8a8cec3697cb273c4711de939516d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-266.jpg",
     "actress": [
       "香澄せな"
     ],
@@ -1484,7 +1445,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/nuIwk2Ge/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-268.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-268"
   },
@@ -1499,7 +1460,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/yElbkfr3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-269.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-269"
   },
@@ -1514,7 +1475,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240310/yV3yqRaX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-270.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-270"
   },
@@ -1529,7 +1490,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240310/iK4fMOU9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-271.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-271"
   },
@@ -1560,7 +1521,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2024-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240727/4e497f59-bd2f-4fbd-a311-640c9fac858f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-288.jpg",
     "actress": [
       "堀北実来"
     ],
@@ -1606,7 +1567,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2024-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240727/474cc7ad-0515-4c49-a952-e3bda3117c8d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-289.jpg",
     "actress": [
       "桜木美音"
     ],
@@ -1623,7 +1584,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240922/LxS5sYND/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-294.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-294"
   },
@@ -1638,7 +1599,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/10/612cb768e103881f65ba137e0ed66806.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-295.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-295"
   },
@@ -1682,7 +1643,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/751a9fb511cfacf4f516ece767cbb6ed.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-297.jpg",
     "actress": [
       "瀬戸ひなこ"
     ],
@@ -1721,10 +1682,83 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/3b86e785645c73c26364f828dd2a971f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-298.jpg",
     "actress": [
       "足立友梨"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-298"
+  },
+  {
+    "id": 11357,
+    "IDcode": "AKDL-299",
+    "title": "【AKNRフェティシズム】 完全着衣 光沢レオタード＆パンスト君を見つめ合いながらヌイてあげるね 白石もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主觀視角",
+      "美腳",
+      "中出",
+      "舔腳",
+      "美少女電影",
+      "完全着衣",
+      "美少女",
+      "女優",
+      "企畫",
+      "苗條",
+      "黑絲",
+      "騎乗位",
+      "形象俱樂部",
+      "脚控・戀足癖",
+      "美腿",
+      "口交",
+      "女上位",
+      "足交",
+      "後入",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "AKNR",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-299.jpg",
+    "actress": [
+      "白石桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-299"
+  },
+  {
+    "id": 11075,
+    "IDcode": "AKDL-300",
+    "title": "完全着衣 光沢レオタード＆パンスト 巨尻スポーツトレーナーが巧志田みずき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肉絲",
+      "戀物癖",
+      "巨尻",
+      "口交",
+      "健身教練",
+      "中出",
+      "女優",
+      "企畫",
+      "健身房",
+      "女上位",
+      "癡女",
+      "足交",
+      "運動服裝",
+      "騎乗位",
+      "後入",
+      "泳裝",
+      "短髮"
+    ],
+    "type": "有码",
+    "company": "AKNR",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-300.jpg",
+    "actress": [
+      "志田みずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-300"
   }
 ];

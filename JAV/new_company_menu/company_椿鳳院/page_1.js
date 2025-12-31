@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-004"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/TYh2G4nE.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-005"
   },
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0926052c12b4e68104903/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-010.jpg",
     "actress": [
       "夏川海"
     ],
@@ -69,7 +69,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221018-1/fccf481782ab41d02b1c486ba5d5b6be.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-011"
   },
@@ -86,7 +86,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4c238e4a73d4f15c1edfb/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-012"
   },
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2022-02-08",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9f9942b8b4834e195bdb03c9301490df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-024.jpg",
     "actress": [
       "真木今日子",
       "宫村ななこ"
@@ -124,7 +124,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-025"
   },
@@ -145,7 +145,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-031"
   },
@@ -160,7 +160,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0840e678d565b9bdcf44f017e161ed17.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-034"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/84af85ab1907c86102d57b8cac80b70c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-035"
   },
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/33b1d9b6c8c150c19135a414894f5dc3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-038"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e1c48de910b0e3beaa3773f596bc5bcb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-039"
   },
@@ -227,7 +227,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7ef2679f1ac4ec45b0eb0/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-040"
   },
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-041.jpg",
     "actress": [
       "武藤彩香"
     ],
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221213/PbvzAN91/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-043"
   },
@@ -285,7 +285,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20939cf22ae3e04a81b55/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-045"
   },
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6831b351cb21006f00c89f7a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-047.jpg",
     "actress": [
       "高梨有纱"
     ],
@@ -322,7 +322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230611/3wSMJhoS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-053"
   },
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6910f7c86b81af1f8543ba13/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-054"
   },
@@ -358,7 +358,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-06-14",
-    "cover_url": "https://tuaskbgnekr.com/20240827/tma0wEDv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-055.jpg",
     "actress": [
       "宝生めい"
     ],
@@ -381,7 +381,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-06-13",
-    "cover_url": "https://tuaskbgnekr.com/20240827/gM5gFA50/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-056.jpg",
     "actress": [
       "爱花みちる"
     ],
@@ -398,7 +398,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/GZsZ1L2R/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-058"
   },
@@ -419,7 +419,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-08-08",
-    "cover_url": "https://tuaskbgnekr.com/20240827/vQyWJgOs/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-059"
   },
@@ -441,7 +441,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-08-08",
-    "cover_url": "https://tuaskbgnekr.com/20240827/erAuF6U5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-060"
   },
@@ -462,7 +462,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-09-12",
-    "cover_url": "https://tuaskbgnekr.com/20240827/8oFuLi53/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-061"
   },
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-09-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/041deac2df8434170ed8708867125f12.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-062"
   },
@@ -502,7 +502,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-10-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/6288b695b5c2ec6a2b6a44e5a77805e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-063.jpg",
     "actress": [
       "雨宫凛"
     ],
@@ -525,7 +525,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-10-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/b3a0b8de34183ffd6b0accea79dfbcc8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-064.jpg",
     "actress": [
       "武藤彩香"
     ],
@@ -548,7 +548,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-11-15",
-    "cover_url": "https://tuaskbgnekr.com/20240827/1ZI1919E/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-065"
   },
@@ -569,7 +569,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2023-11-14",
-    "cover_url": "https://tuaskbgnekr.com/20240828/bKNp2wRI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-066.jpg",
     "actress": [
       "夏树カオル"
     ],
@@ -599,7 +599,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/c9dc6480-301c-4f62-89c2-67af2ea5fbd8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-067.jpg",
     "actress": [
       "浜崎真緒",
       "三田櫻",
@@ -620,7 +620,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/JkUHwsYI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-068"
   },
@@ -635,7 +635,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/mghkrTpw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-069"
   },
@@ -652,7 +652,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/yAVQVUOF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-070"
   },
@@ -667,7 +667,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240827/QpxoosxK/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-071"
   },
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/zbiQe3fI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-072"
   },
@@ -702,7 +702,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-073.jpg",
     "actress": [
       "月乃露娜"
     ],
@@ -724,7 +724,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/25864951177d09d681fccc18138e7adf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-074.jpg",
     "actress": [
       "真木今日子",
       "夏树カオル"
@@ -744,7 +744,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/1wEk2z4U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-075"
   },
@@ -759,7 +759,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/L5Wtapoz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-076"
   },
@@ -808,7 +808,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240512/2b05ce4e-c98a-407e-b918-57a6d41b34bb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-077.jpg",
     "actress": [
       "沙月惠奈",
       "工藤拉拉",
@@ -848,7 +848,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240819-1/a7a292b8a8ed722bc4a024e3f2c21a24.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-078.jpg",
     "actress": [
       "河合乃乃花"
     ],
@@ -867,7 +867,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/CzJarXZf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-079"
   },
@@ -882,7 +882,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/w6EUGtCc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-080"
   },
@@ -897,7 +897,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240828/LzJVIo5f/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-081"
   },
@@ -918,7 +918,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-082.jpg",
     "actress": [
       "武藤彩香",
       "工藤拉拉",
@@ -937,7 +937,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/EO0TQ5t6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-083"
   },
@@ -952,7 +952,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/bRLEEHVA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-084"
   },
@@ -967,7 +967,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/f1c94dbf084a91fb89b84ae72a685fa2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-085"
   },
@@ -1022,7 +1022,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241114/605a621e-61f9-4cfc-9331-9852b0b1d819.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-086.jpg",
     "actress": [
       "沙月惠奈",
       "姫咲華",
@@ -1089,7 +1089,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787e8a35d57b64bfd10d123/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-087.jpg",
     "actress": [
       "末広純",
       "水端麻美",
@@ -1111,7 +1111,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250302/Wjw9QLsO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-088"
   },
@@ -1126,7 +1126,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-089"
   },
@@ -1147,7 +1147,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-090.jpg",
     "actress": [
       "桐谷すずね",
       "优梨まいな"
@@ -1171,7 +1171,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-091.jpg",
     "actress": [
       "宝生めい",
       "富井美帆"
@@ -1228,9 +1228,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "2025-05-10",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250514/20250514090920592592_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-092.jpg",
     "actress": [
-      "伊織雛乃",
+      "伊织雏乃",
       "工藤拉拉",
       "比奈ひまり"
     ],
@@ -1275,7 +1275,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014910648648_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-093.jpg",
     "actress": [
       "真木今日子",
       "笠木いちか"
@@ -1298,7 +1298,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-095.jpg",
     "actress": [
       "美原すみれ",
       "しみけん"
@@ -1318,7 +1318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-096.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-096"
   },
@@ -1335,7 +1335,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TPIN-097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-097"
   }

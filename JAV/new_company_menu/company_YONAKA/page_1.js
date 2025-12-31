@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230508/hPKUUqus/1.jpg?t=1683534838",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-002"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250829/31DXXyci/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-003"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250920/i4ozZyQE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-007"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230829/7DntOTzM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-008"
   },
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230920/Izj2bgf1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-009"
   },
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230920/F4SJYvQl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-010"
   },
@@ -111,7 +111,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2023-09-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20230918/865f3c25-6416-472c-8941-fc42fd3c03b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-011.jpg",
     "actress": [
       "天馬唯"
     ],
@@ -128,7 +128,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231010/Yijc5Lr4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-012"
   },
@@ -143,7 +143,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231025/oHBFSSj5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-013"
   },
@@ -158,7 +158,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250829/OrxNv5HN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-014"
   },
@@ -175,7 +175,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240222-1/671fd6ffccdd1862f5c5bcbdc65ff5a6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-015"
   },
@@ -190,7 +190,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/kBCZ6lMN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-016"
   },
@@ -216,7 +216,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2023-12-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20231221/19bb603a-0764-4bdb-984c-de20d965cd90.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-017.jpg",
     "actress": [
       "小松杏"
     ],
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc7d5e2544b92b9a96e91/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-018"
   },
@@ -248,7 +248,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/EASJEbPA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-019"
   },
@@ -271,7 +271,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240313-1/0804d84e3f835f257be4bedf2593a264.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-020.jpg",
     "actress": [
       "新村朱里",
       "新村晶"
@@ -306,7 +306,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240222/4aaf424b-7dd6-401e-b06c-b98036324bef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-021.jpg",
     "actress": [
       "渚光希"
     ],
@@ -323,7 +323,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240308/WrTjm5cY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-022"
   },
@@ -338,7 +338,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/tBhrxAeE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-023"
   },
@@ -378,7 +378,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240509/20240509011738260260.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-024.jpg",
     "actress": [
       "中城葵"
     ],
@@ -404,7 +404,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2024-04-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240411/61c08a4b-b924-48e1-8220-0c83cbc4fc5d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-025.jpg",
     "actress": [
       "戶川奈美"
     ],
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2024-04-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240425/3f4f3260-84f7-45fa-8646-7d0aecdbc563.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-026.jpg",
     "actress": [
       "水川潤"
     ],
@@ -481,7 +481,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/e7df3b301ed7cf298cd2da986915f05f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-027.jpg",
     "actress": [
       "月野香澄"
     ],
@@ -515,7 +515,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240605/20240605231356624624.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-028.jpg",
     "actress": [
       "波多野结衣"
     ],
@@ -548,7 +548,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/e4b72bea4ecc9ffc094a3dfb648de8e2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-029.jpg",
     "actress": [
       "沙月芽衣"
     ],
@@ -587,7 +587,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/3ab8747e299794819b053826922ecf08.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-030.jpg",
     "actress": [
       "優梨舞奈"
     ],
@@ -630,7 +630,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/dfe0a7f7a287f5871f41372f8d7cf301.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-031.jpg",
     "actress": [
       "若宮穂乃",
       "若宫穂乃"
@@ -667,7 +667,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/4c3d8ac24df8f8cbb401a34030e8cf14.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-033.jpg",
     "actress": [
       "长濑麻美",
       "长瀬麻美"
@@ -721,7 +721,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "2024-08-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/d26b64b2-f2be-49fe-bfdc-13f216189ecc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-034.jpg",
     "actress": [
       "三岳祐奈"
     ],
@@ -746,7 +746,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250627-1/f7f6cc7731496e6cfb2b5827052a8c65.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-035"
   },
@@ -793,7 +793,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-1/4b3ee10627364da0ad91dfc972f31cc6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-036.jpg",
     "actress": [
       "宇流木沙羅",
       "玉城夏帆"
@@ -853,7 +853,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250723-1/8dc9725e9d80911245e096bea1a13cbd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-037.jpg",
     "actress": [
       "水川潤"
     ],
@@ -872,7 +872,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/5aad78df00d0fd622d2f3262568cdff0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-038.jpg",
     "actress": [
       "有馬美月",
       "タツ"
@@ -930,7 +930,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-1/a57e25eb019164426f17b3cf4d892586.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-039.jpg",
     "actress": [
       "蒼山愛奈",
       "生田望美"
@@ -994,7 +994,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/04/188247937ae0d2417a2eb6d57c0429e6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-040.jpg",
     "actress": [
       "滝ゆいな"
     ],
@@ -1044,7 +1044,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/04/65febedc7589b22173890f261b22e556.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-041.jpg",
     "actress": [
       "鈴木真夕"
     ],
@@ -1095,7 +1095,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/01/1f52b18f135a278bc570448d1c844509.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-042.jpg",
     "actress": [
       "永野鈴"
     ],
@@ -1153,7 +1153,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001235396396_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-043.jpg",
     "actress": [
       "川越ゆい",
       "上野真奈美"
@@ -1212,7 +1212,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/620e7a8bdd59f80083e6943e97148e0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-044.jpg",
     "actress": [
       "葉山小百合"
     ],
@@ -1273,7 +1273,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014146647647_80030_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-046.jpg",
     "actress": [
       "紗紗原百合",
       "纱々原ゆり"
@@ -1283,70 +1283,74 @@ window.PAGE_DATA = [
   {
     "id": 2576,
     "IDcode": "MOON-047",
-    "title": "不倫した夫と一緒に鑑賞する「フェラ顔ごっくんビデオレター」 森沢かな",
+    "title": "MOON-047 与出轨丈夫共同观看的“口交吞精视频信件”",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "清楚系",
-      "蠻橫嬌羞",
-      "出軌",
-      "美腳",
-      "報復",
+      "美人",
+      "美人妻",
+      "巨乳",
+      "手指插入",
       "不倫",
-      "口爆",
-      "臀控",
-      "美臀",
       "亂交 • 群P",
-      "單體作品",
-      "人妻",
-      "舔陰",
       "奇聞趣事",
-      "兩男一女",
-      "淫亂",
-      "中出",
+      "蠻橫嬌羞",
+      "舔陰",
       "女神",
       "舔腳",
-      "極品美人",
-      "接吻",
-      "劇情",
-      "明星臉",
-      "後入",
-      "絕頂高潮",
-      "色白",
-      "高顏值",
-      "顏射",
-      "美人妻",
-      "阪道系",
+      "中出",
       "69",
-      "手指插入",
+      "口交",
+      "清楚系",
+      "美臀",
+      "口爆",
+      "明星臉",
+      "報復",
+      "脚控・戀足癖",
+      "高顏值",
+      "內衣",
+      "美腳",
+      "極品美人",
+      "乳交",
+      "三十路",
+      "後入",
       "騎乗位",
-      "形象俱樂部",
-      "美人",
+      "臀控",
+      "吞精",
+      "顏射",
       "美乳",
       "美腿",
-      "脚控・戀足癖",
+      "射精",
+      "劇情",
+      "大奶头",
+      "接吻",
+      "3P・4P",
+      "人妻",
+      "出軌",
+      "兩男一女",
+      "色白",
+      "絕頂高潮",
+      "剧情",
+      "性感",
+      "胸控・戀乳癖",
       "顔面騎乘",
-      "吞精",
-      "巨乳",
-      "口交",
-      "潮吹",
       "約炮",
       "4K",
-      "乳交",
+      "内射",
+      "單體作品",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
       "女上位",
-      "胸控・戀乳癖",
-      "三十路",
-      "內衣",
-      "大奶头",
-      "性感",
+      "阪道系",
       "NTR",
-      "3P・4P"
+      "单人作品"
     ],
     "type": "有码",
     "company": "YONAKA",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2025-09-25",
+    "cover_url": "https://javd.me/static/movie/69345efbcaf0e.webp",
     "actress": [
       "森澤佳奈"
     ],
@@ -1363,7 +1367,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/06/ee8bdc0f3f8486d6a079f11f3cb712c9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-048"
   },
@@ -1378,7 +1382,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "YONAKA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/f54a1f86/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MOON-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-049"
   }

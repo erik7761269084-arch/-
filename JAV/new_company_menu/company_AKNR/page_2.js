@@ -1,78 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 11357,
-    "IDcode": "AKDL-299",
-    "title": "【AKNRフェティシズム】 完全着衣 光沢レオタード＆パンスト君を見つめ合いながらヌイてあげるね 白石もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "主觀視角",
-      "美腳",
-      "中出",
-      "舔腳",
-      "美少女電影",
-      "完全着衣",
-      "美少女",
-      "女優",
-      "企畫",
-      "苗條",
-      "黑絲",
-      "騎乗位",
-      "形象俱樂部",
-      "脚控・戀足癖",
-      "美腿",
-      "口交",
-      "女上位",
-      "足交",
-      "後入",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "AKNR",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/217222a8e250a3c7701b3ac906511a91.jpg",
-    "actress": [
-      "白石桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-299"
-  },
-  {
-    "id": 11075,
-    "IDcode": "AKDL-300",
-    "title": "完全着衣 光沢レオタード＆パンスト 巨尻スポーツトレーナーが巧志田みずき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肉絲",
-      "戀物癖",
-      "巨尻",
-      "口交",
-      "健身教練",
-      "中出",
-      "女優",
-      "企畫",
-      "健身房",
-      "女上位",
-      "癡女",
-      "足交",
-      "運動服裝",
-      "騎乗位",
-      "後入",
-      "泳裝",
-      "短髮"
-    ],
-    "type": "有码",
-    "company": "AKNR",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024020223834834.jpg",
-    "actress": [
-      "志田みずき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-300"
-  },
-  {
     "id": 11033,
     "IDcode": "AKDL-301",
     "title": "像糖一樣甜蜜親吻會讓男人感覺非常好 ~ 五十嵐清華",
@@ -106,7 +33,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/b4fcf0c8e0494c7c9336cbd4f610237f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-301.jpg",
     "actress": [
       "五十嵐清華"
     ],
@@ -153,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/aabc17aabf8c6acc8dc1a25ab83dee66.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-302.jpg",
     "actress": [
       "堀北実来"
     ],
@@ -196,7 +123,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/e6e8d3d08de4569b70be91a66f3bcad3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-303.jpg",
     "actress": [
       "志田みずき"
     ],
@@ -229,7 +156,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/74f4f03d/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-304.jpg",
     "actress": [
       "皐月ゆら"
     ],
@@ -263,7 +190,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241120/20241120205758514514.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-305.jpg",
     "actress": [
       "小坂ひまり",
       "堀北実来",
@@ -306,7 +233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/ab1701a4/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-306.jpg",
     "actress": [
       "天沢りん"
     ],
@@ -357,7 +284,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/51b5d21f/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-307.jpg",
     "actress": [
       "足立友梨",
       "鳥楽ひな",
@@ -399,7 +326,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bbaa5d57b64bfd03a2eb/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-308.jpg",
     "actress": [
       "前田美波",
       "浜辺栞帆",
@@ -442,7 +369,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/0b048e9da4ad1cf5ae5ee51b934bd0c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-309.jpg",
     "actress": [
       "藤野つかさ"
     ],
@@ -485,7 +412,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250109/202501090301403636.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-310.jpg",
     "actress": [
       "前田美波",
       "浜辺栞帆",
@@ -532,7 +459,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/70b7b46d/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-311.jpg",
     "actress": [
       "堀北実来",
       "若宮葉月",
@@ -576,7 +503,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250816-2/5bd6f2287648c013dd154a9ac4a62d60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-313.jpg",
     "actress": [
       "如月りいさ",
       "朝比ゆの",
@@ -679,7 +606,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/64d486b3-b5ab-4ccc-8a41-2682598270f3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-316.jpg",
     "actress": [
       "小那海綾",
       "横峯めぐ",
@@ -732,7 +659,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-1/6a6f3e2e69e961d14274e72d65befe94.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-317.jpg",
     "actress": [
       "有加里乃乃花"
     ],
@@ -776,7 +703,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2025-03-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423082925582582_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-318.jpg",
     "actress": [
       "宇流木沙羅"
     ],
@@ -793,7 +720,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250727-1/d83c97ead5b6b28cf1cb98aa6cda651e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-319.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-319"
   },
@@ -848,7 +775,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2025-03-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/88db3fc3-7724-401d-b7f0-4ca9fd5819c0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-320.jpg",
     "actress": [
       "天馬唯",
       "宇流木沙羅",
@@ -872,7 +799,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/d7a93f2c75130af668e319b9967be617.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-321.jpg",
     "actress": [
       "松井日奈子",
       "宇流木沙羅",
@@ -892,7 +819,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/fdd81aff7b38a1ce1b811567b0c8974c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-322.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-322"
   },
@@ -945,7 +872,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521083141752752_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-325.jpg",
     "actress": [
       "浜辺栞帆",
       "五十嵐清華",
@@ -1000,7 +927,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/991d741090d8acaa306f02445591266e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-326.jpg",
     "actress": [
       "前田美波",
       "有加里乃乃花",
@@ -1052,7 +979,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528060756866866_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-327.jpg",
     "actress": [
       "浜辺栞帆",
       "五十嵐清華",
@@ -1103,7 +1030,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716083319918918_13754_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-331.jpg",
     "actress": [
       "小野坂唯香"
     ],
@@ -1177,7 +1104,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/03/34ee0b3a1825d70237cea7acd767bb52.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-332.jpg",
     "actress": [
       "滝冬煇"
     ],
@@ -1225,7 +1152,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e703898bc99dfdd032cf2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-335.jpg",
     "actress": [
       "松井日奈子"
     ],
@@ -1273,7 +1200,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e70b998bc99dfdd032d17/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-336.jpg",
     "actress": [
       "小坂ひまり",
       "藤咲紫",
@@ -1293,7 +1220,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251004/zP10TNgJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-337.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-337"
   },
@@ -1358,7 +1285,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2025-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014359695695_58814_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-338.jpg",
     "actress": [
       "蘆名穗花"
     ],
@@ -1377,7 +1304,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251004/py6j9liw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-339.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-339"
   },
@@ -1442,7 +1369,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2025-08-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250909/202509090339015353_44021_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-340.jpg",
     "actress": [
       "工藤百合",
       "三池小春",
@@ -1517,7 +1444,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "2025-08-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250907/20250907220101330330_11955_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-341.jpg",
     "actress": [
       "安堂はるの"
     ],
@@ -1534,7 +1461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec186c52c12b4e68469919/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-342.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-342"
   },
@@ -1597,7 +1524,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "AKNR",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250916/20250916210436499499_61986_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AKDL-343.jpg",
     "actress": [
       "北村海智"
     ],

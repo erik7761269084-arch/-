@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-003"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-004"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/gqxtTIHZ.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-016"
   },
@@ -60,34 +60,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2021-08-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-019.jpg",
     "actress": [
       "望月綾香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-019"
-  },
-  {
-    "id": 79614,
-    "IDcode": "NSFS-020",
-    "title": "尊敬的老板-紗々原ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4K",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7a482e4a5865a4a9ddf73d0d356bc688.jpg",
-    "actress": [
-      "纱々原ゆり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-020"
   },
   {
     "id": 550110,
@@ -100,24 +77,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/otmaTvAq.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-024"
-  },
-  {
-    "id": 529658,
-    "IDcode": "NSFS-025",
-    "title": "上司と部下の妻16 ～污职とセクハラに染まった极悪上司の罠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250922-1/aa74d5304259abf013b1f9eb251343ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-025"
   },
   {
     "id": 79893,
@@ -135,7 +97,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2021-10-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/51f0c7ce4b2cbfa291fd5112f0551f76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-032.jpg",
     "actress": [
       "乃木遥"
     ],
@@ -152,7 +114,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-035"
   },
@@ -171,7 +133,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7cd1b0af5a6211a317cbd3707748ed57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-036.jpg",
     "actress": [
       "武藤彩香"
     ],
@@ -188,34 +150,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-037"
-  },
-  {
-    "id": 85766,
-    "IDcode": "NSFS-039",
-    "title": "绿帽子之家-佐伯由美香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "淫妻",
-      "4K",
-      "出轨",
-      "戏剧",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6c41315ec2890b02342648b7c3b4eb8b.jpg",
-    "actress": [
-      "佐伯由美香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-039"
   },
   {
     "id": 550148,
@@ -228,33 +165,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-040"
-  },
-  {
-    "id": 80100,
-    "IDcode": "NSFS-043",
-    "title": "上司の前で・・ 私の妻がヌードモデルになりました。 希のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "4K",
-      "高",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/11675121961347a2e6136f8a346820d0.jpg",
-    "actress": [
-      "希望美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-043"
   },
   {
     "id": 80080,
@@ -272,7 +185,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/69e6715dd8a28e6e15b15173f3346eac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-044.jpg",
     "actress": [
       "琴井汐里"
     ],
@@ -296,7 +209,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2021-11-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a3d5191e8e225a7341bfd7f55997b59b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-045.jpg",
     "actress": [
       "瓊·洛夫喬伊",
       "林美玲"
@@ -319,7 +232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2021-11-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/855b2aaa5ab0adbb6ace3d635d4cff57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-046.jpg",
     "actress": [
       "織田真子",
       "菊池リナ"
@@ -337,7 +250,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-048"
   },
@@ -352,7 +265,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-049"
   },
@@ -367,7 +280,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241107-1/e268cf24a61e3acb39504bede86390d5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-051"
   },
@@ -382,7 +295,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-052.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-052"
   },
@@ -402,7 +315,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/00cf84ae0316badc3bd6320258774fac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-054.jpg",
     "actress": [
       "通野未帆",
       "君野步美",
@@ -426,7 +339,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d52c5294a8861b2b894e39e0d6ca01ee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-055.jpg",
     "actress": [
       "琴井汐里"
     ],
@@ -449,7 +362,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8b1e02c6105581d9e189f33ba06c0348.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-056.jpg",
     "actress": [
       "七瀬いおり"
     ],
@@ -470,7 +383,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/e89b9a5c413b6b38d980939ae13aa256.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-057.jpg",
     "actress": [
       "乙愛麗絲",
       "浅宫ちなつ"
@@ -488,7 +401,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-059"
   },
@@ -503,7 +416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-060"
   },
@@ -523,7 +436,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/d61711af7a5cfea5913f6b8f98db64ab.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-063"
   },
@@ -544,7 +457,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-064.jpg",
     "actress": [
       "東條夏"
     ],
@@ -563,7 +476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-065"
   },
@@ -578,7 +491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688974d9c92318f97d1d68a1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-066"
   },
@@ -593,7 +506,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-067"
   },
@@ -616,7 +529,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/802ed9ef0bc8bd131e487dfd26d6ffd2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-068.jpg",
     "actress": [
       "永野司"
     ],
@@ -633,7 +546,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-069"
   },
@@ -655,60 +568,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-071.jpg",
     "actress": [
       "七瀬いおり"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-071"
-  },
-  {
-    "id": 85771,
-    "IDcode": "NSFS-072",
-    "title": "借金夫婦-乃木はるか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "4K",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/654e03a063005055a774b09e7690ab53.jpg",
-    "actress": [
-      "乃木遥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-072"
-  },
-  {
-    "id": 81102,
-    "IDcode": "NSFS-073",
-    "title": "男子与商业伙伴旅行时-三浦るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "中出",
-      "4K",
-      "出轨",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ea081c7394a76b873846d1bcb527f329.jpg",
-    "actress": [
-      "三浦瑠衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-073"
   },
   {
     "id": 594719,
@@ -721,7 +585,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-075"
   },
@@ -738,7 +602,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240131/nsfs076sopl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-076"
   },
@@ -759,7 +623,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "2022-03-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/fa91b3d7492d3b8ac63d1fb21073fa78.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-077.jpg",
     "actress": [
       "八乃翼"
     ],
@@ -776,7 +640,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240202/nsfs078sopl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-078"
   },
@@ -797,7 +661,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/70a73daa42bf8ffaa77fa48b9d93cb47.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-079"
   },
@@ -812,7 +676,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240201/nsfs080sopl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-080"
   },
@@ -827,26 +691,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250923-1/1c8255b510fb9b7711c8704e54762606.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-081"
-  },
-  {
-    "id": 594663,
-    "IDcode": "NSFS-083",
-    "title": "NTR之馆～被当做情趣娃娃的妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/38d721918ceaee8d0f466761ea0a315a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-083"
   },
   {
     "id": 85787,
@@ -866,7 +713,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2bb5573886f0ab4f08d75a19f67b26ce.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-084"
   },
@@ -881,7 +728,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/03/683ec0be0b69f1d81651612e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-087.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-087"
   },
@@ -898,7 +745,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841799041a147ed1a5f10dc/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-088"
   },
@@ -913,7 +760,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-089"
   },
@@ -936,7 +783,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d455de3f9f6402a2cef4620d0fdb32a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-091.jpg",
     "actress": [
       "希望美",
       "明日美柑菜"
@@ -954,7 +801,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-092"
   },
@@ -977,7 +824,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/71d37ece98ea1ca421e5305fa27eea16.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-095.jpg",
     "actress": [
       "永野司"
     ],
@@ -1001,7 +848,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2287fc06362cbfffa6281c127dc575fc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-096.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-096"
   },
@@ -1018,7 +865,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/499739d0ba53a451e5ecd498f7e471fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-097"
   },
@@ -1039,26 +886,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/dab9201fc7d2a0d5eeecd171f375bb68.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-099.jpg",
     "actress": [
       "八乃翼"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-099"
-  },
-  {
-    "id": 594623,
-    "IDcode": "NSFS-100",
-    "title": "我的妻子在上司前成了裸体模特儿 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/599660a7b3505c7aac2349a4a00c6d09.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-100"
   },
   {
     "id": 69519,
@@ -1077,7 +909,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/0d5bc0b698eec0a1f4b306c50ee48b9e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-101.jpg",
     "actress": [
       "沙月惠奈"
     ],
@@ -1094,7 +926,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250401-1/08df35fb62ce6e104a6d1f22c9d498a9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-104.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-104"
   },
@@ -1109,7 +941,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-105.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-105"
   },
@@ -1124,7 +956,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cda7ebcf2fa6fbbecf8bee19e4cd589f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-106.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-106"
   },
@@ -1141,7 +973,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c3d8b43d697271696faf5/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-107.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-107"
   },
@@ -1162,7 +994,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/bb72babb9a78dae367612a5929f7416e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-108.jpg",
     "actress": [
       "岩下たろう"
     ],
@@ -1184,78 +1016,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/474eee40f0362145f1058ba24564fb05.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-109.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-109"
-  },
-  {
-    "id": 67992,
-    "IDcode": "NSFS-111",
-    "title": "夫婦の悲劇-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "4K",
-      "苗条",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b4365adc4e8e95840d1d6a1bcd7dc8ad.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-111"
-  },
-  {
-    "id": 68697,
-    "IDcode": "NSFS-112",
-    "title": "公公和媳妇-永田莉雨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "巨大屁股",
-      "4K",
-      "出轨",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1adaf796946a7545b1b6c06bb50e6599.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-112"
-  },
-  {
-    "id": 68139,
-    "IDcode": "NSFS-113",
-    "title": "夫婦交換-武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "4K",
-      "夫妻交换",
-      "戏剧",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f78350a22548a808b0bbee5ea1824dad.jpg",
-    "actress": [
-      "武藤彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-113"
   },
   {
     "id": 224506,
@@ -1270,7 +1033,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250418-1/99a571dace2232c345cca8044cf6402e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-115.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-115"
   },
@@ -1294,36 +1057,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8b8f5b10c51c84c6236d2528de44e280.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-116.jpg",
     "actress": [
       "岩下たろう"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-116"
-  },
-  {
-    "id": 107078,
-    "IDcode": "NSFS-119",
-    "title": "妻子19岁了-三岳ゆうな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "单体作品",
-      "无码破解",
-      "4K",
-      "格斗家",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-119"
   },
   {
     "id": 77621,
@@ -1343,7 +1081,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-120.jpg",
     "actress": [
       "初音實"
     ],
@@ -1362,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-121.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-121"
   },
@@ -1377,7 +1115,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/A9HuZ1b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-122.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-122"
   },
@@ -1394,7 +1132,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/14e12fe10a164bc0f0a5b331944a5839.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-123.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-123"
   },
@@ -1409,7 +1147,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250405-1/063c4919b73f997087e02073d3ec1d57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-124.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-124"
   },
@@ -1424,7 +1162,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/93c357698351b0a5c0d72646e2511533.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-125.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-125"
   },
@@ -1439,7 +1177,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-127.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-127"
   },
@@ -1457,7 +1195,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2269150f7ff19d9d1103e79a13858d56.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-128.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-128"
   },
@@ -1472,7 +1210,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6b2b93b9eede8b7effcd73f9a9bd54a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-130.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-130"
   },
@@ -1489,7 +1227,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c9d00478b229649fd85e68c63327d4fb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-131.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-131"
   },
@@ -1511,7 +1249,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/b1b5f742624178b2eacc80e85a479cb3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-132.jpg",
     "actress": [
       "京野美丽"
     ],
@@ -1530,34 +1268,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3c8ba3035597998800f50ae30583c927.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-135.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-135"
-  },
-  {
-    "id": 107186,
-    "IDcode": "NSFS-136",
-    "title": "绿帽子之家-本田瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "淫妻",
-      "4K",
-      "戏剧",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241002-1/785c83d39194206d17f20ddd0817fc4e.jpg",
-    "actress": [
-      "本田瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-136"
   },
   {
     "id": 565624,
@@ -1570,7 +1283,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ddb1031275114b94f168aa39ed8e092.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-138.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-138"
   },
@@ -1585,7 +1298,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-139"
   },
@@ -1600,31 +1313,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/10e5aa3a691ee046a1d7a8d8c2a40b58.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-140.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-140"
-  },
-  {
-    "id": 77608,
-    "IDcode": "NSFS-143",
-    "title": "在我的老板面前-流川莉央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "单体作品",
-      "4K",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-143"
   },
   {
     "id": 550266,
@@ -1637,7 +1328,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221216/5CebTXw7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-144.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-144"
   },
@@ -1660,7 +1351,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250408-1/dd87513fc0f5b0138ae407c1e0fd34ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-147.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-147"
   },
@@ -1682,7 +1373,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686bbb8443d6972716dabe34/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-148.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-148"
   },
@@ -1699,31 +1390,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/15/6875fdd043d697271649b462/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-149"
-  },
-  {
-    "id": 68379,
-    "IDcode": "NSFS-151",
-    "title": "岳父和媳妇-中条りの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "单体作品",
-      "4K",
-      "出轨",
-      "戏剧"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/2ec395bf7f5f925e2f87c66151cc81f5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-151"
   },
   {
     "id": 67630,
@@ -1742,26 +1411,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/01/686318143ed39b57c0417873/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-152.jpg",
     "actress": [
       "加藤桃香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-152"
-  },
-  {
-    "id": 549951,
-    "IDcode": "NSFS-155",
-    "title": "上司の前で·· 私の妻がヌードモデルになりました。4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230202/nxC4koJr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-155"
   },
   {
     "id": 222320,
@@ -1774,7 +1428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-156.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-156"
   },
@@ -1789,59 +1443,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-157"
-  },
-  {
-    "id": 100629,
-    "IDcode": "NSFS-159",
-    "title": "老板和下属的妻子-明日美かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "4K",
-      "乳房",
-      "高",
-      "戏剧",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250405-1/f69edc6be835227f6bcac8cc7059133b.jpg",
-    "actress": [
-      "希望美",
-      "明日美柑菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-159"
-  },
-  {
-    "id": 100573,
-    "IDcode": "NSFS-160",
-    "title": "一对名人夫妇-武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "已婚妇女",
-      "无码破解",
-      "4K",
-      "戏剧",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "人妻官能AV",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "武藤彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-160"
   },
   {
     "id": 106826,
@@ -1863,7 +1467,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-167.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-167"
   },
@@ -1878,7 +1482,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230418/xLsLjIL4/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-171.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-171"
   },
@@ -1893,8 +1497,372 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "人妻官能AV",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230419/KK7WFU9Z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-172.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-172"
+  },
+  {
+    "id": 564535,
+    "IDcode": "NSFS-173",
+    "title": "美しさとエロさを兼ね备えた 永野つかさ ベスト-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-173.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-173"
+  },
+  {
+    "id": 456301,
+    "IDcode": "NSFS-177",
+    "title": "抱き心地のいいエッチな身体 八乃つばさ ベスト 八乃翼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-177.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-177"
+  },
+  {
+    "id": 549202,
+    "IDcode": "NSFS-179",
+    "title": "男の群れで动く妻 ～土木女子の淫らな肉体～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-179.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-179"
+  },
+  {
+    "id": 549201,
+    "IDcode": "NSFS-180",
+    "title": "ザ·和奸16 犯された男に狂う妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-180.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-180"
+  },
+  {
+    "id": 549200,
+    "IDcode": "NSFS-181",
+    "title": "动く妻 出张先で犯された5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-181.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-181"
+  },
+  {
+    "id": 225386,
+    "IDcode": "NSFS-188",
+    "title": "偷窥母亲做爱的儿子-藤木紗英",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-188.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-188"
+  },
+  {
+    "id": 550952,
+    "IDcode": "NSFS-190",
+    "title": "町内会のオヤジたちに妻がまわされた ベスト キャンプで！お祭りのあとで…-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-190.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-190"
+  },
+  {
+    "id": 87065,
+    "IDcode": "NSFS-191",
+    "title": "新・償い8 ～許してもらうために身体を捧げた妻～ 三尾めぐ （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "4K",
+      "苗条",
+      "出轨",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-191.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-191"
+  },
+  {
+    "id": 87062,
+    "IDcode": "NSFS-192",
+    "title": "究極の寝取られ 上司に愛おしい若妻を結婚させました。4 二之宮りえな （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "4K",
+      "戏剧",
+      "新娘，年轻妻子",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-192.jpg",
+    "actress": [
+      "二之宮りえな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-192"
+  },
+  {
+    "id": 87057,
+    "IDcode": "NSFS-194",
+    "title": "僕の童貞を卒業させてくれた人妻 Vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "人妻",
+      "已婚妇女",
+      "处男",
+      "4小时以上作品",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-194.jpg",
+    "actress": [
+      "岩沢香代"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-194"
+  },
+  {
+    "id": 87045,
+    "IDcode": "NSFS-195",
+    "title": "借金夫婦 妻を他人に抱かせました。6 ～夫の目の前で何発も中出しされた妻～ 本田瞳 （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "淫妻",
+      "中出",
+      "4K",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-195.jpg",
+    "actress": [
+      "本田瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-195"
+  },
+  {
+    "id": 87050,
+    "IDcode": "NSFS-196",
+    "title": "上司と部下の妻23 ～愛する夫のために今日もあの男に抱かれます～ 美咲かんな （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "乳房",
+      "4K",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-196.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-196"
+  },
+  {
+    "id": 87041,
+    "IDcode": "NSFS-197",
+    "title": "投稿実話 事件に巻き込まれた妻4 ～悪徳リフォーム会社の男たちに犯●れた妻～ 花狩まい （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-197.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-197"
+  },
+  {
+    "id": 87066,
+    "IDcode": "NSFS-198",
+    "title": "働く妻 出張先で犯●れた ベスト Vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "已婚妇女",
+      "4小时以上作品",
+      "戏剧",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-198.jpg",
+    "actress": [
+      "赤瀬尚子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-198"
+  },
+  {
+    "id": 87775,
+    "IDcode": "NSFS-199",
+    "title": "新・償い9 ～肉体はゆらした分だけ金になる・・～ ここな友紀 （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "4K",
+      "出轨",
+      "戏剧",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-199.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-199"
+  },
+  {
+    "id": 87782,
+    "IDcode": "NSFS-200",
+    "title": "新 愛妻ダッチワイフ3 ～愛を説得してはじめての寝取らせ～ 愛沢あかり （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "4K",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-200.jpg",
+    "actress": [
+      "みっちー",
+      "绫瀬さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-200"
+  },
+  {
+    "id": 91710,
+    "IDcode": "NSFS-201",
+    "title": "強烈に嫉妬させる 濃厚セックス ベスト Vol.3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "乳房",
+      "4小时以上作品",
+      "出轨",
+      "戏剧",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-201.jpg",
+    "actress": [
+      "小梅惠奈",
+      "佐知子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-201"
+  },
+  {
+    "id": 87774,
+    "IDcode": "NSFS-203",
+    "title": "ザ・和姦17 犯●れた男に狂う妻 ～優しかった元上司に犯●れて・・～ 香椎佳穂 （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "出轨",
+      "戏剧",
+      "成熟的女人",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "人妻官能AV",
+    "publish_date": "2023-07-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NSFS-203.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-203"
   }
 ];

@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e727898bc99dfdd032dcc/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/844SBKD-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-033"
   },
@@ -29,7 +29,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f85ca9dbf24d4ed3428843/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/844SBKD-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-042"
   },
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17a5579f1ac4ec48ede1e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/844SBKD-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=844SBKD-043"
   },
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f607d98bc99dfdd140586/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-083.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-083"
   },
@@ -93,7 +93,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd7a8f0069396376791e33/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-116.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-116"
   },
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240517-1/d24ace1fd0967bcfa16c86e34891af39.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-137.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-137"
   },
@@ -123,7 +123,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dd02bdce5a404e9bc4a1a9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-139"
   },
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/690685d571eb543bb0dfe9c0/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-161.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-161"
   },
@@ -153,7 +153,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/15c0e646b3b8075f895e2d6098d5e691.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-195.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-195"
   },
@@ -168,7 +168,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240517-1/b7bf48c1291c3239d98d217e6b363bcb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-199.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-199"
   },
@@ -183,7 +183,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/64de5909e7de79ddd984f9e7e5fe5ec7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-209.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-209"
   },
@@ -198,7 +198,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/9a9c076c9cdaa7540e53ac36de55eeae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-210.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-210"
   },
@@ -213,7 +213,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/45ba333a0277364437980a3cfc055134.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-211.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-211"
   },
@@ -228,7 +228,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/2dc86f5b717beaa624262405e1b18059.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-229.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-229"
   },
@@ -243,7 +243,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240621-1/5700e059eb34dde07762a7648f74cdac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-232.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-232"
   },
@@ -258,7 +258,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221204-1/c700c9bb30af018461ff7de54544385f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-275.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-275"
   },
@@ -273,7 +273,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221204-1/5a6eebb18352d9615768f790d6d03c6b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-277.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-277"
   },
@@ -288,7 +288,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5121af2c1f0f0ab63d8a83226ac73c70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-286.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-286"
   },
@@ -303,7 +303,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240516-1/219fb6e42cf1b3104399022856717fa8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-290.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-290"
   },
@@ -318,7 +318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221204-1/474af79ce46655151c6efc5ba00cbb79.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-297.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-297"
   },
@@ -333,7 +333,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221204-1/716011a452d1a41822236784ce2df621.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-298.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-298"
   },
@@ -348,7 +348,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200917-1/fcbd13d50d6cae0a6eb9325980d5b015.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-303.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-303"
   },
@@ -369,7 +369,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "2022-09-06",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atkd339/atkd339pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-339.jpg",
     "actress": [
       "夏目彩春"
     ],
@@ -386,7 +386,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230210/oDJcGgz6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-346.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-346"
   },
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230605/iXLrKgsM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-351.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-351"
   },
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230902/Sirb5k4o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-357.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-357"
   },
@@ -431,7 +431,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250418/RJi7hQUv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-365.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-365"
   },
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240303/haOyqh8D/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-366.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-366"
   },
@@ -461,7 +461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240401/znRTU1JZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-368.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-368"
   },
@@ -476,7 +476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/gXDF924v/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-373.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-373"
   },
@@ -491,7 +491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902928479f1ac4ec4ca2705/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-374.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-374"
   },
@@ -506,7 +506,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240803/vT3Z5Zvk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-375.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-375"
   },
@@ -521,7 +521,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/8f5f7f4e6ac5a3b7dfbb40496c5fc086.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-378.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-378"
   },
@@ -536,7 +536,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/4940f4d5a42b7647f73329f48587e2be.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-382.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-382"
   },
@@ -566,7 +566,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "2025-02-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130085103332332.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-387.jpg",
     "actress": [
       "末広純",
       "松本菜奈実",
@@ -655,7 +655,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224928985985_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ATKD-398.jpg",
     "actress": [
       "波多野结衣",
       "新村朱里",
@@ -701,1020 +701,209 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c88bfe264e6282d0621fb/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BKD-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-019"
   },
   {
-    "id": 556809,
-    "IDcode": "BKD-133",
-    "title": "母子性交～宇佐美之路～水野芳江 - 水野淑惠",
+    "id": 561112,
+    "IDcode": "HKIK-009",
+    "title": "一日女将に就任しました",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "乱伦"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/7081b2ddf598bb6962cdf9d846b6de3f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-009.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-009"
   },
   {
-    "id": 517553,
-    "IDcode": "BKD-135",
-    "title": "母子亂肏 【高岡路】 桐島美奈子",
+    "id": 549763,
+    "IDcode": "HKIK-010",
+    "title": "一日女将に就任しました",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "乱伦"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/691425f6312f49288157f85e/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-010.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-010"
   },
   {
-    "id": 531777,
-    "IDcode": "BKD-140",
-    "title": "母子交尾 ［黒保根路］ 篠宫千明",
+    "id": 560764,
+    "IDcode": "HKIK-011",
+    "title": "一日女将に就任しました",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "乱伦"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/07914aa4c80e279bab3b66e4b6c1932c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-011.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-011"
   },
   {
-    "id": 213109,
-    "IDcode": "BKD-158",
-    "title": "母子交尾-小早川怜子",
+    "id": 13314,
+    "IDcode": "HKIK-012",
+    "title": "當一天旅社的女老板 ~ 葵百合香",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-158"
-  },
-  {
-    "id": 542194,
-    "IDcode": "BKD-159",
-    "title": "母子交尾 ～下诹访路～ 片瀬仁美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码",
-      "乱伦"
-    ],
-    "type": "无码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-159"
-  },
-  {
-    "id": 214501,
-    "IDcode": "BKD-169",
-    "title": "母子交尾-三島奈津子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-169"
-  },
-  {
-    "id": 531778,
-    "IDcode": "BKD-174",
-    "title": "母子交尾 ～塩山路～ 一条绮美香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/364e16f68a7494fa76543f58d091a432.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-174"
-  },
-  {
-    "id": 591385,
-    "IDcode": "BKD-175",
-    "title": "母子交尾 ～薮ノ汤路～ 加藤ツバキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-175"
-  },
-  {
-    "id": 590610,
-    "IDcode": "BKD-188",
-    "title": "母子交尾 ～裂石路～ 波多野结衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230502-1/b9ff0236d64a9a0eab1e72e400e767ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-188"
-  },
-  {
-    "id": 222119,
-    "IDcode": "BKD-189",
-    "title": "母子交尾-成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-189"
-  },
-  {
-    "id": 567666,
-    "IDcode": "BKD-193",
-    "title": "母子交尾～近津路～蓝川京子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-193"
-  },
-  {
-    "id": 542068,
-    "IDcode": "BKD-194",
-    "title": "母子交尾 ～宝川路～ 水野朝阳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码",
-      "乱伦"
-    ],
-    "type": "无码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240412/bkd194sopl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-194"
-  },
-  {
-    "id": 82237,
-    "IDcode": "BKD-196",
-    "title": "和美女后妈无套内射做爱-大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "奇異的",
+      "人妻",
+      "奇聞趣事",
+      "淫亂",
       "中出",
-      "温泉",
-      "成熟的女人",
-      "乱伦"
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "綜藝",
+      "色白",
+      "企畫",
+      "飯店",
+      "女優",
+      "騎乗位",
+      "美腿",
+      "口交",
+      "乳交",
+      "老闆娘，女主人",
+      "女上位",
+      "真人秀",
+      "熟女"
     ],
     "type": "有码",
     "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-012.jpg",
     "actress": [
-      "大槻响"
+      "葵百合香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-012"
   },
   {
-    "id": 567741,
-    "IDcode": "BKD-199",
-    "title": "母子交尾 【大塩路】 白鸟寿美礼",
+    "id": 8564,
+    "IDcode": "HKIK-013",
+    "title": "擔任一天旅館女主人 ~ 吉根柚莉愛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-199"
-  },
-  {
-    "id": 547476,
-    "IDcode": "BKD-207",
-    "title": "母子乱肏 【早户路】 莲实克蕾儿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191003-1/386bc2dd955a8584a2d67172ac21f5cc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-207"
-  },
-  {
-    "id": 82229,
-    "IDcode": "BKD-208",
-    "title": "离婚的佐佐木明希和跟前夫一起住的儿子偷情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
+      "真實拍攝",
+      "豐滿",
+      "蕩婦",
+      "奇異的",
+      "癡女",
+      "溫泉",
+      "大乳暈",
+      "奇聞趣事",
+      "淫亂",
       "中出",
-      "苗条",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "佐佐木明希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-208"
-  },
-  {
-    "id": 541011,
-    "IDcode": "BKD-209",
-    "title": "母子交尾【芦野路】北川礼子第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-209"
-  },
-  {
-    "id": 534076,
-    "IDcode": "BKD-210",
-    "title": "母子交尾【横川路】中本美香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-210"
-  },
-  {
-    "id": 541010,
-    "IDcode": "BKD-211",
-    "title": "母子交尾【南部路】森下美绪第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-211"
-  },
-  {
-    "id": 593060,
-    "IDcode": "BKD-212",
-    "title": "母子交尾 谷原希美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230503-1/ba5fa359d288b20c793aaa2100bf8fef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-212"
-  },
-  {
-    "id": 541016,
-    "IDcode": "BKD-213",
-    "title": "母子交尾【热塩路】平冈里枝子第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-213"
-  },
-  {
-    "id": 590356,
-    "IDcode": "BKD-216",
-    "title": "母子乱肏 【川俣路】 宫本纱央里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221130-1/8f0d8db2cc54ddb9d2e00b645aac8296.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-216"
-  },
-  {
-    "id": 218907,
-    "IDcode": "BKD-218",
-    "title": "母子交尾-浜波乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-218"
-  },
-  {
-    "id": 75026,
-    "IDcode": "BKD-219",
-    "title": "母子交尾 【湯岐路】 松坂美紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "女優",
+      "騎乗位",
+      "超爆乳",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "巨尻",
       "巨乳",
-      "浴衣",
-      "乱伦",
-      "中出",
-      "成熟的女人"
+      "口交",
+      "乳交",
+      "老闆娘，女主人",
+      "女上位",
+      "胸控・戀乳癖",
+      "放尿",
+      "真人秀",
+      "熟女",
+      "後入",
+      "性感"
     ],
     "type": "有码",
     "company": "RUBY",
-    "publish_date": "2019-07-19",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-013.jpg",
     "actress": [
-      "松坂美纪"
+      "吉根柚莉爱"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-219"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-013"
   },
   {
-    "id": 541015,
-    "IDcode": "BKD-221",
-    "title": "母子交尾【母畑路】寺岛志保第01集",
+    "id": 457872,
+    "IDcode": "HKIK-014",
+    "title": "一日女将的激情诱惑",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "乱伦"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-014.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-221"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-014"
   },
   {
-    "id": 547539,
-    "IDcode": "BKD-224",
-    "title": "母子乱肏 【中禅寺湖路】 卯水咲流",
+    "id": 63621,
+    "IDcode": "HKIK-015",
+    "title": "一日女将に就任しました 菊川ケイト",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191121-1/b50bc1ae3c0d90a3e91768838d44b22a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-224"
-  },
-  {
-    "id": 567470,
-    "IDcode": "BKD-226",
-    "title": "母子交尾【南会津昭和路】内原美智子第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-226"
-  },
-  {
-    "id": 561437,
-    "IDcode": "BKD-228",
-    "title": "母子交尾 【久慈川路】 并木塔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-228"
-  },
-  {
-    "id": 75870,
-    "IDcode": "BKD-229",
-    "title": "母子交尾 【日光明峰路】 遠田恵未",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "巨乳",
+      "单体作品",
       "中出",
-      "浴衣",
+      "老板娘，女主人",
       "成熟的女人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "2019-12-19",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/3d70e53535dd728b08a7025dc68c93e4.jpg",
-    "actress": [
-      "远田恵未"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-229"
-  },
-  {
-    "id": 75868,
-    "IDcode": "BKD-230",
-    "title": "母子交尾 【那須高雄温泉路】 今泉佐保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "浴衣",
-      "成熟的女人",
-      "乱伦"
+      "和服，丧服"
     ],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/ff06c32b56f5b51c3d00377556c840b5.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "平井シンジ",
-      "今泉佐保"
+      "菊川ケイト"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-230"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-015"
   },
   {
-    "id": 75869,
-    "IDcode": "BKD-231",
-    "title": "母子交尾 【会津田島路】 水上由紀恵",
+    "id": 517285,
+    "IDcode": "HKIK-016",
+    "title": "擔任一日女將 島津薫",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [
-      "精选，综合",
-      "浴衣",
-      "乱伦",
-      "中出",
-      "素人作品",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "2020-01-19",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/cce0b964c5fb527c852fddc57916f66a.jpg",
-    "actress": [
-      "水上由纪恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-231"
-  },
-  {
-    "id": 540938,
-    "IDcode": "BKD-232",
-    "title": "母子交尾【日光五十里湖路】平清香第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
+    "genres": [],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-016.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-232"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-016"
   },
   {
-    "id": 540937,
-    "IDcode": "BKD-233",
-    "title": "母子交尾【那须岳路】风かおる第01集",
+    "id": 62067,
+    "IDcode": "HKIK-017",
+    "title": "一日女将に就任しました 山本かをり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-233"
-  },
-  {
-    "id": 540946,
-    "IDcode": "BKD-235",
-    "title": "母子交尾【白河西郷路】北川礼子第04集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-235"
-  },
-  {
-    "id": 81457,
-    "IDcode": "BKD-236",
-    "title": "母子交尾 【日光上三依路】 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "浴衣",
-      "成熟的女人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4e27d377fbe365fcbf0de4e419db45b.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-236"
-  },
-  {
-    "id": 593650,
-    "IDcode": "BKD-238",
-    "title": "母子乱肏【华严泷路】 赤濑尚子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200811-1/27a823e9ab567d6437e6b3fd65be0519.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-238"
-  },
-  {
-    "id": 547809,
-    "IDcode": "BKD-239",
-    "title": "母子交尾 【东日光奥宫路】 西村有纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200812-1/7756fb46226fcd1fbc7ff7d0ad277c4d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-239"
-  },
-  {
-    "id": 549881,
-    "IDcode": "BKD-244",
-    "title": "母子交尾 【长者岳路】 二ノ宫庆子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231114/bkd244sopl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-244"
-  },
-  {
-    "id": 210517,
-    "IDcode": "BKD-245",
-    "title": "母子交尾-桜井ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-245"
-  },
-  {
-    "id": 218973,
-    "IDcode": "BKD-246",
-    "title": "母子交尾-小日向まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-246"
-  },
-  {
-    "id": 531745,
-    "IDcode": "BKD-249",
-    "title": "母子交尾芦ノ牧温泉路逢沢はるか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240227-1/22d207a649c719b75c527e8e458dab24.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-249"
-  },
-  {
-    "id": 219597,
-    "IDcode": "BKD-253",
-    "title": "母子交尾-福富りょう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-253"
-  },
-  {
-    "id": 88287,
-    "IDcode": "BKD-259",
-    "title": "母子交尾 【黒森路】 武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "浴衣",
-      "成熟的女人",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e60d44fba517dbf7134ceb8b0a7efc75.jpg",
-    "actress": [
-      "武藤彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-259"
-  },
-  {
-    "id": 222133,
-    "IDcode": "BKD-261",
-    "title": "母子交尾-成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-261"
-  },
-  {
-    "id": 556970,
-    "IDcode": "BKD-268",
-    "title": "母子交尾【山治弥太郎】羽生有纱 - 羽生亚梨沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/80d821207fb30284a66f9058f10a0546.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-268"
-  },
-  {
-    "id": 80820,
-    "IDcode": "BKD-278",
-    "title": "母子交尾 【阿武隈川路】 織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "乱伦",
-      "中出",
-      "4K",
-      "母亲",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "2022-02-15",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a05f7ef4ffc45f978df014cccca62970.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-278"
-  },
-  {
-    "id": 106535,
-    "IDcode": "BKD-280",
-    "title": "母子交尾-田原凛花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "乱伦",
-      "中出",
-      "母亲",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-280"
-  },
-  {
-    "id": 566672,
-    "IDcode": "BKD-282",
-    "title": "母子交尾 ～磐城石川路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/jpAP8Z0U.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-282"
-  },
-  {
-    "id": 589336,
-    "IDcode": "BKD-286",
-    "title": "母子交配 [奥日光清泷路] Mayumi Ema - 真弓惠麻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/11/26440_cover_2025-09-11_030948.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-286"
-  },
-  {
-    "id": 566671,
-    "IDcode": "BKD-287",
-    "title": "母子交尾 ～男鹿岳路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7bbfeef72bdfd58d6358f48d0cfa0dbe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-287"
-  },
-  {
-    "id": 566670,
-    "IDcode": "BKD-288",
-    "title": "母子交尾 ～黒滝山路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9680b8ab28563c1893b831bd78b10af8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-288"
-  },
-  {
-    "id": 531439,
-    "IDcode": "BKD-289",
-    "title": "母子交尾 【鹿又岳路】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250427/ZZhSecBK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-289"
-  },
-  {
-    "id": 566669,
-    "IDcode": "BKD-290",
-    "title": "母子交尾 ～高仓山路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/wiHq1sov.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-290"
-  },
-  {
-    "id": 544243,
-    "IDcode": "BKD-291",
-    "title": "母子交尾【鬼怒川八汐路】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250427/MMAUfDee/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-291"
-  },
-  {
-    "id": 566668,
-    "IDcode": "BKD-292",
-    "title": "母子交尾 ～奥日光女峰山路～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/E7QnVbKk.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-292"
-  },
-  {
-    "id": 106534,
-    "IDcode": "BKD-293",
-    "title": "母子交尾-推川百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
       "巨乳",
-      "浴衣",
-      "乱伦",
+      "户外",
+      "单体作品",
       "中出",
-      "4K",
-      "母亲",
+      "老板娘，女主人",
       "成熟的女人"
     ],
     "type": "有码",
@@ -1722,15 +911,268 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "推川悠里",
-      "左慈半造"
+      "山本かをり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-293"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-017"
   },
   {
-    "id": 549308,
-    "IDcode": "BKD-295",
-    "title": "母子交尾【那须塩の汤路】 浜咲恵利",
+    "id": 3047,
+    "IDcode": "HKIK-018",
+    "title": "一日女将に就任しました 佐久間楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "真實拍攝",
+      "豐滿",
+      "美腳",
+      "高妹",
+      "美臀",
+      "單體作品",
+      "野性",
+      "人妻",
+      "舔陰",
+      "中出",
+      "御姐系",
+      "四十路",
+      "後入",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "女優",
+      "企畫",
+      "美人妻",
+      "手指插入",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "口交",
+      "巨乳",
+      "乳交",
+      "老闆娘，女主人",
+      "女上位",
+      "胸控・戀乳癖",
+      "熟女",
+      "大奶头",
+      "性感"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HKIK-018.jpg",
+    "actress": [
+      "佐久間楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-018"
+  },
+  {
+    "id": 572482,
+    "IDcode": "JUAN-008",
+    "title": "息子のためにアナルを解禁するお母さん 设楽アリサ new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-008.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-008"
+  },
+  {
+    "id": 540745,
+    "IDcode": "JUAN-012",
+    "title": "息子の为にアナルを解禁するお母さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-012.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-012"
+  },
+  {
+    "id": 550042,
+    "IDcode": "JUAN-014",
+    "title": "息子の为にアナルを解禁するお母さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-014.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-014"
+  },
+  {
+    "id": 549576,
+    "IDcode": "JUAN-015",
+    "title": "息子の为にアナルを解禁するお母さん 和泉亮子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-015.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-015"
+  },
+  {
+    "id": 549665,
+    "IDcode": "JUAN-016",
+    "title": "息子の为にアナルを解禁して2穴セックスを受け入れるお母さん 大岛未华子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-016.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-016"
+  },
+  {
+    "id": 548783,
+    "IDcode": "JUAN-017",
+    "title": "邻の変态亲子のために二穴アナル解禁するドM美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-017.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-017"
+  },
+  {
+    "id": 546813,
+    "IDcode": "JUAN-018",
+    "title": "邻の変态亲子のために二穴解禁するドスケベ爆乳爆尻侄っ子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-018.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-018"
+  },
+  {
+    "id": 453927,
+    "IDcode": "JUAN-019",
+    "title": "讓表兄弟們玩弄屁眼與小穴的超變態大姊 小日向舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-019.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-019"
+  },
+  {
+    "id": 453982,
+    "IDcode": "JUAN-020",
+    "title": "為了變態親戚的親子而進行二穴性愛的超M新妻 永井美雛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-020.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-020"
+  },
+  {
+    "id": 308275,
+    "IDcode": "JUAN-021",
+    "title": "隣の変態親子のために二穴解放するドM美人妻 伊東紅蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-021.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-021"
+  },
+  {
+    "id": 9315,
+    "IDcode": "JUAN-022",
+    "title": "为了住在隔壁的变态母子而开放屁眼的美人妻 乃南ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蠻橫嬌羞",
+      "美腳",
+      "臀控",
+      "美臀",
+      "亂交 • 群P",
+      "癡女",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "美少女電影",
+      "劇情",
+      "絕頂高潮",
+      "乱伦",
+      "色白",
+      "騎乗位",
+      "羞恥",
+      "形象俱樂部",
+      "美人",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "女上位",
+      "多P",
+      "後入",
+      "肛交",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-022.jpg",
+    "actress": [
+      "乃南ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-022"
+  },
+  {
+    "id": 399704,
+    "IDcode": "JUAN-023",
+    "title": "超級變態的妹妹,享受她變態的叔叔和認真的表弟在兩個洞裡,德島裡子",
     "year": "",
     "country": "",
     "genre": "",
@@ -1740,68 +1182,182 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230704/bkd295pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-023.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-295"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-023"
   },
   {
-    "id": 541601,
-    "IDcode": "BKD-297",
-    "title": "母子交尾 【続 日光明峰路】 远田恵未",
+    "id": 6369,
+    "IDcode": "JUAN-024",
+    "title": "隣の変態親子のために二穴解放するドM美人堕ち妻 日森玲子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
+      "豐滿",
+      "網襪",
+      "蕩婦",
+      "美臀",
+      "亂交 • 群P",
+      "單體作品",
+      "人妻",
+      "兩男一女",
+      "淫亂",
+      "中出",
+      "猥褻穿著",
+      "自宅",
+      "調教",
+      "M男・M女",
+      "若妻",
+      "騎乗位",
+      "美乳",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "乳交",
+      "情趣內衣",
+      "女上位",
+      "放尿",
+      "熟女",
+      "後入",
+      "肛交",
+      "3P・4P",
+      "野外露天"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-024.jpg",
+    "actress": [
+      "日森玲子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-024"
+  },
+  {
+    "id": 4413,
+    "IDcode": "JUAN-025",
+    "title": "隣のアナル好きのオヤジと童貞息子のために二穴解放するドM美人妻 音琴るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "出軌",
+      "美腳",
+      "不倫",
+      "高妹",
+      "蕩婦",
+      "小隻馬",
+      "美臀",
+      "二穴同入",
+      "亂交 • 群P",
+      "單體作品",
+      "人妻",
+      "舔陰",
+      "兩男一女",
+      "淫亂",
+      "鄰居",
+      "中出",
+      "極品美人",
+      "接吻",
+      "劇情",
+      "美少女",
+      "家庭主妇",
+      "按摩棒",
+      "勾引・誘惑",
+      "無毛",
+      "偷竊",
+      "色白",
+      "高顏值",
+      "美人妻",
+      "若妻",
+      "手指插入",
+      "艷遇",
+      "騎乗位",
+      "形象俱樂部",
+      "美人",
+      "短髮",
+      "美乳",
+      "美腿",
+      "巨尻",
+      "口交",
+      "慾求不滿",
+      "潮吹",
+      "乳交",
+      "清純",
+      "女上位",
+      "三十路",
+      "熟女",
+      "後入",
+      "肛交",
+      "NTR",
+      "3P・4P"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-025.jpg",
+    "actress": [
+      "妃月るい",
+      "平井シンジ",
+      "青木りょう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-025"
+  },
+  {
+    "id": 183015,
+    "IDcode": "JUAN-026",
+    "title": "アナル3Pドキュメント 杜原美奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUAN-026.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-026"
+  },
+  {
+    "id": 542093,
+    "IDcode": "KBKD-1513",
+    "title": "新母亲失格 平冈里枝子43歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码",
+      "乱伦"
+    ],
+    "type": "无码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KBKD-1513.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBKD-1513"
+  },
+  {
+    "id": 519612,
+    "IDcode": "MBKD-016",
+    "title": "激安！100円でもヌケる 母子交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "乱伦"
     ],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230718/bkd297pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MBKD-016.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBKD-016"
   },
   {
-    "id": 541621,
-    "IDcode": "BKD-298",
-    "title": "母子交尾【家老岳路】 希咲铃々花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230730/bkd298pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-298"
-  },
-  {
-    "id": 541629,
-    "IDcode": "BKD-299",
-    "title": "母子交尾【石打路】 よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质",
-      "乱伦"
-    ],
-    "type": "有码",
-    "company": "RUBY",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230814/bkd299pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-299"
-  },
-  {
-    "id": 550041,
-    "IDcode": "BKD-300",
-    "title": "母子交尾【汤沢越后路】",
+    "id": 567514,
+    "IDcode": "MBKD-017",
+    "title": "激安！100円でもヌケる母子交尾并木塔子第01集",
     "year": "",
     "country": "",
     "genre": "",
@@ -1811,26 +1367,122 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230120/OjRg7MRG/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-300"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBKD-017"
   },
   {
-    "id": 541667,
-    "IDcode": "BKD-302",
-    "title": "母子交尾【上州月夜路】 波多野结衣",
+    "id": 67267,
+    "IDcode": "NTKD-001",
+    "title": "ぬるテカ巨乳 Vol.1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高清画质",
-      "乱伦"
+      "业余",
+      "巨乳",
+      "恋乳癖",
+      "乳交",
+      "乳液",
+      "4小时以上作品"
     ],
     "type": "有码",
     "company": "RUBY",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230909/bkd302pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NTKD-001.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-302"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTKD-001"
+  },
+  {
+    "id": 60046,
+    "IDcode": "NTKD-002",
+    "title": "ぬるテカ巨乳 Vol.2-佐山由依 美木ひなの 綾瀬舞菜（あやせ舞菜） 真白ふわり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演者",
+      "业余",
+      "精选，综合",
+      "巨乳",
+      "恋乳癖",
+      "乳交",
+      "4K",
+      "素人作品",
+      "乳液",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NTKD-002.jpg",
+    "actress": [
+      "美木雛乃",
+      "佐山由依",
+      "真白風羽里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTKD-002"
+  },
+  {
+    "id": 210264,
+    "IDcode": "SCD-019",
+    "title": "禁断介護-広瀬奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCD-019.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-019"
+  },
+  {
+    "id": 441690,
+    "IDcode": "SCD-182-C",
+    "title": "爆乳爆尻五十岁人母的生中出 三峰かずこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SCD-182-C.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-182-C"
+  },
+  {
+    "id": 153134,
+    "IDcode": "TKD-001-2",
+    "title": "奇闻趣事HYui拥有多次达到极致的丰满美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TKD-001-2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-001-2"
+  },
+  {
+    "id": 567582,
+    "IDcode": "TKD-038",
+    "title": "日光で我々を待っていた女将はデラックスべっぴん平清香第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "RUBY",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-038"
   }
 ];

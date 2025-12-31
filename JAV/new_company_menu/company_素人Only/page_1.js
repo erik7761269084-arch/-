@@ -13,7 +13,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230916/NQOpkeJB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/042NPS-439.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=042NPS-439"
   },
@@ -31,7 +31,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231218/hRGYRNUu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/042NPS-442.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=042NPS-442"
   },
@@ -49,7 +49,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240118/y05NifDL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/042NPS-443.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=042NPS-443"
   },
@@ -66,7 +66,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231005/ENM2iRLB/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/168EK-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-028"
   },
@@ -83,7 +83,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250402/LX1ZbuUH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/168EK-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-029"
   },
@@ -100,7 +100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/tcdBgIct/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/168EK-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-031"
   },
@@ -136,7 +136,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/f4ylm7nY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-002"
   },
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/UKtP2sKa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-003"
   },
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/rOEm5wZ9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-004"
   },
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251011/6sojRYEy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-006"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/6db379d00eac044d6b6b5f483956f1f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-007"
   },
@@ -241,7 +241,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251012/Y2lGqVOb/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-008"
   },
@@ -259,7 +259,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/1c50faada6b00f34df14be26a08e7282.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-009"
   },
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231006/pb_e_761gesy-010.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-010"
   },
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251012/Gl6bUB1t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-011"
   },
@@ -311,7 +311,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251012/RH9Tl3mR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/761GESY-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-012"
   },
@@ -326,7 +326,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240218/YMgDfywp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/803NPS-444.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=803NPS-444"
   },
@@ -341,7 +341,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c5f3543d6972716364e4f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BNSPS-312.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-312"
   },
@@ -363,114 +363,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-312-C"
   },
   {
-    "id": 589347,
-    "IDcode": "BNSPS-328",
-    "title": "总是和老公吵架……“我不需要你了。” - 友田真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/09/95697_cover_2025-09-09_170626.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-328"
-  },
-  {
-    "id": 215155,
-    "IDcode": "BNSPS-356",
-    "title": "敬你我的爱人-神波多一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-356"
-  },
-  {
-    "id": 215683,
-    "IDcode": "BNSPS-366",
-    "title": "老板拥戴的下属的妻子-大場ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-366"
-  },
-  {
-    "id": 215664,
-    "IDcode": "BNSPS-368",
-    "title": "会社社長-上野菜穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-368"
-  },
-  {
-    "id": 217291,
-    "IDcode": "BNSPS-398",
-    "title": "爱妻-西条沙羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-398"
-  },
-  {
-    "id": 551273,
-    "IDcode": "BNSPS-430",
-    "title": "丽しの巨乳不伦妻藤宫樱花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-430"
-  },
-  {
-    "id": 155499,
-    "IDcode": "BNSPS-432",
-    "title": "在一群男人工作下的女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/17/685058223ed39b57c0814246/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-432"
-  },
-  {
     "id": 517755,
     "IDcode": "BSY-010",
     "title": "愛熱吻變態妹兩天一夜泡湯幹砲旅 星",
@@ -481,7 +373,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f6314d631cc64eb5bc98c3/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSY-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-010"
   },
@@ -496,7 +388,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9c03131a2714f1c6995c1/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSY-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-011"
   },
@@ -511,7 +403,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef16bcbf45974ea627bb04/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSY-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-012"
   },
@@ -541,7 +433,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/0bbfc29dce3c7cb1c869e2ade18cb655.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/BSY-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-023"
   },
@@ -556,7 +448,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888607fc92318f97d01fd46/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DAPS-06.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAPS-06"
   },
@@ -571,7 +463,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896f1cc92318f97d1d1f21/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-433.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-433"
   },
@@ -586,7 +478,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cedf934e7d663df4e2a7cb/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-434.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-434"
   },
@@ -601,7 +493,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896f2ac92318f97d1d1f22/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-438.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-438"
   },
@@ -616,7 +508,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc192acf22ae3e0427d296/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-472.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-472"
   },
@@ -631,7 +523,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f621298bc99dfdd14066f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-620.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-620"
   },
@@ -646,7 +538,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689dc6bb1cc1e208692000d2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-767.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-767"
   },
@@ -661,7 +553,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee0d34e7d663df4e2a7e9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-772.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-772"
   },
@@ -676,7 +568,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688ce10598bc99dfddee70e8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-845.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-845"
   },
@@ -691,7 +583,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa35c49550e292a785c86d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DVDPS-943.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDPS-943"
   },
@@ -708,7 +600,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://guzwiayz.com/20230508/P6PjTnEC/1.jpg?t=1683531449",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-024"
   },
@@ -725,7 +617,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231031/R1e4E3HN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-029"
   },
@@ -742,7 +634,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/lsb7keZu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-031"
   },
@@ -759,7 +651,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240206/Z2a9LJX7/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-032"
   },
@@ -774,7 +666,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/67774cd8703a2fea209713018845c3b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-042.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-042"
   },
@@ -791,7 +683,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250128/5GWAS15E/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-044"
   },
@@ -816,7 +708,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2025-02-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-045.jpg",
     "actress": [
       "柏木小夏",
       "若宮穂乃",
@@ -839,7 +731,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250714-1/9d50b00e682a9e83775125a585f65781.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-047"
   },
@@ -878,7 +770,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baaa13ce3e366423ce0a91/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-048.jpg",
     "actress": [
       "涼花くるみ",
       "谷梓",
@@ -900,7 +792,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c2e9943d6972716950326/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-049.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-049"
   },
@@ -917,7 +809,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250728/4qQrXtRi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-050"
   },
@@ -932,7 +824,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/01a52800a6cd82a54c2d32c18fd0b4e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EK-073.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-073"
   },
@@ -954,7 +846,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7c2bdfa8840d6697d953b84a783ab27.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FPS-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPS-005"
   },
@@ -976,7 +868,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/965f0c884138639a814e126e06d333a6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FPS-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPS-006"
   },
@@ -991,7 +883,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250513-1/a0e2e929b069f4f7062c8637fed4ad23.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GESY-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GESY-007"
   },
@@ -1006,7 +898,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231015/pb_e_gesy-016.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GESY-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GESY-016"
   },
@@ -1021,24 +913,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231024/LZA4BKCu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GESY-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GESY-017"
-  },
-  {
-    "id": 530165,
-    "IDcode": "GSHR-106",
-    "title": "第1个裸体处女裸体 Reona Kasai",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241119-1/c508f73fff586972fdcb90232f281151.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSHR-106"
   },
   {
     "id": 177200,
@@ -1051,7 +928,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e077dbf24d4ed31ff18e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GSY-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSY-035"
   },
@@ -1083,7 +960,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230213/0bGFWOnc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HR-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-007"
   },
@@ -1098,7 +975,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250326/7ERC2zLy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HR-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-009"
   },
@@ -1161,7 +1038,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241020/iwi2elwd/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HTPS-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTPS-006"
   },
@@ -1176,7 +1053,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241123/FPtb0EIZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HTPS-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTPS-011"
   },
@@ -1394,7 +1271,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250510/UDLvafPX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ISY-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ISY-026"
   },
@@ -1424,7 +1301,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/05/21/dda01fc2a838fa33e53906de14a68c7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-012"
   },
@@ -1445,7 +1322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62bfe147d353a85d74b46716362cd4fb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-027.jpg",
     "actress": [
       "春埼芽衣",
       "鲛岛",
@@ -1468,7 +1345,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/649743dbf5d44277560ebeea2bb957ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-030.jpg",
     "actress": [
       "森林原人",
       "鲛岛"
@@ -1488,7 +1365,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220506-1/4e995f61f25957756ea46707a65ae7e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-034"
   },
@@ -1505,7 +1382,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b579ee2cbbe464027fbd13/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-040"
   },
@@ -1520,7 +1397,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/c1c151463ebd80ae2f4438e7e414f907.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-045"
   },
@@ -1535,7 +1412,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230302/1kmhr00046pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-046"
   },
@@ -1550,7 +1427,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230302/1kmhr00048pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-048"
   },
@@ -1565,7 +1442,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/2dcdde73af8e56000e8ade66413ee1d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-050"
   },
@@ -1586,7 +1463,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93ac5e57d1317fb21cf3aa2844f0a57a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-051.jpg",
     "actress": [
       "春埼芽衣"
     ],
@@ -1623,7 +1500,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f9fd2368c0b068f7f4029c6d9f5b892e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-058.jpg",
     "actress": [
       "若宫穂乃"
     ],
@@ -1640,7 +1517,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/83de82e01720b81388832d3322258377.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-059"
   },
@@ -1678,7 +1555,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7654e7d663df4b3fa6d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-063"
   },
@@ -1697,7 +1574,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67f08b445b1e339f59ae38837e42d43f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-066.jpg",
     "actress": [
       "しみけん",
       "古贺まつな"
@@ -1715,7 +1592,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/004a5729d85ba67a4a748f7e8069211f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-067"
   },
@@ -1735,7 +1612,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/5206537ce6d9b35cf2f92ce915280d52.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-069.jpg",
     "actress": [
       "望月憧"
     ],
@@ -1754,7 +1631,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/9320c33209567e4c2a09804f20c3cd38.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-071"
   },
@@ -1775,7 +1652,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/6e8ddf29cd13dc4c894dfe2b421d43f5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-072.jpg",
     "actress": [
       "田渊正浩",
       "玉木玲",
@@ -1783,5 +1660,180 @@ window.PAGE_DATA = [
       "森本つぐみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-072"
+  },
+  {
+    "id": 74415,
+    "IDcode": "KMHR-073",
+    "title": "望月あられ 童貞のフリしたルームメイト4名がハードピストン連続中出しエビ反り痙攣爆イキ大絶頂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "处男",
+      "素人作品",
+      "姐姐",
+      "巨大阴茎"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-073.jpg",
+    "actress": [
+      "望月憧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-073"
+  },
+  {
+    "id": 74354,
+    "IDcode": "KMHR-074",
+    "title": "献身的な先生の卵がほんわか笑顔で全身ベロベロ舐めしゃぶるご奉仕SEX 古賀まつな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "恋物癖",
+      "素人作品",
+      "女教师",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-074.jpg",
+    "actress": [
+      "鲛岛",
+      "古贺まつな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-074"
+  },
+  {
+    "id": 73859,
+    "IDcode": "KMHR-077",
+    "title": "先生になる前に人生初の中出し！追撃＋逆追撃で貪欲にイカせ合う！イッても抜かずの連続中出し計12発！ 古賀まつな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "滥交",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-077.jpg",
+    "actress": [
+      "鲛岛",
+      "イセドン内村",
+      "古贺まつな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-077"
+  },
+  {
+    "id": 165839,
+    "IDcode": "KMHR-079",
+    "title": "四葉さなが指舐め顔舐め乳首舐め",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-079.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-079"
+  },
+  {
+    "id": 78177,
+    "IDcode": "KMHR-081",
+    "title": "家庭教師-望月あられ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "家教",
+      "女大学生",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-081.jpg",
+    "actress": [
+      "望月憧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-081"
+  },
+  {
+    "id": 165988,
+    "IDcode": "KMHR-083",
+    "title": "いつもは奉仕しているほうだけど、",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-083.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-083"
+  },
+  {
+    "id": 76696,
+    "IDcode": "KMHR-085",
+    "title": "超人气风俗孃教您如何玩风俗 绫音诗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称摄影",
+      "礼仪小姐",
+      "素人作品",
+      "苗条",
+      "教学"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-085.jpg",
+    "actress": [
+      "ゆうき",
+      "绫音うた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-085"
+  },
+  {
+    "id": 76613,
+    "IDcode": "KMHR-086",
+    "title": "ご奉仕するのが好きすぎてお店に内緒でこっそり本番してくれるおっパブ嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "巨乳",
+      "乳房",
+      "礼仪小姐",
+      "素人作品",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KMHR-086.jpg",
+    "actress": [
+      "四葉さな",
+      "四叶さな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-086"
   }
 ];

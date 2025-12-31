@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/7653bedb73691b0ed0ff5f0fa06a5324.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017--14.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017--14"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/1dd57d6c1e9876a048e22610f9b15620.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017--15.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017--15"
   },
@@ -40,7 +40,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/b375fb6f1c8972b11bfbe11e361c1bd5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017--8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017--8"
   },
@@ -55,7 +55,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-4/7976efb78706b12a4797b839d27825b9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV085"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20220925/bAb8wgKv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV092"
   },
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221020-1/61350e26f82a4d7c107e68fa307f1ced.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV102.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV102"
   },
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20250612-1/48d2903b713685638126c3231e0902e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV140.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV140"
   },
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20241118-1/41d2e9464e1ab5eeb7a5316bf70cdd66.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV175.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV175"
   },
@@ -170,7 +170,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240628-1/d58b99fa490f58a5ac964d9381376d70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4017-PPV207.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4017-PPV207"
   },
@@ -185,7 +185,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200718/68377.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV1982.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV1982"
   },
@@ -412,7 +412,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20240628-1/ecf94069d1c09b8c8dd40913b3a986a6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2264.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2264"
   },
@@ -427,7 +427,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200718/heydouga4030-2327.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2327.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2327"
   },
@@ -442,7 +442,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20231122-11/a2c63e5a6636b129123f4fad6c7a8377.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2338.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2338"
   },
@@ -459,7 +459,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20251011-1/cc08f0a0f16dc9f2b773f9d88fc8108c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2346.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2346"
   },
@@ -493,7 +493,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20250523-1/fbfca782bb35ec40e891decb1a83ab46.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2452.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2452"
   },
@@ -508,7 +508,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20250204-1/89df184f41cb4bae7de6682835e817eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4030-PPV2456.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4030-PPV2456"
   },
@@ -525,7 +525,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220517-1/edf9e3d9676230a073d18fca6fd6e202.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4039-PPV1072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4039-PPV1072"
   },
@@ -540,7 +540,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220507-1/fd647740744934e684e4c0dd61a54483.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4132-PPV081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4132-PPV081"
   },
@@ -555,7 +555,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220507-1/a5eaa4356e38fd799b9951ed5c838a19.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4140-PPV053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4140-PPV053"
   },
@@ -570,7 +570,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220507-1/f4d1af8cefabae8dfb484c34dde48523.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4154-PPV123.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4154-PPV123"
   },
@@ -585,7 +585,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200718/68207.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/4156-PPV016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=4156-PPV016"
   },
@@ -936,7 +936,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190828-1/423d441d7daa3ab4ebb256fa3e4904fa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV-B.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV-B"
   },
@@ -953,7 +953,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20210109-1/be072c2089cf2d2a0d7dbbd8740bd13f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV1"
   },
@@ -970,7 +970,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20210109-1/4aed8defeab891558f6b362e46d7c0bd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV2"
   },
@@ -985,7 +985,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e2f61082b9559ef3098bebbd8be5c60a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV2347.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV2347"
   },
@@ -1002,7 +1002,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20210109-1/819afae28afcbc8bb48f333ae4a2c9fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV3"
   },
@@ -1019,7 +1019,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Heydouga",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20210109-1/3393cc9f336add1f8e1ea11b2a90f0b7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PPV4.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPV4"
   }

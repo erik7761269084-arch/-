@@ -1,0 +1,101 @@
+window.PAGE_DATA = [
+  {
+    "id": 59977,
+    "IDcode": "DDH-350",
+    "title": "DDH-350 办法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "美容院",
+      "中出",
+      "偷窥",
+      "接吻",
+      "内射",
+      "口交",
+      "素人",
+      "按摩",
+      "素人作品",
+      "偷窥者",
+      "美容店"
+    ],
+    "type": "有码",
+    "company": "ドキュメント de ハメハメ",
+    "publish_date": "2025-09-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DDH-350.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDH-350"
+  },
+  {
+    "id": 177419,
+    "IDcode": "DDH-353",
+    "title": "DDH-353 南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "口交",
+      "素人",
+      "巨乳",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "ドキュメント de ハメハメ",
+    "publish_date": "2025-10-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DDH-353.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDH-353"
+  },
+  {
+    "id": 174892,
+    "IDcode": "DDH-355",
+    "title": "DDH-355 獐牙菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "口交",
+      "素人",
+      "大学生",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "ドキュメント de ハメハメ",
+    "publish_date": "2025-10-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DDH-355.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDH-355"
+  },
+  {
+    "id": 174764,
+    "IDcode": "DDH-357",
+    "title": "DDH-357 H & M.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "下流",
+      "3P",
+      "潮吹",
+      "4P",
+      "内射",
+      "泳装",
+      "口交",
+      "素人",
+      "重口味",
+      "震动",
+      "偷窥者",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "ドキュメント de ハメハメ",
+    "publish_date": "2025-10-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DDH-357.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDH-357"
+  }
+];

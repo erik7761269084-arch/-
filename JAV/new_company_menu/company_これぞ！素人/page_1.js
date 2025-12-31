@@ -1,0 +1,100 @@
+window.PAGE_DATA = [
+  {
+    "id": 592958,
+    "IDcode": "KRS-060",
+    "title": "KRS-060 漂亮的女优，我喜欢年纪大但依然漂亮的女优 09",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "电动按摩器",
+      "内射",
+      "素人",
+      "熟女",
+      "搭讪",
+      "人妻",
+      "巨乳",
+      "舔阴"
+    ],
+    "type": "有码",
+    "company": "これぞ！素人",
+    "publish_date": "2022-04-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KRS-060.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRS-060"
+  },
+  {
+    "id": 572402,
+    "IDcode": "KRS-141",
+    "title": "KRS-141 狂野奔跑--任何年龄段的成熟女性都想这样做 09.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "内射",
+      "口交",
+      "素人",
+      "重口味",
+      "熟女",
+      "搭讪",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "これぞ！素人",
+    "publish_date": "2022-11-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KRS-141.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRS-141"
+  },
+  {
+    "id": 572333,
+    "IDcode": "KRS-158",
+    "title": "KRS-158 工作阿姨 (KRS-158)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "下流",
+      "内射",
+      "素人",
+      "重口味",
+      "熟女",
+      "人妻",
+      "按摩",
+      "巨乳",
+      "偷窥者"
+    ],
+    "type": "有码",
+    "company": "これぞ！素人",
+    "publish_date": "2022-12-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KRS-158.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRS-158"
+  },
+  {
+    "id": 572447,
+    "IDcode": "KRS-160",
+    "title": "KRS-160 外遇中的已婚妇女 非常肮脏、纯洁的年轻妻子 06.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "内射",
+      "新娘",
+      "素人",
+      "搭讪",
+      "人妻",
+      "巨乳",
+      "偷窥者",
+      "少妇"
+    ],
+    "type": "有码",
+    "company": "これぞ！素人",
+    "publish_date": "2022-12-16",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KRS-160.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRS-160"
+  }
+];

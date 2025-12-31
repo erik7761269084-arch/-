@@ -64,7 +64,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/55bcc4dc/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-001.jpg",
     "actress": [
       "水川潤"
     ],
@@ -125,7 +125,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/ead5fe7e/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-002.jpg",
     "actress": [
       "美咲佳奈"
     ],
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/03/a97bb33b/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-004"
   },
@@ -230,7 +230,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/12/194484d91f75986acbb1226a8227d241.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-007.jpg",
     "actress": [
       "绀野光"
     ],
@@ -239,16 +239,24 @@ window.PAGE_DATA = [
   {
     "id": 175269,
     "IDcode": "JERA-009",
-    "title": "夜勤明けなのに会いたいからと時間を作ってくれた既婚者セフレ沙月ふみのとW不倫だけど何度もキスを重ねて眠たくなるまで何度も精飲と中出しを続けた",
+    "title": "JERA-009 明明刚结束夜班却说想见我，特意挤出时间的已婚炮友沙月文乃。虽然是双重出轨，但我们仍反复接吻，直到困倦袭来，仍持续着口交与内射",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "射精",
+      "内射",
+      "出轨",
+      "主观视角",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "夕焼けジェラシー",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/b00b15bc/vod.jpg",
-    "actress": [],
+    "publish_date": "2025-10-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-009.jpg",
+    "actress": [
+      "沙月文乃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-009"
   },
   {
@@ -262,7 +270,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/05/35cafca40b6d8a87501cca2bdd1421c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-011"
   },
@@ -277,7 +285,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/ffcbf4bf/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JERA-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-019"
   },

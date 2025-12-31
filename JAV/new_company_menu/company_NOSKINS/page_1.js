@@ -14,7 +14,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/29e7490d0982618d0d3594f5213925c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/02AIAV-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=02AIAV-001"
   },
@@ -31,7 +31,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230415/1noskn00022pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-022"
   },
@@ -48,7 +48,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231117/1noskn00023pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-023"
   },
@@ -65,7 +65,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230206/TEIqPkEo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-024"
   },
@@ -99,7 +99,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240215/1noskn00028pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-028"
   },
@@ -116,7 +116,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/1jDaF78g/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-033"
   },
@@ -133,7 +133,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/vgcfRIDx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-036"
   },
@@ -150,7 +150,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230619/ncMXc2O3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-037"
   },
@@ -167,7 +167,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230605/M1wphcV2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-038.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-038"
   },
@@ -184,7 +184,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/EohZEgta/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-039"
   },
@@ -201,7 +201,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/Vss9nwse/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-040.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-040"
   },
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/7JO4qovM/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-045.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-045"
   },
@@ -269,7 +269,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/NmOmbjBy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-046"
   },
@@ -286,7 +286,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/TgBJ7t0Q/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-047"
   },
@@ -303,7 +303,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/ocGbYlyH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-048"
   },
@@ -320,7 +320,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/yiiqxA6o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-050"
   },
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250715/rcZPglEG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-051.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-051"
   },
@@ -355,7 +355,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/POq6wouF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-054"
   },
@@ -372,7 +372,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/cK1KSdNm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-055"
   },
@@ -389,7 +389,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/mjsrKFwF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-057.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-057"
   },
@@ -406,7 +406,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/AzLzZinJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-058.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-058"
   },
@@ -423,7 +423,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/U38qd5S9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-059"
   },
@@ -440,7 +440,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/Tskdzhih/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-060"
   },
@@ -458,7 +458,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/dIfMwx8P/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-061"
   },
@@ -475,7 +475,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250716/R4xJmljD/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/702NOSKN-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-063"
   },
@@ -492,7 +492,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/29e7490d0982618d0d3594f5213925c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-001"
   },
@@ -529,7 +529,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/1432ba3bd19707c995048d758c061a0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-002"
   },
@@ -568,7 +568,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/fabb10c8c4dbaa954bf93b3e58a262f7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-003.jpg",
     "actress": [
       "叶ライラ"
     ],
@@ -610,7 +610,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250214/KcMQK2A0/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-005"
   },
@@ -651,7 +651,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-08-16",
-    "cover_url": "https://picture.yoshiclub.xyz/20240816/2fca7a87-b3a0-4a08-86f0-4c7fd44c85a1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-007"
   },
@@ -695,7 +695,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/07/75f37808dddfffd91f16cb8dc4cc3075.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-008"
   },
@@ -736,7 +736,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-11-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031072320188188.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-010"
   },
@@ -773,7 +773,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/dbba46bc/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-011"
   },
@@ -811,7 +811,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/d15e41ba/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-013"
   },
@@ -859,7 +859,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2025-01-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222114602322322.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-015.jpg",
     "actress": [
       "叶ライラ"
     ],
@@ -907,7 +907,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2025-01-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222114722600600.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-016"
   },
@@ -930,7 +930,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-2/2942b055b247dd0024dd97b242043ae2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-022.jpg",
     "actress": [
       "浅倉まいな"
     ],
@@ -1015,7 +1015,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/08/752af828199b7c8686faa4b7a4695a0e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-024"
   },
@@ -1121,7 +1121,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609214720435435_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-027"
   },
@@ -1174,7 +1174,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707204449259259_86026_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-029.jpg",
     "actress": [
       "内藤にこ"
     ],
@@ -1232,7 +1232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722225601171171_20254_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-030.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-030"
   },
@@ -1309,7 +1309,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/67eea4b2/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-032"
   },
@@ -1418,7 +1418,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/24/aaf72ad18c4fd878dfd2cd0c3033a0d7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-034.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-034"
   },
@@ -1476,7 +1476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/fcb72469/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-035"
   },
@@ -1491,7 +1491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/de0a11b7/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AIAV-036.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-036"
   },
@@ -1513,7 +1513,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/d64a12c2fc38b914c5e3299fbe4d089a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-008.jpg",
     "actress": [
       "瀨名光"
     ],
@@ -1537,7 +1537,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/b78c8703fd7277e2507ba87d14048f7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-009.jpg",
     "actress": [
       "月野香澄"
     ],
@@ -1561,7 +1561,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f865e02328c3b834e641f535b3346b25.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-014.jpg",
     "actress": [
       "沙月惠奈"
     ],
@@ -1585,7 +1585,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/917173a716f7ba0f888cb4168786a9cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-023.jpg",
     "actress": [
       "岬櫻"
     ],
@@ -1609,7 +1609,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c8c3a5d022eff5e9e20deb18f337388f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-024.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-024"
   },
@@ -1631,7 +1631,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/d30529e182278002b75254dc9b631ebd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-025.jpg",
     "actress": [
       "皆月光"
     ],
@@ -1648,7 +1648,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240111/Gy97VEhi/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-032.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-032"
   },
@@ -1663,7 +1663,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://pic61.anzise.com/pic/20230828/00a1b59e243519bc63da15b1effe76b2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-037"
   },
@@ -1685,7 +1685,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c12142527b4a0902a78d3aedb09a69fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-040.jpg",
     "actress": [
       "柊有希"
     ],
@@ -1709,7 +1709,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/86b24228793821745605346ad2d643d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-041.jpg",
     "actress": [
       "沙月惠奈"
     ],
@@ -1733,7 +1733,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/17fcc1ca8e9ba84117c4f2cf2624bb90.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-043.jpg",
     "actress": [
       "有村希"
     ],
@@ -1750,7 +1750,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/lviDQ4K9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-044"
   },
@@ -1765,7 +1765,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240207/Zz8FOuij/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-046"
   },
@@ -1788,7 +1788,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/ba533c84c8eb34b35f546dbf5292f4a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-053.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-053"
   },
@@ -1803,7 +1803,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240307/Dsu4qtJY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-055"
   },
@@ -1826,7 +1826,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010002257806806.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-056.jpg",
     "actress": [
       "玉城夏帆"
     ],
@@ -1855,7 +1855,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/3a31bdd4a93fc388b212e8eb7a4c07dc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-064.jpg",
     "actress": [
       "齋藤亞美里",
       "斋藤亚美里"
@@ -1882,7 +1882,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c0f991c6232127f146c5e34be5cbb0b0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-066.jpg",
     "actress": [
       "瀬戸ひなこ"
     ],
@@ -1901,7 +1901,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240111/kB0JbDMO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-068"
   },
@@ -1919,7 +1919,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/iH3VwLIv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-069"
   },
@@ -1934,7 +1934,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240111/dZqafYkp/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-070"
   },
@@ -1949,7 +1949,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240111/trzW0kaC/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-071"
   },
@@ -1964,7 +1964,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240124/k1seSst5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-072"
   },
@@ -1997,7 +1997,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-02-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202022301258258.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-073.jpg",
     "actress": [
       "柊有希"
     ],
@@ -2014,7 +2014,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/IwuDeHwu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-074.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-074"
   },
@@ -2047,7 +2047,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-02-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202022443399399.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-075.jpg",
     "actress": [
       "浜崎真緒"
     ],
@@ -2066,7 +2066,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240221/N6cCsqwY/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-076"
   },
@@ -2081,7 +2081,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240221/2Fdi98st/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-077.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-077"
   },
@@ -2098,7 +2098,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/MHL5r7p2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-078.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-078"
   },
@@ -2113,7 +2113,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/qj1Ei8Dk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-079.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-079"
   },
@@ -2128,7 +2128,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240307/AWfvse8e/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-080.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-080"
   },
@@ -2143,7 +2143,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240321/CHPMvhgS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-081.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-081"
   },
@@ -2187,7 +2187,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240405/b0dac0d0-78ae-4c16-9357-b11e12be8cf5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-082.jpg",
     "actress": [
       "柏木小夏"
     ],
@@ -2236,7 +2236,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/3a5d5dd9-a30e-4bba-8a17-8c18a62d95f6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-083.jpg",
     "actress": [
       "凰華鈴"
     ],
@@ -2288,7 +2288,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240405/6f99a6c1-9182-426d-a0d0-6bec520c264c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-084.jpg",
     "actress": [
       "有加里乃乃花"
     ],
@@ -2343,7 +2343,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/cb941668-6a9b-4a13-9dc3-f01dddbf2b49.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-085.jpg",
     "actress": [
       "虹色久美",
       "霧島さな"
@@ -2363,7 +2363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/N33W3v9i/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-086.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-086"
   },
@@ -2393,7 +2393,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505021342537537.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-087.jpg",
     "actress": [
       "橘瑪麗"
     ],
@@ -2412,7 +2412,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/eoSyfR7l/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-088.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-088"
   },
@@ -2429,7 +2429,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240424/vWccT7Rm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-089.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-089"
   },
@@ -2465,7 +2465,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421083510750750.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-090.jpg",
     "actress": [
       "鳳可怜"
     ],
@@ -2503,7 +2503,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610041159202202.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-091.jpg",
     "actress": [
       "花柳杏奈"
     ],
@@ -2535,7 +2535,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222559389389.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-092.jpg",
     "actress": [
       "水川潤",
       "由爱可奈"
@@ -2572,7 +2572,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505021535301301.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-093.jpg",
     "actress": [
       "彌生美月"
     ],
@@ -2609,7 +2609,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222708571571.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-094.jpg",
     "actress": [
       "市川りく",
       "東城ゆい"
@@ -2649,7 +2649,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624023457936936.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-095.jpg",
     "actress": [
       "月乃露娜"
     ],
@@ -2677,7 +2677,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035041806806.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-096.jpg",
     "actress": [
       "友田彩也香"
     ],
@@ -2700,7 +2700,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-08-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-097.jpg",
     "actress": [
       "久和原聖羅",
       "月美りょう"

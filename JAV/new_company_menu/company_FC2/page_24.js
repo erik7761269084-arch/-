@@ -1,35 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 178368,
-    "IDcode": "FC2-PPV-2958156",
-    "title": "能激起被保护欲的美少女大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2958156"
-  },
-  {
-    "id": 178387,
-    "IDcode": "FC2-PPV-2959512",
-    "title": "乌黑长发的少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/b76003fdbd87499356a5b75114010851.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-2959512"
-  },
-  {
     "id": 178389,
     "IDcode": "FC2-PPV-2959583",
     "title": "可爱咖啡店员",
@@ -1572,5 +1542,35 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3040657"
+  },
+  {
+    "id": 113763,
+    "IDcode": "FC2-PPV-3040973",
+    "title": "在美容院工作的开朗美丽的美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-10-03",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3040973"
+  },
+  {
+    "id": 592080,
+    "IDcode": "FC2-PPV-3042167",
+    "title": "【颜出し】【修正无し】超有名アイドルグループオーディション通过のスレンダー美尻ボディ！ゆきちゃんに追加支援♥回収と撮影で疲れ果てた体の髄まで愈し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://pic45.anzise.com/pic/20230225/04653465bfcac02ef819e9ff4200a8fd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3042167"
   }
 ];

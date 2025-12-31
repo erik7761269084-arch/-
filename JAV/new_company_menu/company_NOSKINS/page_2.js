@@ -17,9 +17,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-08-16",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241013-1/679a9668ab250f816d08a0ed96e959cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-098.jpg",
     "actress": [
-      "天月梓"
+      "天月杏"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-098"
   },
@@ -34,7 +34,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/58642b669b78ea298368a7e5402b4232.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/NOSKN-099.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-099"
   }

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/d0dmtAFJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-001"
   },
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/3Lplmlkt/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-002"
   },
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230506/1kRbXY36/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-003"
   },
@@ -57,7 +57,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/q3AFhERf/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-004"
   },
@@ -72,7 +72,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/HxYDqWZq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-005"
   },
@@ -87,7 +87,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/OGfUHOan/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-006.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-006"
   },
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/6IwWBcFS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-007"
   },
@@ -119,7 +119,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/gHOPotKz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-008"
   },
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230825/ApJ6KUEV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-009.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-009"
   },
@@ -149,7 +149,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230924/jOIRUNIQ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-010.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-010"
   },
@@ -164,7 +164,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/NVz72hqJ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-011.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-011"
   },
@@ -179,7 +179,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912896472c0032a43fe6635/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-012"
   },
@@ -194,7 +194,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690f713b4a81c2286fc0a4f8/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-013.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-013"
   },
@@ -209,7 +209,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907b9cbe264e6282dfd5508/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-014.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-014"
   },
@@ -224,7 +224,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f7e7487de28f4ede9c1386/poster2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-015"
   },
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240423/H18c3k0Q/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-016"
   },
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcbc9ece5a404e9bc35aa8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-017.jpg",
     "actress": [
       "美澄玲衣"
     ],
@@ -304,7 +304,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240701/ljukOVyR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-018"
   },
@@ -319,7 +319,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/TRH0FkD8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-019"
   },
@@ -334,7 +334,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241002/nh3Gnk2y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-020"
   },
@@ -349,7 +349,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/f3e56c783a44922f264efa165afa5696.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-021"
   },
@@ -366,7 +366,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251001-1/5a8c59c611d14dab09f01495b12c4e28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-022.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-022"
   },
@@ -381,7 +381,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/f81ae22d0767cd75ccfaad2451acd2cc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-023"
   },
@@ -420,7 +420,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/1212066b-e457-47bb-91db-93068a05d4e8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-024.jpg",
     "actress": [
       "長谷川れいみ"
     ],
@@ -437,7 +437,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/bb1f1b77bd6c3b4aab06397088dc4816.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-025.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-025"
   },
@@ -452,7 +452,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/6d4c45a17c6c02291e04c9c3b88e9742.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-026"
   },
@@ -467,7 +467,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/116896d4f4a324ede8fc70996eac40f2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-027"
   },
@@ -482,7 +482,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/1cf64c2251ef9567a9158489105a3ac5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-028"
   },
@@ -531,7 +531,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526025415119119_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-029.jpg",
     "actress": [
       "日向理亜"
     ],
@@ -578,7 +578,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-030.jpg",
     "actress": [
       "天宮かすみ"
     ],
@@ -629,7 +629,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688ac9e898bc99dfddd1736a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-031.jpg",
     "actress": [
       "桃瀨日葵"
     ],
@@ -682,7 +682,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0453aeb67774efbac6820/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-032.jpg",
     "actress": [
       "山口由愛"
     ],
@@ -699,7 +699,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "JUMP",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43259dbf24d4ed3011480/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUBE-033.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-033"
   },
@@ -721,39 +721,56 @@ window.PAGE_DATA = [
   {
     "id": 526620,
     "IDcode": "JUKF-014",
-    "title": "先生のことがずっと前から好きでした。 教师の仮面を被った少女爱好家の教え子肉欲",
+    "title": "JUKF-014 我爱我的老师很久了。 伪装成老师的女学生的肉体训练计划 #2.Tae walnut.",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "迷你",
+      "洛丽塔",
+      "单人作品",
+      "美胸",
+      "调教"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2018-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-014.jpg",
+    "actress": [
+      "胡桃多惠"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-014"
   },
   {
     "id": 97727,
     "IDcode": "JUKF-015",
-    "title": "ロリコンおやじと家出少女 御坂りあ",
+    "title": "JUKF-015 恋童癖父亲和离家出走的女孩御坂里亚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "饮尿",
-      "中出",
-      "自慰",
+      "白虎",
       "萝莉塔",
+      "中出",
+      "3P",
+      "自慰",
+      "4P",
+      "美少女",
+      "内射",
+      "洛丽塔",
+      "单人作品",
       "无毛",
       "多P",
-      "美少女"
+      "饮尿"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2018-10-25",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_227jukf015/h_227jukf015pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-015.jpg",
     "actress": [
+      "御坂りあ",
       "御坂莉亚"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-015"
@@ -761,54 +778,80 @@ window.PAGE_DATA = [
   {
     "id": 536961,
     "IDcode": "JUKF-019",
-    "title": "有坂深雪- 兄は私のオナペット みゆきちゃん 有坂深雪",
+    "title": "JUKF-019 JUKF-019 我的弟弟是我的自慰宠物 美雪美雪有坂美雪",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "侮辱",
+      "内射",
+      "妹妹",
+      "单人作品",
+      "女学生",
+      "舔阴"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250802/zKqqomLc/1.jpg",
-    "actress": [],
+    "publish_date": "2019-01-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-019.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-019"
   },
   {
     "id": 214086,
     "IDcode": "JUKF-022",
-    "title": "我的嫂子-浜崎真緒",
+    "title": "JUKF-022 我的嫂子是名井！ 毛，滨崎毛",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "3P",
+      "4P",
+      "美少女",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "素人",
+      "妹妹",
+      "单人作品",
       "人妻"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-06-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-022.jpg",
+    "actress": [
+      "浜崎真緒"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-022"
   },
   {
     "id": 99906,
     "IDcode": "JUKF-024",
-    "title": "めいっこ 思春期の少女の一途すぎる純情な愛情 ゆいちゃん 夏原唯",
+    "title": "JUKF-024 芽衣子、小伊、夏原小伊，一个青春期少女过于纯洁、一心一意的爱情。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美少女电影",
-      "素人作品",
-      "自慰",
-      "女生",
+      "辣妹",
       "平胸",
+      "女生",
+      "美少女电影",
+      "自慰",
+      "迷你",
+      "美少女",
+      "素人",
+      "单人作品",
+      "美胸",
+      "素人作品",
       "瘦小身型"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2019-07-27",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_227jukf024/h_227jukf024pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-024.jpg",
     "actress": [
       "夏原唯"
     ],
@@ -817,39 +860,58 @@ window.PAGE_DATA = [
   {
     "id": 523794,
     "IDcode": "JUKF-026",
-    "title": "むっつりスケベなメガネっ娘 真面目な少女が眼镜を外すとき… るるちゃん 有栖るる",
+    "title": "JUKF-026 戴眼镜的闷闷不乐的肮脏女孩 当严肃的女孩摘下眼镜时...... Ruru-chan Ruru Arisu",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "侮辱",
+      "电动按摩器",
+      "妹妹",
+      "单人作品",
+      "眼镜",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191204-1/22fc58cfe892a8700dea4d3b186d7c88.jpg",
-    "actress": [],
+    "publish_date": "2019-08-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-026.jpg",
+    "actress": [
+      "乙愛麗絲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-026"
   },
   {
     "id": 100014,
     "IDcode": "JUKF-027",
-    "title": "真面目で純真な少女の悩み事「先生おしえてください」 ことねちゃん（147cm） 冬愛ことね",
+    "title": "JUKF-027 严肃而纯真的女孩的烦恼'Sensei oshiete kudasai' Koto-chan（147 厘米），Fuyuai Koto。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "女优按摩棒",
-      "美少女电影",
-      "素人作品",
+      "辣妹",
       "女生",
+      "美少女电影",
+      "迷你",
+      "电动按摩器",
+      "美少女",
+      "内射",
+      "女优按摩棒",
+      "素人",
+      "单人作品",
       "调教",
+      "素人作品",
       "瘦小身型"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68974aff55337d7f7bb62dc5/cover.jpg",
+    "publish_date": "2019-09-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-027.jpg",
     "actress": [
+      "冬愛琴音",
       "冬爱琴音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-027"
@@ -857,52 +919,74 @@ window.PAGE_DATA = [
   {
     "id": 567048,
     "IDcode": "JUKF-030",
-    "title": "めいっこ思春期の少女の一途すぎる纯情な爱情あいりちゃんなつめ爱莉第01集",
+    "title": "JUKF-030 Meaiko 青春期少女过于纯洁和一心一意的爱恋 Aiiri-chan Natsume Airi。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "美少女",
+      "内射",
+      "素人",
+      "单人作品",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-11-23",
+    "cover_url": "https://javd.me/static/movie/69354853e4f11.webp",
+    "actress": [
+      "夏目愛莉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-030"
   },
   {
     "id": 592974,
     "IDcode": "JUKF-031",
-    "title": "_A 连日予约完売の人気デリヘル店“妹く●ぶ”で动いてる年齢不详の少女たち",
+    "title": "JUKF-031 在每天都被抢购一空的人气熟食店 \"Seinokubu \"工作的未知年龄女孩的隐藏镜头 2 四名女孩",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "电动按摩器",
+      "素人",
+      "女招待",
+      "美胸",
+      "偷窥者",
+      "纪录片"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2019-12-28",
+    "cover_url": "https://javd.me/static/movie/69348318466ec.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-031"
   },
   {
     "id": 76799,
     "IDcode": "JUKF-032",
-    "title": "み○ょぱみたいな読モになりたくて上京した【パパ活】専門学校生GAL ひなちゃん 七瀬ひな",
+    "title": "JUKF-032 我来到东京，是为了成为像 Miyoppa Papa Katsudo （职业学校学生 GAL Hina-chan，七濑日奈）那样的读者。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
       "中出",
-      "素人作品",
       "女生",
-      "苗条",
-      "各种职业"
+      "内射",
+      "素人",
+      "单人作品",
+      "各种职业",
+      "素人作品",
+      "巨乳",
+      "辣妹",
+      "苗条"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/1603e9658de11e297ed213a5aa5caa75.jpg",
+    "publish_date": "2019-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-032.jpg",
     "actress": [
       "七海雛"
     ],
@@ -911,24 +995,32 @@ window.PAGE_DATA = [
   {
     "id": 75738,
     "IDcode": "JUKF-033",
-    "title": "近親相姦兄妹 親の目を盗み3日に1回はセックスしてると言い放つ異常性愛者のキ○ガイ兄妹 河北はるな",
+    "title": "JUKF-033 乱伦兄妹，一个异性恋的疯狂兄妹，他偷了父母的眼睛，并声称每三天与父母发生一次性关系 川北春奈。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "乱伦",
       "中出",
-      "女优按摩棒",
+      "3P",
+      "乱伦",
       "美少女电影",
-      "素人作品",
+      "美少女",
+      "电动按摩器",
+      "4P",
       "多P",
-      "妹妹"
+      "女优按摩棒",
+      "妹妹",
+      "侮辱",
+      "单人作品",
+      "素人",
+      "内射",
+      "素人作品",
+      "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/c59dbe0b575a98b20aa781a27ac97b0e.jpg",
+    "publish_date": "2019-12-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-033.jpg",
     "actress": [
       "河北春菜"
     ],
@@ -937,38 +1029,54 @@ window.PAGE_DATA = [
   {
     "id": 533525,
     "IDcode": "JUKF-035",
-    "title": "_B 弟の事が好きすぎるエッチで猟奇的なブラコンお姊ちゃん",
+    "title": "JUKF-035 卡娜（Kana），淘气又怪异的黑人妹妹，太爱她的哥哥卡娜-米萨基-卡娜（Kana Misaki Kana）。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "胸部",
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "妹妹",
+      "素人",
+      "侮辱",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-01-25",
+    "cover_url": "https://javd.me/static/movie/694ad7b8dd265.webp",
+    "actress": [
+      "美咲佳奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-035"
   },
   {
     "id": 75782,
     "IDcode": "JUKF-036",
-    "title": "生活費を稼ぐためにアルバイトに精を出す美少女を口説いて生ハメ本番 【現役JD】レンタル彼女 いちかちゃん 笠木いちか",
+    "title": "JUKF-036 勾引为生计打零工的漂亮女孩，然后活活干死她 活动 JD 出租女友 Ichika Icika-chan Ichika Kasagi",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "女优按摩棒",
-      "美少女电影",
-      "素人作品",
       "自慰",
-      "苗条",
-      "各种职业"
+      "美少女电影",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "女优按摩棒",
+      "素人",
+      "单人作品",
+      "各种职业",
+      "素人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/7073172594cf04a5e066a825bee79c1a.jpg",
+    "publish_date": "2020-02-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-036.jpg",
     "actress": [
       "笠木いちか"
     ],
@@ -977,44 +1085,55 @@ window.PAGE_DATA = [
   {
     "id": 75725,
     "IDcode": "JUKF-037",
-    "title": "少女たちのイケないお遊戯 「こんなにオチ○チン大きくなってるよ 5」10名収録",
+    "title": "JUKF-037 女孩的淘气游戏 \"我的小鸡鸡越来越大了 5\"，包括 10 个。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "恋物癖",
       "乳交",
+      "恋物癖",
+      "恋物",
+      "女生",
       "美少女电影",
+      "美少女",
+      "素人",
+      "手交",
       "手淫",
       "素人作品",
-      "女生"
+      "辣妹"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/af819d7f5d3e8308de3b577b4e79fb62.jpg",
+    "publish_date": "2020-02-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-037.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-037"
   },
   {
     "id": 81704,
     "IDcode": "JUKF-038",
-    "title": "東京援交白書 あいかちゃん 宇佐木あいか",
+    "title": "JUKF-038 东京援助白皮书 、 Aika-chan 、 Aika Usagi 。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "女优按摩棒",
       "第一人称摄影",
-      "自慰",
+      "中出",
       "高中女生",
-      "平胸"
+      "平胸",
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "女优按摩棒",
+      "单人作品",
+      "美胸",
+      "女学生",
+      "主观视角"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2020-03-28",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://javd.me/static/movie/693616c0b6d0a.webp",
     "actress": [
       "宇佐木あいか"
     ],
@@ -1023,23 +1142,29 @@ window.PAGE_DATA = [
   {
     "id": 81740,
     "IDcode": "JUKF-039",
-    "title": "某AV事務所で働く美人女子マネージャーがクライアント相手に肉体接待 「お仕事のためなら何でも言う事を聞きます…」 水谷さん 水谷あおい",
+    "title": "JUKF-039 在某影音公司工作的漂亮女经理为客户提供身体娱乐 \"为了工作，你说什么我都愿意做......\" Mizutani Ms Mizutani Aoi Mizutani",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "羞耻",
-      "中出",
       "第一人称摄影",
-      "女优按摩棒",
+      "中出",
       "自慰",
-      "各种职业"
+      "电动按摩器",
+      "内射",
+      "女优按摩棒",
+      "单人作品",
+      "羞耻",
+      "各种职业",
+      "羞辱",
+      "主观视角"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2020-03-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/62ca697def121370a6bcc21fce9ca8da.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-039.jpg",
     "actress": [
+      "铃木里美",
       "水谷あおい"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-039"
@@ -1047,256 +1172,407 @@ window.PAGE_DATA = [
   {
     "id": 516099,
     "IDcode": "JUKF-040",
-    "title": "在AV事務所工作的巨乳女子經紀人",
+    "title": "JUKF-040 在成人电影公司工作的下流大胸女经理为客户提供身体娱乐 \"老板，让我们和我做很多下流的事情吧！\" 滨崎毛女士",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "主观视角",
       "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0b33031a2714f1c5baf4c/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-04-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-040.jpg",
+    "actress": [
+      "浜崎真緒",
+      "トサカ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-040"
   },
   {
     "id": 516109,
     "IDcode": "JUKF-046",
-    "title": "與來到AV攝影現場的美人化妝師超",
+    "title": "JUKF-046 与前来参加色情电影拍摄的美女化妆师 Yayoi Mizuki Yayoi 女士进行了非常深入的交流。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "主观视角"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed47cb958ac04f273701d9/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-08-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-046.jpg",
+    "actress": [
+      "彌生美月"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-046"
   },
   {
     "id": 539566,
     "IDcode": "JUKF-047",
-    "title": "真面目で纯真な少女の悩み事“先生おしえてください” いちかちゃん（Aカップ） 松本いちか",
+    "title": "JUKF-047 严肃天真少女的烦恼 \"Sensei oshiete kudasai \"松本一花（A-cup）",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "美胸",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-08-22",
+    "cover_url": "https://javd.me/static/movie/694077de47d38.webp",
+    "actress": [
+      "松本一香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-047"
   },
   {
     "id": 539607,
     "IDcode": "JUKF-049",
-    "title": "“进路のことで先生の家に来るように言われました” ゆうはちゃん 桐山结羽",
+    "title": "JUKF-049 我被告知要去老师家讨论我的职业道路，'Yuha-chan，Yuha Kiriyama。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231015/1601209797-h_227jukf049pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2020-09-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-049.jpg",
+    "actress": [
+      "桐香悠裡"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-049"
   },
   {
     "id": 516145,
     "IDcode": "JUKF-050",
-    "title": "為了生活費打工的美OO遊說無套抽",
+    "title": "JUKF-050 勾引为赚取生活费而努力打零工的漂亮女孩，并活活干死她 活动 JD 出租女友夏目爱理子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "苗条"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e212c3d6fbef4e90e08261/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-10-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-050.jpg",
+    "actress": [
+      "夏目愛莉"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-050"
   },
   {
     "id": 516169,
     "IDcode": "JUKF-052",
-    "title": "以對粉絲地下營業賺零用錢指名No",
+    "title": "JUKF-052 Rika Aimi 是头号个人写真偶像，她通过向前来参加私人写真会的粉丝秘密出售写真来赚取提名和零花钱。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "3P",
+      "4P",
+      "美少女",
+      "内射",
+      "单人作品",
+      "偶像",
+      "各种职业",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcf2edce5a404e9bc466e6/cover.jpg",
-    "actress": [],
+    "publish_date": "2020-12-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-052.jpg",
+    "actress": [
+      "逢見梨花"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-052"
   },
   {
     "id": 516163,
     "IDcode": "JUKF-054",
-    "title": "巨乳專門・出租妹妹 椿莉香",
+    "title": "JUKF-054 巨乳专家，出租 Rika-chan Rika Tsubaki 的妹妹",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "乱伦"
+      "乱伦",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dee09bdbf24d4ed317f726/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-01-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-054.jpg",
+    "actress": [
+      "椿莉香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-054"
   },
   {
     "id": 540030,
     "IDcode": "JUKF-056",
-    "title": "パパ活女子校生 みつきちゃん（板桥区在住） 渚みつき",
+    "title": "JUKF-056 爸爸的女学生，东京都板桥区的居民 Mitsuki Nagisa",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "女学生"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-02-27",
+    "cover_url": "https://javd.me/static/movie/69418cddd2fbf.webp",
+    "actress": [
+      "渚光希"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-056"
   },
   {
     "id": 540029,
     "IDcode": "JUKF-057",
-    "title": "父子家庭の一人娘 片亲の家庭环境で育まれた父亲思いで真面目な女の子 なるみちゃん 広瀬なるみ",
+    "title": "JUKF-057 Narumi，Narumi Hirose，是一对父子家中的独生女，一个在单亲家庭环境中长大的父亲般认真的女孩。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "乱伦",
+      "自慰",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "校服",
+      "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240618/1614601342-h_227jukf057pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-02-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-057.jpg",
+    "actress": [
+      "廣瀨成美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-057"
   },
   {
     "id": 540014,
     "IDcode": "JUKF-059",
-    "title": "【神待ち】家出少女 行く当てもない无知で纯粋な少女に行っていた少女爱好家の调教记录 えりなちゃん 丘えりな",
+    "title": "JUKF-059 一个女孩的情人去找一个离家出走的女孩，一个无知而纯洁、无处可去的女孩--艾丽娜-希尔的训练记录。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240527/1616932823-h_227jukf059pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-03-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-059.jpg",
+    "actress": [
+      "丘惠理奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-059"
   },
   {
     "id": 539989,
     "IDcode": "JUKF-062",
-    "title": "青い果実 ひかるちゃん 皆月ひかる",
+    "title": "JUKF-062 蓝色水果 Hikaru-chan Hikaru Minazuki",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "自慰",
+      "迷你",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "美胸",
+      "主观视角",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240509/h_227jukf062pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-05-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-062.jpg",
+    "actress": [
+      "皆月光"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-062"
   },
   {
     "id": 539988,
     "IDcode": "JUKF-063",
-    "title": "父亲が暗金で作った借金の肩代わりをさせられた不幸な女子大生 债务者の娘 かんな 美咲かんな",
+    "title": "JUKF-063 不幸的大学生被迫承担父亲用黑市资金制造的债务 债务人的女儿 加奈 美咲 加奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "3P",
+      "乱伦",
+      "自慰",
+      "4P",
+      "电动按摩器",
+      "单人作品",
+      "巨乳",
+      "大学生"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240509/h_227jukf063pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-05-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-063.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-063"
   },
   {
     "id": 539973,
     "IDcode": "JUKF-065",
-    "title": "进路のことで先生の家に来るように言われました れなちゃん あおいれな",
+    "title": "JUKF-065 我被邀请去老师家讨论我的职业道路 Rena-chan Rena Aioi",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "美胸",
+      "校服",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240421/h_227jukf065pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-07-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-065.jpg",
+    "actress": [
+      "葵玲奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-065"
   },
   {
     "id": 516261,
     "IDcode": "JUKF-068",
-    "title": "为了偿还奖学金用交友软体与认识的",
+    "title": "JUKF-068 水谷葵是一位美丽的银行职员，她爱上了一位富豪的儿子，而这位富豪的儿子是她在一个配对应用程序上认识的，为了还清奖学金，她使用了这个应用程序。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "苗条"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08b0452c12b4e68102720/cover.jpg",
-    "actress": [],
+    "publish_date": "2021-08-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-068.jpg",
+    "actress": [
+      "铃木里美"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-068"
   },
   {
     "id": 539933,
     "IDcode": "JUKF-070",
-    "title": "パパ活女子校生 さらちゃん（江东区在住） 加贺美さら",
+    "title": "JUKF-070 爸爸的女学生莎拉（居住在江东区），日本加贺见",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "女学生"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240325/h_227jukf070pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-09-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-070.jpg",
+    "actress": [
+      "加賀美さら"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-070"
   },
   {
     "id": 85043,
     "IDcode": "JUKF-072",
-    "title": "噂の女子校生地下アイドル おっさんのファンと小遣い稼ぎの個人営業 なつちゃん 東條なつ",
+    "title": "JUKF-072 女校面团下的传闻偶像--与老男人的粉丝东条夏夏私下推销赚钱。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "女优按摩棒",
-      "美少女电影",
-      "偶像",
+      "高中女生",
       "自慰",
-      "高中女生"
+      "美少女电影",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "女优按摩棒",
+      "偶像",
+      "单人作品",
+      "女学生"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2021-11-27",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230118-1/32e2a87c7545133c25f042e1a7c812d6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-072.jpg",
     "actress": [
       "東條夏"
     ],
@@ -1305,189 +1581,307 @@ window.PAGE_DATA = [
   {
     "id": 539869,
     "IDcode": "JUKF-074",
-    "title": "従妹と従兄 まおちゃん 浜崎真绪",
+    "title": "JUKF-074 表哥和表姐滨崎步毛子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240307/h_227jukf074pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2021-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-074.jpg",
+    "actress": [
+      "浜崎真緒"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-074"
   },
   {
     "id": 539842,
     "IDcode": "JUKF-076",
-    "title": "青い果実 みつきちゃん 広瀬みつき",
+    "title": "JUKF-076 蓝果光子 广濑光子",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "自慰",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "美胸",
+      "主观视角"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://pic24.anzise.com/pic/20220517/6bf485a42f9a8330291458174c1d6efd/1.jpg",
-    "actress": [],
+    "publish_date": "2022-01-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-076.jpg",
+    "actress": [
+      "広瀬みつき"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-076"
   },
   {
     "id": 539841,
     "IDcode": "JUKF-077",
-    "title": "进路の事で先生の家に呼ばれました… えなちゃん 沙月恵奈",
+    "title": "JUKF-077 我被叫到老师家讨论我的职业道路...... Ena-chan Ena Sazuki",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "校服",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240228/h_227jukf077pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-01-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-077.jpg",
+    "actress": [
+      "沙月惠奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-077"
   },
   {
     "id": 539801,
     "IDcode": "JUKF-078",
-    "title": "めいっこ 思春期の少女の一途すぎる纯情な爱情 槻羽ちゃん 合原槻羽",
+    "title": "JUKF-078 Meyko：一个青春期女孩过于纯洁的爱，Tsukiha-chan，Tsukiha Gohara。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240210/h_227jukf078pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-02-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-078.jpg",
+    "actress": [
+      "合原槻羽"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-078"
   },
   {
     "id": 539756,
     "IDcode": "JUKF-080",
-    "title": "某AV事务所で动く美人女子マネージャーがクライアント相手に肉体接待 “社长の言う通りにしたら本当にお仕事”",
+    "title": "JUKF-080 在某色情经纪公司工作的漂亮女经理为客户提供身体娱乐 \"如果我按老板说的做，你真的会给我一份工作吗？ Hoshi 女士，Ameri Hoshi",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "羞辱"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240131/h_227jukf80pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-03-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-080.jpg",
+    "actress": [
+      "雨村梨花"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-080"
   },
   {
     "id": 539755,
     "IDcode": "JUKF-081",
-    "title": "“オチンチン大きくなっちゃったから一绪にオナニーしよっか！？” 広告を见て小遣い欲しさでやって来た女の子に行",
+    "title": "JUKF-081 我的鸡巴越来越大了，你想让我和你一起自慰吗！\"？ 一个女孩看到广告后为了零花钱离家出走 (3) 含 8 人。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "用户投稿",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "震动",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240131/h_227jukf81pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-03-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-081.jpg",
+    "actress": [
+      "天馬唯",
+      "沙月惠奈",
+      "東條夏",
+      "花衣つばき",
+      "広瀬みつき",
+      "加賀美さら",
+      "有村千佳",
+      "江本あやみ"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-081"
   },
   {
     "id": 539733,
     "IDcode": "JUKF-082",
-    "title": "従妹と従兄 みおちゃん 一条みお",
+    "title": "JUKF-082 表姐和表妹 Mio-chan Mio Ichijo，带内裤和新鲜照片",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240124/h_227jukf082pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-04-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-082.jpg",
+    "actress": [
+      "一条美緒"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-082"
   },
   {
     "id": 566077,
     "IDcode": "JUKF-083",
-    "title": "巨乳専门・妹レンタル みすずちゃん",
+    "title": "JUKF-083 大胸专家和妹妹出租 Misuzu Misuzu Mifune 的内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
       "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6649afb42a02ff2d3e390966699e2dd3.jpg",
-    "actress": [],
+    "publish_date": "2022-04-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-083.jpg",
+    "actress": [
+      "三舩美鈴"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-083"
   },
   {
     "id": 539696,
     "IDcode": "JUKF-085",
-    "title": "真面目で纯真な少女の悩み事“先生おしえてください” みいろちゃん 七咲みいろ",
+    "title": "JUKF-085 Sensei Oshiete kudasai Miiro-chan，Miiro Nanasaki，带内裤和新鲜照片，严肃而纯真的女孩的烦恼。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240116/h_227jukf085pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-05-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-085.jpg",
+    "actress": [
+      "百咲未色"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-085"
   },
   {
     "id": 539669,
     "IDcode": "JUKF-086",
-    "title": "パパ活女子校生 いちかちゃん（足立区在住） 笠木いちか",
+    "title": "JUKF-086 FANZA 独家 爸爸的女学生 Icika-chan（住在足立区） Ichika Kasagi 内衣和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "女学生"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231224/h_227jukf086pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-06-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-086.jpg",
+    "actress": [
+      "笠木いちか"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-086"
   },
   {
     "id": 530198,
     "IDcode": "JUKF-087",
-    "title": "沙月芽衣 以对粉丝地下营业赚零用钱指名No",
+    "title": "JUKF-087 FANZA 独家报道 Mae-chan Satsuki Mei 是个人写真偶像第一名，她通过向前来参加私人写真会的粉丝秘密出售内裤和新鲜照片来赚取提名和零花钱。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "美少女",
+      "内射",
+      "单人作品",
+      "偶像",
+      "各种职业",
+      "巨乳",
+      "苗条"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241121-1/dfccd06765a979d93171973bef3261da.jpg",
-    "actress": [],
+    "publish_date": "2022-06-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-087.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-087"
   },
   {
     "id": 85029,
     "IDcode": "JUKF-088",
-    "title": "【FANZA限定】噂の女子校生地下アイドル おっさんのファンと小遣い稼ぎの個人営業 ほたるちゃん 乃木蛍 パンティと生写真付き",
+    "title": "JUKF-088  FANZA独家 女校面团下的传闻偶像--与老男人的粉丝一起私下销售赚取零花钱的野木穂春--内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "单体作品",
-      "女优按摩棒",
-      "美少女电影",
-      "偶像",
+      "高中女生",
       "自慰",
-      "高中女生"
+      "美少女电影",
+      "美少女",
+      "电动按摩器",
+      "女优按摩棒",
+      "偶像",
+      "单人作品",
+      "女学生",
+      "单体作品"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2022-08-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/f16a376d546d4e0152f99cd185bd05a0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-088.jpg",
     "actress": [
       "乃木蛍"
     ],
@@ -1496,41 +1890,54 @@ window.PAGE_DATA = [
   {
     "id": 566076,
     "IDcode": "JUKF-089",
-    "title": "思春期の娘 父亲に恋するメンヘラ少女の狂気の恋心 なつちゃん",
+    "title": "JUKF-089 FANZA 独家 青春期的女儿：门格尔女孩与父亲夏子的疯狂恋情 东条夏子 内附内裤和清新写真。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦"
+      "乱伦",
+      "自慰",
+      "迷你",
+      "侮辱",
+      "内射",
+      "单人作品",
+      "校服"
     ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2f575f0223e7845af8a17c5adeb440a0.jpg",
-    "actress": [],
+    "publish_date": "2022-08-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-089.jpg",
+    "actress": [
+      "東條夏"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-089"
   },
   {
     "id": 85006,
     "IDcode": "JUKF-090",
-    "title": "【FANZA限定】美少女専科・レンタル彼女 まおちゃん 浜崎真緒 パンティと生写真付き",
+    "title": "JUKF-090 FANZA 独家 比绍城千家、出租女友、毛子、滨崎步毛子，附内裤和清新写真。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "单体作品",
       "中出",
-      "女优按摩棒",
-      "美少女电影",
       "自慰",
-      "各种职业"
+      "美少女电影",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "女优按摩棒",
+      "单人作品",
+      "各种职业",
+      "巨乳",
+      "单体作品"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2022-08-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/e8989c33990e4a8dfcd00d98a1e57f97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-090.jpg",
     "actress": [
+      "浜崎真緒",
       "浜崎真绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-090"
@@ -1538,159 +1945,255 @@ window.PAGE_DATA = [
   {
     "id": 539464,
     "IDcode": "JUKF-091",
-    "title": "“オチンチン大きくなっちゃったから一绪にオナニーしよっか！？” 広告を见て小遣い欲しさでやって来た女の子",
+    "title": "JUKF-091  FANZA独家 \"我的鸡巴长这么大了，我们一起自慰吧！\" 在看到我们的广告后，为了零花钱来找我们的女孩们所做的失控行为（4），包含 8 个女孩，附带内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "用户投稿",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "震动",
+      "辣妹"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230814/pb_e_577jukf-091.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2022-10-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-091.jpg",
+    "actress": [
+      "沙月芽衣",
+      "乃木蛍",
+      "百咲未色",
+      "笠木いちか",
+      "雨村梨花",
+      "三舩美鈴",
+      "花崎こはる",
+      "合原槻羽"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-091"
   },
   {
     "id": 566074,
     "IDcode": "JUKF-093",
-    "title": "神待ち家出少女 ゆめるちゃん",
+    "title": "JUKF-093 FANZA 独家 等着上帝的离家出走少女小石梦如（Yume-chan Yume-chan Kotishi Yume-ru）的内裤和清新写真。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "迷你",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "震动"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5a43a252e54fb693b29ac0b066879129.jpg",
-    "actress": [],
+    "publish_date": "2022-11-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-093.jpg",
+    "actress": [
+      "琴石ゆめる"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-093"
   },
   {
     "id": 534976,
     "IDcode": "JUKF-095",
-    "title": "レンタル彼女 せなちゃん 香澄せな",
+    "title": "JUKF-095 FANZA 独家 出租女友 Sena-chan Sena Kasumi，带内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/h_227jukf095pl.jpg!320x216.jpg",
-    "actress": [],
+    "publish_date": "2023-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-095.jpg",
+    "actress": [
+      "香澄せな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-095"
   },
   {
     "id": 539505,
     "IDcode": "JUKF-096",
-    "title": "噂の女子校生地下アイドル おっさんのファンと小遣い稼ぎの个人営业 ののかちゃん 佐藤ののか",
+    "title": "JUKF-096 FANZA 独家报道 女校面团下的传闻偶像--为赚零花钱与老男人的粉丝佐藤野冈进行私下销售，并附带内裤和原始照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "偶像",
+      "单人作品",
+      "女学生",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230414/6bXar37o/1.jpg",
-    "actress": [],
+    "publish_date": "2023-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-096.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-096"
   },
   {
     "id": 539504,
     "IDcode": "JUKF-097",
-    "title": "仕事が欲しくてAV制作会社の监督面接でやってきた女の子たちに行っていた职権乱用の一部始终… 8名収录",
+    "title": "JUKF-097 在整个过程中，滥用职权对待那些因为想要一份工作而前来参加色情制作公司导演面试的女孩......其中包括 8 个人。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "各种职业",
+      "震动"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230414/icdbUitb/1.jpg",
+    "publish_date": "2023-03-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-097.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-097"
   },
   {
     "id": 539503,
     "IDcode": "JUKF-099",
-    "title": "めいっこ 芽衣ちゃん さつき芽衣",
+    "title": "JUKF-099 FANZA 独家 Meikko Mei Satsuki Mei 与内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "震动",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230715/9i7Q8jCy/1.jpg",
-    "actress": [],
+    "publish_date": "2023-05-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-099.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-099"
   },
   {
     "id": 539554,
     "IDcode": "JUKF-100",
-    "title": "真面目で纯真な少女の悩み事“先生おしえてください” りえなちゃん 二之宫りえな",
+    "title": "JUKF-100 FANZA 独家报道：\"老师，请帮帮我\"（Sensei oshiete kudasai）二宫璃奈（Riena Ninomiya）的内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/q4KgIBn4/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-100.jpg",
+    "actress": [
+      "二之宮りえな"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-100"
   },
   {
     "id": 539553,
     "IDcode": "JUKF-101",
-    "title": "某AV事务所で动く美人女子マネージャーがクライアント相手に肉体接待 “社长の言う通りにしたら本当にお仕事いただけますか？”",
+    "title": "JUKF-101 FANZA独家 某AV公司的美女经理为客户提供身体娱乐--\"如果我按老板说的做，你真的会给我一份工作吗？ 近野光女士与内裤和新鲜照片",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "羞辱"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230727/aWkzZGk6/1.jpg",
-    "actress": [],
+    "publish_date": "2023-07-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-101.jpg",
+    "actress": [
+      "绀野光"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-101"
   },
   {
     "id": 539583,
     "IDcode": "JUKF-102",
-    "title": "＃同人AV SNSで知り合った里垢女子 めぐ 三尾めぐ",
+    "title": "JUKF-102 FANZA 独家报道 #豆神 AV：美琴，我在社交网站上认识的一个女孩，穿着内裤，照片很清新。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "大学生",
+      "苗条"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/0Cnu8Fa9/1.jpg",
-    "actress": [],
+    "publish_date": "2023-08-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-102.jpg",
+    "actress": [
+      "三尾惠"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-102"
   },
   {
     "id": 18899,
     "IDcode": "JUKF-103",
-    "title": "外語班老師 濱崎真央先生",
+    "title": "JUKF-103 FANZA 独家 外语课教师滨崎步女士（Mao Hamasaki）与内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "打手槍",
-      "巨乳",
       "蒙面・面罩",
-      "其他職業",
       "中出",
       "黑絲",
+      "打手槍",
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "其他職業",
+      "单人作品",
+      "按摩棒",
       "姐姐・妹妹",
-      "按摩棒"
+      "各种职业",
+      "姐姐",
+      "巨乳"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2023-08-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20230827/20230827023911823823.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-103.jpg",
     "actress": [
       "浜崎真緒"
     ],
@@ -1699,145 +2202,217 @@ window.PAGE_DATA = [
   {
     "id": 539582,
     "IDcode": "JUKF-104",
-    "title": "仕事が欲しくてAV制作会社の监督面接でやってきた女の子たちに行っていた职権乱用の一部始终…（2） 8名収录",
+    "title": "JUKF-104 因为想要一份工作而到 AV 制作公司参加导演面试的女孩们被滥用职权的整个过程...... (2) 包含 8 人。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "各种职业",
+      "震动"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230826/RS12SeW1/1.jpg",
+    "publish_date": "2023-08-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-104.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-104"
   },
   {
     "id": 539598,
     "IDcode": "JUKF-105",
-    "title": "美少女専科・レンタル彼女 美桜ちゃん 野咲美桜",
+    "title": "JUKF-105 FANZA 独家 Bishojo Senka、Rental Girlfriend、Miura-chan、Miura Nozaki，附内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "各种职业",
+      "姐姐",
+      "巨乳"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230924/cwKHyZOS/1.jpg",
-    "actress": [],
+    "publish_date": "2023-09-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-105.jpg",
+    "actress": [
+      "野咲美桜"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-105"
   },
   {
     "id": 539597,
     "IDcode": "JUKF-106",
-    "title": "个人撮影会にやってくるファン相手に○秘営业で指名と小遣いを稼ぐNo.1个撮アイドル みつきちゃん 渚みつき",
+    "title": "JUKF-106 FANZA 独家 No.1 偶像美津纪长纱美津纪与内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "3P",
+      "4P",
+      "美少女",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "偶像",
+      "各种职业",
+      "震动",
+      "苗条"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230924/rgf7WU5w/1.jpg",
-    "actress": [],
+    "publish_date": "2023-09-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-106.jpg",
+    "actress": [
+      "渚光希"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-106"
   },
   {
     "id": 516988,
     "IDcode": "JUKF-107",
-    "title": "思春期的女兒 皆月光",
+    "title": "JUKF-107 FANZA 独家 青春期女儿 Hikaru-chan Hikaru Minazuki，内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "侮辱",
+      "内射",
+      "单人作品",
+      "校服"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f215d252c12b4e6850a429/cover.jpg",
-    "actress": [],
+    "publish_date": "2023-12-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-107.jpg",
+    "actress": [
+      "皆月光"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-107"
   },
   {
     "id": 547117,
     "IDcode": "JUKF-108",
-    "title": "その教师、少女爱好家につき…",
+    "title": "JUKF-108 FANZA 独家 那个老师是个女孩的情人......长崎浅海 内附内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "电动按摩器",
+      "内射",
+      "单人作品",
+      "校服"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/9exjKW7P/1.jpg",
-    "actress": [],
+    "publish_date": "2023-12-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-108.jpg",
+    "actress": [
+      "朝海凪咲"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-108"
   },
   {
     "id": 547115,
     "IDcode": "JUKF-109",
-    "title": "某地方都市でモデル募集をしてるAVプロダクションの面接にやってきた女の子たちに行っていた职権乱",
+    "title": "JUKF-109 一家成人电影制作公司在某地区城市招聘模特，对前来面试的女孩实施了滥用职权的整个过程...",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "恋物",
+      "自慰",
+      "美少女",
+      "电动按摩器",
+      "各种职业",
+      "震动"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231221/VjQwaE25/1.jpg",
+    "publish_date": "2023-12-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-109.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-109"
   },
   {
     "id": 546703,
     "IDcode": "JUKF-111",
-    "title": "ロリコンおやじと家出少女",
+    "title": "JUKF-111 FANZA 独家报道 恋童癖父亲与离家出走女孩 Sara Mashiro 的内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "自慰",
+      "迷你",
+      "美少女",
+      "4P",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "美胸"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240123/1fAu0n7M/1.jpg",
-    "actress": [],
+    "publish_date": "2024-01-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-111.jpg",
+    "actress": [
+      "真白さら"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-111"
   },
   {
     "id": 16177,
     "IDcode": "JUKF-112",
-    "title": "同人AV沙月惠奈，我在SNS上認識的女孩",
+    "title": "JUKF-112 FANZA 独家 #斗神 AV：在社交网站上认识的后台女孩 Ena Sazuki，内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "少女",
-      "舔陰",
+      "潮吹",
+      "电动按摩器",
+      "性感",
+      "按摩棒",
+      "跳蛋",
+      "女上位",
+      "絕頂高潮",
+      "JK校服",
+      "美少女",
+      "自宅",
+      "内射",
+      "单人作品",
+      "胸控・戀乳癖",
+      "美乳",
       "淫亂",
       "中出",
       "美少女電影",
-      "自宅",
-      "美少女",
-      "按摩棒",
-      "絕頂高潮",
-      "顏射",
-      "手指插入",
-      "騎乗位",
-      "制服",
-      "美乳",
       "口交",
+      "騎乗位",
+      "女学生",
+      "舔陰",
       "巨乳",
-      "潮吹",
-      "自慰",
-      "女上位",
-      "胸控・戀乳癖",
       "後入",
-      "JK校服",
-      "性感",
-      "跳蛋"
+      "制服",
+      "自慰",
+      "手指插入",
+      "顏射"
     ],
     "type": "有码",
     "company": "JUMP",
     "publish_date": "2024-02-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20240220/9103d50c-f33d-4a6e-a8a6-55ac80a49691.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-112.jpg",
     "actress": [
       "沙月惠奈"
     ],
@@ -1846,31 +2421,51 @@ window.PAGE_DATA = [
   {
     "id": 550375,
     "IDcode": "JUKF-113",
-    "title": "青い果実 那奈ちゃん 希咲那奈",
+    "title": "JUKF-113 FANZA 独家 蓝果娜娜-木崎，带内裤和新鲜照片。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "白虎",
+      "自慰",
+      "侮辱",
+      "内射",
+      "电动按摩器",
+      "单人作品",
+      "美胸",
+      "主观视角"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240222/OGlOdWIv/1.jpg",
-    "actress": [],
+    "publish_date": "2024-02-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-113.jpg",
+    "actress": [
+      "希咲那奈"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-113"
   },
   {
     "id": 462163,
     "IDcode": "JUKF-114",
-    "title": "思春期的女兒 光希 渚光希",
+    "title": "JUKF-114 FANZA 独家专访 青春期的女儿，Mitsuki Nagisa，新鲜照片和内裤。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "自慰",
+      "迷你",
+      "侮辱",
+      "内射",
+      "单人作品",
+      "校服"
+    ],
     "type": "有码",
     "company": "JUMP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec031a52c12b4e68460f15/cover.jpg",
-    "actress": [],
+    "publish_date": "2024-04-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/JUKF-114.jpg",
+    "actress": [
+      "渚光希"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-114"
   }
 ];

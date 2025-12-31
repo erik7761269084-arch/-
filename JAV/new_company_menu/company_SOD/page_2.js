@@ -1,77 +1,446 @@
 window.PAGE_DATA = [
   {
+    "id": 521716,
+    "IDcode": "AVOP-204",
+    "title": "AVOP-204 明日香凛 AV 首播 时空武者学园猎人 。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "出道作",
+      "4小时以上",
+      "美少女",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2016-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-204.jpg",
+    "actress": [
+      "飞鸟铃",
+      "森林原人",
+      "大岛丈",
+      "杉浦树"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-204"
+  },
+  {
+    "id": 566795,
+    "IDcode": "AVOP-404",
+    "title": "AVOP-404 百聞不如一見！SOD都是真的、帯大家体験情色文化的最先端―日本！改編自真実案例 影像介紹日本観光須注意事項全片中文発音 東京肉穴淫語痴女物語",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妄想",
+      "中文字幕",
+      "脏话",
+      "主观视角",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/AVOP-404.jpg",
+    "actress": [
+      "波多野结衣",
+      "橘瑪麗",
+      "大槻响",
+      "本庄鈴",
+      "南梨央奈",
+      "北川レイラ",
+      "ウー・ウォンリン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-404"
+  },
+  {
+    "id": 70344,
+    "IDcode": "DSVR-1668",
+    "title": "DSVR-1668 VR 8K 魔镜三人房 NTR美容术 当她和她的朋友在两边被干的时候，我也被一个淫荡的美容师干了...... 上木玲 下降特辑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "美容院",
+      "白天出轨",
+      "美容店",
+      "VR",
+      "乳液",
+      "NTR",
+      "荡妇",
+      "润滑液"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-02-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DSVR-1668.jpg",
+    "actress": [
+      "倉木詩織",
+      "神木麗",
+      "如月りいさ",
+      "辻櫻"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSVR-1668"
+  },
+  {
+    "id": 66375,
+    "IDcode": "DSVR-1669",
+    "title": "DSVR-1669 VR 8K Sin Succubus VR Rei Kamiki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "重口味",
+      "单体作品",
+      "下流",
+      "内射",
+      "VR",
+      "淫乱，真实",
+      "中出",
+      "荡妇",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-04-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/DSVR-1669.jpg",
+    "actress": [
+      "倉木詩織",
+      "神木麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSVR-1669"
+  },
+  {
+    "id": 407116,
+    "IDcode": "EMOI-003",
+    "title": "EMOI-003 Emo girl / Shameful AV performance (debut) / Rina Hinata (22) / First year in the workforce / Height 148 cm / B cups / Moving to Tokyo 3 months / Personality \"sweetheart\" / Type of man \"gentle man\" / First experience \"16 years old.有男朋友\" / AV \"熟人介",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "美少女",
+      "素人",
+      "单人作品",
+      "主观视角",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-04-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-003.jpg",
+    "actress": [
+      "日向理名"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-003"
+  },
+  {
+    "id": 530495,
+    "IDcode": "EMOI-004",
+    "title": "EMOI-004 Emo girl / 3rd shoot / First studio shoot / AV-like sex / Emi Ryoufu (23) / In a bright light place / Very nervous / Pow, stringy / Sticky pussy juice.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "美少女",
+      "苗条",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-04-28",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-004.jpg",
+    "actress": [
+      "前乃菜菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-004"
+  },
+  {
+    "id": 530497,
+    "IDcode": "EMOI-008",
+    "title": "EMOI-008 Emo girl/5th shooting/first Nakadashi/imersion/spanking/choking/I'm sorry I'm such a dirty girl/Emi Ryokaze (23)。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "内射",
+      "素人",
+      "单人作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-05-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-008.jpg",
+    "actress": [
+      "前乃菜菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-008"
+  },
+  {
+    "id": 459225,
+    "IDcode": "EMOI-010",
+    "title": "EMOI-010 Emo girl/fourth filming/oil massage ikase/dekachin masseuse/stealing style fixed-point camera/148 cm tall/B cup/ Rina Hinata (22).",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "素人",
+      "单人作品",
+      "润滑液",
+      "按摩",
+      "偷窥者",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-05-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-010.jpg",
+    "actress": [
+      "日向理名"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-010"
+  },
+  {
+    "id": 159844,
+    "IDcode": "EMOI-012",
+    "title": "EMOI-012 Emo girl/first time dekachin/oil massage ikase/ Miss i●2021 entry confirmed！/ D罩杯 / 身高155cm / 大学二年级在读 / 渡边毛（19岁）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "素人",
+      "单人作品",
+      "润滑液",
+      "按摩"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-06-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-012.jpg",
+    "actress": [
+      "有村千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-012"
+  },
+  {
+    "id": 176859,
+    "IDcode": "EMOI-032",
+    "title": "EMOI-032  第 2 部分 关于不忠实的渡边先生和一心一意、宽容大度的我的四分之一世纪的故事--大学时代--渡边茂。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "剧情",
+      "素人",
+      "单人作品",
+      "女学生",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-12-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-032.jpg",
+    "actress": [
+      "有村千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-032"
+  },
+  {
+    "id": 176855,
+    "IDcode": "EMOI-034",
+    "title": "EMOI-034 对我有好感的邻居春酱 宝宝射了没关系，就射到阴道里吧 迷你身高142cm",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "迷你",
+      "内射",
+      "制服",
+      "主观视角",
+      "校服",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-11-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-034.jpg",
+    "actress": [
+      "工藤拉拉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-034"
+  },
+  {
+    "id": 174229,
+    "IDcode": "EMOI-038",
+    "title": "EMOI-038 三人行（解放）中连续 2 次获得第一名的 Nakadashi / 湘南约会 / W 大学在校生 / 短发适合她 / Mao Watanabe (20).",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "4P",
+      "内射",
+      "素人",
+      "单人作品",
+      "大学生",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-01-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-038.jpg",
+    "actress": [
+      "有村千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-038"
+  },
+  {
+    "id": 544319,
+    "IDcode": "EMOI-040",
+    "title": "EMOI-040 在棒球场兼职拉拉队长/在更衣室玩火 ◆Nakadashi/与梦想中的棒球手独处...... /主观色情/身高168厘米/本条杉 (20)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白虎",
+      "内射",
+      "高挑",
+      "素人",
+      "单人作品",
+      "Cosplay",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-01-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/EMOI-040.jpg",
+    "actress": [
+      "本上麦"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOI-040"
+  },
+  {
+    "id": 13729,
+    "IDcode": "FTAV-001",
+    "title": "FTAV-001 I'm getting married in the summer\" I-cup, active nurse, 22 years, Kimitsu City, Chiba County, not part of a production company, natural big-breasted woman living in the countryside, AV DEBUT from SOFT ON DEMAND as an amateur Yu Sasamoto (暂定) \"Ord",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "護士",
+      "出道作品",
+      "美乳",
+      "出道作",
+      "業餘",
+      "企畫",
+      "素人",
+      "单人作品",
+      "巨乳",
+      "护士"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-001"
+  },
+  {
     "id": 13130,
     "IDcode": "FTAV-002",
-    "title": "夏天我就要結婚了。 I cup的現役護士，22歲，千葉縣君津市，不隸屬於任何AV公司，住在鄉下的天然巨乳女人第二次登場。SOD的素人女優笹本ゆう（暫定）",
+    "title": "FTAV-002 I-cup，现役护士，22 岁，千叶县君津市，非制作公司职员，住在乡下的天然大胸女性， 第二次以业余身份出现在 SOFT ON DEMAND 节目中 笹本优（暂定）：\"平常的日子里，我就在想这样能不能结婚。我想更多地享受作为女人的乐趣...... \"她的未婚夫...",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "少女",
-      "豐滿",
-      "出軌",
+      "潮吹",
+      "浴衣",
+      "素人",
       "溫泉",
+      "出軌",
+      "4K",
+      "女上位",
+      "絕頂高潮",
+      "美少女",
       "旅行",
+      "单人作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "乳交",
       "中出",
       "美少女電影",
-      "劇情",
-      "美少女",
-      "絕頂高潮",
-      "色白",
-      "騎乗位",
-      "素人",
-      "美乳",
       "口交",
+      "色白",
+      "劇情",
+      "騎乗位",
+      "主观视角",
       "巨乳",
-      "潮吹",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
       "後入",
+      "豐滿",
       "NTR"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2024-07-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240723/9b34b617-5fb8-4848-9221-2994553248a0.jpg",
-    "actress": [],
+    "publish_date": "2024-08-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-002.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-002"
   },
   {
     "id": 11730,
     "IDcode": "FTAV-003",
-    "title": "虽然爱着他但是-笹本优",
+    "title": "FTAV-003 I罩杯，现役护士，22岁，千叶县君津市，非制作公司，居住在乡下的天然大胸女性，第四次以业余身份为 SOFT ON DEMAND 出镜。Yuu Sasamoto（暂定） 7 个小时，在未婚夫出差的新房里，她的婚姻生活即将开始，4 个通过 SNS 连接的邻居老二同时拜访她，并在屋子里到处做爱，潮吹和精液都有，之后，就很难收拾了。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蕩婦",
-      "亂交 • 群P",
-      "人妻",
       "兩男一女",
+      "素人",
+      "亂交 • 群P",
+      "女上位",
+      "3P",
+      "絕頂高潮",
+      "4P",
+      "单人作品",
+      "胸控・戀乳癖",
+      "人妻",
+      "護士",
+      "美乳",
+      "乳交",
       "淫亂",
       "中出",
-      "紀錄片",
-      "絕頂高潮",
-      "企畫",
-      "護士",
-      "騎乗位",
-      "美乳",
+      "業餘",
       "口交",
+      "騎乗位",
+      "紀錄片",
       "巨乳",
       "慾求不滿",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "多P",
+      "蕩婦",
       "後入",
-      "業餘",
-      "3P・4P"
+      "纪录片",
+      "3P・4P",
+      "企畫",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/211df425bb5272f671315b4d3d7b8513.jpg",
+    "publish_date": "2024-09-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-003.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -80,38 +449,41 @@ window.PAGE_DATA = [
   {
     "id": 12552,
     "IDcode": "FTAV-004",
-    "title": "我要結婚了嗎-笹本優子",
+    "title": "FTAV-004 我要结婚了......\" I-cup，现役护士，22 岁，千叶县君津市，尚未生产，住在农村的天然大胸女性，作为业余爱好者从 SOFT ON DEMAND 第三次登场 笹本优（化名）\"如果有人想要我、我还是想做女人...... \"通过社交网站与附近的追随者初次见面并立即发生性关系。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "真實拍攝",
-      "蕩婦",
-      "人妻",
-      "中出",
-      "美少女電影",
+      "素人",
+      "性感",
+      "羞恥",
+      "女上位",
       "絕頂高潮",
-      "企畫",
       "飯店",
       "黑絲",
-      "素人作品",
-      "騎乗位",
-      "羞恥",
-      "素人",
-      "美乳",
-      "口交",
-      "巨乳",
-      "乳交",
-      "女上位",
+      "单人作品",
       "胸控・戀乳癖",
+      "人妻",
+      "美乳",
+      "乳交",
+      "中出",
+      "美少女電影",
+      "口交",
+      "真實拍攝",
+      "騎乗位",
+      "主观视角",
+      "巨乳",
+      "蕩婦",
       "後入",
-      "性感",
-      "車震"
+      "車震",
+      "企畫",
+      "浴室",
+      "素人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240820/ee844da1-f989-4775-9bbd-71e7dd066d16.jpg",
+    "publish_date": "2024-08-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-004.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -120,44 +492,48 @@ window.PAGE_DATA = [
   {
     "id": 11113,
     "IDcode": "FTAV-005",
-    "title": "「私、結婚できませんでした」恋人にAVバレて婚約破談 Iカップ素人、AV女優になる 笹本ゆう",
+    "title": "FTAV-005 笹本优（Yuu Sasamoto）是一名 I-cup 业余色情明星，在男友解除婚约后，她成为了一名色情明星。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "豐滿",
-      "亂交 • 群P",
       "兩男一女",
+      "素人",
+      "性感",
+      "巨尻",
+      "羞恥",
+      "亂交 • 群P",
+      "女優訪談",
+      "女上位",
+      "3P",
+      "絕頂高潮",
+      "4P",
+      "单人作品",
+      "胸控・戀乳癖",
+      "女優",
+      "美乳",
+      "乳交",
       "淫亂",
       "中出",
-      "紀錄片",
+      "紀念作",
       "美少女電影",
-      "抹油",
-      "絕頂高潮",
-      "色白",
-      "企畫",
-      "女優",
-      "騎乗位",
-      "羞恥",
-      "素人",
-      "美乳",
-      "巨尻",
-      "巨乳",
       "口交",
-      "乳交",
-      "女優訪談",
-      "胸控・戀乳癖",
-      "內衣",
-      "女上位",
+      "色白",
+      "騎乗位",
+      "紀錄片",
+      "巨乳",
       "後入",
-      "性感",
+      "纪录片",
+      "豐滿",
+      "抹油",
       "3P・4P",
-      "紀念作"
+      "企畫",
+      "內衣"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/eecf5f01f20f4ab19a792700ade825df.jpg",
+    "publish_date": "2024-10-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-005.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -166,52 +542,56 @@ window.PAGE_DATA = [
   {
     "id": 10519,
     "IDcode": "FTAV-006",
-    "title": "现在在这里插入-笹本优",
+    "title": "FTAV-006 嗯？你现在要把它插进这里？哪里有空隙，她就准备好被操，被操！色情行业用大鸡巴洗礼了一位 I 杯巨乳，直到最近她还是个业余爱好者！ ～大鸡巴总是无处不在～笹本雄",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "真實拍攝",
-      "凌辱",
       "蒙面・面罩",
-      "公共場所",
-      "亂交 • 群P",
-      "奇異的",
-      "人妻",
-      "舔陰",
-      "奇聞趣事",
+      "潮吹",
       "兩男一女",
+      "素人",
+      "巨尻",
+      "羞恥",
+      "亂交 • 群P",
+      "女優訪談",
+      "即時插入",
+      "女上位",
+      "3P",
+      "絕頂高潮",
+      "4P",
+      "胸控・戀乳癖",
+      "美人妻",
+      "人妻",
+      "奇異的",
+      "女優",
+      "美乳",
+      "乳交",
       "淫亂",
       "中出",
+      "即兴性爱",
       "美少女電影",
-      "絕頂高潮",
-      "女優",
-      "企畫",
-      "顏射",
-      "美人妻",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "美乳",
-      "美腿",
-      "巨尻",
-      "巨乳",
       "口交",
-      "潮吹",
-      "即時插入",
-      "乳交",
-      "女優訪談",
-      "胸控・戀乳癖",
-      "女上位",
-      "多P",
+      "奇聞趣事",
+      "真實拍攝",
+      "騎乗位",
+      "舔陰",
+      "巨乳",
       "後入",
-      "3P・4P"
+      "形象俱樂部",
+      "3P・4P",
+      "手指插入",
+      "企畫",
+      "凌辱",
+      "公共場所",
+      "顏射",
+      "多P",
+      "美腿"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241119/ad35ab6e-c907-4d40-8ad7-2bba6f59a384.jpg",
+    "publish_date": "2024-11-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-006.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -220,51 +600,54 @@ window.PAGE_DATA = [
   {
     "id": 9825,
     "IDcode": "FTAV-007",
-    "title": "笹本ゆう 初ドラマ作品 おっぱいの大きい先生の誘惑 巨乳映え4シチュエーション 学校なのに年下が好き過ぎてスイッチが入ってしまう性欲旺盛お姉さん。",
+    "title": "FTAV-007 笹本雄（Yuu Sasamoto）的首部电视剧作品 大胸大姐的诱惑 （Seduction of a big-breasted big sister） 4 有大奶子的情境 她是一个性欲旺盛的大姐，喜欢年轻男子，以至于让她兴奋不已。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "更衣室",
-      "蕩婦",
-      "癡女",
+      "勾引・誘惑",
+      "性感",
+      "巨尻",
       "泳池",
-      "處男",
-      "舔陰",
+      "女上位",
+      "泳裝",
+      "校園生活",
+      "絕頂高潮",
+      "黑絲",
+      "艷遇",
+      "剧情",
+      "单人作品",
+      "胸控・戀乳癖",
+      "正太",
+      "女教師",
+      "癡女",
+      "美乳",
+      "乳交",
       "中出",
       "美少女電影",
-      "校園生活",
-      "劇情",
-      "勾引・誘惑",
-      "絕頂高潮",
-      "學校",
+      "角色扮演",
+      "口交",
       "色白",
-      "黑絲",
-      "顏射",
-      "手指插入",
-      "艷遇",
+      "劇情",
       "騎乗位",
+      "舔陰",
+      "巨乳",
+      "學校",
+      "蕩婦",
+      "慾求不滿",
+      "後入",
       "制服",
       "形象俱樂部",
-      "泳裝",
-      "美乳",
-      "美腿",
-      "正太",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "女教師",
-      "後入",
-      "性感"
+      "手指插入",
+      "更衣室",
+      "處男",
+      "顏射",
+      "美腿"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-007.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -321,7 +704,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f7224e7d663df4e991d1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-008.jpg",
     "actress": [
       "笹本ゆう"
     ],
@@ -330,81 +713,297 @@ window.PAGE_DATA = [
   {
     "id": 174679,
     "IDcode": "FTAV-012",
-    "title": "目と目で繋がる！ あなたの初めての日×台0距離交流！！ 初主観 齋齋いつきを超密着堪能！ 台湾的4シチュエーション",
+    "title": "FTAV-012 眼神交汇！你的初体验×零距离交流！！首次主观视角 超贴身体验斋斋伊月！四种台湾场景",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "素人",
+      "4K",
+      "主观视角",
+      "旗袍",
+      "女学生",
+      "其他亚洲",
+      "美少女",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2025-11-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-012.jpg",
+    "actress": [
+      "斋斋伊月"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-012"
   },
   {
     "id": 3466,
     "IDcode": "FTAV-013",
-    "title": "台湾発 新世代の美少女 齋齋いつき 日本AV界に参戦！SOD史上初 台湾人専属女優‘憧れ‘をパワーに。トップ級インフルエンサーから日本のAV女優へ",
+    "title": "FTAV-013 台湾新生代美女西西树进入日本色情世界：SOD 历史上首次出现 \"渴望 \"权力的台湾专属女演员。从顶级影响力人物到日本 AV 女优...",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "少女",
-      "真實拍攝",
-      "蠻橫嬌羞",
-      "美腳",
-      "蘿莉控",
-      "二次元",
-      "小隻馬",
-      "出道作品",
-      "單體作品",
-      "癡女",
-      "舔陰",
-      "貧乳",
-      "美少女電影",
-      "丁字裤",
-      "接吻",
-      "美少女",
-      "後入",
-      "絕頂高潮",
-      "無毛",
-      "叛逆少女",
-      "辣妹/GAL系",
-      "色白",
-      "高顏值",
-      "苗條",
-      "企畫",
-      "女優",
-      "刺青紋身",
-      "手指插入",
-      "騎乗位",
+      "潮吹",
+      "大奶头",
+      "其他亚洲",
+      "素人",
+      "偶像",
       "羞恥",
-      "形象俱樂部",
-      "美人",
+      "女優訪談",
+      "辣妹/GAL系",
+      "4K",
       "脚控・戀足癖",
+      "女上位",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "貧乳",
+      "苗條",
+      "美少女",
+      "接吻",
+      "地雷系",
+      "单人作品",
+      "單體作品",
+      "女優",
+      "癡女",
+      "刺青紋身",
+      "出道作",
+      "紀念作",
+      "美少女電影",
+      "清純",
+      "丁字裤",
+      "色白",
+      "真實拍攝",
       "口交",
       "蘿莉",
-      "地雷系",
-      "潮吹",
-      "4K",
-      "清純",
-      "女優訪談",
-      "女上位",
-      "內衣",
-      "真人秀",
+      "小隻馬",
+      "騎乗位",
+      "舔陰",
+      "美腳",
+      "二次元",
+      "後入",
+      "纪录片",
+      "出道作品",
+      "無毛",
+      "形象俱樂部",
+      "美人",
+      "蘿莉控",
+      "叛逆少女",
+      "企畫",
+      "手指插入",
       "網路紅人",
-      "大奶头",
-      "紀念作"
+      "內衣",
+      "高顏值",
+      "真人秀"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2025-09-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/FTAV-013.jpg",
     "actress": [
-      "齋齋樹"
+      "齋齋樹",
+      "斋斋伊月"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-013"
+  },
+  {
+    "id": 523114,
+    "IDcode": "GRCH-207",
+    "title": "GRCH-207 对一太郎来说，这是世界上最快乐的性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女性向",
+      "角色扮演",
+      "企划",
+      "剧情"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-03-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-207.jpg",
+    "actress": [
+      "波多野结衣",
+      "通野未帆",
+      "澁谷果歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-207"
+  },
+  {
+    "id": 215657,
+    "IDcode": "GRCH-232",
+    "title": "GRCH-232 值得信赖的男人 - 上原千秋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "企划",
+      "剧情",
+      "女性向"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-08-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-232.jpg",
+    "actress": [
+      "葵千恵",
+      "大空美緒",
+      "相泽友梨奈",
+      "坂下ゆあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-232"
+  },
+  {
+    "id": 156985,
+    "IDcode": "GRCH-234",
+    "title": "GRCH-234 受困特工 - 我爱的女人是我的敌人。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女性向",
+      "企划",
+      "M男",
+      "剧情",
+      "浴室"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-09-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-234.jpg",
+    "actress": [
+      "大槻响",
+      "加藤あやの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-234"
+  },
+  {
+    "id": 540908,
+    "IDcode": "GRCH-240",
+    "title": "GRCH-240 Ichiritsu 开始辅导性生活。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女性向",
+      "家教",
+      "企划",
+      "剧情",
+      "教程"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-10-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-240.jpg",
+    "actress": [
+      "小西悠",
+      "小谷みのり",
+      "蓝川美夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-240"
+  },
+  {
+    "id": 523111,
+    "IDcode": "GRCH-241",
+    "title": "GRCH-241 爱情与生活案例.5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "企划",
+      "剧情",
+      "女性向"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-241.jpg",
+    "actress": [
+      "波多野结衣",
+      "篠田優",
+      "水城奈緒",
+      "北川レイラ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-241"
+  },
+  {
+    "id": 523109,
+    "IDcode": "GRCH-246",
+    "title": "GRCH-246 爱与生命案例2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "企划",
+      "剧情",
+      "女性向"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-246.jpg",
+    "actress": [
+      "波多野结衣",
+      "篠田優",
+      "水城奈緒",
+      "北川レイラ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-246"
+  },
+  {
+    "id": 523106,
+    "IDcode": "GRCH-247",
+    "title": "GRCH-247 爱与生命案例1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "企划",
+      "剧情",
+      "女性向"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-247.jpg",
+    "actress": [
+      "波多野结衣",
+      "篠田優",
+      "水城奈緒",
+      "北川レイラ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-247"
+  },
+  {
+    "id": 523118,
+    "IDcode": "GRCH-248",
+    "title": "GRCH-248 爱情和生活案例3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋爱",
+      "企划",
+      "剧情",
+      "女性向"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2017-11-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/GRCH-248.jpg",
+    "actress": [
+      "波多野结衣",
+      "篠田優",
+      "水城奈緒",
+      "北川レイラ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-248"
   },
   {
     "id": 101740,
@@ -425,7 +1024,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "2024-03-25",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250521-1/59dd54667b444e7d1a20a5896a4dd7d6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-009.jpg",
     "actress": [
       "葵百合香"
     ],
@@ -470,7 +1069,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "2024-06-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506064459441441.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-013.jpg",
     "actress": [
       "有加里乃乃花"
     ],
@@ -502,7 +1101,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1ff05e4a73d4f159b4a9f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-018"
   },
@@ -525,7 +1124,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd5ee2006939637678bd61/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-019.jpg",
     "actress": [
       "渋谷夏"
     ],
@@ -544,7 +1143,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/0b4739d03d4131eb3dfee844f8e47b0f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-020"
   },
@@ -559,7 +1158,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/7f5467ead03ca8bb4ecd80bc7cf3ec84.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-021"
   },
@@ -592,7 +1191,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/28/f3b1aabb/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HNAMH-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-023"
   },
@@ -607,7 +1206,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c93e8ed6fbef4e90aef2f3/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HSDAB-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSDAB-001"
   },
@@ -628,7 +1227,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240729-1/10f890208976a3f03ec97340495de0aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HSDAM-035.jpg",
     "actress": [
       "大槻响"
     ],
@@ -672,7 +1271,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678735ec5d57b64bfdd955e1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-007"
   },
@@ -691,7 +1290,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "2020-02-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/b8b6c75791e2824efd881f52bd9d8c6f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-010.jpg",
     "actress": [
       "凛音とうか"
     ],
@@ -744,7 +1343,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200515-1/4f39645a8ceb4ae36eace9359bc8f27a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-013.jpg",
     "actress": [
       "美咲佳奈"
     ],
@@ -814,7 +1413,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "2020-04-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221101-1/8b1eef17c7bcb3c2687b7450db03eaf5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-018.jpg",
     "actress": [
       "绀野光"
     ],
@@ -833,7 +1432,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b199a43d6972716d1a83c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-019"
   },
@@ -853,7 +1452,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/3046efab70708d7b04322218047248b0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-020.jpg",
     "actress": [
       "樱美雪"
     ],
@@ -874,7 +1473,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/b474afd175816067f36c9143383aaa40.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-021.jpg",
     "actress": [
       "鹰宫ゆい"
     ],
@@ -883,50 +1482,62 @@ window.PAGE_DATA = [
   {
     "id": 2042,
     "IDcode": "HYPN-022",
-    "title": "狂妄的美女-早川瑞希",
+    "title": "HYPN-022 专属帅哥·想当自慰秘书吗？",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "催眠",
-      "中出",
+      "素人",
+      "無碼流出",
+      "企划",
+      "内射",
       "企畫",
-      "素人作品",
+      "催眠",
       "无码",
-      "無碼流出"
+      "素人作品",
+      "无码泄露",
+      "中出",
+      "口交",
+      "单人作品"
     ],
     "type": "无码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/f59d1be9d07b9e7749a79b1871d0bbd2.jpg",
+    "publish_date": "2020-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-022.jpg",
     "actress": [
-      "加藤桃香"
+      "加藤桃香",
+      "吉村卓"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-022"
   },
   {
     "id": 2073,
     "IDcode": "HYPN-023",
-    "title": "催眠洗脑-早川瑞希",
+    "title": "HYPN-023 一个可以随时插入的催眠OL怎么样？",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
+      "素人",
+      "無碼流出",
+      "企划",
+      "内射",
+      "辦公室",
       "企畫",
+      "制服",
       "苗條",
       "素人作品",
-      "辦公室",
+      "无码泄露",
+      "中出",
       "OL",
       "无码",
-      "無碼流出",
-      "制服"
+      "单人作品",
+      "苗条"
     ],
     "type": "无码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/40ca1b4e33a7124c6aeca346e19ce26b.jpg",
+    "publish_date": "2020-08-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-023.jpg",
     "actress": [
       "若宮葉月"
     ],
@@ -943,7 +1554,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231130/1599035368-pb_e_107hypn-029.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-029"
   },
@@ -958,7 +1569,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/19/275a852034f8cf1a563f78a399d2cd80.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HYPN-031.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-031"
   },
@@ -978,1150 +1589,943 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-034"
   },
   {
-    "id": 401425,
-    "IDcode": "KMHRS-002",
-    "title": "スナップ常連イケイケ読者モデルはエッチ大好きな超肉食女子 もっと感じてみたくてAV debut 黑江莉娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e72b9c179ffb1db5fdaef/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-002"
-  },
-  {
-    "id": 1836,
-    "IDcode": "KMHRS-003",
-    "title": "男裝女子看見巨大肉棒衝擊高潮絶頂 小岩伊都",
+    "id": 210636,
+    "IDcode": "KIRE-001",
+    "title": "KIRE-001 重新登场！闪电战转移相马明日香，她出于欲望，不断指责自己的阳具，直到厌倦为止。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "淫亂",
-      "素人作品",
-      "紀錄片",
-      "女學生",
-      "無碼流出",
-      "業餘"
+      "女上位",
+      "单人作品",
+      "荡妇",
+      "口交"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2019-11-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20230214/a085252b-6504-4630-993d-03b7d3570739.jpg",
+    "publish_date": "2020-10-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-001.jpg",
     "actress": [
-      "小岩伊都"
+      "相馬茜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-001"
   },
   {
-    "id": 78251,
-    "IDcode": "KMHRS-004",
-    "title": "ご奉仕大好きGカップ美巨乳ちゃんがバイトの休憩中にお宅訪問で人生初中出し",
+    "id": 539224,
+    "IDcode": "KIRE-005",
+    "title": "KIRE-005 真正的男士美容沙龙，让你的 \"小弟弟 \"爽到尖叫 - Mariko Sada。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "巨乳",
-      "纪录片",
-      "中出",
-      "素人作品"
+      "按摩",
+      "单人作品",
+      "口交",
+      "手交"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/15286458f41859300defc3406e202ae4.jpg",
+    "publish_date": "2020-10-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-005.jpg",
     "actress": [
-      "四葉さな",
-      "玉木玲",
-      "四叶さな"
+      "佐田茉莉子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-005"
   },
   {
-    "id": 2016,
-    "IDcode": "KMHRS-005",
-    "title": "CHINASES SUB  祝、ハタチ！即、飲酒！とろ酔い恥ずかし汁まみれ性交 小岩いと",
+    "id": 210802,
+    "IDcode": "KIRE-007",
+    "title": "KIRE-007 婚礼策划人 Moeka Tachibana 在婚礼现场全力亲吻新郎。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "流汗",
-      "中性",
+      "单人作品",
+      "妄想",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-10-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-007.jpg",
+    "actress": [
+      "成海美雨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-007"
+  },
+  {
+    "id": 529308,
+    "IDcode": "KIRE-008",
+    "title": "KIRE-008 Re DEBUT! Blitz transfer Rinka Tahara 两个小时的连续鸡巴折磨，直到她厌倦为止。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "荡妇",
+      "人妻",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-11-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-008.jpg",
+    "actress": [
+      "田原凛花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-008"
+  },
+  {
+    "id": 211040,
+    "IDcode": "KIRE-009",
+    "title": "KIRE-009 被女婿而不是丈夫操过的女人，阴道紧致。居住在高级住宅区的 33 岁已婚妇女。每当丈夫的继女在中间操她时，她都会收紧自己的男人气概...... 相马赤金",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "即兴性爱",
+      "内射",
+      "剧情",
+      "单人作品",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-11-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-009.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-009"
+  },
+  {
+    "id": 211039,
+    "IDcode": "KIRE-011",
+    "title": "KIRE-011 我们在做的时候我意识到，我不介意被放出来（笑）。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "单人作品",
+      "内射"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-11-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-011.jpg",
+    "actress": [
+      "成海美雨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-011"
+  },
+  {
+    "id": 212377,
+    "IDcode": "KIRE-013",
+    "title": "KIRE-013 高级肥皂，可无限次使用 OK 和连续 nama nakadashi 14 次 Akane Soma，33 岁。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "熟女",
+      "内射",
+      "女招待"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-04-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-013.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-013"
+  },
+  {
+    "id": 211638,
+    "IDcode": "KIRE-017",
+    "title": "KIRE-017 被迫与她讨厌到鄙视地步的上司共处一室 NTR 由于公司命令限制她的行动，她无法从出差中回家，并在逗留期间不断射精 Akane Soma。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "剧情",
+      "单人作品",
+      "NTR",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-12-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-017.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-017"
+  },
+  {
+    "id": 88132,
+    "IDcode": "KIRE-018",
+    "title": "KIRE-018 田原凛香（Rinka Tahara）是一位已婚妇女，她吸引着年轻男子的目光，并穿着鞭打过的针织衫从事妈妈的活动。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乳交",
+      "单人作品",
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-01-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-018.jpg",
+    "actress": [
+      "田原凛花",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-018"
+  },
+  {
+    "id": 102353,
+    "IDcode": "KIRE-020",
+    "title": "KIRE-020 已婚妇女在优雅度假时被生干 7 次射出浓稠精液 Akane Soma",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "内射",
+      "企划",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-02-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-020.jpg",
+    "actress": [
+      "相馬茜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-020"
+  },
+  {
+    "id": 213177,
+    "IDcode": "KIRE-021",
+    "title": "KIRE-021 不成熟的熟女面对性爱 纯洁迷人的芳疗师森美纪（Miki Mori），40 岁，AV 首播。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单人作品",
+      "熟女",
+      "出道作",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-01-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-021.jpg",
+    "actress": [
+      "森美希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-021"
+  },
+  {
+    "id": 589311,
+    "IDcode": "KIRE-025",
+    "title": "KIRE-025 随着强烈的痉挛，Arafutsu 的双腿就像刚出生的小鹿一样摇摇晃晃！ 36次高潮3次高潮 未成熟的 MILF 在阴道内发育！ 森美树 40 岁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "企划",
+      "4P",
+      "单人作品",
+      "熟女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-02-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-025.jpg",
+    "actress": [
+      "森美希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-025"
+  },
+  {
+    "id": 593729,
+    "IDcode": "KIRE-026",
+    "title": "KIRE-026 相马赤金（Akane Soma），33 岁，与一位婆婆妈妈的女人经常做爱，她是一位非常亲密的性交者。她不会放手，一直紧紧地亲密做爱 相马 Akane，33 岁。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "继母",
+      "内射",
+      "剧情",
+      "单人作品",
+      "寡妇",
+      "熟女"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-03-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-026.jpg",
+    "actress": [
+      "相馬茜",
+      "軍曹"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-026"
+  },
+  {
+    "id": 78668,
+    "IDcode": "KIRE-030",
+    "title": "KIRE-030 在春药的作用下，女人的阴部变成了惊人的紧致小穴.....！Akane Soma - 大鸡巴戳子宫口！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "3P",
       "潮吹",
-      "顏射",
-      "素人作品",
-      "無碼流出",
-      "業餘"
+      "4P",
+      "单人作品",
+      "人妻",
+      "多P"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/54333cb5f99bc5c5c765f07891706870.jpg",
+    "publish_date": "2021-05-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-030.jpg",
     "actress": [
-      "小岩伊都"
+      "相馬茜",
+      "イセドン内村",
+      "Qべぇ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-030"
   },
   {
-    "id": 78849,
-    "IDcode": "KMHRS-006",
-    "title": "貪欲読モJDが人生初の生中出し何度シても",
+    "id": 212774,
+    "IDcode": "KIRE-033",
+    "title": "KIRE-033 52 次高潮，3 次射精！ H-cup 熟女身体极度大痉挛！ 46 岁的成崎由美（Yumi Narusaki）是一位职业女性总裁，她的乳房被一位年轻男子挤压！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "中文字幕",
+      "3P",
+      "企划",
+      "4P",
+      "单人作品",
+      "熟女",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-04-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-033.jpg",
+    "actress": [
+      "成咲優美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-033"
+  },
+  {
+    "id": 594798,
+    "IDcode": "KIRE-038",
+    "title": "KIRE-038 你好像只知道普通的性爱，不知道最爽的性爱…活塞骑乘位摇晃屁股彻底榨取精子内射的淫语姐姐 美波小津绘 初次内射解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "臀部",
+      "内射",
+      "M男",
+      "女上位",
+      "4P",
+      "单人作品",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-05-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-038.jpg",
+    "actress": [
+      "美波梢",
+      "おたに",
+      "高桥新渡",
+      "岩下太郎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-038"
+  },
+  {
+    "id": 539209,
+    "IDcode": "KIRE-039",
+    "title": "KIRE-039 正宗的前超高级性工作者，经验丰富，技术精湛的佐田麻里子。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "M男",
+      "女招待",
+      "单人作品",
+      "润滑液"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-05-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-039.jpg",
+    "actress": [
+      "佐田茉莉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-039"
+  },
+  {
+    "id": 79170,
+    "IDcode": "KIRE-040",
+    "title": "KIRE-040 极度美丽的独家第一次在一起 Akane Soma 和 Mariko Sada W cast 吸吮的妻子要求 Uber XXX 到她家，引诱年轻男子，并将他拉出来连续射精！共 8 个镜头！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "中出",
-      "素人作品",
-      "女大学生",
-      "滥交"
+      "3P",
+      "4P",
+      "内射",
+      "成熟的女人",
+      "熟女",
+      "MMFF",
+      "多P",
+      "荡妇"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67875402478d611da77511cb/cover.jpg",
+    "publish_date": "2021-06-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-040.jpg",
     "actress": [
-      "大岛丈",
-      "黒江リィナ"
+      "佐田茉莉子",
+      "相馬茜",
+      "蓝井优太",
+      "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-040"
   },
   {
-    "id": 83643,
-    "IDcode": "KMHRS-007",
-    "title": "欲情Gカップボインちゃんと本気で愛し合った10発中出し東京デート 四葉さな",
+    "id": 213360,
+    "IDcode": "KIRE-042",
+    "title": "KIRE-042 艺人七濑梦（Yume Nanase），初体验特别奖，34 岁。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "巨乳",
-      "纪录片",
-      "中出",
-      "素人作品"
+      "姐姐",
+      "苗条",
+      "荡妇",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2020-01-09",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2021-07-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-042.jpg",
     "actress": [
-      "市川润",
-      "四叶さな"
+      "ななせゆめ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-042"
   },
   {
-    "id": 81770,
-    "IDcode": "KMHRS-008",
-    "title": "「過去は変えられないっていうけど、私は人生、変えてやる。」むっつりスケベな元ひきこもり＋超人見知りが自分を変えたくてAV Debut 環ニコ",
+    "id": 594092,
+    "IDcode": "KIRE-044",
+    "title": "KIRE-044 在她的友好和精湛技术的帮助下，从她体内挤出的精子总量超过 138 000 毫升。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "首次亮相",
-      "素人作品",
-      "高",
+      "口交",
+      "Cosplay",
+      "内射",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-06-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-044.jpg",
+    "actress": [
+      "茉宮渚希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-044"
+  },
+  {
+    "id": 79558,
+    "IDcode": "KIRE-047",
+    "title": "KIRE-047 一个在光天化日之下吮吸别人阳具的女人，她发情了，湿润了。一个 34 岁的变性人，想要人类的东西。她沉迷于与住在隔壁的已婚男人进行绿帽子性爱，用她淫荡的嘴唇..！ 七濑梦",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "玩具",
+      "NTR",
+      "口交",
+      "剧情",
+      "单人作品",
+      "戏剧",
       "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2020-01-09",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/sByx928l.jpg",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-047.jpg",
     "actress": [
-      "ゆうき",
-      "森林原人",
-      "しみけん",
-      "环ニコ"
+      "ななせゆめ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-047"
   },
   {
-    "id": 533549,
-    "IDcode": "KMHRS-010",
-    "title": "元ひきこもりを彻底的にドM调教し続けたら初絶顶した 环",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-010"
-  },
-  {
-    "id": 82849,
-    "IDcode": "KMHRS-011",
-    "title": "男の人全員にエロい目で見られたい！",
+    "id": 79245,
+    "IDcode": "KIRE-049",
+    "title": "KIRE-049 美女 渴望被射精 的幻想：无情地、持续地追逐子宫的最深处，从而达到巨大的、跳动的高潮！ 冈田日奈野，27 岁，活跃的咖啡馆工作人员",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
-      "首次亮相",
-      "中文字幕",
-      "乳房",
-      "素人作品"
+      "姐姐",
+      "潮吹",
+      "苗条",
+      "单人作品"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2021-07-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-049.jpg",
     "actress": [
-      "今井由亞",
-      "小田切ジュン",
-      "市川润"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-011"
-  },
-  {
-    "id": 83669,
-    "IDcode": "KMHRS-012",
-    "title": "为了改变自己的性格才拍AV-環ニコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "业余",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/e4e6f544cf81f02e5984806746ea5dae.jpg",
-    "actress": [
-      "向理来",
-      "环ニコ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-012"
-  },
-  {
-    "id": 83627,
-    "IDcode": "KMHRS-014",
-    "title": "妖精みたいなハーフ女子が巨大肉棒で見せたギャップありすぎ衝撃連続絶頂 宮澤エレン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "巨大阴茎",
-      "业余"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-03-26",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/1e781f3d5b214710697deece37197ba7.jpg",
-    "actress": [
-      "今井由亞",
-      "鲛岛",
-      "戸川夏也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-014"
-  },
-  {
-    "id": 81800,
-    "IDcode": "KMHRS-015",
-    "title": "人生第一次不戴套做爱体验可爱女优环仁子想要改变人生的第一步大量内射乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "乱交",
-      "中出",
-      "美少女电影",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/6ebd6425/vod.jpg",
-    "actress": [
-      "环ニコ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-015"
-  },
-  {
-    "id": 81797,
-    "IDcode": "KMHRS-018",
-    "title": "ボーイッシュ女子 小岩いと、初めての4時間BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "业余",
-      "4小时以上作品",
-      "女大学生",
-      "颜射"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-04-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/8289b06dcc04eda1c93546fd346e98a1.jpg",
-    "actress": [
-      "小岩伊都"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-018"
-  },
-  {
-    "id": 226121,
-    "IDcode": "KMHRS-020",
-    "title": "爲想体验AV的短髮小美女提供男优和拍摄地点供她在观衆面前大展身手",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/a8ff18aee8fadedcb95954d37f04dc6b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-020"
-  },
-  {
-    "id": 529307,
-    "IDcode": "KMHRS-021",
-    "title": "12人の男に物のように扱われ轮●されるミステリアス美少女 吉手るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/145a510f79b5c1672978cef322933064.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-021"
-  },
-  {
-    "id": 2036,
-    "IDcode": "KMHRS-023",
-    "title": "巨大肉棒-滝沢ライラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "苗條",
-      "素人作品",
-      "紀錄片",
-      "无码",
-      "無碼流出",
-      "業餘"
-    ],
-    "type": "无码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250511-2/90a4ef4c2c8d59ae60e7720b7e3275a8.jpg",
-    "actress": [
-      "瀧澤萊拉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-023"
-  },
-  {
-    "id": 210125,
-    "IDcode": "KMHRS-024",
-    "title": "巨大肉棒-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/04/f1a6e4a33538e894268e9b36a86e4483.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-024"
-  },
-  {
-    "id": 106591,
-    "IDcode": "KMHRS-026",
-    "title": "小悪魔-天然かのん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "首次亮相",
-      "纪录片",
-      "女生",
-      "瘦小身型"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/16/7127706f336c16c9f2637777bf8e3fcb.jpg",
-    "actress": [
-      "天然美月",
+      "夏野まい",
       "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-049"
   },
   {
-    "id": 210338,
-    "IDcode": "KMHRS-028",
-    "title": "人生初中出し 森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/24/9a9e13f68689efcddcdad4af955be049.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-028"
-  },
-  {
-    "id": 594907,
-    "IDcode": "KMHRS-030",
-    "title": "请让我和喜欢的恶心男尽情变态性爱！ 天然 花音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/0f1d3b42276f8aad278a6a3085a62bcb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-030"
-  },
-  {
-    "id": 85177,
-    "IDcode": "KMHRS-032",
-    "title": "女孩的梦想色情-叶夢そら",
+    "id": 71131,
+    "IDcode": "KIRE-051",
+    "title": "KIRE-051 34 岁的七濑梦（Yume Nanase）在反向 NTR 住院期间被一名身材苗条的漂亮护士勾引，并被榨取了精液。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "业余",
+      "白天出轨",
+      "NTR",
+      "剧情",
+      "单人作品",
+      "戏剧",
+      "护士",
       "单体作品",
-      "首次亮相",
-      "纪录片",
-      "女生"
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/f34e0b954747e582ec506a86d963f70c.jpg",
+    "publish_date": "2021-09-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-051.jpg",
     "actress": [
-      "鲛岛",
-      "叶梦そら"
+      "ななせゆめ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-051"
   },
   {
-    "id": 593546,
-    "IDcode": "KMHRS-039C",
-    "title": "女性无色透明天然汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-039C"
-  },
-  {
-    "id": 212256,
-    "IDcode": "KMHRS-040",
-    "title": "小悪魔-楠美める",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/15/97e9e2f89c843003b51c77698d18cc89.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-040"
-  },
-  {
-    "id": 212354,
-    "IDcode": "KMHRS-045",
-    "title": "手淫女孩-本田のえる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/23/51f941ad46f82a8ec1d3d6535b988564.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-045"
-  },
-  {
-    "id": 594752,
-    "IDcode": "KMHRS-047",
-    "title": "对闷骚好色的她持续快感开发 全身湿润第1次高潮 本田乃爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/60b558cdbedccd408f9bf57c8d1ef581.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-047"
-  },
-  {
-    "id": 79527,
-    "IDcode": "KMHRS-048",
-    "title": "最高においしそうな体、いただきますw体液まみれでヌルテカなえちえちギャルをベロベロ舐め回しまくった 新井リマ",
+    "id": 215528,
+    "IDcode": "KIRE-053",
+    "title": "KIRE-053 让100多个男人爱上她的情色 \"女人吃男人的时代已经来临\"。Kaho Kashii，总统秘书，单身，29 岁，AV 首播",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳",
-      "流汗",
-      "潮吹",
-      "女生",
-      "多P"
+      "单人作品",
+      "胸部",
+      "出道作",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SOD",
     "publish_date": "2021-08-26",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-053.jpg",
     "actress": [
-      "鲛岛"
+      "香椎佳穂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-048"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-053"
   },
   {
-    "id": 215871,
-    "IDcode": "KMHRS-050",
-    "title": "kmhrs-050 初次的生肉棒中出 -本田のえる",
+    "id": 79747,
+    "IDcode": "KIRE-055",
+    "title": "KIRE-055 一个霸道总裁的妻子被带到一个居委会进行温泉旅行，在那里她被下了药，并与通奸的老男人们进行了 NTR 温泉旅行狂欢。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "已婚妇女",
+      "3P",
+      "白天出轨",
+      "4P",
+      "NTR",
+      "剧情",
+      "乱交",
+      "淫妻",
+      "戏剧",
+      "单人作品",
+      "人妻",
+      "多P"
+    ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/e46449d85c886827b34203f0da8d75a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-050"
+    "publish_date": "2021-09-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-055.jpg",
+    "actress": [
+      "一之瀨綾乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-055"
   },
   {
-    "id": 215195,
-    "IDcode": "KMHRS-054",
-    "title": "不带套直接来吧",
+    "id": 214598,
+    "IDcode": "KIRE-060",
+    "title": "KIRE-060 美丽动人的女人终究会有情欲之吻。即使是女人，也希望有舌头缠绕的激情性爱...... 冈田日奈野",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "3P",
+      "4P",
+      "接吻",
+      "荡妇",
+      "单人作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-054"
+    "publish_date": "2021-10-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-060.jpg",
+    "actress": [
+      "夏野まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-060"
   },
   {
-    "id": 214325,
-    "IDcode": "KMHRS-055",
-    "title": "有声优潜质的女孩",
+    "id": 215191,
+    "IDcode": "KIRE-062",
+    "title": "KIRE-062 27 岁的冈田日奈野（Hinano Okada）有 7 个浓精子。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "4P",
+      "3P",
+      "苗条",
+      "内射"
+    ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/07/dd53e6411291b1820e40be57675615dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-055"
+    "publish_date": "2021-11-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-062.jpg",
+    "actress": [
+      "夏野まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-062"
   },
   {
-    "id": 594736,
-    "IDcode": "KMHRS-056",
-    "title": "キスで濡れちゃう即濡れマンに即ズボ激ピスSEEEEEEX！笑颜が絶えないふわふわ女子が絶顶颜でイキまくり！ 小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/4sLNKVuQ.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-056"
-  },
-  {
-    "id": 80888,
-    "IDcode": "KMHRS-058",
-    "title": "超絶敏感マ〇コにチ〇コ生ハメ→失神するほど絶頂&amp;絶頂。白目むき出しぶっ壊れ初中出し。 幾田まち",
+    "id": 80329,
+    "IDcode": "KIRE-063",
+    "title": "KIRE-063 一位美丽的兼职妻子来便利店面试，并发生了一段中桥恋情：'每次来上班，我都会从令人毛骨悚然的经理那里得到中桥，我和他之间有很好的肉体化学反应。 冈田日奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "中出",
-      "业余",
-      "滥交",
-      "纪录片"
+      "内射",
+      "剧情",
+      "戏剧",
+      "人妻"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2021-11-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/d152dcc77eb5e41c077feaf7dbf07946.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-058"
+    "publish_date": "2021-12-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-063.jpg",
+    "actress": [
+      "夏野まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-063"
   },
   {
-    "id": 215266,
-    "IDcode": "MOGI-004",
-    "title": "超敏感巨乳的性感开发-早見依桜",
+    "id": 216426,
+    "IDcode": "KIRE-066",
+    "title": "KIRE-066 情色巅峰，性欲绽放。激情相望，超浓烈的3sex。性爱天才加藤由依。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/26/fc5cac7368b300c349fa322bbd8438bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-004"
-  },
-  {
-    "id": 80171,
-    "IDcode": "MOGI-005",
-    "title": "経験人数3人/Hカップ敏感娘 早見依桜 20歳の人生初体験! ナマ中出しドキュメント コンビニバイトの純情娘 あと2ヶ月だけのエッチな冒険",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "业余",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2021-11-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/1c564fc7385cbd4fa7a588f8fbddee68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-005"
-  },
-  {
-    "id": 80592,
-    "IDcode": "MOGI-008",
-    "title": "20年間北国育ち─ 無垢な天然もち肌ガールがAVアイドルを夢見て、ひとり東京にやってきた。AV初出演! 春日えな(仮)20歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "第一人称摄影",
-      "美少女",
-      "首次亮相",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2021-12-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/25e90939d23604ca7d9e20d085e96985.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-008"
-  },
-  {
-    "id": 216476,
-    "IDcode": "MOGI-011",
-    "title": "我的第二次色情经历-春日えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/89445a08381d1de9b8b70a04a5790b5b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-011"
-  },
-  {
-    "id": 80763,
-    "IDcode": "MOGI-013",
-    "title": "誰もが萌える激甘ボイスの声優を夢見て福井県から上京してきたヲタク美少女 3本限定AV debut 胡桃さくら 19歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "首次亮相",
-      "嫩妹",
-      "乱伦",
-      "乳房",
-      "无毛"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-02-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/4c1f2ae4567d15561cb87309497ac54d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-013"
-  },
-  {
-    "id": 81139,
-    "IDcode": "MOGI-014",
-    "title": "もぎたて日向さん(仮) 本物の気持ちよさを求めて1本限りのAV出演 大阪生まれ、大阪育ち、浪速の性欲が東京で爆発する",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "首次亮相",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-03-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/fa87c8563cc5579e91b13b7b247f4f01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-014"
-  },
-  {
-    "id": 217508,
-    "IDcode": "MOGI-015",
-    "title": "在北方长大的女孩-春日えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/1f427f979d0b766ce49287b2a8856636.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-015"
-  },
-  {
-    "id": 80994,
-    "IDcode": "MOGI-016",
-    "title": "山梨の箱入り娘が人生初のラブホテルで戸惑い恥じらいイキまくり!!知らない快感を求めて豪邸を飛び出す1泊2日上京ドキュメント。 愛上みお(仮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
       "姐姐",
-      "女大学生",
-      "纪录片"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-03-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/c1906bb750ace4a17c72f619e5259078.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-016"
-  },
-  {
-    "id": 81021,
-    "IDcode": "MOGI-017",
-    "title": "J系まだイケる!? 冬でも生足!長野出身の元気な19歳 皆瀬あかり(仮)初めてのAV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "业余",
-      "首次亮相",
-      "嫩妹",
-      "纪录片",
+      "胸部",
       "潮吹"
     ],
     "type": "有码",
     "company": "SOD",
+    "publish_date": "2022-01-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-066.jpg",
+    "actress": [
+      "加藤結衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-066"
+  },
+  {
+    "id": 80668,
+    "IDcode": "KIRE-067",
+    "title": "KIRE-067 邻居的漂亮老婆家庭霸权！通过催眠洗脑，我得到了梦寐以求的幸福家庭！ 冈田日奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "剧情"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-02-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-067.jpg",
+    "actress": [
+      "夏野まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-067"
+  },
+  {
+    "id": 81120,
+    "IDcode": "KIRE-068",
+    "title": "KIRE-068 你愿意放学后来老师家吗？女教师的本能被唤醒后，她开始在放学后与学生一起秘密通宵补课。 冈田日奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "女教师",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "2022-03-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/7c931f4c8ee3e7451dd73e5508a8c4ab.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-017"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-068.jpg",
+    "actress": [
+      "夏野まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-068"
   },
   {
-    "id": 565815,
-    "IDcode": "MOGI-019",
-    "title": "女子100mハードル三重県选抜 莲川りな（仮） 就活中に1本限定もぎたてAV出演 “AVを続けるつもりはありません。长く走るのは性に合わないんですよね（笑）”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9f17d1a19e62a0a5f3ea0a2e7e5097f5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-019"
-  },
-  {
-    "id": 565814,
-    "IDcode": "MOGI-020",
-    "title": "3か月限定もぎたて出演 最后は獣欲チ〇ポ达でイキの限界突破 他人ん家なのに行仪とか忘れ飞んじゃうほどイキ乱れてしまった1日 爱上みお（仮）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/bh3A48xR.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-020"
-  },
-  {
-    "id": 218099,
-    "IDcode": "MOGI-021",
-    "title": "美丽御宅族女孩-胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/c5df597482e6d3db83ba5f8ecfa22373.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-021"
-  },
-  {
-    "id": 565813,
-    "IDcode": "MOGI-023",
-    "title": "苍井穂波 5か月间のAV体験。絶伦おじさんによる2日间ぶっ通しM开発！今までされたことのないプレイで耻じらいながらも脳、クリ、中でイキまくる！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/PYVwI04o.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-023"
-  },
-  {
-    "id": 565812,
-    "IDcode": "MOGI-024",
-    "title": "“この子、こんなに楽しそうにSEXするんだ”経験人数1人だけ！むっつり漫画吃茶店员が4年ぶりのSEX いざ性欲満开！ 宫市怜奈（仮）4ヶ月限定AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/EJyzYt4V.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-024"
-  },
-  {
-    "id": 85587,
-    "IDcode": "MOGI-025",
-    "title": "『青春時代に憧れたエッチがしたいです。』高〇時代に戻ってあの頃出来なかったSEXをAVでヤッてみた♪ 皆瀬あかり(仮)",
+    "id": 85153,
+    "IDcode": "KIRE-069",
+    "title": "KIRE-069 每周自慰 12 次的淫荡妹妹将 M-man 长成了自己的私人自慰棒，每天都用......但它太敏感了，被改造成了阴茎，感觉好极了，都要漏出来了！ 前本地播音员加藤由依，28 岁。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
-      "业余",
-      "制服",
-      "美少女"
+      "女上位",
+      "荡妇"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "2022-04-07",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/4hN7XPnz.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-025"
+    "publish_date": "2022-02-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-069.jpg",
+    "actress": [
+      "加藤結衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-069"
   },
   {
-    "id": 594653,
-    "IDcode": "MOGI-026",
-    "title": "苍井穂波1日间限りの体験入店 人生初ソープ嬢体験！现役嬢に教わったプレイでお客さんにエッチなサービスをしてもらいました。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/i1KQGAhB.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-026"
-  },
-  {
-    "id": 565811,
-    "IDcode": "MOGI-027",
-    "title": "北陆产の美しい色白ボディは超絶敏感！焦らしに焦らされ可爱い吐息… 萌え声でおねだりするまで挿れてあげないおま○こトロトロおち○ぽ恳愿SEX 胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6d9ada87beda623529ca556630227efe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-027"
-  },
-  {
-    "id": 565810,
-    "IDcode": "MOGI-028",
-    "title": "はじめての中出し！素人女子が胸に秘めてきた犯されたい愿望を叶えてあげる4PLAY 宫市怜奈",
+    "id": 85129,
+    "IDcode": "KIRE-070",
+    "title": "KIRE-070 我想感受阴道深处的余韵...... \"Nakadashi 释放 9 滴浓稠精液 性爱天才加藤由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "女上位",
+      "中出",
+      "3P",
+      "4P",
+      "内射",
+      "多P",
+      "荡妇"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0ebb223b2b33df380b6a81fabc4e9062.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-028"
+    "publish_date": "2022-03-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-070.jpg",
+    "actress": [
+      "加藤結衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-070"
   },
   {
-    "id": 594661,
-    "IDcode": "MOGI-029",
-    "title": "人生初の逆ナンパ！长野在住のもぎたて素人娘が终电までに何人射精できるかムチャブリSEXドキュメント！！！ 皆瀬あかり（仮）",
+    "id": 85152,
+    "IDcode": "KIRE-071",
+    "title": "KIRE-071 终极处女毕业典礼--性爱神童教你怎么做。加藤由依",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "女上位",
+      "姐姐",
+      "荡妇"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6a2321d188296148bfbe125ef8fc703f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-029"
+    "publish_date": "2022-04-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-071.jpg",
+    "actress": [
+      "加藤結衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-071"
   },
   {
-    "id": 565809,
-    "IDcode": "MOGI-031",
-    "title": "経験人数0人。お嬢様大学に通う现役音大生 美空（21）AV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/RxO7X3So.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-031"
-  },
-  {
-    "id": 565808,
-    "IDcode": "MOGI-032",
-    "title": "はじめての风俗アルバイトに行ってきました！！ デリヘル・ピンサロ・メンズエステなどに体験入店ドキュメント！！ 皆瀬あかり（仮）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/XTcphDKL.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-032"
-  },
-  {
-    "id": 565807,
-    "IDcode": "MOGI-033",
-    "title": "はじめてのイチャつき东京デート うぶな素人女子をイカセまくるオールハメ撮り3SEX 宫市怜奈",
+    "id": 218180,
+    "IDcode": "KIRE-072",
+    "title": "KIRE-072 出色的扑克牌职业玩家摇身一变成为迷人的色情明星。三幕纠缠，直至性欲耗尽 艾丽莎",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "3P",
+      "4P",
+      "口交",
+      "熟女",
+      "主观视角"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a4df8076d3d3faa0b9fd9d6d64248c9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-033"
+    "publish_date": "2022-05-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-072.jpg",
+    "actress": [
+      "亚莉纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-072"
   },
   {
-    "id": 565806,
-    "IDcode": "MOGI-035",
-    "title": "朝海凪咲（仮）24才 元アイドル 4本限りのAV出演！ 茨城出身地下アイドルが3年ぶりのエッチで耻ずかしいほど潮吹きしちゃいました",
+    "id": 85143,
+    "IDcode": "KIRE-073",
+    "title": "KIRE-073 已婚扑克高手首次尝试性游戏！37 岁的艾丽莎凭借丰富的技巧经验，性爱技巧大爆发。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4dc14832e47c8d54afaa711d6ebd2ce1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-035"
+    "publish_date": "2022-06-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-073.jpg",
+    "actress": [
+      "亚莉纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-073"
   },
   {
-    "id": 565805,
-    "IDcode": "MOGI-036",
-    "title": "ネイリストを目指して三重から上京したEカップ美乳少女 彼氏としかHしたことないただのうぶマンちゃんかとおもったら… 天然グラマラス 早坂みき 20歳 AV Debut",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f81142a9544764400b18db3e290f075e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-036"
-  },
-  {
-    "id": 68932,
-    "IDcode": "MOGI-037",
-    "title": "苍井穗波 两天一夜的温泉旅行 不知何时会暴露的羞耻露出 苍井穂波",
+    "id": 87012,
+    "IDcode": "KIRE-075",
+    "title": "KIRE-075 做爱时能感受到一切的尖叫美女。冷艳迷人的接待员森下园子，26 岁，AV 首播",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "首次亮相",
+      "出道作",
+      "苗条"
     ],
     "type": "有码",
     "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20e63cf22ae3e04a81ea1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-037"
+    "publish_date": "2022-08-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-075.jpg",
+    "actress": [
+      "森下園花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-075"
   },
   {
-    "id": 565804,
-    "IDcode": "MOGI-038",
-    "title": "発育途中の敏感ちっぱいを责められて激イキ体験…。初めてだらけの性感开発メモリアル。 吉川瞳美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/u2tMS3oA.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-038"
-  },
-  {
-    "id": 73434,
-    "IDcode": "MOGI-039",
-    "title": "147cmチ〇ポ大好き性欲強めななにわ女子 百枝萌(仮) 「たくさんのちんちんに囲まれてみたい…」小柄で敏感なカラダを多人数チ〇ポでイカセまくる!",
+    "id": 68701,
+    "IDcode": "KIRE-076",
+    "title": "KIRE-076 我就是无法停止欲望...... \"四十七岁的妻子艾丽莎放荡不羁，勾引儿子在邻居家的朋友，并在自家的聚会场所与年轻男子发生性关系。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "无毛",
-      "巨乳",
-      "拘束",
+      "中出",
+      "3P",
+      "4P",
+      "内射",
+      "成熟的女人",
+      "熟女",
       "多P"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-07-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-076.jpg",
+    "actress": [
+      "亚莉纱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-076"
+  },
+  {
+    "id": 85163,
+    "IDcode": "KIRE-078",
+    "title": "KIRE-078 Yui 是一名 CA（机舱服务员），操着一口关西方言，在 M 叔叔身上肆意淫荡。Rouind高潮 \"让他多次射精加藤由依。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-06-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-078.jpg",
+    "actress": [
+      "加藤結衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-078"
+  },
+  {
+    "id": 106564,
+    "IDcode": "KIRE-079",
+    "title": "KIRE-079 冷艳迷人的女接待员忘记了自我，与 26 岁的叔叔 Sonoka Morishita 展开了激烈的、令人流口水的性爱。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-09-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-079.jpg",
+    "actress": [
+      "森下園花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-079"
+  },
+  {
+    "id": 106527,
+    "IDcode": "KIRE-080",
+    "title": "KIRE-080 禁欲一个月后的爆炸性性高潮 怪兽 Nakadashi 与勃起药物 OD，使钢鸡巴 M-man 射精 15 次 Riho Fujimori",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "潮吹",
+      "内射",
+      "巨乳",
+      "荡妇"
     ],
     "type": "有码",
     "company": "SOD",
     "publish_date": "2022-07-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/e250c8396b475ec95d5a92a2f99ea33b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-039"
-  },
-  {
-    "id": 565803,
-    "IDcode": "MOGI-041",
-    "title": "经验人数一人的现役音乐大学生美空（21）尽是第1次的AV体验记录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/928be528a4e97b068de40b3e62b98a1c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-041"
-  },
-  {
-    "id": 92378,
-    "IDcode": "MOGI-043",
-    "title": "五个月里的AV体验 敏感美体的数次高潮 舔舐与被舔舐 苍井穂波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "巨乳",
-      "纪录片",
-      "手淫",
-      "多P"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KIRE-080.jpg",
+    "actress": [
+      "藤森里穂"
     ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250322-1/9b04d847a2e5c151a4e2b4ed584dcb78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-043"
-  },
-  {
-    "id": 539652,
-    "IDcode": "MOGI-044",
-    "title": "茨城出身の纯真无垢な元アイドル 朝海凪咲（仮） 149cm小柄なアイドルの敏感な身体を性感开発 痉挛するほどイキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231204/1mogi044pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-044"
-  },
-  {
-    "id": 565802,
-    "IDcode": "MOGI-045",
-    "title": "AVに出演する为に青森から応募してきた、とってもスケベな方言女子！ 乃々瀬あい（19）4か月限定AV debut！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/AiZwxVKv.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-045"
-  },
-  {
-    "id": 69129,
-    "IDcode": "MOGI-047",
-    "title": "变态的浪速女孩-百枝萌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "巨乳"
-    ],
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/8d3c4195c6c8cdfec80410494aaf7d48.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-047"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-080"
   }
 ];

@@ -19,7 +19,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240609/1kano001pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-001.jpg",
     "actress": [
       "枢木葵",
       "成田紬"
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/e63e8eea123421e6c93b53ec05a43592.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-002.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-002"
   },
@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240522/1kano003pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-003.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-003"
   },
@@ -83,7 +83,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/b29dda4be8faf94d5d0c20f53546a83e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-004.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-004"
   },
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/c752a0a53fda91cefec017c28aa6255f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-005.jpg",
     "actress": [
       "高瀬りな"
     ],
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/c0328aad60d1af4aafd610b7f99b0ac6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-006.jpg",
     "actress": [
       "水卜麻衣奈"
     ],
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/L83rF1TZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-007"
   },
@@ -159,7 +159,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/5Sn68us1/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-008"
   },
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/93cccb210d7c5c4392997b19d91376f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-009.jpg",
     "actress": [
       "若宫穂乃"
     ],
@@ -210,7 +210,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/f27c4ef017baa58de5d265a0d65e009b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-010.jpg",
     "actress": [
       "真木今日子"
     ],
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/9b1f5cc5c9c1fe5a34d47e6cbaae735b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-011.jpg",
     "actress": [
       "倉與田"
     ],
@@ -252,7 +252,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231124/tnxbBMCP/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-012.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-012"
   },
@@ -273,7 +273,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/d5d8b8a99a0afe807c3a173e09fe97e1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-013.jpg",
     "actress": [
       "绀野光"
     ],
@@ -300,7 +300,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/e364cf9f7341be16724691e2c018e638.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-014.jpg",
     "actress": [
       "弘中優"
     ],
@@ -319,7 +319,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231223/bpWpbEd2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-015.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-015"
   },
@@ -334,7 +334,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/hBAY0Ab9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-016.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-016"
   },
@@ -349,7 +349,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/Jp5AeXJI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-017.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-017"
   },
@@ -366,7 +366,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/nSiy10M3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-018.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-018"
   },
@@ -383,7 +383,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/XfGAHssX/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-019"
   },
@@ -398,7 +398,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/czAkVVoz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-020"
   },
@@ -433,7 +433,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240222/18b55990-072d-4669-bfaa-6c424cced9fd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-021.jpg",
     "actress": [
       "浜崎真緒"
     ],
@@ -475,7 +475,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240222/af30ae85-cf9e-49f0-9f0c-f399672373fe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-022.jpg",
     "actress": [
       "堀北実来"
     ],
@@ -494,7 +494,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/H14vMV0w/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-023.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-023"
   },
@@ -533,7 +533,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240222/55c1e787-ee6c-47c8-9108-faffea7f8b63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-024.jpg",
     "actress": [
       "有坂唯"
     ],
@@ -550,7 +550,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/18KivDS2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-026.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-026"
   },
@@ -567,7 +567,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/ZYzYUhna/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-027.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-027"
   },
@@ -582,7 +582,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/oQzk7dN3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-028.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-028"
   },
@@ -597,7 +597,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240323/VtYaHeOL/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-029.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-029"
   },
@@ -622,7 +622,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/1c063f338ff4bad4f8d423e54a163ede.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-031.jpg",
     "actress": [
       "藤子未央"
     ],
@@ -651,7 +651,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240729-1/bc3fe78f433289722f9b5cfa675421f8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-032.jpg",
     "actress": [
       "天晴乃愛"
     ],
@@ -673,7 +673,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-04-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240425/ed0ab7e0-dab3-45b4-b454-c90e25582396.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-033.jpg",
     "actress": [
       "千鶴えま",
       "今井惠美"
@@ -696,7 +696,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-04-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240425/fc449047-91d5-407f-a51a-67d702daa2fe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-034.jpg",
     "actress": [
       "菜月光",
       "天乃のあ"
@@ -728,7 +728,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240522/202405222251183737.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-036.jpg",
     "actress": [
       "夏川步美"
     ],
@@ -756,7 +756,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522232732899899.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-037.jpg",
     "actress": [
       "七碧乃蒼"
     ],
@@ -788,7 +788,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523020304684684.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-038.jpg",
     "actress": [
       "一条美緒"
     ],
@@ -818,7 +818,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522225844160160.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-039.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-039"
   },
@@ -851,7 +851,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-06-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620012946214214.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-041.jpg",
     "actress": [
       "友田彩也香"
     ],
@@ -884,7 +884,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-06-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014336992992.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-042.jpg",
     "actress": [
       "二宮和香"
     ],
@@ -904,7 +904,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/EwPNtlJO/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-043.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-043"
   },
@@ -921,7 +921,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240621/cOCvKl6o/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-044.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-044"
   },
@@ -955,7 +955,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240725/c1a914b2-8b99-43c1-8665-586e48fba382.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-045.jpg",
     "actress": [
       "小那海綾"
     ],
@@ -972,7 +972,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240727/fpPOB35N/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-046.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-046"
   },
@@ -1001,7 +1001,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240725/27043a3a-83ce-4dbf-b90a-fa832e883cba.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-047.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-047"
   },
@@ -1040,7 +1040,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-08-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240822/8abcd14d-be2b-4ef2-8938-88bda45d0d2d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-050.jpg",
     "actress": [
       "倉木詩織"
     ],
@@ -1077,7 +1077,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250114-1/3db462d724c0e0c780cd46ab7d2a4c7b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-051.jpg",
     "actress": [
       "前田美波"
     ],
@@ -1100,7 +1100,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250114-1/bb36e3c9c61a4dc1b2a9c1cc8ce82d34.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-052.jpg",
     "actress": [
       "澪川遙"
     ],
@@ -1117,7 +1117,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/bff46ea19ce78f2ba7251491a7c1df60.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-054.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-054"
   },
@@ -1135,7 +1135,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/cd11e99601a6044ba26ab89e21d8d640.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-055.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-055"
   },
@@ -1152,7 +1152,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/dde188ae297c03c8cd89a1c4f7f95d42.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-056.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-056"
   },
@@ -1174,7 +1174,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/08/4f6e7faa1174085286871451c06596df.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-058.jpg",
     "actress": [
       "岬梓沙"
     ],
@@ -1193,7 +1193,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/rO8oREn8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-059"
   },
@@ -1210,7 +1210,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/uLFmIyET/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-060.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-060"
   },
@@ -1227,7 +1227,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241130/8S0nbmtv/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-061.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-061"
   },
@@ -1242,7 +1242,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/bde44191/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-062.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-062"
   },
@@ -1260,7 +1260,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/79e16c38c08f9e54333e76fb2fee142f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-063.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-063"
   },
@@ -1275,7 +1275,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/d8eff1bb2c260421a3c5d2e755f3459d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-064.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-064"
   },
@@ -1292,7 +1292,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/c0d10fff9d941ea53f85c593b23465ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-065"
   },
@@ -1307,7 +1307,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/a165e54e480ee2ada9d3e6dd6eb5a680.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-066.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-066"
   },
@@ -1322,7 +1322,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/9947ea86b08524bfb8f586f8250b48b5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-067.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-067"
   },
@@ -1337,7 +1337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/9f9c854f03694e28063763163ecc1f15.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-068.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-068"
   },
@@ -1352,7 +1352,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/2ab19c7a03200627ca6295ca993355c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-069.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-069"
   },
@@ -1369,7 +1369,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/ef8472beacd85cf80dcbfd46918091cb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-070.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-070"
   },
@@ -1384,7 +1384,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/5b5e690d1876846b296850f4f884fe76.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-071.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-071"
   },
@@ -1399,7 +1399,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/60e6fd9306c269a49ee8163731d3e982.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/KANO-072.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-072"
   }

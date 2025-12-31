@@ -1,65 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 115428,
-    "IDcode": "FC2-PPV-3680908",
-    "title": "在鬼屋般的废弃场所秘密实施强行作案的计划",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/e3a5c0d10b21186af12d795b29176fb9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3680908"
-  },
-  {
-    "id": 115412,
-    "IDcode": "FC2-PPV-3682022",
-    "title": "彻底沦陷的荡妇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-4/016fa7f802cbc1b1a01647a0cae741c8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3682022"
-  },
-  {
-    "id": 115397,
-    "IDcode": "FC2-PPV-3682193",
-    "title": "自从被我的闺蜜勾引的那天起",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/6ae8f89b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3682193"
-  },
-  {
-    "id": 115399,
-    "IDcode": "FC2-PPV-3682680",
-    "title": "被人骗去雨天约会还被带到了一家酒店",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3682680"
-  },
-  {
     "id": 115702,
     "IDcode": "FC2-PPV-3684251",
     "title": "成年的第一步是大量的淫语和永恒高潮的训练",
@@ -1348,24 +1288,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3736760"
   },
   {
-    "id": 573720,
-    "IDcode": "FC2-PPV-3737663",
-    "title": "【有码】 【FC2発撮り】颜出し！素人女子大生【限定】りこちゃん20歳 长身＆デカ尻の究极エロボディを持つ激カワ女子大生！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250719/N5kMSw2x/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3737663"
-  },
-  {
     "id": 115622,
     "IDcode": "FC2-PPV-3737778",
     "title": "住在目白区的漂亮少妻",
@@ -1581,5 +1503,86 @@ window.PAGE_DATA = [
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743483"
+  },
+  {
+    "id": 115612,
+    "IDcode": "FC2-PPV-3743489",
+    "title": "隔壁的漂亮OL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489"
+  },
+  {
+    "id": 574385,
+    "IDcode": "FC2-PPV-3743489-CD1",
+    "title": "【有码】 【マンション邻人SEX】-cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250610/bsLb23Xx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489-CD1"
+  },
+  {
+    "id": 574383,
+    "IDcode": "FC2-PPV-3743489-CD2",
+    "title": "【有码】 【マンション邻人SEX】-cd2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250610/AuDKU1y2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3743489-CD2"
+  },
+  {
+    "id": 115627,
+    "IDcode": "FC2-PPV-3745440",
+    "title": "我是单亲妈妈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/aa662ec6/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3745440"
+  },
+  {
+    "id": 115631,
+    "IDcode": "FC2-PPV-3745445",
+    "title": "和身穿浴衣的性感夏希酱约会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FC2",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-3745445"
   }
 ];

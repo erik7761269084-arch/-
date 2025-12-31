@@ -1,5 +1,337 @@
 window.PAGE_DATA = [
   {
+    "id": 216345,
+    "IDcode": "VEC-167",
+    "title": "友人の母親-香乃まどか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-167.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-167"
+  },
+  {
+    "id": 215590,
+    "IDcode": "VEC-172",
+    "title": "淫乱奥様-橘優花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-172.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-172"
+  },
+  {
+    "id": 67881,
+    "IDcode": "VEC-178",
+    "title": "喷出的痉挛-松井優子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "已婚妇女",
+      "单体作品",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-178.jpg",
+    "actress": [
+      "松井優子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-178"
+  },
+  {
+    "id": 213995,
+    "IDcode": "VEC-182",
+    "title": "友人の母親-和泉潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-182.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-182"
+  },
+  {
+    "id": 589901,
+    "IDcode": "VEC-187",
+    "title": "尖峰时刻对喷汗巨乳妹下手 七原朱莉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-187.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-187"
+  },
+  {
+    "id": 95707,
+    "IDcode": "VEC-189",
+    "title": "母亲的好友-佳澄果穗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "乱伦",
+      "无码破解",
+      "中出",
+      "处男",
+      "自慰",
+      "妈妈的朋友",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-189.jpg",
+    "actress": [
+      "香澄果穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-189"
+  },
+  {
+    "id": 215594,
+    "IDcode": "VEC-190",
+    "title": "淫乱奥様-若槻みづな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-190.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-190"
+  },
+  {
+    "id": 218527,
+    "IDcode": "VEC-191",
+    "title": "被我丈夫的老板强奸-吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-191.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-191"
+  },
+  {
+    "id": 198389,
+    "IDcode": "VEC-194",
+    "title": "我的老妈波多野结衣和我的死党瞒着我结婚了天天在家里内射做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-194.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-194"
+  },
+  {
+    "id": 209662,
+    "IDcode": "VEC-198",
+    "title": "部長の奥さん-吉川あいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-198.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-198"
+  },
+  {
+    "id": 176956,
+    "IDcode": "VEC-200",
+    "title": "为了让自己的问题儿子不被留级美熟女母亲吹石玲奈在校内受尽屈辱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-200.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-200"
+  },
+  {
+    "id": 216346,
+    "IDcode": "VEC-202",
+    "title": "VEC-202 德岛绘里，朋友的母亲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "内射",
+      "熟女",
+      "乱伦",
+      "继母",
+      "荡妇",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2016-06-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-202.jpg",
+    "actress": [
+      "德岛绘里",
+      "瀧口"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-202"
+  },
+  {
+    "id": 216344,
+    "IDcode": "VEC-204",
+    "title": "被一个朋友的妻子推倒了-円城ひとみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-204.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-204"
+  },
+  {
+    "id": 220023,
+    "IDcode": "VEC-205",
+    "title": "因为尿裤子被隔壁小正太抓住把柄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-205.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-205"
+  },
+  {
+    "id": 216343,
+    "IDcode": "VEC-207",
+    "title": "母の親友-たかせ由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-207.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-207"
+  },
+  {
+    "id": 209552,
+    "IDcode": "VEC-210",
+    "title": "友人の母親 佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-210.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-210"
+  },
+  {
+    "id": 551277,
+    "IDcode": "VEC-214",
+    "title": "友人の母亲 とみの伊织",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-214.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-214"
+  },
+  {
+    "id": 216341,
+    "IDcode": "VEC-223",
+    "title": "她妈妈的乳头-藍川なぎさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-223.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-223"
+  },
+  {
+    "id": 210568,
+    "IDcode": "VEC-234",
+    "title": "母親の再婚-安野由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-234.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-234"
+  },
+  {
     "id": 209676,
     "IDcode": "VEC-236",
     "title": "母の親友 佐々木あき",
@@ -10,7 +342,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-236.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-236"
   },
@@ -27,7 +359,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-241.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-241"
   },
@@ -50,7 +382,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-245.jpg",
     "actress": [
       "川上優"
     ],
@@ -67,7 +399,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-248.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-248"
   },
@@ -82,7 +414,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-250.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-250"
   },
@@ -97,7 +429,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-252.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-252"
   },
@@ -114,7 +446,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-253.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-253"
   },
@@ -138,7 +470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-254.jpg",
     "actress": [
       "南条れいな"
     ],
@@ -155,7 +487,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-261.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-261"
   },
@@ -170,7 +502,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-263.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-263"
   },
@@ -185,7 +517,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230718/vec264pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-264.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-264"
   },
@@ -200,7 +532,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/vec266pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-266.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-266"
   },
@@ -215,7 +547,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-267.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-267"
   },
@@ -230,7 +562,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230323/vec00268pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-268.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-268"
   },
@@ -245,7 +577,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-269.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-269"
   },
@@ -263,7 +595,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230321/vec00271pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-271.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-271"
   },
@@ -280,7 +612,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-272.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-272"
   },
@@ -297,7 +629,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-273.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-273"
   },
@@ -314,7 +646,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231221/vec275pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-275.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-275"
   },
@@ -331,7 +663,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-276.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-276"
   },
@@ -346,7 +678,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250705/UhZ3ba0X/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-281.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-281"
   },
@@ -361,7 +693,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-282.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-282"
   },
@@ -376,7 +708,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-285.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-285"
   },
@@ -391,7 +723,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-294.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-294"
   },
@@ -408,7 +740,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-296.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-296"
   },
@@ -423,7 +755,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-303.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-303"
   },
@@ -445,7 +777,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2af03224957abdf44c670ee6af9ba62a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-304.jpg",
     "actress": [
       "仓多真央"
     ],
@@ -465,7 +797,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20221020-1/70659d0e3fe7bd829fe7388ddddfb9ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-305.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-305"
   },
@@ -480,7 +812,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67841ca6f9a2e9b1d4988a5e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-307.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-307"
   },
@@ -495,7 +827,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-309.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-309"
   },
@@ -510,7 +842,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-313.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-313"
   },
@@ -525,7 +857,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-314.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-314"
   },
@@ -540,23 +872,33 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-319.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-319"
   },
   {
     "id": 593100,
     "IDcode": "VEC-324",
-    "title": "部长の奥さんがエロすぎて… 滝本エレナ",
+    "title": "VEC-324 老板娘好性感...... 泷本爱莲娜",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "人妻",
+      "内射",
+      "熟女",
+      "荡妇",
+      "单人作品",
+      "胸部"
+    ],
     "type": "有码",
     "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/42a18aa35255251dc0843b8678a73f7d.jpg",
-    "actress": [],
+    "publish_date": "2018-09-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-324.jpg",
+    "actress": [
+      "滝本エレナ",
+      "神健太郎"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-324"
   },
   {
@@ -570,7 +912,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3e8b5b7cc9edb3ab48ee7c4a31788d2d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-328.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-328"
   },
@@ -591,7 +933,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-329.jpg",
     "actress": [
       "八乃翼"
     ],
@@ -610,7 +952,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-330.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-330"
   },
@@ -625,7 +967,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67800e7c89def9b1b8cf343e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-331.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-331"
   },
@@ -646,7 +988,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9da3a66eb200e827221e4ac427cbf3ac.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-332.jpg",
     "actress": [
       "有坂深雪"
     ],
@@ -663,7 +1005,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/231d447f55bb123a4c75729d59deb028.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-334.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-334"
   },
@@ -678,7 +1020,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-335.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-335"
   },
@@ -695,7 +1037,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/9mCS2yuf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-336.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-336"
   },
@@ -716,7 +1058,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/34e83816c3cf5924327be966c72ca9c1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-338.jpg",
     "actress": [
       "音羽文子"
     ],
@@ -725,23 +1067,27 @@ window.PAGE_DATA = [
   {
     "id": 69872,
     "IDcode": "VEC-339",
-    "title": "友人の母親-桜庭ひかり",
+    "title": "VEC-339 朋友的母亲，樱场光。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "巨乳",
-      "已婚妇女",
+      "成熟的女人",
       "单体作品",
-      "乱伦",
+      "人妻",
+      "内射",
+      "已婚妇女",
+      "单人作品",
+      "熟女",
       "中出",
-      "成熟的女人"
+      "荡妇",
+      "乱伦"
     ],
     "type": "有码",
     "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cfa85585abe672e6c362e046f8222bfd.jpg",
+    "publish_date": "2019-01-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-339.jpg",
     "actress": [
       "桜庭ひかり"
     ],
@@ -758,7 +1104,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5e8fd00b7882a378c099962ffbf2e03.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-340.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-340"
   },
@@ -773,7 +1119,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6e8c7c4b6fb6ca8f3ffc11660b115d97.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-341.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-341"
   },
@@ -794,7 +1140,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ee19546dc7d26317c6fd45ef352f3d77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-342.jpg",
     "actress": [
       "君岛美绪"
     ],
@@ -817,7 +1163,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b427d7c40607f5a25eba08a4ae48aeaa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-343.jpg",
     "actress": [
       "水野優香",
       "真琴"
@@ -837,7 +1183,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ac6f4e48136eec66d86da9c5c412e9c7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-344.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-344"
   },
@@ -852,7 +1198,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/74180c6d63796bd86a25e38150e154eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-346.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-346"
   },
@@ -867,7 +1213,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/EsOnof57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-347.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-347"
   },
@@ -884,7 +1230,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-349.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-349"
   },
@@ -899,7 +1245,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-350.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-350"
   },
@@ -914,7 +1260,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e3b85db002b3e7ad3b83924098466a30.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-351.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-351"
   },
@@ -933,7 +1279,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783dc362a47ebb1a8971b1c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-352.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-352"
   },
@@ -948,7 +1294,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/8N5kaPhA.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-353.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-353"
   },
@@ -963,30 +1309,35 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/57407_cover_2025-09-21_142544.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-354.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-354"
   },
   {
     "id": 69769,
     "IDcode": "VEC-355",
-    "title": "友人の母親 香坂紗梨",
+    "title": "VEC-355 朋友的母亲 Sari Kosaka",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
+      "成熟的女人",
+      "人妻",
+      "内射",
       "已婚妇女",
-      "乱伦",
+      "熟女",
+      "单人作品",
       "中出",
-      "成熟的女人"
+      "乱伦"
     ],
     "type": "有码",
     "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4970242c077a23d7691256511700da7a.jpg",
+    "publish_date": "2019-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-355.jpg",
     "actress": [
-      "香坂紗梨"
+      "香坂紗梨",
+      "つよぽん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-355"
   },
@@ -1003,7 +1354,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7e2dc1cfdc777d5dcc5c705e15663c59.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-356.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-356"
   },
@@ -1018,7 +1369,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-357.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-357"
   },
@@ -1035,7 +1386,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e780887c53cf27a5a94c527dd23af533.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-358.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-358"
   },
@@ -1055,7 +1406,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67803c7b2a47ebb1a8842d4c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-359.jpg",
     "actress": [
       "君岛美绪"
     ],
@@ -1072,7 +1423,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a3fa5ebff148210ebac4e8b61aacecd7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-360.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-360"
   },
@@ -1089,7 +1440,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/qWy6QTUv.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-361.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-361"
   },
@@ -1110,7 +1461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d0e67d75680a194733a13065bede6159.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-362.jpg",
     "actress": [
       "篠崎环奈"
     ],
@@ -1127,7 +1478,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-363.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-363"
   },
@@ -1145,7 +1496,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ae851226d746f53bd3267d1041828cc8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-364.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-364"
   },
@@ -1165,7 +1516,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6509a6b9a52a9d77cff28ed70f4a7db4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-365.jpg",
     "actress": [
       "風間由美"
     ],
@@ -1188,7 +1539,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-366.jpg",
     "actress": [
       "君岛美绪"
     ],
@@ -1208,7 +1559,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6ed00d1914d68a9633aefc937941cdc0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-368.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-368"
   },
@@ -1225,25 +1576,36 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/4PQsIR3W.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-369.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-369"
   },
   {
     "id": 595064,
     "IDcode": "VEC-370",
-    "title": "母亲的好友",
+    "title": "VEC-370 母亲最好的朋友泷川绘里",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
+      "高挑",
+      "人妻",
+      "内射",
+      "熟女",
+      "单人作品",
+      "荡妇",
+      "妈妈朋友",
       "乱伦"
     ],
     "type": "有码",
     "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
+    "publish_date": "2019-07-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-370.jpg",
+    "actress": [
+      "滝川恵理",
+      "细田敦史"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-370"
   },
   {
@@ -1264,7 +1626,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "2019-07-19",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/tdGMreJf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-371.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-371"
   },
@@ -1281,7 +1643,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220919-1/3dcf2a4771e8aa951bcbe38219bc638b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-374.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-374"
   },
@@ -1298,7 +1660,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/84843_cover_2025-06-09_044200.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-375.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-375"
   },
@@ -1320,7 +1682,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0e10dcde12c17c0c984f67fd44aa70a4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-377.jpg",
     "actress": [
       "川上優"
     ],
@@ -1337,7 +1699,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-378.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-378"
   },
@@ -1354,7 +1716,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52f3b60b4f43dfc0dfccdd8d19486fcf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-379.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-379"
   },
@@ -1373,7 +1735,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-380.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-380"
   },
@@ -1388,7 +1750,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6783caf0f9a2e9b1d486c6df/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-381.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-381"
   },
@@ -1405,427 +1767,8 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "VENUS",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200124-1/9ab1c221572023f9e0207c7a6351adef.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/VEC-382.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-382"
-  },
-  {
-    "id": 72880,
-    "IDcode": "VEC-383",
-    "title": "和老公一起去按摩店的人妻-朝桐光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "乳房",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240831-1/7b97ae6419af4f9deef5fc8f9cb8eacd.jpg",
-    "actress": [
-      "朝桐光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-383"
-  },
-  {
-    "id": 70244,
-    "IDcode": "VEC-384",
-    "title": "被儿子的同班同学侵犯内射失去自尊沦为性奴的年轻母亲有坂深雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "素人作品",
-      "苗条",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c78c63485bdf79860407285d51e8d70.jpg",
-    "actress": [
-      "有坂深雪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-384"
-  },
-  {
-    "id": 166273,
-    "IDcode": "VEC-385",
-    "title": "妻の女友達に狙われた僕は中出しを拒めない 朝倉桃菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-385"
-  },
-  {
-    "id": 70065,
-    "IDcode": "VEC-386",
-    "title": "母の親友-東条蒼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "乳房",
-      "素人作品",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/35a0bc9257c3b45dab3dffb437deecc4.jpg",
-    "actress": [
-      "东条苍"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-386"
-  },
-  {
-    "id": 592667,
-    "IDcode": "VEC-388",
-    "title": "在丈夫面前当著鱿鱼的妻子森泽假名 - 森泽佳奈 (饭冈佳奈子)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/14/16232_cover_2025-06-14_052001.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-388"
-  },
-  {
-    "id": 69681,
-    "IDcode": "VEC-389",
-    "title": "寝取られおっぱいNTR 自慢の巨乳嫁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "精选，综合",
-      "成熟的女人",
-      "巨乳",
-      "已婚妇女",
-      "淫妻",
-      "中文字幕",
-      "中出",
-      "素人作品",
-      "NTR",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/097b63e93593d41e1ad042539c83991b.jpg",
-    "actress": [
-      "有沢実纱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-389"
-  },
-  {
-    "id": 104226,
-    "IDcode": "VEC-390",
-    "title": "老妈的美女人妻朋友-桜樹玲奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "巨大屁股",
-      "中出",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "桜树玲奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-390"
-  },
-  {
-    "id": 561505,
-    "IDcode": "VEC-391",
-    "title": "寝取られおっぱいNTR 自慢の巨乳嫁が俺の友达に揉みまくられて中出しまでされていた 八木あずさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-391"
-  },
-  {
-    "id": 565279,
-    "IDcode": "VEC-392",
-    "title": "在丈夫面前被色情狂做到高潮的人妻 川原佳苗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/88ee3c197a8c44448598f2d38e35ad8a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-392"
-  },
-  {
-    "id": 166274,
-    "IDcode": "VEC-393",
-    "title": "母の親友-辰巳あや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-393"
-  },
-  {
-    "id": 75678,
-    "IDcode": "VEC-394",
-    "title": "夫の前で痴漢に絶頂（いか）された妻 河北麻衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "已婚妇女",
-      "中文字幕",
-      "中出",
-      "性骚扰",
-      "苗条",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "河北麻衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-394"
-  },
-  {
-    "id": 75080,
-    "IDcode": "VEC-395",
-    "title": "被儿子的同学强奸后-知花凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "知花凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-395"
-  },
-  {
-    "id": 73069,
-    "IDcode": "VEC-396",
-    "title": "母の親友生野ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨乳",
-      "已婚妇女",
-      "中文字幕",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f6fe1a04877bf071690bd228d027453e.jpg",
-    "actress": [
-      "生野光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-396"
-  },
-  {
-    "id": 75691,
-    "IDcode": "VEC-397",
-    "title": "奸诈的会面-澤村レイコ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "中出",
-      "多P",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/c8b58f8d8c13635a6a46f624afd0b3ad.jpg",
-    "actress": [
-      "高坂ますみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-397"
-  },
-  {
-    "id": 83853,
-    "IDcode": "VEC-399",
-    "title": "寝取られおっぱいNTR 自慢の巨乳嫁が俺の友達に揉みまくられて中出しまでされていた 風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "成熟的女人",
-      "巨乳",
-      "已婚妇女",
-      "淫妻",
-      "中出",
-      "NTR",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/c2d503ca422b4aef0f4a2e42af3caa09.jpg",
-    "actress": [
-      "風間由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-399"
-  },
-  {
-    "id": 69683,
-    "IDcode": "VEC-401",
-    "title": "フロントホックブラと小さいパンティーで童貞の僕を挑発するとなりの奥さん 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨乳",
-      "已婚妇女",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/39cd9dd698e6efbbbbf4bf06fbe64326.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-401"
-  },
-  {
-    "id": 76678,
-    "IDcode": "VEC-403",
-    "title": "息子のクラスメイトに犯●れ続けてプライドを失った母親 岩沢香代",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/80c5c1d3e4cae96e607a3aa4b6a9e9ba.jpg",
-    "actress": [
-      "岩沢香代"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-403"
-  },
-  {
-    "id": 82814,
-    "IDcode": "VEC-405",
-    "title": "一度きりの浮気のはずが…抱かれては",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "已婚妇女",
-      "中文字幕",
-      "中出",
-      "成熟的女人",
-      "白天出轨"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [
-      "風間由美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-405"
-  },
-  {
-    "id": 533958,
-    "IDcode": "VEC-406",
-    "title": "淫肉痴●电车 痴●集団に捧げられた人妻の肉体 篠崎かんな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-406"
   }
 ];

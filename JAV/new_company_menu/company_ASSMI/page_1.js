@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250705-1/fc90015bb30b18a31af9a547316f74f1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ASEX-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-001"
   },
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ASSMI",
     "publish_date": "2025-05-22",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014231927927_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ASEX-002.jpg",
     "actress": [
       "夏目未來"
     ],
@@ -137,7 +137,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000344384384_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ASEX-003.jpg",
     "actress": [
       "有加里乃乃花"
     ],
@@ -196,7 +196,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/689953dd55337d7f7bcfacd9/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ASEX-004.jpg",
     "actress": [
       "前田沙羅"
     ],
@@ -247,7 +247,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821020937896896_69392_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/ASEX-005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-005"
   },

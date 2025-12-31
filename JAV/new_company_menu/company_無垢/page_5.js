@@ -1,5 +1,35 @@
 window.PAGE_DATA = [
   {
+    "id": 578976,
+    "IDcode": "MUKD-474",
+    "title": "パンツでお小遣いを稼ごうとする里垢制服女子と待ち合わせ。弱みに付け込んで无理やり肉棒奉仕させる。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-474.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-474"
+  },
+  {
+    "id": 565762,
+    "IDcode": "MUKD-476",
+    "title": "クズな教师に狙われた少女达 盗撮、ストーキング、ぶっかけ痴●、强袭レ×プ、校内调教、W完堕ち中出し…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-476.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-476"
+  },
+  {
     "id": 85652,
     "IDcode": "MUKD-477",
     "title": "制服美少女的乳头责弄 痴女的强制射精淫技 美少女6人 木下日葵,沙月芽衣,乙爱丽丝等演员",
@@ -16,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/83564bb685ac1a36e4503a1c96c48794.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-477.jpg",
     "actress": [
       "乙愛麗絲",
       "沙月惠奈",
@@ -36,7 +66,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221227/8fQkVSM3/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-478.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-478"
   },
@@ -51,7 +81,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a272fe19e0c84ca7c340b671d6109b54.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-479.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-479"
   },
@@ -66,7 +96,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230227/aLpbJKvl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-480.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-480"
   },
@@ -81,7 +111,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd2f689def9b1b8bebdde/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-481.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-481"
   },
@@ -96,7 +126,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230529/pv0F6Yzo/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-482.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-482"
   },
@@ -111,7 +141,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/26/68acbbae31eb0592de65b6fa/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-483.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-483"
   },
@@ -126,7 +156,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a45c989def9b1b80d6866/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-484.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-484"
   },
@@ -141,7 +171,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/fuVL4N0U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-485.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-485"
   },
@@ -156,7 +186,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4fda89def9b1b80d80dc/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-486.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-486"
   },
@@ -173,7 +203,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240614/mukd487pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-487.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-487"
   },
@@ -188,7 +218,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f19ff9a2e9b1d4aed9d2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-488.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-488"
   },
@@ -205,7 +235,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/FcP2q2oy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-490.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-490"
   },
@@ -220,7 +250,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/JV6NmoyT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-491.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-491"
   },
@@ -235,7 +265,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787f79b478d611da7752119/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-492.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-492"
   },
@@ -250,7 +280,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231120/jcQTHinH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-493.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-493"
   },
@@ -291,10 +321,10 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787e05dc179ffb1db907e59/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-494.jpg",
     "actress": [
       "沙月惠奈",
-      "栄川乃亜"
+      "荣川乃亚"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-494"
   },
@@ -309,7 +339,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787f637478d611da775210c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-495.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-495"
   },
@@ -330,7 +360,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240208-1/5d4ed6284dc950610b8ed81f5c1686ec.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-496.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-496"
   },
@@ -373,7 +403,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218080040832832.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-497.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-497"
   },
@@ -398,7 +428,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce1bf89def9b1b8bebea8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-498.jpg",
     "actress": [
       "市川りく",
       "日向ひかげ"
@@ -421,7 +451,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240219-1/25102b6ab0d1866fc8a64ec647efa07e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-499.jpg",
     "actress": [
       "奈築里緒"
     ],
@@ -455,7 +485,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "2024-02-20",
-    "cover_url": "https://picture.yoshiclub.xyz/20240218/202402180818154646.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-501.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-501"
   },
@@ -503,7 +533,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bf2e2a47ebb1a8b4c31f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-502.jpg",
     "actress": [
       "小島美子"
     ],
@@ -556,7 +586,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/fe721087aef14bb4b5715b99986665eb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-503.jpg",
     "actress": [
       "乃々瀬あい"
     ],
@@ -599,7 +629,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a26caac813dc779d960d1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-504.jpg",
     "actress": [
       "天乃のあ",
       "百咲未色"
@@ -643,7 +673,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/6ff7fb6a0b88f5be0554af151d563dd2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-505.jpg",
     "actress": [
       "藍瀬ミナ"
     ],
@@ -679,7 +709,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2b109dbf24d4ed31f6725/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-506.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-506"
   },
@@ -723,7 +753,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/240ff077a5bac265949cb0c1ed70c0d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-507.jpg",
     "actress": [
       "菊池春"
     ],
@@ -769,7 +799,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/02003f5aa66d65854aee2c0a355d7907.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-508.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-508"
   },
@@ -801,7 +831,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/3e7ef30b9a4d7ef43785876902e880e7.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-509.jpg",
     "actress": [
       "白石桃"
     ],
@@ -836,7 +866,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/94fcaabe696be8a06dfe00f44cd6bc6f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-510.jpg",
     "actress": [
       "夢乃陽菜"
     ],
@@ -887,7 +917,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/afd385e12ab4ce672b3b39e06eafb97d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-511.jpg",
     "actress": [
       "前田美波",
       "小島美子"
@@ -947,7 +977,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67877d4bc179ffb1db907c7d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-512.jpg",
     "actress": [
       "市川りく"
     ],
@@ -1008,7 +1038,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bcb88daf6b1db43c326e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-513.jpg",
     "actress": [
       "白橋里帆"
     ],
@@ -1051,7 +1081,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/de2754314f284eff7a0afd1a0d9176ff.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-514.jpg",
     "actress": [
       "白石桃"
     ],
@@ -1087,9 +1117,8 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f5b65d57b64bfd1a583a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-515.jpg",
     "actress": [
-      "伊織雛乃",
       "伊织雏乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-515"
@@ -1143,7 +1172,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67887fac5d57b64bfd2c046e/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-516.jpg",
     "actress": [
       "由良佳奈",
       "皆瀨明里"
@@ -1200,7 +1229,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678882b45d57b64bfd2c0a8a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-517.jpg",
     "actress": [
       "望月蕾",
       "奈築里緒",
@@ -1260,7 +1289,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aba28daf6b1db43c3003/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-518.jpg",
     "actress": [
       "前田美波",
       "倉木詩織",
@@ -1327,7 +1356,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e9f3cf22ae3e04db551c/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-519.jpg",
     "actress": [
       "前田美波",
       "倉木詩織",
@@ -1400,7 +1429,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aa0d8daf6b1db43c2fd4/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-520.jpg",
     "actress": [
       "雅子裡菜",
       "東雲梓"
@@ -1441,7 +1470,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3f22e2cbbe464027d5564/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-521.jpg",
     "actress": [
       "片寄しゅうか"
     ],
@@ -1481,7 +1510,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "2025-01-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075009697697.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-522.jpg",
     "actress": [
       "湊波流"
     ],
@@ -1547,7 +1576,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "2025-02-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075119891891.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-523.jpg",
     "actress": [
       "海野いくら",
       "森本あかり",
@@ -1600,7 +1629,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa4a839550e292a7863cbe/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-524.jpg",
     "actress": [
       "あおい藍"
     ],
@@ -1660,7 +1689,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a90196d41c35925d155b19/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-525.jpg",
     "actress": [
       "柏木小夏",
       "花音うらら",
@@ -1701,7 +1730,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f273404e7d663df48f0701/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-526.jpg",
     "actress": [
       "四乃宮桃"
     ],
@@ -1744,7 +1773,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994cf555337d7f7bcfa888/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-527.jpg",
     "actress": [
       "東雲梓"
     ],
@@ -1799,7 +1828,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f26ff34e7d663df48f06c6/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-528.jpg",
     "actress": [
       "市川りく",
       "雫月心桜"
@@ -1867,7 +1896,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f270cc4e7d663df48f06ee/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-529.jpg",
     "actress": [
       "松井日奈子"
     ],
@@ -1906,7 +1935,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250806-2/a24d8c533161b88b496074c0f12953ca.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-530.jpg",
     "actress": [
       "雅子裡菜"
     ],
@@ -1951,7 +1980,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063256485485_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-531.jpg",
     "actress": [
       "透美かなた"
     ],
@@ -2015,7 +2044,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/fdf8fffeedc462fb30d22f82f8cffe2f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-532.jpg",
     "actress": [
       "皆月光",
       "由良佳奈"
@@ -2057,7 +2086,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/2eb313a68e3cb614c58d96c64d82eb8f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-533.jpg",
     "actress": [
       "虹村由美",
       "向理来"
@@ -2123,7 +2152,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/06/15/a09aebe837a82e337de5b7c0a08538bc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-534.jpg",
     "actress": [
       "美木雛乃",
       "川口乃乃華"
@@ -2172,7 +2201,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515053324932932_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-535.jpg",
     "actress": [
       "赤名いと"
     ],
@@ -2226,7 +2255,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/05/689188ddc92318f97d7f6bf1/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-536.jpg",
     "actress": [
       "小島美子"
     ],
@@ -2290,7 +2319,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515092551817817_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-537.jpg",
     "actress": [
       "有馬美月",
       "あおい藍"
@@ -2356,7 +2385,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150544134848_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-539.jpg",
     "actress": [
       "白石桃",
       "小島美子"
@@ -2380,7 +2409,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250722-1/4f150bf4844f798c8137796fc1feaabe.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-540.jpg",
     "actress": [
       "湊波流"
     ],
@@ -2439,7 +2468,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c1a3ac92318f97d35b74f/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-541.jpg",
     "actress": [
       "南條彩",
       "雙葉麗奈",
@@ -2498,7 +2527,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae10b0682e2e9281a547d8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-542.jpg",
     "actress": [
       "北岡果林"
     ],
@@ -2545,7 +2574,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c1a8dc92318f97d35b772/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-543.jpg",
     "actress": [
       "赤名いと",
       "向理来"
@@ -2597,7 +2626,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030605465465_89420_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-544.jpg",
     "actress": [
       "乃木絢愛"
     ],
@@ -2659,7 +2688,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a52dca8cce1a927afca738/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-545.jpg",
     "actress": [
       "松井日奈子",
       "東雲梓"
@@ -2717,7 +2746,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062616618618_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-546.jpg",
     "actress": [
       "白石桃",
       "前田美波",
@@ -2775,7 +2804,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/8d311f5e/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-547.jpg",
     "actress": [
       "前田美波",
       "市川りく"
@@ -2831,7 +2860,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e8a5198bc99dfdd033723/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-549.jpg",
     "actress": [
       "市川りく"
     ],
@@ -2890,7 +2919,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/29/fe2bae22/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-550.jpg",
     "actress": [
       "市川りく",
       "小島美子",
@@ -2953,7 +2982,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/4fad2aca/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-551.jpg",
     "actress": [
       "雫月心桜",
       "湊波流"
@@ -2999,7 +3028,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/28/4abe01a43dc3bd8f4dc3ce3cd36b7a4d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-552.jpg",
     "actress": [
       "有馬美玖"
     ],
@@ -3016,7 +3045,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/1e4e03f8e8d583ed4a289b4fdaffaff5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-553.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-553"
   },
@@ -3072,7 +3101,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020802781781_97566_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-554.jpg",
     "actress": [
       "奈築里緒",
       "巨漢系"
@@ -3153,7 +3182,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/28/577478b6e887b773f6ddabdd509cb1cb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-555.jpg",
     "actress": [
       "河合陽菜"
     ],
@@ -3233,7 +3262,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/9376f656/vod.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-556.jpg",
     "actress": [
       "那津乃千奈美",
       "渡來楓"
@@ -3251,7 +3280,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/dfd67261c04a50e623f56113d191bd1e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-557.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-557"
   },
@@ -3266,8 +3295,191 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "無垢",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/23ac04a4a2cbf8dc603fc8c978d8f657.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MUKD-558.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-558"
+  },
+  {
+    "id": 4130,
+    "IDcode": "OFES-007",
+    "title": "OFES-007 我有能力做爱！\"当她轻手轻脚地靠近他时......却被处女的小弟弟打了回去。白桥莉穗，一个被彻底了解的厚脸皮女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "勾引・誘惑",
+      "大奶头",
+      "巨尻",
+      "辣妹/GAL系",
+      "辣妹",
+      "女上位",
+      "胸部",
+      "泳裝",
+      "絕頂高潮",
+      "艷遇",
+      "JK校服",
+      "美少女",
+      "内射",
+      "短髮",
+      "单人作品",
+      "胸控・戀乳癖",
+      "單體作品",
+      "拜金女",
+      "口罩",
+      "美乳",
+      "乳交",
+      "中出",
+      "美少女電影",
+      "清純",
+      "口交",
+      "不露臉",
+      "劇情",
+      "超爆乳",
+      "騎乗位",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "後入",
+      "形象俱樂部",
+      "豐滿",
+      "美人",
+      "手指插入"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2025-07-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/OFES-007.jpg",
+    "actress": [
+      "白橋里帆",
+      "しめじ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-007"
+  },
+  {
+    "id": 555460,
+    "IDcode": "PFES-016",
+    "title": "PFES-016 只要有人在身边，身体就会湿透...... 校服女孩，学校暴露训练 Erina Hill",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女学生",
+      "恋物",
+      "户外",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2021-03-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PFES-016.jpg",
+    "actress": [
+      "丘惠理奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-016"
+  },
+  {
+    "id": 85886,
+    "IDcode": "PFES-050",
+    "title": "PFES-050 绳子咬住了她的胯部，她痛苦地挣扎着......变态的角色扮演者、捆绑、羞耻、受虐欲望。 鲁鲁查",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "捆绑",
+      "角色扮演者",
+      "拘束",
+      "单人作品",
+      "Cosplay",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2022-04-05",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PFES-050.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "有栖露露"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-050"
+  },
+  {
+    "id": 15802,
+    "IDcode": "PFES-078",
+    "title": "PFES-078 老人的爱 肌肉发达的小魔女与爱穗铃进行了美妙的摇臀性交。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "潮吹",
+      "臀部",
+      "性感",
+      "巨尻",
+      "按摩棒",
+      "絕頂高潮",
+      "苗條",
+      "美少女",
+      "自宅",
+      "接吻",
+      "单人作品",
+      "胸控・戀乳癖",
+      "滥交",
+      "女優",
+      "臀控",
+      "美乳",
+      "乳交",
+      "中出",
+      "美少女電影",
+      "口交",
+      "騎乗位",
+      "巨乳",
+      "後入",
+      "無毛",
+      "抹油",
+      "手指插入",
+      "內衣",
+      "巨臀"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2024-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PFES-078.jpg",
+    "actress": [
+      "愛寶鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-078"
+  },
+  {
+    "id": 6624,
+    "IDcode": "PFES-100",
+    "title": "PFES-100 青年组 - Panchila Complex -.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "JK校服",
+      "写真视频",
+      "無做愛場面",
+      "企畫",
+      "美腿控",
+      "過膝襪・小腿襪",
+      "局部特寫",
+      "奇聞趣事",
+      "短裙",
+      "校服",
+      "唯美寫真",
+      "女学生",
+      "奇異的"
+    ],
+    "type": "有码",
+    "company": "無垢",
+    "publish_date": "2025-04-29",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/PFES-100.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-100"
   }
 ];

@@ -1,0 +1,381 @@
+window.PAGE_DATA = [
+  {
+    "id": 537167,
+    "IDcode": "SMBD-101",
+    "title": "SMBD-101 S Model 101 - 史上最性感的 20 位美女合集 3HR：北川瞳、筱田优、会田樱，共 20 位",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无码"
+    ],
+    "type": "无码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2014-05-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-101.jpg",
+    "actress": [
+      "篠田優",
+      "爱田樱",
+      "川瀬遥菜",
+      "上原結衣",
+      "百田ゆきな",
+      "大桃理沙",
+      "黒川ゆら",
+      "北川瞳",
+      "松井加奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-101"
+  },
+  {
+    "id": 554543,
+    "IDcode": "SMBD-102",
+    "title": "SMBD-102 S Model 102 课后工作 - 美丽女孩柏仓玲香的幕后故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2014-06-30",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-102.jpg",
+    "actress": [
+      "柏倉玲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-102"
+  },
+  {
+    "id": 554544,
+    "IDcode": "SMBD-108",
+    "title": "SMBD-108 S Model S Model 108: 名副其实的 Nakadashi 著名场景：Ruka Kanae",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2014-11-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-108.jpg",
+    "actress": [
+      "佳苗瑠華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-108"
+  },
+  {
+    "id": 1149,
+    "IDcode": "SMBD-115",
+    "title": "SMBD-115 S Model 115 Shameful Nakadashi Class : Miku Ohashi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美乳",
+      "中出",
+      "強姦",
+      "苗條",
+      "凌辱",
+      "口交",
+      "性感",
+      "脚控・戀足癖",
+      "劇情",
+      "女教師",
+      "輪姦",
+      "美腳",
+      "學校",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-01-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-115.jpg",
+    "actress": [
+      "大橋未久"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-115"
+  },
+  {
+    "id": 57935,
+    "IDcode": "SMBD-116",
+    "title": "SMBD-116 S 型 116 JK Heki 发情！肉禽训练计划！ 人物： 白崎葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "雪白皮肤",
+      "戏剧",
+      "店长推荐",
+      "口爆/吞精",
+      "深喉",
+      "跳",
+      "站立性交",
+      "写真",
+      "背部骑乘位",
+      "苗条",
+      "美乳",
+      "美女",
+      "中出",
+      "淋浴沐浴",
+      "美穴",
+      "无套内射",
+      "口交",
+      "束缚",
+      "立即口交",
+      "短发",
+      "美脚",
+      "制服",
+      "背后插入",
+      "骑乘位"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2014-12-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-116.jpg",
+    "actress": [
+      "白咲碧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-116"
+  },
+  {
+    "id": 225651,
+    "IDcode": "SMBD-122",
+    "title": "SMBD-122 S Model 122 糊涂女仆的服务：绫濑成实",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-03-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-122.jpg",
+    "actress": [
+      "綾瀬なるみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-122"
+  },
+  {
+    "id": 57937,
+    "IDcode": "SMBD-127",
+    "title": "SMBD-127 S 型 127 - 历史上最受欢迎的 12 位女演员 - 3 小时狂喜 DX：前田香织、小野江若叶、川村麻也、春日野由衣，共 12 人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "知名女优",
+      "雪白皮肤",
+      "店长推荐",
+      "巨乳爆乳",
+      "跳",
+      "站立性交",
+      "精品收藏",
+      "写真",
+      "背部骑乘位",
+      "颜面骑乘",
+      "白虎",
+      "美乳",
+      "美女",
+      "中出",
+      "淋浴沐浴",
+      "无套内射",
+      "口交",
+      "立即口交",
+      "乳液",
+      "美脚",
+      "背后插入",
+      "骑乘位",
+      "漂亮屁股"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-05-15",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-127.jpg",
+    "actress": [
+      "月見若葉",
+      "堀口真希",
+      "杏奈莉香",
+      "前田香織",
+      "Ray",
+      "川村真矢",
+      "井上英李",
+      "春日野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-127"
+  },
+  {
+    "id": 1799,
+    "IDcode": "SMBD-128",
+    "title": "SMBD-128 S 型 128 瞬间插入！ 视线侵入--我向后看的时候进来了--：相泽卡琳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美乳",
+      "中出",
+      "抹油",
+      "苗條",
+      "口交",
+      "美腳"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-05-27",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-128.jpg",
+    "actress": [
+      "爱泽花梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-128"
+  },
+  {
+    "id": 58131,
+    "IDcode": "SMBD-135",
+    "title": "SMBD-135 S 型 135 车迷感谢日：松本美惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "立即口交",
+      "乳交",
+      "制服",
+      "中出",
+      "背后插入",
+      "美女",
+      "无套内射",
+      "雪白皮肤",
+      "角色扮演",
+      "骑乘位",
+      "口交",
+      "站立性交",
+      "写真",
+      "巨乳爆乳",
+      "背部骑乘位",
+      "口爆/吞精"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-08-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-135.jpg",
+    "actress": [
+      "松本芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-135"
+  },
+  {
+    "id": 1732,
+    "IDcode": "SMBD-141",
+    "title": "SMBD-141 S Model 141 名校园小姐性行为活跃！ 人物： Mai Kamio",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美腳",
+      "中出",
+      "潮吹",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-10-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-141.jpg",
+    "actress": [
+      "神尾舞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-141"
+  },
+  {
+    "id": 58146,
+    "IDcode": "SMBD-155",
+    "title": "SMBD-155 S Model 155 - 最佳 3 小时 11 位女孩高潮特辑：波多野结衣、藤井菜奈、翼美咲、西川千寻，共 11 位女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "知名女优",
+      "雪白皮肤",
+      "店长推荐",
+      "巨乳爆乳",
+      "渔网裤袜",
+      "深喉",
+      "跳",
+      "M字开腿",
+      "站立性交",
+      "写真",
+      "背部骑乘位",
+      "美乳",
+      "中出",
+      "美女",
+      "无套内射",
+      "口交",
+      "束缚",
+      "立即口交",
+      "美脚",
+      "背后插入",
+      "骑乘位",
+      "漂亮屁股"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2016-04-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-155.jpg",
+    "actress": [
+      "波多野结衣",
+      "佐佐木真理亞",
+      "葉山友香",
+      "金井美绪",
+      "美星琉花",
+      "凪沙ゆう",
+      "西川千寻",
+      "藤井なな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-155"
+  },
+  {
+    "id": 58068,
+    "IDcode": "SMBD-179",
+    "title": "SMBD-179 S 型 179 Koi Ochi : Luna Kanda",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "第一人称视角(POV)",
+      "美乳",
+      "背后插入",
+      "美少女",
+      "骑乘位",
+      "口交",
+      "站立性交",
+      "店长推荐",
+      "写真",
+      "和服"
+    ],
+    "type": "有码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2017-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMBD-179.jpg",
+    "actress": [
+      "三原雅"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-179"
+  },
+  {
+    "id": 590062,
+    "IDcode": "SMD-133",
+    "title": "SMD-133 S 型号 133 极端业余爱好者出租。 细坂绘里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "中文字幕",
+      "无码",
+      "素人"
+    ],
+    "type": "无码",
+    "company": "スーパーモデルメディア",
+    "publish_date": "2015-07-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SMD-133.jpg",
+    "actress": [
+      "保坂えり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMD-133"
+  }
+];

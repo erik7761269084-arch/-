@@ -1,8 +1,295 @@
 window.PAGE_DATA = [
   {
+    "id": 565348,
+    "IDcode": "SW-874",
+    "title": "SW-874 与妯娌的性同居！那些用迷你裙和纤细臀部诱惑我的魔鬼小姐妹们，暗地里的目标是我的勃起！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "短裙",
+      "妹妹",
+      "迷你裙"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2022-11-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-874.jpg",
+    "actress": [
+      "沙月惠奈",
+      "桐香悠裡",
+      "星仲ここみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-874"
+  },
+  {
+    "id": 565347,
+    "IDcode": "SW-875",
+    "title": "SW-875 她那迷恋鸡巴、色情过度的大胸女友的姐妹们也很下流！当我第一次去我家做客时，就被这对无底线发情的姐妹挤得精尽人亡！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "妹妹"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2022-11-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-875.jpg",
+    "actress": [
+      "深月芽衣",
+      "野咲美桜",
+      "來栖美久"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-875"
+  },
+  {
+    "id": 550184,
+    "IDcode": "SW-877",
+    "title": "SW-877 三位面容姣好的姐妹在家中赤身裸体！姐妹俩被我的羞涩逗笑了，继续干了起来，她们的胸部靠得很近，我的阴茎完全勃起，忍不住用我那尴尬的小弟弟冲了上去，小弟弟上还滴着忍耐的汁液！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妹妹",
+      "全裸"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2022-12-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-877.jpg",
+    "actress": [
+      "有村希",
+      "美丘さとみ",
+      "蘭々",
+      "くりぼ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-877"
+  },
+  {
+    "id": 68596,
+    "IDcode": "SW-878",
+    "title": "SW-878 我可以看到女学生的裤子！ 我可以看到我每天都能看到的邻家女孩的裤子，所以我很感激今天能看到她们，我没想到会被她们的内裤诱惑，进入性爱的神圣境界。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "短裙"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2022-12-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-878.jpg",
+    "actress": [
+      "幾田真知",
+      "唯奈みつき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-878"
+  },
+  {
+    "id": 564283,
+    "IDcode": "SW-888",
+    "title": "SW-888 男士美容沙龙展示内裤！阴茎与沾满油脂的前戏屁股亲密接触，太过冲动，无法抑制。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容店",
+      "短裙",
+      "臀部",
+      "润滑液"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-04-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-888.jpg",
+    "actress": [
+      "岬梓沙",
+      "水卜麻衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-888"
+  },
+  {
+    "id": 564299,
+    "IDcode": "SW-892",
+    "title": "SW-892 身着紧身针织连体衣的受气鞭打的大奶人妻诱惑！被一个穿着紧身针织连体衣、大奶子快要溢出来的沮丧妻子诱惑！当她露出快要溢出来的大奶子，在我身上摩擦时，我完全失去了理智...... Alice Kisaki-Kozue Nakano",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-05-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-892.jpg",
+    "actress": [
+      "希咲愛莉絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-892"
+  },
+  {
+    "id": 564298,
+    "IDcode": "SW-893",
+    "title": "SW-893 儿子的妻子是个闷闷不乐的下流女人，她故意向儿子展示自己的大屁股和内裤，邀请儿子与她发生性关系：'我丈夫不和我发生性关系，所以我的公公会承担责任（心）'。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "短裙"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-05-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-893.jpg",
+    "actress": [
+      "唯奈みつき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-893"
+  },
+  {
+    "id": 564297,
+    "IDcode": "SW-894",
+    "title": "SW-894 三个小恶魔、情色和愚蠢的姐妹花勾引来家访的老师，用她们紧致的身体避免被留校！她们让老师的鸡巴在学生的小穴里悸动，实现了三赢！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-05-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-894.jpg",
+    "actress": [
+      "穂花あいり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-894"
+  },
+  {
+    "id": 89468,
+    "IDcode": "SW-895",
+    "title": "SW-895 我姐姐的一个朋友，她用超短裙里的内裤诱惑我，当我翻起她的裙子时，她就是一个浑身散发着霸王硬上弓味道的多节小恶魔：\"你哥哥火热的阴茎正从我的内裤里钻进来......",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "短裙",
+      "迷你裙"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-895.jpg",
+    "actress": [
+      "軍曹",
+      "平田司",
+      "堀内始"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-895"
+  },
+  {
+    "id": 89454,
+    "IDcode": "SW-896",
+    "title": "SW-896 黑色紧身裤女孩的阴部 黑色紧身裤女孩的大腿和内裤，我在课堂上对她很感兴趣！圆滚滚的黑色紧身裤屁股让我勃起！女孩们也能看到我，我已经准备好用我湿滑的阴部干她们了！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "短裙",
+      "连裤袜",
+      "丝袜",
+      "足交"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-05-25",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-896.jpg",
+    "actress": [
+      "末広純",
+      "黑井优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-896"
+  },
+  {
+    "id": 89448,
+    "IDcode": "SW-897",
+    "title": "SW-897 催情精油按摩，让年轻妻子沉迷其中。当她过于敏感的阴部被冲撞，双腿张开，热乎乎的肉棒进入她体内的那一刻，她就会痉挛、虾米一样抬起头！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "药物",
+      "人妻",
+      "按摩"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-897.jpg",
+    "actress": [
+      "結城蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-897"
+  },
+  {
+    "id": 89449,
+    "IDcode": "SW-898",
+    "title": "SW-898 我吹箫比数学强多了 和高过膝盖的女孩一起学习性爱吧 用你年轻的身体诱惑你的导师！一边学习一边操逼吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "过膝袜"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-898.jpg",
+    "actress": [
+      "美澄玲衣",
+      "軍曹",
+      "龟次郎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-898"
+  },
+  {
+    "id": 89451,
+    "IDcode": "SW-899",
+    "title": "SW-899 与三个丰满的大胸姐妹同住在一间六榻榻米的房间里！正值性生活旺盛期的男女们无法忍受，为了不被发现，只好杀声震天地做爱！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "BBW",
+      "胖女人"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-06-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-899.jpg",
+    "actress": [
+      "水原みその",
+      "赤城穂波",
+      "月見伊織",
+      "軍曹",
+      "くりぼ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-899"
+  },
+  {
     "id": 89183,
-    "IDcode": "SW-0900",
-    "title": "巨乳に成長した従姉妹のお姉ちゃんと混浴温泉旅行！僕のチ○ポだってもう大人、子供扱いするお姉ちゃんにお風呂でブッ挿してイカセちゃった！！",
+    "IDcode": "SW-900",
+    "title": "SW-900 与已经长成大胸妹的表姐妹妹的混浴之旅！我的小弟弟已经长大成人，还让把我当小孩的姐姐在浴缸里射了精！",
     "year": "",
     "country": "",
     "genre": "",
@@ -12,16 +299,17 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-06-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/24d32b0f8d2f3e3ace5c1fa0f348ddc1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-900.jpg",
     "actress": [
+      "若宮葉月",
       "若宫はずき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0900"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-900"
   },
   {
     "id": 89182,
-    "IDcode": "SW-0901",
-    "title": "裸じゃないから問題ないでしょ！？ スケスケヌレヌレ女子○生風呂！ カラダは成長中なのに従姉妹たちは、今でも一緒にお風呂に入ろうと誘ってくるので断固拒否したら、制服のままだったらいいよね！と、制服姿でザブン！僕のチ○ポはビンビン！",
+    "IDcode": "SW-901",
+    "title": "SW-901 你没有裸体，所以无所谓！ 简略的裸女浴池！ 我的身体还在发育，但表哥表姐们还是邀请我一起洗澡，当我拒绝时，他们说如果我还穿着校服就没问题！我拒绝了，他们就穿着校服给我电击！我的鸡巴还在嗡嗡作响！",
     "year": "",
     "country": "",
     "genre": "",
@@ -32,375 +320,446 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-06-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/ec952c397fc0857ac1e0543571dcd7ca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0901"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-901.jpg",
+    "actress": [
+      "流川莉央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-901"
   },
   {
     "id": 89208,
-    "IDcode": "SW-0902",
-    "title": "恋人交換！ラブラブカップル同志がパートナ替えてスワップSEX！親友の彼氏のチ○ポを、親友と彼氏の目の前で挿入されて激興奮！！",
+    "IDcode": "SW-902",
+    "title": "SW-902 交换情人一对情侣交换伴侣，进行交换性爱！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "迷你裙",
+      "内衣",
+      "短裙",
       "过膝袜",
-      "内衣"
+      "迷你裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-07-06",
-    "cover_url": "https://tuaskbgnekr.com/20240806/SA3qgyBq/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-902.jpg",
     "actress": [
       "皆月光",
       "星空萌愛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0902"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-902"
   },
   {
     "id": 78216,
-    "IDcode": "SW-0903",
-    "title": "ラッキースケベパンチラ女子○生 あ！今パンツ見てたでしょ！と、ドジっ娘従姉妹とめくるめくエッチでキュートな神展開に精子放出！",
+    "IDcode": "SW-903",
+    "title": "SW-903 幸运的滑冰内裤女学生你刚才在看我的裤子，是吗？并释放出你的精液，与你那躲躲闪闪的表妹一起进行令人眼花缭乱的淘气又可爱的神发展！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
       "内衣",
+      "短裙",
+      "高中女生",
+      "女学生",
       "校服"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241103-1/ccac72cdab4c854218dff3a2c5343b21.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0903"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-903.jpg",
+    "actress": [
+      "桃木結愛",
+      "美音夢",
+      "優里なお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-903"
   },
   {
     "id": 89198,
-    "IDcode": "SW-0904",
-    "title": "友人のシェアハウスに遊びに行ったらノーブラ巨乳の美人のお姉さんだらけだった！？緊張する僕を優しくもてなしてくれるお姉さんの服の間からオッパイ丸見えでフル勃起しちゃった僕のチ○ポも優しく？もてなされちゃいました！！",
+    "IDcode": "SW-904",
+    "title": "SW-904 我去朋友的合租屋做客时，满屋子都是胸大无胸罩的美女！我很紧张，但我受到了热情款待，我的小弟弟完全勃起了，因为我看到了她衣服间的胸部。我受到了热情款待！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大阴茎",
-      "口交",
       "巨乳",
+      "巨大阴茎",
+      "大鸡巴",
+      "无胸罩",
+      "口交",
       "不穿胸罩"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-07-06",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241103-1/bb58401a4a18ad24dacfad484cdc2b5f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-904.jpg",
     "actress": [
-      "叶月桃"
+      "安西天",
+      "叶月桃",
+      "小野崎りこ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0904"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-904"
   },
   {
     "id": 545081,
-    "IDcode": "SW-0905",
-    "title": "同窗会で人妻になっていた初恋の女と出会いラッキーSEXできちゃったもんね（ハート）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240806/2VxGgyUU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0905"
-  },
-  {
-    "id": 545080,
-    "IDcode": "SW-0906",
-    "title": "黒パンスト美人上司 できる女上司がオチ○ポ欲しさにパンスト诱惑してきて性欲爆発！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240806/r2gkJfUh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0906"
-  },
-  {
-    "id": 89207,
-    "IDcode": "SW-0907",
-    "title": "近所の人妻のむっちり黒パンスト！透けたデカ尻パンチラで誘ってきたからパンスト破ってズブズブ挿入しちゃったよ",
+    "IDcode": "SW-905",
+    "title": "SW-905 在一次同学聚会上，我遇到了我的初恋情人，她现在已经是有夫之妇，我们幸运地发生了性关系（心）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "已婚妇女",
-      "巨大屁股",
-      "迷你裙",
-      "连裤袜",
-      "内衣"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "2023-08-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/79b0154014292994f75d92ed1463bb2f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0907"
-  },
-  {
-    "id": 89184,
-    "IDcode": "SW-0908",
-    "title": "クラスの女子が僕の秘蔵のオナホを見つけ、オナホ使うところ見せてよ！勃起しないと無理だよ！じゃ私の黒タイツパンツ見たら勃起する？と、まさかの神展開ゲットだぜ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "制服",
       "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
+    "publish_date": "2023-07-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-905.jpg",
+    "actress": [
+      "皆川るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-905"
+  },
+  {
+    "id": 545080,
+    "IDcode": "SW-906",
+    "title": "SW-906 黑色连裤袜美女老板 一个能干的女老板勾引了一个对阴部饥渴难耐的连裤袜诱惑者，性欲爆棚！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "丝袜",
+      "足交"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-07-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-906.jpg",
+    "actress": [
+      "末広純",
+      "本田瞳",
+      "有馬凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-906"
+  },
+  {
+    "id": 89207,
+    "IDcode": "SW-907",
+    "title": "SW-907 邻居已婚妇女穿着丰满的黑色连裤袜！我扯掉她的连裤袜，光着屁股插入了她的身体！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "短裙",
+      "迷你裙",
+      "人妻",
+      "连裤袜",
+      "已婚妇女",
+      "丝袜",
+      "巨大屁股",
+      "巨臀"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
     "publish_date": "2023-08-10",
-    "cover_url": "https://tuaskbgnekr.com/20240806/U6OGCsUz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0908"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-907.jpg",
+    "actress": [
+      "羽田贵史",
+      "堀内始",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-907"
+  },
+  {
+    "id": 89184,
+    "IDcode": "SW-908",
+    "title": "SW-908 班上有个女生发现了我珍藏的自慰器，想教我怎么用！如果我不勃起，我就做不到！如果你看到我穿黑色紧身衣 你会勃起吗？我没想到我会勃起，伙计",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "制服",
+      "口交",
+      "丝袜",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2023-08-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-908.jpg",
+    "actress": [
+      "美澄玲衣",
+      "優里なお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-908"
   },
   {
     "id": 89194,
-    "IDcode": "SW-0909",
-    "title": "おかあさんばっかりズルい！！再婚したむっちり巨乳妻の連れ子がチンポの気配に発情してムチムチボディで誘惑してくる！？あざとく見せつけてくるエロイ体にもう我慢できません！！",
+    "IDcode": "SW-909",
+    "title": "SW-909 你所做的只是欺骗！再婚的丰满大胸妻子的继女一看到鸡巴就发情，用她被鞭打的身体诱惑你！她再也无法忍受了，用她伶俐的身体嘲弄地炫耀着！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
       "巨乳",
-      "已婚妇女"
+      "口交",
+      "已婚妇女",
+      "人妻"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-08-10",
-    "cover_url": "https://tuaskbgnekr.com/20240806/EHRkNPec/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0909"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-909.jpg",
+    "actress": [
+      "柚木ひおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-909"
   },
   {
     "id": 89205,
-    "IDcode": "SW-0910",
-    "title": "ボインとデカ尻が密着するメンズエステで勃起し過ぎたペニスがエステティシャンの股間に猛アタック！「お客様そんなに動いたらパンティ破って入ってきちゃいますよぉ（ハート）」",
+    "IDcode": "SW-910",
+    "title": "SW-910 在一家胸部和大屁股紧紧挨在一起的男士美容院里，一个勃起过度的男人的阴茎袭击了美容师的胯部！美容师太性感了，如果她再动一下，他就会把她的内裤扯掉。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "巨大屁股",
-      "迷你裙",
       "内衣",
-      "美容院"
+      "短裙",
+      "迷你裙",
+      "美容院",
+      "美容店",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-08-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/3fdfebb049f5a9dcc5972f1eab3aec22.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-910.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0910"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-910"
   },
   {
     "id": 89199,
-    "IDcode": "SW-0911",
-    "title": "黒パンスト尻 美人上司がからかいパンストパンチラ誘惑してきて、僕のチ○ポでストレス解消してきた！",
+    "IDcode": "SW-911",
+    "title": "SW-911 黑色连裤袜屁股 漂亮老板挑逗连裤袜 连裤袜诱惑了我，缓解了我的阳具压力！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "连裤袜",
-      "内衣"
+      "内衣",
+      "短裙",
+      "丝袜",
+      "连裤袜"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-08-24",
-    "cover_url": "https://tuaskbgnekr.com/20240806/YA2tcR2V/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0911"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-911.jpg",
+    "actress": [
+      "流川莉央",
+      "弘中優",
+      "青田悠華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-911"
   },
   {
     "id": 89195,
-    "IDcode": "SW-0912",
-    "title": "女子社員黒パンスト",
+    "IDcode": "SW-912",
+    "title": "SW-912 女员工黑色连裤袜",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
+      "短裙",
       "连裤袜",
-      "OL",
-      "内衣"
+      "丝袜",
+      "OL"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-09-07",
-    "cover_url": "https://tuaskbgnekr.com/20240806/LM8ia1iz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-912.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0912"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-912"
   },
   {
     "id": 78153,
-    "IDcode": "SW-0913",
-    "title": "ブルマ穿いて欲しいんでしょ！この変態さん！東京から来た従姉妹がエッチな女子○生に成長してた編 どうしてもお従兄ちゃんとエッチしたい従姉妹が、従兄の隠していたブルマ体操着を発見！！従姉妹のブルマ体操着姿にフル勃起して、ラブラブしまくった！",
+    "IDcode": "SW-913",
+    "title": "SW-913 你想让我穿紧身裤你这个变态来自东京的表妹已成长为淘气的女学生版 表妹很想和表哥做爱，却发现了表哥藏起来的开裆裤运动服！她完全勃起，穿着运动服和表妹做爱！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "灯笼裤",
       "运动短裤"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-09-07",
-    "cover_url": "https://tuaskbgnekr.com/20240806/xa7EcmjJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0913"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-913.jpg",
+    "actress": [
+      "美澄玲衣",
+      "結城蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-913"
   },
   {
     "id": 89210,
-    "IDcode": "SW-0914",
-    "title": "ヤリマン黒ギャルお姉さんの2穴セックスを覗いてしまった真面目姉妹！？前も後ろも入れられてめちゃくちゃ気持ち良さそうな2穴セックスを試してみたくなっちゃった！！",
+    "IDcode": "SW-914",
+    "title": "SW-914 认真的姐妹们，偷看她们放荡的黑妹的两穴性交！我想尝试一下双孔性交，前后都被塞进去，看起来很爽！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "女生",
-      "滥交",
+      "3P",
       "多P",
-      "肛交"
+      "肛门",
+      "4P",
+      "滥交",
+      "辣妹",
+      "口交",
+      "肛交",
+      "女生"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-09-07",
-    "cover_url": "https://tuaskbgnekr.com/20240806/yV4DaPZw/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-914.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0914"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-914"
   },
   {
     "id": 89193,
-    "IDcode": "SW-0915",
-    "title": "むっちりスケベ尻で義父や義兄を近親不倫に誘うイケナイ嫁",
+    "IDcode": "SW-915",
+    "title": "SW-915 不幸的妻子用自己丰满肮脏的下体邀请公公和小叔子参加乱伦。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
       "内衣",
-      "巨大屁股"
+      "短裙",
+      "人妻",
+      "已婚妇女",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-09-21",
-    "cover_url": "https://tuaskbgnekr.com/20240806/kWxizn8g/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0915"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-915.jpg",
+    "actress": [
+      "加藤あやの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-915"
   },
   {
     "id": 89197,
-    "IDcode": "SW-0916",
-    "title": "君の大好きなパンツだぞ！女子○生パンチラからの見せつけ誘惑！ パンツ挑発に我慢できず生挿入中出ししちゃった僕に、怒らないで2回戦目を求めてきた幼なじみ",
+    "IDcode": "SW-916",
+    "title": "SW-916 这是你最喜欢的一条裤子！来自女学生内裤的诱惑，让我大显身手！ 我经不住长裤的挑逗，生生插了进去，青梅竹马的中达志也不生气地向我要了第二轮。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
+      "内衣",
+      "短裙",
+      "青梅竹马",
       "童年朋友",
-      "内衣"
+      "内射",
+      "中出"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-09-21",
-    "cover_url": "https://tuaskbgnekr.com/20240806/JE6wVAJI/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-916.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0916"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-916"
   },
   {
     "id": 89209,
-    "IDcode": "SW-0917",
-    "title": "妹のプリ尻パンチラは悪魔の誘惑！兄の勃起に気づいてた妹もムラムラが止まらず家族に内緒で禁断の近親SEX暴走ピストンしちゃったヨ",
+    "IDcode": "SW-917",
+    "title": "SW-917 魔鬼的诱惑是妹妹的前射精裤袜！妹妹发现弟弟勃起，欲罢不能，于是瞒着家人与弟弟发生了禁止的亲密性行为，活塞疯狂地跳动起来！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "侮辱",
       "乱伦"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-10-12",
-    "cover_url": "https://tuaskbgnekr.com/20240806/dxko66d8/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-917.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0917"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-917"
   },
   {
     "id": 89206,
-    "IDcode": "SW-0918",
-    "title": "お姉ちゃんのパンスト好きでしょ？中出しして！ 夫が相手にしてくれず僕のチ○ポ求めてパンスト痴女誘惑してきた姉とパンストSEX！",
+    "IDcode": "SW-918",
+    "title": "SW-918 你喜欢你姐姐的连裤袜，对吧？射在我里面吧 和我姐姐的连裤袜性爱 她勾引了一个连裤袜淫荡女人 来找我的小弟弟 因为她丈夫不和她玩",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出"
+      "中出",
+      "内射"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-10-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/e306fe8696279cc102a01eb8b1d8ac00.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-918.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0918"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-918"
   },
   {
     "id": 78218,
-    "IDcode": "SW-0919",
-    "title": "旦那が相手をしてくれない欲求不満の色白むっちりデカ尻巨乳の奥様達が近所のモテない君たちを誘惑しちゃう！？ムチムチ爆乳奥様達に密着誘惑されてフル勃起したチンポを勝手に騎乗位挿入されちゃって満足するまでご奉仕させられちゃいました！！",
+    "IDcode": "SW-919",
+    "title": "SW-919 白嫩丰满、大屁股、大胸脯的妻子们因为丈夫不陪她们玩而感到沮丧，她们勾引邻居家不好看的男孩！丰满大屁股大奶子的妻子们受到鞭打后的大胸妻子们的诱惑，她们擅自将完全勃起的阴茎插入女牛仔体位，让她们伺候到满意为止！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "已婚妇女"
+      "已婚妇女",
+      "人妻"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-10-12",
-    "cover_url": "https://tuaskbgnekr.com/20240806/4B2XErnG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-919.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0919"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-919"
   },
   {
     "id": 89192,
-    "IDcode": "SW-0920",
-    "title": "「一緒にお風呂入ろ！」大人に成長した従姉妹の無防備ボインと混浴！フル勃起チ〇ポを洗うふりして握りしめマ〇コにお出迎え～（ハート）",
+    "IDcode": "SW-920",
+    "title": "SW-920 和我一起洗澡和已经长大成人的表妹们毫无保护的胸部混合洗澡！我会假装洗我完全勃起的小弟弟，然后欢迎你进入我的小穴，紧紧抓住它--（心）\"。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "多P"
+      "3P",
+      "多P",
+      "4P"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-10-26",
-    "cover_url": "https://tuaskbgnekr.com/20240807/2TdMdIHm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-920.jpg",
     "actress": [
-      "加藤桃香"
+      "加藤桃香",
+      "加藤あやの"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0920"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-920"
   },
   {
     "id": 89181,
-    "IDcode": "SW-0921",
-    "title": "制服女子○生に誘われて我慢できず入浴しちゃった僕！ スケベなお従兄ちゃんのために制服のままお風呂に入る小悪魔従姉妹たち。濡れた制服が張り付いてピンク乳首丸見え！水をはじくピチピチ肌！発育中マ○コいただきます！",
+    "IDcode": "SW-921",
+    "title": "SW-921 我受到一位穿校服的女学生的邀请，忍不住去洗了个澡！ 小恶魔表妹穿着校服给脏兮兮的表哥洗澡。湿透的校服粘在她们身上，粉红色的乳头一览无余！她们的皮肤非常紧致，可以防水！我要你那越来越大的阴部",
     "year": "",
     "country": "",
     "genre": "",
@@ -411,73 +770,84 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-10-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/263d8fe10fdde89a29512d1f08134568.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0921"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-921.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-921"
   },
   {
     "id": 89196,
-    "IDcode": "SW-0922",
-    "title": "夫婦交換スワッピング 主人の見てる前で私を犯して！",
+    "IDcode": "SW-922",
+    "title": "SW-922 婚姻交换 交换--在我丈夫眼前操我！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "人妻",
       "夫妻交换",
       "已婚妇女",
-      "白天出轨"
+      "NTR"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-11-09",
-    "cover_url": "https://tuaskbgnekr.com/20240807/gmMlUlVC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0922"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-922.jpg",
+    "actress": [
+      "紺野美衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-922"
   },
   {
     "id": 78531,
-    "IDcode": "SW-0923",
-    "title": "お兄ちゃんカワイイでしょ？モフモフする？ 妹がエロコスだとは知らずに買ってきて、着替えているのを発見！ハミ乳！ハミ尻肉！獣耳！を見て勃起した僕を誘惑してくるからナデナデよしよしパンパンした！",
+    "IDcode": "SW-923",
+    "title": "SW-923 他很可爱吧，大哥？你想揩油吗？ 我妹妹买了这个，却不知道这是色情角色扮演，然后发现我在换衣服！哈米的奶子哈米屁股肉野兽耳朵她一看到我就勃起诱惑我，于是我对她挤眉弄眼，娇喘连连！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "巨乳",
       "妹妹",
-      "口交",
-      "巨乳"
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-11-09",
-    "cover_url": "https://tuaskbgnekr.com/20240807/J6hQDg4U/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-923.jpg",
     "actress": [
       "美澄玲衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0923"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-923"
   },
   {
     "id": 89174,
-    "IDcode": "SW-0925",
-    "title": "同窓会で会った初恋の女とヤッちゃった！人妻になった彼女は欲求不満でパンチラ誘惑しかけてくる。宴会場のトイレや廊下や旦那が留守の彼女の家でラッキーSEX！",
+    "IDcode": "SW-925",
+    "title": "SW-925 我上了我的初恋情人，一个在同学聚会上认识的女人！现在她已经结婚了，她很沮丧，试图用她的内裤诱惑我。在宴会厅的厕所里，在走廊上，在她丈夫不在家的时候，在她的家里，都能幸运地做爱！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "已婚妇女",
-      "内衣"
+      "人妻",
+      "内衣",
+      "短裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-11-23",
-    "cover_url": "https://tuaskbgnekr.com/20240807/q1LB0Mg4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0925"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-925.jpg",
+    "actress": [
+      "羽田贵史",
+      "堀内始",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-925"
   },
   {
     "id": 89173,
-    "IDcode": "SW-0926",
-    "title": "ニーハイ女子○生Tバック尻 学校の女子が、からかいパンツ誘惑してくるので、モミまくって擦りつけて合体！",
+    "IDcode": "SW-926",
+    "title": "SW-926 高过膝盖的女学生丁字裤臀部 女学生挑逗诱惑的裤子，让她们摩擦结合！",
     "year": "",
     "country": "",
     "genre": "",
@@ -488,156 +858,184 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-11-23",
-    "cover_url": "https://tuaskbgnekr.com/20240807/WOPqfHK6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0926"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-926.jpg",
+    "actress": [
+      "黑井优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-926"
   },
   {
     "id": 89491,
-    "IDcode": "SW-0927",
-    "title": "ミニスカパンチラでその気にさせ回春を誘うメンズエステ。オイルまみれのボインとデカ尻が勃起ペニスに密着！もう挿入するしかないっすよね！！",
+    "IDcode": "SW-927",
+    "title": "SW-927 男士美容沙龙，迷你裙内裤让你如痴如醉，唤醒青春活力。浸油的胸部和大屁股紧贴着勃起的阴茎！别无选择，只能已经插入！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "巨大屁股",
-      "迷你裙",
       "内衣",
-      "美容院"
+      "短裙",
+      "迷你裙",
+      "美容院",
+      "美容店",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-12-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231219-1/b4ba903f80c2c2df384b81862c669cff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0927"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-927.jpg",
+    "actress": [
+      "中野亚梨沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-927"
   },
   {
     "id": 89492,
-    "IDcode": "SW-0928",
-    "title": "お願いエッチさせて！う～ん、ゴムフェラだったらいいよ 童貞の僕はエッチしたくて土下座でお願いしたら、断れない幼なじみの妥協案はゴムフェラだった！？でも勃起チ○ポ舐めてたら興奮しちゃって、ねっとりバキュームフェラからマ○コに入れて欲しくなったみたい！",
+    "IDcode": "SW-928",
+    "title": "SW-928 请让我和你做爱！我是个处男，我想和她做爱，于是我跪下来向她请求，但我的青梅竹马无法拒绝我，于是我做出了妥协：用橡胶口交！但当我舔她勃起的阴茎时，她兴奋起来，要我把它从粘稠的真空口交中插入她的阴道！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "处男",
+      "青梅竹马",
       "童年朋友",
-      "口交"
+      "口交",
+      "处男"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-12-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231219-1/c87199b4e4626c2b490ad50c0f8504cd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-928.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0928"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-928"
   },
   {
     "id": 94823,
-    "IDcode": "SW-0930",
-    "title": "近所に住む性欲の強すぎる人妻達。階段パンチラで若いチ●ポを誘い玄関に入るとネットリ接吻、旦那の目を盗み台所や風呂場で…不倫SEXでしか燃えない奥様たちの性態",
+    "IDcode": "SW-930",
+    "title": "SW-930 住在附近的已婚妇女性欲旺盛。她们在楼梯上用内裤引诱年轻的鸡巴，一进大门就净身出户接吻，在厨房或浴室里偷看丈夫的眼睛并接吻......这些妻子的性态度只有在发生通奸性行为时才会燃烧起来。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
       "内衣",
-      "出轨"
+      "短裙",
+      "人妻",
+      "出轨",
+      "已婚妇女"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-12-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241103-1/6d21bfed9024f88337234d29b39ba7c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0930"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-930.jpg",
+    "actress": [
+      "加藤あやの",
+      "岬梓沙",
+      "永瀬愛菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-930"
   },
   {
     "id": 94824,
-    "IDcode": "SW-0931",
-    "title": "ブルマ穿いて欲しいんでしょ！この変態さん！5 どうしてもお兄ちゃんとエッチしたいブラコン女子○生の妹が、兄の隠していたブルマ体操着を発見！！妹のブルマ体操着姿にフル勃起して、ついに一線を越えて擦りつけハメてしまった！",
+    "IDcode": "SW-931",
+    "title": "SW-931 你想让我穿开裆裤，是吗？你这个变态！！！5 一个顽皮的女学生的姐姐很想和弟弟做爱，却发现了弟弟藏起来的开裆裤运动服！她一看到妹妹穿着开裆裤就完全勃起，最终越过底线，揉搓并干了妹妹！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "灯笼裤",
+      "乱伦",
       "运动短裤",
-      "乱伦"
+      "侮辱"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2023-12-21",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f213a652c12b4e68509823/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-931.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-931"
   },
   {
     "id": 94827,
-    "IDcode": "SW-0932",
-    "title": "ムッチリ黒パンストで無意識に誘惑してくる女子社員を会社や出張先でパンスト脱がさないでハメちゃった！",
+    "IDcode": "SW-932",
+    "title": "SW-932 我上过一个女员工，她在工作或出差时没有脱掉连裤袜，而是无意识地用她丰满的黑色连裤袜诱惑我！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
+      "短裙",
       "连裤袜",
-      "OL",
-      "内衣"
+      "丝袜",
+      "OL"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-01-11",
-    "cover_url": "https://tuaskbgnekr.com/20240807/cyiZFgFu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-932.jpg",
     "actress": [
+      "皆月光",
+      "蘭々",
       "廣瀨成美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0932"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-932"
   },
   {
     "id": 91812,
-    "IDcode": "SW-0933",
-    "title": "クラスの女子が僕の秘蔵のオナホを見つけ、オナホ使うところ見せてよ！勃起しないと無理だよ！じゃ私の黒タイツパンツ見たら勃起する？2 と、まさかの神展開ゲットだぜ！",
+    "IDcode": "SW-933",
+    "title": "SW-933 班上有个女生发现了我珍藏的自慰器，想教我怎么用！除非我勃起了，否则我做不到！如果你看到我穿黑色紧身裤 你会勃起吗？",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
+      "短裙",
       "连裤袜",
       "制服",
-      "口交",
-      "内衣"
+      "丝袜",
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240610-1/4af55a7f6bf5f3b06c697b92ff31f6fa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0933"
+    "publish_date": "2024-01-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-933.jpg",
+    "actress": [
+      "水谷梨明日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-933"
   },
   {
     "id": 94841,
-    "IDcode": "SW-0935",
-    "title": "再婚相手の娘姉妹のミニスカパンチラに辛抱たまらん！妻の目を盗んで未熟な下半身にズブズブ挿入してしもた",
+    "IDcode": "SW-935",
+    "title": "SW-935 我无法忍受再婚女儿的姐妹们穿迷你裙内裤！我偷了我妻子的眼睛，把自己插入了她不成熟的下半身！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
       "妹妹",
-      "迷你裙",
-      "内衣"
+      "短裙",
+      "迷你裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/436168110010b6548eb8bde31ec25d60.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0935"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-935.jpg",
+    "actress": [
+      "畑中哲也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-935"
   },
   {
     "id": 94831,
-    "IDcode": "SW-0936",
-    "title": "仕事から帰ったらお風呂にハダカの女の子が！お帰りなさいからの即フェラ即ハメ中出し！！ 従姉妹がカラダを使って、僕を隅々まで洗ってくれて、疲れもストレスも複数射精と共に発散しまくり！",
+    "IDcode": "SW-936",
+    "title": "SW-936 当你下班回家时，浴缸里有一个光着腿的女孩！欢迎我回家后，她立即给我口交，并在我体内快速操干并射精！ 表妹用她的身体帮我洗遍全身，我所有的疲惫和压力都在多次射精中烟消云散！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内射",
+      "即兴性爱",
       "中出",
       "口交",
       "立即口交"
@@ -645,34 +1043,38 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-01-25",
-    "cover_url": "https://tuaskbgnekr.com/20240807/Q96pnFzk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0936"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-936.jpg",
+    "actress": [
+      "黑井优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-936"
   },
   {
     "id": 94857,
-    "IDcode": "SW-0937",
-    "title": "無自覚なパンチラや胸チラで義父を誘う小悪魔嫁「お義父様、絶対主人には内緒ですよ（ハート）」旦那や姑の目を盗み家庭内不倫！",
+    "IDcode": "SW-937",
+    "title": "SW-937 小魔女妻子用不自觉的内裤和乳房诱惑公公：\"公公，一定不要告诉我丈夫（心）\"，偷看丈夫和婆婆的眼睛，在家里通奸！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
+      "短裙",
       "迷你裙",
-      "已婚妇女",
-      "内衣"
+      "人妻",
+      "已婚妇女"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-02-08",
-    "cover_url": "https://tuaskbgnekr.com/20240807/KdttkYRT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-937.jpg",
     "actress": [
       "通野未帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0937"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-937"
   },
   {
     "id": 78154,
-    "IDcode": "SW-0938",
+    "IDcode": "SW-938",
     "title": "ブルマ穿いて欲しいんでしょ！この変態さん！6 どうしてもお兄ちゃんとエッチしたいブラコン女子○生の妹が、兄の隠していたブルマ体操着を発見！！妹のブルマ体操着姿にフル勃起して、ついに一線を越えて擦りつけハメてしまった！",
     "year": "",
     "country": "",
@@ -685,33 +1087,36 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-02-08",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed3c7452c12b4e68495fdf/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-938.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0938"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-938"
   },
   {
     "id": 94848,
-    "IDcode": "SW-0939",
-    "title": "肉感BODYのむっちり爆乳3人娘がヌルヌルオイルダイエットに挑戦！？マイクロビキニでエロムチボディのキワキワまで塗り込まれたヌルテカオイルがエロ過ぎて見ているだけでフル勃起しちゃいます！！",
+    "IDcode": "SW-939",
+    "title": "SW-939 三位身材肥胖、大胸丰满的女孩尝试滑油减肥法！在她们穿着微型比基尼的性感身体褶皱处涂抹的滑溜溜的油是如此色情，光是看着她们就能让你完全勃起！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "按摩",
       "巨乳",
-      "乳液"
+      "乳液",
+      "按摩",
+      "润滑液"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-02-08",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/01f06cdfdd03a6aeef589591bf3a1530.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0939"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-939.jpg",
+    "actress": [
+      "南畑颯花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-939"
   },
   {
     "id": 94900,
-    "IDcode": "SW-0940",
-    "title": "「一緒にお風呂入ろ！」大人に成長した従姉妹の無防備な巨乳と混浴（ハート）反応しすぎた勃起チ●ポを握られ我慢できずお風呂場でハメちゃった！",
+    "IDcode": "SW-940",
+    "title": "SW-940 和我一起洗澡吧！\"和表妹毫无防备的大奶子混合着洗澡，表妹已经长大成人（心），我按捺不住，在浴室里用我勃起的阴茎干了她，我的反应过激了！",
     "year": "",
     "country": "",
     "genre": "",
@@ -721,135 +1126,159 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-02-22",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/3c33c547b98c9c9184a056c30fd66bfa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0940"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-940.jpg",
+    "actress": [
+      "紺野美衣奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-940"
   },
   {
     "id": 94852,
-    "IDcode": "SW-0941",
-    "title": "黒タイツ女子○生2 クラスで気になる女子の黒タイツ太もも＆パンチラ！まん丸黒タイツ尻が僕を勃起させる！女子も見られて、ヌレヌレマ○コでヤル気マンマン！",
+    "IDcode": "SW-941",
+    "title": "SW-941 黑色紧身裤女孩 2 我在课堂上感兴趣的女孩的黑色紧身裤大腿和内裤！她们浑圆的黑色紧身裤屁股让我勃起！女孩们也被看到了，她们已经准备好用湿滑的阴部做爱了！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "连裤袜",
-      "内衣"
+      "内衣",
+      "短裙",
+      "丝袜",
+      "连裤袜"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-02-22",
-    "cover_url": "https://tuaskbgnekr.com/20240807/g2evFnXF/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-941.jpg",
     "actress": [
       "美澄玲衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0941"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-941"
   },
   {
     "id": 94839,
-    "IDcode": "SW-0942",
-    "title": "ドスケベ母娘が隣の家に引っ越してきた！プリ尻パンチラに誘われ家族の目を盗んで秘密の関係結んじゃいました（ハート）",
+    "IDcode": "SW-942",
+    "title": "SW-942 一对肮脏的母女搬进了隔壁的房子！她光溜溜的屁股引诱我和她秘密交往，偷走了她家人的眼睛（心）。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "戏剧",
       "内衣",
-      "巨大屁股"
+      "短裙",
+      "剧情",
+      "戏剧",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-03-07",
-    "cover_url": "https://tuaskbgnekr.com/20240807/KEdVD6bD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0942"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-942.jpg",
+    "actress": [
+      "羽田贵史",
+      "堀内始",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-942"
   },
   {
     "id": 78529,
-    "IDcode": "SW-0943",
-    "title": "スキスキ大好き告白青春エッチ！ 大好きなあの娘のパンツが見えて幸せなのに、まさかの「付き合って下さい！」 学校内でほとばしる熱い思いと精子を君に発射！",
+    "IDcode": "SW-943",
+    "title": "SW-943 淑子的爱情告白青春性爱！ 看到心仪女生的内裤，你会很开心，却没想到她会说 \"请和我交往吧\"！ 火热的思念和精液，在校内喷涌而出，射入你的体内！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "内衣"
+      "内衣",
+      "短裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-03-07",
-    "cover_url": "https://tuaskbgnekr.com/20240807/nlbv4Awf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0943"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-943.jpg",
+    "actress": [
+      "黑井优",
+      "龟次郎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-943"
   },
   {
     "id": 94907,
-    "IDcode": "SW-0944",
-    "title": "若妻がドハマりする媚薬・オイル・性感マッサージ。秘部を焦らされ過ぎて辛抱できず施術師の極太ペニス求めてしまいました",
+    "IDcode": "SW-944",
+    "title": "SW-944 年轻的妻子沉迷于春药、精油和性爱按摩。她的秘密部位被冲得太厉害，以至于她无法忍受，要求医生提供超粗的阴茎！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
-      "药物",
-      "按摩",
       "巨大阴茎",
-      "新娘，年轻妻子"
+      "大鸡巴",
+      "按摩",
+      "新娘",
+      "药物",
+      "少妇",
+      "新娘，年轻妻子",
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-03-20",
-    "cover_url": "https://tuaskbgnekr.com/20240807/B6Vadv0K/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-944.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0944"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-944"
   },
   {
     "id": 94903,
-    "IDcode": "SW-0945",
-    "title": "黒パンスト女上司 欲求不満な女上司たちが、とりあえず身近なダメダメ男子社員に黒パンスト尻見せつけ誘惑したら、勃起チ○ポの相性が良すぎてイキまくりオフィスラブ！",
+    "IDcode": "SW-945",
+    "title": "SW-945 黑色连裤袜女老板 受挫的女老板向身边的不良男员工展示自己的黑色连裤袜屁股，勾引他们，他们勃起的鸡巴之间的化学反应太适合办公室恋情了！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "连裤袜",
+      "内衣",
+      "短裙",
       "骑乗位",
-      "内衣"
+      "连裤袜",
+      "丝袜",
+      "坐脸"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-03-20",
-    "cover_url": "https://tuaskbgnekr.com/20240807/bS0ooQ56/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-945.jpg",
     "actress": [
       "竹内美涼"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0945"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-945"
   },
   {
     "id": 94844,
-    "IDcode": "SW-0946",
-    "title": "同窓会でエロい人妻に成長した初恋の女とヤッちゃった！廊下やトイレや主人の留守宅に無防備パンチラで誘われラッキーSEXできたもんね！",
+    "IDcode": "SW-946",
+    "title": "SW-946 在一次同学聚会上，我上了我的初恋情人，她长大后成了一个风情万种的已婚女人！当我被邀请在走廊、浴室和丈夫不在家时在他的房子里进行无保护内裤性交时，我获得了性福！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
       "已婚妇女",
-      "内衣"
+      "人妻",
+      "内衣",
+      "短裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-04-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/b42dc59f55ae4445b8c493d57898107b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-946.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0946"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-946"
   },
   {
     "id": 78550,
-    "IDcode": "SW-0947",
-    "title": "お仕事お疲れさま！小悪魔パンチラ誘惑からの即フェラ！即ハメ！即中出し！ 従姉妹の3姉妹が仕事で疲れた僕のチ○ポをカワイイお口でナメナメ！ピンクマ○コはキツキツ！最後は膣奥に発射！リフレッシュできました！",
+    "IDcode": "SW-947",
+    "title": "SW-947 干得好小恶魔内裤女诱惑的即时口交即时做爱即时射精 三姐妹工作累了，用可爱的小嘴为我口交！粉红色的小穴很紧！最后，她们把精液射进了我的阴道深处！我感觉神清气爽！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内射",
+      "即兴性爱",
       "中出",
       "口交",
       "立即口交"
@@ -857,34 +1286,41 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-04-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/b70b65ba124654b40f66c2d98ab2630c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-947.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0947"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-947"
   },
   {
     "id": 94843,
-    "IDcode": "SW-0948",
-    "title": "夫婦交換スワッピング「主人の見てる前で熱いおマ○コにぶっ挿してぇ！」パートナー替えてお互いのSEX見て興奮！見られて悶絶！主人の目の前で他人棒の激ピストンでイキまくる",
+    "IDcode": "SW-948",
+    "title": "SW-948 已婚夫妇交换交换 \"在你丈夫的眼前，在你火热的阴道里做爱吧！\"\"在你丈夫的眼前，在你火热的阴道里做爱吧！\"。交换性伴侣，观看彼此的性爱，令人兴奋！一看到对方就痛苦晕倒！当着丈夫的面，用另一个男人的阴茎硬来！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "口交",
+      "新娘",
+      "白天出轨",
       "夫妻交换",
+      "NTR",
+      "少妇",
       "新娘，年轻妻子",
-      "白天出轨"
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-04-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/697f9d635249048172a98b2bce758b78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0948"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-948.jpg",
+    "actress": [
+      "畑中哲也",
+      "堀内始",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-948"
   },
   {
     "id": 94834,
-    "IDcode": "SW-0949",
-    "title": "実家に帰ったら、妹たちがパンツ1枚でウロウロ！生おっぱい！Tバック生尻！が僕のすぐ目の前に！ 頑張って我慢していたけど、程なくチ○ポは勃起！妹のヌルヌルマ○コに入れちゃってました！",
+    "IDcode": "SW-949",
+    "title": "SW-949 当我回到父母家时，我的姐妹们只穿着内裤到处闲逛！裸胸，丁字裤，还有裸臀她们就在我面前 我尽力忍住，但很快我的小弟弟就勃起了！我把鸡巴插进妹妹湿滑的阴道里",
     "year": "",
     "country": "",
     "genre": "",
@@ -895,14 +1331,16 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-04-25",
-    "cover_url": "https://tuaskbgnekr.com/20240807/caMZdWm5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0949"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-949.jpg",
+    "actress": [
+      "龟次郎"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-949"
   },
   {
     "id": 94899,
-    "IDcode": "SW-0950",
-    "title": "巨乳とプリ尻パンチラで勃起を誘うメンズエステ。オイルまみれ禁断の密着マッサージに我慢できなくなって内緒で挿入させてもらった。",
+    "IDcode": "SW-950",
+    "title": "SW-950 男人的美容沙龙，用大奶子和前臀吸引勃起。我无法忍受满身是油的禁忌近距离按摩，被允许瞒着任何人插入自己的身体。",
     "year": "",
     "country": "",
     "genre": "",
@@ -912,14 +1350,18 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-05-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/2e5a5887a47b236ccec37ab2eeb4ac31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0950"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-950.jpg",
+    "actress": [
+      "畑中哲也",
+      "堀内始",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-950"
   },
   {
     "id": 94854,
-    "IDcode": "SW-0951",
-    "title": "若妻セクシーランジェリー誘惑大作戦！ 夫が相手してくれないの！と欲求不満な若妻たちが、せっかく買ったエロランジェリーの効果を確かめるために、近所に住む独身の僕に見せつけに来た！もちろん勃起して美味しくいただきました！",
+    "IDcode": "SW-951",
+    "title": "SW-951 年轻妻子的性感内衣诱惑任务！ 我的丈夫不和我做爱！当然，我勃起了，并乐在其中！",
     "year": "",
     "country": "",
     "genre": "",
@@ -927,14 +1369,14 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-05-09",
-    "cover_url": "https://tuaskbgnekr.com/20240807/X8wikk3t/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-951.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0951"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-951"
   },
   {
     "id": 94856,
-    "IDcode": "SW-0952",
-    "title": "入院中にこっそりオナニーしようと思ったらいつもナースが邪魔しに来る！！巨乳デカ尻ナースに金玉パンパンになるまで我慢させられ誘惑されて我慢できません！？3",
+    "IDcode": "SW-952",
+    "title": "SW-952 每当我想在医院里偷偷自慰时，护士们总是会阻拦我！我无法抗拒大胸大屁股护士的诱惑，她让我忍到蛋蛋都扁了！3",
     "year": "",
     "country": "",
     "genre": "",
@@ -944,122 +1386,136 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-05-09",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/141ee419d9d0d54716bd789543ad9443.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0952"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-952.jpg",
+    "actress": [
+      "巨人广田",
+      "くりぼ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-952"
   },
   {
     "id": 14518,
-    "IDcode": "SW-0953",
-    "title": "扒開鄰居人妻的黑絲，馬上把雞巴操進去",
+    "IDcode": "SW-953",
+    "title": "SW-953 穿着透明黑色连裤袜的邻家已婚妇女！她们在等待坚硬的鸡巴撕开裤袜，插入她们的骚穴！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "口交",
-      "出軌",
-      "鄰居",
-      "中出",
-      "黑絲",
-      "女上位",
-      "自宅",
-      "足交",
-      "蕩婦",
+      "短裙",
       "劇情",
+      "鄰居",
+      "人妻",
+      "出軌",
+      "女上位",
+      "NTR",
+      "黑絲",
+      "蕩婦",
+      "足交",
+      "丝袜",
+      "中出",
+      "口交",
       "後入",
-      "NTR"
+      "自宅"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "2024-05-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523000323182182.jpg",
+    "publish_date": "2024-05-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-953.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0953"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-953"
   },
   {
     "id": 94845,
-    "IDcode": "SW-0954",
-    "title": "お兄ちゃんエッチしようよ！発育中のカラダを使って家中で誘惑してくる小悪魔妹ちゃんたち！ 仕事帰りの僕のチ○ポをお口でキレイにし、勃起チ○ポをマ○コに誘ってくるからドギマギ！",
+    "IDcode": "SW-954",
+    "title": "SW-954 我们做爱吧，大哥哥这些魔鬼小妹妹用她们发育中的身体在家里到处勾引我！ 在下班回家的路上，她们用嘴帮我清理鸡巴，还邀请我把勃起的鸡巴插进她们的小穴，这让我大吃一惊！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "妹妹",
-      "口交",
-      "乱伦"
+      "侮辱",
+      "乱伦",
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-05-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/6599be85f2b8a0b247f29b9083f7b00e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-954.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0954"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-954"
   },
   {
     "id": 78530,
-    "IDcode": "SW-0955",
-    "title": "女子社員の黒パンストから透けたパンチラがエロ過ぎて、会社や出張先でパンスト穿いたままチ○ポ挿しこませてもらった",
+    "IDcode": "SW-955",
+    "title": "SW-955 女员工的黑色连裤袜非常色情，她让我在上班或出差时穿着连裤袜插入我的小弟弟。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "丝袜",
       "连裤袜"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-06-06",
-    "cover_url": "https://tuaskbgnekr.com/20240807/HAZ6DgAg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0955"
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-955.jpg",
+    "actress": [
+      "畑中哲也",
+      "羽田贵史",
+      "浅野亚太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-955"
   },
   {
     "id": 77988,
-    "IDcode": "SW-0956",
-    "title": "友達女子がニーハイ太ももTバック尻を僕に見せつけてからかってくるので、ガン見してから、絶対領域をモミまくり！チ○ポ擦りつけて、エッチしたらアンアン喜び感じ出した！",
+    "IDcode": "SW-956",
+    "title": "SW-956 我的朋友女孩挑逗我，让我看她及膝的大腿丁字裤臀部，于是我给了她一枪，然后枞了她的绝对领地！我用我的小弟弟摩擦着它们，开始感到焦虑和快乐！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "过膝袜",
-      "内衣"
+      "内衣",
+      "短裙",
+      "过膝袜"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-06-06",
-    "cover_url": "https://tuaskbgnekr.com/20240807/nr6MgC8L/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-956.jpg",
     "actress": [
       "九井珠奈緒",
       "響乃詩",
       "長谷川礼奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0956"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-956"
   },
   {
     "id": 94853,
-    "IDcode": "SW-0957",
-    "title": "父の再婚で同居することになった義母と義娘姉妹のスケベぇなカラダ！ミニスカパンチラや風呂で裸を見せつけられ、フル勃起チ○ポが隠せない。禁断エッチこっそりヤッちゃうしかありません！！",
+    "IDcode": "SW-957",
+    "title": "SW-957 继母和继女姐妹俩在父亲再婚后不得不生活在一起的肮脏身体！她们在浴缸和超短裙中展现赤裸的身体，也无法掩盖完全勃起的阴茎。被禁止的性爱--她们别无选择，只能秘密进行！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "迷你裙",
       "内衣",
+      "短裙",
+      "迷你裙",
+      "继母",
       "婆婆"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-06-20",
-    "cover_url": "https://tuaskbgnekr.com/20240807/PcL0NrVT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-957.jpg",
     "actress": [
       "前乃菜菜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-957"
   },
   {
     "id": 94846,
-    "IDcode": "SW-0958",
-    "title": "黒パンスト尻がステキ過ぎる女上司の誘惑 仕事ができなくても、チ○ポビンビンにさせて私を気持ちよくしてくれるなら許してあげる！だから、もっと激しく突いて！",
+    "IDcode": "SW-958",
+    "title": "SW-958 诱惑女老板，黑裤袜屁股太美了 如果你不能胜任工作，我可以原谅你，但如果你能让我感觉像个鸡巴双性恋，让我感觉很爽，我就会原谅你！所以，用力插吧",
     "year": "",
     "country": "",
     "genre": "",
@@ -1069,1127 +1525,859 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-06-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/18103357bee3af266251b9481cddfe11.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-958.jpg",
     "actress": [
       "美澄玲衣",
       "透美かなた",
       "七瀨詩音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0958"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-958"
   },
   {
     "id": 94850,
-    "IDcode": "SW-0959",
-    "title": "「お風呂いっしょに入ろ！」従姉妹＆叔母さんとまさかの混浴。大人になった僕のチ○ポを目にして興奮が止まらず、みんなにバレないように握りしめ濡れ濡れマ○コに誘ってきた",
+    "IDcode": "SW-959",
+    "title": "SW-959 和我一起洗澡！我和表姐、姨妈一起洗了个混合浴。看着自己长大了的小弟弟，我止不住兴奋，于是我抓住它，邀请他们在我湿漉漉的小穴里湿身，以免他们发现。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "4P",
+      "3P",
       "口交",
       "多P"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-07-11",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/8e8f783fad9419c9807ce60d08e18b5f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-959.jpg",
     "actress": [
       "七碧乃蒼"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-959"
   },
   {
     "id": 94836,
-    "IDcode": "SW-0960",
-    "title": "ニーハイパンチラずっと見てるよね？ ムチムチ絶対領域パンチラを見せつけてからかってくる女子たちとニーハイエッチプレイを楽しんだ僕。",
+    "IDcode": "SW-960",
+    "title": "SW-960 你一直在看我的及膝内裤，是吗？ 我和那些挑逗我的女孩们一起享受高过膝盖的性爱游戏，她们炫耀着自己被鞭打过的绝对面积的内裤。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "制服",
-      "过膝袜",
       "内衣",
-      "口交"
+      "短裙",
+      "制服",
+      "口交",
+      "过膝袜"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c0d7eb67774efbb8e24c/cover.jpg",
+    "publish_date": "2024-07-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-960.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0960"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-960"
   },
   {
     "id": 94838,
-    "IDcode": "SW-0961",
-    "title": "ママ友のHな性教育「おばさんが大人の女のカラダ教えてあ・げ・る！！」すぐ勃っちゃう思春期チ○ポにお口とおマ○コで気持ちイイこと一杯教えてもらいました",
+    "IDcode": "SW-961",
+    "title": "SW-961 妈妈朋友的性教育：\"阿姨教我成年女性的身体！一个女人教她青春期容易勃起的小弟弟如何用嘴和阴部获得快感！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "内衣"
+      "内衣",
+      "短裙"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-07-25",
-    "cover_url": "https://tuaskbgnekr.com/20240807/HByPR9vk/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-961.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0961"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-961"
   },
   {
     "id": 94908,
-    "IDcode": "SW-0962",
-    "title": "ブルマニーハイは神！ 今日だけ何でも言うこと聞いてあげる！と、幼なじみが言うので、ブルマニーハイを着てもらって、仕事をクビになった僕を元気づけてもらった！主にチ○ポを！",
+    "IDcode": "SW-962",
+    "title": "SW-962 布卢曼尼・高是个神 就为了今天，我什么都听你的！我儿时的朋友说，所以在我被解雇后，我让她穿上臃肿的过膝高跟鞋来逗我开心！主要是那个刺头！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "运动短裤",
-      "多P"
+      "3P",
+      "灯笼裤",
+      "多P",
+      "4P",
+      "运动短裤"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-07-25",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-962.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-962"
   },
   {
     "id": 94851,
-    "IDcode": "SW-0963",
-    "title": "義父との近親不倫に火がついた息子の嫁「旦那がしてくれないからお義父様責任取ってください」デカ尻パンチラで誘い夫より元気な義父のペニスをたらしこむ小悪魔嫁",
+    "IDcode": "SW-963",
+    "title": "SW-963 儿子的妻子在与公公的亲密接触中被点燃：'我丈夫不愿意，所以请公公负起责任'，小恶魔妻子用大屁股裤袜邀请他，并悬挂着公公的阴茎，而公公的阴茎比她丈夫的更有活力。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨大屁股",
-      "已婚妇女",
       "内衣",
-      "出轨"
+      "短裙",
+      "人妻",
+      "出轨",
+      "已婚妇女",
+      "巨大屁股",
+      "巨臀"
     ],
     "type": "有码",
     "company": "SWITCH",
     "publish_date": "2024-08-08",
-    "cover_url": "https://tuaskbgnekr.com/20240810/up6HR8v6/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-963.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0963"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-963"
   },
   {
     "id": 94837,
-    "IDcode": "SW-0964",
-    "title": "お姉ちゃんのパンスト大好きでしょ？中に出して！ パンストに勃起した変態チ○ポをマ○コに挿入！パンスト中出しSEX！",
+    "IDcode": "SW-964",
+    "title": "SW-964 你不喜欢你姐姐的连裤袜吗？在里面发泄吧 连裤袜勃起，变态老二插进小穴！连裤袜里的精液",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "骑乗位",
-      "中出",
-      "连裤袜",
       "内衣",
+      "短裙",
+      "骑乗位",
+      "内射",
+      "连裤袜",
+      "妹妹",
+      "丝袜",
+      "中出",
+      "坐脸"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-964.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-964"
+  },
+  {
+    "id": 584007,
+    "IDcode": "SW-965",
+    "title": "SW-965 已婚妇女沉迷于催情精油按摩。敏感如火的身体被冲撞到极限。痉挛的虾米和失禁的阴部与魔鬼的活塞。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "按摩",
+      "人妻",
+      "放尿",
+      "润滑液"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2024-08-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-965.jpg",
+    "actress": [
+      "畑中哲也",
+      "羽田贵史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-965"
+  },
+  {
+    "id": 525361,
+    "IDcode": "SW-966",
+    "title": "SW-966 我性感的妹妹第一次穿丁字裤，看看她的哥哥！她的阴部突出来了吗？你欲火焚身了吗？我欲火焚身，情不自禁！然后她就和他做爱了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "妹妹"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://tuaskbgnekr.com/20240810/kgvzMBTL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0964"
-  },
-  {
-    "id": 584007,
-    "IDcode": "SW-0965",
-    "title": "人妻沉迷的媚药油按摩。敏感而火热的身体被挑逗到极限。痉挛、弓背失禁的阴道被猛烈抽插 素人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
+    "publish_date": "2024-08-22",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-966.jpg",
+    "actress": [
+      "龟次郎"
     ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0965"
-  },
-  {
-    "id": 525361,
-    "IDcode": "SW-0966",
-    "title": "色気づいた妹が、初めてのTバックを穿いて、お兄ちゃん见て！マ○コはみ出てない？ムラムラしてきた？と",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/UxEfBIYs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0966"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-966"
   },
   {
     "id": 525364,
-    "IDcode": "SW-0967",
-    "title": "夫妇交换·スワッピング！“夫やあなたの奥さんの见てる前で私を●してください”",
+    "IDcode": "SW-967",
+    "title": "SW-967 婚姻交换/交换！请在我丈夫和你妻子眼前●我。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "羞辱",
+      "人妻",
       "夫妻交换",
+      "NTR",
       "淫妻"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/OWeVlbov/1.jpg",
+    "publish_date": "2024-09-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-967.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0967"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-967"
   },
   {
     "id": 525362,
-    "IDcode": "SW-0968",
-    "title": "クラスの女子が仆の秘蔵のオナホを见つけ、オナホ使うところ见せてよ！勃起しないと无理だよ！じゃ私の黒",
+    "IDcode": "SW-968",
+    "title": "SW-968 班上有个女生发现了我珍藏的自慰器，想教我怎么用！我不能不勃起！如果你看到我的黑色紧身裤，你会勃起吗？ 3 我得到了我从未想到过的该死的发展！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "短裙",
+      "丝袜"
+    ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241016/qlwuebZP/1.jpg",
+    "publish_date": "2024-09-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-968.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0968"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-968"
   },
   {
     "id": 174169,
-    "IDcode": "SW-0969",
-    "title": "同窓会で再会した初恋の女（人妻）と宴会場のトイレや廊下や旦那が出張中の自宅で夢にまで見たセックスできちゃったもんねぇ～！",
+    "IDcode": "SW-969",
+    "title": "SW-969 我能够与我的初恋情人（已婚妇女）发生性关系，这是我梦寐以求的，我在同学聚会上、在宴会厅的浴室里、在走廊上或在她丈夫出差时的家里与她重逢！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "人妻",
+      "短裙"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0969"
+    "publish_date": "2024-09-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-969.jpg",
+    "actress": [
+      "沙月惠奈",
+      "有村希",
+      "皆瀨明里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-969"
   },
   {
     "id": 174207,
-    "IDcode": "SW-0970",
-    "title": "ねぇ人妻は嫌い？大好き？勃起する？ 誘惑上手な若妻さん エッチなカラダが久しぶりのチ○ポに喜び腰をフリまくりイクッ！",
+    "IDcode": "SW-970",
+    "title": "SW-970 嘿，你不喜欢已婚妇女吗？爱她们吗？你想勃起吗？ 年轻的妻子很会勾引人，她淘气的身体很高兴很久以来第一次有了鸡巴，她扭动着臀部，高潮了！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
+      "巨乳",
+      "新娘",
+      "人妻",
+      "少妇",
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-09-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-970.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-970"
   },
   {
     "id": 11358,
-    "IDcode": "SW-0971",
-    "title": "引っ越し先のアパートに住む奥さん達がボインの谷間やデカ尻パンチラで挑発してくるものでデカチン鬼ピストンぶち込んでイッてもイッても腰止まりませ～ん！",
+    "IDcode": "SW-971",
+    "title": "SW-971 住在新公寓里的妻子们用乳沟和大屁股挑逗你，让你欲罢不能！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蕩婦",
-      "人妻",
-      "淫亂",
-      "鄰居",
-      "中出",
-      "劇情",
-      "家庭主妇",
-      "勾引・誘惑",
+      "巨乳",
       "美人妻",
+      "慾求不滿",
+      "中出",
+      "口交",
+      "艷遇",
+      "短裙",
+      "鄰居",
+      "家庭主妇",
+      "乳交",
+      "勾引・誘惑",
       "短裙・迷你裙",
       "騎乗位",
-      "艷遇",
-      "形象俱樂部",
-      "美乳",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "潮吹",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "熟女",
       "後入",
-      "性感"
+      "美乳",
+      "劇情",
+      "迷你裙",
+      "人妻",
+      "性感",
+      "熟女",
+      "蕩婦",
+      "胸控・戀乳癖",
+      "巨臀",
+      "大鸡巴",
+      "形象俱樂部",
+      "潮吹",
+      "淫亂",
+      "女上位",
+      "巨尻"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241010/445699de-c78f-4863-ae75-ef81bdcbd0e2.jpg",
+    "publish_date": "2024-10-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-971.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0971"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-971"
   },
   {
     "id": 177198,
-    "IDcode": "SW-0972",
-    "title": "私の黒パンスト尻見てヤル気出しなさい！ 美人女上司がポンコツの僕を黒パンストマ○コで優しく指導してくれた！",
+    "IDcode": "SW-972",
+    "title": "SW-972 看着我的黑色连裤袜屁股，然后被干！ 我美丽的女上司用她的黑色连裤袜阴部轻轻地引导我，把我当做一个笨重的人！",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "口交",
+      "丝袜",
+      "足交"
+    ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/0f7544ea5d7710ef9895e4b7363b229d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0972"
+    "publish_date": "2024-10-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-972.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-972"
   },
   {
     "id": 177552,
-    "IDcode": "SW-0973",
-    "title": "デカ尻パンチラとおっぱい密着オイルマッサージで勃起を誘うメンズエステ「お客様そんな動いたらペニスがパンティ破って入ってきちゃいますよぉ（ハート）」",
+    "IDcode": "SW-973",
+    "title": "SW-973 男士美容沙龙，用大屁股内裤和乳房上的亲密精油按摩诱导勃起：\"如果你这样动，你的阴茎会撕裂你的内裤（心脏）\"。",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "巨乳",
+      "短裙",
+      "迷你裙",
+      "美容店",
+      "巨臀"
+    ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb3b0b4e7d663df4c48f90/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0973"
+    "publish_date": "2024-10-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-973.jpg",
+    "actress": [
+      "沙月惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-973"
   },
   {
     "id": 177525,
-    "IDcode": "SW-0974",
-    "title": "仕事から帰ったらお風呂に巨乳の女の子！ 即フェラ即ハメ絶倫中出し！ 従姉妹のデカパイに興奮して、上下のお口に発射した僕",
+    "IDcode": "SW-974",
+    "title": "SW-974 下班回家，大波妹在洗澡！ 即时口交，即时性交，无与伦比的 Nakadashi！ 我被表妹的大奶子刺激得上气不接下气，射进了她的嘴里！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "巨乳"
+      "巨乳",
+      "口交",
+      "内射"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787dbb1478d611da7751e3c/cover.jpg",
+    "publish_date": "2024-10-24",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-974.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0974"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-974"
   },
   {
     "id": 95329,
-    "IDcode": "SW-0975",
-    "title": "義理の娘たちとエッチな同居性活はじめました。ミニスカぷり尻パンチラで父や兄弟の勃起チ〇ポを誘う小悪魔姉妹（ハート）",
+    "IDcode": "SW-975",
+    "title": "SW-975 我和继女们开始了顽皮的同居性生活。小恶魔姐妹们用她们的迷你裙和丰满的屁股（心）来吸引父亲和哥哥们勃起的阴茎。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "迷你裙",
+      "内衣",
       "口交",
-      "内衣"
+      "短裙",
+      "迷你裙"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251016-1/fe06abd34d3cf710e05f84bc3cf02b4a.jpg",
+    "publish_date": "2024-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-975.jpg",
     "actress": [
       "宇流木沙羅"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0975"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-975"
   },
   {
     "id": 95427,
-    "IDcode": "SW-0976",
-    "title": "仕事できないなら、私を気持ちよくさせなさい！ 黒パンスト見せつけ発情上司 いっぱい見せてあげるから、いっぱいパンパン突きなさい！",
+    "IDcode": "SW-976",
+    "title": "SW-976 如果你不能做好你的工作，那就让我爽爽！ 黑裤袜炫耀，发情老板--我会给你看很多东西，所以戳我很多痘痘吧！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "内衣",
+      "短裙",
       "连裤袜",
-      "足交",
-      "内衣"
+      "丝袜",
+      "足交"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-11-07",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-976.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0976"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-976"
   },
   {
     "id": 95079,
-    "IDcode": "SW-0977",
-    "title": "敏感・微乳女子学生がハマる性感オイルマッサージ。未熟なワレメを大人絶倫チ〇ポで開発され過ぎてお漏らし痙攣イキまくり",
+    "IDcode": "SW-977",
+    "title": "SW-977 敏感、胸小的女学生沉迷于性油按摩。未成熟的阴道被成年人未成熟的小弟弟过度开发，会出现尿尿痉挛。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "高中女生",
       "美容院",
+      "美容店",
+      "高中女生",
+      "美胸",
+      "女学生",
       "平胸"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250924-1/e17eff3704cb0d6889263c4afa274040.jpg",
+    "publish_date": "2024-11-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-977.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0977"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-977"
   },
   {
     "id": 95084,
-    "IDcode": "SW-0978",
-    "title": "人妻お姉ちゃんのパンスト尻は僕のモノ！妊娠して！ パンスト足とパンスト尻に興奮し、ダメだとわかっていても生挿入！中出し！",
+    "IDcode": "SW-978",
+    "title": "SW-978 已婚姐姐的连裤袜屁股是我的！怀孕了 她被自己的连裤袜腿和连裤袜屁股刺激得兴奋不已，尽管她知道自己不应该这样做，但还是生硬地插了进去！中田希",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻",
-      "已婚妇女",
-      "中出",
-      "连裤袜",
       "内衣",
-      "妹妹"
+      "短裙",
+      "人妻",
+      "内射",
+      "连裤袜",
+      "已婚妇女",
+      "妹妹",
+      "丝袜",
+      "中出"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-11-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-978.jpg",
     "actress": [
       "久和原聖羅"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0978"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-978"
   },
   {
     "id": 76768,
-    "IDcode": "SW-0979",
-    "title": "友達のママの大人のカラダに誘われて胸チラ＆パンチラでビンビンになったおチ〇ポにエッチな性教育されちゃった",
+    "IDcode": "SW-979",
+    "title": "SW-979 我被朋友妈妈成熟的身体所诱惑，被她的乳房和内裤所吸引，接受了性教育。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "企划",
       "企画",
       "母亲"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
+    "publish_date": "2024-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-979.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0979"
-  },
-  {
-    "id": 185882,
-    "IDcode": "SW-0980",
-    "title": "酔ったフリしてパンツ見せつけてくるあざとかわいい小悪魔女子に喰べられちゃったあの日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0980"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-979"
   },
   {
     "id": 76717,
-    "IDcode": "SW-0981",
-    "title": "ワザと間違えて憧れの女上司と相部屋温泉！ 僕の下心にすぐ気づいて、からかい誘惑してくる女上司に手を出したら、カラダの相性ピッタリで何回も求められた！",
+    "IDcode": "SW-981",
+    "title": "SW-981 我故意犯了一个错误，与我梦寐以求的女老板共处一室温泉！ 我对女老板动手动脚，她发现了我的不可告人的目的，对我进行挑逗和引诱，但我们的身体非常适合对方，她一再想要我！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出"
+      "中出",
+      "内射"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0981"
+    "publish_date": "2024-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-981.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-981"
   },
   {
     "id": 75770,
-    "IDcode": "SW-0982",
-    "title": "夫婦交換スワッピングパーティー！奥手な若夫婦がヤリマン＆ヤリチン夫婦にSEXの新しい快楽を垂らし込まれました",
+    "IDcode": "SW-982",
+    "title": "SW-982 夫妻交换交换派对！一对羞涩的年轻夫妇正沉浸在与一对荡妇和一对淫荡夫妇做爱的新乐趣中。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "白天出轨",
+      "人妻",
       "夫妻交换",
       "已婚妇女",
-      "白天出轨"
+      "NTR"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878d7a8daf6b1db43c2ce3/cover.jpg",
+    "publish_date": "2024-12-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-982.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0982"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-982"
   },
   {
     "id": 75000,
-    "IDcode": "SW-0983",
-    "title": "发情女子",
+    "IDcode": "SW-983",
+    "title": "SW-983 一个发情的女孩疯狂地来了！ 她误服了我给她买的春药，开始觉得身体发硬，抱着我，因为她想要小弟弟！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "中出",
-      "口交",
+      "内射",
+      "自慰",
       "妹妹",
-      "自慰"
+      "中出",
+      "口交"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c4a45d57b64bfd0ed220/cover.jpg",
+    "publish_date": "2024-12-26",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-983.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0983"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-983"
   },
   {
     "id": 9290,
-    "IDcode": "SW-0984",
-    "title": "同窓会で出逢った人妻になっていた初恋の女とラッキーSEXできちゃったもんね！",
+    "IDcode": "SW-984",
+    "title": "SW-984 我很幸运地与我的初恋发生了关系，她竟然是我在一次同学聚会上认识的已婚妇女！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出軌",
+      "美人",
+      "美人妻",
+      "巨乳",
+      "慾求不滿",
+      "多P",
       "不倫",
       "亂交 • 群P",
-      "癡女",
-      "人妻",
-      "淫亂",
       "中出",
-      "劇情",
-      "家庭主妇",
-      "絕頂高潮",
-      "美人妻",
+      "兩男兩女",
+      "口交",
+      "同學聚會",
+      "短裙",
       "同學",
+      "家庭主妇",
       "短裙・迷你裙",
       "騎乗位",
-      "形象俱樂部",
-      "美人",
+      "後入",
+      "聚會・PARTY",
       "美乳",
       "美腿",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "女上位",
-      "胸控・戀乳癖",
-      "同學聚會",
-      "多P",
-      "後入",
+      "劇情",
+      "人妻",
+      "出軌",
+      "剧情",
+      "絕頂高潮",
       "性感",
+      "癡女",
+      "胸控・戀乳癖",
+      "形象俱樂部",
+      "女上位",
+      "淫亂",
       "NTR",
-      "兩男兩女",
-      "聚會・PARTY"
+      "巨尻"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109021329266266.jpg",
+    "publish_date": "2025-01-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-984.jpg",
     "actress": [
       "宇流木沙羅",
       "三田櫻",
       "兼咲美優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0984"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-984"
   },
   {
     "id": 9286,
-    "IDcode": "SW-0985",
-    "title": "ハミ尻モロ見えお姉さん！ 近所のお姉さんたちが、ハミ尻パンツ見せつけて、からかってくるので勃起して困る！",
+    "IDcode": "SW-985",
+    "title": "SW-985 哈密露臀姐妹花！ 邻家姐妹露出光屁股裤子，挑逗得你无法勃起！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美腳",
-      "蕩婦",
-      "臀控",
+      "美人",
+      "巨乳",
+      "慾求不滿",
+      "亂交 • 群P",
+      "舔腳",
+      "中出",
+      "口交",
+      "後宮系",
+      "艷遇",
+      "短裙",
       "美臀",
       "打屁股",
-      "亂交 • 群P",
       "一男多女",
-      "癡女",
-      "淫亂",
       "鄰居",
-      "中出",
-      "舔腳",
-      "美少女電影",
-      "丁字裤",
-      "自宅",
-      "劇情",
+      "脚控・戀足癖",
+      "美腳",
       "勾引・誘惑",
-      "絕頂高潮",
-      "色白",
       "短裙・迷你裙",
       "騎乗位",
-      "艷遇",
-      "形象俱樂部",
-      "美人",
+      "後入",
+      "臀控",
+      "美少女電影",
       "美乳",
       "美腿",
-      "雙飛",
-      "脚控・戀足癖",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "慾求不滿",
-      "女上位",
-      "胸控・戀乳癖",
-      "綠茶婊",
-      "後宮系",
-      "後入",
+      "劇情",
+      "3P・4P",
+      "臀部",
+      "色白",
+      "絕頂高潮",
       "性感",
-      "3P・4P"
+      "蕩婦",
+      "癡女",
+      "胸控・戀乳癖",
+      "自宅",
+      "丁字裤",
+      "形象俱樂部",
+      "女上位",
+      "淫亂",
+      "綠茶婊",
+      "巨尻",
+      "雙飛"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250109/c96ebc85-2c23-4ff4-a20d-75ac91067c5d.jpg",
+    "publish_date": "2025-01-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-985.jpg",
     "actress": [
       "末広純",
       "宮西光",
       "五十嵐美月"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0985"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-985"
   },
   {
     "id": 187952,
-    "IDcode": "SW-0986",
-    "title": "乳・尻・密着！メンズエステ。パンチラ見て勃起し過ぎたペニスがエステティシャンの股間に猛アタック",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0986"
-  },
-  {
-    "id": 187959,
-    "IDcode": "SW-0987",
-    "title": "お兄ちゃん大好き妹がノーブラおっぱいパンチラで誘惑するけど、手を出してこないので、勝手に朝勃ちチ○ポをかまくらフェラして、おはズボ騎乗位エッチ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0987"
-  },
-  {
-    "id": 8514,
-    "IDcode": "SW-0988",
-    "title": "「お義父様ここだけはお元気なんですね（ハート）」夫が近くに居るのに義父とのドキドキ不倫性交に溺れるイケナイ若妻たち",
+    "IDcode": "SW-986",
+    "title": "SW-986 乳房、臀部和亲密接触！男士美容护理。看内裤看多了，勃起的阴茎用力攻击美容师的胯部！如果你动得太厉害，它就会进去.....！(心）\"",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "豐滿",
-      "精選綜合",
-      "老頭子",
-      "出軌",
-      "美腳",
-      "癡女",
-      "人妻",
-      "淫亂",
-      "中出",
-      "美少女電影",
-      "自宅",
-      "劇情",
-      "早漏",
-      "家庭主妇",
-      "絕頂高潮",
-      "色白",
-      "黑絲",
-      "美人妻",
-      "若妻",
-      "騎乗位",
-      "形象俱樂部",
-      "兒媳",
-      "美人",
-      "美乳",
-      "故事集",
-      "巨尻",
-      "口交",
-      "慾求不滿",
-      "公公",
-      "女上位",
-      "後入",
-      "NTR",
-      "不倫"
+      "美容店",
+      "短裙",
+      "迷你裙"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/bac2f891-6453-42e9-9ef8-6cc04b347bf2.jpg",
+    "publish_date": "2025-01-23",
+    "cover_url": "https://javd.me/static/movie/694bad057d7e1.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-986"
+  },
+  {
+    "id": 187959,
+    "IDcode": "SW-987",
+    "title": "SW-987 喜欢哥哥的妹妹不穿胸罩、奶子和内裤勾引她，但她不愿意碰他，于是她冒昧地给他来了个晨间口交，然后和他来了个o-hazubo-ride-on 性爱！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "短裙",
+      "妹妹"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2025-01-23",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-987.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-987"
+  },
+  {
+    "id": 8514,
+    "IDcode": "SW-988",
+    "title": "SW-988 年轻的妻子不够漂亮，即使丈夫就在身边，也会沉溺于与公公进行刺激的非法性交。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美人",
+      "美人妻",
+      "慾求不滿",
+      "早漏",
+      "新娘",
+      "公公",
+      "不倫",
+      "豐滿",
+      "黑絲",
+      "若妻",
+      "中出",
+      "口交",
+      "家庭主妇",
+      "故事集",
+      "美腳",
+      "精選綜合",
+      "騎乗位",
+      "後入",
+      "美少女電影",
+      "美乳",
+      "兒媳",
+      "劇情",
+      "人妻",
+      "出軌",
+      "色白",
+      "出轨",
+      "絕頂高潮",
+      "老頭子",
+      "癡女",
+      "少妇",
+      "自宅",
+      "形象俱樂部",
+      "女上位",
+      "淫亂",
+      "NTR",
+      "巨尻"
+    ],
+    "type": "有码",
+    "company": "SWITCH",
+    "publish_date": "2025-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-988.jpg",
     "actress": [
       "有栖舞衣",
       "三田櫻",
       "兼咲美優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0988"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-988"
   },
   {
     "id": 8512,
-    "IDcode": "SW-0989",
-    "title": "ぬるぬるローション黒パンスト尻女上司！ 本当は自分がエッチしたい女上司が、ポンコツ部下を誘惑！変態男の頼みからローションまみれ尻",
+    "IDcode": "SW-989",
+    "title": "SW-989 卢克温乳液黑裤袜屁股女上司！ 一个很想被自己干的女上司勾引她笨拙的下属！在变态男的要求下，涂满乳液的屁股！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "蠻橫嬌羞",
-      "女上司",
-      "美腳",
-      "高妹",
-      "美臀",
-      "癡女",
-      "加班",
-      "淫亂",
-      "中出",
-      "舔腳",
-      "辦公室",
-      "劇情",
-      "抹油",
-      "勾引・誘惑",
-      "絕頂高潮",
-      "高顏值",
-      "苗條",
-      "黑絲",
-      "騎乗位",
-      "艷遇",
-      "形象俱樂部",
       "美人",
-      "脚控・戀足癖",
-      "美腿",
-      "口交",
       "慾求不滿",
-      "女上位",
+      "抹油",
+      "蠻橫嬌羞",
       "高跟鞋",
-      "足交",
+      "黑絲",
+      "舔腳",
+      "中出",
       "OL",
+      "口交",
       "後宮系",
+      "艷遇",
+      "美臀",
+      "加班",
+      "脚控・戀足癖",
+      "高顏值",
+      "美腳",
+      "足交",
+      "丝袜",
+      "勾引・誘惑",
+      "騎乗位",
+      "女上司",
       "後入",
-      "濕身"
+      "美腿",
+      "劇情",
+      "臀部",
+      "絕頂高潮",
+      "辦公室",
+      "癡女",
+      "苗條",
+      "高妹",
+      "濕身",
+      "形象俱樂部",
+      "女上位",
+      "淫亂",
+      "润滑液"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/d5965ab0-f75a-4e97-8a48-a28c72234ff9.jpg",
+    "publish_date": "2025-02-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-989.jpg",
     "actress": [
       "若宮穂乃",
       "美丘さとみ",
       "川村まなみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0989"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-989"
   },
   {
     "id": 8131,
-    "IDcode": "SW-0990",
-    "title": "スケベなカラダに成長した従妹と一緒にお風呂！勃起した僕のチ〇ポを興味津々で握りしめ（ハート）家族に内緒で風呂場でヤッちゃった！",
+    "IDcode": "SW-990",
+    "title": "SW-990 和我的表妹一起洗澡，她已经长成了一个肮脏的身体！她对我的勃起非常好奇，瞒着家人抓着我的小弟弟（心脏）在浴室里干了我！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "豐滿",
-      "口爆",
-      "美臀",
-      "濕身",
-      "舔陰",
-      "表姐・表妹",
-      "淫亂",
-      "中出",
-      "劇情",
-      "絕頂高潮",
-      "色白",
-      "純粹的慾望",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
       "美人",
-      "美乳",
-      "巨尻",
       "巨乳",
+      "手指插入",
+      "豐滿",
+      "舔陰",
+      "中出",
       "口交",
+      "美臀",
+      "口爆",
       "乳交",
-      "女上位",
-      "胸控・戀乳癖",
+      "騎乗位",
       "後入",
-      "性感"
+      "羞恥",
+      "美乳",
+      "劇情",
+      "色白",
+      "絕頂高潮",
+      "純粹的慾望",
+      "性感",
+      "胸控・戀乳癖",
+      "巨臀",
+      "濕身",
+      "形象俱樂部",
+      "女上位",
+      "淫亂",
+      "巨尻",
+      "表姐・表妹"
     ],
     "type": "有码",
     "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/abd392fb-cefd-4b45-aaad-1a1794607839.jpg",
+    "publish_date": "2025-02-20",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/SW-990.jpg",
     "actress": [
       "三田櫻",
       "二宮和香",
       "兼咲美優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0990"
-  },
-  {
-    "id": 72438,
-    "IDcode": "SW-0991",
-    "title": "黒タイツ女子 成長した従姉妹の黒タイツむっちりスベスベ尻が僕を興奮させる！好き勝手にエッチした！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "连裤袜",
-      "足交"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0991"
-  },
-  {
-    "id": 191430,
-    "IDcode": "SW-0992",
-    "title": "昼下がりの人妻が夫の留守宅でエステサロン始め、近所の男たちの勃起しっぱなしの絶倫チ〇ポに辛抱できず、夫に内緒で挿入して何度もイカされた。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0992"
-  },
-  {
-    "id": 191451,
-    "IDcode": "SW-0993",
-    "title": "家に帰ったらお風呂にハダカの女の子！お帰りフェラからおねだり中出しエッチまで！ カワイイ従姉妹がカラダを使って全力ご奉仕！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0993"
-  },
-  {
-    "id": 70602,
-    "IDcode": "SW-0994",
-    "title": "性欲モンスター姉妹が同居することになった義兄弟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "妹妹",
-      "内衣"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0994"
-  },
-  {
-    "id": 70526,
-    "IDcode": "SW-0995",
-    "title": "優しく甘えさせてくれるパンストお姉ちゃん大好き！ 人妻になっても僕の願いならなんでも許してくれる姉とパンスト中出しエッチ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "屁股",
-      "中出",
-      "连裤袜",
-      "妹妹"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0995"
-  },
-  {
-    "id": 68946,
-    "IDcode": "SW-0996",
-    "title": "同窓会で酔って無防備になった人妻たち。初恋のアノ女（ヒト）の誘惑パンチラにチ〇ポがビンビン！トイレで廊下で夫の留守宅でラッキーSEXやりまくり！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "人妻",
-      "已婚妇女",
-      "内衣"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0996"
-  },
-  {
-    "id": 69060,
-    "IDcode": "SW-0997",
-    "title": "幼なじみの嫉妬エロ！私だけを見て！興奮して！勃起して！ 僕のことを好きすぎて、他の女を見てると激おこ！でもすぐにイチャラブエッチできるから許す！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "童年朋友",
-      "口交"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0997"
-  },
-  {
-    "id": 70059,
-    "IDcode": "SW-0998",
-    "title": "夫婦交換スワッピング。夫に見られながら他人棒にイカサレ興奮MAXの人妻たち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "夫妻交换",
-      "已婚妇女"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0998"
-  },
-  {
-    "id": 6641,
-    "IDcode": "SW-0999",
-    "title": "家に帰ったらお風呂にハダカの女の子！お従兄ちゃん大好き！中に出して！ 成長した従姉妹のカラダとマ○コを好き放題！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "表姐・表妹",
-      "中出",
-      "自宅",
-      "劇情",
-      "勾引・誘惑",
-      "絕頂高潮",
-      "色白",
-      "純粹的慾望",
-      "手指插入",
-      "艷遇",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "美腿",
-      "故事集",
-      "脚控・戀足癖",
-      "口交",
-      "巨乳",
-      "潮吹",
-      "乳交",
-      "女上位",
-      "胸控・戀乳癖",
-      "後入",
-      "性感",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688de2f1c92318f97d51657f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0999"
-  },
-  {
-    "id": 6344,
-    "IDcode": "SW-1000",
-    "title": "若妻がハマる性感オイルマッサージ。（マル秘）オイル＋スケベ指技＋デカ硬チ〇ポでお漏らし痙攣止まらずイキまくり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美腳",
-      "美臀",
-      "濕身",
-      "人妻",
-      "舔陰",
-      "中出",
-      "劇情",
-      "抹油",
-      "按摩・美容店",
-      "家庭主妇",
-      "絕頂高潮",
-      "高顏值",
-      "苗條",
-      "企畫",
-      "美人妻",
-      "若妻",
-      "按摩・物理治療・美容",
-      "手指插入",
-      "騎乗位",
-      "羞恥",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "美腿",
-      "故事集",
-      "脚控・戀足癖",
-      "巨尻",
-      "巨乳",
-      "口交",
-      "潮吹",
-      "女上位",
-      "胸控・戀乳癖",
-      "後入",
-      "性感"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508061215738738_thumbnail.webp",
-    "actress": [
-      "有栖舞衣",
-      "有賀千里",
-      "兼咲美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
-  },
-  {
-    "id": 6355,
-    "IDcode": "SW-1001",
-    "title": "全裸ニーソでご奉仕します！ お従兄ちゃんのオチ○ポを主に全力でお世話してあげるね！大好き！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "清楚系",
-      "蠻橫嬌羞",
-      "主觀視角",
-      "美腳",
-      "美臀",
-      "癡女",
-      "表姐・表妹",
-      "中出",
-      "劇情",
-      "美少女",
-      "過膝襪・小腿襪",
-      "色白",
-      "高顏值",
-      "騎乗位",
-      "艷遇",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "故事集",
-      "口交",
-      "巨乳",
-      "女上位",
-      "後入",
-      "性感",
-      "不倫"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080411126363_thumbnail.webp",
-    "actress": [
-      "末広純",
-      "若宮穂乃",
-      "幾田真知"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1001"
-  },
-  {
-    "id": 5956,
-    "IDcode": "SW-1002",
-    "title": "近所の人妻のむっちりパンスト！透けパンチラむっちり尻に誘われて、パンスト破って硬チ〇ポずぶずぶ侵入させてイイですよね？！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "蠻橫嬌羞",
-      "公共場所",
-      "美腳",
-      "口爆",
-      "美臀",
-      "癡女",
-      "人妻",
-      "舔陰",
-      "鄰居",
-      "中出",
-      "極品美人",
-      "劇情",
-      "完全着衣",
-      "強姦",
-      "高顏值",
-      "苗條",
-      "變態",
-      "美人妻",
-      "黑絲",
-      "短裙・迷你裙",
-      "手指插入",
-      "騎乗位",
-      "制服",
-      "羞恥",
-      "形象俱樂部",
-      "美人",
-      "美乳",
-      "美腿",
-      "脚控・戀足癖",
-      "口交",
-      "巨乳",
-      "乳交",
-      "魔鬼系",
-      "女上位",
-      "後入",
-      "性感",
-      "寢取"
-    ],
-    "type": "有码",
-    "company": "SWITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014335595595_thumbnail.webp",
-    "actress": [
-      "有賀千里",
-      "川越ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-990"
   }
 ];

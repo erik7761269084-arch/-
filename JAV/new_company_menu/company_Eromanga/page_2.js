@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e787c98bc99dfdd03302b/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/315ETQR-564.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-564"
   },

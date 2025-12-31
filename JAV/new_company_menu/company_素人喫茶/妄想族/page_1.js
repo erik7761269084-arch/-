@@ -1,0 +1,580 @@
+window.PAGE_DATA = [
+  {
+    "id": 547183,
+    "IDcode": "HAZU-001",
+    "title": "HAZU-001 最强白~藤律天#L罩杯淫荡女#OL#大型广告公司#Yuai",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "超巨乳",
+      "巨乳",
+      "荡妇",
+      "高挑"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2023-12-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-001.jpg",
+    "actress": [
+      "華澄結愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-001"
+  },
+  {
+    "id": 562421,
+    "IDcode": "HAZU-002",
+    "title": "HAZU-002 FANZA 独家 从神户到东京的一路。Bakunyu Shiro~tomusume, Kokuna (J-cup)，附内裤和照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "巨乳",
+      "超巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-01-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-002.jpg",
+    "actress": [
+      "東雲はる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-002"
+  },
+  {
+    "id": 561852,
+    "IDcode": "HAZU-003",
+    "title": "HAZU-003  仅限 FANZA 与儿子同学的小男孩一起去温泉旅行的可耻暴露行为：\"你有一张可爱的脸和又长又淫荡的乳头\"，以及对乳头的无情挑逗。当然，他们没有告诉对方的父母。 有内裤和照片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "辣妹",
+      "美胸",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-02-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-003.jpg",
+    "actress": [
+      "北川まほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-003"
+  },
+  {
+    "id": 546116,
+    "IDcode": "HAZU-004",
+    "title": "HAZU-004 苗条、可爱、纤细的女孩 Haruki，让人忍不住想拥抱她。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "跨性别",
+      "肛门",
+      "女装"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-03-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-004.jpg",
+    "actress": [
+      "西野めぐ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-004"
+  },
+  {
+    "id": 545825,
+    "IDcode": "HAZU-005",
+    "title": "HAZU-005 FANZA 独家 丰满的白人妻子，一个朴实但性生活依然活跃的 20 岁女孩。附内裤和照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "超巨乳",
+      "素人",
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-04-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-005.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-005"
+  },
+  {
+    "id": 549762,
+    "IDcode": "HAZU-006",
+    "title": "HAZU-006 滋贺乡间的业余炸弹女孩，骨感的 I 型罩杯。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "辣妹",
+      "超巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-05-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-006.jpg",
+    "actress": [
+      "楠雛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-006"
+  },
+  {
+    "id": 545365,
+    "IDcode": "HAZU-007",
+    "title": "HAZU-007 脸蛋红扑扑、奶子大的业余女孩，虽然超级害羞，但还是会喷水的 Mikuru-chan。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "巨乳",
+      "潮吹",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-06-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-007.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-007"
+  },
+  {
+    "id": 560664,
+    "IDcode": "HAZU-009",
+    "title": "HAZU-009 吸肉厕所女孩 (1)、拥有大奶子和大屁股的业余女孩 Erica (20)。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "巨乳",
+      "素人",
+      "巨臀"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-07-09",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-009.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-009"
+  },
+  {
+    "id": 525530,
+    "IDcode": "HAZU-010",
+    "title": "HAZU-010 Haruki（大学生），一个拥有 I 罩杯大奶子的业余女孩，尽管整洁大气，但还是会喷水。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "超巨乳",
+      "素人",
+      "巨乳",
+      "大学生"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-08-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-010.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-010"
+  },
+  {
+    "id": 560282,
+    "IDcode": "HAZU-012",
+    "title": "HAZU-012 Hana，来自富山的乡村健美业余选手 / 23 岁 / K 杯 / 174 厘米 / 泰日混血儿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "超巨乳",
+      "高挑",
+      "素人",
+      "巨臀",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-09-10",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-012.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-012"
+  },
+  {
+    "id": 544538,
+    "IDcode": "HAZU-014",
+    "title": "HAZU-014 最强白~藤律天 # I-cup 淫荡女 # 公务员 # M属性 # 小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "巨乳",
+      "超巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-10-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-014.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-014"
+  },
+  {
+    "id": 564953,
+    "IDcode": "HAZU-015",
+    "title": "HAZU-015 72岁的老年奇迹寡妇早川幸子：\"100年的生命，我的第二次生命从现在开始......",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-11-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-015.jpg",
+    "actress": [
+      "鈴木美代子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-015"
+  },
+  {
+    "id": 493277,
+    "IDcode": "HAZU-016",
+    "title": "HAZU-016 Natsuon（23岁），拥有H罩杯大乳房的业余女孩，由DM申请 / 日本爱媛县",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "BBW",
+      "超巨乳",
+      "素人",
+      "嫩妹",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-11-12",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-016.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-016"
+  },
+  {
+    "id": 550567,
+    "IDcode": "HAZU-017",
+    "title": "HAZU-017  仅限 FANZA 来自德岛的乡村凹凸业余爱好者 Nene/22 岁/I-cup，有内裤和照片。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "BBW",
+      "超巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2024-12-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-017.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-017"
+  },
+  {
+    "id": 9115,
+    "IDcode": "HAZU-018",
+    "title": "HAZU-018 香织，20 岁，是个真正的处女，胸部被粘液轰炸得红红的。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "女學生",
+      "潮吹",
+      "素人",
+      "性感",
+      "巨尻",
+      "羞恥",
+      "处女",
+      "美臀",
+      "女上位",
+      "絕頂高潮",
+      "苗條",
+      "美少女",
+      "自宅",
+      "胸控・戀乳癖",
+      "美乳",
+      "乳交",
+      "中出",
+      "業餘",
+      "美少女電影",
+      "清純",
+      "超巨乳",
+      "口交",
+      "色白",
+      "真實拍攝",
+      "騎乗位",
+      "巨乳",
+      "美腳",
+      "後入",
+      "無毛",
+      "形象俱樂部",
+      "處女",
+      "手指插入",
+      "企畫",
+      "內衣",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-01-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-018.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-018"
+  },
+  {
+    "id": 72753,
+    "IDcode": "HAZU-020",
+    "title": "HAZU-020 我们太漂亮的阴茎瓶变性自慰宠物 MIRAI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "业余",
+      "肛交",
+      "跨性别",
+      "肛门",
+      "女装",
+      "素人",
+      "女装人妖"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-020.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-020"
+  },
+  {
+    "id": 9114,
+    "IDcode": "HAZU-021",
+    "title": "HAZU-021 Hiyori Hiyori（I-cup/21 岁）是 I 线的居酒屋女招待，她性格开朗，即使隔着衣服，大奶子也很显眼。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少女",
+      "潮吹",
+      "素人",
+      "性感",
+      "巨尻",
+      "美臀",
+      "女上位",
+      "蠻橫嬌羞",
+      "服務生",
+      "網襪",
+      "絕頂高潮",
+      "美少女",
+      "情趣內衣",
+      "胸控・戀乳癖",
+      "癡女",
+      "美乳",
+      "乳交",
+      "淫亂",
+      "中出",
+      "業餘",
+      "美少女電影",
+      "超巨乳",
+      "口交",
+      "奇聞趣事",
+      "真實拍攝",
+      "色白",
+      "約炮",
+      "騎乗位",
+      "巨乳",
+      "美腳",
+      "猥褻穿著",
+      "後入",
+      "形象俱樂部",
+      "手指插入",
+      "企畫",
+      "職員",
+      "素人作品",
+      "純粹的慾望",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-01-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-021.jpg",
+    "actress": [
+      "白雪美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-021"
+  },
+  {
+    "id": 469526,
+    "IDcode": "HAZU-022",
+    "title": "HAZU-022 素面朝天的眼镜店店员不料是个手持钢管和睾丸的淫荡变性人，被强行射杀 10 人的案件。葵。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "跨性别",
+      "肛门",
+      "女装",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-03-11",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-022.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-022"
+  },
+  {
+    "id": 198740,
+    "IDcode": "HAZU-023",
+    "title": "HAZU-023 这位戴眼镜的荣誉学生一脸嬉皮笑脸地咆哮着，摘下眼镜时，她是一位拥有 J 罩杯魔鬼领口的出众身材的 mutsuriskebe。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "辣妹",
+      "超巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-05-13",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-023.jpg",
+    "actress": [
+      "成実ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-023"
+  },
+  {
+    "id": 540599,
+    "IDcode": "HAZU-024",
+    "title": "HAZU-024 在横滨经营一家公司的 32 岁大胸美女明星妻子明日香（Akari），为了报复她的奸夫而紧急现身。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "超巨乳",
+      "人妻",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-07-08",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-024.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-024"
+  },
+  {
+    "id": 61090,
+    "IDcode": "HAZU-025",
+    "title": "HAZU-025  提交 \"她是我的妻子，有一个 I 型罩杯。久美子（38 岁） # 生活拮据 # 丈夫失业 # 有三个孩子 # 妻子支配欲强 # 性欲不正常 # 没有避孕措施 # 没有避孕政策 # 没有惩罚的 Nakadashi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "超乳",
+      "BBW",
+      "超巨乳",
+      "成熟的女人",
+      "胖女人",
+      "熟女",
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-09-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-025.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-025"
+  },
+  {
+    "id": 61569,
+    "IDcode": "HAZU-027",
+    "title": "HAZU-027 眼下东京最火爆的瘦削苗条的霸气美女变性熟女，泄露的后入视频。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "变性者",
+      "肛交",
+      "跨性别",
+      "肛门",
+      "女装",
+      "女装人妖",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-08-19",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-027.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-027"
+  },
+  {
+    "id": 176728,
+    "IDcode": "HAZU-028",
+    "title": "HAZU-028 一个天真的外省 K-cup 研究生候选人，在这个兼容并包和天妇罗的时代，对枕头销售仍然存在感到困惑，结果被 Nakadashi（射精）了。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偶像",
+      "巨乳",
+      "超巨乳",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-10-14",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-028.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-028"
+  },
+  {
+    "id": 174949,
+    "IDcode": "HAZU-029",
+    "title": "HAZU-029 拥有大奶子、大屁股和恶魔之袋的美发学徒。全速前进的支配者，与她的尻一起堕落。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "超巨乳",
+      "素人",
+      "巨臀",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人喫茶/妄想族",
+    "publish_date": "2025-10-21",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/HAZU-029.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAZU-029"
+  }
+];

@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250120-1/a8d726beff4ccff7cf60bd33ac5edb3b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/435MFC213.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=435MFC213"
   },
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20250120-1/789bcb459d2e7801e884bc461e4a2052.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/435MFC215.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=435MFC215"
   },

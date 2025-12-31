@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 434311,
-    "IDcode": "CARIB-122118-815",
-    "title": "：脱光衣服的温泉服务女",
+    "id": 228323,
+    "IDcode": "CARIB-062620_001",
+    "title": "美人牛仔裤-すみれ美香",
     "year": "",
     "country": "",
     "genre": "",
@@ -13,33 +13,14 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "加勒比系",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b02975e2bad47e3b9f731db603d13aa6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/062620-001-CARIB.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122118-815"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062620_001"
   },
   {
-    "id": 554289,
-    "IDcode": "CARIB-122224-001",
-    "title": "マンションのゴミ舍て场で邻人を诱惑するあざとい美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241225/nlDWpPVc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122224-001"
-  },
-  {
-    "id": 554288,
-    "IDcode": "CARIB-122324-001",
-    "title": "出张先で予期せぬ相部屋 ～年下の傲慢な先辈OLとチンコだけは有能な部下",
+    "id": 516810,
+    "IDcode": "CARIB-062621_001",
+    "title": "加勒",
     "year": "",
     "country": "",
     "genre": "",
@@ -50,14 +31,14 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "加勒比系",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241226/rSNHncOT/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM062621-001.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122324-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062621_001"
   },
   {
-    "id": 554287,
-    "IDcode": "CARIB-122424-001",
-    "title": "面接セックスを世に出しちゃおう！ ～紧张した笑颜が可爱い女の子～中野はるな",
+    "id": 554390,
+    "IDcode": "CARIB-062624_001",
+    "title": "早抜き 山岸るなBEST",
     "year": "",
     "country": "",
     "genre": "",
@@ -68,1581 +49,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "加勒比系",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241227/SW8pyPUz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-062624-001.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122424-001"
-  },
-  {
-    "id": 529137,
-    "IDcode": "CARIB-122823-001",
-    "title": "可爱又大方的女友性感内衣色情口交和中出 立花りんか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码",
-      "素人",
-      "高清画质"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-122823-001"
-  },
-  {
-    "id": 557716,
-    "IDcode": "CARIB-123121-001",
-    "title": "いじられ続けてガチガチになるマゾ乳首15 森田みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-123121-001"
-  },
-  {
-    "id": 554286,
-    "IDcode": "CARIB-123124-001",
-    "title": "新入社员のお仕事 Vol.28",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250113/WLIwjM1N/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-123124-001"
-  },
-  {
-    "id": 532048,
-    "IDcode": "CARIB-2620-001",
-    "title": "CARIB THE 未公开 尻コキ尻コキ尻コキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/17641eb39ff93e4aa946c1455130413e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-2620-001"
-  },
-  {
-    "id": 551323,
-    "IDcode": "CARIB-2820-001",
-    "title": "CARIB 极上泡姫物语 Vol.76",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/8cb836a4d8e16cc5030ec837c3ee1882.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-2820-001"
-  },
-  {
-    "id": 558441,
-    "IDcode": "CARIB-AV",
-    "title": "女优をあなたの自宅に宅配！10 ~ 杉浦花音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221218/46pOqdFF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-AV"
-  },
-  {
-    "id": 347656,
-    "IDcode": "CARIB-BB",
-    "title": "很嫩很美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-BB"
-  },
-  {
-    "id": 558250,
-    "IDcode": "CARIB-DEBUT",
-    "title": "Vol.82 ～全身性感帯な美微乳娘にぶっかけ＆生中出し～ 森本ひとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-DEBUT"
-  },
-  {
-    "id": 558347,
-    "IDcode": "CARIB-ONE",
-    "title": "more time, One more fuck ～撮影直后でも余裕な衣吹かのんにもうひとハメお愿いしてみた～衣吹かのん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-ONE"
-  },
-  {
-    "id": 558154,
-    "IDcode": "CARIB-SEX",
-    "title": "のことで头の中がいっぱい！ド助平女子大生とは私のことよ！ 佐々木麻衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230118/LRwu2tI5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-SEX"
-  },
-  {
-    "id": 347655,
-    "IDcode": "CARIB-THE",
-    "title": "未公开 (爱沢かりん)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-THE"
-  },
-  {
-    "id": 575550,
-    "IDcode": "CARIB010220-01",
-    "title": "マンコ図鉴〜これがカリビの醍醐味だ！第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB010220-01"
-  },
-  {
-    "id": 575588,
-    "IDcode": "CARIB010319-828",
-    "title": "お漏らしをするまでいやと言うほど追い込んでみま第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB010319-828"
-  },
-  {
-    "id": 103159,
-    "IDcode": "CARIB010520-001",
-    "title": "究極スワッピング願望を葉えよう-僕の奧さんエロいだろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB010520-001"
-  },
-  {
-    "id": 100229,
-    "IDcode": "CARIB010720-001",
-    "title": "著物美女アンソロジーOhashiMiku(大橋未久)KatoEma(加藤えま)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB010720-001"
-  },
-  {
-    "id": 575549,
-    "IDcode": "CARIB011520-01",
-    "title": "ロシアンハーフの淫猥ボディに钉付け！MizukiAngelia第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB011520-01"
-  },
-  {
-    "id": 575548,
-    "IDcode": "CARIB011620-01",
-    "title": "未公开〜结衣の身体测定〜KisaragiYui(如月结衣)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB011620-01"
-  },
-  {
-    "id": 575547,
-    "IDcode": "CARIB011820-01",
-    "title": "中出しいただくまで男の乳首を离しません4HoujouMaki(北条麻妃)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB011820-01"
-  },
-  {
-    "id": 99356,
-    "IDcode": "CARIB011912-919",
-    "title": "黒木麻衣感じる猥褻ボディ前編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB011912-919"
-  },
-  {
-    "id": 575546,
-    "IDcode": "CARIB012120-01",
-    "title": "美★ジーンズVol第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB012120-01"
-  },
-  {
-    "id": 575538,
-    "IDcode": "CARIB012220-01",
-    "title": "未公开〜バーチャルごっくんフェラ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB012220-01"
-  },
-  {
-    "id": 575537,
-    "IDcode": "CARIB012320-01",
-    "title": "女优魂〜人気AV女优にガチナンパ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB012320-01"
-  },
-  {
-    "id": 99517,
-    "IDcode": "CARIB012712-927",
-    "title": "伊東カンナアフターはＨカップのご奉仕後編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB012712-927"
-  },
-  {
-    "id": 99580,
-    "IDcode": "CARIB020510-289",
-    "title": "水野ありすほんとにあったＨな話13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB020510-289"
-  },
-  {
-    "id": 99606,
-    "IDcode": "CARIB020610-290",
-    "title": "渚著ハメキャンディFile.014",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB020610-290"
-  },
-  {
-    "id": 434283,
-    "IDcode": "CARIB021114-541",
-    "title": "高速马达的强烈撞击",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ed495c8f4a04985ff42f50528b5e3a59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021114-541"
-  },
-  {
-    "id": 575545,
-    "IDcode": "CARIB021410-297",
-    "title": "裸・家族第3话AineYuri(爱音ゆり)KusanagiJun第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-11/00/5cepynagiy200085cepynagiy245610.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021410-297"
-  },
-  {
-    "id": 99233,
-    "IDcode": "CARIB021612-944",
-    "title": "雨宮琴音Ｓ級女優の本気エクスタシー前編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021612-944"
-  },
-  {
-    "id": 575587,
-    "IDcode": "CARIB021812-946",
-    "title": "制服下乳学园YoshidaHana(吉田花)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021812-946"
-  },
-  {
-    "id": 99158,
-    "IDcode": "CARIB021910-301",
-    "title": "彼氏と彼女のマンコ當てクイズ！Vol.1後編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB021910-301"
-  },
-  {
-    "id": 575544,
-    "IDcode": "CARIB022210-303",
-    "title": "小麦色ベイビィShirasunaYuno(白砂ゆの)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022210-303"
-  },
-  {
-    "id": 526073,
-    "IDcode": "CARIB022412-951",
-    "title": "星崎アンリ连続颜射恍惚アクメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022412-951"
-  },
-  {
-    "id": 575561,
-    "IDcode": "CARIB022510-306",
-    "title": "淫乱炸裂お姊さん2☆LUNA☆(☆LUNA☆)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022510-306"
-  },
-  {
-    "id": 526072,
-    "IDcode": "CARIB022610-307RINA",
-    "title": "パーフェクトボディ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-11/00/44v4bziavs5001244v4bziavs509989.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022610-307RINA"
-  },
-  {
-    "id": 575535,
-    "IDcode": "CARIB022920-01BOGAXBOGA",
-    "title": "レイを褒め称えてくれる〜KatoEma第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB022920-01BOGAXBOGA"
-  },
-  {
-    "id": 99227,
-    "IDcode": "CARIB030218-614",
-    "title": "真菜果女優魂-え？今ここでやっちゃうんですか！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030218-614"
-  },
-  {
-    "id": 575543,
-    "IDcode": "CARIB030520-01THE",
-    "title": "未公开〜彻底ロングルデ〜KudoReika(工藤れいか)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030520-01THE"
-  },
-  {
-    "id": 434284,
-    "IDcode": "CARIB030619-872",
-    "title": "すみれ美香スーパーボディと最强の美貌の闷える女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ee3685230f2d1c0dccdd6611b1fc9c16.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030619-872"
-  },
-  {
-    "id": 575542,
-    "IDcode": "CARIB030620-01",
-    "title": "中出しいただくまで男の乳首を离SumireMika(すみれ美香)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030620-01"
-  },
-  {
-    "id": 575560,
-    "IDcode": "CARIB030810-315",
-    "title": "初めてのＡＶVol第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB030810-315"
-  },
-  {
-    "id": 575559,
-    "IDcode": "CARIB031210-319THELASTGAL2KYOKO",
-    "title": "(KYOKO)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031210-319THELASTGAL2KYOKO"
-  },
-  {
-    "id": 575534,
-    "IDcode": "CARIB031220-01",
-    "title": "を手懐ける〜スペインアナルも可爱がっ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031220-01"
-  },
-  {
-    "id": 575533,
-    "IDcode": "CARIB031320-01",
-    "title": "密着！でご奉仕してくれるメンOkamotoRiina(冈本理依奈)第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031320-01"
-  },
-  {
-    "id": 347535,
-    "IDcode": "CARIB031617-394",
-    "title": "アナル図鉴 小野寺梨纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031617-394"
-  },
-  {
-    "id": 99228,
-    "IDcode": "CARIB031710-323",
-    "title": "大塚咲~石川みずき~森ゆきなTHE未公開",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031710-323"
-  },
-  {
-    "id": 575532,
-    "IDcode": "CARIB031720-01",
-    "title": "言いなり温泉の旅〜そんなに焦らされたら濡第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031720-01"
-  },
-  {
-    "id": 575531,
-    "IDcode": "CARIB031920-01",
-    "title": "女优魂〜次々と现れる男根さまのワンチームを第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB031920-01"
-  },
-  {
-    "id": 575571,
-    "IDcode": "CARIB032010-326",
-    "title": "制服美女倶楽部Vol第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032010-326"
-  },
-  {
-    "id": 575593,
-    "IDcode": "CARIB032412-976",
-    "title": "つるつるパイパンに中出しで征服！AoiMiyu(葵み第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/04-26/00/5fvkfjc100o00025fvkfjc100o1215419.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032412-976"
-  },
-  {
-    "id": 434302,
-    "IDcode": "CARIB032619-884",
-    "title": "和轻佻少妇洗鸳鸯浴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032619-884"
-  },
-  {
-    "id": 535876,
-    "IDcode": "CARIB032719-885",
-    "title": "マンコ図鉴AsagiriAkari(朝桐光)MizukiYume(美月优芽)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032719-885"
-  },
-  {
-    "id": 99226,
-    "IDcode": "CARIB032810-333",
-    "title": "素人4人彼氏と彼女のマンコ當てクイズ！Vol.2前編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032810-333"
-  },
-  {
-    "id": 99310,
-    "IDcode": "CARIB032919-886",
-    "title": "いずみ美耶挿入とオシャブリを繰り返すループアクメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB032919-886"
-  },
-  {
-    "id": 99551,
-    "IDcode": "CARIB033110-335",
-    "title": "禁じられた関係7後編KatoNao(加藤なお)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB033110-335"
-  },
-  {
-    "id": 99468,
-    "IDcode": "CARIB040712-988",
-    "title": "綾見ひかるご奉仕メイド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB040712-988"
-  },
-  {
-    "id": 99581,
-    "IDcode": "CARIB040910-343",
-    "title": "女熱大陸File",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8f8432e79ba064b9625d68a54af8970a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB040910-343"
-  },
-  {
-    "id": 437575,
-    "IDcode": "CARIB041010-344",
-    "title": "青山ゆい 着ハメキャンディ File.016",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5fa27f1f50127936a884a1ca805d19b7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041010-344"
-  },
-  {
-    "id": 575718,
-    "IDcode": "CARIB041319-896",
-    "title": "祈里きすみ放课后に、仕込んでください〜天然Iカップを虐めてください〜第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041319-896"
-  },
-  {
-    "id": 575569,
-    "IDcode": "CARIB041610-349",
-    "title": "制服美女倶楽部Vol第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041610-349"
-  },
-  {
-    "id": 99633,
-    "IDcode": "CARIB041710-350",
-    "title": "の見晴らし最高OsawaManami(大沢まなみ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041710-350"
-  },
-  {
-    "id": 103228,
-    "IDcode": "CARIB041720-001",
-    "title": "小森みくろを手懐ける-飼い主2人のちんぽを愛して止まない奴隷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041720-001"
-  },
-  {
-    "id": 526079,
-    "IDcode": "CARIB041810-351",
-    "title": "子豚の恩返し后编NagasawaNene(长泽ねね)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB041810-351"
-  },
-  {
-    "id": 99540,
-    "IDcode": "CARIB042310-355",
-    "title": "中國語美人教師Yayoi(彌生)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB042310-355"
-  },
-  {
-    "id": 103229,
-    "IDcode": "CARIB042517-419",
-    "title": "夏乃ひまわり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB042517-419"
-  },
-  {
-    "id": 535875,
-    "IDcode": "CARIB042719-904",
-    "title": "オフィスラバーズ〜新入女子社员を调教する女上司〜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB042719-904"
-  },
-  {
-    "id": 99516,
-    "IDcode": "CARIB043010-361",
-    "title": "美★ジーンズVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB043010-361"
-  },
-  {
-    "id": 99231,
-    "IDcode": "CARIB050210-363",
-    "title": "彼氏と彼女のマンコ當てクイズ！Vol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB050210-363"
-  },
-  {
-    "id": 103162,
-    "IDcode": "CARIB050410-365",
-    "title": "ひなのりくチョコレートミルク",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB050410-365"
-  },
-  {
-    "id": 103193,
-    "IDcode": "CARIB050612-014",
-    "title": "橘ひなた勃ちッぱな3P！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB050612-014"
-  },
-  {
-    "id": 526078,
-    "IDcode": "CARIB051510-375",
-    "title": "カリビアンキューティーVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB051510-375"
-  },
-  {
-    "id": 526077,
-    "IDcode": "CARIB052110-380",
-    "title": "カリビアンレディースゴルフカップ2HiramatsuErika(平松恵理香)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052110-380"
-  },
-  {
-    "id": 99515,
-    "IDcode": "CARIB052210-381",
-    "title": "女子アナ強姦SenaAyumu(広瀬藍子)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052210-381"
-  },
-  {
-    "id": 99395,
-    "IDcode": "CARIB052419-926",
-    "title": "岡本理依奈朝から晩まで隙があったら即挿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052419-926"
-  },
-  {
-    "id": 575591,
-    "IDcode": "CARIB052519-927",
-    "title": "ロリコン専用ソープらんど8NatsumeNana(夏目な第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052519-927"
-  },
-  {
-    "id": 99167,
-    "IDcode": "CARIB052710-385",
-    "title": "縛られた現役女子大生UchiyamaHaruka(內山遙)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052710-385"
-  },
-  {
-    "id": 103160,
-    "IDcode": "CARIB052810-386",
-    "title": "カリビアンキューティーVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB052810-386"
-  },
-  {
-    "id": 575592,
-    "IDcode": "CARIB053019-931",
-    "title": "未公开〜制服でむっちむちぱいぱいパイずり〜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB053019-931"
-  },
-  {
-    "id": 99521,
-    "IDcode": "CARIB060510-393",
-    "title": "美★ジーンズVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB060510-393"
-  },
-  {
-    "id": 103372,
-    "IDcode": "CARIB060619-936",
-    "title": "松本メイ~水原サラ~麻美ゆい~愛川セイラ~小澤マリアハーフ美女アンソロジー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB060619-936"
-  },
-  {
-    "id": 575523,
-    "IDcode": "CARIB060719-937",
-    "title": "マン毛の浓さはバキュームの强さ〜刺激强めのねっとりしたバ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB060719-937"
-  },
-  {
-    "id": 99154,
-    "IDcode": "CARIB060918-683",
-    "title": "朝桐光アナルに目覚めた私の妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB060918-683"
-  },
-  {
-    "id": 575590,
-    "IDcode": "CARIB061112-045",
-    "title": "奥様はベテラン女子校生KiriokaSatsuki(桐冈さつ第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB061112-045"
-  },
-  {
-    "id": 98011,
-    "IDcode": "CARIB061610-402",
-    "title": "執事愛撫喫茶第2章PART3IjimaKurara(森ゆきな)MoriYukina(飯島",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB061610-402"
-  },
-  {
-    "id": 103190,
-    "IDcode": "CARIB061810-404",
-    "title": "美乳エロレロレディ2AizawaRen(愛沢蓮)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e3665604342b3fdc0a90a1213fa8eeb4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB061810-404"
-  },
-  {
-    "id": 535874,
-    "IDcode": "CARIB062312-056",
-    "title": "あまえんぼうVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB062312-056"
-  },
-  {
-    "id": 575522,
-    "IDcode": "CARIB062519-947",
-    "title": "所持金ゼロ！目指せメキシコ！ハーフ美女ヒッチハイク第01集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB062519-947"
-  },
-  {
-    "id": 99485,
-    "IDcode": "CARIB062610-411",
-    "title": "寫ハメVol",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://yunvgong.com/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB062610-411"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062624_001"
   },
   {
     "id": 575717,
-    "IDcode": "CARIB062718-693",
+    "IDcode": "CARIB-062718_693",
     "title": "姫川ゆうな早抜きBEST第01集",
     "year": "",
     "country": "",
@@ -1653,14 +66,105 @@ window.PAGE_DATA = [
     ],
     "type": "无码",
     "company": "加勒比系",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB062718-693"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062718_693"
+  },
+  {
+    "id": 142185,
+    "IDcode": "CARIB-062719_949",
+    "title": "猫图画书HikariMizusumiHikariMizusumi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/062719-949.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062719_949"
+  },
+  {
+    "id": 228324,
+    "IDcode": "CARIB-062720_001",
+    "title": "开始我的表演-櫻井えみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/062720-001-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062720_001"
+  },
+  {
+    "id": 438365,
+    "IDcode": "CARIB-062725_001",
+    "title": "誘惑兒子朋友性慾處理的年輕母親  世良憧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "乱伦"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM_062725_001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062725_001"
+  },
+  {
+    "id": 159189,
+    "IDcode": "CARIB-062823_001",
+    "title": "未公開 ～前代未聞の凄まじいWフェラ３",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-062823-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062823_001"
+  },
+  {
+    "id": 554477,
+    "IDcode": "CARIB-062824_001",
+    "title": "しまくり先生 私みたいにやるの！！ ～挿入とフェラを缲り返すPtoM先生～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-062824-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062824_001"
   },
   {
     "id": 99220,
-    "IDcode": "CARIB062912-061",
+    "IDcode": "CARIB-062912_061",
     "title": "大海まりん超敏感ロリ娘壯絶アクメ調教3P編",
     "year": "",
     "country": "",
@@ -1674,11 +178,379 @@ window.PAGE_DATA = [
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB062912-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062912_061"
+  },
+  {
+    "id": 554378,
+    "IDcode": "CARIB-062924_001",
+    "title": "夫の遗影の前で気が狂うほど絶顶する未亡人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-062924-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062924_001"
+  },
+  {
+    "id": 228327,
+    "IDcode": "CARIB-063020_001",
+    "title": "極上泡姫物語-小野寺まり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/063020-001-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-063020_001"
+  },
+  {
+    "id": 140858,
+    "IDcode": "CARIB-063023_001",
+    "title": "让我们在你不应该这样做的情况下这样做吧3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM-063023-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-063023_001"
+  },
+  {
+    "id": 143507,
+    "IDcode": "CARIB-070114_633",
+    "title": "天空天使133第1部分-しずく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM-070114-633.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070114_633"
+  },
+  {
+    "id": 208817,
+    "IDcode": "CARIB-070116_197",
+    "title": "洗練された大人-上原亜衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/070116-197-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070116_197"
+  },
+  {
+    "id": 159175,
+    "IDcode": "CARIB-070123_001",
+    "title": "元水泳国際強化選手のオッパイ先輩がその悔しさを中出しさせてあげる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070123-001.jpg",
+    "actress": [
+      "桜井綾音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070123_001"
+  },
+  {
+    "id": 159181,
+    "IDcode": "CARIB-070223_001",
+    "title": "more time, One more fuck ～撮影直後でも余裕なにもうひとハメお願いしてみた2～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070223-001.jpg",
+    "actress": [
+      "白雪麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070223_001"
+  },
+  {
+    "id": 554389,
+    "IDcode": "CARIB-070224_001",
+    "title": "この女、ふしだら。 〜小美川まゆの场合〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070224-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070224_001"
+  },
+  {
+    "id": 559119,
+    "IDcode": "CARIB-070324_001",
+    "title": "猫绘本Satomi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM-070324-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070324_001"
+  },
+  {
+    "id": 209015,
+    "IDcode": "CARIB-070417_455",
+    "title": "朝桐光だったらめちゃ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/070417-455-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070417_455"
+  },
+  {
+    "id": 508267,
+    "IDcode": "CARIB-070420_001",
+    "title": "喜欢插入渴望重复的女子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB 070420-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070420_001"
+  },
+  {
+    "id": 159216,
+    "IDcode": "CARIB-070423_001",
+    "title": "倉沢あゆむの家で撮影しちゃおう ~ 倉沢あゆむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070423-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070423_001"
+  },
+  {
+    "id": 555351,
+    "IDcode": "CARIB-070513_610",
+    "title": "走秀毒DV24肮脏小偶像美少女淫荡诱惑-冲仁美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOMPR-070513_610.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070513_610"
+  },
+  {
+    "id": 159182,
+    "IDcode": "CARIB-070523_001",
+    "title": "マンコ図鑑 桜木美央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070523-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070523_001"
+  },
+  {
+    "id": 554379,
+    "IDcode": "CARIB-070524_001",
+    "title": "Debut Vol.92 〜ラテン系クオーター美女が日本で覚えたエッチを求めて再来日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070524-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070524_001"
+  },
+  {
+    "id": 159147,
+    "IDcode": "CARIB-070623_001",
+    "title": "ヌードデッサンモデルが天職です ～ありえない要求の上をイく美魔女モデル～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070623-001.jpg",
+    "actress": [
+      "北条麻妃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070623_001"
+  },
+  {
+    "id": 554388,
+    "IDcode": "CARIB-070624_001",
+    "title": "キライキライ、好き！全然タイプじゃない上司だったのに！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070624-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070624_001"
+  },
+  {
+    "id": 508290,
+    "IDcode": "CARIB-070717_457",
+    "title": "插爆超正美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB 070717-457.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070717_457"
+  },
+  {
+    "id": 159169,
+    "IDcode": "CARIB-070723_001",
+    "title": "洗練された大人のいやし亭 ～絶品ボディといやらしい言葉遣いでおもてなし～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070723-001.jpg",
+    "actress": [
+      "高垣楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070723_001"
+  },
+  {
+    "id": 554377,
+    "IDcode": "CARIB-070724_001",
+    "title": "极上泡姫物语 Vol.126 井上さとみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070724-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070724_001"
   },
   {
     "id": 99414,
-    "IDcode": "CARIB070810-421",
+    "IDcode": "CARIB-070810_421",
     "title": "激カワ黒ギャルx中出しRUMIKA(RUMIKA)",
     "year": "",
     "country": "",
@@ -1692,11 +564,67 @@ window.PAGE_DATA = [
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB070810-421"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070810_421"
+  },
+  {
+    "id": 143838,
+    "IDcode": "CARIB-070811_746",
+    "title": "加勒比钻石Vol.2朝仓麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250208-1/3f8102ca7fe26c30a0c130d3c56d77da.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070811_746"
+  },
+  {
+    "id": 145413,
+    "IDcode": "CARIB-070817_001",
+    "title": "北山环奈LoriaHatsuneShinodaAyumiMinakoKomukai-小向美奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOMPR-070817_001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070817_001"
+  },
+  {
+    "id": 159148,
+    "IDcode": "CARIB-070823_001",
+    "title": "女熱大陸 File.092 ～世界中の人に幸せを届ける宅配人～百多えみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070823-001.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070823_001"
   },
   {
     "id": 531172,
-    "IDcode": "CARIB070919-957",
+    "IDcode": "CARIB-070919_957",
     "title": "日向女郎蜘蛛〜白人デリバリーボーイを罠にハメる大和ナメシコ〜HimukaiAnn(日向あん)第04集",
     "year": "",
     "country": "",
@@ -1710,11 +638,49 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB070919-957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070919_957"
+  },
+  {
+    "id": 159142,
+    "IDcode": "CARIB-070923_001",
+    "title": "極上泡姫物語 Vol.115",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070923-001.jpg",
+    "actress": [
+      "衣吹花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070923_001"
+  },
+  {
+    "id": 554385,
+    "IDcode": "CARIB-070924_001",
+    "title": "妻とSEXをして、その行为をカメラで撮影して见せて欲しい！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-070924-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-070924_001"
   },
   {
     "id": 99610,
-    "IDcode": "CARIB071010-423",
+    "IDcode": "CARIB-071010_423",
     "title": "パーフェクトボディ2MayaYuki(真矢ゆき)",
     "year": "",
     "country": "",
@@ -1728,11 +694,85 @@ window.PAGE_DATA = [
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071010-423"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071010_423"
+  },
+  {
+    "id": 347576,
+    "IDcode": "CARIB-071016_205",
+    "title": "太いの一本挿れてくださいね-大桥ひとみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071016_205"
+  },
+  {
+    "id": 554383,
+    "IDcode": "CARIB-071024_001",
+    "title": "扫除のおばちゃんの里の颜 森下夕子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071024-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071024_001"
+  },
+  {
+    "id": 143849,
+    "IDcode": "CARIB-071110_424",
+    "title": "CupPart2AkariKimishimaNeneTakashima等",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071110-424.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071110_424"
+  },
+  {
+    "id": 159177,
+    "IDcode": "CARIB-071123_001",
+    "title": "恍惚 ～浴衣美女と本能の赴くままに～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071123-001.jpg",
+    "actress": [
+      "新城由衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071123_001"
   },
   {
     "id": 575524,
-    "IDcode": "CARIB071219-959",
+    "IDcode": "CARIB-071219_959",
     "title": "极上泡姫物语Vol第01集",
     "year": "",
     "country": "",
@@ -1744,13 +784,85 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "加勒比系",
     "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2019/11-08/03/ivndidibrkg0358ivndidibrkg318127.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB071219-959.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071219-959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071219_959"
+  },
+  {
+    "id": 554246,
+    "IDcode": "CARIB-071222_001",
+    "title": "湿过头吞吐过头！暴淫暴触是我的例行动作！ 美月优芽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM071222-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071222_001"
+  },
+  {
+    "id": 159149,
+    "IDcode": "CARIB-071223_001",
+    "title": "水着アンソロジー4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071223-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071223_001"
+  },
+  {
+    "id": 554386,
+    "IDcode": "CARIB-071224_001",
+    "title": "ピンクコンパニオンと王様ゲームで逆3Pハーレム",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071224-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071224_001"
+  },
+  {
+    "id": 574499,
+    "IDcode": "CARIB-071312_073",
+    "title": "沙月由奈 痴汉路线バス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071312-073.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071312_073"
   },
   {
     "id": 99219,
-    "IDcode": "CARIB071319-960",
+    "IDcode": "CARIB-071319_960",
     "title": "彩月あかり大好きな挿入とおしゃぶりを繰り返す欲しがり女子",
     "year": "",
     "country": "",
@@ -1764,11 +876,65 @@ window.PAGE_DATA = [
     "publish_date": "2024-07-17",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071319-960"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071319_960"
+  },
+  {
+    "id": 554433,
+    "IDcode": "CARIB-071324_001",
+    "title": "女体盛りも中出しも选択自由なドスケベ宴会コース",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071324-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071324_001"
+  },
+  {
+    "id": 142992,
+    "IDcode": "CARIB-071412_074",
+    "title": "加勒比可爱Vol.26小西尤里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250205-1/87fbd4943f86f00ff772aaf6cf6442d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071412_074"
+  },
+  {
+    "id": 517869,
+    "IDcode": "CARIB-071416_207",
+    "title": "和素",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM071416-207.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071416_207"
   },
   {
     "id": 575716,
-    "IDcode": "CARIB071418-707",
+    "IDcode": "CARIB-071418_707",
     "title": "柚月あの顷のエッチな私第01集",
     "year": "",
     "country": "",
@@ -1782,11 +948,105 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071418-707"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071418_707"
+  },
+  {
+    "id": 159193,
+    "IDcode": "CARIB-071423_001",
+    "title": "乳首をハムハム！授乳プレイ ～赤ちゃんにオッパイをあげてみたいの～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071423-001.jpg",
+    "actress": [
+      "小美川まゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071423_001"
+  },
+  {
+    "id": 554450,
+    "IDcode": "CARIB-071424_001",
+    "title": "この女、ふしだら。 ～纱雾ひなたの场合～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071424-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071424_001"
+  },
+  {
+    "id": 159191,
+    "IDcode": "CARIB-071523_001",
+    "title": "リピート率100％のオッパブ嬢 ～ルール破りの本番プレイ～安室なみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071523-001.jpg",
+    "actress": [
+      "美月咲良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071523_001"
+  },
+  {
+    "id": 554380,
+    "IDcode": "CARIB-071524_001",
+    "title": "マンコ図鉴 星野さやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071524-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071524_001"
+  },
+  {
+    "id": 347498,
+    "IDcode": "CARIB-071616_209",
+    "title": "女热大陆 File.050-羽田真里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071616_209"
   },
   {
     "id": 535873,
-    "IDcode": "CARIB071619-962",
+    "IDcode": "CARIB-071619_962",
     "title": "かり美びあんず〜美人団地妻二人の密かな宴〜Kazuki,Sakura(华月",
     "year": "",
     "country": "",
@@ -1800,6 +1060,774 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB071619-962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071619_962"
+  },
+  {
+    "id": 436588,
+    "IDcode": "CARIB-071622_001",
+    "title": "【无码】喜欢做爱的美臀妹子也喜欢被玩弄肛门 天绪舞  天绪まい 071622-001",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM071622-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071622_001"
+  },
+  {
+    "id": 159211,
+    "IDcode": "CARIB-071623_001",
+    "title": "かり美びあんず ～女の肌の柔らかさに爆上がり～森田みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071623-001.jpg",
+    "actress": [
+      "前田沙羅"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071623_001"
+  },
+  {
+    "id": 554474,
+    "IDcode": "CARIB-071624_001",
+    "title": "挿れる前に玩具责めし过ぎちゃダメ～！おマンコ一点集中アクメ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071624-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071624_001"
+  },
+  {
+    "id": 140867,
+    "IDcode": "CARIB-071723_001",
+    "title": "壹岐耐力锦标赛扭转我想要更多",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM-071723-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071723_001"
+  },
+  {
+    "id": 550850,
+    "IDcode": "CARIB-071817_463",
+    "title": "冴君麻衣子,上原まさき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071817-463.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071817_463"
+  },
+  {
+    "id": 142207,
+    "IDcode": "CARIB-071819_964",
+    "title": "猫图画书KanonYumesakiKanonYumesaki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/071819-964.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071819_964"
+  },
+  {
+    "id": 554230,
+    "IDcode": "CARIB-071822_001",
+    "title": "喷精快手 新城由衣精选",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM071822-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071822_001"
+  },
+  {
+    "id": 554449,
+    "IDcode": "CARIB-071824_001",
+    "title": "水着アンソロジー5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071824-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071824_001"
+  },
+  {
+    "id": 438407,
+    "IDcode": "CARIB-071825_001",
+    "title": "和一個想找乾爹的開朗女OO一夜情！我一定要拍！ 濱田希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM_071825_001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071825_001"
+  },
+  {
+    "id": 159145,
+    "IDcode": "CARIB-071923_001",
+    "title": "セクシー女優エンサイクロペディア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071923-001.jpg",
+    "actress": [
+      "望月しおん",
+      "望月紫苑"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071923_001"
+  },
+  {
+    "id": 554447,
+    "IDcode": "CARIB-071924_001",
+    "title": "元着エロアイドルAV复帰第2弾！ノンストップ连続中出しスペシャル！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-071924-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071924_001"
+  },
+  {
+    "id": 508320,
+    "IDcode": "CARIB-072011_756",
+    "title": "无法抗拒禁断的关系11 宫间葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB 072011-756.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072011_756"
+  },
+  {
+    "id": 531171,
+    "IDcode": "CARIB-072012_079",
+    "title": "ダマシ面接〜真性潮吹きパイパン素人発掘〜MakiseKurara(牧瀬くらら)第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072012_079"
+  },
+  {
+    "id": 554452,
+    "IDcode": "CARIB-072024_001",
+    "title": "若い嫁は村の宝！限界集落青年団の、なんぼでも精子注入するばい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072024-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072024_001"
+  },
+  {
+    "id": 508306,
+    "IDcode": "CARIB-072111_757",
+    "title": "超性感女仆装美少女 爱美沙希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB 072111-757.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072111_757"
+  },
+  {
+    "id": 159206,
+    "IDcode": "CARIB-072123_001",
+    "title": "セフレ関係から愛人沼へ ～結婚しても身体の関係を続けています～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072123-001.jpg",
+    "actress": [
+      "星野みき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072123_001"
+  },
+  {
+    "id": 103232,
+    "IDcode": "CARIB-072210_433",
+    "title": "縛られたロリ娘AoyamaHikaru(青山ひかる)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072210_433"
+  },
+  {
+    "id": 145414,
+    "IDcode": "CARIB-072217_002",
+    "title": "加藤绘间纯川狮子一条核桃茅野-越川アメリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOMPR-072217_002.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072217_002"
+  },
+  {
+    "id": 482893,
+    "IDcode": "CARIB-072222_002",
+    "title": "极上セレブ妇人 ～お坚い高飞车セレブもとろけさせる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/072222_002-CARIBPR.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072222_002"
+  },
+  {
+    "id": 159207,
+    "IDcode": "CARIB-072223_001",
+    "title": "私のセックスを見てください！い～っぱい顔面射精してください！14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072223-001.jpg",
+    "actress": [
+      "佐々野ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072223_001"
+  },
+  {
+    "id": 555352,
+    "IDcode": "CARIB-072309_576",
+    "title": "EGALS14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOMPR-072309_576.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072309_576"
+  },
+  {
+    "id": 99538,
+    "IDcode": "CARIB-072310_434",
+    "title": "僕のペットはOtoiNazuna(乙井なずな)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB072310-434.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072310_434"
+  },
+  {
+    "id": 524611,
+    "IDcode": "CARIB-072319_967",
+    "title": "バーチャル青山はな～あなた専用の神すぎるふわふわFカップでご奉仕～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/072319-967-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072319_967"
+  },
+  {
+    "id": 558891,
+    "IDcode": "CARIB-072322_001",
+    "title": "自慰到达绝顶瞬间无套插入 〜请插入我的小穴充满我！〜 与田知佳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM072322-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072322_001"
+  },
+  {
+    "id": 554395,
+    "IDcode": "CARIB-072324_001",
+    "title": "マンコ中出しxアナル中出し大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码",
+      "乱交"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072324-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072324_001"
+  },
+  {
+    "id": 437499,
+    "IDcode": "CARIB-072410_435",
+    "title": "神崎るな カリビアンキューティー Vol.14",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB072410-435.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072410_435"
+  },
+  {
+    "id": 508265,
+    "IDcode": "CARIB-072412_082",
+    "title": "不论何时何处都能撸管发射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB 072412-082.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072412_082"
+  },
+  {
+    "id": 517342,
+    "IDcode": "CARIB-072421_001",
+    "title": "妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM072421-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072421_001"
+  },
+  {
+    "id": 554444,
+    "IDcode": "CARIB-072424_001",
+    "title": "セクシー女优エンサイクロペディア ～私たちの身体を隅々まで见て下さい7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072424-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072424_001"
+  },
+  {
+    "id": 521864,
+    "IDcode": "CARIB-072515_929",
+    "title": "Debut Vol.22 〜舌が异常に长いんですぅ〜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072515-929.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072515_929"
+  },
+  {
+    "id": 517783,
+    "IDcode": "CARIB-072517_467",
+    "title": "外套",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM072517-467.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072517_467"
+  },
+  {
+    "id": 159178,
+    "IDcode": "CARIB-072523_001",
+    "title": "more time, One more fuck ～撮影直後でも余裕なにもうひとハメお願いしてみた～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072523-001.jpg",
+    "actress": [
+      "赤井美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072523_001"
+  },
+  {
+    "id": 437518,
+    "IDcode": "CARIB-072610_436",
+    "title": "高瀬沙耶香 熟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB072610-436.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072610_436"
+  },
+  {
+    "id": 575662,
+    "IDcode": "CARIB-072612_084",
+    "title": "バレエ仕込の软体セックスSuzukiRirika(すずきりりか)第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072612_084"
+  },
+  {
+    "id": 524825,
+    "IDcode": "CARIB-072619_003",
+    "title": "カリビアンコム プレミ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072619_003.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072619_003"
+  },
+  {
+    "id": 524616,
+    "IDcode": "CARIB-072619_969",
+    "title": "～すみれ美香が仆のプレイを褒め称えてくれる～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/072619-969-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072619_969"
+  },
+  {
+    "id": 554190,
+    "IDcode": "CARIB-072622_001",
+    "title": "满满碰触！想要潮吹高潮！ 渡边美羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM072622-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072622_001"
+  },
+  {
+    "id": 554471,
+    "IDcode": "CARIB-072624_001",
+    "title": "极上泡姫物语 Vol.127",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIB-072624-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072624_001"
+  },
+  {
+    "id": 143887,
+    "IDcode": "CARIB-072711_762",
+    "title": "加勒比电视台2010年12月3日3日广播第1部分YumaMiyazakiReiraSerikawaMisakiHasegawa助理AiYoneyama",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250208-1/50d0da5374466c8e657d8e86d9f84dac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072711_762"
+  },
+  {
+    "id": 575658,
+    "IDcode": "CARIB-072712_085",
+    "title": "软体コラボレーション 〜下品なポーズ责め〜HoshinoAika(星野あ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072712_085"
+  },
+  {
+    "id": 524619,
+    "IDcode": "CARIB-072719_970",
+    "title": "中出しいただくまで男の乳首を离しません3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/072719-970-CARIB.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072719_970"
+  },
+  {
+    "id": 554252,
+    "IDcode": "CARIB-072722_001",
+    "title": "为了M男的超高级淫语中出泡泡浴 雅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/CARIBBEANCOM072722-001.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-072722_001"
   }
 ];

@@ -10,7 +10,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7794e7d663df4b3fa70/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-001.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-001"
   },
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/7559ee858e17a8779ee962f82e0259c2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-007"
   },
@@ -50,7 +50,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-9/c74a15b599c31d3c935465fa504797b3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-035.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-035"
   },
@@ -65,7 +65,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5a76ceb67774efbb863bf/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-065.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-065"
   },
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230510/h_1300mtes075pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-075"
   },
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ae4e6aa83d372fdaca8ed3a689d11178.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-076.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-076"
   },
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f76962b26fb1aff5678b7a76378fd95d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-084.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-084"
   },
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/386400fdbbc78affb2ede44ed2cba421.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-085.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-085"
   },
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dbc6223e0f31dc0c6a9e32bace8096a6.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-086.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-086"
   },
@@ -157,7 +157,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230812/h_1300mtes091pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-091.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-091"
   },
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://pic46.anzise.com/pic/20230304/51f503d461f3df9c5f000c11ac19945b/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-092.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-092"
   },
@@ -187,7 +187,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231110/h_1300mtes093pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-093.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-093"
   },
@@ -219,7 +219,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/K0LTNRXW/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-099.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-099"
   },
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/1cIMvZka/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-100.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-100"
   },
@@ -249,7 +249,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/8XN7zFAR/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-101.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-101"
   },
@@ -264,7 +264,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/RYTOcfIU/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-102.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-102"
   },
@@ -279,7 +279,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/ctN7yuVl/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-103.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-103"
   },
@@ -294,7 +294,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/NguwmRYm/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-104.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-104"
   },
@@ -309,7 +309,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/Py9ngJkG/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-105.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-105"
   },
@@ -324,7 +324,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230830/3wxgWJzN/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-106.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-106"
   },
@@ -341,7 +341,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/sPyv6LQ2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-107.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-107"
   },
@@ -356,7 +356,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/zWWVdlcj/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-108"
   },
@@ -371,7 +371,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/afrbHvzr/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-109.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-109"
   },
@@ -386,7 +386,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/c9IaLlOZ/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-110.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-110"
   },
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231124/HqDhCnN2/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-111.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-111"
   },
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231124/Q3svBlO5/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-112.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-112"
   },
@@ -431,7 +431,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231230/kmC67DRx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-113.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-113"
   },
@@ -446,7 +446,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231230/xdf3dJ2Y/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-114.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-114"
   },
@@ -461,7 +461,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/vMjJ1NPu/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-115.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-115"
   },
@@ -476,7 +476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240128/K6aGZAZz/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-116.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-116"
   },
@@ -491,7 +491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/EUlbmf9k/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-117.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-117"
   },
@@ -506,7 +506,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240428/s5oTZSYA/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-119.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-119"
   },
@@ -527,7 +527,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/00e91f2b22878c95ce890fe41e06241c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-120.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-120"
   },
@@ -548,7 +548,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/b6fe1cbf9d0860a3eec8bee528e937be.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-121.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-121"
   },
@@ -569,7 +569,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/ac1727b437f54b6ffe8c8e9289adbe77.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-122.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-122"
   },
@@ -590,7 +590,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/a08f211d029b5191c0158e8305a597e3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-123.jpg",
     "actress": [
       "風間由美"
     ],
@@ -607,7 +607,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241008/5cE3fwHV/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-124.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-124"
   },
@@ -624,7 +624,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/68010cb5cf22ae3e044c9885/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-125.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-125"
   },
@@ -641,7 +641,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251013-1/93752ad7e93fab2734c4c22013bbfadc.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-127.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-127"
   },
@@ -656,7 +656,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250216/rbr2lj0Z/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-129.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-129"
   },
@@ -673,7 +673,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6788fb805d57b64bfd702aea/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-130.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-130"
   },
@@ -688,7 +688,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250410/VKRMtYU9/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-131.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-131"
   },
@@ -734,7 +734,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "2025-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/e1aa4ca0-8e99-434e-b5f5-911dfdca1268.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-132.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-132"
   },
@@ -756,7 +756,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/04/c8d1593beee77602ee186183875ac2af.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-133.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-133"
   },
@@ -774,7 +774,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20250701-1/871d382f2f84e8349c4909c27c621953.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-135.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-135"
   },
@@ -841,7 +841,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629113258800800_thumbnail.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-136.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-136"
   },
@@ -864,7 +864,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250801-1/73f1153feb5e670207f320fa0088be56.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-137.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-137"
   },
@@ -879,8 +879,517 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MUTEKI",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/10/b37e03dd2ac8b37c168ebba96c626ba9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MTES-139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTES-139"
+  },
+  {
+    "id": 19580,
+    "IDcode": "TEK-067",
+    "title": "TEK-067 桃之夭夭三上公主（蓝光光盘）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "芸能人",
+      "美少女",
+      "艺人",
+      "无码破解",
+      "单人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2015-06-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-067.jpg",
+    "actress": [
+      "三上悠亜",
+      "しみけん",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-067"
+  },
+  {
+    "id": 19535,
+    "IDcode": "TEK-071",
+    "title": "TEK-071 快乐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码破解",
+      "芸能人",
+      "美少女",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-01-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-071.jpg",
+    "actress": [
+      "三上悠亜",
+      "清水健",
+      "しみけん",
+      "玉木玲",
+      "黒田悠斗",
+      "阿川阳志"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-071"
+  },
+  {
+    "id": 19575,
+    "IDcode": "TEK-072",
+    "title": "TEK-072 高潮 x 4 本番：三上雄亚（蓝光光碟）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "芸能人",
+      "飯店",
+      "美少女",
+      "艺人",
+      "无码破解",
+      "单人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-072.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-072"
+  },
+  {
+    "id": 226239,
+    "IDcode": "TEK-073",
+    "title": "TEK-073 我的女朋友是三上悠亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码破解",
+      "主观视角",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-073.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-073"
+  },
+  {
+    "id": 557386,
+    "IDcode": "TEK-074",
+    "title": "TEK-074 发现长崎美晴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "单人作品",
+      "巨乳",
+      "艺人"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-04-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-074.jpg",
+    "actress": [
+      "羽笑美晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-074"
+  },
+  {
+    "id": 97709,
+    "IDcode": "TEK-076",
+    "title": "TEK-076 偶像服务的最高等级的五星级泡泡浴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码破解",
+      "单体作品",
+      "妓女",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-05-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-076.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-076"
+  },
+  {
+    "id": 35587,
+    "IDcode": "TEK-077",
+    "title": "TEK-077 凹版四天王 Takasho MUTEKI 首次亮相 Shoko Takahashi",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "艺人",
+      "无码破解",
+      "单人作品",
+      "颜射",
+      "巨乳",
+      "单体作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-05-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-077.jpg",
+    "actress": [
+      "高桥圣子",
+      "しみけん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-077"
+  },
+  {
+    "id": 97732,
+    "IDcode": "TEK-079",
+    "title": "TEK-079 放学后和女学生偶像做爱吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "无码破解",
+      "单体作品",
+      "高中女生",
+      "女学生",
+      "艺人",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-06-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-079.jpg",
+    "actress": [
+      "三上悠亜",
+      "玉木玲",
+      "大泽真司",
+      "贞松大辅",
+      "平田司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-079"
+  },
+  {
+    "id": 220619,
+    "IDcode": "TEK-080",
+    "title": "TEK-080 唾液横流的浓吻性爱，Yua Mikami。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艺人",
+      "接吻",
+      "无码破解",
+      "淫妻",
+      "单人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-07-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-080.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-080"
+  },
+  {
+    "id": 226426,
+    "IDcode": "TEK-081",
+    "title": "TEK-081 快感喷溅！第一次喷水的美妙感觉 - Yuua Mikami",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "艺人",
+      "无码破解",
+      "单人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-08-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-081.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-081"
+  },
+  {
+    "id": 226837,
+    "IDcode": "TEK-083",
+    "title": "TEK-083 动弹不得的偶像--Yuua Mikami，反复享受性爱的快感和高潮。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艺人",
+      "无码破解",
+      "单人作品",
+      "巨乳",
+      "拘束"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2016-09-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-083.jpg",
+    "actress": [
+      "三上悠亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-083"
+  },
+  {
+    "id": 514474,
+    "IDcode": "TEK-093",
+    "title": "TEK-093 雪崩 梅洛-今井（蓝光影碟）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "艺人",
+      "单人作品",
+      "调教",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2017-06-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-093.jpg",
+    "actress": [
+      "今井梦露"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-093"
+  },
+  {
+    "id": 220968,
+    "IDcode": "TEK-096",
+    "title": "TEK-096 FUCK STAGE Moko Sakura",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "出道作",
+      "4P",
+      "艺人",
+      "口交",
+      "单人作品"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2017-11-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-096.jpg",
+    "actress": [
+      "櫻萌子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-096"
+  },
+  {
+    "id": 104371,
+    "IDcode": "TEK-097",
+    "title": "TEK-097 两人所向披靡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P",
+      "两男两女",
+      "4P",
+      "艺人",
+      "无码破解",
+      "MMFF",
+      "多P",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2018-12-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-097.jpg",
+    "actress": [
+      "三上悠亜",
+      "高桥圣子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-097"
+  },
+  {
+    "id": 155772,
+    "IDcode": "TEK-098",
+    "title": "TEK-098 2025 年凹版印刷排名第一的 Kaworu Anzui MUTEKI 首次亮相 Kaworu Anzui（蓝光光盘）。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "中文字幕",
+      "单人作品",
+      "偶像",
+      "巨乳",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2021-02-01",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-098.jpg",
+    "actress": [
+      "安位薫",
+      "安位薰"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-098"
+  },
+  {
+    "id": 15654,
+    "IDcode": "TEK-099",
+    "title": "TEK-099 18Gold 金松季歩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星臉",
+      "性感",
+      "偶像",
+      "美臀",
+      "脚控・戀足癖",
+      "女上位",
+      "絕頂高潮",
+      "单人作品",
+      "胸控・戀乳癖",
+      "美乳",
+      "中出",
+      "出道作",
+      "口交",
+      "色白",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "後入",
+      "纪录片",
+      "形象俱樂部",
+      "企畫",
+      "高顏值",
+      "美腿"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2024-04-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-099.jpg",
+    "actress": [
+      "金松季歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-099"
+  },
+  {
+    "id": 77785,
+    "IDcode": "TEK-100",
+    "title": "TEK-100 我在做 Karen Ishida（蓝光光盘），附 6 张新鲜照片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "首次亮相",
+      "模特",
+      "偶像",
+      "单人作品",
+      "模特儿",
+      "单体作品",
+      "苗条",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2024-09-04",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-100.jpg",
+    "actress": [
+      "石田佳蓮"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-100"
+  },
+  {
+    "id": 5609,
+    "IDcode": "TEK-102",
+    "title": "TEK-102 流淌的河水 志户瑞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "明星臉",
+      "性感",
+      "偶像",
+      "羞恥",
+      "女優訪談",
+      "美臀",
+      "4K",
+      "女上位",
+      "蠻橫嬌羞",
+      "絕頂高潮",
+      "苗條",
+      "单人作品",
+      "胸控・戀乳癖",
+      "單體作品",
+      "女優",
+      "美乳",
+      "乳交",
+      "中出",
+      "出道作",
+      "紀念作",
+      "美少女電影",
+      "清純",
+      "寫真女郎",
+      "口交",
+      "色白",
+      "真實拍攝",
+      "模特",
+      "寫真偶像",
+      "超爆乳",
+      "小隻馬",
+      "騎乗位",
+      "舔陰",
+      "美腳",
+      "巨乳",
+      "比基尼",
+      "後入",
+      "纪录片",
+      "出道作品",
+      "芸能人",
+      "無毛",
+      "形象俱樂部",
+      "美人",
+      "手指插入",
+      "極品美人",
+      "企畫",
+      "清楚系",
+      "高顏值",
+      "真人秀"
+    ],
+    "type": "有码",
+    "company": "MUTEKI",
+    "publish_date": "2025-06-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/TEK-102.jpg",
+    "actress": [
+      "紫藤留衣",
+      "紫堂芮"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-102"
   }
 ];

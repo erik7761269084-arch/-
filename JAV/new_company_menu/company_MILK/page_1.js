@@ -12,7 +12,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220424-1/c963988bb80126b1bd473c7699328e28.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-008.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-008"
   },
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/01/QQ20200702042420b4663.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-019.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-019"
   },
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/ae0b3d51d89639aba81878c406c293c1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-048.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-048"
   },
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/16905_cover_2025-06-09_225801.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-059.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-059"
   },
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2019-08-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/f3bfa75b5ddb836a79419b800e4fe99a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-061.jpg",
     "actress": [
       "妃月るい"
     ],
@@ -188,7 +188,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240918-1/1a0a667fd5e1546f59249c8d1d117adf.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-062.jpg",
     "actress": [
       "冬愛琴音",
       "冬爱琴音"
@@ -212,7 +212,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2019-08-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d0e13ce34578832ddd5f9bbe52d782da.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-063.jpg",
     "actress": [
       "胡桃圓"
     ],
@@ -232,7 +232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2019-12-12",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1240milk073/h_1240milk073pl.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-073.jpg",
     "actress": [
       "冬爱琴音"
     ],
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2019-12-12",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/a14bf4812b50a24e3f2e69b983760385.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-075.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-075"
   },
@@ -318,7 +318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ffe015a61ea50f538f42bec121cfe6ee.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-089.jpg",
     "actress": [
       "新村晶"
     ],
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/IWgZatOy/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-108.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-108"
   },
@@ -352,7 +352,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/00e41283ea6308a61dfd76701b275485.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-109.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-109"
   },
@@ -367,7 +367,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/23/927be39d9c5b2ed9ff64528da56541d4.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-112.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-112"
   },
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240302/MILK118.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-118.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-118"
   },
@@ -401,7 +401,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250427/fGeYK7Sa/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-119.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-119"
   },
@@ -416,7 +416,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/04dde1779b0e18b3b3d266dfec69eb02.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-120.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-120"
   },
@@ -433,7 +433,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/1Xo0jcar.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-121.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-121"
   },
@@ -448,7 +448,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/29/39b85009faf7d4a524f017a77dd8712c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-122.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-122"
   },
@@ -469,7 +469,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/08/9693c03b995a29af4078caa1dfc22030.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-123.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-123"
   },
@@ -491,7 +491,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-01-06",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230125-1/1a010f3342bd70771d491fe5c462bdb8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-130.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-130"
   },
@@ -512,7 +512,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/0e9da817dfae8fed2f6190f7fe79ac57.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-131.jpg",
     "actress": [
       "新村晶"
     ],
@@ -521,23 +521,29 @@ window.PAGE_DATA = [
   {
     "id": 85473,
     "IDcode": "MILK-132",
-    "title": "每周5次骚扰她胸部的老板-一条みお",
+    "title": "MILK-132 被最讨厌的上司每周5次调教胸部 精力旺盛大叔持续的乳头调教让她堕落 成为立即高潮敏感体质的备孕OL",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
+      "白天出轨",
+      "剧情",
+      "内射",
+      "戏剧",
+      "NTR",
       "中出",
       "OL",
-      "戏剧",
-      "白天出轨"
+      "单人作品"
     ],
     "type": "有码",
     "company": "MILK",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/d5469d458bef3f12c55962847bcef46d.jpg",
+    "publish_date": "2022-01-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-132.jpg",
     "actress": [
-      "一条美绪"
+      "一条美緒",
+      "一条美绪",
+      "快乐池田"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-132"
   },
@@ -558,7 +564,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250110-1/73deda6ccbc2046f33f434309def6b4f.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-133.jpg",
     "actress": [
       "七瀬いおり"
     ],
@@ -581,7 +587,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-02-03",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/0e360c312b1de1f0ed3a167feb795a36.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-135.jpg",
     "actress": [
       "儿玉玲奈"
     ],
@@ -590,16 +596,26 @@ window.PAGE_DATA = [
   {
     "id": 217577,
     "IDcode": "MILK-136",
-    "title": "性报复-新井リマ",
+    "title": "MILK-136 叫应召女郎没想到是曾经欺负过我的不良少女用肉棒展开复仇",
     "year": "",
     "country": "",
     "genre": "",
-    "genres": [],
+    "genres": [
+      "拘束",
+      "内射",
+      "监禁",
+      "玩具",
+      "美少女",
+      "单人作品"
+    ],
     "type": "有码",
     "company": "MILK",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/746d7b151e2d9c11b1cd7131b931438d.jpg",
-    "actress": [],
+    "publish_date": "2022-03-03",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-136.jpg",
+    "actress": [
+      "新井里真",
+      "向理来"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-136"
   },
   {
@@ -620,7 +636,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bdf0174e7d663df4abd08d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-137.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-137"
   },
@@ -641,7 +657,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-03-03",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230303-1/3d3806221bf69870b3b44413f1a0bf41.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-138.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-138"
   },
@@ -656,7 +672,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/pTz1vsnx.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-139.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-139"
   },
@@ -679,7 +695,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/c532afe532516a5caa4734842fe4a86e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-140.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-140"
   },
@@ -701,7 +717,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/5d8ce8ef13a91a61fbf07f82076a1f7e.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-141.jpg",
     "actress": [
       "新村晶"
     ],
@@ -726,7 +742,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-05-05",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230329-1/adced584b9b74a3400fb954c4e1b754d.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-142.jpg",
     "actress": [
       "望月理沙",
       "向理来"
@@ -744,7 +760,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6225659e96fcbbfdaca70c204a9184b2.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-143.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-143"
   },
@@ -766,7 +782,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-05-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/367d873d84546735647eec0824f5dc42.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-144.jpg",
     "actress": [
       "向理来"
     ],
@@ -790,7 +806,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-06-02",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/LYE8GjTC.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-145.jpg",
     "actress": [
       "枢木葵"
     ],
@@ -814,7 +830,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-06-02",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/RLj1ZxDG.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-146.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-146"
   },
@@ -829,7 +845,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c02e28e775556ff80554ed4c1dbae635.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-149.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-149"
   },
@@ -844,7 +860,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230415/h_1240milk150pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-150.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-150"
   },
@@ -866,7 +882,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2022-08-04",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b9d89a1ccfcc92a760abd18045d936e0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-151.jpg",
     "actress": [
       "弥生美月"
     ],
@@ -883,7 +899,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/38031da609a0b9cfc100df926bf871a5.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-152.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-152"
   },
@@ -898,7 +914,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d7dab40ca5a614921d22ff59598efcde.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-153.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-153"
   },
@@ -923,34 +939,11 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/ab8b29d63ce3997afbe9c236c066b8c8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-154.jpg",
     "actress": [
       "夏希栗"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-154"
-  },
-  {
-    "id": 85570,
-    "IDcode": "MILK-155",
-    "title": "儿时伙伴的姐姐挑逗-結城のの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "单体作品",
-      "乱伦",
-      "中出",
-      "美少女电影",
-      "姐姐",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/d03437d86481e2854bc106f8713ae8d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-155"
   },
   {
     "id": 85529,
@@ -969,7 +962,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-8/4f7e8f7c73375d825d2340e97b3492a8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-156.jpg",
     "actress": [
       "河合阳菜"
     ],
@@ -986,7 +979,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c708b2cf7fca2b78e5e4d246d0c2f64a.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-157.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-157"
   },
@@ -1003,7 +996,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0f0d1d99cd23e3e423b64a07aa9b25aa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-159.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-159"
   },
@@ -1018,30 +1011,35 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3d2c34e7d663df497814a/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-163.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-163"
   },
   {
     "id": 92338,
     "IDcode": "MILK-164",
-    "title": "裸体治疗师-結城のの",
+    "title": "MILK-164 全裸技师，按摩时私处和肛门随便看，甚至舔舐和触摸都完全OK，超神级焕新男士美学！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "荡妇",
       "单体作品",
-      "美少女电影",
       "按摩",
-      "苗条",
-      "美容院"
+      "美容院",
+      "美容店",
+      "美少女电影",
+      "荡妇",
+      "美少女",
+      "单人作品",
+      "苗条"
     ],
     "type": "有码",
     "company": "MILK",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/9cddac2a7fdd1543b2621879d8a4961f.jpg",
-    "actress": [],
+    "publish_date": "2023-02-02",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-164.jpg",
+    "actress": [
+      "结城乃乃"
+    ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-164"
   },
   {
@@ -1062,7 +1060,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/3c6cf68beb00ea0cbd75233f24c85d56.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-165.jpg",
     "actress": [
       "枢木葵"
     ],
@@ -1086,7 +1084,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c35ef7cf22ae3e040e7e86/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-166.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-166"
   },
@@ -1108,7 +1106,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/30/683949bf0b69f1d8162e6f23/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-167.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-167"
   },
@@ -1123,7 +1121,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5e7c89def9b1b80da490/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-168.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-168"
   },
@@ -1145,7 +1143,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/5f1227cc73b9991ca03427d7bae2a4b8.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-169.jpg",
     "actress": [
       "天馬唯"
     ],
@@ -1167,7 +1165,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/649d60b7b427fa1360b6212bdbf8c9f0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-170.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-170"
   },
@@ -1182,7 +1180,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5e2589def9b1b80da3b5/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-171.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-171"
   },
@@ -1197,7 +1195,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/X9KFyLzr.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-172.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-172"
   },
@@ -1212,7 +1210,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230929/h_1240milk173pl.jpg!320x216.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-173.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-173"
   },
@@ -1234,7 +1232,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/62c1c919edaac556a6b6f22013ae4655.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-174.jpg",
     "actress": [
       "初音實"
     ],
@@ -1251,7 +1249,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/vOAHEs73/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-175.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-175"
   },
@@ -1266,7 +1264,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4643c179ffb1db9cdf58/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-176.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-176"
   },
@@ -1281,7 +1279,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/AcgnarhE/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-177.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-177"
   },
@@ -1303,7 +1301,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/f78685317c0ec01759e3594cabf57f63.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-178.jpg",
     "actress": [
       "望月綾香"
     ],
@@ -1320,7 +1318,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230811/3QXPBF3P/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-179.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-179"
   },
@@ -1335,7 +1333,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789eb36f9a2e9b1d4adb0be/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-180.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-180"
   },
@@ -1350,7 +1348,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230809/0jYOiTGH/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-181.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-181"
   },
@@ -1365,7 +1363,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789ea5ef9a2e9b1d4ad8bb8/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-182.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-182"
   },
@@ -1389,7 +1387,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/df5715f37994c3c400bd298804c0f7af.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-183.jpg",
     "actress": [
       "南梨央奈"
     ],
@@ -1412,7 +1410,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68355744d6dba345750f7d21/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-184.jpg",
     "actress": [
       "桐香悠裡"
     ],
@@ -1429,7 +1427,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230915/gT81pPHc/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-185.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-185"
   },
@@ -1454,7 +1452,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2023-10-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231006/7274d62e-35a9-4eb9-be48-65955645ddbb.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-186.jpg",
     "actress": [
       "新村朱里"
     ],
@@ -1478,7 +1476,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/99df9ff31fac6b9dd6d073980976b22b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-187.jpg",
     "actress": [
       "椿莉香"
     ],
@@ -1506,7 +1504,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/5036a33f540006585397233156a433d0.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-188.jpg",
     "actress": [
       "児玉れな",
       "儿玉玲奈"
@@ -1540,7 +1538,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893fc889def9b1b8096237/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-189.jpg",
     "actress": [
       "冬愛琴音"
     ],
@@ -1557,7 +1555,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231103/x8ZHHvsS/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-190.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-190"
   },
@@ -1572,7 +1570,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231103/g75gnBKx/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-191.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-191"
   },
@@ -1589,7 +1587,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/BUGAHcWs/1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-192.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-192"
   },
@@ -1610,7 +1608,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2023-12-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231207/6a3bf4cc-5669-4970-acae-b336bd8902d9.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-193.jpg",
     "actress": [
       "一条美緒"
     ],
@@ -1634,7 +1632,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240102-1/dd52cbc6b5b50c054bbff26bc8c87a6c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-194.jpg",
     "actress": [
       "河合阳菜"
     ],
@@ -1659,7 +1657,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-01-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240104/8fb5aea0-65e5-4803-b781-90afa0841144.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-195.jpg",
     "actress": [
       "及川海"
     ],
@@ -1687,7 +1685,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-01-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240104/0460bb96-702c-4d66-b0e7-7dd2924a0ffa.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-196.jpg",
     "actress": [
       "新村朱里"
     ],
@@ -1710,7 +1708,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-01-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240111/1a3c8b1c-ff66-42be-86f3-4ba85d3f057b.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-197.jpg",
     "actress": [
       "望月綾香"
     ],
@@ -1750,7 +1748,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-02-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240201/420fff18-c1ad-4e8e-8943-af8c25d6a951.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-198.jpg",
     "actress": [
       "円井萌華"
     ],
@@ -1788,7 +1786,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a488fac813dc779d96238/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-199.jpg",
     "actress": [
       "百咲未色"
     ],
@@ -1831,7 +1829,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-02-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20240215/e2a294c3-b2bf-4dc1-906a-b0f8ff6cbf70.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-200.jpg",
     "actress": [
       "千石もなか"
     ],
@@ -1848,7 +1846,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0dcb14e7d663df4516750/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-201.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-201"
   },
@@ -1863,7 +1861,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a3132ac813dc779d9612d/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-202.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-202"
   },
@@ -1884,7 +1882,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240413-1/b7b2bb05a64f43a2eae35e45ae0467a3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-203.jpg",
     "actress": [
       "日向ひかげ"
     ],
@@ -1912,7 +1910,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "2024-04-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240404/afc87465-d57a-4f0f-8a89-4964ae71cb9c.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-204.jpg",
     "actress": [
       "及川海"
     ],
@@ -1929,7 +1927,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bc7c2a47ebb1a8b4bc67/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-205.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-205"
   },
@@ -1944,7 +1942,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c37e2a47ebb1a8b4cde2/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-206.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-206"
   },
@@ -1971,7 +1969,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20241114-1/b958478febe38e388e7f8e0aa29ca1e1.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-207.jpg",
     "actress": [
       "橘京花"
     ],
@@ -2008,7 +2006,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec039652c12b4e68460f17/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-208.jpg",
     "actress": [
       "天馬唯"
     ],
@@ -2045,7 +2043,7 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240706-1/c3811d709aaa8a2bd30759f5bf30aafd.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-209.jpg",
     "actress": [
       "结城乃乃"
     ],
@@ -2080,10 +2078,51 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "MILK",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0da61cf22ae3e04a024a5/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-210.jpg",
     "actress": [
       "桐香悠裡"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-210"
+  },
+  {
+    "id": 14186,
+    "IDcode": "MILK-211",
+    "title": "肉便器志願的變態美少女 飲尿x浴尿x深喉 ~ 鈴音杏夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "性虐癖",
+      "蕩婦",
+      "口爆",
+      "深喉",
+      "喝尿",
+      "重口味",
+      "中出",
+      "美少女電影",
+      "美少女",
+      "無毛",
+      "女優",
+      "企畫",
+      "變態",
+      "暗黑系",
+      "導尿",
+      "羞恥",
+      "美乳",
+      "吞精",
+      "口交",
+      "潮吹",
+      "放尿",
+      "白眼失神"
+    ],
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-06-06",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/JAV_COVER/main/日本AV/正式封面/MILK-211.jpg",
+    "actress": [
+      "鈴音杏夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-211"
   }
 ];
