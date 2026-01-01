@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>黑白局 - 线上看</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; background: #2c2c2c; color: #fff; margin: 0; padding: 0; }
+    .container { max-width: 1200px; margin: 20px auto; padding: 0 10px; }
+    .player { margin-bottom: 15px; position: relative; }
+    video { width: 100%; background: black; touch-action: pan-y; }
+
+    #overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(0,0,0,0.5);
+      font-size: 22px;
+      font-weight: bold;
+      opacity: 0;
+      pointer-events: none;
+      transition: .3s;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .nav-buttons,
+    .input-box {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin: 10px 0;
+      flex-wrap: wrap;
+    }
+
+    button {
+      background: #444;
+      color: #fff;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover { background: #555; }
+
+    input {
+      width: 420px;
+      max-width: 100%;
+      padding: 10px;
+      border-radius: 4px;
+      border: none;
+      outline: none;
+    }
+
+    .playlist {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 15px;
+    }
+
+    .playlist button.active {
+      background: #1e90ff;
+    }
+
+    .details {
+      background: #1c1c1c;
+      padding: 15px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+
+  <div class="player">
+    <video id="video" controls playsinline></video>
+    <div id="overlay"></div>
+  </div>
+
+  <!-- ✅ m3u8 输入框 -->
+  <div class="input-box">
+    <input id="m3u8Input" placeholder="粘贴 m3u8 播放链接，例如 https://xxx/playlist.m3u8">
+    <button onclick="playCustom()">播放链接</button>
+  </div>
+
+  <div class="nav-buttons">
+    <button id="prev">上一集</button>
+    <button id="next">下一集</button>
+  </div>
+
+  <div class="playlist" id="playlist"></div>
+
+  <div class="details">
+    <h1 id="title">黑白局 - 電視劇</h1>
+  </div>
+</div>
+
+<script>
+const episodes = {
+  "第1集": "https://xibaocj.com/video/m3u8/202505/28/cee09d4dd5f8/playlist.m3u8"
+};
+
+const video = document.getElementById('video');
+const playlist = document.getElementById('playlist');
+const overlay = document.getElementById('overlay');
+
+let hls = null;
+let currentIndex = 0;
+let customPlaying = false;
+
+// 核心播放函数
+function playUrl(url) {
+  if (hls) {
+    hls.destroy();
+    hls = null;
+  }
+
+  if (Hls.isSupported()) {
+    hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+  } else {
+    video.src = url;
+    video.play();
+  }
+}
+
+// 加载选集
+function loadEpisode(index, btn) {
+  customPlaying = false;
+  playUrl(Object.values(episodes)[index]);
+
+  document.querySelectorAll('.playlist button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  currentIndex = index;
+}
+
+// 自定义播放
+function playCustom() {
+  const url = document.getElementById('m3u8Input').value.trim();
+  if (!url) return alert("请输入 m3u8 链接");
+
+  customPlaying = true;
+  playUrl(url);
+  document.querySelectorAll('.playlist button').forEach(b => b.classList.remove('active'));
+}
+
+// 浮层
+video.addEventListener('pause', () => {
+  const title = document.getElementById('title').textContent;
+  overlay.textContent = customPlaying ? title + " - 自定义播放" : title + " - " + Object.keys(episodes)[currentIndex];
+  overlay.style.opacity = 1;
+});
+video.addEventListener('play', () => overlay.style.opacity = 0);
+
+// 生成按钮
+Object.entries(episodes).forEach(([name], index) => {
+  const btn = document.createElement('button');
+  btn.textContent = name;
+  btn.onclick = () => loadEpisode(index, btn);
+  playlist.appendChild(btn);
+});
+
+// 上一集 / 下一集
+prev.onclick = () => currentIndex > 0 && loadEpisode(currentIndex - 1, playlist.children[currentIndex - 1]);
+next.onclick = () => currentIndex < playlist.children.length - 1 && loadEpisode(currentIndex + 1, playlist.children[currentIndex + 1]);
+
+// 默认播放
+const firstBtn = playlist.querySelector('button');
+firstBtn.classList.add('active');
+loadEpisode(0, firstBtn);
+</script>
+
+</body>
+</html>
